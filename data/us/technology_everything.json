@@ -6,9 +6,22 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-10-31T13:55:39.029134+00:00",
-  "articles_count": 32,
+  "fetched_at": "2026-10-31T17:59:30.298097+00:00",
+  "articles_count": 34,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "David Yaffe-Bellany",
+      "title": "How Binance’s $6.3 Billion Hack Went Down",
+      "description": "A war room. A global conference call. A founder who live-posted about the largest crypto heist in history. Inside a frantic 24 hours at the world’s biggest crypto exchange.",
+      "url": "https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/01/business/00biz-binance-ticktock/00biz-binance-ticktock-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-31T17:51:04Z",
+      "content": "A war room. A global conference call. A founder who live-posted about the largest crypto heist in history. Inside a frantic 24 hours at the world’s biggest crypto exchange."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -45,7 +58,7 @@
       "description": "AO3, which hosts 18 million stories spun off from the likes of “Harry Potter” and “Heated Rivalry,” was taken offline after “an intrusion,” one of its founders said.",
       "url": "https://www.nytimes.com/2026/10/30/arts/ao3-fan-fiction-site-down.html",
       "urlToImage": null,
-      "publishedAt": "2026-10-30T23:39:37Z",
+      "publishedAt": "2026-10-30T23:39:38Z",
       "content": "AO3, which hosts 18 million stories spun off from the likes of “Harry Potter” and “Heated Rivalry,” was taken offline after “an intrusion,” one of its founders said."
     },
     {
@@ -112,6 +125,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-binance-cjwh/29biz-binance-cjwh-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-30T15:16:55Z",
       "content": "The crypto exchange said it was compromised in what could be the biggest crypto heist ever. One research lab attributed the theft to “North Korea’s elite hacking unit.”"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "AI-powered cyberattacks fuel 'Black October' fears",
+      "description": "A startup founder woke to $449 in unexpected OpenAI and Anthropic charges after stolen API keys were exploited during the \"Black October\" cyber wave.",
+      "url": "https://www.foxnews.com/tech/ai-powered-cyberattacks-fuel-black-october-fears",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/cybersecurity-cyber-defense-center.jpg",
+      "publishedAt": "2026-10-30T14:20:43Z",
+      "content": "Startup founder Colin Parsons woke up to roughly 50 billing notifications he never expected. He reported that his OpenAI and Anthropic accounts had racked up $449 in charges he didn't recognize. It w… [+18849 chars]"
     },
     {
       "source": {

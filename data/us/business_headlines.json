@@ -6,9 +6,48 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-10-31T13:55:39.029134+00:00",
-  "articles_count": 97,
+  "fetched_at": "2026-10-31T17:59:30.298097+00:00",
+  "articles_count": 92,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "David Yaffe-Bellany",
+      "title": "How Binance’s $6.3 Billion Hack Went Down",
+      "description": "A war room. A global conference call. A founder who live-posted about the largest crypto heist in history. Inside a frantic 24 hours at the world’s biggest crypto exchange.",
+      "url": "https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/01/business/00biz-binance-ticktock/00biz-binance-ticktock-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-31T17:51:04Z",
+      "content": "A war room. A global conference call. A founder who live-posted about the largest crypto heist in history. Inside a frantic 24 hours at the world’s biggest crypto exchange."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Mark Walker",
+      "title": "F.D.A. Warns of Tractor Wheels Snack Bar Linked to Choking Hazard",
+      "description": "Once Upon a Farm has recalled its Tractor Wheels soft-baked bars after reports that toddlers could not breathe while eating them.",
+      "url": "https://www.nytimes.com/2026/10/31/well/family/fda-tractor-wheels-choking-hazard.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-31T15:43:44Z",
+      "content": "Once Upon a Farm has recalled its Tractor Wheels soft-baked bars after reports that toddlers could not breathe while eating them."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Mike Dang, Haimy Assefa, Gabriel Blanco, Talya Minsberg and Dan Powell",
+      "title": "What Does Running the N.Y.C. Marathon Sound Like?",
+      "description": "Mike Dang, a 10-time marathoner and New York Times business editor, relives the unique sonic experience of running the New York City Marathon.",
+      "url": "https://www.nytimes.com/video/business/100000011219428/what-does-running-the-nyc-marathon-sound-like.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-31T15:06:50Z",
+      "content": "Mike Dang, a 10-time marathoner and New York Times business editor, relives the unique sonic experience of running the New York City Marathon."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -19,7 +58,7 @@
       "description": "Big law firms, legal tech vendors, and in-house legal departments at companies like Microsoft and Nvidia are all hiring legal engineers, a new position for lawyers with A.I. skills.",
       "url": "https://www.nytimes.com/2026/10/31/business/dealbook/legal-engineer-ai-law.html",
       "urlToImage": "https://static01.nyt.com/images/2026/10/31/multimedia/31DB-legal-engineers-puri-gzhc/31DB-legal-engineers-puri-gzhc-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-31T12:00:03Z",
+      "publishedAt": "2026-10-31T14:48:29Z",
       "content": "Big law firms, legal tech vendors, and in-house legal departments at companies like Microsoft and Nvidia are all hiring legal engineers, a new position for lawyers with A.I. skills."
     },
     {
@@ -45,7 +84,7 @@
       "description": "More horses from overseas are competing in America’s marquee events, as the sport enjoys a renaissance.",
       "url": "https://www.nytimes.com/2026/10/31/business/breeders-cup-thoroughbreds-keeneland-saratoga-sales.html",
       "urlToImage": "https://static01.nyt.com/images/2026/10/28/multimedia/00Biz-sheikhbreederscup-wpvt/00Biz-sheikhbreederscup-wpvt-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-31T09:02:09Z",
+      "publishedAt": "2026-10-31T09:02:10Z",
       "content": "More horses from overseas are competing in America’s marquee events, as the sport enjoys a renaissance."
     },
     {
@@ -60,19 +99,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/03/well/31Well-NOA-Social-Security/31Well-NOA-Social-Security-mediumSquareAt3X-v4.jpg",
       "publishedAt": "2026-10-31T09:01:51Z",
       "content": "Experts point to well-publicized turmoil at the government agency last year as a potential spark."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Mike Dang, Haimy Assefa, Gabriel Blanco, Talya Minsberg and Dan Powell",
-      "title": "What Does Running the N.Y.C. Marathon Sound Like?",
-      "description": "Mike Dang, a 10-time marathoner and New York Times business editor, relives the unique sonic experience of running the New York City Marathon.",
-      "url": "https://www.nytimes.com/video/business/100000011219428/what-does-running-the-nyc-marathon-sound-like.html",
-      "urlToImage": null,
-      "publishedAt": "2026-10-31T09:01:34Z",
-      "content": "Mike Dang, a 10-time marathoner and New York Times business editor, relives the unique sonic experience of running the New York City Marathon."
     },
     {
       "source": {
@@ -271,6 +297,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Robert Ferris",
+      "title": "Cheaper cars are selling considerably faster than at the beginning of the year - CNBC",
+      "description": "Data indicate cheap cars are selling fast, but a few lower-priced segments still saw sales drop in the third quarter. Here's what might be happening.",
+      "url": "https://www.cnbc.com/2026/10/30/cheap-cars-selling-fast.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108469843-1793120851883-gettyimages-2277553026-yanow-carsales260523_npQhV.jpeg?v=1793120980&w=1920&h=1080",
+      "publishedAt": "2026-10-30T15:37:21Z",
+      "content": "Consumers are concerned about rising fuel prices and affordability and that could be showing up in how fast the least expensive cars are moving off dealer lots.\r\nFrom the first quarter to the third, … [+6703 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -281,6 +320,32 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-binance-cjwh/29biz-binance-cjwh-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-30T15:16:55Z",
       "content": "The crypto exchange said it was compromised in what could be the biggest crypto heist ever. One research lab attributed the theft to “North Korea’s elite hacking unit.”"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Kate Dore, CFP®, EA",
+      "title": "Treasury Department announces new Series I bond rate of 5.51% for the next six months - CNBC",
+      "description": "The U.S. Department of the Treasury has announced new Series I bond rates through April 2027.",
+      "url": "https://www.cnbc.com/2026/10/30/treasury-i-bond-rate-through-april-2027.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107111194-1661861669261-gettyimages-1335987568-savingsbonds21ii.jpeg?v=1697217796&w=1920&h=1080",
+      "publishedAt": "2026-10-30T14:36:57Z",
+      "content": "The U.S. Department of the Treasury has announced new rates for Series I bonds. \r\nNewly purchased I bonds will pay 5.51% annual interest from Nov. 1 through April 30, which is up from the 4.26% yield… [+3198 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Steve Kopack",
+      "title": "ExxonMobil and Chevron report blowout profits as Trump touts benefits of high oil prices - NBC News",
+      "description": "The two largest U.S. oil companies, ExxonMobil and Chevron reported blowout profits as oil prices remain sharply elevated due to the U.S. war with Iran.",
+      "url": "https://www.nbcnews.com/business/energy/exxonmobil-chevron-profits-trump-high-oil-prices-rcna606524",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261030-nyse-ch-0931-fb24d1.jpg",
+      "publishedAt": "2026-10-30T14:35:06Z",
+      "content": "Its a good time to be an oil company.\r\nThe two largest U.S. oil companies, ExxonMobil and Chevron, on Friday reported blowout profits that easily beat expectations as oil prices remain sharply elevat… [+4172 chars]"
     },
     {
       "source": {
@@ -310,6 +375,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Britney Nguyen, Nora Redmond",
+      "title": "Why Intel’s stock is sinking toward its worst day in decades — and a $140 billion wipeout - MarketWatch",
+      "description": "Intel’s PC business is under pressure as memory-chip prices dent demand and as corporate IT teams have less budget for laptops",
+      "url": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7",
+      "urlToImage": "https://images.mktw.net/im-37901280/social",
+      "publishedAt": "2026-10-30T14:10:00Z",
+      "content": "Intel is on track to lose $140 billion in market capitalization on Friday as a personal-computer slowdown spooks investors.\r\nThe chip company blamed a weak PC market for a revenue forecast that came … [+291 chars]"
+    },
+    {
+      "source": {
         "id": "the-wall-street-journal",
         "name": "The Wall Street Journal"
       },
@@ -320,19 +398,6 @@
       "urlToImage": null,
       "publishedAt": "2026-10-30T13:47:00Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Ian King",
-      "title": "Intel Plunges After PC Slump and Supply Snags Hurt Outlook - Bloomberg",
-      "description": "Intel Corp.’s shares plummeted the most in more than two years after its revenue forecast missed analysts’ estimates, hurt by sputtering demand for PC processors and supply-chain problems with its lucrative data center components.",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-29/intel-outlook-hurt-by-weak-market-for-personal-computer-chips",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEkj17maZiHY/v0/1200x799.jpg",
-      "publishedAt": "2026-10-30T13:39:53Z",
-      "content": "Intel Corp.s shares plummeted the most in more than two years after its revenue forecast missed analysts estimates, hurt by sputtering demand for PC processors and supply-chain problems with its lucr… [+404 chars]"
     },
     {
       "source": {
@@ -363,6 +428,19 @@
     {
       "source": {
         "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Brian Sozzi",
+      "title": "Alphabet stock crash leaves this trading metric at a level not seen in more than a decade - Yahoo Finance",
+      "description": "It's almost astonishing to see Alphabet shares trading at these levels.",
+      "url": "https://finance.yahoo.com/markets/stocks/article/alphabet-stock-crash-leaves-this-trading-metric-at-a-level-not-seen-in-more-than-a-decade-125026796.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/15e44288b0ff5dc31b48d44884607131b1c6825ceaf1c064b2d469e1c25868de/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fgettyimages-2286485792-1_1792.jpg",
+      "publishedAt": "2026-10-30T12:50:26Z",
+      "content": "Investing in the future of internet search and YouTube has rarely been this cheap.\r\nShares of Alphabet (GOOGL) are trading at a price-to-earnings (P/E) ratio not seen since 2012, Yahoo Finance AlphaS… [+1741 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Financial Times"
       },
       "author": null,
@@ -376,41 +454,28 @@
     {
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "BBC News"
       },
-      "author": "Kai Nicol-Schwarz",
-      "title": "The big questions remaining after Anthropic’s blockbuster IPO prospectus - CNBC",
-      "description": "Uncertainties remain ahead of one of the most hotly anticipated IPOs in history.",
-      "url": "https://www.cnbc.com/2026/10/30/anthropic-ipo-s1-revenue-compute.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108469372-1793113061851-gettyimages-2301777451-boivin-photoill261027_npxLq.jpeg?v=1793113123&w=1920&h=1080",
-      "publishedAt": "2026-10-30T12:26:03Z",
-      "content": "This report is from this week's The Tech Download newsletter. Like what you see? You can subscribe here.\r\nAnthropic's over 300 page S-1 filing earlier this week contained a lot of information. It was… [+4326 chars]"
+      "author": null,
+      "title": "China denies allegations of spy operation targeting Nvidia CEO - BBC",
+      "description": "US intelligence officials believe a Chinese businesswoman was gathering information for Beijing on the US chip-making giant, The New York Times reports.",
+      "url": "https://www.bbc.com/news/articles/ckgj9plnlxdeo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/05cc/live/95d8dca0-d447-11f1-97f9-27ebf08d99fe.jpg",
+      "publishedAt": "2026-10-30T12:20:04Z",
+      "content": "US intelligence officials believe that Alice Huang, a Chinese businesswoman linked to Singapore-based data centre firm Megaspeed, was gathering information for Beijing on the US chip-making giant, ac… [+41 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "NPR"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": "Kate Bartlett",
-      "title": "Why is the Cheesecake Factory at the center of the latest culture war? - NPR",
-      "description": "A joke by former President Obama has gone viral and received backlash from the Trump administration as the issue of affordability looms large over next week's midterm elections.",
-      "url": "https://www.npr.org/2026/10/30/nx-s1-6023106/cheesecake-factory-culture-war-affordability-trump-obama",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+54/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F17%2F5b%2Fe7ad0f394e5ca990073747bcaa6b%2Fgettyimages-2213067117.jpg",
-      "publishedAt": "2026-10-30T12:00:31Z",
-      "content": "They say there's no such thing as bad publicity. If that's true it's been a golden week for the Cheesecake Factory restaurant chain.\r\nThe furore began when former President Obama, stumping for Democr… [+4592 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Chris Isidore, Matt Egan",
-      "title": "Big Oil is raking in huge profits. Shareholders like Trump are cashing in. You’re paying for it with high gas prices. - CNN",
-      "description": "Big Oil minted money as the Iran war delivered American drivers the highest gas prices on record for the third quarter.",
-      "url": "https://www.cnn.com/2026/10/30/business/big-oil-profits-trump-gas-prices",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2296974309.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-10-30T11:56:22Z",
-      "content": "Big Oil minted big money as the Iran war delivered American drivers the highest gas prices on record for the third quarter.\r\nThe two biggest US oil companies posted huge jumps in profit on Friday. Ex… [+3221 chars]"
+      "author": "Jonathan M. Gitlin",
+      "title": "2027 Nissan Rogue Hybrid: Drives like an EV, but there’s no plug involved - Ars Technica",
+      "description": "Nissan’s series hybrid e-Power system has been retuned for American roads.",
+      "url": "https://arstechnica.com/cars/2026/10/2027-nissan-rogue-hybrid-drives-like-an-ev-but-theres-no-plug-involved/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/2027-Nissan-Rogue-Hybrid_34-1152x648.jpg",
+      "publishedAt": "2026-10-30T12:00:18Z",
+      "content": null
     },
     {
       "source": {
@@ -441,15 +506,15 @@
     {
       "source": {
         "id": null,
-        "name": "Financial Times"
+        "name": "Yahoo Entertainment"
       },
-      "author": null,
-      "title": "ExxonMobil and Chevron post bumper profits and warn on diesel supplies - Financial Times",
-      "description": "US oil groups are profiting from soaring refining margins because of Donald Trump’s war in Iran",
-      "url": "https://www.ft.com/content/e934d2dd-9d6c-4099-95a5-1c300ed28cbb?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2ef27e55-dfee-4109-b81b-51acd12d4bba.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "publishedAt": "2026-10-30T10:37:17Z",
-      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+      "author": "Sam Boughedda",
+      "title": "Chevron beats estimates as refining margins lift earnings - Yahoo Finance",
+      "description": "Investing.com -- Chevron Corporation (NYSE: CVX) shares are up in premarket trading after the company reported third-quarter earnings that topped expectation...",
+      "url": "https://finance.yahoo.com/energy/articles/chevron-beats-estimates-refining-margins-105702545.html",
+      "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
+      "publishedAt": "2026-10-30T10:57:02Z",
+      "content": "Investing.com -- Chevron Corporation (CVX) shares are up in premarket trading after the company reported third-quarter earnings that topped expectations.\r\nStill guessing which stocks will beat the ma… [+2136 chars]"
     },
     {
       "source": {
@@ -483,9 +548,9 @@
         "name": "Abcnews.com"
       },
       "author": "ABC News - Breaking News, Latest News and Videos",
-      "title": "A 'code red' for cybersecurity? How to prepare for a possible wave of AI hacking - ABC News - Breaking News, Latest News and Videos",
+      "title": "What to know about the US economy as midterm elections near - ABC News - Breaking News, Latest News and Videos",
       "description": null,
-      "url": "https://abcnews.com/Technology/code-red-cybersecurity-prepare-wave-ai-hacking/story?id\\\\u003d137518198",
+      "url": "https://abcnews.com/Business/us-economy-midterm-elections/story?id\\\\u003d137478975",
       "urlToImage": null,
       "publishedAt": "2026-10-30T09:30:58Z",
       "content": null
@@ -493,15 +558,15 @@
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "Abcnews.com"
       },
-      "author": "Brian Sozzi",
-      "title": "Amazon, Alphabet, SpaceX and Meta are all to blame for the new tech stock rout - Yahoo Finance",
-      "description": "The tech stock rout only has one driving factor behind it.",
-      "url": "https://finance.yahoo.com/markets/stocks/article/amazon-alphabet-spacex-and-meta-are-all-to-blame-for-the-new-tech-stock-rout-090324190.html",
-      "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "publishedAt": "2026-10-30T09:03:24Z",
-      "content": "Don't blame Intel's (INTC) weak guidance, tied to a prolonged memory chip supply shortage, for the fresh rout on tech stocks.\r\nBlame the hyperscalers like Amazon (AMZN), Alphabet (GOOGL) and Meta (ME… [+2631 chars]"
+      "author": "ABC News - Breaking News, Latest News and Videos",
+      "title": "A 'code red' for cybersecurity? How to prepare for a possible wave of AI hacking - ABC News - Breaking News, Latest News and Videos",
+      "description": null,
+      "url": "https://abcnews.com/Technology/code-red-cybersecurity-prepare-wave-ai-hacking/story?id\\\\u003d137518198",
+      "urlToImage": null,
+      "publishedAt": "2026-10-30T09:30:58Z",
+      "content": null
     },
     {
       "source": {
@@ -557,16 +622,16 @@
     },
     {
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
+        "id": null,
+        "name": "Fox Business"
       },
-      "author": "Rachel Roubein, Daniel Wu",
-      "title": "RFK Jr. announces latest plans to update infant formula standards - The Washington Post",
-      "description": "HHS said 30 required nutrients will be examined as part of the first review of infant formula’s ingredients and nutrition in nearly three decades.",
-      "url": "https://www.washingtonpost.com/health/2026/10/29/rfk-jr-announces-latest-plans-update-infant-formula-standards/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/LVBE472YIWCBTGOHZIUMVMAZUY.jpg&w=1440",
-      "publishedAt": "2026-10-30T04:01:59Z",
-      "content": "The Trump administration released a plan Thursday to update requirements for certain nutrients in infant formula.\r\nLast year, Health Secretary Robert F. Kennedy Jr. announced an initiative dubbed Ope… [+293 chars]"
+      "author": "Michael Sinkewicz",
+      "title": "Costco Thanksgiving meal 2026: $200 bundle serves 8 with turkey, sides and desserts - Fox Business",
+      "description": "Costco's $199.99 Thanksgiving dinner bundle serves eight with turkey, sides and desserts, but the $70 discount won't last through the holiday.",
+      "url": "https://www.foxbusiness.com/lifestyle/costco-thanksgiving-meal-2026-200-bundle-serves-8-turkey-sides-desserts",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/0/0/costco-thanksgiving-dinner-bundle-2026.jpg?ve=1&tl=1",
+      "publishedAt": "2026-10-30T05:19:00Z",
+      "content": "Costco is offering shoppers a way to simplify Thanksgiving dinner this year with a new $199.99 holiday meal bundle.\r\nThe retail giant said the online-only offering serves eight people and includes tu… [+2382 chars]"
     },
     {
       "source": {
@@ -596,6 +661,19 @@
     },
     {
       "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Chili's customers suffer chemical burns after dangerous margarita mix-up - Fox News",
+      "description": "Three customers and two employees suffered symptoms after an industrial degreaser was mistakenly used to prepare margaritas at a North Carolina Chili's.",
+      "url": "https://www.foxnews.com/us/chilis-customers-suffer-chemical-burns-after-dangerous-margarita-mix-up",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/chilis-redesign-exterior-night.jpg",
+      "publishedAt": "2026-10-30T02:15:22Z",
+      "content": "Multiple customers at a Chili's Grill &amp; Bar reported experiencing chemical burns Wednesday after consuming margaritas that had been prepared with an industrial cleaning chemical that was mistaken… [+2902 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "Motley Fool"
       },
@@ -606,32 +684,6 @@
       "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fbf5dd3c7e5911383631f1a50d2d7c90ab7f1371f-1200x800.png&w=1200&op=resize",
       "publishedAt": "2026-10-30T01:52:00Z",
       "content": "ServiceNow(NOW-26.95%) stock is down sharply on Thursday. As of this writing, the workflow software company's shares are near $112, down about 25% from Wednesday's close of $150.13.\r\nThat puts the st… [+4253 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WLOS"
-      },
-      "author": "Marisa Sardonia & Marc Liverman",
-      "title": "3 customers suffer chemical burns after drinking margaritas at Chili's in North Carolina - WLOS",
-      "description": "An investigation occurred after a chemical exposure incident at a Chili's Grill & Bar in western North Carolina, officials confirmed.",
-      "url": "https://wlos.com/news/local/chemical-exposure-incident-chilis-bar-grill-forest-city-western-north-carolina-investigation-health-burning-margaritas-burns",
-      "urlToImage": "https://wlos.com/resources/media2/16x9/1280/1320/center/90/d71d1f66-dac2-4ad4-9741-9c4302721a33-LUCKADOO7026.MXFframe113.png",
-      "publishedAt": "2026-10-30T01:15:36Z",
-      "content": "FOREST CITY, N.C. (WLOS) An investigation is underway after a chemical exposure incident at a Chili's Grill &amp; Bar in western North Carolina, officials confirmed. \r\nThe incident led to multiple pe… [+3188 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Lucas Ropek",
-      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big. - TechCrunch",
-      "description": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
-      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721",
-      "publishedAt": "2026-10-29T23:42:22Z",
-      "content": "Andy Jassy has made it known that he believes AWS can be a trillion-dollar revenue business. During Amazon’s quarterly earnings call on Thursday, he repeated this ambition.\r\n“What we’re building at A… [+2800 chars]"
     },
     {
       "source": {
@@ -649,28 +701,15 @@
     {
       "source": {
         "id": null,
-        "name": "WDBJ7"
+        "name": "Newser"
       },
-      "author": "Staff- WDBJ7",
-      "title": "Hundreds will lose jobs with Danville plant closure - WDBJ7",
-      "description": "All 251 employees are expected to lose their jobs at what used to be a Nestle plant.",
-      "url": "https://www.wdbj7.com/2026/10/29/hundreds-will-lose-jobs-with-danville-plant-closure/",
-      "urlToImage": "https://gray-wdbj-prod.gtv-cdn.com/resizer/v2/VUZ6CJFJ3ZBOBALZUMJVQFUKOA.jpg?auth=b0dd73086d071a3295e48317f13a1c423faf99d7749f77cb8587795fdc7a0f5d&width=1200&height=600&smart=true",
-      "publishedAt": "2026-10-29T22:39:00Z",
-      "content": "DANVILLE, Va. (WDBJ) - The City of Danville confirms pasta company Buitoni will permanently close its facility December 28.\r\nAll 251 employees are expected to lose their jobs at what used to be a Nes… [+930 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Investor's Business Daily"
-      },
-      "author": null,
-      "title": "SpaceX Wins Target Lift On AI, Data Center Growth. But Is It A Buy? - Investor's Business Daily",
-      "description": "Analysts continue to praise growth in SpaceX's AI, data center business. Morningstar lifts its price target on shares.",
-      "url": "https://www.investors.com/news/spacex-stock-target-mroningstar-fair-value-estimate-data-centers/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2026/06/Stock-SpaceX-phone2-shut.jpg",
-      "publishedAt": "2026-10-29T21:59:00Z",
-      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
+      "author": "John Johnson",
+      "title": "Finland Investigates After Google Clears Forest for AI Site - Newser",
+      "description": "An estimated 400K trees were felled at two sites, and authorities say permits may be lacking",
+      "url": "https://www.newser.com/story/399046/finland-investigates-after-google-clears-forest-for-ai-site.html",
+      "urlToImage": "https://cdn.newser.com/image/1721085-12-20261029170433.jpeg",
+      "publishedAt": "2026-10-29T21:33:00Z",
+      "content": "\"We are investigating whether the company's operations have breached the water act and resulted in environmental damage,\" Detective Superintendent Kari Pakanen tells Reuters. The investigation lands … [+503 chars]"
     },
     {
       "source": {
@@ -684,19 +723,6 @@
       "urlToImage": "https://images.barrons.com/im-63953646/social",
       "publishedAt": "2026-10-29T21:28:00Z",
       "content": "Memory stock companySandiskagain posted quarterly revenue and per-share profit well ahead of expectations, but its shares zigzagged in afternoon trading, suggesting investors wanted more.\r\nCopyright … [+87 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Brooke DiPalma",
-      "title": "Starbucks posts slight revenue miss, earnings beat in Q4 results as CEO says turnaround plan 'is working' - Yahoo Finance",
-      "description": "Starbucks (SBUX) earnings beat expectations on Thursday, as the company looked to move beyond its turnaround plan to accelerate growth.",
-      "url": "https://finance.yahoo.com/markets/stocks/article/starbucks-posts-slight-revenue-miss-earnings-beat-in-q4-results-as-ceo-says-turnaround-plan-is-working-224332480.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/31f8c05425931680264186d109d07e89c2b88e2d636a5394004318e05061c2ee/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F5d9dc761-8a73-461a-9e04-979feff82244",
-      "publishedAt": "2026-10-29T21:13:45Z",
-      "content": "Starbucks (SBUX) reported an earnings beat but fell shy on revenue Thursday, as the company aims to move beyond its turnaround plan to accelerate growth.\r\nFor the fifth consecutive quarter, the coffe… [+3078 chars]"
     },
     {
       "source": {
@@ -723,6 +749,19 @@
       "urlToImage": "https://electrek.co/wp-content/uploads/sites/3/2026/10/rivian-r2-exterior.jpg?quality=82&strip=all&resize=1200,628",
       "publishedAt": "2026-10-29T21:02:00Z",
       "content": "Rivian (RIVN) just released its Q3 2026 earnings, with revenue up 38% year-over-year to $2.155 billion. The R2, in its first full quarter of deliveries, is already the companys best-selling vehicle, … [+6483 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "24/7 Wall St."
+      },
+      "author": "AJ Tiarsmith",
+      "title": "Trump First President To See National Debt Hit 100% Of GDP Since Harry Truman - 24/7 Wall St.",
+      "description": "For the first time in generations, a milestone in the federal debt-to-GDP ratio has arrived that most economists hoped never to see again, and the forces that drove it there make it nearly impossible to reverse.",
+      "url": "https://247wallst.com/investing/2026/10/29/trump-first-president-to-see-national-debt-hit-100-of-gdp-since-harry-truman/",
+      "urlToImage": "https://247wallst.com/wp-content/uploads/2026/10/imageForEntry12-RaA.jpg",
+      "publishedAt": "2026-10-29T20:07:00Z",
+      "content": "For the first time in generations, a milestone in the federal debt-to-GDP ratio has arrived that most economists hoped never to see again, and the forces that drove it there make it nearly impossible… [+4200 chars]"
     },
     {
       "source": {
@@ -766,15 +805,15 @@
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "Investor's Business Daily"
       },
-      "author": "Jake Conley",
-      "title": "Nvidia's relationship with China just got even more complicated as report says Jensen Huang was target of spy plot - Yahoo Finance",
-      "description": "Recent media reports have highlighted Nvidia's delicate relationship with China.",
-      "url": "https://finance.yahoo.com/technology/article/nvidias-relationship-with-china-just-got-even-more-complicated-as-report-says-jensen-huang-was-target-of-spy-plot-182138051.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/b525004a387f50d9635f2bde0696536bc593f7a6986068eae844d88493662db7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F614323eb-fafb-4b59-9f8e-14aa8dcfc25d",
-      "publishedAt": "2026-10-29T18:21:38Z",
-      "content": "Nvidia's (NVDA) business is booming, but one sector of the market remains a seemingly impenetrable morass for the world's leading chip designer: China.\r\nFor years, Nvidia chief executive Jensen Huang… [+6728 chars]"
+      "author": null,
+      "title": "Iovance, A Top 1% Biotech Stock, Crashes In A Surprise Lung Cancer Twist - Investor's Business Daily",
+      "description": "Iovance stock crashed Thursday, undercutting its 50-day line, on new durability questions for its lung cancer treatment.",
+      "url": "https://www.investors.com/news/technology/iovance-stock-lung-cancer-treatment/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2020/07/Stock-cancerblood-02-shutt.jpg",
+      "publishedAt": "2026-10-29T18:51:00Z",
+      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
     },
     {
       "source": {
@@ -882,29 +921,16 @@
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Aisha Malik",
-      "title": "DoorDash to acquire Instacart for $17B - TechCrunch",
-      "description": "The acquisition would bring two major players in on-demand delivery under one roof, combining DoorDash’s dominance in restaurant takeout with Instacart’s reach in grocery delivery.",
-      "url": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1232015093.jpg?resize=1200,800",
-      "publishedAt": "2026-10-29T13:40:57Z",
-      "content": "DoorDash announced on Thursday that it has agreed to acquire rival Instacart for $17 billion. The acquisition would bring two major players in on-demand delivery under one roof, combining DoorDashs d… [+2510 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "Sharon Terlep, Gavin Bade, Owen Tucker-Smith",
-      "title": "Exclusive | Trump Administration Promised Tariff Relief in Talks to Secure U.S. Audi Factory - WSJ",
-      "description": "Audi’s $4 billion Georgia factory announcement came as automakers are seeking relief from tariff pain",
-      "url": "https://www.wsj.com/business/autos/trump-administration-promised-tariff-relief-in-talks-to-secure-u-s-audi-factory-da037c3f",
-      "urlToImage": "https://images.wsj.net/im-20231655/social",
-      "publishedAt": "2026-10-29T13:36:00Z",
-      "content": "The Trump administration has promised to ease tariffs on automakers that commit to more U.S. manufacturing, according to people familiar with the situation. The policy change emerged amid talks to ge… [+417 chars]"
+      "author": "Nilay Patel",
+      "title": "Can Anthropic really become a $10 trillion company? - The Verge",
+      "description": "SemiAnalysis’ Joey Brookhart joins to analyze the Anthropic S-1, and what it tells us about the economics of frontier AI.",
+      "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_DCD_anthropic_IPO.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2026-10-29T14:00:00Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nSemiAnalysis Joey Brookhart helps break down the Anthropic S-1 and why he thinks the company could be worth $10 trillion.\r\nby\r\nNilay PatelClose\r\nPosts from this … [+45024 chars]"
     },
     {
       "source": {
@@ -960,32 +986,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Ftc.gov"
-      },
-      "author": null,
-      "title": "FTC and States Take Action Against Toast Inc. over Hidden and Unauthorized Fees, Deceptive Subscription and Cancellation Practices and Other Unlawful Conduct - Federal Trade Commission (.gov)",
-      "description": "The Federal Trade Commission, the People of the State of California by and through the Los Angeles County Counsel and San Francisco City Attorney, and the Attorneys General of the States of Colorad",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-states-take-action-against-toast-inc-over-hidden-unauthorized-fees-deceptive-subscription",
-      "urlToImage": "https://www.ftc.gov/themes/custom/ftc_uswds/img/ftc_social_share_default_en.jpg",
-      "publishedAt": "2026-10-29T12:16:03Z",
-      "content": "The Federal Trade Commission, the People of the State of California by and through the Los Angeles County Counsel and San Francisco City Attorney, and the Attorneys General of the States of Colorado,… [+7423 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Louis Juricic",
-      "title": "Iovance stock falls after lung cancer trial data disappoints - Yahoo Finance",
-      "description": "Investing.com -- Shares of Iovance Biotherapeutics (NASDAQ: IOVA) initially dropped 15% before recovering to a 6% loss on Thursday after the company shared u...",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/iovance-stock-falls-lung-cancer-114613763.html",
-      "urlToImage": "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png",
-      "publishedAt": "2026-10-29T11:46:13Z",
-      "content": "Investing.com -- Shares of Iovance Biotherapeutics (NASDAQ: IOVA) initially dropped 15% before recovering to a 6% loss on Thursday after the company shared updated trial results for its lung cancer t… [+1912 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1022,19 +1022,6 @@
       "urlToImage": "https://investor.lilly.com/static-files/414b590d-5fd8-4d74-bb91-284a3d77fb98",
       "publishedAt": "2026-10-29T10:45:54Z",
       "content": "<ul><li>Revenue in Q3 2026 increased 39% to $24.4 billion\r\n driven primarily by Mounjaro and Zepbound. </li><li>Q3 revenue included approximately $900 million\r\n of benefits, primarily from $410 milli… [+39246 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Motor1 "
-      },
-      "author": "Adrian Padeanu",
-      "title": "VW Group Says The Quiet Part Out Loud: EVs Are Still Less Profitable Than Gas Cars - Motor1.com",
-      "description": "The VW Group's EV sales are growing, but electric cars remain less profitable than gas models, putting further pressure on already thin profit margins.",
-      "url": "https://www.motor1.com/news/813667/vw-group-electric-cars-less-profitable/",
-      "urlToImage": "https://cdn.motor1.com/images/mgl/Qe7LJO/s1/2026-volkswagen-id.-polo-gti.jpg",
-      "publishedAt": "2026-10-29T10:35:00Z",
-      "content": "The VW Group is struggling to turn its electric vehicle push into stronger profits, with the German automotive conglomerate openly acknowledging that battery-powered cars still generate lower earning… [+4841 chars]"
     },
     {
       "source": {
@@ -1090,32 +1077,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Internet"
-      },
-      "author": "The Hacker News",
-      "title": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces - The Hacker News",
-      "description": "Palo Alto Networks reports active PHP2Shell exploitation against internet-exposed PAN-OS management interfaces that allow unauthenticated RCE.",
-      "url": "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
-      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9wRucatO6j8IYS9drMJNn_BtgvNwY739pg33a6-50h33cCXnqi4unW5RppMfzO6TLjMdDQ-XICWN6uKTU6ai_SyLBeD8k4SdO7Kx2-QJeMbz0LSEMZkuKZls2dMSNoJmkY5nSc2SOduiSkVpKY9uFjCG0gU73hMvSyyqMANymiqb012-Z_rVUUUJtQQ5C/s1600/php-palo.jpg",
-      "publishedAt": "2026-10-29T05:50:00Z",
-      "content": "Palo Alto Networks on Wednesday warned that threat actors are exploiting the recently patched PHP2Shell vulnerabilities against publicly-accessible management interfaces.\r\n\"Active exploitation has be… [+4698 chars]"
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Lauren Hirsch",
-      "title": "Weil Gotshal, Once a Legal Powerhouse, Plans to Dissolve",
-      "description": "The prominent law firm has been rocked by an exodus of high-profile lawyers, a failed succession plan and a scuttled deal to merge with a rival firm.",
-      "url": "https://www.nytimes.com/2026/10/28/business/weil-gotshal-law-firm.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/28/multimedia/28biz-Weil-Gotshal-qhwl/28biz-Weil-Gotshal-qhwl-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-29T00:53:39Z",
-      "content": "The prominent law firm has been rocked by an exodus of high-profile lawyers, a failed succession plan and a scuttled deal to merge with a rival firm."
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1126,19 +1087,6 @@
       "urlToImage": null,
       "publishedAt": "2026-10-28T22:42:55Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NPR"
-      },
-      "author": "Sydney Lupkin",
-      "title": "Trump administration will allow pharmacies to make popular peptides - NPR",
-      "description": "The Department of Health and Human Services will let small compounding pharmacies make six peptides that haven't been approved by the Food and Drug Administration. It may not be enough to meet demand.",
-      "url": "https://www.npr.org/2026/10/28/nx-s1-6021030/peptides-compounding-enforcement",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5713x3214+0+297/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff8%2F87%2Fc92490604be490f520338a5a8a64%2Fgettyimages-2260730617.jpg",
-      "publishedAt": "2026-10-28T22:26:48Z",
-      "content": "Unproven but popular peptides touted for wellness have been available on the gray market,\r\n despite an official ban. Now, the Department of Health and Human Services is looking to bring them out of t… [+4593 chars]"
     },
     {
       "source": {
@@ -1165,19 +1113,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/27/multimedia/00biz-cnn-lawsuit-cwzm/00biz-cnn-lawsuit-cwzm-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-28T20:47:13Z",
       "content": "The news outlets argued in an updated lawsuit that they should be granted access to the White House reporting pools."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Tara Siegel Bernard",
-      "title": "From Senate Candidates, Surprising Stances on Fixing Social Security",
-      "description": "Congress needs a plan to prevent the program’s funds from running short by 2032. Many Senate candidates have shared their positions — some of them unexpected.",
-      "url": "https://www.nytimes.com/2026/10/28/business/social-security-senate.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/28/multimedia/28Biz-SS-Senate-wlkb/28Biz-SS-Senate-wlkb-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-28T20:08:52Z",
-      "content": "Congress needs a plan to prevent the program’s funds from running short by 2032. Many Senate candidates have shared their positions — some of them unexpected."
     },
     {
       "source": {
