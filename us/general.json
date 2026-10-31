@@ -1,7 +1,59 @@
 {
   "status": "ok",
-  "totalResults": 49,
+  "totalResults": 47,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Michael Kruse and Lisa Lerer",
+      "title": "Susan Collins Is Always Keeping Score",
+      "description": "The long-serving senator has delivered millions of dollars to every corner of her state. But in Maine, people say, it’s best to avoid getting on her bad side.",
+      "url": "https://www.nytimes.com/2026/10/31/us/politics/susan-collins-maine-senate-election.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/31/multimedia/31pol-collins-maine-boss-04-clqp/31pol-collins-maine-boss-04-clqp-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-31T20:06:57Z",
+      "content": "The long-serving senator has delivered millions of dollars to every corner of her state. But in Maine, people say, it’s best to avoid getting on her bad side."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Yeganeh Torbati",
+      "title": "Iran Braces for More War, No Matter the Outcome of the U.S. and Israeli Elections",
+      "description": "With Prime Minister Benjamin Netanyahu fighting to stay in power and President Trump facing a tough midterm, Iran’s leaders expect no major shift in policy.",
+      "url": "https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-iran-assess-1-vjkm/31int-iran-assess-1-vjkm-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-31T20:04:18Z",
+      "content": "With Prime Minister Benjamin Netanyahu fighting to stay in power and President Trump facing a tough midterm, Iran’s leaders expect no major shift in policy."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Carlotta Gall and Oleksandr Chubko",
+      "title": "Evacuees Arrive to Safety From Besieged Ukrainian City of Oleshky",
+      "description": "A few days of truce allowed the removal of remaining civilians from Oleshky, which continual Russian attacks have made all but uninhabitable.",
+      "url": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-oleshky-ceasefire-russia-war.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/30/multimedia/30vid-Oleshky-new-klgh/30vid-Oleshky-new-klgh-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-31T19:44:20Z",
+      "content": "A few days of truce allowed the removal of remaining civilians from Oleshky, which continual Russian attacks have made all but uninhabitable."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Gina Kolata and Marc Santora",
+      "title": "Doctors in Ukraine Try Treating Infections Like Biological Warfare Attacks",
+      "description": "As many as 40 percent of injured soldiers face severe infections that can lead to amputations and death. One initiative is trying to fix that.",
+      "url": "https://www.nytimes.com/2026/10/31/science/ukraine-soldiers-infection-treatment.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/22/multimedia/00sci-Ukraine-infections-04-bfqh/00sci-Ukraine-infections-04-bfqh-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-31T18:34:45Z",
+      "content": "As many as 40 percent of injured soldiers face severe infections that can lead to amputations and death. One initiative is trying to fix that."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -33,32 +85,6 @@
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Gina Kolata and Marc Santora",
-      "title": "Doctors in Ukraine Try Treating Infections Like Biological Warfare Attacks",
-      "description": "As many as 40 percent of injured soldiers face severe infections that can lead to amputations and death. One initiative is trying to fix that.",
-      "url": "https://www.nytimes.com/2026/10/31/science/ukraine-soldiers-infection-treatment.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/22/multimedia/00sci-Ukraine-infections-04-bfqh/00sci-Ukraine-infections-04-bfqh-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-31T17:38:21Z",
-      "content": "As many as 40 percent of injured soldiers face severe infections that can lead to amputations and death. One initiative is trying to fix that."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Jamelle Bouie",
-      "title": "Three Midterm Races I am Watching Closely",
-      "description": "The future of American politics runs through the South.",
-      "url": "https://www.nytimes.com/2026/10/31/opinion/columnists/midterm-election-races-what-to-watch.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/31/multimedia/31bouie-newsletter-jzlf/31bouie-newsletter-jzlf-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-31T17:34:23Z",
-      "content": "The future of American politics runs through the South."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "Christopher Flavelle, Irena Hwang, Adam Sella, Alan Blinder, Sheryl Gay Stolberg, Benjamin Mueller and Michael C. Bender",
       "title": "How Trump Is Dismantling America’s Scientific Research Machine",
       "description": "The system that has driven life-altering discoveries and helped make the United States a superpower is now under intense strain.",
@@ -66,45 +92,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/29/us/dc-trumpscience-promo/dc-trumpscience-promo-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-31T17:32:04Z",
       "content": "The system that has driven life-altering discoveries and helped make the United States a superpower is now under intense strain."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Carlotta Gall and Oleksandr Chubko",
-      "title": "Evacuees Arrive to Safety From Besieged Ukrainian City of Oleshky",
-      "description": "A few days of truce allowed the removal of remaining civilians from Oleshky, which continual Russian attacks have made all but uninhabitable.",
-      "url": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-oleshky-ceasefire-russia-war.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/31/multimedia/30vid-Oleshky-new/31int-ukraine-oleshky-zcvf-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-31T15:24:29Z",
-      "content": "A few days of truce allowed the removal of remaining civilians from Oleshky, which continual Russian attacks have made all but uninhabitable."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Yeganeh Torbati",
-      "title": "Iran Braces for More War, No Matter the Outcome of the U.S. and Israeli Elections",
-      "description": "With Prime Minister Benjamin Netanyahu fighting to stay in power and President Trump facing a tough midterm, Iran’s leaders expect no major shift in policy.",
-      "url": "https://www.nytimes.com/2026/10/31/world/middleeast/iran-war-israel-us-elections-trump-netanyahu.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/31/multimedia/31int-iran-assess-1-vjkm/31int-iran-assess-1-vjkm-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-31T14:22:20Z",
-      "content": "With Prime Minister Benjamin Netanyahu fighting to stay in power and President Trump facing a tough midterm, Iran’s leaders expect no major shift in policy."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Robert Draper",
-      "title": "Talarico Makes Final Election Pitch to Texans: ‘You Are My Slingshot’",
-      "description": "The Democratic candidate for Senate has led in polls. But because it’s Texas, he remains the underdog.",
-      "url": "https://www.nytimes.com/2026/10/31/us/politics/talarico-texas.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/31/multimedia/31dc-talarico2-fbvq/31dc-talarico2-fbvq-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-31T13:34:18Z",
-      "content": "The Democratic candidate for Senate has led in polls. But because it’s Texas, he remains the underdog."
     },
     {
       "source": {
@@ -124,6 +111,19 @@
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
+      "author": "Robert Siegel, Jamelle Bouie, E.J. Dionne Jr. and Vishakha Darbha",
+      "title": "Brace Yourself for an ‘Unusual Election’",
+      "description": "Democratic sweep or not, politics are about to change.",
+      "url": "https://www.nytimes.com/2026/10/31/opinion/midterms-races-democrats-election.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/31/opinion/31opinions-roundtable-image/31opinions-roundtable-image-mediumSquareAt3X.png",
+      "publishedAt": "2026-10-31T11:46:38Z",
+      "content": "Democratic sweep or not, politics are about to change."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
       "author": "Michelle Goldberg",
       "title": "Republicans Tried to Turn the Cheesecake Factory Against Democrats. It Flopped.",
       "description": "It’s become screamingly obvious who represents billionaires and unchecked plutocratic power.",
@@ -131,19 +131,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/31/multimedia/31goldberg-fwth/31goldberg-fwth-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-31T11:45:28Z",
       "content": "It’s become screamingly obvious who represents billionaires and unchecked plutocratic power."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Melissa Kirsch",
-      "title": "Stage Fright",
-      "description": "Halloween presents an endless parade of ghouls and goblins. Most aren’t actually scary, but can illuminate some things about the nature of fear.",
-      "url": "https://www.nytimes.com/2026/10/31/briefing/stage-fright.html",
-      "urlToImage": null,
-      "publishedAt": "2026-10-31T09:58:16Z",
-      "content": "Halloween presents an endless parade of ghouls and goblins. Most aren’t actually scary, but can illuminate some things about the nature of fear."
     },
     {
       "source": {
@@ -176,13 +163,13 @@
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Tim Balk and Sam Easter",
-      "title": "Trump and GOP Close Midterms With Ugly Personal Attacks",
-      "description": "Facing backlash over inflation and anger with the president, Republicans have turned to an onslaught of baseless claims about Democratic candidates.",
-      "url": "https://www.nytimes.com/2026/10/31/us/politics/trump-republicans-personal-attacks-midterms.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/31/multimedia/31pol-gop-attacks-01-hgzl/31pol-gop-attacks-01-hgzl-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-31T09:05:21Z",
-      "content": "Facing backlash over inflation and anger with the president, Republicans have turned to an onslaught of baseless claims about Democratic candidates."
+      "author": "Michael S. Schmidt and Jim Rutenberg",
+      "title": "As Midterms Near, Top Law Firms That Capitulated to Trump Are on the Sidelines",
+      "description": "None of the firms that struck deals to avoid crippling executive orders are publicly involved in the major legal efforts to check the Trump administration’s attempts to meddle in the midterm elections, a review by The New York Times shows.",
+      "url": "https://www.nytimes.com/2026/10/31/us/politics/law-firms-trump-voting.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/29/multimedia/29dc-lawfirms-fbvq/29dc-lawfirms-fbvq-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-31T09:02:24Z",
+      "content": "None of the firms that struck deals to avoid crippling executive orders are publicly involved in the major legal efforts to check the Trump administration’s attempts to meddle in the midterm elections, a review by The New York Times shows."
     },
     {
       "source": {
@@ -199,42 +186,146 @@
     },
     {
       "source": {
-        "id": "cnn",
-        "name": "CNN"
+        "id": "the-washington-post",
+        "name": "The Washington Post"
       },
-      "author": null,
-      "title": "An ICE officer has been charged after striking a man with a car in Houston - CNN",
-      "description": "A U.S. Immigration and Customs Enforcement officer accused of intentionally ramming his car into a Mexican construction worker in Houston was charged Friday with aggravated assault with a deadly weapon, prosecutors said.",
-      "url": "https://www.cnn.com/2026/10/30/us/ice-officer-charged-houston",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/still-23059257-40739-263999999996-still.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-10-30T15:41:06Z",
-      "content": "A U.S. Immigration and Customs Enforcement officer accused of intentionally ramming his car into a Mexican construction worker in Houston was charged Friday with aggravated assault with a deadly weap… [+3158 chars]"
+      "author": "Rick Maese",
+      "title": "Judge orders inquiry into whether DOJ lawyers misled court on Trump’s golf plan - The Washington Post",
+      "description": "U.S. District Judge Ana C. Reyes opened another heated hearing by reading the D.C. Bar rules about truthfulness in court.",
+      "url": "https://www.washingtonpost.com/sports/2026/10/30/judge-orders-inquiry-into-whether-doj-lawyers-misled-court-trumps-golf-plan/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/XHQ2YXIOZQEZJAYBBZUQRW6W5Y.JPG&w=1440",
+      "publishedAt": "2026-10-30T18:03:04Z",
+      "content": "A federal judge on Friday opened a formal inquiry into whether Trump administration officials and Justice Department lawyers misled the court about President Donald Trumps plan to remake East Potomac… [+106 chars]"
     },
     {
       "source": {
         "id": "the-washington-post",
         "name": "The Washington Post"
       },
-      "author": "Anthony Faiola",
-      "title": "Pope Leo becomes first pontiff to vote in U.S. election - The Washington Post",
-      "description": "The Vatican announcement comes as President Donald Trump has sought to cast doubt on mail-in voting.",
-      "url": "https://www.washingtonpost.com/world/2026/10/30/pope-leo-becomes-first-pontiff-vote-us-election/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XIN2D2I63HP4W2IA74ZKQZ5DW4_size-normalized.jpg&w=1440",
-      "publishedAt": "2026-10-30T15:40:16Z",
-      "content": "ROME Pope Leo XIV cast a mail-in ballot in the U.S. midterm elections, the Vatican confirmed Friday, making the Chicago-born pontiff the first leader of the Catholic Church to vote in the United Stat… [+2 chars]"
+      "author": "Lena H. Sun",
+      "title": "CDC scientists sought urgent alert on measles in pregnancy. It wasn’t approved. - The Washington Post",
+      "description": "The report could fill major gaps about a condition doctors have rarely seen for decades.",
+      "url": "https://www.washingtonpost.com/health/2026/10/30/cdc-has-report-measles-pregnancy-its-unclear-when-it-will-publish/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KNXPWPB4F2UQ3E5KZTZ2GWNT5Q_size-normalized.jpg&w=1440",
+      "publishedAt": "2026-10-30T17:48:37Z",
+      "content": "Federal health scientists are trying to alert doctors to the risks of measles during pregnancy as U.S. cases surge, but how quickly that information will reach clinicians and where it will be publish… [+99 chars]"
     },
     {
       "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "author": "The Associated Press",
-      "title": "Three tankers strike mines and catch fire in Strait of Hormuz, Iran claims, and other Mideast news - AP News",
-      "description": "Iran’s Revolutionary Guard claims a supertanker carrying over 2 million barrels of oil struck a naval mine, exploded, and caught fire in the Strait of Hormuz. This marks the third tanker incident on Friday after using unauthorized routes. The U.S. military de…",
-      "url": "https://apnews.com/article/mideast-news-october-30-2026-7f7f34ceb62f294a450e48ace0bd56e0",
-      "urlToImage": "https://dims.apnews.com/dims4/default/cc04ab2/2147483647/strip/true/crop/6000x4000+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F53%2F87%2Fc6f1d4d9fcf226e55c0db814b53e%2Fa0c69cab2d2341bb8b0288201da85f96",
-      "publishedAt": "2026-10-30T15:12:00Z",
-      "content": "Irans Revolutionary Guard said Friday that three oil tankers exploded and caught fire while traveling through an unauthorized route in the Strait of Hormuz. It said one was a supertanker carrying mor… [+6937 chars]"
+      "author": "Tim Fernholz",
+      "title": "Google’s first data center satellite is online and writing poetry - TechCrunch",
+      "description": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
+      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/10/DSC_0298.jpg?resize=1200,800",
+      "publishedAt": "2026-10-30T17:00:00Z",
+      "content": "Google Suncatcher’sprototype space data center is online and communicating with the ground after launching earlier this month alongside more than 100 other spacecraft on a SpaceX Falcon 9 rocket.\r\nTh… [+3671 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Reality Tea"
+      },
+      "author": "Vanshika Vasundhare Singh",
+      "title": "Savannah Chrisley Apparently Forgot to Mention She Was Already Married - Yahoo",
+      "description": "Savannah Chrisley secretly married Jason Galanis in July before announcing her pregnancy and revealing plans for a bigger 2027 wedding.",
+      "url": "https://www.realitytea.com/2026/10/30/savannah-chrisley-baby-reveal-marriage-secret/",
+      "urlToImage": "https://www.mandatory.com/wp-content/uploads/sites/10/2026/10/Untitled-design-57-1.jpg?resize=1200,630",
+      "publishedAt": "2026-10-30T16:10:04Z",
+      "content": "Savannah Chrisley apparently skipped one small detail while sharing her engagement and pregnancy news: she had already married Jason Galanis. The reality star and her businessman partner quietly exch… [+2026 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": "Lauren Fedor, Jason Beeferman, Erin Doherty, Lisa Kashinsky",
+      "title": "'A wave can hide a lot of weaknesses': Dems question if they'll learn anything - Politico",
+      "description": "A favorable political environment has allowed the Democratic Party to paper over persistent problems.",
+      "url": "https://www.politico.com/news/2026/10/30/democrats-message-voters-2026-01141508",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fa4%2Fe8%2F0dd17878418292abb96b4209595f%2Fyll-2910.jpg",
+      "publishedAt": "2026-10-30T16:00:00Z",
+      "content": "Democrats are poised for a good night next Tuesday. That doesnt mean theyve figured out how to win.\r\nMore than a dozen lawmakers, campaign operatives, strategists and pollsters warned in interviews t… [+803 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution - BBC",
+      "description": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
+      "url": "https://www.bbc.com/news/articles/ck62ydn7dj9eo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/e22e/live/c1455920-d46c-11f1-93e1-3b657b665bcf.jpg",
+      "publishedAt": "2026-10-30T15:59:17Z",
+      "content": "Speaking about the state's response to what happened to Pike, Mann said: \"I find it deeply troubling that, even after what Christa endured, Governor Lee has shown little public willingness to reconsi… [+85 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TMZ"
+      },
+      "author": "TMZ Staff",
+      "title": "Kim Zolciak's Daughter Brielle Biermann Didn't Invite Kroy to Wedding - TMZ",
+      "description": "Brielle Biermann is preparing to walk down the aisle, but her adoptive dad Kroy Biermann won't be giving her away ... 'cause TMZ has learned he wasn't invited to her nuptials.",
+      "url": "https://www.tmz.com/2026/10/30/kroy-biermann-not-invited-to-brielle-wedding/",
+      "urlToImage": "https://imagez.tmz.com/image/e3/16by9/2026/08/12/e34b6832ef3242aa91bc075220b90939_xl.jpg",
+      "publishedAt": "2026-10-30T15:48:41Z",
+      "content": "Brielle Biermann is preparing to walk down the aisle, but her adoptive dad Kroy Biermann won't be giving her away ... 'cause TMZ has learned he wasn't invited to her nuptials.\r\nSources with knowledge… [+1451 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": null,
+      "title": "Patrick Stewart dies: how Captain Picard inspired today’s science leaders - Nature",
+      "description": "Researchers say his portrayal of the Star Trek character represented curiosity, thoughtfulness and an effort to understand others.",
+      "url": "https://www.nature.com/articles/d41586-026-03543-9",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03543-9/d41586-026-03543-9_53920542.jpg",
+      "publishedAt": "2026-10-30T15:33:45Z",
+      "content": "Actor Patrick Stewart as Captain Jean-Luc Picard.Credit: RGR Collection/Alamy\r\nResearchers have joined the chorus of Star Trek fans expressing grief at the death of actor Patrick Stewart, who played … [+2312 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Page Six"
+      },
+      "author": "Riley Cardoza",
+      "title": "Influencer Bryce Hall dragged into Halloween street brawl in prison jumpsuit after arrest - Page Six",
+      "description": "The TikTok star gave his followers a glimpse of his gruesome injuries via social media on Friday before smiling and flashing a thumbs-up.",
+      "url": "https://pagesix.com/2026/10/30/celebrity-news/influencer-bryce-hall-dragged-into-halloween-street-brawl-in-prison-jumpsuit-after-arrest/",
+      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/10/COMP-2-1.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-10-30T15:32:28Z",
+      "content": "Bryce Hall’s Halloween street brawl was caught on camera Thursday night.\r\nIn a video obtained by Page Six, the TikTok star is seen being pummeled on the sidewalk by multiple men while wearing a priso… [+3006 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "US tech stocks see sharp falls over AI cost fears - BBC",
+      "description": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+      "url": "https://www.bbc.com/news/articles/cvwy72e0n72yo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10b0/live/dcdf2a60-d46e-11f1-9dda-1ba6fcc7d159.jpg",
+      "publishedAt": "2026-10-30T15:27:54Z",
+      "content": "Major tech companies have ramped up artificial intelligence spending, with Meta, Alphabet, Oracle, Amazon, and Microsoft committing to spending $800.6bn between them in 2026."
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Suzanne Gamboa, Priscilla Thompson",
+      "title": "ICE officer is indicted after striking, injuring immigrant with his vehicle in Houston - NBC News",
+      "description": "A Texas grand jury indicted ICE agent Mario Alberto Morales on a charge of aggravated assault with a deadly weapon.",
+      "url": "https://www.nbcnews.com/news/us-news/ice-agent-indicted-striking-injuring-immigrant-vehicle-houston-rcna606370",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261016-ice-scene-houston-sjr-1216-05fbce.png",
+      "publishedAt": "2026-10-30T15:09:30Z",
+      "content": "A Texas grand jury indicted ICE officer Mario Alberto Morales Friday on a charge of aggravated assault with a deadly weapon, alleging he drove his vehicle into Miguel Parra Hernandez, who was on foot… [+4347 chars]"
     },
     {
       "source": {
@@ -251,19 +342,6 @@
     },
     {
       "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Raquel Coronell Uribe, Monica Alba, Garrett Haake, Owen Hayes, Yamiche Alcindor",
-      "title": "Trump uncancels weekend rallies in Iowa and Kansas with Senate control at stake - NBC News",
-      "description": "Senate races in both states are considered toss-ups and could be key in either party’s path to control of Congress.",
-      "url": "https://www.nbcnews.com/politics/2026-election/trump-cancels-weekend-rallies-iowa-kansas-favor-holding-numerous-teler-rcna606487",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261029-trump-vsb-2230-252116.jpg",
-      "publishedAt": "2026-10-30T15:08:00Z",
-      "content": "The White House has rescheduled weekend rallies in Kansas and Iowa after briefly canceling them yesterday, according to a White House official and another source familiar with the plans.\r\nThe preside… [+4351 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "CBS Sports"
       },
@@ -274,6 +352,19 @@
       "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/10/29/3cda7d11-a8a3-47ab-9b10-3fb9cd5f890c/thumbnail/1200x675/d08b63d463954085451565f9271b5452/gettyimages-1198356415-1.jpg",
       "publishedAt": "2026-10-30T15:03:00Z",
       "content": "Less than two weeks remain until the NFL's trade deadline on Nov. 10 at 4 pm ET. Each team has one or two more games to gather additional intel on whether they should be buyers, sellers or hold stead… [+16787 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Ben Schoon",
+      "title": "Motorola is officially launching its Signature 27 flagship next week - 9to5Google",
+      "description": "Motorola has officially confirmed that it will spill all of the details on its flagship Signature 27 phone next week....",
+      "url": "http://9to5google.com/2026/10/30/motorola-signature-27-launch-date-confirmed/",
+      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/motorola-signature-27-1.jpeg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-10-30T14:45:00Z",
+      "content": "Motorola has officially confirmed that it will spill all of the details on its flagship Signature 27 phone next week.\r\nTeased in September, the Motorola Signature 27 represents the brand’s return to … [+834 chars]"
     },
     {
       "source": {
@@ -291,28 +382,15 @@
     {
       "source": {
         "id": null,
-        "name": "TMZ"
+        "name": "9to5Mac"
       },
-      "author": "TMZ Staff",
-      "title": "Bryce Hall Beaten Up Outside Halloween Party, on Video - TMZ",
-      "description": "Bryce Hall dressed as an inmate for Halloween ... then took a beating worthy of a prison flick ... with video showing multiple dudes whaling on him outside a costume party.",
-      "url": "https://www.tmz.com/2026/10/30/bryce-hall-fight-outside-halloween-party/",
-      "urlToImage": "https://imagez.tmz.com/image/9f/16by9/2026/10/30/9fba8566c4954f5299d21975d3888099_xl.png",
-      "publishedAt": "2026-10-30T14:29:23Z",
-      "content": "Bryce Hall dressed as an inmate for Halloween ... then took a beating worthy of a prison flick ... with video showing multiple dudes whaling on him outside a costume party.\r\nThe social media personal… [+1186 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Grace O'Donnell",
-      "title": "Stock market today: Nasdaq dives, S&P 500 and Dow fall as Amazon, Intel earnings fuel tech rout - Yahoo Finance",
-      "description": "US stock futures sank in the final trading day of the month as earnings from Amazon (AMZN) and Alphabet (GOOG, GOOGL) this week rekindled concerns about the...",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-131609630.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/abd6d02b3b18cceff8bea46f331b48f5f577e795a06d9ebd0ad62d06faaf5195/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2F30c37b1b-860e-46e4-95a2-6e33368a9f3f",
-      "publishedAt": "2026-10-30T14:27:00Z",
-      "content": "Intel (INTC) stock is getting torched in premarket trading on Friday, falling 26%, after the company warned of sluggish PC sales in the current quarter. At the core of that warning is consumer resist… [+1061 chars]"
+      "author": "Ryan Christoffel",
+      "title": "iOS 27.2 adds new Find My feature at just the right time - 9to5Mac",
+      "description": "iOS 27.2 is officially here, and it includes a welcome addition for the Find My app: support for finding a lost Apple TV 4K remote.",
+      "url": "https://9to5mac.com/2026/10/30/ios-27-2-adds-new-find-my-feature-at-just-the-right-time/",
+      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/find-my-27.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-10-30T14:32:30Z",
+      "content": "iOS 27.2 is here, and alongside new features for Apple Photos, Messages, and Siri AI, the update also has a welcome addition for Find My: support for Apple TV 4K remotes.\r\nFind My has long been the i… [+1466 chars]"
     },
     {
       "source": {
@@ -329,16 +407,29 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "MarketWatch"
+        "id": "the-hill",
+        "name": "The Hill"
       },
-      "author": "Britney Nguyen, Nora Redmond",
-      "title": "Why Intel’s stock is sinking toward its worst day in decades — and a $140 billion wipeout - MarketWatch",
-      "description": "Intel’s PC business is under pressure as memory-chip prices dent demand and as corporate IT teams have less budget for laptops",
-      "url": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7",
-      "urlToImage": "https://images.mktw.net/im-37901280/social",
-      "publishedAt": "2026-10-30T14:10:00Z",
-      "content": "Intel is on track to lose $140 billion in market capitalization on Friday as a personal-computer slowdown spooks investors.\r\nThe chip company blamed a weak PC market for a revenue forecast that came … [+291 chars]"
+      "author": "Ford McCracken",
+      "title": "Cook Political Report shifts 12 more House races toward Democrats - The Hill",
+      "description": "The Cook Political Report, a nonpartisan election handicapper, on Friday shifted a dozen more House races toward Democrats in the final stretch of the midterm cycle. The handicapper has shifted dozens of House races toward Democrats in recent weeks, and with …",
+      "url": "https://thehill.com/homenews/campaign/6183415-cook-political-report-house-race-shifts-democrats-midterms/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26295517424385-e1793364126746.jpg?w=1280",
+      "publishedAt": "2026-10-30T14:11:00Z",
+      "content": "Skip to content\r\nThe Cook Political Report, a nonpartisan election handicapper, on Friday shifted a dozen more House races toward Democrats in the final stretch of the midterm cycle.\r\nThe handicapper… [+3210 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KOMO News"
+      },
+      "author": "CHARLOTTE HAZARD | The National News Desk",
+      "title": "North Korean hackers steal over $6 billion from the largest cryptocurrency exchange - KOMO",
+      "description": "Hackers from North Korea stole $6.3 billion from the world’s largest cryptocurrency exchange, Binance.",
+      "url": "https://komonews.com/news/nation-world/north-korean-hackers-steal-over-6-billion-from-the-largest-cryptocurrency-exchange-binance-investigation",
+      "urlToImage": "https://komonews.com/resources/media2/16x9/8076/1320/0x423/90/6a509449-9d11-49da-b801-3a9e8c969886-GettyImages1921756255.jpg",
+      "publishedAt": "2026-10-30T14:02:21Z",
+      "content": "WASHINGTON (TNND) Hackers from North Korea stole $6.3 billion from the worlds largest cryptocurrency exchange, Binance.\r\nBinance said they are working with law enforcement to solve the issue. An insi… [+1015 chars]"
     },
     {
       "source": {
@@ -346,64 +437,25 @@
         "name": "Fox News"
       },
       "author": null,
-      "title": "Netanyahu's bloc falls short as longtime allies reportedly weigh move that could end his rule - Fox News",
-      "description": "Netanyahu's bloc secured only 53 Knesset seats as ultra-Orthodox allies reportedly explore breaking ranks to back Gadi Eisenkot's opposition.",
-      "url": "https://www.foxnews.com/world/netanyahus-bloc-falls-short-longtime-allies-reportedly-weigh-move-could-end-his-rule",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/Israel-Elections-Banners.jpg",
-      "publishedAt": "2026-10-30T14:04:16Z",
-      "content": "Israel's final election count has confirmed that Prime Minister Benjamin Netanyahu's bloc has lost its parliamentary majority, but whether opposition leader Gadi Eisenkot can assemble a government to… [+8307 chars]"
+      "title": "Dem operative admits Ilhan Omar case has legs as liberal firewall begins to crack: 'I'm not stupid' - Fox News",
+      "description": "A prominent Minnesota Dem operative says the federal investigation into Ilhan Omar's marriage fraud allegations is \"almost certainly\" legitimate.",
+      "url": "https://www.foxnews.com/politics/dem-operative-admits-ilhan-omar-case-has-legs-liberal-firewall-begins-crack-im-not-stupid",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/ilhan-omar-fox-news-001.jpg",
+      "publishedAt": "2026-10-30T14:01:29Z",
+      "content": "A prominent Minnesota Democrat who served in the state's House of Representatives revealed on Thursday he believes the federal probe into Rep. Ilhan Omar, D-Minn., has legitimacy.\r\nIt's the latest si… [+5499 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "BBC News"
+        "name": "Yahoo Entertainment"
       },
-      "author": null,
-      "title": "Alaska Senate candidate denies knowing about alleged plot to put 2 Dan Sullivans on ballot - BBC",
-      "description": "Dan S Sullivan, the incumbent Republican senator running for re-election, and allies have accused the Democrats of trying to confuse voters by recruiting Dan J Sullivan to also stand in the race.",
-      "url": "https://www.bbc.com/news/articles/cmwyq2gg1yzzo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4570/live/1ef80da0-d46e-11f1-93e1-3b657b665bcf.jpg",
-      "publishedAt": "2026-10-30T13:46:16Z",
-      "content": "The Times's report alleged that people connected to Peltola's campaign, as well as senior aides at the Democratic Senatorial Campaign Committee (DSCC), worked to try to recruit Dan J Sullivan, a reti… [+78 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Hugh Leask",
-      "title": "'Bad time to troll': Binance cofounder Changpeng Zhao asks Elon Musk for 'respect' after post about bitcoin hack - CNBC",
-      "description": "Binance co-founder Changpeng Zhao asked Elon Musk to stop “trolling” after a $6.3 billion hack, pointing to Binance’s $1 billion-plus SpaceX stake.",
-      "url": "https://www.cnbc.com/2026/10/30/binance-hack-elon-musk-tesla-spacex.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108152763-1748632191432-gettyimages-2217113797-AFP_48PB7F7.jpeg?v=1748633237&w=1920&h=1080",
-      "publishedAt": "2026-10-30T13:28:42Z",
-      "content": "The cofounder and former CEO of Binance asked Elon Musk not to \"troll\" the company on Friday and instead \"show some support\" after the SpaceX CEO appeared to mock the embattled cryptocurrency exchang… [+1321 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Spain transport minister says he won't resign over high-speed rail disaster - BBC",
-      "description": "Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people.",
-      "url": "https://www.bbc.com/news/articles/c6zxj2e5qlxxo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d136/live/66f1d300-d45c-11f1-a701-fddedf244c16.jpg",
-      "publishedAt": "2026-10-30T13:03:34Z",
-      "content": "The leaking of the audio recordings has been criticised by some Spanish politicians, with Alberto Ibáñez, a member of Congress for the left-wing Sumar platform, writing on X that they were \"despicabl… [+2 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Sara Moniuszko",
-      "title": "Bad October? You're not alone. The 'October canon event' trend, explained - USA Today",
-      "description": "All over TikTok, people are lamenting their difficult month with the \"October canon event\" trend. What is it? And how does it relate to mental health?",
-      "url": "https://www.usatoday.com/story/life/health-wellness/2026/10/30/october-canon-event-trend-explained/92476462007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/28/USAT/92481648007-getty-images-1889146172.jpg?crop=2120,1193,x0,y110&width=2120&height=1193&format=pjpg&auto=webp",
-      "publishedAt": "2026-10-30T13:01:00Z",
-      "content": "Did you experience an \"October canon event?\" If so, you're not alone, according to a timely social media trend.\r\nAll over TikTok, people are using the term to describe stressful or emotional experien… [+2675 chars]"
+      "author": "Jason Owens",
+      "title": "Packers WR Christian Watson returns vs. Panthers after leaving game in ambulance coughing up blood with broken rib - Yahoo Sports",
+      "description": "Watson left the game before halftime in an ambulance and was back on the field in the third quarter.",
+      "url": "https://sports.yahoo.com/nfl/breaking-news/article/packers-wr-christian-watson-returns-vs-panthers-after-leaving-game-in-ambulance-coughing-up-blood-with-broken-rib-043320762.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/66dae033dc4ddceae72519449cb4e0e283a096d6bcb8d58cc2768e4b660a5fa1/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F3932ddb5-c033-4176-a00e-08b3d5d01cc2",
+      "publishedAt": "2026-10-30T13:59:41Z",
+      "content": "A trip to the hospital for coughing up blood did not end Christian Watson's night on the football field.\r\nThe Green Bay Packers wide receiver returned to Lambeau Field during Thursday's game against … [+3338 chars]"
     },
     {
       "source": {
@@ -411,38 +463,12 @@
         "name": "Financial Times"
       },
       "author": null,
-      "title": "Russia’s last major independent newspaper shuts under government pressure - Financial Times",
-      "description": "Kremlin crackdown drives Novaya Gazeta to end operations",
-      "url": "https://www.ft.com/content/1c294623-62d1-4c12-8ffb-169daa70654a?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6e9faddc-0484-496c-b2db-a6296962adf7.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "publishedAt": "2026-10-30T12:50:37Z",
+      "title": "Weil’s Ramona Nee in talks to join Kirkland & Ellis - Financial Times",
+      "description": "Co-managing partner decided in August not to take over as law firm’s chair",
+      "url": "https://www.ft.com/content/baedb8dc-a6b6-48ac-b92a-8c0103a30736?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F430dc992-cdc8-4694-9c95-f2a3c291478b.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "publishedAt": "2026-10-30T12:42:57Z",
       "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Frank Schwab",
-      "title": "Packers take big lead and then hold on over Panthers, who are suddenly in a slump - Yahoo Sports",
-      "description": "The Panthers and Packers were looking to bounce back from Week 7 losses.",
-      "url": "https://sports.yahoo.com/nfl/live/packers-take-big-lead-and-then-hold-on-over-panthers-who-are-suddenly-in-a-slump-124434557.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/a4e4530cad446058fd9b09ba5effb4d09b68be771507af08166dda42316e4171/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F48f57e4e-3fea-47c5-a632-d1926b7e9f87",
-      "publishedAt": "2026-10-30T12:44:34Z",
-      "content": "Through the Carolina Panthers' first five games, it looked like Bryce Young was having an impressive breakout. There were even MVP chants. \r\nThose chants, and the idea that the Panthers might be maki… [+9777 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Nancy Cook",
-      "title": "Brash architect of Trump’s midterm strategy could become midterm scapegoat - The Washington Post",
-      "description": "Intense and self-assured, James Blair has had the president’s backing, but a major loss could set off a search for someone to blame.",
-      "url": "https://www.washingtonpost.com/politics/2026/10/30/trump-brash-midterm-strategist-could-take-blame-gop-loss/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/CQGYDWAPPYEIF7B7LAM77B6LJU.jpg&w=1440",
-      "publishedAt": "2026-10-30T12:34:14Z",
-      "content": "President Donald Trump has nicknames for several aides; his moniker for the architect of his midterm strategy Brilliant James sometimes comes with an edge. \r\nJames Blair has encyclopedic knowledge of… [+241 chars]"
     },
     {
       "source": {
@@ -460,6 +486,19 @@
     {
       "source": {
         "id": null,
+        "name": "NPR"
+      },
+      "author": "Kate Bartlett",
+      "title": "Why is the Cheesecake Factory at the center of the latest culture war? - NPR",
+      "description": "A joke by former President Obama has gone viral and received backlash from the Trump administration as the issue of affordability looms large over next week's midterm elections.",
+      "url": "https://www.npr.org/2026/10/30/nx-s1-6023106/cheesecake-factory-culture-war-affordability-trump-obama",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+54/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F17%2F5b%2Fe7ad0f394e5ca990073747bcaa6b%2Fgettyimages-2213067117.jpg",
+      "publishedAt": "2026-10-30T12:00:31Z",
+      "content": "They say there's no such thing as bad publicity. If that's true it's been a golden week for the Cheesecake Factory restaurant chain.\r\nThe furore began when former President Obama, stumping for Democr… [+4592 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "NBCSports.com"
       },
       "author": "Michael David Smith",
@@ -473,41 +512,15 @@
     {
       "source": {
         "id": null,
-        "name": "International Business Times UK"
-      },
-      "author": "Maybelyn B. Paden",
-      "title": "Olivia Rodrigo Wears Amy Acton Campaign T-Shirt After Controversial Ramaswamy Ad - International Business Times UK",
-      "description": "Olivia Rodrigo visibly supported Ohio Democratic gubernatorial candidate Amy Acton during a Columbus concert, days after a Republican advert targeted Acton's account of childhood abuse.",
-      "url": "https://www.ibtimes.co.uk/olivia-rodrigo-wears-amy-acton-campaign-t-shirt-after-controversial-ramaswamy-ad-1829045",
-      "urlToImage": "https://d.ibtimes.co.uk/en/full/1840583/olivia-rodrigo.jpg",
-      "publishedAt": "2026-10-30T11:12:00Z",
-      "content": "Olivia Rodrigo wore an 'Amy Acton for Governor' Tshirt on stage in Columbus on Thursday night, days after rival Republican candidate Vivek Ramaswamy aired an advert in which Acton's estranged mother … [+4458 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
+        "name": "BBC News"
       },
       "author": null,
-      "title": "Common developmental condition linked to higher risk of Parkinson's-related disorders - Fox News",
-      "description": "Older adults with autism were diagnosed with parkinsonism at more than double the rate of the general population, a study of 57 million Americans found.",
-      "url": "https://www.foxnews.com/health/common-developmental-condition-linked-higher-risk-parkinsons-related-disorders",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/woman-with-hand-tremor.jpg",
-      "publishedAt": "2026-10-30T11:00:57Z",
-      "content": "Older adults diagnosed with autism face a significantly higher risk of developing Parkinsons disease-related movement disorders compared to the general population, according to a large new study publ… [+5270 chars]"
-    },
-    {
-      "source": {
-        "id": "espn",
-        "name": "ESPN"
-      },
-      "author": "Bill Connelly",
-      "title": "Connelly previews Week 9: Utah, Georgia, Ole Miss on upset alert - ESPN",
-      "description": "Is it Utah's turn to go down? Can Georgia and Ole Miss avoid disaster? Will Ohio State's backup plan work?",
-      "url": "https://www.espn.com/college-football/story/_/id/50318896/connelly-week-9-upset-alert",
-      "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1029%2Fr1738098_1296x729_16%2D9.jpg",
-      "publishedAt": "2026-10-30T11:00:00Z",
-      "content": "On Halloween night in 2015, Miami beat No. 22 Duke with one of the greatest (and most gloriously illegal) plays in college football history. On a cold Halloween night in 1998, unranked Texas ended Ne… [+28745 chars]"
+      "title": "Prominent Russian newspaper shuts down under pressure from authorities - BBC",
+      "description": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
+      "url": "https://www.bbc.com/news/articles/cmewepdr109do",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13b1/live/6aa032d0-d44d-11f1-bfc7-afe23fc6cf5b.jpg",
+      "publishedAt": "2026-10-30T11:23:06Z",
+      "content": "The paper said that over time six journalists connected with the paper were killed for \"fulfilling their professional and civic duty.\" Those reporters include Anna Politkovskaya, who was shot dead in… [+127 chars]"
     },
     {
       "source": {
@@ -525,41 +538,15 @@
     {
       "source": {
         "id": null,
-        "name": "BBC News"
+        "name": "Motorsport.com"
       },
-      "author": "Katherine Latham",
-      "title": "Giant eagles once ruled the skies. They snatched human children, and shaped our evolution - BBC",
-      "description": "After the dinosaur-killing asteroid hit, giant birds became apex predators for tens of millions of years – and humans were among their prey.",
-      "url": "https://www.bbc.com/future/article/20261028-predatory-birds-the-size-of-a-small-aircraft-once-flocked-the-skies-some-of-them-ate-humans",
-      "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0pk9xbr.jpg",
-      "publishedAt": "2026-10-30T10:00:00Z",
-      "content": "Haast's eagle was \"essentially a flying tiger\", says Cooper. It was roughly twice the weight of an adult harpy eagle, which is amongst the largest living eagles. The Haast's eagle preyed on another g… [+232 chars]"
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Christine Zhang, Laura Bult, Brian Oh and Stephanie Swart",
-      "title": "Beware of Election Night Mirages",
-      "description": "Early race counts on election night can sometimes differ sharply from the final outcome. Christine Zhang, our election data reporter, explains the reasons behind red and blue “mirages.”",
-      "url": "https://www.nytimes.com/video/us/elections/100000011224072/beware-of-election-night-mirages.html",
-      "urlToImage": null,
-      "publishedAt": "2026-10-30T09:01:58Z",
-      "content": "Early race counts on election night can sometimes differ sharply from the final outcome. Christine Zhang, our election data reporter, explains the reasons behind red and blue “mirages.”"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NPR"
-      },
-      "author": "Domenico Montanaro",
-      "title": "Here are the Senate races to watch ahead of Election Day - NPR",
-      "description": "The competitive map for control of the U.S. Senate has expanded considerably in the final days before Election Day. Here's a ranking of those competitive races from most likely to flip to least likely.",
-      "url": "https://www.npr.org/2026/10/30/g-s1-149975/2026-midterms-senate-map",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5648x3177+0+294/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcf%2Fd7%2F8ea4462f4a43be6ef123b477dbf0%2Fgettyimages-2299538076.jpg",
-      "publishedAt": "2026-10-30T09:00:00Z",
-      "content": "Get the latest on the midterms &amp; more in the NPR App\r\nWhen this election cycle began, Democrats were seen as a longshot to pick up the Senate.\r\nThat's because so many seats that are up for electi… [+10499 chars]"
+      "author": "Ronald Vording",
+      "title": "Why F1's new regulations make the Mexican GP an even bigger challenge - Motorsport.com",
+      "description": "Mexico City's altitude always presents challenges, but in 2026 the new technical regulations have made things even more complicated for F1 teams, manufacturers and drivers",
+      "url": "https://www.motorsport.com/f1/news/why-f1s-new-regulations-make-the-mexican-gp-an-even-bigger-challenge/10869622/",
+      "urlToImage": "https://cdn-2.motorsport.com/images/amp/6b8jjxw2/s6/oscar-piastri-mclaren.jpg",
+      "publishedAt": "2026-10-30T09:55:11Z",
+      "content": "At 2,286 metres above sea level, the Autodromo Hermanos Rodriguez is by far the highest-altitude venue on the Formula 1 calendar. This naturally means thinner air, which presents a unique challenge a… [+7692 chars]"
     },
     {
       "source": {
@@ -589,29 +576,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Forbes",
-      "title": "Vivek Ramaswamy Pulls Amy Acton Mother Ad After Bipartisan Backlash - Forbes",
-      "description": null,
-      "url": "https://www.forbes.com/sites/siladityaray/2026/10/30/ramaswamy-stops-airing-controversial-amy-acton-ad-amid-bipartisan-backlash/",
-      "urlToImage": null,
-      "publishedAt": "2026-10-30T04:33:21Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": "bloomberg",
         "name": "Bloomberg"
       },
-      "author": "Annabelle Droulers, Debby Wu",
-      "title": "Apple’s iPhone Maker Confident of Meeting Surge in Duo Demand - Bloomberg.com",
-      "description": "Apple Inc.’s main assembly partner Hon Hai Precision Industry Co. expects its expansive global manufacturing presence will help it fulfill growing demand for the US company’s marquee foldable device.",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-29/apple-s-iphone-maker-confident-of-meeting-surge-in-duo-demand",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/il8cSWlHSdd4/v0/1200x801.jpg",
-      "publishedAt": "2026-10-29T23:00:00Z",
-      "content": "Apple Inc.s main assembly partner Hon Hai Precision Industry Co. expects its expansive global manufacturing presence will help it fulfill growing demand for the US companys marquee foldable device. \r… [+274 chars]"
+      "author": "Julia Love, Spencer Soper",
+      "title": "Big Tech’s $750 Billion AI Bet Collides With Slowing Core Growth - Bloomberg.com",
+      "description": "The core businesses of America’s technology giants — the advertising, consumer and retail machines propping up a collective $750 billion in artificial intelligence spending this year — are starting to show signs of slowing. In some cases, they’re being cannib…",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-30/big-tech-s-750-billion-ai-bet-collides-with-slowing-core-growth",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ig37QzHk0pSo/v0/1200x800.jpg",
+      "publishedAt": "2026-10-30T01:43:00Z",
+      "content": "The core businesses of Americas technology giants the advertising, consumer and retail machines propping up a collective $750 billion in artificial intelligence spending this year are starting to sho… [+424 chars]"
     },
     {
       "source": {
@@ -629,15 +603,15 @@
     {
       "source": {
         "id": null,
-        "name": "GSMArena.com"
+        "name": "Space.com"
       },
-      "author": "Vlad",
-      "title": "Amazon launches the Echo Show 16, Echo Time, Alexa Photo Frame, and new Echo speakers - GSMArena.com news - GSMArena.com",
-      "description": "All of them come with Alexa+, which is free for Prime members. Amazon has refreshed its Alexa hardware lineup with five new devices: the redesigned Echo...",
-      "url": "https://www.gsmarena.com/amazon_launches_the_echo_show_16_echo_time_alexa_photo_frame_and_new_echo_speakers-news-75267.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/26/10/amazon-new-echo-devices-with-alexa/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2026-10-29T16:21:02Z",
-      "content": "Amazon has refreshed its Alexa hardware lineup with five new devices: the redesigned Echo Show 16 smart display, a new Echo Dot, the Echo Studio with Home Camera, the Echo Time smart clock, and the A… [+3431 chars]"
+      "author": "Anthony Wood",
+      "title": "Medusa's eye, Halloween fireballs and more: 5 skywatching targets to look out for this spooky season - Space",
+      "description": "Five spooky skywatching targets perfect for naked eye stargazing this Halloween!",
+      "url": "https://www.space.com/stargazing/medusas-eye-halloween-fireballs-and-more-5-skywatching-targets-to-look-out-for-this-spooky-season",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/VxuSMyHGHhsXMizCD3sTAS-2000-80.jpg",
+      "publishedAt": "2026-10-24T10:00:00Z",
+      "content": null
     }
   ]
 }

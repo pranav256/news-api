@@ -6,8 +6,8 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-10-31T17:59:30.298097+00:00",
-  "articles_count": 82,
+  "fetched_at": "2026-10-31T20:58:58.150180+00:00",
+  "articles_count": 83,
   "articles": [
     {
       "source": {
@@ -19,7 +19,7 @@
       "description": "As many as 40 percent of injured soldiers face severe infections that can lead to amputations and death. One initiative is trying to fix that.",
       "url": "https://www.nytimes.com/2026/10/31/science/ukraine-soldiers-infection-treatment.html",
       "urlToImage": "https://static01.nyt.com/images/2026/10/22/multimedia/00sci-Ukraine-infections-04-bfqh/00sci-Ukraine-infections-04-bfqh-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-31T17:38:21Z",
+      "publishedAt": "2026-10-31T18:34:45Z",
       "content": "As many as 40 percent of injured soldiers face severe infections that can lead to amputations and death. One initiative is trying to fix that."
     },
     {
@@ -76,6 +76,19 @@
     },
     {
       "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Lena H. Sun",
+      "title": "CDC scientists sought urgent alert on measles in pregnancy. It wasn’t approved. - The Washington Post",
+      "description": "The report could fill major gaps about a condition doctors have rarely seen for decades.",
+      "url": "https://www.washingtonpost.com/health/2026/10/30/cdc-has-report-measles-pregnancy-its-unclear-when-it-will-publish/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KNXPWPB4F2UQ3E5KZTZ2GWNT5Q_size-normalized.jpg&w=1440",
+      "publishedAt": "2026-10-30T17:48:37Z",
+      "content": "Federal health scientists are trying to alert doctors to the risks of measles during pregnancy as U.S. cases surge, but how quickly that information will reach clinicians and where it will be publish… [+99 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -86,6 +99,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/29/multimedia/29dc-health-midterms-qmlz/29dc-health-midterms-qmlz-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-30T15:09:29Z",
       "content": "After concentrating on the high price of gas and groceries, Democrats are using health costs to make their case about an “affordability crisis.”"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tampa Bay Times"
+      },
+      "author": "Michaela Mulligan",
+      "title": "Amid dengue outbreak, St. Pete residents wonder: Is a tire shop spreading it? - Tampa Bay Times",
+      "description": "St. Petersburg filed an injunction against a used tire shop this week, arguing it was a sanitary nuisance.",
+      "url": "https://www.tampabay.com/news/environment/2026/10/30/dengue-fever-st-petersburg-tire-shop-mosquitoes-pinellas/",
+      "urlToImage": "https://www.tampabay.com/resizer/v2/5RQEGKDSOZBHTACCVOVBY4HZHU.jpg?auth=3beebea8c68fd512f550442221fc1493bb89c1e4dbb7a249071133895a04ccdb&height=675&width=1200&smart=true",
+      "publishedAt": "2026-10-30T14:57:00Z",
+      "content": null
     },
     {
       "source": {
@@ -362,6 +388,19 @@
     },
     {
       "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Mary Walrath-Holdridge",
+      "title": "The first global food pyramid vs. RFK Jr.'s. They look nothing alike - USA Today",
+      "description": "The food pyramid, developed by an international team of nutrition experts, looks starkly different from the one released by U.S. officials in January.",
+      "url": "https://www.usatoday.com/story/news/health/2026/10/29/first-global-food-pyramid-versus-rfk-jrs-see-differences/92499611007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/29/USAT/92502834007-getty-images-861188910.jpg?crop=2120,1193,x0,y110&width=2120&height=1193&format=pjpg&auto=webp",
+      "publishedAt": "2026-10-29T21:40:15Z",
+      "content": "An international team of nutrition experts has released a global food pyramid for the first time and it looks different from what Americans have been told to eat.\r\nThe International Food Guide Pyrami… [+5529 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -401,16 +440,16 @@
     },
     {
       "source": {
-        "id": "usa-today",
-        "name": "USA Today"
+        "id": null,
+        "name": "Nature.com"
       },
-      "author": "Anthony Thompson",
-      "title": "This exercise may help lower your blood pressure. You just need a wall - USA Today",
-      "description": "A simple exercise that requires no equipment done once or twice a week may help maintain lower blood pressure, a new study found.",
-      "url": "https://www.usatoday.com/story/life/health-wellness/2026/10/29/lower-blood-pressure-exercise-squat-study/92497872007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/29/USAT/92498007007-getty-images-2155310320.jpg?crop=2118,1191,x0,y111&width=2118&height=1191&format=pjpg&auto=webp",
-      "publishedAt": "2026-10-29T19:59:00Z",
-      "content": "A simple exercise that requires no equipment and can be done at home may help people maintain lower blood pressure, even if they cannot work out several times a week, a new study found.\r\nThe exercise… [+3374 chars]"
+      "author": null,
+      "title": "Widespread selection of antibiotic resistance within hospital sewers - Nature",
+      "description": "Resistance selection in wastewater is poorly understood. In this study, the authors show that E. coli are selected for in Swedish hospital sewers, but not in municipal treatment plants and identify ciprofloxacin and cefotaxime as drivers that enable targeted …",
+      "url": "https://www.nature.com/articles/s41467-026-78836-8",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-026-78836-8/MediaObjects/41467_2026_78836_Fig1_HTML.png",
+      "publishedAt": "2026-10-29T19:12:32Z",
+      "content": "Wastewater collection\r\nHospital wastewater samples were collected from the central complex of the Sahlgrenska University Hospital in Gothenburg, the largest hospital in Sweden, with approximately 500… [+28125 chars]"
     },
     {
       "source": {
@@ -424,6 +463,19 @@
       "urlToImage": null,
       "publishedAt": "2026-10-29T18:53:00Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Albany Times Union"
+      },
+      "author": "Nora Mishanec",
+      "title": "500 babies received ‘improperly stored’ hepatitis B vaccines at Albany Med - Times Union",
+      "description": "The vaccines do not pose a health threat, but the hospital asked parents to bring back their children for revaccination after officials discovered the error.",
+      "url": "https://www.timesunion.com/health/article/albany-med-babies-hep-b-vaccine-22499284.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/67/61/43/31398107/3/rawImage.jpg",
+      "publishedAt": "2026-10-29T18:46:54Z",
+      "content": "The American Academy of Pediatrics recommends that newborns receive their first dose of the Hepatitis B vaccine within 24 hours of birth.\r\nAlyssa Pointer/The Washington Post via Getty Images\r\nALBANY … [+2305 chars]"
     },
     {
       "source": {
@@ -480,6 +532,19 @@
     {
       "source": {
         "id": null,
+        "name": "WGAL Susquehanna Valley Pa."
+      },
+      "author": "Rachael Lardani",
+      "title": "Possible measles exposure reported at Susquehanna Valley Target, DOH says - WGAL",
+      "description": "The Pennsylvania Department of Health is warning of a potential measles exposure at a Target in Lebanon County, according to a release issued Thursday.",
+      "url": "https://www.wgal.com/article/pa-measles-exposure-reported-lebanon-target-doh/74284885",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/6d12944c-bef6-4f40-90ad-6bdb45be6747.png?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
+      "publishedAt": "2026-10-29T16:14:00Z",
+      "content": "LEBANON, Pa.The Pennsylvania Department of Health is warning of a potential measles exposure at a Target in Lebanon County, according to a release issued Thursday. \r\nVideo above: Headlines from WGAL … [+1953 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "New York Post"
       },
       "author": "McKenzie Beard",
@@ -493,28 +558,15 @@
     {
       "source": {
         "id": null,
-        "name": "Lansing State Journal"
+        "name": "WSMV Nashville"
       },
-      "author": "Dan Basso",
-      "title": "DNR maps deer fatalities from viral disease. See where hot spots are - Lansing State Journal",
-      "description": "The DNR is releasing a new map showing where the state's deer are being affected by a viral disease known as EHD.",
-      "url": "https://www.lansingstatejournal.com/story/news/local/michigan/2026/10/29/ehd-virus-deer-deaths-fatalities-dnr-map-outbreak/92494578007/",
-      "urlToImage": "https://www.lansingstatejournal.com/gcdn/authoring/authoring-images/2026/06/25/PLSJ/90690789007-260624-wip-stabenow-park-061-a.JPG?crop=1999,1125,x0,y103&width=1999&height=1125&format=pjpg&auto=webp",
-      "publishedAt": "2026-10-29T15:28:00Z",
-      "content": "Updated Oct. 29, 2026, 10:28 a.m. ET\r\nMid-Michigan, including Ingham County, is the statewide hot spot for a viral disease that is killing white-tail deer, the Michigan Department of Natural Resource… [+27 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NBC 10 Philadelphia"
-      },
-      "author": "Cherise Lynch",
-      "title": "Health officials warn of possible measles exposure at Pennsylvania Target - NBC10 Philadelphia",
-      "description": "The Pennsylvania Department of Health is warning shoppers about a possible measles exposure at a Target store in Lebanon County.",
-      "url": "https://www.nbcphiladelphia.com/news/health/measles-possible-exposure-target-lebanon-county-pennsylvania/4487721/",
-      "urlToImage": "https://media.nbcphiladelphia.com/2026/10/Measles.png?resize=1200%2C675&quality=85&strip=all",
-      "publishedAt": "2026-10-29T14:55:54Z",
-      "content": "The Pennsylvania Department of Health is warning shoppers about a possible measles exposure at a Target store in Lebanon County.\r\nHealth officials said a person who tested positive for measles visite… [+1258 chars]"
+      "author": "Chasity Maynard",
+      "title": "Measles case confirmed in child at Nashville hospital - WSMV",
+      "description": "Monroe Carell Jr. Children’s Hospital at Vanderbilt has confirmed they treated a child with measles this week.",
+      "url": "https://www.wsmv.com/2026/10/29/measles-case-confirmed-child-nashville-hospital/",
+      "urlToImage": "https://gray-wsmv-prod.gtv-cdn.com/resizer/v2/IDSBE7AGF5EULFB4YJIDYT66SM.png?auth=c1ada91ed396843a27dd761b87e15fbbce565fcad7b503133888491ad7fb437d&width=1200&height=600&smart=true",
+      "publishedAt": "2026-10-29T15:04:00Z",
+      "content": "What This Story Is About\r\n<ul><li>A child was treated for measles at a Nashville hospital this week. </li></ul>Why It Matters\r\n<ul><li>State data indicates this is one of the first cases of measles t… [+1317 chars]"
     },
     {
       "source": {
@@ -571,32 +623,6 @@
     {
       "source": {
         "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Julia Musto",
-      "title": "First-of-its-kind food pyramid with international seal of approval released - and counters Trump advice - The Independent",
-      "description": "The international guidance was compiled by 22 leading nutritionists in the US, Europe, Canada and Australia",
-      "url": "https://www.the-independent.com/life-style/health-and-families/food-pyramid-rfk-meat-diet-b3073713.html",
-      "urlToImage": "https://static.the-independent.com/2026/10/26/20/06/GettyImages-2243552081.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-      "publishedAt": "2026-10-29T11:41:00Z",
-      "content": "A first-of-its-kind food pyramid from a group of international nutritionists has been released - and counters the Trump administrations recommendations for a healthy diet. \r\nThe new guidance, devised… [+2728 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "DogTime"
-      },
-      "author": "Nikita Nath",
-      "title": "Golden Retriever Needs His Morning Cuddles, Even if It Means Becoming His Human’s Whole Workout - Yahoo",
-      "description": "There’s nothing cuter than witnessing a big fur baby giving their owner the most affectionate hug. This Instagram video captured a charming Golden Retriever...",
-      "url": "https://dogtime.com/news/236938-golden-retriever-morning-cuddles-human-workout",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/a5f3641892e2cd62077f052a894da5e842a855cfa1836543a6ea00061d8c9a36/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdog_time_927%2F5e7123fec11a6c9be301d137c41876f8.jpg",
-      "publishedAt": "2026-10-29T11:10:12Z",
-      "content": "There's nothing cuter than witnessing a big fur baby giving their owner the most affectionate hug. This Instagram video captured a charming Golden Retriever dog named Goose absolutely needing his mor… [+1674 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Washingtonstatestandard.com"
       },
       "author": "Aspen Ford",
@@ -610,19 +636,6 @@
     {
       "source": {
         "id": null,
-        "name": "Eatingwell.com"
-      },
-      "author": "https://www.facebook.com/EatingWell/",
-      "title": "5 Best High-Protein Cereals for Maintaining Muscle as You Age, According to Sports Dietitians - EatingWell",
-      "description": "These high-protein cereals are an easy way to increase protein intake at breakfast or in a snack",
-      "url": "https://www.eatingwell.com/best-high-protein-cereals-for-maintaining-muscle-as-you-age-12199108",
-      "urlToImage": "https://www.eatingwell.com/thmb/hOBoqeFi4mxKgK7hmmZFok73_cc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/TK-Best-High-Protein-Cereals-for-Maintaining-Muscle-As-You-Age-48d1cc55e2ec4cefa771aa3a00a365c3.jpg",
-      "publishedAt": "2026-10-29T11:00:00Z",
-      "content": "Article content starts here\r\n If youre hearing more about prioritizing protein these days, its not by accident. One factor that is driving our focus on protein is healthy aging, because total daily p… [+9676 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Medscape"
       },
       "author": "Laurie Tarkan",
@@ -632,6 +645,19 @@
       "urlToImage": "https://img.medscapestatic.com/vim/live/professional_assets/3/e/8/cf714cca-0277-4da4-8aa4-4a145b2618e3/dt-261028-woman-dizzy-800x450.jpg",
       "publishedAt": "2026-10-29T10:50:55Z",
       "content": "Three months after a COVID infection wrecked her Thanksgiving break, 19-year-old college student Hannah Harding was attending a lecture when she started shaking and sweating profusely. She glanced at… [+7236 chars]"
+    },
+    {
+      "source": {
+        "id": "buzzfeed",
+        "name": "Buzzfeed"
+      },
+      "author": "Lily Grossinger",
+      "title": "\"I Didn't Know That Was A Thing\": 31 Unexpected Side Effects Of GLP-1s That Have Nothing To Do With Weight Loss - BuzzFeed",
+      "description": "\"I still don’t see 'me' in the mirror.\"",
+      "url": "https://www.buzzfeed.com/lily_grossinger/glp-1-unexpected-emotional-side-effects",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/26/20/thumb/OaFcvQC9c.jpg?crop=2999:1570;0,0%26downsize=1250:*",
+      "publishedAt": "2026-10-29T10:01:02Z",
+      "content": "Anonymous, 68, F, CA, USA"
     },
     {
       "source": {
@@ -649,19 +675,6 @@
     {
       "source": {
         "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "Dengue comes back even in vaccinated people — new clues - Nature",
-      "description": "Researchers help to answer a question dogging the development of improved vaccines against the mosquito-borne disease.",
-      "url": "https://www.nature.com/articles/d41586-026-03488-z",
-      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03488-z/d41586-026-03488-z_53913100.jpg",
-      "publishedAt": "2026-10-29T02:56:40Z",
-      "content": "People who are infected with dengue virus for a second time often develop severe disease.Credit: Mamunur Rashid/NurPhoto via Getty\r\nInfecting people with a weak strain of dengue virus is helping rese… [+2397 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "ScienceAlert"
       },
       "author": "Peter Dockrill",
@@ -671,19 +684,6 @@
       "urlToImage": "https://www.sciencealert.com/images/2026/10/Welsh-school-students.jpg",
       "publishedAt": "2026-10-29T00:02:19Z",
       "content": "There's a lot of research showing that higher education levels are linked to a lower risk of Alzheimer's disease, and staying in school for longer is associated with benefits to health and longevity … [+6633 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "Perinatal elimination of genetically aberrant human cortical neurons - Nature",
-      "description": "Single-neuron sequencing shows that widespread genomic abnormalities are common prenatally but largely eliminated around birth, indicating developmental genome quality control in human neurons.",
-      "url": "https://www.nature.com/articles/s41586-026-11190-3",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11190-3/MediaObjects/41586_2026_11190_Fig1_HTML.png",
-      "publishedAt": "2026-10-28T22:44:15Z",
-      "content": "Isolation of neuronal nuclei\r\nHuman prenatal brain tissue was obtained from the NIH NeuroBioBank. Tissue from the frontoparietal lobes was sectioned into 40m sections with a cryostat. The cortical pl… [+24884 chars]"
     },
     {
       "source": {
@@ -921,6 +921,19 @@
     },
     {
       "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Richard Sima",
+      "title": "Column | At 80, he’s a top dementia expert. Here’s how he keeps his brain healthy. - The Washington Post",
+      "description": "Researcher Ron Petersen says there are simple things we can all do for healthier cognitive aging.",
+      "url": "https://www.washingtonpost.com/wellness/2026/10/27/80-hes-top-dementia-expert-heres-how-he-keeps-his-brain-healthy/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/NWXZUACBGBG4BJZTN42GGX6ASI.jpg&w=1440",
+      "publishedAt": "2026-10-27T16:00:00Z",
+      "content": "For more than 50 years, Ron Petersen has studied healthy aging, cognition and dementia. \r\nPetersens research established the concept of mild cognitive impairment, which lies between healthy cognitive… [+322 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -986,16 +999,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "BBC Focus Magazine"
+        "id": "fox-news",
+        "name": "Fox News"
       },
-      "author": "Prof Barbara Sahakian, Dr Christelle Langley",
-      "title": "7 surprising habits Cambridge experts swear by to slow cognitive decline - BBC Science Focus Magazine",
-      "description": "Your brain deserves a little TLC, for the present and the future",
-      "url": "https://www.sciencefocus.com/wellbeing/keep-brain-sharp-safeguard-it-from-ageing-tips",
-      "urlToImage": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/8881b95d-e40b-4f90-9867-dcc909b85e9d/thumbnails/954aaee6-7f28-44fe-a6ab-73e937075c5f.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&platform=WEB&w=1200",
-      "publishedAt": "2026-10-24T09:30:00Z",
-      "content": "Wouldnt it be great to wake up each morning feeling energised, clear-headed and excited to start the day? Weve all enjoyed mornings like that, but for many of us they dont come often enough.\r\nA bad n… [+14122 chars]"
+      "author": null,
+      "title": "Knee treatment without surgery offers lasting pain relief for 80% of arthritis patients, study finds - Fox News",
+      "description": "A non-surgical knee osteoarthritis treatment uses dissolvable gelatin particles to block excess blood vessels, reducing inflammation without implants, researchers say.",
+      "url": "https://www.foxnews.com/health/knee-treatment-without-surgery-offers-lasting-pain-relief-80-arthritis-patients-study",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/knee-arthritis.jpg",
+      "publishedAt": "2026-10-23T20:58:38Z",
+      "content": "A non-surgical procedure that temporarily blocks extra blood vessels in the knee is offering lasting pain relief for people with knee osteoarthritis.\r\nIn a clinical study of 194 patients, 80% of them… [+3972 chars]"
     },
     {
       "source": {
