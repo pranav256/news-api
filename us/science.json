@@ -1,7 +1,33 @@
 {
   "status": "ok",
-  "totalResults": 91,
+  "totalResults": 90,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Lynne Peeples",
+      "title": "Can Scientists Make Football Safer?",
+      "description": "Researchers are exploring novel ways to treat, even prevent, the brain disease C.T.E. One of the most surprising: near-infrared light.",
+      "url": "https://www.nytimes.com/2026/10/28/science/cte-nfl-football-brain-safety.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/28/multimedia/28SCI-CTE-TREATMENTS-stillpromo-tfck/28SCI-CTE-TREATMENTS-stillpromo-tfck-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-01T17:14:27Z",
+      "content": "Researchers are exploring novel ways to treat, even prevent, the brain disease C.T.E. One of the most surprising: near-infrared light."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Stella Raine Chu",
+      "title": "These Patients Struggle With Runaway Bones. Finally There’s Hope.",
+      "description": "F.O.P., a rare genetic condition, causes uncontrolled explosions of bone. New drugs may slow or halt the process.",
+      "url": "https://www.nytimes.com/2026/10/29/science/fop-bones-drugs.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/29/multimedia/29SCI-FOP-kcwm/29SCI-FOP-kcwm-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-01T17:11:56Z",
+      "content": "F.O.P., a rare genetic condition, causes uncontrolled explosions of bone. New drugs may slow or halt the process."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -64,7 +90,7 @@
       "description": "Experts warn that online black markets for mummified remains could pose health risks.",
       "url": "https://www.nytimes.com/2026/10/31/science/mummy-sale-facebook-ill.html",
       "urlToImage": null,
-      "publishedAt": "2026-10-31T17:55:35Z",
+      "publishedAt": "2026-10-31T17:55:36Z",
       "content": "Experts warn that online black markets for mummified remains could pose health risks."
     },
     {
@@ -90,21 +116,60 @@
       "description": "The system that has driven life-altering discoveries and helped make the United States a superpower is now under intense strain.",
       "url": "https://www.nytimes.com/2026/10/31/science/how-trump-is-dismantling-americas-scientific-research-machine.html",
       "urlToImage": "https://static01.nyt.com/images/2026/10/29/us/dc-trumpscience-promo/dc-trumpscience-promo-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-31T17:32:04Z",
+      "publishedAt": "2026-10-31T17:32:05Z",
       "content": "The system that has driven life-altering discoveries and helped make the United States a superpower is now under intense strain."
     },
     {
       "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
+        "id": null,
+        "name": "Abcnews.com"
       },
-      "author": "Marcia Dunn",
-      "title": "NASA telescope is on the verge of plunging back to Earth after failed rescue mission - AP News",
-      "description": "A NASA telescope is barely clinging to space after a failed rescue effort left it tottering lower and lower. The U.S. Space Force predicts the Swift Observatory will come crashing down on or around Friday. Most of the 1 1/2-ton telescope is expected to burn u…",
-      "url": "https://apnews.com/article/swift-observatory-nasa-telescope-e890935df7f468048594286566a96357",
-      "urlToImage": "https://dims.apnews.com/dims4/default/f0c46d0/2147483647/strip/true/crop/3008x2000+0+0/resize/1200x798!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7f%2F19%2Ffc86deaed4a846edbd4945ffe82a%2F5f317232886346b2be17e35945218adc",
-      "publishedAt": "2026-10-31T12:03:00Z",
-      "content": "CAPE CANAVERAL, Fla. (AP) An aging NASA telescope is barely clinging to space after a failed rescue effort left it tottering lower and lower.\r\nThe U.S. Space Force predicts the Swift Observatory will… [+2615 chars]"
+      "author": "MARCIA DUNN AP aerospace writer",
+      "title": "NASA telescope is on the verge of plunging back to Earth after failed rescue mission - ABC News - Breaking News, Latest News and Videos",
+      "description": "It is barely clinging to space after a failed rescue effort left it tottering.",
+      "url": "https://abcnews.com/Technology/wireStory/nasa-telescope-verge-plunging-back-earth-after-failed-137731577",
+      "urlToImage": "https://i.abcnewsfe.com/a/dad8daa9-c101-4c9f-bbac-0b9b85c46bf7/wirestory_e890935df7f468048594286566a96357_16x9.jpg?w=1600",
+      "publishedAt": "2026-10-31T17:09:07Z",
+      "content": "CAPE CANAVERAL, Fla. -- An aging NASA telescope is barely clinging to space after a failed rescue effort left it tottering lower and lower.\r\nThe U.S. Space Force predicts the Swift Observatory will c… [+2614 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Foxweather.com"
+      },
+      "author": null,
+      "title": "Scientists monitoring Hawaii's Kīlauea for possible 56th eruption episode during first week of November - FOX Weather",
+      "description": "Hawaii's Kilauea volcano is on track to erupt once again in early November, roughly three weeks after its 55th eruptive episode concluded in mid-October.",
+      "url": "https://www.foxweather.com/extreme-weather/kilauea-hawaii-volcano-eruption-forecast-usgs-episode-56",
+      "urlToImage": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2026/10/1024/512/screenshot-2026-10-17-110135.png?ve=1&tl=1",
+      "publishedAt": "2026-10-31T16:44:00Z",
+      "content": "Hawaii's Kilauea volcano is on track to erupt once again in early November, roughly three weeks after its 55th eruptive episode concluded in mid-October. \r\nKilauea began its most recent eruptive patt… [+2057 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Justin Caffier",
+      "title": "NASA’s Begging the Commercial Space Industry to Save the Doomed Hubble Telescope - Gizmodo",
+      "description": "Budget gutted and shuttles grounded, the federal agency can only appeal to the private sector for help.",
+      "url": "https://gizmodo.com/nasas-begging-the-commercial-space-industry-to-save-the-doomed-hubble-telescope-2000833501",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/06/782fc1bbf1511c6022fe2105e67e6015.jpg",
+      "publishedAt": "2026-10-31T16:26:31Z",
+      "content": "When it comes to photography of the cosmos, the Hubble Space Telescope is one of the best to ever do ita real astronomical Ansel Adams. Just look at the staggering body of work its produced since bei… [+3227 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Ben Cost",
+      "title": "Crows make faster, better decisions than humans: study - New York Post",
+      "description": "We’re getting murdered — by a bunch of crows.",
+      "url": "https://nypost.com/2026/10/31/science/crows-make-faster-better-decisions-than-human-beings/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/newspress-collage-fa524u8z4-1793450761332.jpg?quality=75&strip=all&1793436413&w=1200",
+      "publishedAt": "2026-10-31T13:47:00Z",
+      "content": "We’re getting murdered  by a bunch of crows.\r\nPut to a test designed to gauge good decision-making skills, the feathered fauna raced past humans, scientists said.\r\nThese birdbrainiacs move in the fas… [+3371 chars]"
     },
     {
       "source": {
@@ -134,16 +199,16 @@
     },
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": null,
+        "name": "Phys.Org"
       },
-      "author": "Stephen Clark",
-      "title": "Think you can save the Hubble Space Telescope? NASA wants to know. - Ars Technica",
-      "description": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere.",
-      "url": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/hst_vantor-1080x648.jpg",
-      "publishedAt": "2026-10-31T00:07:22Z",
-      "content": null
+      "author": null,
+      "title": "Figuring out where cosmic neutrinos come from is tricky—radio telescopes could help find 'ghost particles' origin - Phys.org",
+      "description": "Neutrinos are funny little particles that weigh almost nothing, making them one of the universe's most elusive building blocks. They can come from objects as mundane as bananas and as exotic as supernovas—the exploding death throes of massive stars. Most neut…",
+      "url": "https://phys.org/news/2026-10-figuring-cosmic-neutrinos-tricky-radio.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/an-illustration-of-a-s-2.jpg",
+      "publishedAt": "2026-10-31T00:20:01Z",
+      "content": "Neutrinos are funny little particles that weigh almost nothing, making them one of the universe's most elusive building blocks. They can come from objects as mundane as bananas and as exotic as super… [+7634 chars]"
     },
     {
       "source": {
@@ -199,19 +264,6 @@
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Stella Raine Chu",
-      "title": "These Patients Struggle With Runaway Bones. Finally There’s Hope.",
-      "description": "F.O.P., a rare genetic condition, causes uncontrolled explosions of bone. New drugs may slow or halt the process.",
-      "url": "https://www.nytimes.com/2026/10/29/science/fop-bones-drugs.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/29/multimedia/29SCI-FOP-kcwm/29SCI-FOP-kcwm-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-30T20:20:50Z",
-      "content": "F.O.P., a rare genetic condition, causes uncontrolled explosions of bone. New drugs may slow or halt the process."
-    },
-    {
-      "source": {
         "id": null,
         "name": "Phys.Org"
       },
@@ -222,6 +274,19 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/tiny-photonic-chip-lin.jpg",
       "publishedAt": "2026-10-30T20:20:06Z",
       "content": "(a) Schematic of the CHARIOT set-up in the CHARA beam combiner lab. The two beams (purple and orange) enter the CHARIOT instrument table at the top left. Using a retroreflector (M1 + M2) on 2 motoriz… [+7527 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "UTe₂ reveals two flavors of superconductivity under extreme pressure - Phys.org",
+      "description": "Quantum researchers are searching for a topological superconductor—a material that, if discovered, would allow major advances in quantum computing by combining two distinct \"flavors\" of superconductivity.",
+      "url": "https://phys.org/news/2026-10-ute-reveals-flavors-superconductivity-extreme.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/two-flavors-of-superco.jpg",
+      "publishedAt": "2026-10-30T19:00:09Z",
+      "content": "Quantum researchers are searching for a topological superconductora material that, if discovered, would allow major advances in quantum computing by combining two distinct \"flavors\" of superconductiv… [+6466 chars]"
     },
     {
       "source": {
@@ -460,19 +525,6 @@
     {
       "source": {
         "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Jess Cockerill",
-      "title": "Two Crows Took a Classic Psychology Test. Their Decision-Making Skills Left Ours in The Dust. - Yahoo",
-      "description": "So much for 'birdbrains'...",
-      "url": "https://www.sciencealert.com/two-crows-took-a-classic-psychology-test-their-decision-making-skills-left-ours-in-the-dust",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/796ae0375d4ae87acb9b5358106f5e8d9125705ff08868ae75884871a10870a7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsciencealert_160%2F4f254fa2af1a2ce841810c315eb56772.jpg",
-      "publishedAt": "2026-10-30T11:00:00Z",
-      "content": "Two male crows have performed better than humans and monkeys in a classic psychology task designed to test how the brain makes decisions based on what it sees.\r\nIn prior experiments, corvids (a famil… [+4228 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Phys.Org"
       },
       "author": null,
@@ -576,19 +628,6 @@
     },
     {
       "source": {
-        "id": "mashable",
-        "name": "Mashable"
-      },
-      "author": "Lois Mackenzie",
-      "title": "Moon phase today: What the Moon will look like on October 30, 2026 - Mashable",
-      "description": "Can you see any lunar craters tonight?",
-      "url": "https://mashable.com/science/moon-phase-today-oct-30-2026",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/05BmqtNy5uY8qzBjPftZbpX/hero-image.fill.size_1200x675.v1793129370.jpg",
-      "publishedAt": "2026-10-30T04:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": null,
         "name": "Sci.news"
       },
@@ -616,15 +655,15 @@
     {
       "source": {
         "id": null,
-        "name": "KSL.com"
+        "name": "Foxweather.com"
       },
-      "author": "Laura Paddison, CNN",
-      "title": "Humans accidentally canceled the next ice age — but it's no reason to celebrate, scientists say - KSL News",
-      "description": "A shrinking ice cap in Arctic Canada tells a striking story of how humans may have halted the planet's next ice age by burning fossil fuels, according to new research.",
-      "url": "https://www.ksl.com/article/51642334/humans-accidentally-canceled-the-next-ice-age--but-its-no-reason-to-celebrate-scientists-say",
-      "urlToImage": "https://img.ksl.com/slc/3207/320736/32073613.jpg?filter=kslv2/responsive_story_lg",
-      "publishedAt": "2026-10-29T21:30:01Z",
-      "content": "POND INLET, Nunavut A shrinking ice cap in Arctic Canada tells a striking story of how humans may have halted the planet's next ice age by burning fossil fuels, according to new research.\r\nAround 20,… [+4961 chars]"
+      "author": null,
+      "title": "Second most valuable dinosaur fossil in the world is sold for over $47 million - FOX Weather",
+      "description": "Dinosaurs dominate in size, strength, and money, as a bidder recently bought the second most valuable dinosaur fossil for over $47 million.",
+      "url": "https://www.foxweather.com/earth-space/second-most-valuable-dinosaur-fossil-world-sold-47-million",
+      "urlToImage": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2026/10/1024/512/photo-credit_-matthew-sherman-scaled.jpg?ve=1&tl=1",
+      "publishedAt": "2026-10-29T22:20:00Z",
+      "content": "THE TAKEAWAY\r\n<ul><li>The second most valuable dinosaur fossil has sold for $47.3 million.</li><li>Researchers discovered the first Nanotyrannus fossil in the summer of 1942.</li><li>Six bidders foug… [+1951 chars]"
     },
     {
       "source": {
@@ -636,7 +675,7 @@
       "description": "Using the same techniques that allowed A.I. technologies to crack a million-dollar math problem, researchers are building new systems that aim to solve the world’s cybersecurity crisis.",
       "url": "https://www.nytimes.com/2026/10/29/science/ai-eradicate-computer-bugs.html",
       "urlToImage": "https://static01.nyt.com/images/2026/10/29/multimedia/29SCI-AND-TRUTH-01-hvwz/29SCI-AND-TRUTH-01-hvwz-mediumSquareAt3X-v2.jpg",
-      "publishedAt": "2026-10-29T21:09:08Z",
+      "publishedAt": "2026-10-29T21:09:09Z",
       "content": "Using the same techniques that allowed A.I. technologies to crack a million-dollar math problem, researchers are building new systems that aim to solve the world’s cybersecurity crisis."
     },
     {
@@ -680,32 +719,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": "Ingrid Fadelli",
-      "title": "Cosmic microwave background offers evidence of gas flowing in galaxy clusters - Phys.org",
-      "description": "The cosmic microwave background (CMB) is a faint glow in the universe dating back to roughly 380,000 years after the Big Bang, long before stars or galaxies emerged. Detecting this light and mapping its fluctuations provide valuable insights into the age and …",
-      "url": "https://phys.org/news/2026-10-cosmic-microwave-background-evidence-gas.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/cosmic-microwave-backg.jpg",
-      "publishedAt": "2026-10-29T16:10:01Z",
-      "content": "The cosmic microwave background (CMB) is a faint glow in the universe dating back to roughly 380,000 years after the Big Bang, long before stars or galaxies emerged. Detecting this light and mapping … [+6543 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Popular Science"
-      },
-      "author": "Laura Baisas",
-      "title": "Extremely chill bear named Paul wins a Dude-approved award - Yahoo",
-      "description": "For his patience around salmon, the USDA Forest Service awards the black bear the 2026 Dude abides Award.",
-      "url": "https://www.popsci.com/environment/bear-chill-dude-abides-award-alaska/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/51f70cc378b4bdce6dccb9e85e78c2d9e36e6fd86ae24837e60d5ec426f5ca1d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpopular_science_109%2F0b8ffa5aa0b3aad80583f4f2b609c1eb.png",
-      "publishedAt": "2026-10-29T16:09:00Z",
-      "content": "Like people (and snowflakes), no two bears are alike. Some have their own innovative fishing styles, or \"walk on water,\" while others will even adopt cubs who are not their own. And a bear named Paul… [+2177 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -716,6 +729,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/16/multimedia/00cli-hot-bricks-01-hqvp/00cli-hot-bricks-01-hqvp-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-29T16:05:30Z",
       "content": "Large batteries that store electricity have revolutionized power grids and car markets. Now some start-ups are betting that “heat batteries” could be just as transformative."
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Laura Paddison",
+      "title": "Humans accidentally canceled the next ice age — but it’s no reason to celebrate, scientists say - CNN",
+      "description": "A shrinking ice cap in Arctic Canada tells a striking story of how burning fossil fuels may have stopped an ice age in its infancy, new research finds",
+      "url": "https://www.cnn.com/2026/10/29/climate/how-humans-halted-the-next-ice-age",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/barnesicecapwide-oli2-20260712.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-10-29T15:45:39Z",
+      "content": "A shrinking ice cap in Arctic Canada tells a striking story of how humans may have halted the planets next ice age by burning fossil fuels, according to new research.\r\nAround 20,000 years ago, the on… [+5115 chars]"
     },
     {
       "source": {
@@ -745,6 +771,19 @@
     },
     {
       "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "William  Harwood",
+      "title": "Spacewalkers begin final phase of multi-year space station power system upgrade - CBS News",
+      "description": "Two astronauts stepped outside the International Space Station for the first of two spacewalks, one week apart, to complete a complex upgrade to the aging power system.",
+      "url": "https://www.cbsnews.com/news/spacewalkers-begin-final-phase-of-multi-year-space-station-power-system-upgrade/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/29/1fed623a-2ee7-4bf2-9009-5d269eba5f09/thumbnail/1200x630/ac25806398fd32d2aaefbf1973c61f52/102926-irosa-extended.jpg",
+      "publishedAt": "2026-10-29T13:40:00Z",
+      "content": "Two astronauts stepped outside the International Space Station Thursday for the first of two spacewalks, one week apart, to install a final pair of roll-out solar blankets that will complete a comple… [+5814 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "Space.com"
       },
@@ -768,19 +807,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/28/multimedia/00DC-Peptides-mpjh/00DC-Peptides-mpjh-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-29T12:42:21Z",
       "content": "In a unilateral declaration by the health secretary, several injections promoted by online influencers will become widely available. The F.D.A. had advised against the move."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "Einstein's equations may explain the universe without dark energy - Science Daily",
-      "description": "Mathematicians have uncovered what they argue is a fundamental flaw in the standard model of the universe, potentially challenging the need for dark energy. Their calculations suggest that the mathematical framework used to describe cosmic expansion is inhere…",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261028232719.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/albert-einstein-quantum-cosmology.webp",
-      "publishedAt": "2026-10-29T12:09:45Z",
-      "content": "Mathematicians are raising a major challenge to one of modern cosmology's most widely accepted explanations: the idea that dark energy is driving the accelerating expansion of the universe.A study pu… [+9164 chars]"
     },
     {
       "source": {
@@ -814,12 +840,12 @@
         "name": "Nature.com"
       },
       "author": null,
-      "title": "Eukaryotes’ closest relatives are internally simple syntrophic peptidotrophic archaea - Nature",
-      "description": "Cultures reveal conservation of cell structure,&nbsp;physical symbioses&nbsp;and anaerobiosis across&nbsp;Heimdallarchaeia (the archaeal lineage that branches closest to eukaryotes)&nbsp;and other Promethearchaeota.",
-      "url": "https://www.nature.com/articles/s41586-026-11170-7",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11170-7/MediaObjects/41586_2026_11170_Fig1_HTML.png",
+      "title": "Stone and water governed early human settlement of the desert - Nature",
+      "description": "A geoarchaeological survey of the Rub’ al Khali (the Empty Quarter of Arabia) and spatial modelling of the Arabian Peninsula suggest that human settlement tracked the co-occurrence of water and stone suitable for making tools, rather than water alone.",
+      "url": "https://www.nature.com/articles/s41586-026-11180-5",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11180-5/MediaObjects/41586_2026_11180_Fig1_HTML.png",
       "publishedAt": "2026-10-28T22:35:54Z",
-      "content": "Sample collection and culturing\r\nThe biofilm samples were collected from a gas production well, KTG3, in the Southern Kanto gas field (Chiba Prefecture, Japan). The biofilm was located on a wall of t… [+28394 chars]"
+      "content": "<li>Timmermann, A. &amp; Friedrich, T. Late Pleistocene climate drivers of early human migration. Nature538, 9295 (2016).\r\nArticle \r\n ADS \r\n CAS \r\n PubMed \r\nGoogle Scholar \r\n</li><li>Beyer, R. M., Kr… [+12917 chars]"
     },
     {
       "source": {
@@ -827,12 +853,12 @@
         "name": "Nature.com"
       },
       "author": null,
-      "title": "Stone and water governed early human settlement of the desert - Nature",
-      "description": "A geoarchaeological survey of the Rub’ al Khali (the Empty Quarter of Arabia) and spatial modelling of the Arabian Peninsula suggest that human settlement tracked the co-occurrence of water and stone suitable for making tools, rather than water alone.",
-      "url": "https://www.nature.com/articles/s41586-026-11180-5",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11180-5/MediaObjects/41586_2026_11180_Fig1_HTML.png",
+      "title": "Eukaryotes’ closest relatives are internally simple syntrophic peptidotrophic archaea - Nature",
+      "description": "Cultures reveal conservation of cell structure,&nbsp;physical symbioses&nbsp;and anaerobiosis across&nbsp;Heimdallarchaeia (the archaeal lineage that branches closest to eukaryotes)&nbsp;and other Promethearchaeota.",
+      "url": "https://www.nature.com/articles/s41586-026-11170-7",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11170-7/MediaObjects/41586_2026_11170_Fig1_HTML.png",
       "publishedAt": "2026-10-28T22:35:54Z",
-      "content": "<li>Timmermann, A. &amp; Friedrich, T. Late Pleistocene climate drivers of early human migration. Nature538, 9295 (2016).\r\nArticle \r\n ADS \r\n CAS \r\n PubMed \r\nGoogle Scholar \r\n</li><li>Beyer, R. M., Kr… [+12917 chars]"
+      "content": "Sample collection and culturing\r\nThe biofilm samples were collected from a gas production well, KTG3, in the Southern Kanto gas field (Chiba Prefecture, Japan). The biofilm was located on a wall of t… [+28394 chars]"
     },
     {
       "source": {
@@ -846,19 +872,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/29/multimedia/26ST-NEUTRINO-Q-AND-A-1-pwhl/26ST-NEUTRINO-Q-AND-A-1-pwhl-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-28T20:38:51Z",
       "content": "Dr. Francis Halzen, the recipient of the Nobel Prize in Physics, sheds some light on the mysterious, subatomic particles that whiz through us every day."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sci.news"
-      },
-      "author": "Enrico de Lazaro",
-      "title": "Betelgeuse’s Atmosphere is Back to Normal after Great Dimming Event, New Radio Observations Show - Sci.News",
-      "description": "New radio observations with NSF’s Karl G. Jansky Very Large Array (VLA) and the Atacama Large Millimeter/submillimeter Array (ALMA) show the red supergiant star’s outer atmosphere has rebounded and hint that its recently identified companion star is reshaping…",
-      "url": "https://www.sci.news/astronomy/betelgeuse-atmosphere-15161.html",
-      "urlToImage": "https://cdn.sci.news/images/2026/10/image_15161-Betelgeuse.jpg",
-      "publishedAt": "2026-10-28T19:37:27Z",
-      "content": "New radio observations with NSFs Karl G. Jansky Very Large Array (VLA) and the Atacama Large Millimeter/submillimeter Array (ALMA) show the red supergiant stars outer atmosphere has rebounded and hin… [+3625 chars]"
     },
     {
       "source": {
@@ -888,19 +901,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "Yeast paired with electricity can convert CO₂ into a chemical used in biodegradable plastics - Phys.org",
-      "description": "To limit further climate change, researchers are exploring technologies that can convert atmospheric carbon dioxide (CO₂) into useful products. In collaboration with BOKU University in Vienna (Austria), researchers at the Helmholtz Centre for Environmental Re…",
-      "url": "https://phys.org/news/2026-10-yeast-paired-electricity-chemical-biodegradable.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/yeast-and-electricity.jpg",
-      "publishedAt": "2026-10-28T17:20:10Z",
-      "content": "To limit further climate change, researchers are exploring technologies that can convert atmospheric carbon dioxide (CO) into useful products. In collaboration with BOKU University in Vienna (Austria… [+4947 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -927,16 +927,16 @@
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
+        "id": null,
+        "name": "Futurism"
       },
-      "author": "Lynne Peeples",
-      "title": "Can Scientists Make Football Safer?",
-      "description": "Researchers are exploring novel ways to treat, even prevent, the brain disease C.T.E. One of the most surprising: near-infrared light.",
-      "url": "https://www.nytimes.com/2026/10/28/science/cte-nfl-football-brain-safety.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/28/multimedia/28SCI-CTE-TREATMENTS-stillpromo-tfck/28SCI-CTE-TREATMENTS-stillpromo-tfck-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-28T15:00:11Z",
-      "content": "Researchers are exploring novel ways to treat, even prevent, the brain disease C.T.E. One of the most surprising: near-infrared light."
+      "author": "Victor Tangermann",
+      "title": "Unannounced Test by Controversial “Sunlight-as-a-Service” Space Startup Shocks Astronomers - Futurism",
+      "description": "\"Sunlight-as-a-serivce\" space startup Reflect Orbital lit up a mountainside in the California desert, shocking astronomers.",
+      "url": "https://futurism.com/space/test-controversial-sunlight-space-astronomers",
+      "urlToImage": "https://futurism.com/wp-content/uploads/2026/10/test-controversial-sunlight-space-astronomers.jpg?w=1200",
+      "publishedAt": "2026-10-28T14:42:31Z",
+      "content": "Can’t-miss innovations from the bleeding edge of science and tech\r\nEarlier this year, the US Federal Communications Commission approved the construction and launch of a prototype mirror satellite des… [+3787 chars]"
     },
     {
       "source": {
@@ -1018,6 +1018,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Big Think"
+      },
+      "author": "Ethan Siegel",
+      "title": "These 5 divisions define how far we can go in space - Big Think",
+      "description": "What's communicable or reachable is different from what's observable and unobservable, and all of that will evolve as the Universe expands.",
+      "url": "https://bigthink.com/starts-with-a-bang/five-divisions-how-far-space/",
+      "urlToImage": "https://bigthink.com/wp-content/uploads/2022/01/https___blogs-images.forbes.com_startswithabang_files_2017_02_Laniakea-Supercluster-1401x716-1-e1793093961600.jpg?w=871&h=490&crop=1",
+      "publishedAt": "2026-10-28T06:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1070,19 +1083,6 @@
     },
     {
       "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Jacopo Prisco",
-      "title": "Rare Nanotyrannus sells at auction for $47.3 million, becoming second most valuable fossil ever - CNN",
-      "description": "After a 12-minute bidding war among six contenders, a rare specimen named Jodi just narrowly missed the auction record for a fossil.",
-      "url": "https://www.cnn.com/2026/10/27/science/nanotyrannus-jodi-sale",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/photo-credit-matthew-sherman-9.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-10-27T17:24:31Z",
-      "content": "A rare skeleton of Nanotyrannus, a smaller T. rex relative, has sold at auction at Sothebys in New York for $47.3 million, after a 12-minute bidding war among six contenders.\r\nThe specimen, named Jod… [+3573 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Geekspin.co"
       },
@@ -1093,19 +1093,6 @@
       "urlToImage": "https://geekspin.co/wp-content/uploads/2026/10/Lumina.png",
       "publishedAt": "2026-10-27T15:00:15Z",
       "content": "We just got something pretty close to a baby photo of the universe. A team of astronomers at the Center for Astrophysics | Harvard &amp; Smithsonian has created the most detailed simulation yet of th… [+2628 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Whyevolutionistrue.com"
-      },
-      "author": null,
-      "title": "Nathaniel Comfort’s misguided take on The Selfish Gene at 50 - Why Evolution Is True",
-      "description": "Nathaniel Comfort is identified by Wikipedia as “an American historian specializing in the history of biology. He is an associate professor in the Institute of the History of Medicine at John…",
-      "url": "https://whyevolutionistrue.com/2026/10/27/nathaniel-comforts-wonky-take-on-the-selish-gene-at-50/",
-      "urlToImage": "https://whyevolutionistrue.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-at-6.08.11-AM.png",
-      "publishedAt": "2026-10-27T14:52:21Z",
-      "content": "Nathaniel Comfort is identified by Wikipedia as “an American historian specializing in the history of biology. He is an associate professor in the Institute of the History of Medicine at Johns Hopkin… [+12588 chars]"
     },
     {
       "source": {
