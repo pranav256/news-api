@@ -5,9 +5,22 @@
   "providers": [
     "rss"
   ],
-  "fetched_at": "2026-11-01T00:29:06.909534+00:00",
+  "fetched_at": "2026-11-01T08:13:45.127954+00:00",
   "articles_count": 21,
   "articles": [
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
+      "description": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
+      "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16f5/live/d2c08770-d493-11f1-93e1-3b657b665bcf.jpg",
+      "publishedAt": "2026-11-01T01:37:26Z",
+      "content": "The amount of debt held by data centres is measured in the tens of billions of pounds."
+    },
     {
       "source": {
         "id": "bbc-news",
@@ -176,19 +189,6 @@
       "urlToImage": "https://ichef.bbci.co.uk/images/ic/240x135/p0pjwm9g.jpg",
       "publishedAt": "2026-10-27T20:30:00Z",
       "content": "We hear from Ondřej Surý, the programmer whose PHP patches helped avert a cyber crisis."
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Apple to replace iPhone Duos affected by screen problem",
-      "description": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
-      "url": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/896f/live/1944e2f0-d1a5-11f1-a611-7ff246f4f9f3.jpg",
-      "publishedAt": "2026-10-27T09:37:55Z",
-      "content": "Photos shared online showed faults appearing on the screens of Apple's first foldable device."
     },
     {
       "source": {

@@ -6,8 +6,8 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-01T00:29:06.909534+00:00",
-  "articles_count": 86,
+  "fetched_at": "2026-11-01T08:13:45.127954+00:00",
+  "articles_count": 88,
   "articles": [
     {
       "source": {
@@ -63,6 +63,19 @@
     },
     {
       "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Stephen Clark",
+      "title": "Think you can save the Hubble Space Telescope? NASA wants to know. - Ars Technica",
+      "description": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere.",
+      "url": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/hst_vantor-1080x648.jpg",
+      "publishedAt": "2026-10-31T00:07:22Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -102,6 +115,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "A decade of carbon dioxide data from space gets an upgrade - Phys.org",
+      "description": "Every day, two NASA space instruments known as the Orbiting Carbon Observatory-2 and -3 (OCO-2 and OCO-3) capture more than a million observations of sunlight reflecting off Earth's surface. Using the physics of how light travels through the air, an algorithm…",
+      "url": "https://phys.org/news/2026-10-decade-carbon-dioxide-space.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/this-circular-view-of-1.jpg",
+      "publishedAt": "2026-10-30T18:40:08Z",
+      "content": "Every day, two NASA space instruments known as the Orbiting Carbon Observatory-2 and -3 (OCO-2 and OCO-3) capture more than a million observations of sunlight reflecting off Earth's surface. Using th… [+2932 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -125,6 +151,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/29/science/29sci-dna-bundy-01/29sci-dna-bundy-01-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-30T17:54:35Z",
       "content": "Software known as STRmix was instrumental in identifying Mr. Bundy’s DNA in a decades-old sample."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Live Science"
+      },
+      "author": "Kamal Nahas",
+      "title": "Neuroscientists reveal method to train people to have lucid dreams — and it involves virtual reality and mediation - Live Science",
+      "description": "People who had no recollection of a lucid dream over the past three years developed the skill after one month of performing a novel training regimen twice a week, neuroscientists report.",
+      "url": "https://www.livescience.com/health/neuroscience/neuroscientists-reveal-method-to-train-people-to-have-lucid-dreams-and-it-involves-virtual-reality-and-mediation",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/JbTarwH24z4CPsHjZGNwJN-1920-80.jpg",
+      "publishedAt": "2026-10-30T17:30:00Z",
+      "content": null
     },
     {
       "source": {
@@ -155,28 +194,15 @@
     {
       "source": {
         "id": null,
-        "name": "Theregister.com"
+        "name": "Phys.Org"
       },
-      "author": "Richard Speed",
-      "title": "Voyager 1 gives controllers the silent treatment - The Register",
-      "description": "Whew! Only kidding, here I am",
-      "url": "https://www.theregister.com/science/2026/10/30/voyager-1-gives-controllers-the-silent-treatment/5306637",
-      "urlToImage": "https://image.theregister.com/5306667.jpg?imageId=5306667&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "publishedAt": "2026-10-30T15:30:00Z",
-      "content": "Voyager 1 gave controllers the silent treatment for a few days this month before resuming communication weeks before the spacecraft reaches the one-light-day milestone.\r\nThe incident happened on Octo… [+2840 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Kerry  Breen",
-      "title": "Rose-colored meteorite found in the Sahara Desert turns out to be 4.1 billion-year-old piece of Mars - CBS News",
-      "description": "A meteorite found in the Sahara Desert has been determined to be 4.1 billion years old and from Mars.",
-      "url": "https://www.cbsnews.com/news/mars-meteorite-found-sahara-desert/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/30/44eee8a2-eeea-4fef-a026-a47a6c8e5dcf/thumbnail/1200x630/ee1ff852010614a3efe61595adf93889/1-closeup-of-teghaza-001-mars-meteorite.jpg",
-      "publishedAt": "2026-10-30T15:09:15Z",
-      "content": "A rose-colored meteorite found in the Sahara Desert in 2022 has been identified as a 4.1-billion-year-old chunk of the Red Planet, a NASA study determined. \r\nThe nearly two-pound meteorite was found … [+2513 chars]"
+      "author": null,
+      "title": "Quantum skyrmions outlast entanglement, hinting at more resilient networks - Phys.org",
+      "description": "Quantum networks could one day connect quantum computers into more powerful systems and enable new forms of secure communication. But a fundamental obstacle stands in the way: Quantum information is extraordinarily fragile, and the entanglement between partic…",
+      "url": "https://phys.org/news/2026-10-quantum-skyrmions-outlast-entanglement-hinting.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/quantum-skyrmions-coul.jpg",
+      "publishedAt": "2026-10-30T15:40:01Z",
+      "content": "Quantum networks could one day connect quantum computers into more powerful systems and enable new forms of secure communication. But a fundamental obstacle stands in the way: Quantum information is … [+5600 chars]"
     },
     {
       "source": {
@@ -193,6 +219,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "NASA's Voyager 1 conserves power, resolves brief communications pause - Phys.org",
+      "description": "NASA's Voyager team is celebrating two recent developments with the Voyager 1 spacecraft: In September, they successfully completed a months-long effort to stretch the spacecraft's diminishing power supply. Then, on Oct. 20, an unexpected loss of communicatio…",
+      "url": "https://phys.org/news/2026-10-nasa-voyager-power-communications.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/nasas-voyager-1-conser.jpg",
+      "publishedAt": "2026-10-30T14:20:10Z",
+      "content": "NASA's Voyager team is celebrating two recent developments with the Voyager 1 spacecraft: In September, they successfully completed a months-long effort to stretch the spacecraft's diminishing power … [+5249 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -203,6 +242,58 @@
       "urlToImage": null,
       "publishedAt": "2026-10-30T14:07:59Z",
       "content": "A tour of the three caves in southern Spain suggests that people in the area cannibalized one another as funerary practice over many generations."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Marine fossils in Colombia reveal possible evolutionary transition without mass extinction - Phys.org",
+      "description": "A remarkably diverse fossil ecosystem in central Colombia that preserves an unusual overlap between survivors of older Jurassic groups and newer Cretaceous lineages has led researchers at McGill University and the Centro de Investigaciones Paleontológicas (CI…",
+      "url": "https://phys.org/news/2026-10-marine-fossils-colombia-reveal-evolutionary.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/fossils-reveal-a-previ.jpg",
+      "publishedAt": "2026-10-30T14:00:05Z",
+      "content": "A remarkably diverse fossil ecosystem in central Colombia that preserves an unusual overlap between survivors of older Jurassic groups and newer Cretaceous lineages has led researchers at McGill Univ… [+3269 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Chelsea Gohd",
+      "title": "Ghostly Cat's Head Nebula haunts the cosmos photo of the day for Oct. 30, 2026 - Space",
+      "description": "Can you see the \"cat's head\" in this nebula?",
+      "url": "https://www.space.com/astronomy/ghostly-cats-head-nebula-haunts-the-cosmos-space-photo-of-the-day-for-oct-30-2026",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/VERqbGL74diN5Z37HipquF-1920-80.jpg",
+      "publishedAt": "2026-10-30T14:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Confirming altermagnetism: A geometric twist offers experimental proof - Phys.org",
+      "description": "For decades, physicists recognized only two types of magnetism that occur in materials without external influence: ferromagnetism and antiferromagnetism. In findings published in Science, a team led by the U.S. Department of Energy's SLAC National Accelerator…",
+      "url": "https://phys.org/news/2026-10-altermagnetism-geometric-experimental-proof.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/slac-researchers-find.jpg",
+      "publishedAt": "2026-10-30T12:20:01Z",
+      "content": "For decades, physicists recognized only two types of magnetism that occur in materials without external influence: ferromagnetism and antiferromagnetism. In findings published in Science, a team led … [+7963 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Long-standing Indigenous practice of adding shells to sand helps young clams withstand ocean acidification - Phys.org",
+      "description": "New research from the University of California, Davis, reveals why adding crushed shells to beach sand helps protect shell-making animals—such as clams, oysters and mussels—from the detrimental effects of ocean acidification.",
+      "url": "https://phys.org/news/2026-10-indigenous-adding-shells-sand-young.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/how-crushed-shells-pro.jpg",
+      "publishedAt": "2026-10-30T12:00:11Z",
+      "content": "New research from the University of California, Davis, reveals why adding crushed shells to beach sand helps protect shell-making animalssuch as clams, oysters and musselsfrom the detrimental effects… [+4868 chars]"
     },
     {
       "source": {
@@ -258,6 +349,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Skyatnightmagazine.com"
+      },
+      "author": "Iain Todd",
+      "title": "Rare Halloween Fireballs will be visible in the night sky this weekend. Here’s where to look and when - BBC Sky at Night Magazine",
+      "description": "How to see a fireball this Halloween. The Taurid meteor showers are active right now and could produce colourful fireballs in the night sky.",
+      "url": "https://www.skyatnightmagazine.com/news/halloween-fireballs",
+      "urlToImage": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/97eade0c-8936-42a7-b9ea-e37492af592b/thumbnails/6c073774-2761-4702-9c5a-e7c8e49318c3.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&platform=WEB&w=1200",
+      "publishedAt": "2026-10-30T09:51:36Z",
+      "content": "'Tis the season for the Halloween Fireballs and in this guide, we'll reveal how to see them this weekend.\r\nHalloween arrives in the depths of autumn amid the increasing darkening of the night sky and… [+8989 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -306,6 +410,32 @@
       "url": "https://bigthink.com/starts-with-a-bang/when-respected-theory-false/",
       "urlToImage": "https://bigthink.com/wp-content/uploads/2025/01/two-giraffes-and-a-baby-giraffe-grazing-in-a-field-e1793267312948.jpg?w=970&h=546&crop=1",
       "publishedAt": "2026-10-30T06:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NASA"
+      },
+      "author": "NASA Earth Observatory",
+      "title": "Vega Island Frozen in Fright - NASA Science (.gov)",
+      "description": "The sight of an icy skull-like visage on the Antarctic island could make one’s blood run cold.",
+      "url": "https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/",
+      "urlToImage": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/vega-island-frozen-in-fright/vegaislandzm_oli2_20261010_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "publishedAt": "2026-10-30T04:01:00Z",
+      "content": "Shrouded in ice in the lonely Weddell Sea, Vega Island is an eerie sight to behold. On this speck of land east of the Antarctic Peninsula, ice, rock outcrops, and glacial moraines combine to create t… [+3921 chars]"
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Lois Mackenzie",
+      "title": "Moon phase today: What the Moon will look like on October 30, 2026 - Mashable",
+      "description": "Can you see any lunar craters tonight?",
+      "url": "https://mashable.com/science/moon-phase-today-oct-30-2026",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/05BmqtNy5uY8qzBjPftZbpX/hero-image.fill.size_1200x675.v1793129370.jpg",
+      "publishedAt": "2026-10-30T04:00:00Z",
       "content": null
     },
     {
@@ -392,19 +522,6 @@
         "name": "Phys.Org"
       },
       "author": null,
-      "title": "Electrical signals reveal hidden magnetic information in altermagnets for first time - Phys.org",
-      "description": "Researchers have experimentally demonstrated, for the first time, that it is possible to obtain from an altermagnet a spin current that can transport magnetic information. This result is supported by the theoretical model of electron transport developed by th…",
-      "url": "https://phys.org/news/2026-10-electrical-reveal-hidden-magnetic-altermagnets.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/electrical-signals-rev.jpg",
-      "publishedAt": "2026-10-29T19:40:04Z",
-      "content": "Researchers have experimentally demonstrated, for the first time, that it is possible to obtain from an altermagnet a spin current that can transport magnetic information. This result is supported by… [+5011 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
       "title": "Experimental study on moths supports the molecular cookie cutter idea proposed for butterflies - Phys.org",
       "description": "Have you ever thought about reinventing yourself? According to a new study on moths conducted by Andrei Sourakov, collection coordinator of Lepidoptera at the Florida Museum of Natural History and affiliate associate professor of entomology at the University …",
       "url": "https://phys.org/news/2026-10-experimental-moths-molecular-cookie-cutter.html",
@@ -415,14 +532,14 @@
     {
       "source": {
         "id": null,
-        "name": "Space.com"
+        "name": "Phys.Org"
       },
-      "author": "Robert Lea",
-      "title": "Cosmic graveyard of zombie planets offers a grisly warning about our own solar system's fate - Space",
-      "description": "\"Sometimes dead is better.\"",
-      "url": "https://www.space.com/astronomy/stars/cosmic-graveyard-of-zombie-planets-offers-a-grisly-warning-about-our-own-solar-systems-fate",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Kja7G4PLLXQSasLn3kGfrg-2000-80.png",
-      "publishedAt": "2026-10-29T18:00:00Z",
+      "author": "Phys.org",
+      "title": "Researchers create first whole-body single-cell atlas of an adult vertebrate - Phys.org",
+      "description": null,
+      "url": "https://phys.org/news/2026-10-body-cell-atlas-adult-vertebrate.html",
+      "urlToImage": null,
+      "publishedAt": "2026-10-29T18:00:44Z",
       "content": null
     },
     {
@@ -437,19 +554,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/29/multimedia/29cli-newsletter-marathon-01-bctk/29cli-newsletter-marathon-01-bctk-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-29T16:57:11Z",
       "content": "Racing in Chicago showed your newsletter host firsthand how warming is disrupting the sport."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "Rubin observatory reveals two hidden companions of the Milky Way - Phys.org",
-      "description": "Preview data from the recently completed NSF-DOE Vera C. Rubin Observatory in Chile point to a wave of discoveries that may complete the census of the Milky Way's neighboring galaxies—including its faintest companions.",
-      "url": "https://phys.org/news/2026-10-rubin-observatory-reveals-hidden-companions.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/a-skymap-of-stars-in-t.jpg",
-      "publishedAt": "2026-10-29T16:40:01Z",
-      "content": "Preview data from the recently completed NSF-DOE Vera C. Rubin Observatory in Chile point to a wave of discoveries that may complete the census of the Milky Way's neighboring galaxiesincluding its fa… [+5542 chars]"
     },
     {
       "source": {
@@ -502,19 +606,6 @@
       "urlToImage": "https://archaeologymag.com/wp-content/uploads/varnish-chauvet-cave-art-¹.jpg",
       "publishedAt": "2026-10-29T15:41:45Z",
       "content": "Deep inside a limestone cave in southeastern France sits some of the oldest art ever made by people. Chauvet Cave is fragile and important enough to history for officials to keep the location secret … [+3877 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": "Paul Arnold",
-      "title": "Ultrathin carbon ribbons conduct electricity like metals in first successful synthesis - Phys.org",
-      "description": "As modern electronic devices shrink, so do the metal electrical wires inside them. However, they start to run into serious problems the smaller they get. Conventional wires generate excessive heat and suffer a massive spike in electrical resistance that affec…",
-      "url": "https://phys.org/news/2026-10-ultrathin-carbon-ribbons-electricity-metals.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/new-ultrathin-carbon-r.jpg",
-      "publishedAt": "2026-10-29T15:10:01Z",
-      "content": "As modern electronic devices shrink, so do the metal electrical wires inside them. However, they start to run into serious problems the smaller they get. Conventional wires generate excessive heat an… [+3575 chars]"
     },
     {
       "source": {
@@ -584,41 +675,15 @@
     {
       "source": {
         "id": null,
-        "name": "Space.com"
-      },
-      "author": "Tereza Pultarova",
-      "title": "Stunning solar eclipse photos reveal giant hole and mysterious 'smoke rings' in the sun's atmosphere - Space",
-      "description": "Solar eclipse photography provides a unique vista into the processes taking place in the sun's upper atmosphere.",
-      "url": "https://www.space.com/stargazing/solar-eclipses/stunning-solar-eclipse-photos-reveal-giant-hole-and-mysterious-smoke-rings-in-the-suns-atmosphere",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/BxpA68cGECBXzZaMLvKNbU-1421-80.png",
-      "publishedAt": "2026-10-29T12:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
         "name": "ScienceAlert"
       },
       "author": "Peter Dockrill",
-      "title": "Scientists Ran 100,000 Simulations of Comets Striking Earth. The Results Are a Surprise. - Yahoo Tech",
-      "description": "“A one-in-a-million occurrence.”",
+      "title": "We May Have Been Wrong About How Comets Seeded Life on Earth - ScienceAlert",
+      "description": "Where did we come from? The answer, many scientists have proposed, is space.",
       "url": "https://www.sciencealert.com/scientists-ran-100000-simulations-of-comets-striking-earth-the-results-are-a-surprise",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/7cc82a3742db8a9321a45fd09636e5e7fecff5fd9c36f976c2fd647d50712abc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsciencealert_160%2F799874779b324fe5abb2d8e8f96a0a7a.jpg",
-      "publishedAt": "2026-10-29T11:00:00Z",
-      "content": "Where did we come from? The answer, many scientists have proposed, is space.\r\nOne longstanding theory, hypothesized for over a century, is that life on Earth emerged from fragments of prebiotic chemi… [+3781 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Live Science"
-      },
-      "author": "Elizabeth Howell",
-      "title": "Stunning new simulation shows the first galaxies breaking through the Cosmic Dark Age - Live Science",
-      "description": "A new program aims to help scientists figure out how the ingredients of the universe formed early galaxies, which lit up the cosmos after a \"dark age.\"",
-      "url": "https://www.livescience.com/space/cosmology/new-simulation-of-the-universe-shows-the-first-2-billion-years-after-the-big-bang-play-out-in-stunning-detail",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Ufy7nP8P8MCnr2dMVxKfWi-1920-80.jpg",
-      "publishedAt": "2026-10-29T10:41:03Z",
-      "content": null
+      "urlToImage": "https://www.sciencealert.com/images/2026/10/comet-in-sky.jpg",
+      "publishedAt": "2026-10-29T11:02:19Z",
+      "content": "Where did we come from? The answer, many scientists have proposed, is space.\r\nOne longstanding theory, hypothesized for over a century, is that life on Earth emerged from fragments of prebiotic chemi… [+3882 chars]"
     },
     {
       "source": {
@@ -648,19 +713,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Daniel Farr",
-      "title": "Small California town hit with ‘sky glow’ as startup tests science fiction tech - New York Post",
-      "description": "The technology has sparked public criticism and scientific concerns.",
-      "url": "https://nypost.com/2026/10/28/us-news/california-town-blasted-with-artificial-sunlight-as-startup-tests-tech/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/146791510.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-10-29T01:50:00Z",
-      "content": "A small California town was hit with a dazzling nighttime glare as a tech startup tested its futuristic plan to beam sunlight onto Earth after dark using powerful spotlights in the mountains instead … [+2308 chars]"
-    },
-    {
-      "source": {
         "id": "ars-technica",
         "name": "Ars Technica"
       },
@@ -671,6 +723,19 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/55617683176_c8f6425b60_o-1152x648-1793207864.jpg",
       "publishedAt": "2026-10-28T22:51:15Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": null,
+      "title": "Eukaryotes’ closest relatives are internally simple syntrophic peptidotrophic archaea - Nature",
+      "description": "Cultures reveal conservation of cell structure,&nbsp;physical symbioses&nbsp;and anaerobiosis across&nbsp;Heimdallarchaeia (the archaeal lineage that branches closest to eukaryotes)&nbsp;and other Promethearchaeota.",
+      "url": "https://www.nature.com/articles/s41586-026-11170-7",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11170-7/MediaObjects/41586_2026_11170_Fig1_HTML.png",
+      "publishedAt": "2026-10-28T22:35:54Z",
+      "content": "Sample collection and culturing\r\nThe biofilm samples were collected from a gas production well, KTG3, in the Southern Kanto gas field (Chiba Prefecture, Japan). The biofilm was located on a wall of t… [+28394 chars]"
     },
     {
       "source": {
@@ -701,6 +766,19 @@
     {
       "source": {
         "id": null,
+        "name": "Sci.news"
+      },
+      "author": "Enrico de Lazaro",
+      "title": "Betelgeuse’s Atmosphere is Back to Normal after Great Dimming Event, New Radio Observations Show - Sci.News",
+      "description": "New radio observations with NSF’s Karl G. Jansky Very Large Array (VLA) and the Atacama Large Millimeter/submillimeter Array (ALMA) show the red supergiant star’s outer atmosphere has rebounded and hint that its recently identified companion star is reshaping…",
+      "url": "https://www.sci.news/astronomy/betelgeuse-atmosphere-15161.html",
+      "urlToImage": "https://cdn.sci.news/images/2026/10/image_15161-Betelgeuse.jpg",
+      "publishedAt": "2026-10-28T19:37:27Z",
+      "content": "New radio observations with NSFs Karl G. Jansky Very Large Array (VLA) and the Atacama Large Millimeter/submillimeter Array (ALMA) show the red supergiant stars outer atmosphere has rebounded and hin… [+3625 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Quanta Magazine"
       },
       "author": null,
@@ -727,19 +805,6 @@
     {
       "source": {
         "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "Clues about complex life come from freshly cultivated archaea - Nature",
-      "description": "Two archaeal strains that share a common ancestor with eukaryotic cells have been examined in culture.",
-      "url": "https://www.nature.com/articles/d41586-026-03294-7",
-      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03294-7/d41586-026-03294-7_53904018.jpg",
-      "publishedAt": "2026-10-28T18:03:20Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
         "name": "SFGate"
       },
       "author": "Amanda Heidt",
@@ -749,19 +814,6 @@
       "urlToImage": "https://s.hdnux.com/photos/01/67/60/55/31394666/7/rawImage.jpg",
       "publishedAt": "2026-10-28T18:00:11Z",
       "content": "Earlier this month, paleontologists with the Utah Geological Survey broke ground on a new excavation site in the Utah desert just outside Arches National Park. The land, newly dubbed the Ironstone Bo… [+4645 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "A spider named for Stephen Colbert has a genome about 50% larger than ours - Phys.org",
-      "description": "Many spiders reach their maximum size about this time of year, having spent the summer eating, which helps explain their starring role in Halloween decorations. Researchers at the University of California, Davis, have found that one particular trapdoor spider…",
-      "url": "https://phys.org/news/2026-10-spider-stephen-colbert-genome-larger.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/scientists-sequence-ge.jpg",
-      "publishedAt": "2026-10-28T17:40:11Z",
-      "content": "Many spiders reach their maximum size about this time of year, having spent the summer eating, which helps explain their starring role in Halloween decorations. Researchers at the University of Calif… [+4215 chars]"
     },
     {
       "source": {
@@ -830,19 +882,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Oceanographic Magazine"
-      },
-      "author": "Rob Hutchins",
-      "title": "Antarctic meltwater engine sputters as key ocean layer reverses - Oceanographic Magazine",
-      "description": "The Antarctic Intermediate Water has abruptly reversed course since 2016 as sea ice shrank, raising ocean warming and sea level rise concerns",
-      "url": "https://oceanographicmagazine.com/news/antarctic-meltwater-engine-sputters-as-key-ocean-layer-reverses/",
-      "urlToImage": "https://cdn.oceanographicmagazine.com/wp-content/uploads/2026/10/28132935/Matt-Palmer-scaled.jpg",
-      "publishedAt": "2026-10-28T13:39:37Z",
-      "content": "A vast layer of fresh water that helps store carbon, supply oxygen, and drive ocean currents across the Southern Hemisphere has rapidly reversed its long-term trends, new research has found, leading … [+1732 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -895,16 +934,16 @@
     },
     {
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
+        "id": null,
+        "name": "Phys.Org"
       },
-      "author": "Gretchen Reynolds",
-      "title": "Column | Your muscles can get ‘lazy’ fast. Here’s what to do about it. - The Washington Post",
-      "description": "Taking a three-minute walk every 25 minutes can help your muscles stay active, even if you sit all day.",
-      "url": "https://www.washingtonpost.com/wellness/2026/10/28/your-muscles-can-get-lazy-fast-heres-what-do-about-it/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/36UVSYNLHHHJDGNTNNLCX4AVTQ.jpg&w=1440",
-      "publishedAt": "2026-10-28T10:31:56Z",
-      "content": "Your leg muscles are getting lazier as you sit and read this sentence. \r\nIn fact, according to one of the first studies to precisely measure leg muscle activity during movement and at rest, our legs … [+55 chars]"
+      "author": null,
+      "title": "Major Southern Hemisphere ocean layer shifts, raising questions about heat and carbon storage - Phys.org",
+      "description": "The Antarctic Intermediate Water (AAIW)—a vast layer of fresh water spanning much of the Southern Hemisphere's ocean—has rapidly reversed its long-term trends in salinity and density, according to new research. The AAIW helps store carbon, supply oxygen and d…",
+      "url": "https://phys.org/news/2026-10-major-southern-hemisphere-ocean-layer.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/antarctic-sea-ice-loss.jpg",
+      "publishedAt": "2026-10-28T10:00:01Z",
+      "content": "The Antarctic Intermediate Water (AAIW)a vast layer of fresh water spanning much of the Southern Hemisphere's oceanhas rapidly reversed its long-term trends in salinity and density, according to new … [+5135 chars]"
     },
     {
       "source": {
@@ -917,19 +956,6 @@
       "url": "https://www.space.com/spooky-space-images",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/hvUbPFWvWPn2wxcuHFuSJf.gif",
       "publishedAt": "2026-10-28T09:51:33Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Big Think"
-      },
-      "author": "Ethan Siegel",
-      "title": "These five divisions define how far we can go in space - Big Think",
-      "description": "What's communicable or reachable is different from what's observable and unobservable, and all of that will evolve as the Universe expands.",
-      "url": "https://bigthink.com/starts-with-a-bang/five-divisions-how-far-space/",
-      "urlToImage": "https://bigthink.com/wp-content/uploads/2022/01/https___blogs-images.forbes.com_startswithabang_files_2017_02_Laniakea-Supercluster-1401x716-1-e1793093961600.jpg?quality=85&w=871&h=490&crop=1",
-      "publishedAt": "2026-10-28T06:00:00Z",
       "content": null
     },
     {
@@ -977,12 +1003,25 @@
         "name": "Live Science"
       },
       "author": "Kristina Killgrove",
-      "title": "30,000-year-old bone found in French cave reveals vast genetic connections between people of Eastern and Western Europe during the Stone Age - Live Science",
+      "title": "30,000-year-old bone found in French cave reveals vast genetic connections between people of Eastern and Western Europe during the Stone Age - Yahoo",
       "description": "Scientists sequenced the genome of a woman who lived 30,000 years ago and discovered that she had mixed Eastern and Western European ancestry.",
       "url": "https://www.livescience.com/archaeology/human-evolution/30-000-year-old-bone-found-in-french-cave-reveals-vast-genetic-connections-between-people-of-eastern-and-western-europe-during-the-stone-age",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/9ULkzurYhCDQT5SfC3k6Ci-1024-80.png",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/c1bf0bcb0a611aff417e7cc9d06ada74cee69e7f4e3ed57dba6527c08d8229ac/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flive_science_953%2Fea374f072d3dce0f09c67f6413d506d8.png",
       "publishedAt": "2026-10-27T17:54:39Z",
-      "content": null
+      "content": "When you buy through links on our articles, Future and its syndication partners may earn a commission.\r\nIsturitz Cave, where the bone of a Gravettian-era woman was discovered. | Credit: Séverine Daba… [+3491 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Geekspin.co"
+      },
+      "author": "Mary Dada",
+      "title": "New supercomputer simulation reveals how the universe formed - geekspin",
+      "description": "We just got something pretty close to a baby photo of the universe. A team of astronomers at the Center for Astrophysics | Harvard & Smithsonian has",
+      "url": "https://geekspin.co/new-supercomputer-simulation-reveals-how-the-universe-formed/",
+      "urlToImage": "https://geekspin.co/wp-content/uploads/2026/10/Lumina.png",
+      "publishedAt": "2026-10-27T15:00:15Z",
+      "content": "We just got something pretty close to a baby photo of the universe. A team of astronomers at the Center for Astrophysics | Harvard &amp; Smithsonian has created the most detailed simulation yet of th… [+2628 chars]"
     },
     {
       "source": {
@@ -1003,10 +1042,10 @@
         "name": "Popular Mechanics"
       },
       "author": "Darren Orf",
-      "title": "Scientists Made an 80-Year-Old’s Cells Look 19 Years Old. Could It Mean Aging Is Reversible? - Yahoo News Canada",
+      "title": "Scientists Made an 80-Year-Old’s Cells Look 19 Years Old. Could It Mean Aging Is Reversible? - Yahoo",
       "description": "By reprogramming red blood cell precursors into neural stem cells, researchers effectively reset the cell’s molecular clock.",
       "url": "https://www.popularmechanics.com/science/health/a74234857/old-cells-reversed-aging/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/84d4f7ff2e872bc4ad56a4308a2cc9df8ae06725241d97471accc11844490fe2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpopular_mechanics_642%2Fcad87cf4a1f8add735550debce44444d.jpg",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/2a229f02c42b2664673901eac1ff1fd44d096c88fc659f8ac61fa711feb24f4a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpopular_mechanics_642%2Fcad87cf4a1f8add735550debce44444d.jpg",
       "publishedAt": "2026-10-27T12:30:00Z",
       "content": "The human body contains more than 200 major cell types, but all of those differing cellswhether blood cells, brain cells, muscle cells, and on and on and onoriginate from just one fertilized zygote. … [+3342 chars]"
     },
@@ -1038,19 +1077,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "1.9-million-year-old discovery rewrites the story of human evolution - Science Daily",
-      "description": "New evidence suggests that early humans reached the Jordan Valley at least 1.9 million years ago, hundreds of thousands of years earlier than scientists previously thought. Advanced dating methods revealed that the ‘Ubeidiya site is roughly as old as the famo…",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261025073042.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/ubeidiya-hippopotamus-ivory-tusk.webp",
-      "publishedAt": "2026-10-27T01:36:50Z",
-      "content": "An archaeological site in the Jordan Valley is rewriting the timeline of early human migration. New research shows that 'Ubeidiya is at least 1.9 million years old, placing humans in the region hundr… [+5748 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1078,14 +1104,14 @@
     {
       "source": {
         "id": null,
-        "name": "Live Science"
+        "name": "Space.com"
       },
-      "author": "Andrey Feldman",
-      "title": "A neglected particle from the dawn of time could explain why everything in the universe exists - Live Science",
-      "description": "A hypothetical particle could have briefly held more energy than everything else in the infant universe combined.",
-      "url": "https://www.livescience.com/physics-mathematics/particle-physics/a-neglected-particle-from-the-dawn-of-time-could-explain-why-everything-in-the-universe-exists",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/y7EFUxsvJb7iuJ5eivBjH7-2000-80.jpg",
-      "publishedAt": "2026-10-26T17:50:27Z",
+      "author": "Michaela Musilova",
+      "title": "Analog astronauts: How living underwater can prepare humans for space missions - Space",
+      "description": "The risks and advantages of performing research missions underwater to prepare for space exploration.",
+      "url": "https://www.space.com/space-exploration/missions/analog-astronauts-how-living-underwater-can-prepare-humans-for-space-missions",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/sTxkVadD9aNk8qvTshrNWa-2560-80.jpg",
+      "publishedAt": "2026-10-26T21:00:00Z",
       "content": null
     },
     {

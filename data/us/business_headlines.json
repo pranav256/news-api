@@ -6,9 +6,22 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-01T00:29:06.909534+00:00",
+  "fetched_at": "2026-11-01T08:13:45.127954+00:00",
   "articles_count": 100,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Sarah Bahr",
+      "title": "What’s New at the Museum? Stargazing, Escape Rooms, Bachelorette Parties and More",
+      "description": "Museums are pitching themselves as date-night destinations — and finding a generation of takers.",
+      "url": "https://www.nytimes.com/2026/10/30/arts/design/late-night-museums-young-people.html",
+      "urlToImage": null,
+      "publishedAt": "2026-11-01T05:25:35Z",
+      "content": "Museums are pitching themselves as date-night destinations — and finding a generation of takers."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -45,7 +58,7 @@
       "description": "A war room. A global conference call. A founder who live-posted about the largest crypto heist in history. Inside a frantic 24 hours at the world’s biggest crypto exchange.",
       "url": "https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html",
       "urlToImage": "https://static01.nyt.com/images/2026/11/01/business/00biz-binance-ticktock/00biz-binance-ticktock-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-31T22:19:48Z",
+      "publishedAt": "2026-10-31T22:19:49Z",
       "content": "A war room. A global conference call. A founder who live-posted about the largest crypto heist in history. Inside a frantic 24 hours at the world’s biggest crypto exchange."
     },
     {
@@ -167,6 +180,45 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Michael Sinkewicz",
+      "title": "Expert warns of 'AI hacking bloodbath' following massive Binance cryptocurrency theft - Fox Business",
+      "description": "Eric Schiffer warns the $6.3 billion Binance hack signals a coming \"bloodbath of AI hacking\" as cybersecurity threats grow more sophisticated.",
+      "url": "https://www.foxbusiness.com/technology/expert-warns-ai-hacking-bloodbath-following-massive-binance-cryptocurrency-theft",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/10/0/0/changpeng-zhao-binance-6-billion-hack.jpg?ve=1&tl=1",
+      "publishedAt": "2026-10-31T03:09:00Z",
+      "content": "The massive $6.3 billion cryptocurrency hack at Binance is a warning of potentially devastating cyberattacks ahead, according to a financial and reputation management expert who cautioned that the wo… [+5734 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Berber Jin",
+      "title": "OpenAI Raises Less Than Half of $30 Billion Target in Latest Round - WSJ",
+      "description": "The ChatGPT maker’s latest funding round values it at $1.25 trillion, less than its $1.4 trillion target",
+      "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
+      "urlToImage": "https://images.wsj.net/im-81428095/social",
+      "publishedAt": "2026-10-31T02:56:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Brittany Miller",
+      "title": "McDonald's dealt legal setback as judge allows McRib meat lawsuit to proceed - Fox Business",
+      "description": "A federal judge dealt McDonald's a legal setback, allowing a lawsuit accusing the fast-food giant of misleading customers about the meat in its McRib sandwich to move forward.",
+      "url": "https://www.foxbusiness.com/lifestyle/mcdonalds-dealt-legal-setback-judge-allows-mcrib-lawsuit-over-sandwichs-meat-proceed",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/01/0/0/mcdonalds-3.jpg?ve=1&tl=1",
+      "publishedAt": "2026-10-31T01:33:00Z",
+      "content": "A federal judge ruled Friday that McDonald's must face a proposed class action lawsuit accusing the fast-food giant of misleading customers about the meat used in its popular McRib sandwich.\r\nU.S. Di… [+3073 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -193,16 +245,55 @@
     },
     {
       "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
+        "id": "bloomberg",
+        "name": "Bloomberg"
       },
-      "author": "Cristian  Benavides, Maya  Blackstone",
-      "title": "Internal documents reveal scramble for funds before around-the-world \"forever cruise\" was stranded - CBS News",
-      "description": "The MV Odyssey was billed as a continuous around-the-world cruise when it launched in October 2024. It ended abruptly in Cambodia.",
-      "url": "https://www.cbsnews.com/news/forever-cruise-odyssey-villa-vie-documents/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/29/843ce3d8-ef58-4304-a1a0-11e05f15fb50/thumbnail/1200x630/f1373230e96edc8aae8c5ea497dbb31d/gettyimages-2301851494.jpg",
-      "publishedAt": "2026-10-30T21:26:12Z",
-      "content": "When the journey of the MV Odyssey luxury cruise ship came to a sudden end earlier this week in Cambodia, giving residents on the ship just hours to disembark, it marked the culmination of several at… [+5755 chars]"
+      "author": "Davide Barbuscia, Riley Griffin",
+      "title": "Meta’s Rating Outlook Cut to Negative by S&P on AI Spending - Bloomberg.com",
+      "description": "S&P Global Ratings took an early step toward potentially downgrading Meta Platforms Inc.’s credit rating within the next two years, amid growing pressure on the tech company’s balance sheet stemming from elevated spending tied to artificial intelligence.",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-30/meta-s-credit-rating-outlook-downgraded-to-negative-by-s-p",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4IxwlJthydg/v0/1200x800.jpg",
+      "publishedAt": "2026-10-30T23:23:31Z",
+      "content": "S&amp;P Global Ratings took an early step toward potentially downgrading Meta Platforms Inc.s credit rating within the next two years, amid growing pressure on the tech companys balance sheet stemmin… [+311 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Alicia McElhaney, Samantha Kroontje, Matt Wirz, Peter Rudegeair",
+      "title": "Exclusive | Hedge Fund Arini Offloads $800 Million in Debt as Losses Deepen - WSJ",
+      "description": "Hamza Lemssouguer’s fund known for its bold bets suffered margin calls after several investments tumbled",
+      "url": "https://www.wsj.com/finance/investing/hedge-fund-arini-offloads-800-million-in-debt-as-losses-deepen-2d24626c",
+      "urlToImage": "https://images.wsj.net/im-30286451/social",
+      "publishedAt": "2026-10-30T22:43:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Julie Bort",
+      "title": "Intel’s stock crashes, knocking $12B from government’s stake - TechCrunch",
+      "description": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/10/Intel-Lip-Bu-Tan-1.jpg?resize=1200,800",
+      "publishedAt": "2026-10-30T21:54:34Z",
+      "content": "Intel’s stock suffered one of its worst days ever on Friday, crashing around 28% after the chip giant reported a weaker-than-expected outlook for the fourth quarter. \r\nThis rout reduced the value of … [+1775 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Bellan",
+      "title": "Cracks are emerging in the AI spending boom - TechCrunch",
+      "description": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
+      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/10/mick-haupt-7Kv1Elbagcc-unsplash.jpg?resize=1200,800",
+      "publishedAt": "2026-10-30T21:17:40Z",
+      "content": "Investors are getting nervous about AI infrastructure spending just as the Big Tech companies double down. \r\nOver the past two weeks, Alphabet, Amazon, Meta, and Microsoft have outlined plans to spen… [+4187 chars]"
     },
     {
       "source": {
@@ -232,19 +323,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Newsnationnow.com"
-      },
-      "author": "NewsNation",
-      "title": "Ground cinnamon recalled in 13 states - NewsNation",
-      "description": null,
-      "url": "https://www.newsnationnow.com/us-news/recalls/cinnamon-recall-13-states/",
-      "urlToImage": null,
-      "publishedAt": "2026-10-30T20:49:44Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -255,32 +333,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/30/business/30Biz-Cryptoconsumer/30Biz-Cryptoconsumer-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-30T20:49:27Z",
       "content": "After a $6.3 billion hack, the company said it was going to reimburse customers who had losses."
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Stevie Bonifield",
-      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk - The Verge",
-      "description": "As OpenAI’s buying spree squeezes the world’s supply of RAM, its CEO explains why he needs so much.﻿",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-1778705436.jpg?quality=90&strip=all&crop=0%2C12.629941573716%2C100%2C74.740116852568&w=1200",
-      "publishedAt": "2026-10-30T20:48:43Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nAs OpenAIs buying spree squeezes the worlds supply of RAM, its CEO explains why he needs so much.\r\nAs OpenAIs buying spree squeezes the worlds supply of RAM, its… [+2544 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "WSJ",
-      "title": "Stock Market Today: Nasdaq Dives 2.9% on Tech Selloff — Live Updates - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-30-2026",
-      "urlToImage": null,
-      "publishedAt": "2026-10-30T20:46:13Z",
-      "content": null
     },
     {
       "source": {
@@ -336,19 +388,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Ines Ferré",
-      "title": "North Korean hackers likelinked to record-breaking $6.3 billion Binance crypto heist - Yahoo Finance",
-      "description": "Crypto asset prices declined on Friday after a hack on Binance impacted $6.3 billion in funds.",
-      "url": "https://finance.yahoo.com/markets/article/bitcoin-drops-to-76000-as-binance-hack-spooks-investors-tether-circle-freeze-assets-083406383.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/0069c0619791d183862be783732c96cf499d36194994a52ecc9386eb173fdcb6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F62a91bab-02e3-4886-97cb-847f58654c8e",
-      "publishedAt": "2026-10-30T20:00:19Z",
-      "content": "Binance, the world's largest cryptocurrency exchange, was hit late Thursday by what investigators say is the biggest crypto hack in history, with $6.3 billion in funds impacted and roughly half of th… [+4072 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -388,6 +427,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "Daniel Sparks",
+      "title": "Apple Is Near a Record. Netflix Is Down More Than Half. I'd Buy Only 1 of Them. - The Motley Fool",
+      "description": "One of these stocks costs under half as much relative to expected earnings. Is the cheaper one the better buy?",
+      "url": "https://www.fool.com/investing/2026/10/30/apple-is-near-a-record-netflix-is-down-more-than-half-i-d-buy-only-1-of-them/",
+      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F90016a70dd183297b48efaf3acb2af7a8191202f-1290x860.jpg&w=1200&op=resize",
+      "publishedAt": "2026-10-30T19:32:00Z",
+      "content": "Apple(AAPL-1.23%) shares are roughly $350 as I write, close to their all-time high and up about 29% so far in 2026.\r\nNetflix(NFLX+0.05%) shares, meanwhile, reached their one-year low on Oct. 29. Near… [+4173 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -401,16 +453,16 @@
     },
     {
       "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
+        "id": null,
+        "name": "Yahoo Entertainment"
       },
-      "author": "Rita Nazareth",
-      "title": "Tech Stock Selloff Deepens on Earnings, Oil Rises: Markets Wrap - Bloomberg.com",
-      "description": "Wall Street got a reality check as a bruising selloff in technology shares fueled concern the artificial-intelligence frenzy that has powered the equity bull market might be overblown.",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-29/stock-market-today-dow-s-p-live-updates",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPLSZ0HICF5k/v0/1200x800.jpg",
-      "publishedAt": "2026-10-30T19:09:34Z",
-      "content": "Wall Street got a reality check as a bruising selloff in technology shares fueled concern the artificial-intelligence frenzy that has powered the equity bull market might be overblown.\r\nDisappointing… [+363 chars]"
+      "author": "Grace O'Donnell",
+      "title": "Stock market today: Nasdaq dives over 3%, S&P 500 and Dow tank as AI reckoning grips Wall Street - Yahoo Finance",
+      "description": "US stocks had their worst day since June as AI fears sparked a brutal sell-off.",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/abd6d02b3b18cceff8bea46f331b48f5f577e795a06d9ebd0ad62d06faaf5195/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2F30c37b1b-860e-46e4-95a2-6e33368a9f3f",
+      "publishedAt": "2026-10-30T19:14:29Z",
+      "content": "US stocks plunged in the final trading day of the month as earnings from Amazon (AMZN) and Alphabet (GOOG, GOOGL) this week rekindled concerns about the amount of money Big Tech is spending on its AI… [+17127 chars]"
     },
     {
       "source": {
@@ -441,15 +493,15 @@
     {
       "source": {
         "id": null,
-        "name": "Fox Business"
+        "name": "Motley Fool"
       },
-      "author": "Eric Revell",
-      "title": "Oil giants post billions in profits as Americans feel pain at the pump - Fox Business",
-      "description": "ExxonMobil and Chevron posted massive quarterly profits as Middle East and Russia-Ukraine conflicts drove gas prices up 34.2% year over year.",
-      "url": "https://www.foxbusiness.com/economy/oil-giants-post-billions-profits-americans-feel-pain-pump",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/04/0/0/gas-pump-prices-iran-conflict.png?ve=1&tl=1",
-      "publishedAt": "2026-10-30T18:52:00Z",
-      "content": "U.S. oil giants raked in billions of dollars in profits in the third quarter as oil prices surged amid supply constraints caused by conflicts around the world, contributing to higher prices at the pu… [+3046 chars]"
+      "author": "Danny Vena, CPA",
+      "title": "Wall Street's Next Blockbuster Stock Split Has Arrived -- The Stock Has Gained 3,050% Since Its 2025 Debut and Still More Upside Ahead, According to Wall Street - The Motley Fool",
+      "description": "A surging stock price is leading this leading memory stock to split its shares.",
+      "url": "https://www.fool.com/investing/2026/10/30/wall-street-s-next-blockbuster-stock-split-has-arrived-the-stock-has-gained-3-050-since-its-2025-debut-and-still-more-upside-ahead-according-to-wall-street/",
+      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F2c7124fdbd742bea867651a40658e52ab2d2bb75-1200x800.png&w=1200&op=resize",
+      "publishedAt": "2026-10-30T18:57:00Z",
+      "content": "Recent advances in artificial intelligence (AI) have shifted the tech landscape, minting a string of stock winners along the way. One of those is Sandisk(SNDK-13.47%). It's been less than a year sinc… [+4633 chars]"
     },
     {
       "source": {
@@ -467,15 +519,15 @@
     {
       "source": {
         "id": null,
-        "name": "Motley Fool"
+        "name": "RoadandTrack.com"
       },
-      "author": "Danny Vena, CPA",
-      "title": "Wall Street's Next Blockbuster Stock Split Has Arrived -- The Stock Has Gained 3,050% Since Its 2025 Debut and Still More Upside Ahead, According to Wall Street - The Motley Fool",
-      "description": "A surging stock price is leading this leading memory stock to split its shares.",
-      "url": "https://www.fool.com/investing/2026/10/30/wall-street-s-next-blockbuster-stock-split-has-arrived-the-stock-has-gained-3-050-since-its-2025-debut-and-still-more-upside-ahead-according-to-wall-street/",
-      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F2c7124fdbd742bea867651a40658e52ab2d2bb75-1200x800.png&w=1200&op=resize",
-      "publishedAt": "2026-10-30T18:28:07Z",
-      "content": "Recent advances in artificial intelligence (AI) have shifted the tech landscape, minting a string of stock winners along the way. One of those is Sandisk(SNDK-13.47%). It's been less than a year sinc… [+4633 chars]"
+      "author": "Mike Duff",
+      "title": "Tested: 2027 BMW i3 50 xDrive Is in a Neue Klasse of Its Own - Road & Track",
+      "description": "With strong performance and class-leading range, this sedan makes a compelling argument for going electric. But will potential buyers care?",
+      "url": "https://www.roadandtrack.com/reviews/a74296222/tested-2027-bmw-i3-50-xdrive/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/1f3d3dcc-d9bc-437a-b238-76a26f5b689a.jpeg?crop=1xw:0.75xh;0xw,0.184xh&resize=1200:*",
+      "publishedAt": "2026-10-30T18:28:16Z",
+      "content": "First came the EVs that looked very obviously like electric cars, with wacky designs showing off their futuristic powertrains. Then there was a generation that hid EV powertrains under bodywork share… [+8797 chars]"
     },
     {
       "source": {
@@ -544,6 +596,19 @@
     },
     {
       "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "James Booth",
+      "title": "Weil Gotshal Pledges to Help Incoming Junior Lawyers Find Jobs - Bloomberg.com",
+      "description": "Weil Gotshal & Manges has apologized to incoming junior lawyers and told them it will try and help them find new places to work after the law firm said it would dissolve.",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-30/weil-gotshal-pledges-to-help-incoming-junior-lawyers-find-jobs",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iMdKXEBdX5FQ/v1/1200x800.jpg",
+      "publishedAt": "2026-10-30T16:48:22Z",
+      "content": "Weil Gotshal &amp; Manges has apologized to incoming junior lawyersand told them it will try and help them find new places to work after the law firm said it would dissolve. \r\nWe are so sorry that yo… [+253 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -554,32 +619,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/26/multimedia/26biz-electric-ferry-bmqg/26biz-electric-ferry-bmqg-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-30T16:40:11Z",
       "content": "Locations across the country want to launch electric ferries to cut carbon emissions, but there are challenges to the rollout."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Robert Ferris",
-      "title": "Cheaper cars are selling considerably faster than at the beginning of the year - CNBC",
-      "description": "Data indicate cheap cars are selling fast, but a few lower-priced segments still saw sales drop in the third quarter. Here's what might be happening.",
-      "url": "https://www.cnbc.com/2026/10/30/cheap-cars-selling-fast.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108469843-1793120851883-gettyimages-2277553026-yanow-carsales260523_npQhV.jpeg?v=1793120980&w=1920&h=1080",
-      "publishedAt": "2026-10-30T15:37:21Z",
-      "content": "Consumers are concerned about rising fuel prices and affordability and that could be showing up in how fast the least expensive cars are moving off dealer lots.\r\nFrom the first quarter to the third, … [+6703 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "US tech stocks see sharp falls over AI cost fears - BBC",
-      "description": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
-      "url": "https://www.bbc.com/news/articles/cvwy72e0n72yo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10b0/live/dcdf2a60-d46e-11f1-9dda-1ba6fcc7d159.jpg",
-      "publishedAt": "2026-10-30T15:27:54Z",
-      "content": "Major tech companies have ramped up artificial intelligence spending, with Meta, Alphabet, Oracle, Amazon, and Microsoft committing to spending $800.6bn between them in 2026."
     },
     {
       "source": {
@@ -609,16 +648,29 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
-      "author": "Brian Sozzi",
-      "title": "Starbucks CEO Brian Niccol: 'The turn has occurred' — now it's in growth mode - Yahoo Finance",
-      "description": "The comeback at Starbucks has morphed into something more lasting.",
-      "url": "https://finance.yahoo.com/markets/article/starbucks-ceo-brian-niccol-the-turn-has-occurred--now-its-in-growth-mode-145654793.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/8280b9a2df378613816b40ba679ed3dd4a826d4ed11f181fa22c5675f11a78e2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F0975ddb3-70a9-4545-9d17-b87d84fa8e29",
-      "publishedAt": "2026-10-30T14:56:54Z",
-      "content": "The turnaround at Starbucks (SBUX) has been served up, and now it looks to be a caffeinated period of growth.\r\n\"I think we're back to being just a growth company. I think the turn has occurred. And n… [+1345 chars]"
+      "author": "Heather Somerville, Will Hobson, David Uberti",
+      "title": "The Wild Rise of a Trump-Backed Drone Company - WSJ",
+      "description": "How ex-soldier turned presidential social-media shout-out into $300 million drone startup",
+      "url": "https://www.wsj.com/business/the-wild-rise-of-a-trump-backed-drone-company-6722ac08",
+      "urlToImage": "https://images.wsj.net/im-33025757/social",
+      "publishedAt": "2026-10-30T14:36:00Z",
+      "content": "Last July, drone pitchman Brett Velicovich joined Fox News to praise the Trump administrations plans to invest more than a billion dollars in Americas military drone industry.\r\nMoments later, he earn… [+533 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Chron.com"
+      },
+      "author": "Ahmed Humble",
+      "title": "Oil giant buys shuttered Houston refinery for $320M to restart plant - Chron",
+      "description": "LyondellBasell is selling its former Houston refinery to Valero for $320.5 million, with plans to restart it by 2027.",
+      "url": "https://www.chron.com/news/houston-texas/article/lyondell-houston-refinery-valero-22502407.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/67/62/07/31400386/3/rawImage.jpg",
+      "publishedAt": "2026-10-30T14:30:21Z",
+      "content": "The Lyondell Basell Houston Refinery is visible Thursday, Jan. 18, 2024 in Houston. LyondellBasell is selling its former Houston refinery to Valero for $320.5 million, with plans to restart it by 202… [+2715 chars]"
     },
     {
       "source": {
@@ -661,19 +713,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Investopedia"
-      },
-      "author": "David Marino-Nachison",
-      "title": "Intel Stock Is Crashing Out. Here’s Why the Shares Are Dropping Today - Investopedia",
-      "description": "The powerful recovery of Intel’s stock has been one of this year’s most-interesting stock-market stories. That story came apart today.",
-      "url": "https://www.investopedia.com/intel-stock-is-crashing-out-here-s-why-the-shares-are-dropping-today-intc-12202227",
-      "urlToImage": "https://www.investopedia.com/thmb/zeDZEVKGKwcGPHNNpQFW64O7kMY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2301630692-e2c6c95c0e3140ebb4517060923f022f.jpg",
-      "publishedAt": "2026-10-30T14:03:16Z",
-      "content": "<ul><li>Intel shares plummeted today after gaining roughly 250% this year through yesterdays close.</li><li>Investors didnt like the sound of the companys fourth-quarter revenue forecast, which for s… [+2126 chars]"
-    },
-    {
-      "source": {
         "id": "ars-technica",
         "name": "Ars Technica"
       },
@@ -687,29 +726,42 @@
     },
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
+        "id": "bloomberg",
+        "name": "Bloomberg"
       },
-      "author": "WSJ",
-      "title": "Oil Prices Rise After Hormuz Tanker Attack, Houthi Claims Stoke Supply Fears - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/world/middle-east/oil-prices-rise-after-hormuz-tanker-attack-houthi-claims-stoke-supply-fears-de48df37",
-      "urlToImage": null,
-      "publishedAt": "2026-10-30T13:24:00Z",
-      "content": null
+      "author": "Matt Day",
+      "title": "Amazon Spending Soars Amid Slowing Growth of Online Business - Bloomberg",
+      "description": "Amazon.com Inc. shares dropped after the company reported greater capital spending than anticipated and the slowest growth in the core e-commerce business in three years.",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-29/amazon-spending-soars-on-effort-to-meet-demand-for-ai-services",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLECSxPSqVME/v0/1200x800.jpg",
+      "publishedAt": "2026-10-30T13:37:15Z",
+      "content": "Amazon.com Inc. shares dropped after the company reported greater capital spending than anticipated and the slowest growth in the core e-commerce business in three years.\r\nAmazon said it spent more t… [+280 chars]"
     },
     {
       "source": {
         "id": "the-wall-street-journal",
         "name": "The Wall Street Journal"
       },
-      "author": "WSJ",
-      "title": "Chinese Executive Close to Nvidia CEO Suspected of Giving China Information - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/tech/chinese-executive-close-to-nvidia-ceo-suspected-of-giving-china-information-798eb6a1",
-      "urlToImage": null,
-      "publishedAt": "2026-10-30T13:01:00Z",
-      "content": null
+      "author": "Farhan Rafid, Anthony Harrup",
+      "title": "Oil Prices Rise After Hormuz Tanker Attack, Houthi Claims Stoke Supply Fears - WSJ",
+      "description": "Prices have risen despite a recovery in Persian Gulf oil exports, which have at times returned to or exceeded prewar levels",
+      "url": "https://www.wsj.com/world/middle-east/oil-prices-rise-after-hormuz-tanker-attack-houthi-claims-stoke-supply-fears-de48df37",
+      "urlToImage": "https://images.wsj.net/im-54838043/social",
+      "publishedAt": "2026-10-30T13:24:00Z",
+      "content": "Oil prices rose Friday with the market on edge about possible military escalation in the Middle East after the U.S. midterm elections, while an attack on a tanker in the Strait of Hormuz, Houthi clai… [+468 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Robert Hart",
+      "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop - The Verge",
+      "description": "Altman says OpenAI has spent hundreds of millions on math — and has more discoveries up its sleeve.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Vrg_illo_Sam_Altman_stock_trial.jpg?quality=90&strip=all&crop=0%2C12.339110464558%2C100%2C75.321779070884&w=1200",
+      "publishedAt": "2026-10-30T13:01:14Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nAltman says OpenAI has spent hundreds of millions on math and has more discoveries up its sleeve.\r\nAltman says OpenAI has spent hundreds of millions on math and … [+4872 chars]"
     },
     {
       "source": {
@@ -727,15 +779,15 @@
     {
       "source": {
         "id": null,
-        "name": "Financial Times"
+        "name": "BBC News"
       },
       "author": null,
-      "title": "Weil’s Ramona Nee in talks to join Kirkland & Ellis - Financial Times",
-      "description": "Co-managing partner decided in August not to take over as law firm’s chair",
-      "url": "https://www.ft.com/content/baedb8dc-a6b6-48ac-b92a-8c0103a30736?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F430dc992-cdc8-4694-9c95-f2a3c291478b.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "publishedAt": "2026-10-30T12:42:57Z",
-      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+      "title": "China denies allegations of spy operation targeting Nvidia CEO - BBC",
+      "description": "US intelligence officials believe a Chinese businesswoman was gathering information for Beijing on the US chip-making giant, The New York Times reports.",
+      "url": "https://www.bbc.com/news/articles/ckgj9plnlxdeo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/05cc/live/95d8dca0-d447-11f1-97f9-27ebf08d99fe.jpg",
+      "publishedAt": "2026-10-30T12:20:04Z",
+      "content": "US intelligence officials believe that Alice Huang, a Chinese businesswoman linked to Singapore-based data centre firm Megaspeed, was gathering information for Beijing on the US chip-making giant, ac… [+41 chars]"
     },
     {
       "source": {
@@ -765,6 +817,19 @@
     },
     {
       "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "Kamal Ahmed",
+      "title": "‘It’s only when you see 49-ton trucks in China running on batteries that you realize how serious electrification is’: Octopus Energy CEO Greg Jackson on Europe's incumbency problem - Fortune",
+      "description": "In 2015, Greg Jackson founded Octopus Energy, now one of the biggest energy suppliers in Europe. He talks to Fortune about the continent’s electrification challenge—and reveals the one decision he took at the beginning of his career that changed the way he do…",
+      "url": "https://fortune.com/2026/10/30/greg-jackson-octopus-energy-electrification-europe-incumbency/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2245668138-e1793357155713.jpg?resize=1200,600",
+      "publishedAt": "2026-10-30T11:54:00Z",
+      "content": "The brutal business of selling mirrors is not for the faint-hearted. The challenge is category differentiation, given that a mirror has one simple taskreflection. One of Greg Jacksons first jobs was … [+5786 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "Abbvie.com"
       },
@@ -788,19 +853,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/29/multimedia/2026-10-26-oil-profits-index/2026-10-26-oil-profits-index-mediumSquareAt3X-v4.png",
       "publishedAt": "2026-10-30T10:35:33Z",
       "content": "That was almost three times as much as what businesses producing and refining oil in the United States made in the same period in 2025."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Business Wire"
-      },
-      "author": "Business Wire",
-      "title": "Valero to Acquire Former Houston Refinery from LyondellBasell - Business Wire",
-      "description": null,
-      "url": "https://www.businesswire.com/news/home/20261029912737/en/Valero-to-Acquire-Former-Houston-Refinery-from-LyondellBasell",
-      "urlToImage": null,
-      "publishedAt": "2026-10-30T10:25:00Z",
-      "content": null
     },
     {
       "source": {
@@ -882,19 +934,6 @@
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Sarah Bahr",
-      "title": "What’s New at the Museum? Stargazing, Escape Rooms, Bachelorette Parties and More",
-      "description": "Museums are pitching themselves as date-night destinations — and finding a generation of takers.",
-      "url": "https://www.nytimes.com/2026/10/30/arts/design/late-night-museums-young-people.html",
-      "urlToImage": null,
-      "publishedAt": "2026-10-30T09:00:43Z",
-      "content": "Museums are pitching themselves as date-night destinations — and finding a generation of takers."
-    },
-    {
-      "source": {
         "id": null,
         "name": "NPR"
       },
@@ -905,19 +944,6 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5929x3335+0+309/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F62%2F23%2F8cfcdb2d47c288833740b4b82ced%2Fap26295681390773.jpg",
       "publishedAt": "2026-10-30T09:00:00Z",
       "content": "For people stocking up on candy this Halloween, it's a spooky season in the grocery store and not in a fun way.\r\nPrices for candy, the most popular Halloween purchase, and gum have risen 7.7% in one … [+2652 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Seeking Alpha"
-      },
-      "author": "Damir Tokic",
-      "title": "AI Bubble Burst: Confirmed By Alphabet, Caterpillar, ServiceNow, And Amazon - Seeking Alpha",
-      "description": "Alphabet and Microsoft both missed AI capex expectations for Q3 - this bursts the AI infrastructure bubble. Read more on what the bubble burst looks like.",
-      "url": "https://seekingalpha.com/article/4960031-ai-bubble-burst-confirmed-by-alphabet-caterpillar-servicenow-amazon",
-      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1456339594/image_1456339594.jpg?io=getty-c-w1536",
-      "publishedAt": "2026-10-30T08:42:59Z",
-      "content": "Analysts Disclosure: I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours. I wrote this ar… [+771 chars]"
     },
     {
       "source": {
@@ -934,32 +960,6 @@
     },
     {
       "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "David Mchugh",
-      "title": "European Central Bank head resigns, allowing EU leaders to choose successor before French election - AP News",
-      "description": "European Central Bank President Christine Lagarde will resign nine months before her term ends. The ECB announced Thursday that Lagarde will leave on February 7. Her departure opens the way for European leaders to choose a successor ahead of France's presiden…",
-      "url": "https://apnews.com/article/ecb-lagarde-resignation-bank-c657d818e8f487f2ce990fe57ba55d4a",
-      "urlToImage": "https://dims.apnews.com/dims4/default/f64c90e/2147483647/strip/true/crop/5607x3738+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbc%2F0a%2F87c6e922754834c886b2e8fc680d%2Fd78a15f89ba54aedab838a8c1508d9a6",
-      "publishedAt": "2026-10-30T03:42:00Z",
-      "content": "FRANKFURT, Germany (AP) European Central Bank President Christine Lagarde will resign nine months before the end of her term, a move that opens the way for European leaders to choose a successor ahea… [+4328 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Lim Hui Jie",
-      "title": "BOJ holds rates as underlying inflation aligns with 2% target for first time since 2013 - CNBC",
-      "description": "The BOJ declared that its underlying inflation target of 2% has been met, the first time the central bank has done so since it set the target in 2013.",
-      "url": "https://www.cnbc.com/2026/10/30/boj-inflation-target-rates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108253395-1768535693910-gettyimages-2251993457-JAPAN_BOJ.jpeg?v=1793330532&w=1920&h=1080",
-      "publishedAt": "2026-10-30T03:16:00Z",
-      "content": "The Bank of Japan declared that underlying inflation in the country was \"generally consistent\" with its target of 2%, the first time it has made that assessment since adopting the target in 2013.\r\nBe… [+2500 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Motley Fool"
       },
@@ -973,6 +973,19 @@
     },
     {
       "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Lucas Ropek",
+      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big. - TechCrunch",
+      "description": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721",
+      "publishedAt": "2026-10-29T23:42:22Z",
+      "content": "Andy Jassy has made it known that he believes AWS can be a trillion-dollar revenue business. During Amazon’s quarterly earnings call on Thursday, he repeated this ambition.\r\n“What we’re building at A… [+2800 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -983,32 +996,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-polymarket-israel-election-1-wzbk/29biz-polymarket-israel-election-1-wzbk-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-29T23:37:36Z",
       "content": "The company said it was looking into hundreds of new accounts that had placed wagers in two markets related to the election on Tuesday."
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "WSJ",
-      "title": "Why Josh Kushner’s Firm Just Spent $7.6 Billion on a 150-Year-Old Company - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/finance/investing/why-josh-kushners-firm-just-spent-7-6-billion-on-a-150-year-old-company-8bfdd9f8",
-      "urlToImage": null,
-      "publishedAt": "2026-10-29T23:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newser"
-      },
-      "author": "John Johnson",
-      "title": "Finland Investigates After Google Clears Forest for AI Site - Newser",
-      "description": "An estimated 400K trees were felled at two sites, and authorities say permits may be lacking",
-      "url": "https://www.newser.com/story/399046/finland-investigates-after-google-clears-forest-for-ai-site.html",
-      "urlToImage": "https://cdn.newser.com/image/1721085-12-20261029170433.jpeg",
-      "publishedAt": "2026-10-29T21:33:00Z",
-      "content": "\"We are investigating whether the company's operations have breached the water act and resulted in environmental damage,\" Detective Superintendent Kari Pakanen tells Reuters. The investigation lands … [+503 chars]"
     },
     {
       "source": {
@@ -1026,67 +1013,15 @@
     {
       "source": {
         "id": null,
-        "name": "KTLA Los Angeles"
+        "name": "CNBC"
       },
-      "author": "KTLA",
-      "title": "In-N-Out CEO names 3 possible states for expansion - KTLA",
-      "description": null,
-      "url": "https://ktla.com/news/in-n-out-ceo-expansion-3-states/",
-      "urlToImage": null,
-      "publishedAt": "2026-10-29T21:00:42Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Motley Fool"
-      },
-      "author": "Robert Izquierdo",
-      "title": "Stock Market Today, Oct. 29: Amazon Falls on Q3 Earnings Report and Capex Concerns - The Motley Fool",
-      "description": "On Oct. 29, 2026, investors weighed AWS growth against $220 billion in infrastructure spending and fourth-quarter guidance.",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/10/29/stock-market-today-oct-29-amazon-falls-on-q3-earnings-report-and-capex-concerns/",
-      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F474fa53694cddc7fa17518a88b616b294e8541d3-2000x1200.png&w=1200&op=resize",
-      "publishedAt": "2026-10-29T21:00:05Z",
-      "content": "Amazon.com(AMZN-1.41%), a global e-commerce and cloud computing platform, closed at $243.79, down 4.25%. Investors were focused on its third quarter earnings report after the close, with AWS growth, … [+1796 chars]"
-    },
-    {
-      "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Kate Knibbs",
-      "title": "Polymarket Halted International Trading After Hackers Drained Accounts - WIRED",
-      "description": "The company says an unnamed third-party provider was compromised. Trading has resumed, and Polymarket says affected traders will be made whole.",
-      "url": "https://www.wired.com/story/polymarket-flagship-platform-hack-traders-lose-money/",
-      "urlToImage": "https://media.wired.com/photos/6ae3a1d0b3ee5efdf6d00c9f/191:100/w_1280,c_limit/GettyImages-2259602081.jpg",
-      "publishedAt": "2026-10-29T19:51:00Z",
-      "content": "Trading has resumed on Polymarkets flagship international platform after a hack that drained money from the wallets of some traders.\r\nA third-party vendor based in the United Kingdom was breached, no… [+1819 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "One Mile at a Time"
-      },
-      "author": "Ben Schlappig",
-      "title": "FTC Investigating Airlines Over Personalized Pricing: Don’t Get Too Excited - One Mile at a Time",
-      "description": "The FTC is investigating Delta, United, and JetBlue over personalized pricing, but here's why I'm confident nothing will come of the airline pricing inquiry.",
-      "url": "https://onemileatatime.com/news/ftc-investigating-airlines-personalized-pricing/",
-      "urlToImage": "https://cdn.onemileatatime.com/wp-content/uploads/2024/09/Delta-Airbus-A330-1.jpeg",
-      "publishedAt": "2026-10-29T19:49:12Z",
-      "content": "The Federal Trade Commission (FTC) has announced that it’s investigating airlines (among other businesses), to determine to what extent they’re using personalized pricing. I know social media would h… [+4427 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Barron's"
-      },
-      "author": "Mackenzie Tatananni",
-      "title": "Eli Lilly Stock Jumps on Monster Earnings as Finance Chief Eyes Next Growth Engine - Barron's",
-      "description": "Eli Lilly posts earnings that handily top estimates, fueled by strong performance in its metabolic portfolio.",
-      "url": "https://www.barrons.com/articles/eli-lilly-earnings-stock-price-mounjaro-zepbound-6fd591f0",
-      "urlToImage": "https://images.barrons.com/im-46810328/social",
-      "publishedAt": "2026-10-29T19:48:00Z",
-      "content": "Investor fears over tech stocks, fueled by shrinking cash flows at Intel and Amazon due to AI spending, outweighed the impact of the Binance hack."
+      "author": "Amelia Lucas",
+      "title": "Starbucks sales miss expectations, but its U.S. turnaround is gaining steam - CNBC",
+      "description": "Starbucks' U.S. stores topped Wall Street's comparable sales expectations but its international business fell short of estimates.",
+      "url": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108259066-17697091982026-01-29t175216z_1445274856_rc20bjafy1ai_rtrmadp_0_starbucks-investor-day.jpeg?v=1769709261&w=1920&h=1080",
+      "publishedAt": "2026-10-29T19:30:01Z",
+      "content": "Starbucks on Thursday reported mixed quarterly results as its international cafes underperformed expectations.\r\nHowever, its U.S. turnaround continues to take hold, as its home market topped expectat… [+3792 chars]"
     },
     {
       "source": {
@@ -1129,19 +1064,6 @@
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Emma Roth",
-      "title": "Utah charges Kalshi and its CEO with illegally promoting online gambling - The Verge",
-      "description": "Utah has filed criminal charges against Kalshi, accusing it of illegally promoting online gambling.",
-      "url": "https://www.theverge.com/policy/1022400/utah-kalshi-criminal-charges",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2301796292.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
-      "publishedAt": "2026-10-29T17:40:23Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe state of Utah filed 14 charges against Kalshi.\r\nThe state of Utah filed 14 charges against Kalshi.\r\nby\r\nEmma RothClose\r\nPosts from this author will be added … [+2734 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1152,6 +1074,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/29/multimedia/29biz-lagarde-ECB-fkmw/29biz-lagarde-ECB-fkmw-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-29T17:19:02Z",
       "content": "Her plan to depart in February, months before the end of an eight-year term, sets in motion a selection process among European leaders for a new central bank president."
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Amanda Castro",
+      "title": "Mamdani Warns $17B DoorDash-Instacart Deal Risks Higher Costs for Customers - Newsweek",
+      "description": "Mamdani warns DoorDash's $17B Instacart deal could mean higher prices as the companies tout savings.",
+      "url": "https://www.newsweek.com/mamdani-doordash-instacart-deal-higher-prices-customers-12636352",
+      "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2026/10/GettyImages-2300011173.jpg?w=1200&crop=1",
+      "publishedAt": "2026-10-29T17:02:00Z",
+      "content": "New York City Mayor Zohran Mamdani warns that DoorDashs proposed $17 billion acquisition of Instacart could raise consumer prices, calling the deal an example of corporate consolidation.\r\nThe critici… [+7365 chars]"
     },
     {
       "source": {
@@ -1168,32 +1103,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Brooke DiPalma",
-      "title": "DoorDash stock pops, Instacart falls after companies announce $17 billion acquisition deal - Yahoo Finance",
-      "description": "It's official: Two of the largest third-party delivery apps are coming together.",
-      "url": "https://finance.yahoo.com/markets/stocks/article/doordash-stock-pops-instacart-falls-after-companies-announce-17-billion-acquisition-deal-160310014.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/e16d8fdc77e118b6051d140ad617844a7bd72b662ca31ad8e1c0375c54339c85/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F584e649a-d091-461c-92de-53562d569336",
-      "publishedAt": "2026-10-29T16:03:10Z",
-      "content": "DoorDash (DASH) announced plans to acquire hyperlocal grocery delivery provider Instacart (CART) on Thursday morning in a deal valued at $17 billion.\r\nDoorDash, which is primarily known for its resta… [+2144 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "mlive.com"
-      },
-      "author": "MLive.com",
-      "title": "Hospital officials honored to make Michigan’s top 10 - MLive.com",
-      "description": null,
-      "url": "https://www.mlive.com/news/ann-arbor/2026/10/hospital-officials-honored-to-make-michigans-top-10.html",
-      "urlToImage": null,
-      "publishedAt": "2026-10-29T15:33:00Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1207,6 +1116,19 @@
     },
     {
       "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Jordan Fitzgerald",
+      "title": "Musk’s Favorite Ticker Is Free for Taking in a SpaceX-Tesla Deal - Bloomberg.com",
+      "description": "Elon Musk has an affinity for the letter X. One of Tesla Inc.’s first vehicles was the Model X. Space Exploration Technologies Corp. goes by SpaceX. Twitter was rechristened as X after Musk acquired the social media platform in 2022. He even named his son X Æ…",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-29/musk-s-favorite-ticker-is-free-for-taking-in-a-spacex-tesla-deal",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBBaNP5uB0os/v0/1200x800.jpg",
+      "publishedAt": "2026-10-29T14:33:55Z",
+      "content": "Elon Musk has an affinity for the letter X. One of Tesla Inc.s first vehicles was the Model X. Space Exploration Technologies Corp. goes by SpaceX. Twitter was rechristened as X after Musk acquired t… [+540 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1217,6 +1139,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/27/multimedia/29biz-inflation-vljt/27biz-inflation-vljt-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-29T14:31:57Z",
       "content": "The Personal Consumption Expenditures index picked up in September, according to data released a day after the Federal Reserve’s decision to hold interest rates steady."
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": null,
+      "title": "America’s Best-in-State Hospitals 2027 - Newsweek Rankings",
+      "description": "Newsweek has partnered with Statista to present the America’s Best-in-State Hospitals 2027.",
+      "url": "https://rankings.newsweek.com/americas-best-in-state-hospitals-2027",
+      "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2026/10/ABISH-2027-Hero-Tablet-Mobile-1668x834-1.png?w=1312&h=864&crop=1",
+      "publishedAt": "2026-10-29T13:17:53Z",
+      "content": "In its fourth edition, the Americas Best-in-State Hospitals 2027 ranking awards 800 leading hospitals across the United States. Developed in partnership by Statista and Newsweek, the ranking provides… [+6840 chars]"
     },
     {
       "source": {
@@ -1308,6 +1243,71 @@
       "urlToImage": null,
       "publishedAt": "2026-10-28T22:42:55Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Colby Smith",
+      "title": "Fed Holds Rates Steady Despite Lack of Progress on Inflation",
+      "description": "Kevin M. Warsh, the chairman of the Federal Reserve, said an “information-rich” period before the central bank’s gathering in December will help officials determine next steps for policy.",
+      "url": "https://www.nytimes.com/2026/10/28/business/economy/warsh-interest-rates-fed.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/28/multimedia/28dc-fed-lwvg/28dc-fed-lwvg-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-28T21:27:49Z",
+      "content": "Kevin M. Warsh, the chairman of the Federal Reserve, said an “information-rich” period before the central bank’s gathering in December will help officials determine next steps for policy."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Erik Wemple",
+      "title": "CNN, MS Now and Politico Update Lawsuit Against Trump Over White House Access",
+      "description": "The news outlets argued in an updated lawsuit that they should be granted access to the White House reporting pools.",
+      "url": "https://www.nytimes.com/2026/10/28/business/media/cnn-ms-now-politico-white-house-lawsuit.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/27/multimedia/00biz-cnn-lawsuit-cwzm/00biz-cnn-lawsuit-cwzm-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-28T20:47:13Z",
+      "content": "The news outlets argued in an updated lawsuit that they should be granted access to the White House reporting pools."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Ben Casselman",
+      "title": "Fed Will Hold Fewer Rate-Setting Meetings Starting Next Year",
+      "description": "Kevin M. Warsh, the Federal Reserve’s chairman, said the central bank would vote on interest rates seven times in 2027 and six in 2028. It has traditionally voted eight times per year.",
+      "url": "https://www.nytimes.com/2026/10/28/business/economy/fed-meetings-2027-interest-rates-warsh.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/28/multimedia/28fed-meeting-fewer-meetings-gzbj/28fed-meeting-fewer-meetings-gzbj-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-28T20:02:56Z",
+      "content": "Kevin M. Warsh, the Federal Reserve’s chairman, said the central bank would vote on interest rates seven times in 2027 and six in 2028. It has traditionally voted eight times per year."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Colby Smith",
+      "title": "Takeaways from Warsh’s news conference.",
+      "description": null,
+      "url": "https://www.nytimes.com/live/2026/10/28/business/fed-meeting-warsh-interest-rates/takeaways-from-warshs-news-conference",
+      "urlToImage": null,
+      "publishedAt": "2026-10-28T19:43:35Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Tony Romm",
+      "title": "Trump’s Push to Fire Fed Governor Lisa Cook Looms Over Warsh",
+      "description": "Lisa D. Cook, a Fed governor, is set to face an unorthodox, private hearing over allegations of mortgage fraud she has consistently denied.",
+      "url": "https://www.nytimes.com/2026/10/28/business/economy/trump-lisa-cook-warsh.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/28/multimedia/28fed-meeting-cook-kqhv/28fed-meeting-cook-kqhv-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-10-28T18:14:16Z",
+      "content": "Lisa D. Cook, a Fed governor, is set to face an unorthodox, private hearing over allegations of mortgage fraud she has consistently denied."
     }
   ]
 }
