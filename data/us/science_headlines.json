@@ -6,9 +6,48 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-01T08:13:45.127954+00:00",
-  "articles_count": 88,
+  "fetched_at": "2026-11-01T16:28:40.352284+00:00",
+  "articles_count": 91,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "K. R. Callaway",
+      "title": "These Snakes Cartwheel Out of Dangerous Situations",
+      "description": "To escape predators, dwarf reed snakes trade slithering for rolling to safety.",
+      "url": "https://www.nytimes.com/2026/11/01/science/these-snakes-cartwheel-out-of-dangerous-situations.html",
+      "urlToImage": null,
+      "publishedAt": "2026-11-01T10:01:33Z",
+      "content": "To escape predators, dwarf reed snakes trade slithering for rolling to safety."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Michael S. Rosenwald",
+      "title": "Cyril Hilsum, Who Helped Invent Flat-Panel Displays in TVs and iPhones, Has Died at 101",
+      "description": "The man who helped develop the technology for liquid crystal displays — the screens in flat-panel televisions and laptops — has died at 101.",
+      "url": "https://www.nytimes.com/2026/11/01/technology/cyril-hilsum-dead.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/31/obituaries/31obit-hilsum-family-03/31obit-hilsum-family-03-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-01T10:00:44Z",
+      "content": "The man who helped develop the technology for liquid crystal displays — the screens in flat-panel televisions and laptops — has died at 101."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Zoë Lescaze",
+      "title": "Swarms of Butterflies Land at New York’s Natural History Museum",
+      "description": "The cartoonist Peter Kuper has filled a corridor with drawings of monarchs, depicting the beauty of the annual mass migration to Mexican forests — as well as its perils.",
+      "url": "https://www.nytimes.com/2026/11/01/arts/design/butterflies-american-museum-natural-history.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/01/multimedia/01sp-finearts-butterflies-03-khmw/01sp-finearts-butterflies-03-khmw-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-01T10:00:28Z",
+      "content": "The cartoonist Peter Kuper has filled a corridor with drawings of monarchs, depicting the beauty of the annual mass migration to Mexican forests — as well as its perils."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -63,6 +102,45 @@
     },
     {
       "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Marcia Dunn",
+      "title": "NASA telescope is on the verge of plunging back to Earth after failed rescue mission - AP News",
+      "description": "A NASA telescope is barely clinging to space after a failed rescue effort left it tottering lower and lower. The U.S. Space Force predicts the Swift Observatory will come crashing down on or around Friday. Most of the 1 1/2-ton telescope is expected to burn u…",
+      "url": "https://apnews.com/article/swift-observatory-nasa-telescope-e890935df7f468048594286566a96357",
+      "urlToImage": "https://dims.apnews.com/dims4/default/f0c46d0/2147483647/strip/true/crop/3008x2000+0+0/resize/1200x798!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7f%2F19%2Ffc86deaed4a846edbd4945ffe82a%2F5f317232886346b2be17e35945218adc",
+      "publishedAt": "2026-10-31T12:03:00Z",
+      "content": "CAPE CANAVERAL, Fla. (AP) An aging NASA telescope is barely clinging to space after a failed rescue effort left it tottering lower and lower.\r\nThe U.S. Space Force predicts the Swift Observatory will… [+2615 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Ivan Farkas",
+      "title": "Interstellar Visitor 3I/ATLAS Just Got Even Weirder, And May Contain 10-Billion-Year-Old Material - ScienceAlert",
+      "description": "Exiled interstellar visitors like comet 3I/ATLAS are time capsules from the cosmos at large, yeeted from their exosolar homes by an unknown cataclysm and forced to drift through lonely space for billions of years, perhaps.",
+      "url": "https://www.sciencealert.com/interstellar-visitor-3i-atlas-just-got-even-weirder-and-may-contain-10-billion-year-old-material",
+      "urlToImage": "https://www.sciencealert.com/images/2026/10/Untitled-Design-6-1200x675.png",
+      "publishedAt": "2026-10-31T12:02:40Z",
+      "content": "Exiled interstellar visitors like comet 3I/ATLAS are time capsules from the cosmos at large, yeeted from their exosolar homes by an unknown cataclysm and forced to drift through lonely space for bill… [+4652 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Jacopo Prisco",
+      "title": "Did comets really deliver the building blocks of life on Earth? A new study challenges assumptions - CNN",
+      "description": "New research from the University of Cambridge contradicts a long-standing theory that comets seeded building blocks of life on Earth.",
+      "url": "https://www.cnn.com/2026/10/31/science/origin-life-theory-comet-simulation",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/perseids-2023-preston-dyches-6048x4024-1.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-10-31T10:00:36Z",
+      "content": "The populartheory that comets were crucial in kick-starting life on Earth billions of years ago may not hold up, according to new computer simulations that counter decades of scientific thinking.\r\nTh… [+6450 chars]"
+    },
+    {
+      "source": {
         "id": "ars-technica",
         "name": "Ars Technica"
       },
@@ -73,6 +151,19 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/hst_vantor-1080x648.jpg",
       "publishedAt": "2026-10-31T00:07:22Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Spaceflight Now"
+      },
+      "author": "Will Robinson-Smith",
+      "title": "SpaceX closes out October with Halloween eve Falcon 9 launch, 700th Falcon 9 launch to date - Spaceflight Now",
+      "description": "The Starlink 15-18 mission will add another 27 Starlink V2 Mini Optimized satellites to SpaceX’s megaconstellation. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 9:04 p.m. PDT (12:04 a.m. EDT / 0404 UTC).",
+      "url": "https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch/",
+      "urlToImage": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261031-Starlink-15-18-Launch.jpg",
+      "publishedAt": "2026-10-30T22:46:02Z",
+      "content": "The Starlink 15-18 mission lifts off from Vandenberg Space Force Base in California on Oct. 30, 2026, local time. Image: SpaceX.Update: Oct. 31, 12:25 a.m. EDT (0425 UTC): SpaceX landed its first sta… [+3529 chars]"
     },
     {
       "source": {
@@ -102,6 +193,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Michaela Musilova",
+      "title": "An aquanaut comes home: Returning to Earth from an undersea 'space station' - Space",
+      "description": "Living under pressure can significantly impact the cognitive abilities of aquanauts — people living underwater for more than a day.",
+      "url": "https://www.space.com/space-exploration/human-spaceflight/an-aquanaut-comes-home-returning-to-earth-from-an-undersea-space-station",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/eoqmuGhaVVmqHTghp2kjjV-2560-80.jpg",
+      "publishedAt": "2026-10-30T21:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -112,6 +216,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/29/multimedia/29SCI-FOP-kcwm/29SCI-FOP-kcwm-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-30T20:20:50Z",
       "content": "F.O.P., a rare genetic condition, causes uncontrolled explosions of bone. New drugs may slow or halt the process."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Tiny photonic chip links telescopes together to view the universe in 'astonishing' detail - Phys.org",
+      "description": "A tiny glass chip developed by researchers at Heriot-Watt University has linked two telescopes together to enable them to act as a single powerful instrument, marking an important step toward a new generation of astronomical technology.",
+      "url": "https://phys.org/news/2026-10-tiny-photonic-chip-links-telescopes.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/tiny-photonic-chip-lin.jpg",
+      "publishedAt": "2026-10-30T20:20:06Z",
+      "content": "(a) Schematic of the CHARIOT set-up in the CHARA beam combiner lab. The two beams (purple and orange) enter the CHARIOT instrument table at the top left. Using a retroreflector (M1 + M2) on 2 motoriz… [+7527 chars]"
     },
     {
       "source": {
@@ -272,6 +389,19 @@
     {
       "source": {
         "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Ivan Farkas",
+      "title": "Two Different Kinds of Gamma-Ray Bursts Erupted 4 Minutes Apart. Astronomers Have Never Seen This Before. - ScienceAlert",
+      "description": "Gamma-ray bursts (GRBs) are among the most energetic cosmic events since the Big Bang, releasing the most energetic type of radiation, gamma rays – the stuff that turned unassuming Bruce Banner into the rampaging Hulk, but on an astronomical, potentially plan…",
+      "url": "https://www.sciencealert.com/two-different-kinds-of-gamma-ray-bursts-erupted-4-minutes-apart-astronomers-have-never-seen-this-before",
+      "urlToImage": "https://www.sciencealert.com/images/2026/10/Untitled-Design-7.png",
+      "publishedAt": "2026-10-30T13:02:20Z",
+      "content": "Gamma-ray bursts (GRBs) are among the most energetic cosmic events since the Big Bang, releasing the most energetic type of radiation, gamma rays the stuff that turned unassuming Bruce Banner into th… [+5621 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Phys.Org"
       },
       "author": null,
@@ -281,6 +411,19 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/slac-researchers-find.jpg",
       "publishedAt": "2026-10-30T12:20:01Z",
       "content": "For decades, physicists recognized only two types of magnetism that occur in materials without external influence: ferromagnetism and antiferromagnetism. In findings published in Science, a team led … [+7963 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Physicists created a tiny universe and watched time emerge without a clock - Science Daily",
+      "description": "Scientists have created a miniature universe in the laboratory that could help answer one of the biggest mysteries in physics: What is time, and where does it come from? Using 24,000 ultracold atoms, a University of Birmingham researcher built an isolated qua…",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261028234703.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/glowing-mini-universe.webp",
+      "publishedAt": "2026-10-30T12:14:10Z",
+      "content": "What if time is not a fundamental part of the universe, but something that emerges from the changes taking place inside it? A physicist at the University of Birmingham has created a miniature univers… [+8310 chars]"
     },
     {
       "source": {
@@ -327,12 +470,25 @@
         "name": "ScienceAlert"
       },
       "author": "Jess Cockerill",
-      "title": "Two Crows Took a Classic Psychology Test. Their Decision-Making Skills Left Ours in The Dust. - ScienceAlert",
-      "description": "Two male crows have performed better than humans and monkeys in a classic psychology task designed to test how the brain makes decisions based on what it sees.",
+      "title": "Two Crows Took a Classic Psychology Test. Their Decision-Making Skills Left Ours in The Dust. - Yahoo",
+      "description": "So much for 'birdbrains'...",
       "url": "https://www.sciencealert.com/two-crows-took-a-classic-psychology-test-their-decision-making-skills-left-ours-in-the-dust",
-      "urlToImage": "https://www.sciencealert.com/images/2026/10/GettyImages-1212113456-2560x1440-1.jpg",
-      "publishedAt": "2026-10-30T11:02:21Z",
-      "content": "Two male crows have performed better than humans and monkeys in a classic psychology task designed to test how the brain makes decisions based on what it sees.\r\nIn prior experiments, corvids (a famil… [+4273 chars]"
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/796ae0375d4ae87acb9b5358106f5e8d9125705ff08868ae75884871a10870a7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsciencealert_160%2F4f254fa2af1a2ce841810c315eb56772.jpg",
+      "publishedAt": "2026-10-30T11:00:00Z",
+      "content": "Two male crows have performed better than humans and monkeys in a classic psychology task designed to test how the brain makes decisions based on what it sees.\r\nIn prior experiments, corvids (a famil… [+4228 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "High-speed microscopy captures 3D images of living cells nearly 400 times faster - Phys.org",
+      "description": "Researchers at the University of Tokyo have developed a high-speed microscopy technique that captures images so quickly they can be used to make \"videos\" of the dynamic processes that occur inside living cells.",
+      "url": "https://phys.org/news/2026-10-high-microscopy-captures-3d-images.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/3d-video-reveals-inner.jpg",
+      "publishedAt": "2026-10-30T10:00:11Z",
+      "content": "Researchers at the University of Tokyo have developed a high-speed microscopy technique that captures images so quickly they can be used to make \"videos\" of the dynamic processes that occur inside li… [+4492 chars]"
     },
     {
       "source": {
@@ -467,19 +623,6 @@
     {
       "source": {
         "id": null,
-        "name": "Foxweather.com"
-      },
-      "author": null,
-      "title": "Second most valuable dinosaur fossil in the world is sold for over $47 million - FOX Weather",
-      "description": "Dinosaurs dominate in size, strength, and money, as a bidder recently bought the second most valuable dinosaur fossil for over $47 million.",
-      "url": "https://www.foxweather.com/earth-space/second-most-valuable-dinosaur-fossil-world-sold-47-million",
-      "urlToImage": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2026/10/1024/512/photo-credit_-matthew-sherman-scaled.jpg?ve=1&tl=1",
-      "publishedAt": "2026-10-29T22:20:00Z",
-      "content": "THE TAKEAWAY\r\n<ul><li>The second most valuable dinosaur fossil has sold for $47.3 million.</li><li>Researchers discovered the first Nanotyrannus fossil in the summer of 1942.</li><li>Six bidders foug… [+1951 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "KSL.com"
       },
       "author": "Laura Paddison, CNN",
@@ -506,19 +649,6 @@
     {
       "source": {
         "id": null,
-        "name": "Space.com"
-      },
-      "author": "Robert Z. Pearlman",
-      "title": "100 US spacewalks from the ISS! Astronauts deploy new solar array on landmark EVA - Space",
-      "description": "Anil Menon of NASA and Canadian Joshua Kutryk increased the space station's power supply on today's (Oct. 29) extravehicular activity.",
-      "url": "https://www.space.com/space-exploration/international-space-station/100-us-spacewalks-from-the-iss-astronauts-deploy-new-solar-array-on-landmark-eva",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/PAeFKw3vxMHCwygVPDMZbe-1920-80.jpg",
-      "publishedAt": "2026-10-29T20:01:52Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Phys.Org"
       },
       "author": null,
@@ -534,13 +664,13 @@
         "id": null,
         "name": "Phys.Org"
       },
-      "author": "Phys.org",
+      "author": null,
       "title": "Researchers create first whole-body single-cell atlas of an adult vertebrate - Phys.org",
-      "description": null,
+      "description": "Viewed from above, Danionella cerebrum offers a rare sight in a vertebrate: its brain, visible through the top of its head. Since the species was adopted for neuroscience research in 2018 and formally described in 2021, the tiny, transparent fish has drawn ra…",
       "url": "https://phys.org/news/2026-10-body-cell-atlas-adult-vertebrate.html",
-      "urlToImage": null,
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/researchers-create-fir-6.jpg",
       "publishedAt": "2026-10-29T18:00:44Z",
-      "content": null
+      "content": "Viewed from above, Danionella cerebrum offers a rare sight in a vertebrate: its brain, visible through the top of its head. Since the species was adopted for neuroscience research in 2018 and formall… [+7153 chars]"
     },
     {
       "source": {
@@ -622,19 +752,6 @@
     },
     {
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Tara Deans | The Conversation",
-      "title": "How parasites and fungi create nature’s real-life zombies - The Washington Post",
-      "description": "These organisms can infect others — and then take control.",
-      "url": "https://www.washingtonpost.com/health/2026/10/29/what-parasites-fungi-zombies-have-common/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/GA44SWBO5VC3ZMX7GTAPF7JCII.jpg&w=1440",
-      "publishedAt": "2026-10-29T13:34:38Z",
-      "content": "Zombies have taken many forms in popular culture. In Michael Jacksons Thriller music video, corpses climb out of their graves and perform an impressively coordinated dance. In HBOs The Last of Us, a … [+196 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Space.com"
       },
@@ -675,19 +792,6 @@
     {
       "source": {
         "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Peter Dockrill",
-      "title": "We May Have Been Wrong About How Comets Seeded Life on Earth - ScienceAlert",
-      "description": "Where did we come from? The answer, many scientists have proposed, is space.",
-      "url": "https://www.sciencealert.com/scientists-ran-100000-simulations-of-comets-striking-earth-the-results-are-a-surprise",
-      "urlToImage": "https://www.sciencealert.com/images/2026/10/comet-in-sky.jpg",
-      "publishedAt": "2026-10-29T11:02:19Z",
-      "content": "Where did we come from? The answer, many scientists have proposed, is space.\r\nOne longstanding theory, hypothesized for over a century, is that life on Earth emerged from fragments of prebiotic chemi… [+3882 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Aeon.co"
       },
       "author": "Zahaan Bharmal",
@@ -710,19 +814,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/28/multimedia/28biz-biotech-china-mzjw/28biz-biotech-china-mzjw-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-29T05:42:37Z",
       "content": "The move will block shipments from BGI, a major Chinese firm that U.S. officials allege is associated with forced labor and the abuse of minority groups."
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Stephen Clark",
-      "title": "ULA's Vulcan rocket is set to return to flight on Friday the 13th - Ars Technica",
-      "description": "This Vulcan launch will be the first to utilize a full complement of six solid rocket boosters.",
-      "url": "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/55617683176_c8f6425b60_o-1152x648-1793207864.jpg",
-      "publishedAt": "2026-10-28T22:51:15Z",
-      "content": null
     },
     {
       "source": {
@@ -792,19 +883,6 @@
     {
       "source": {
         "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "Could a giant sunshade in space ‘solve global warming’? Scientists are taking the idea seriously - Nature",
-      "description": "Some say the concept is complete fantasy, but a detailed analysis suggests that the falling cost of rocket launches might make it feasible in a few decades.",
-      "url": "https://www.nature.com/articles/d41586-026-03415-2",
-      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03415-2/d41586-026-03415-2_53903962.jpg",
-      "publishedAt": "2026-10-28T18:56:20Z",
-      "content": "Researchers say that a planetary sunshade placed between Earth and the Sun could cool down the planet by 1 °C.Credit: Mongpro/Getty\r\nIn August, entrepreneur Elon Musk suggested in a social-media post… [+3373 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "SFGate"
       },
       "author": "Amanda Heidt",
@@ -814,6 +892,19 @@
       "urlToImage": "https://s.hdnux.com/photos/01/67/60/55/31394666/7/rawImage.jpg",
       "publishedAt": "2026-10-28T18:00:11Z",
       "content": "Earlier this month, paleontologists with the Utah Geological Survey broke ground on a new excavation site in the Utah desert just outside Arches National Park. The land, newly dubbed the Ironstone Bo… [+4645 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Yeast paired with electricity can convert CO₂ into a chemical used in biodegradable plastics - Phys.org",
+      "description": "To limit further climate change, researchers are exploring technologies that can convert atmospheric carbon dioxide (CO₂) into useful products. In collaboration with BOKU University in Vienna (Austria), researchers at the Helmholtz Centre for Environmental Re…",
+      "url": "https://phys.org/news/2026-10-yeast-paired-electricity-chemical-biodegradable.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/yeast-and-electricity.jpg",
+      "publishedAt": "2026-10-28T17:20:10Z",
+      "content": "To limit further climate change, researchers are exploring technologies that can convert atmospheric carbon dioxide (CO) into useful products. In collaboration with BOKU University in Vienna (Austria… [+4947 chars]"
     },
     {
       "source": {
@@ -843,19 +934,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "Can gravitational fields break and reconnect? Einstein's equations suggest they can - Phys.org",
-      "description": "More than a century after Einstein first devised the equations that describe gravity, physicists are still finding new ways of interpreting them. Luca Comisso, an associate research scientist in Columbia University's departments of Astronomy and Physics and t…",
-      "url": "https://phys.org/news/2026-10-gravitational-fields-reconnect-einstein-equations.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2019/einstein.jpg",
-      "publishedAt": "2026-10-28T15:00:12Z",
-      "content": "More than a century after Einstein first devised the equations that describe gravity, physicists are still finding new ways of interpreting them. Luca Comisso, an associate research scientist in Colu… [+6882 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -879,6 +957,19 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/a-60-year-search-is-ov.jpg",
       "publishedAt": "2026-10-28T14:00:06Z",
       "content": "In a new publication in the journal Nature Chemistry, chemists in professor Holger Braunschweig's team at the University of Würzburg, supported by computational work from the team of professor Ashwin… [+3097 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Oceanographic Magazine"
+      },
+      "author": "Rob Hutchins",
+      "title": "Antarctic meltwater engine sputters as key ocean layer reverses - Oceanographic Magazine",
+      "description": "The Antarctic Intermediate Water has abruptly reversed course since 2016 as sea ice shrank, raising ocean warming and sea level rise concerns",
+      "url": "https://oceanographicmagazine.com/news/antarctic-meltwater-engine-sputters-as-key-ocean-layer-reverses/",
+      "urlToImage": "https://cdn.oceanographicmagazine.com/wp-content/uploads/2026/10/28132935/Matt-Palmer-scaled.jpg",
+      "publishedAt": "2026-10-28T13:39:37Z",
+      "content": "A vast layer of fresh water that helps store carbon, supply oxygen, and drive ocean currents across the Southern Hemisphere has rapidly reversed its long-term trends, new research has found, leading … [+1732 chars]"
     },
     {
       "source": {
@@ -909,19 +1000,6 @@
     {
       "source": {
         "id": null,
-        "name": "Tech Xplore"
-      },
-      "author": "Ingrid Fadelli",
-      "title": "Insect-inspired flying robot bounces back after collisions - Tech Xplore",
-      "description": "Flying insects, such as fruit flies, bees, dragonflies and mosquitoes, can dart through narrow spaces and survive collisions with various objects. In contrast, many flying robots fall, suffer damage or even break down when they hit nearby surfaces or objects.",
-      "url": "https://techxplore.com/news/2026-10-insect-flying-robot-collisions.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/an-insect-inspired-fly-1.jpg",
-      "publishedAt": "2026-10-28T11:40:01Z",
-      "content": "Flying insects, such as fruit flies, bees, dragonflies and mosquitoes, can dart through narrow spaces and survive collisions with various objects. In contrast, many flying robots fall, suffer damage … [+6320 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "ScienceAlert"
       },
       "author": "Michelle Starr",
@@ -931,19 +1009,6 @@
       "urlToImage": "https://www.sciencealert.com/images/2026/10/MaxwellDemon2-1200x675.png",
       "publishedAt": "2026-10-28T11:00:03Z",
       "content": "In 1867, physicist James Clerk Maxwell did something very naughty. \r\nHe proposed an apparent violation of the second law of thermodynamics so diabolically clever that other physicists have been tryin… [+5482 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "Major Southern Hemisphere ocean layer shifts, raising questions about heat and carbon storage - Phys.org",
-      "description": "The Antarctic Intermediate Water (AAIW)—a vast layer of fresh water spanning much of the Southern Hemisphere's ocean—has rapidly reversed its long-term trends in salinity and density, according to new research. The AAIW helps store carbon, supply oxygen and d…",
-      "url": "https://phys.org/news/2026-10-major-southern-hemisphere-ocean-layer.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/antarctic-sea-ice-loss.jpg",
-      "publishedAt": "2026-10-28T10:00:01Z",
-      "content": "The Antarctic Intermediate Water (AAIW)a vast layer of fresh water spanning much of the Southern Hemisphere's oceanhas rapidly reversed its long-term trends in salinity and density, according to new … [+5135 chars]"
     },
     {
       "source": {
@@ -1012,6 +1077,19 @@
     },
     {
       "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Jacopo Prisco",
+      "title": "Rare Nanotyrannus sells at auction for $47.3 million, becoming second most valuable fossil ever - CNN",
+      "description": "After a 12-minute bidding war among six contenders, a rare specimen named Jodi just narrowly missed the auction record for a fossil.",
+      "url": "https://www.cnn.com/2026/10/27/science/nanotyrannus-jodi-sale",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/photo-credit-matthew-sherman-9.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-10-27T17:24:31Z",
+      "content": "A rare skeleton of Nanotyrannus, a smaller T. rex relative, has sold at auction at Sothebys in New York for $47.3 million, after a 12-minute bidding war among six contenders.\r\nThe specimen, named Jod… [+3573 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "Geekspin.co"
       },
@@ -1035,19 +1113,6 @@
       "urlToImage": "https://whyevolutionistrue.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-at-6.08.11-AM.png",
       "publishedAt": "2026-10-27T14:52:21Z",
       "content": "Nathaniel Comfort is identified by Wikipedia as “an American historian specializing in the history of biology. He is an associate professor in the Institute of the History of Medicine at Johns Hopkin… [+12588 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Popular Mechanics"
-      },
-      "author": "Darren Orf",
-      "title": "Scientists Made an 80-Year-Old’s Cells Look 19 Years Old. Could It Mean Aging Is Reversible? - Yahoo",
-      "description": "By reprogramming red blood cell precursors into neural stem cells, researchers effectively reset the cell’s molecular clock.",
-      "url": "https://www.popularmechanics.com/science/health/a74234857/old-cells-reversed-aging/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/2a229f02c42b2664673901eac1ff1fd44d096c88fc659f8ac61fa711feb24f4a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpopular_mechanics_642%2Fcad87cf4a1f8add735550debce44444d.jpg",
-      "publishedAt": "2026-10-27T12:30:00Z",
-      "content": "The human body contains more than 200 major cell types, but all of those differing cellswhether blood cells, brain cells, muscle cells, and on and on and onoriginate from just one fertilized zygote. … [+3342 chars]"
     },
     {
       "source": {
@@ -1103,19 +1168,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Michaela Musilova",
-      "title": "Analog astronauts: How living underwater can prepare humans for space missions - Space",
-      "description": "The risks and advantages of performing research missions underwater to prepare for space exploration.",
-      "url": "https://www.space.com/space-exploration/missions/analog-astronauts-how-living-underwater-can-prepare-humans-for-space-missions",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/sTxkVadD9aNk8qvTshrNWa-2560-80.jpg",
-      "publishedAt": "2026-10-26T21:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1139,19 +1191,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/26/science/26SCI-UNKNOWNS-NEANDERTHALS/26SCI-UNKNOWNS-NEANDERTHALS-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-26T09:00:45Z",
       "content": "Scientists now know that they shared many of the sophisticated abilities of Homo sapiens. So why are we the only humans left standing?"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Anthony Wood",
-      "title": "Medusa's eye, Halloween fireballs and more: 5 skywatching targets to look out for this spooky season - Space",
-      "description": "Five spooky skywatching targets perfect for naked eye stargazing this Halloween!",
-      "url": "https://www.space.com/stargazing/medusas-eye-halloween-fireballs-and-more-5-skywatching-targets-to-look-out-for-this-spooky-season",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/VxuSMyHGHhsXMizCD3sTAS-2000-80.jpg",
-      "publishedAt": "2026-10-24T10:00:00Z",
-      "content": null
     }
   ]
 }
