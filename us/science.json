@@ -1,7 +1,46 @@
 {
   "status": "ok",
-  "totalResults": 95,
+  "totalResults": 89,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Emily Anthes",
+      "title": "Do Animals Grieve?",
+      "description": "The feeling of existential loss was long thought to be uniquely human. But studies of coyotes, cockatoos and other creatures are prompting some scientists to reconsider.",
+      "url": "https://www.nytimes.com/2026/11/02/science/animals-grief-death.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/27/multimedia/00SCI-UNKNOWNS-ANIMALGRIEF-hero-01-gzbw/00SCI-UNKNOWNS-ANIMALGRIEF-hero-01-gzbw-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-02T19:42:22Z",
+      "content": "The feeling of existential loss was long thought to be uniquely human. But studies of coyotes, cockatoos and other creatures are prompting some scientists to reconsider."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Emily Anthes and Stella Raine Chu",
+      "title": "Why Did Snakes Lose Their Legs? And 9 More Animal Mysteries",
+      "description": "There are more than 1.5 million known zoological species on Earth, with at least as many enigmas. Here are our top 10.",
+      "url": "https://www.nytimes.com/2026/11/02/science/animals-mysteries-research.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/29/science/00SCI-UNKNOWNS-ANIMALS-promo/00SCI-UNKNOWNS-ANIMALS-legs-mediumSquareAt3X-v2.jpg",
+      "publishedAt": "2026-11-02T10:00:21Z",
+      "content": "There are more than 1.5 million known zoological species on Earth, with at least as many enigmas. Here are our top 10."
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Weather Channel",
+      "title": "Monday launch may produce a ‘space jellyfish’ in the West - The Weather Channel",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRXN5elRuSWxOWmZBUTh3MGQ5MUF3a0g3ZjAweDIyYTFERWEtb2FtSlFEd0NKX3Z1QVM5dlNERmhnLUNvQ3NrQ21jRGhPR2Z2TUI2Q2NJQkpLOEdITFVfLVNONDdkdDNva2tZZWFzdjdkZDlnV00zQkJUMEtPZ2FELW5BeFgzN2tzTDVzM1lHWjN0a0JpRHFGMmhNa2xQdF9G?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-11-01T18:30:00Z",
+      "content": null
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -27,6 +66,45 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/29/multimedia/29SCI-FOP-kcwm/29SCI-FOP-kcwm-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-01T17:11:56Z",
       "content": "F.O.P., a rare genetic condition, causes uncontrolled explosions of bone. New drugs may slow or halt the process."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Leonard David",
+      "title": "NASA's Swift space telescope is about to crash to Earth. Where will it fall? - Space",
+      "description": "Swift is expected to crash back to Earth in the next few days.",
+      "url": "https://www.space.com/space-exploration/missions/nasas-swift-space-telescope-is-about-to-crash-to-earth-where-will-it-fall",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/vrXD6fnzi9tqspZvKaeFBi-2560-80.jpg",
+      "publishedAt": "2026-11-01T13:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "Tejasri Gururaj",
+      "title": "Breaking the ice: Scientists use attracting particles to form an anti-spin ice - Phys.org",
+      "description": "In a recent Nature Communications study, researchers have reported the realization of an anti-spin ice, a system that does the opposite of conventional spin ices by breaking the ice rule that governs them.",
+      "url": "https://phys.org/news/2026-10-ice-scientists-particles-anti.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/breaking-the-ice-scien.jpg",
+      "publishedAt": "2026-11-01T11:40:01Z",
+      "content": "In a recent Nature Communicationsstudy, researchers have reported the realization of an anti-spin ice, a system that does the opposite of conventional spin ices by breaking the ice rule that governs … [+10728 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Meghan Bartels",
+      "title": "Scientists have what they say is one of the oldest Mars meteorites - The Washington Post",
+      "description": "The rock is so old it was on the surface of Mars when there was still liquid water on there.",
+      "url": "https://www.washingtonpost.com/science/2026/10/31/scientists-have-what-they-say-is-one-oldest-mars-meteorites/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/YV5CWZ3VHZHAJH7YYIMJOH46CE.jpg&w=1440",
+      "publishedAt": "2026-11-01T10:17:28Z",
+      "content": "From the outside, it looks like an unassuming rock, polished and dark with a reddish stripe running through it. But cracking it open has revealed a planetary scientists dream: one of the oldest Mars … [+114 chars]"
     },
     {
       "source": {
@@ -70,6 +148,19 @@
     {
       "source": {
         "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Scientists say a forgotten particle may explain why the universe exists - Science Daily",
+      "description": "A mysterious particle overlooked for decades may hold the key to why matter survived the Big Bang, allowing stars, planets, and life to exist. Scientists believe this forgotten neutrino reshaped the early universe and may have left detectable gravitational wa…",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261031221201.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/high-energy-atomic-particle-physics.webp",
+      "publishedAt": "2026-11-01T04:38:13Z",
+      "content": "Scientists have proposed a surprising new explanation for why the universe exists, and it centers on a mysterious particle that physicists have largely overlooked for decades. Their theory suggests t… [+5609 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "ScienceAlert"
       },
       "author": "Ivan Farkas",
@@ -79,6 +170,19 @@
       "urlToImage": "https://www.sciencealert.com/images/2026/10/Untitled-Design-8-1200x675.png",
       "publishedAt": "2026-11-01T02:02:35Z",
       "content": "Earth is constantly molded by fire and ice, and not in a poetic sense.\r\nThese physical forces singe or scour our planet's surface with fiery eruptions or the unstoppable march of glaciers. \r\nOn the c… [+5206 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Scientists discover a hidden driver of high cholesterol and a way to stop it - Science Daily",
+      "description": "Scientists have uncovered a hidden mechanism that allows high-cholesterol diets to undermine the body&apos;s natural cholesterol defenses, and blocking it dramatically lowered harmful LDL cholesterol in mice. Even more promising, an experimental drug targetin…",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261030003003.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/cholesterol-plaque-buildup-narrowed-blood-vessel.webp",
+      "publishedAt": "2026-11-01T02:00:31Z",
+      "content": "Heart disease linked to high cholesterol continues to be the leading cause of death worldwide. Although doctors have more treatment options than ever, many people still struggle to lower their choles… [+5936 chars]"
     },
     {
       "source": {
@@ -96,15 +200,28 @@
     {
       "source": {
         "id": null,
-        "name": "Hackaday"
+        "name": "ScienceAlert"
       },
-      "author": "Maya Posch",
-      "title": "Voyager 1 Briefly Goes Silent, Scaring Everyone - Hackaday",
-      "description": "It’s no big secret at this point that we are looking at the final years of the two venerable Voyager spacecraft. With their power supplies diminishing and their 1970s-era electronics still gi…",
-      "url": "https://hackaday.com/2026/10/31/voyager-1-briefly-goes-silent-scaring-everyone/",
-      "urlToImage": "https://hackaday.com/wp-content/uploads/2022/05/voyager_feat.jpg",
-      "publishedAt": "2026-10-31T20:00:00Z",
-      "content": "It’s no big secret at this point that we are looking at the final years of the two venerable Voyager spacecraft. With their power supplies diminishing and their 1970s-era electronics still giving it … [+1376 chars]"
+      "author": "Carly Cassella",
+      "title": "Scientists Recovered 22,000-Year-Old Human DNA From Cave Dirt - ScienceAlert",
+      "description": "Scientists are getting astonishingly good at extracting ancient human DNA from mere dirt and dust, even when there are no physical remains left...",
+      "url": "https://www.sciencealert.com/scientists-recovered-22000-year-old-human-dna-from-cave-dirt",
+      "urlToImage": "https://www.sciencealert.com/images/2026/10/GettyImages-1423113681-2560x1440-1.jpg",
+      "publishedAt": "2026-10-31T20:00:05Z",
+      "content": "Scientists are getting astonishingly good at extracting ancient human DNA from mere dirt and dust, even when there are no physical remains left\r\nNo bones, no teeth, no fossils.\r\nA small scoop of sedi… [+5638 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Chemists develop AI tool to convert human ingenuity into life-enhancing enzymes - Phys.org",
+      "description": "Many have voiced concerns that artificial intelligence will take jobs away from humans. But assistant professor of chemistry Zhongyue (John) Yang, along with his former doctoral student Qianzhen Shao (now a postdoc at Stanford) and other team members, has cre…",
+      "url": "https://phys.org/news/2026-10-chemists-ai-tool-human-ingenuity.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/chemists-develop-ai-to.jpg",
+      "publishedAt": "2026-10-31T19:00:01Z",
+      "content": "Many have voiced concerns that artificial intelligence will take jobs away from humans. But assistant professor of chemistry Zhongyue (John) Yang, along with his former doctoral student Qianzhen Shao… [+5161 chars]"
     },
     {
       "source": {
@@ -174,15 +291,28 @@
     {
       "source": {
         "id": null,
-        "name": "Nxsmediawire.com"
+        "name": "Interesting Engineering"
       },
-      "author": "https://www.nxsmediawire.com/",
-      "title": "NASA telescope is on the verge of plunging back to Earth after failed rescue mission - https://www.nxsmediawire.com/",
-      "description": null,
-      "url": "https://www.nxsmediawire.com/news/nasa-telescope-is-on-the-verge-of-plunging-back-to-earth-after-failed-rescue-mission/",
-      "urlToImage": null,
-      "publishedAt": "2026-10-31T16:12:50Z",
-      "content": null
+      "author": "Kaif Shaikh",
+      "title": "Starship Flight 15 explained: Launch plans, recovery goals, and key tests - Interesting Engineering",
+      "description": "SpaceX is targeting November 2026 for Starship Flight 15, a test that could attempt recovery of both the upper stage and Super Heavy booster.",
+      "url": "https://interestingengineering.com/space/spacex-starship-flight-15-launch-date-objectives",
+      "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Thumbnails-for-IE-Space-X-launch-1.jpg",
+      "publishedAt": "2026-10-31T16:20:00Z",
+      "content": "SpaceX is targeting November 2026 for the 15th integrated flight test of its Starship rocket, with the mission expected to attempt a major milestone: catching the spacecraft’s upper stage at its laun… [+3685 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Interesting Engineering"
+      },
+      "author": "Kaif Shaikh",
+      "title": "Farthest human-made object in space loses contact, goes nearly one light-day away from Earth - Interesting Engineering",
+      "description": "NASA lose contact with Voyager 1 after thruster anomaly. The spacecraft resumed transmitting as it approaches a historic distance milestone.",
+      "url": "https://interestingengineering.com/space/nasas-voyager-1-briefly-went-silent",
+      "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/Thumbnails-for-IE-Voyager.jpg",
+      "publishedAt": "2026-10-31T15:56:00Z",
+      "content": "NASA briefly lost contact with Voyager 1 in mid-October after the nearly 50-year-old spacecraft stopped transmitting a detectable radio signal during two scheduled communications attempts. The signal… [+4054 chars]"
     },
     {
       "source": {
@@ -226,32 +356,6 @@
     {
       "source": {
         "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "Scientists finally discover how a common gut bacterium can trigger colon cancer - Science Daily",
-      "description": "Scientists at Johns Hopkins have uncovered a crucial missing link between a common gut bacterium and colorectal cancer, solving a mystery that has puzzled researchers for nearly two decades. The bacterium, Bacteroides fragilis, produces a toxin that damages t…",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261031012912.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/colon-cancer-bacteria-viruses.webp",
-      "publishedAt": "2026-10-31T13:52:13Z",
-      "content": "For nearly two decades, scientists have known that a common gut bacterium can produce a toxin that damages the colon and helps drive the formation of tumors. What they could not explain was how the t… [+9448 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Ben Cost",
-      "title": "Crows make faster, better decisions than humans: study - New York Post",
-      "description": "We’re getting murdered — by a bunch of crows.",
-      "url": "https://nypost.com/2026/10/31/science/crows-make-faster-better-decisions-than-human-beings/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/newspress-collage-fa524u8z4-1793450761332.jpg?quality=75&strip=all&1793436413&w=1200",
-      "publishedAt": "2026-10-31T13:47:00Z",
-      "content": "We’re getting murdered  by a bunch of crows.\r\nPut to a test designed to gauge good decision-making skills, the feathered fauna raced past humans, scientists said.\r\nThese birdbrainiacs move in the fas… [+3371 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Forbes"
       },
       "author": "Scott Travers",
@@ -261,6 +365,19 @@
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6ae5e8bdbaa71c36ad5bab81/0x0.jpg?format=jpg&crop=2010,1131,x0,y385,safe&height=900&width=1600&fit=bounds",
       "publishedAt": "2026-10-31T13:30:25Z",
       "content": "Anyone who has heard two cats mating usually remembers the sound. The female lets out a sharp scream, and its hard not to assume something has gone badly wrong. Many peoples first instinct is to go a… [+4716 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Rare fossil discovery reveals new dinosaur species that specialized in eating fruit - Phys.org",
+      "description": "Among the ravenous carnivores and lumbering herbivores that roamed the Cretaceous landscape, another kind of dinosaur was evolving that started to eat something else: the plants that began to flower and produce fruit. The discovery by paleontologists from Sto…",
+      "url": "https://phys.org/news/2026-10-rare-fossil-discovery-reveals-dinosaur.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/rare-fossil-discovery.jpg",
+      "publishedAt": "2026-10-31T13:00:02Z",
+      "content": "Among the ravenous carnivores and lumbering herbivores that roamed the Cretaceous landscape, another kind of dinosaur was evolving that started to eat something else: the plants that began to flower … [+5928 chars]"
     },
     {
       "source": {
@@ -304,32 +421,6 @@
     {
       "source": {
         "id": null,
-        "name": "Sci.news"
-      },
-      "author": "Natali Anderson",
-      "title": "Meteorite Found in Sahara is Piece of Mars at Least 4.1 Billion Years Old - Sci.News",
-      "description": "Teghaza 001, a meteorite found in the Sahara Desert in Mali four years ago, is a fragment of Mars’ primordial crust, formed at least 4.1 billion years ago, according to a new paper in the journal Science.",
-      "url": "https://www.sci.news/space/martian-meteorite-teghaza-001-15165.html",
-      "urlToImage": "https://cdn.sci.news/images/2026/10/image_15165-Teghaza-001.jpg",
-      "publishedAt": "2026-10-31T00:20:08Z",
-      "content": "Teghaza 001, a meteorite found in the Sahara Desert in Mali four years ago, is a fragment of Mars primordial crust, formed at least 4.1 billion years ago, according to a new paper in the journal Scie… [+3327 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "Figuring out where cosmic neutrinos come from is tricky—radio telescopes could help find 'ghost particles' origin - Phys.org",
-      "description": "Neutrinos are funny little particles that weigh almost nothing, making them one of the universe's most elusive building blocks. They can come from objects as mundane as bananas and as exotic as supernovas—the exploding death throes of massive stars. Most neut…",
-      "url": "https://phys.org/news/2026-10-figuring-cosmic-neutrinos-tricky-radio.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/an-illustration-of-a-s-2.jpg",
-      "publishedAt": "2026-10-31T00:20:01Z",
-      "content": "Neutrinos are funny little particles that weigh almost nothing, making them one of the universe's most elusive building blocks. They can come from objects as mundane as bananas and as exotic as super… [+7634 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Spaceflight Now"
       },
       "author": "Will Robinson-Smith",
@@ -365,19 +456,6 @@
       "urlToImage": null,
       "publishedAt": "2026-10-30T21:13:56Z",
       "content": "Minerals in the space rock provide hints about the early history of the red planet, when water was flowing on the surface."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Michaela Musilova",
-      "title": "An aquanaut comes home: Returning to Earth from an undersea 'space station' - Space",
-      "description": "Living under pressure can significantly impact the cognitive abilities of aquanauts — people living underwater for more than a day.",
-      "url": "https://www.space.com/space-exploration/human-spaceflight/an-aquanaut-comes-home-returning-to-earth-from-an-undersea-space-station",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/eoqmuGhaVVmqHTghp2kjjV-2560-80.jpg",
-      "publishedAt": "2026-10-30T21:00:00Z",
-      "content": null
     },
     {
       "source": {
@@ -420,19 +498,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "A decade of carbon dioxide data from space gets an upgrade - Phys.org",
-      "description": "Every day, two NASA space instruments known as the Orbiting Carbon Observatory-2 and -3 (OCO-2 and OCO-3) capture more than a million observations of sunlight reflecting off Earth's surface. Using the physics of how light travels through the air, an algorithm…",
-      "url": "https://phys.org/news/2026-10-decade-carbon-dioxide-space.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/this-circular-view-of-1.jpg",
-      "publishedAt": "2026-10-30T18:40:08Z",
-      "content": "Every day, two NASA space instruments known as the Orbiting Carbon Observatory-2 and -3 (OCO-2 and OCO-3) capture more than a million observations of sunlight reflecting off Earth's surface. Using th… [+2932 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -469,19 +534,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/JbTarwH24z4CPsHjZGNwJN-1920-80.jpg",
       "publishedAt": "2026-10-30T17:30:00Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Boston Globe"
-      },
-      "author": null,
-      "title": "Remember that fireball over Cape Cod? Researchers have traced the meteorite’s journey. - The Boston Globe",
-      "description": "The meteor traveled at about 58,000 mph and released a staggering amount of energy, the equivalent of about 500 tons of exploding dynamite.",
-      "url": "https://www.bostonglobe.com/2026/10/30/metro/cape-cod-meteorite-origin-fireball-2026/",
-      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/AENQMVURYJH2RESXAYDLRIBXSI.png?auth=e73d9c1c3c98f04a10de41e8167ac6b786b1e064745d88d738c6d9b401abff26&width=1440",
-      "publishedAt": "2026-10-30T17:01:48Z",
-      "content": "Remember that spectacular meteor that lit up the blue skies over Massachusetts on May 30, crashing into Cape Cod Bay and sending a sonic boom across the region?\r\nA group of scientists and researchers… [+2738 chars]"
     },
     {
       "source": {
@@ -564,45 +616,6 @@
     {
       "source": {
         "id": null,
-        "name": "Space.com"
-      },
-      "author": "Chelsea Gohd",
-      "title": "Ghostly Cat's Head Nebula haunts the cosmos photo of the day for Oct. 30, 2026 - Space",
-      "description": "Can you see the \"cat's head\" in this nebula?",
-      "url": "https://www.space.com/astronomy/ghostly-cats-head-nebula-haunts-the-cosmos-space-photo-of-the-day-for-oct-30-2026",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/VERqbGL74diN5Z37HipquF-1920-80.jpg",
-      "publishedAt": "2026-10-30T14:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Ivan Farkas",
-      "title": "Two Different Kinds of Gamma-Ray Bursts Erupted 4 Minutes Apart. Astronomers Have Never Seen This Before. - ScienceAlert",
-      "description": "Gamma-ray bursts (GRBs) are among the most energetic cosmic events since the Big Bang, releasing the most energetic type of radiation, gamma rays – the stuff that turned unassuming Bruce Banner into the rampaging Hulk, but on an astronomical, potentially plan…",
-      "url": "https://www.sciencealert.com/two-different-kinds-of-gamma-ray-bursts-erupted-4-minutes-apart-astronomers-have-never-seen-this-before",
-      "urlToImage": "https://www.sciencealert.com/images/2026/10/Untitled-Design-7.png",
-      "publishedAt": "2026-10-30T13:02:20Z",
-      "content": "Gamma-ray bursts (GRBs) are among the most energetic cosmic events since the Big Bang, releasing the most energetic type of radiation, gamma rays the stuff that turned unassuming Bruce Banner into th… [+5621 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "Confirming altermagnetism: A geometric twist offers experimental proof - Phys.org",
-      "description": "For decades, physicists recognized only two types of magnetism that occur in materials without external influence: ferromagnetism and antiferromagnetism. In findings published in Science, a team led by the U.S. Department of Energy's SLAC National Accelerator…",
-      "url": "https://phys.org/news/2026-10-altermagnetism-geometric-experimental-proof.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/slac-researchers-find.jpg",
-      "publishedAt": "2026-10-30T12:20:01Z",
-      "content": "For decades, physicists recognized only two types of magnetism that occur in materials without external influence: ferromagnetism and antiferromagnetism. In findings published in Science, a team led … [+7963 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Science Daily"
       },
       "author": null,
@@ -632,38 +645,25 @@
         "name": "Science Daily"
       },
       "author": null,
-      "title": "The asteroid killed the dinosaurs. Why did crocodiles survive? - Science Daily",
-      "description": "Scientists may have solved a 66-million-year-old mystery: how crocodiles survived the asteroid that wiped out the dinosaurs. A sweeping analysis of fossils and ancient climates suggests that their preference for warm environments placed them in tropical refug…",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261030002922.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/crocodilian-surviving-dinosaur-extinction.webp",
-      "publishedAt": "2026-10-30T11:44:35Z",
-      "content": "Why did crocodiles survive the asteroid impact that wiped out the dinosaurs 66 million years ago? New research suggests that their preference for warm environments may have given them a crucial advan… [+7717 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": "Ingrid Fadelli",
-      "title": "Unusual quantum states in six-layer graphene offer clues to superconductivity - Phys.org",
-      "description": "Graphene, a material consisting of a sheet of carbon atoms arranged in a honeycomb pattern, has proved promising for various technological applications. Materials in which several layers of graphene are stacked together can exhibit different advantageous prop…",
-      "url": "https://phys.org/news/2026-10-unusual-quantum-states-layer-graphene.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/researchers-uncover-un-1.jpg",
-      "publishedAt": "2026-10-30T11:40:06Z",
-      "content": "Graphene, a material consisting of a sheet of carbon atoms arranged in a honeycomb pattern, has proved promising for various technological applications. Materials in which several layers of graphene … [+5819 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
       "title": "A computer scientist breaks through a limit that stood since 1996 - Science Daily",
       "description": "A computer scientist has achieved a breakthrough in a nearly 25-year-old problem involving how computers calculate distances across enormous networks. The new algorithm delivers more reliable estimates for closely connected points without sacrificing speed, o…",
       "url": "https://www.sciencedaily.com/releases/2026/10/261029072146.htm",
       "urlToImage": "https://www.sciencedaily.com/images/1920/ai-machine-learning-big-data-analytics-neural-network-data-flow.webp",
       "publishedAt": "2026-10-30T11:10:35Z",
       "content": "Finding the shortest route between two locations is something navigation apps like Google Maps do every day. Behind the scenes, sophisticated algorithms analyze networks of roads and intersections to… [+7178 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Yahoo",
+      "title": "Two Crows Took a Classic Psychology Test. Their Decision-Making Skills Left Ours in The Dust. - Yahoo",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORmdHd3NyX3JVcjhsWUpEZ2J4ZmZFQTFrdHFEWF81bUh4clhkTVdHZS1sVUVXcmFOMDZPSUdSRU5laGNQNldoODV1LVdhUUoxcFpYOGo2b2ExOWNVNjlveVhCdWNjLTNEdC02LUJaUEp1UTB0VmNmaFBVSVU0NVozajlTYUc4cDlNVjdIVnFBaE1QVW9uS1Bn?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-10-30T11:00:00Z",
+      "content": null
     },
     {
       "source": {
@@ -720,19 +720,6 @@
     {
       "source": {
         "id": null,
-        "name": "Skyatnightmagazine.com"
-      },
-      "author": "Iain Todd",
-      "title": "Scientists have found an enormous new dwarf planet beyond Pluto. And there could be many more - BBC Sky at Night Magazine",
-      "description": "Astronomers have discovered 2026 ED138, a potential dwarf planet in the outer reaches of the Solar System, far beyond Pluto.",
-      "url": "https://www.skyatnightmagazine.com/news/2026-ed138-discovery",
-      "urlToImage": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/bb827555-1073-4ed3-b7be-601d96d5ba24/thumbnails/c511f6f4-083d-40bd-86f8-b0d115f481d4.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&platform=WEB&w=1200",
-      "publishedAt": "2026-10-30T08:01:58Z",
-      "content": "Astronomers say they may have found a new dwarf planet in the outer reaches of our Solar System, beyond the orbit of Pluto.\r\nNamed 2026 ED138, the potential dwarf planet is large and bright say astro… [+5603 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Big Think"
       },
       "author": "Ethan Siegel",
@@ -742,19 +729,6 @@
       "urlToImage": "https://bigthink.com/wp-content/uploads/2025/01/two-giraffes-and-a-baby-giraffe-grazing-in-a-field-e1793267312948.jpg?w=970&h=546&crop=1",
       "publishedAt": "2026-10-30T06:00:00Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NASA"
-      },
-      "author": "NASA Earth Observatory",
-      "title": "Vega Island Frozen in Fright - NASA Science (.gov)",
-      "description": "The sight of an icy skull-like visage on the Antarctic island could make one’s blood run cold.",
-      "url": "https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/",
-      "urlToImage": "https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/vega-island-frozen-in-fright/vegaislandzm_oli2_20261010_th.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "publishedAt": "2026-10-30T04:01:00Z",
-      "content": "Shrouded in ice in the lonely Weddell Sea, Vega Island is an eerie sight to behold. On this speck of land east of the Antarctic Peninsula, ice, rock outcrops, and glacial moraines combine to create t… [+3921 chars]"
     },
     {
       "source": {
@@ -788,12 +762,12 @@
         "name": "Phys.Org"
       },
       "author": null,
-      "title": "Experimental study on moths supports the molecular cookie cutter idea proposed for butterflies - Phys.org",
-      "description": "Have you ever thought about reinventing yourself? According to a new study on moths conducted by Andrei Sourakov, collection coordinator of Lepidoptera at the Florida Museum of Natural History and affiliate associate professor of entomology at the University …",
-      "url": "https://phys.org/news/2026-10-experimental-moths-molecular-cookie-cutter.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/experimental-study-on.jpg",
-      "publishedAt": "2026-10-29T19:00:01Z",
-      "content": "Have you ever thought about reinventing yourself? According to a new study on moths conducted by Andrei Sourakov, collection coordinator of Lepidoptera at the Florida Museum of Natural History and af… [+9179 chars]"
+      "title": "Electrical signals reveal hidden magnetic information in altermagnets for first time - Phys.org",
+      "description": "Researchers have experimentally demonstrated, for the first time, that it is possible to obtain from an altermagnet a spin current that can transport magnetic information. This result is supported by the theoretical model of electron transport developed by th…",
+      "url": "https://phys.org/news/2026-10-electrical-reveal-hidden-magnetic-altermagnets.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/electrical-signals-rev.jpg",
+      "publishedAt": "2026-10-29T19:40:04Z",
+      "content": "Researchers have experimentally demonstrated, for the first time, that it is possible to obtain from an altermagnet a spin current that can transport magnetic information. This result is supported by… [+5011 chars]"
     },
     {
       "source": {
@@ -801,12 +775,12 @@
         "name": "Phys.Org"
       },
       "author": null,
-      "title": "Researchers create first whole-body single-cell atlas of an adult vertebrate - Phys.org",
-      "description": "Viewed from above, Danionella cerebrum offers a rare sight in a vertebrate: its brain, visible through the top of its head. Since the species was adopted for neuroscience research in 2018 and formally described in 2021, the tiny, transparent fish has drawn ra…",
-      "url": "https://phys.org/news/2026-10-body-cell-atlas-adult-vertebrate.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/researchers-create-fir-6.jpg",
-      "publishedAt": "2026-10-29T18:00:44Z",
-      "content": "Viewed from above, Danionella cerebrum offers a rare sight in a vertebrate: its brain, visible through the top of its head. Since the species was adopted for neuroscience research in 2018 and formall… [+7153 chars]"
+      "title": "Experimental study on moths supports the molecular cookie cutter idea proposed for butterflies - Phys.org",
+      "description": "Have you ever thought about reinventing yourself? According to a new study on moths conducted by Andrei Sourakov, collection coordinator of Lepidoptera at the Florida Museum of Natural History and affiliate associate professor of entomology at the University …",
+      "url": "https://phys.org/news/2026-10-experimental-moths-molecular-cookie-cutter.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/experimental-study-on.jpg",
+      "publishedAt": "2026-10-29T19:00:01Z",
+      "content": "Have you ever thought about reinventing yourself? According to a new study on moths conducted by Andrei Sourakov, collection coordinator of Lepidoptera at the Florida Museum of Natural History and af… [+9179 chars]"
     },
     {
       "source": {
@@ -846,6 +820,19 @@
       "urlToImage": "https://archaeologymag.com/wp-content/uploads/varnish-chauvet-cave-art-¹.jpg",
       "publishedAt": "2026-10-29T15:41:45Z",
       "content": "Deep inside a limestone cave in southeastern France sits some of the oldest art ever made by people. Chauvet Cave is fragile and important enough to history for officials to keep the location secret … [+3877 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Medical Xpress"
+      },
+      "author": "Paul Arnold",
+      "title": "A hidden brain rhythm challenges ideas about where consciousness comes from - Medical Xpress",
+      "description": "How our brains give rise to consciousness is one of the biggest mysteries in neuroscience. But new research by Janis Hesse at the University of California, Berkeley, and colleagues, may help fill in some of the details. The insights are coming from studies on…",
+      "url": "https://medicalxpress.com/news/2026-10-hidden-brain-rhythm-ideas-consciousness.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/ai-conscious.jpg",
+      "publishedAt": "2026-10-29T15:20:07Z",
+      "content": "How our brains give rise to consciousness is one of the biggest mysteries in neuroscience. But new research by Janis Hesse at the University of California, Berkeley, and colleagues, may help fill in … [+3743 chars]"
     },
     {
       "source": {
@@ -928,32 +915,6 @@
     {
       "source": {
         "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "Eukaryotes’ closest relatives are internally simple syntrophic peptidotrophic archaea - Nature",
-      "description": "Cultures reveal conservation of cell structure,&nbsp;physical symbioses&nbsp;and anaerobiosis across&nbsp;Heimdallarchaeia (the archaeal lineage that branches closest to eukaryotes)&nbsp;and other Promethearchaeota.",
-      "url": "https://www.nature.com/articles/s41586-026-11170-7",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11170-7/MediaObjects/41586_2026_11170_Fig1_HTML.png",
-      "publishedAt": "2026-10-28T22:35:54Z",
-      "content": "Sample collection and culturing\r\nThe biofilm samples were collected from a gas production well, KTG3, in the Southern Kanto gas field (Chiba Prefecture, Japan). The biofilm was located on a wall of t… [+28394 chars]"
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Steven Kurutz",
-      "title": "Neutrinos Are Everywhere. A Physicist Explains.",
-      "description": "Dr. Francis Halzen, the recipient of the Nobel Prize in Physics, sheds some light on the mysterious, subatomic particles that whiz through us every day.",
-      "url": "https://www.nytimes.com/2026/10/26/style/neutrinos-francis-halzen-interview.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/29/multimedia/26ST-NEUTRINO-Q-AND-A-1-pwhl/26ST-NEUTRINO-Q-AND-A-1-pwhl-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-28T20:38:51Z",
-      "content": "Dr. Francis Halzen, the recipient of the Nobel Prize in Physics, sheds some light on the mysterious, subatomic particles that whiz through us every day."
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Quanta Magazine"
       },
       "author": null,
@@ -963,19 +924,6 @@
       "urlToImage": "https://www.quantamagazine.org/wp-content/uploads/2026/10/SpiderSilkCondensates-crKonradWothe_NaturePL_ScienceSource-Social-1.jpg",
       "publishedAt": "2026-10-28T19:34:12Z",
       "content": "A spider, when knocked off a wall, doesnt fall for long. Within milliseconds, it spins a soup of proteins into sturdy climbing gear. Using a thin, shimmering strand of silk, the spider hauls itself b… [+2446 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SFGate"
-      },
-      "author": "Amanda Heidt",
-      "title": "Near Arches National Park, a new dinosaur species emerges from the ground - SFGATE",
-      "description": "Fossils representing at least four dinosaur groups were discovered at a new site called the Ironstone Bonebed, in an area rife with paleontological history.",
-      "url": "https://www.sfgate.com/national-parks/article/arches-national-park-new-dinosaur-22498123.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/67/60/55/31394666/7/rawImage.jpg",
-      "publishedAt": "2026-10-28T18:00:11Z",
-      "content": "Earlier this month, paleontologists with the Utah Geological Survey broke ground on a new excavation site in the Utah desert just outside Arches National Park. The land, newly dubbed the Ironstone Bo… [+4645 chars]"
     },
     {
       "source": {
@@ -1002,6 +950,19 @@
       "urlToImage": "https://futurism.com/wp-content/uploads/2026/10/test-controversial-sunlight-space-astronomers.jpg?w=1200",
       "publishedAt": "2026-10-28T14:42:31Z",
       "content": "Can’t-miss innovations from the bleeding edge of science and tech\r\nEarlier this year, the US Federal Communications Commission approved the construction and launch of a prototype mirror satellite des… [+3787 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "A 60-year search is over: Chemists isolate long-elusive molecules with boron-oxygen triple bonds - Phys.org",
+      "description": "In a new publication in the journal Nature Chemistry, chemists in professor Holger Braunschweig's team at the University of Würzburg, supported by computational work from the team of professor Ashwini K. Phukan at Tezpur University in India, detail their disc…",
+      "url": "https://phys.org/news/2026-10-year-chemists-isolate-elusive-molecules.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/a-60-year-search-is-ov.jpg",
+      "publishedAt": "2026-10-28T14:00:06Z",
+      "content": "In a new publication in the journal Nature Chemistry, chemists in professor Holger Braunschweig's team at the University of Würzburg, supported by computational work from the team of professor Ashwin… [+3097 chars]"
     },
     {
       "source": {
@@ -1122,19 +1083,6 @@
     },
     {
       "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Jacopo Prisco",
-      "title": "Rare Nanotyrannus sells at auction for $47.3 million, becoming second most valuable fossil ever - CNN",
-      "description": "After a 12-minute bidding war among six contenders, a rare specimen named Jodi just narrowly missed the auction record for a fossil.",
-      "url": "https://www.cnn.com/2026/10/27/science/nanotyrannus-jodi-sale",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/photo-credit-matthew-sherman-9.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-10-27T17:24:31Z",
-      "content": "A rare skeleton of Nanotyrannus, a smaller T. rex relative, has sold at auction at Sothebys in New York for $47.3 million, after a 12-minute bidding war among six contenders.\r\nThe specimen, named Jod… [+3573 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Geekspin.co"
       },
@@ -1200,42 +1148,16 @@
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Chico Harlan, Zunaira Saieed and Mira Rojanasakul",
-      "title": "Shiny Glass Skyscrapers Are a Hot Thing. Literally.",
-      "description": "They’re transforming cities with million-dollar views and a message of modernity. But climate change makes cooling them tricky and costly.",
-      "url": "https://www.nytimes.com/2026/10/26/climate/glass-skyscrapers-heat-climate-change.html",
-      "urlToImage": null,
-      "publishedAt": "2026-10-26T13:58:11Z",
-      "content": "They’re transforming cities with million-dollar views and a message of modernity. But climate change makes cooling them tricky and costly."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Carolyn Y. Johnson",
-      "title": "What Happened to the Neanderthals?",
-      "description": "Scientists now know that they shared many of the sophisticated abilities of Homo sapiens. So why are we the only humans left standing?",
-      "url": "https://www.nytimes.com/2026/10/26/science/what-happened-to-the-neanderthals.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/26/science/26SCI-UNKNOWNS-NEANDERTHALS/26SCI-UNKNOWNS-NEANDERTHALS-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-26T09:00:45Z",
-      "content": "Scientists now know that they shared many of the sophisticated abilities of Homo sapiens. So why are we the only humans left standing?"
-    },
-    {
-      "source": {
         "id": null,
-        "name": "Thebrighterside.news"
+        "name": "Space.com"
       },
-      "author": "Joseph Shavit",
-      "title": "30,000-year-old woman’s DNA links ancestry between eastern and western Europe - The Brighter Side of News",
-      "description": "Ancient DNA from human remains and cave sediment reveals distant ancestry connections and population continuity in Ice Age Europe.",
-      "url": "https://www.thebrighterside.news/post/30000-year-old-womans-dna-links-ancestry-between-eastern-and-western-europe/#article",
-      "urlToImage": "https://www.thebrighterside.news/uploads/2026/10/ancestor-dna-main.png?auto=webp",
-      "publishedAt": "2026-10-25T18:07:00Z",
-      "content": "<ul><li>A womans DNA from southwestern France reveals ancestry connections between eastern and western European populations more than 30,000 years ago.</li><li>Human nuclear DNA recovered from cave s… [+10582 chars]"
+      "author": "Michaela Musilova",
+      "title": "Analog astronauts: How living underwater can prepare humans for space missions - Space",
+      "description": "The risks and advantages of performing research missions underwater to prepare for space exploration.",
+      "url": "https://www.space.com/space-exploration/missions/analog-astronauts-how-living-underwater-can-prepare-humans-for-space-missions",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/sTxkVadD9aNk8qvTshrNWa-2560-80.jpg",
+      "publishedAt": "2026-10-26T21:00:00Z",
+      "content": null
     }
   ]
 }
