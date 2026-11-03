@@ -6,9 +6,35 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-02T19:50:31.517096+00:00",
-  "articles_count": 89,
+  "fetched_at": "2026-11-03T01:52:59.927500+00:00",
+  "articles_count": 94,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Kalley Huang",
+      "title": "Apple’s Profit Grows 12% Despite Component Price Worries",
+      "description": "The company said iPhone sales remained strong, but warned that the cost of memory chips for its devices was going up.",
+      "url": "https://www.nytimes.com/2026/11/02/technology/apple-earnings.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/02/multimedia/APPLE-EARNINGS-1-fjml/APPLE-EARNINGS-1-fjml-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-02T23:41:50Z",
+      "content": "The company said iPhone sales remained strong, but warned that the cost of memory chips for its devices was going up."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Ali Watkins",
+      "title": "Are Freezers Being Hacked? Europe and the U.S. Military Are Investigating.",
+      "description": "A wave of disruptions at grocery stores, which some officials blame on cyberattacks, highlights the vulnerability of supply chains. Shops across Europe were affected again on Monday.",
+      "url": "https://www.nytimes.com/2026/11/02/business/cyberattack-freezers-europe-us-army.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/02/multimedia/02xp-freezers/02xp-freezers-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-02T21:28:04Z",
+      "content": "A wave of disruptions at grocery stores, which some officials blame on cyberattacks, highlights the vulnerability of supply chains. Shops across Europe were affected again on Monday."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -45,7 +71,7 @@
       "description": "Marvell and Lumentum said they were combining, in a major bet on a technology, known as optical networking, that is increasingly being used in A.I. data centers.",
       "url": "https://www.nytimes.com/2026/11/02/technology/marvell-lumentum-115-billion-merger-ai.html",
       "urlToImage": "https://static01.nyt.com/images/2026/11/02/multimedia/02biz-marvell-zmhv/02biz-marvell-zmhv-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-02T18:48:03Z",
+      "publishedAt": "2026-11-02T18:48:04Z",
       "content": "Marvell and Lumentum said they were combining, in a major bet on a technology, known as optical networking, that is increasingly being used in A.I. data centers."
     },
     {
@@ -76,16 +102,107 @@
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "RPG Site"
       },
-      "author": "Kotaku",
-      "title": "Tony Hawk Kicked Out Of Park While Trying To Recreate Pro Skater 3 - Kotaku",
+      "author": "James Galizio",
+      "title": "Queen's Domain Review - RPG Site",
+      "description": "More than just a love letter to King's Field, Queen's Domain is a genuine must play",
+      "url": "https://www.rpgsite.net/review/21673-queens-domain-review",
+      "urlToImage": "https://images.rpgsite.net/articles/thumbnail/a3ecf1c/21673/original/queensdomainreviewminipic.jpg",
+      "publishedAt": "2026-11-01T23:15:03Z",
+      "content": "Usually games don't wear their inspirations on their sleeve as clearly as Queen's Domain. The name says it all; Freshly Baked Games really, really like King's Field and wanted to make their own take … [+4863 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SlashGear"
+      },
+      "author": "Jonathan H. Kantor",
+      "title": "Your PlayStation 5 Can Play PS2 Discs, But You'll Have To Do Some Extra Legwork - SlashGear",
+      "description": "Learn how to play PS2 discs on a PS5 using the PS5SX2 emulator: jailbreak firmware limits, SSD disc dumping, CD-ROM hurdles, and emulation setup steps.",
+      "url": "https://www.slashgear.com/2297900/how-to-play-ps2-game-discs-playstation-5/",
+      "urlToImage": "https://www.slashgear.com/img/gallery/your-playstation-5-can-play-ps2-discs-but-youll-have-to-do-some-extra-legwork/l-intro-1793076644.jpg",
+      "publishedAt": "2026-11-01T20:45:00Z",
+      "content": "In order to play your PS2 games on your PS5, you'll need to download PS5SX2, a new port of the PCSX2 emulator, which is posted on GitHub. The way that it functions is that, once you've actually gotte… [+1305 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Abner Li",
+      "title": "Wear OS adding ‘system status bar’ to apps, Wear OS 7.1 coming - 9to5Google",
+      "description": "Earlier this week, Google revealed that a “later platform release of Wear OS” is adding a “system status bar.”",
+      "url": "http://9to5google.com/2026/11/01/wear-os-status-bar/",
+      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Wear-OS-7-cover.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-11-01T20:44:00Z",
+      "content": "Earlier this week, Google revealed that a later platform release of Wear OS is adding a system status bar.\r\nOn October 26, Google released a Wear OS canary emulator in Android Studio to let developer… [+2199 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Pethelpful.com"
+      },
+      "author": "PetHelpful",
+      "title": "World Market’s Vibrant New Christmas Ornament Is Perfect for Hummingbird Enthusiasts - PetHelpful",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONmJGMktGdmVObUxsaGR1a1N6dEN1RVBrd2ZjNmxSenBRMFh0c0Y0VmxURS04Xy13ZEJ0VGZ5bEhrX1diZUxmel82LXBMb21WY29rUnlVOUVidm1UV3VlRmhyTmU5cDdoRTd3Umo3c2JTZTYzbmx1RVNfRTBlb2d3TWxiejBMa1VOdlVfRmFDaWZpdW1tdEppNXhHYUc?oc=5",
+      "url": "https://pethelpful.com/shopping/world-market-red-glass-hummingbird-feeder-ornament",
       "urlToImage": null,
-      "publishedAt": "2026-11-01T19:32:02Z",
+      "publishedAt": "2026-11-01T20:26:24Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Abner Li",
+      "title": "Google says Googlebook ‘detachables’ are coming soon - 9to5Google",
+      "description": "At the Android Dev Summit 2026 earlier this week, Google said that Googlebook detachables will be the next form factor.",
+      "url": "http://9to5google.com/2026/11/01/googlebook-detachables/",
+      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Googlebook-family-cover.webp?resize=1200,628",
+      "publishedAt": "2026-11-01T20:07:00Z",
+      "content": "At the Android Dev Summit 2026 earlier this week, Google said that Googlebook detachables will be the next form factor after clamshells and convertibles.\r\nThis reveal at the Wednesday developer keyno… [+1289 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gamegpu.com"
+      },
+      "author": "Evgen Kovalov",
+      "title": "Graphics Call of Duty Modern Warfare 4 with DLSS 5 technology compared to a 1440p film - GameGPU",
+      "description": "Enthusiasts demonstrated the capabilities of NVIDIA DLSS 5 neural network rendering technology using the story campaign of the military shooter Call of...",
+      "url": "https://en.gamegpu.com/news/igry/grafiku-call-of-duty-modern-warfare-4-s-tekhnologiej-dlss-5-sravnili-s-filmom-v-1440p",
+      "urlToImage": "https://gamegpu.com/images/1_2026/NEWS/Q4/okt/31/image_8wghfyhwfbogsdhfb_ggpu.webp#joomlaImage://local-images/1_2026/NEWS/Q4/okt/31/image_8wghfyhwfbogsdhfb_ggpu.webp?width=1920&height=1080",
+      "publishedAt": "2026-11-01T19:43:06Z",
+      "content": "Enthusiasts demonstrated the capabilities of NVIDIA DLSS 5 neural network rendering technology using the example of a military shooter's story campaign. Call of Duty Modern Warfare 4The key innovatio… [+2193 chars]"
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Joseph Green",
+      "title": "The Apple iPhone 17 is yours for free this weekend — how to claim - Mashable",
+      "description": "We're still looking for the catch.",
+      "url": "https://mashable.com/tech/nov-1-free-apple-iphone-17-early-black-friday-deal",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/007QcXHY3i376lNpVPe7WeZ/hero-image.fill.size_1200x675.v1793372846.jpg",
+      "publishedAt": "2026-11-01T18:04:03Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Warhammer-community.com"
+      },
+      "author": null,
+      "title": "Sunday Preview – The Khazalite Holds prepare to march out - Warhammer Community",
+      "description": "See what’s available for pre-order next week, including a wealth of Warhammer Age of Sigmar miniatures.",
+      "url": "https://www.warhammer-community.com/articles/pqgrrqqt/sunday-preview-the-khazalite-holds-prepare-to-march-out",
+      "urlToImage": "https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/sundaypreview-nov01-2-share-naig3trjvn.jpg",
+      "publishedAt": "2026-11-01T17:59:17Z",
+      "content": "Gholems are revered living statues that make for imposing figures on the battlefield. Crafted into simulacra of the Keeper of the Gate himself, the Gholems of Gazul are armed with massive two-handed … [+3648 chars]"
     },
     {
       "source": {
@@ -102,6 +219,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Wccftech"
+      },
+      "author": "Alessio Palumbo",
+      "title": "Sony’s Bend Studio Reportedly Plans a 2027 Reveal and Possible Release for Its Third-Person Co-Op Game, Despite Starting the Project Only in Mid-2025 - Wccftech",
+      "description": "According to a fresh rumor, the next game by Sony's Bend Studio is a third-person co-op game due to be revealed and possibly released in 2027.",
+      "url": "https://wccftech.com/bend-studio-third-person-co-op-game-2027-report/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/11/days-gone-sony-bend-studio-HD-1920x1080.jpeg",
+      "publishedAt": "2026-11-01T17:30:25Z",
+      "content": "According to a fresh rumor posted by MP1st, Sony-owned developer Bend Studio will announce and possibly even release its next project in 2027, since it's much further along in development than anyone… [+1673 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -115,16 +245,42 @@
     },
     {
       "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
+        "id": null,
+        "name": "Futurism"
       },
-      "author": "Mark Gurman",
-      "title": "Apple Missed a Chance to Be Revolutionary With Touch-Screen Mac - Bloomberg.com",
-      "description": "Also: The latest on the cracked iPhone Duo screens.",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-01/apple-touch-screen-macbook-pro-impressions-software-division-gaming-shake-up",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEnE77inLpeM/v0/1200x800.jpg",
-      "publishedAt": "2026-11-01T16:32:16Z",
-      "content": "Apple finally delivered the touch-screen MacBook Pro but played it as safe as possible. Also: The iPhone Duo cracked-screen issue is real, and heres why the foldable has been so difficult to find.\r\nL… [+94 chars]"
+      "author": "Maggie Harrison Dupré",
+      "title": "Microsoft Patents an AI That Can Literally Put Words in People’s Mouths in Real Time - Futurism",
+      "description": "Microsoft just filed a patent for an AI product that would be able to transform live video in real time to alter speakers' words and faces.",
+      "url": "https://futurism.com/artificial-intelligence/microsoft-patents-ai-words-in-peoples-mouths",
+      "urlToImage": "https://futurism.com/wp-content/uploads/2026/10/microsoft-patents-ai-words-in-peoples-mouths.jpg?w=1200",
+      "publishedAt": "2026-11-01T17:09:00Z",
+      "content": "Can’t-miss innovations from the bleeding edge of science and tech\r\nMicrosoft just filed a patent for an AI product that would be able to transform live video in real time to alter speakers’ words and… [+3287 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Vikki Blake",
+      "title": "A Persona 1 remake called Be Your True Mind has seemingly leaked, and it looks a lot like Persona 5 - Eurogamer.net",
+      "description": "A short clip of what appears to be a Persona 1 remake, subtitled Be Your True Mind, has leaked online, showing Persona 5-style menus and combat.",
+      "url": "https://www.eurogamer.net/persona-1-remake-be-your-true-mind-leak",
+      "urlToImage": "https://assetsio.gnwcdn.com/Screenshot-2026-11-01-at-16.28.57.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2026-11-01T16:35:17Z",
+      "content": "Almost two minutes of footage from what appears to be a remake of the original Persona has leaked online.\r\nThe clip, which seemingly gives the remake the subtitle Be Your True Mind, was shared on the… [+1388 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Michael Burkhardt",
+      "title": "Here’s how I’m solving the iPhone Duo kickstand problem, without any bulk - 9to5Mac",
+      "description": "If you’re like me and bought an iPhone Duo, you’re likely a bit disappointed by the options on the market...",
+      "url": "https://9to5mac.com/2026/11/01/heres-the-best-option-for-an-iphone-duo-kickstand/",
+      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/JPEG-image-3.jpeg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-11-01T16:29:00Z",
+      "content": "If you’re like me and bought an iPhone Duo, you’re likely a bit disappointed by the options on the market to prop it up on a table. Apple’s official $129 folio with kickstand is expensive, flimsy, an… [+2473 chars]"
     },
     {
       "source": {
@@ -168,6 +324,19 @@
     {
       "source": {
         "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Fernando Silva",
+      "title": "This 140W power station might be the ultimate charger for Apple users [Video] - 9to5Mac",
+      "description": "CUKTECH 15 140W PowerStation delivers fast USB-C charging, wireless charging, and a retractable cable in one compact desk setup.",
+      "url": "https://9to5mac.com/2026/11/01/this-140w-power-station-might-be-the-ultimate-charger-for-apple-users-video/",
+      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/charger.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-11-01T16:16:00Z",
+      "content": "I have tested and used countless charging stations over the years, and while many of them get the job done, I feel like there is always some sort of compromise. Whether it’s not enough power, lack of… [+4198 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "MacRumors"
       },
       "author": "Joe Rossignol",
@@ -177,6 +346,19 @@
       "urlToImage": "https://images.macrumors.com/t/hDGkYUBX7leA4HwBu6c7d-XhWog=/2071x/article-new/2026/10/homeview_home_screen_feature-1.jpg",
       "publishedAt": "2026-11-01T15:37:04Z",
       "content": "One would need a hole in their head to dive into this product. Love Apple. Long story short, my original HomePods make me want to recreate the Office Space printer scene.\r\nThe conceptual solution thi… [+824 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "Wesley Hilliard",
+      "title": "Apple to eliminate non-touch MacBooks Pros other than core 14-inch model - AppleInsider",
+      "description": "When Apple launched the new touch-enabled MacBook Pros, the M5 Pro and M5 Max models stuck around. A new report says to not expect that to last.",
+      "url": "https://appleinsider.com/articles/26/11/01/apple-to-eliminate-non-touch-macbooks-pros-other-than-core-14-inch-model",
+      "urlToImage": "https://media.appleinsider.com/gallery/69624-146800-IMG_5388-xl.jpg",
+      "publishedAt": "2026-11-01T15:28:00Z",
+      "content": "Touch comes to MacBook Pro\r\nWhen Apple launched the new touch-enabled MacBook Pros, the M5 Pro and M5 Max models stuck around. A new report says to not expect that to last.\r\nThe new 14-inch MacBook P… [+3826 chars]"
     },
     {
       "source": {
@@ -194,15 +376,15 @@
     {
       "source": {
         "id": null,
-        "name": "Decrypt"
+        "name": "Wccftech"
       },
-      "author": "Jose Antonio Lanz",
-      "title": "How to Run an AI Model Locally—And Why You Might Want To - Decrypt",
-      "description": "Free tools like Ollama and LM Studio can run open-weight AI models on your laptop, offline, and without a subscription. Here's how to get started.",
-      "url": "https://decrypt.co/382295/how-to-run-ai-model-locally-why-you-might-want",
-      "urlToImage": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/ai-decrypt-style-07-gID_7.png",
-      "publishedAt": "2026-11-01T14:01:02Z",
-      "content": "In brief\r\n<ul><li>Open-weight models have trailed the best closed models by an average of four months since January 2026, according to Epoch AI's May 29 analysis.</li><li>Ollama and LM Studio are fre… [+7151 chars]"
+      "author": "Sarfraz Khan",
+      "title": "Modded RTX 2080 Ti With 22 GB Memory Delivers Up To 73% Boost At 4K Compared To 11 GB Variant, Benchmarks Reveal - Wccftech",
+      "description": "GeForce RTX 2080 Ti 22 GB outperforms 11 GB variant at 4K, boosting performance by 73% in Flight Simulator 2024 and 64% in Spider-Man 2.",
+      "url": "https://wccftech.com/modded-rtx-2080-ti-with-22-gb-memory-delivers-up-to-64-boost-at-4k-compared-to-11-gb/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/11/MSI-RTX-2080-Ti-22-GB.jpg",
+      "publishedAt": "2026-11-01T15:19:59Z",
+      "content": "As expected, the GPU with twice the VRAM performed much better in certain scenarios, but not every game saw similar improvements. \r\nGerman publication PC Games Hardware recently bought a modded GeFor… [+2993 chars]"
     },
     {
       "source": {
@@ -220,6 +402,32 @@
     {
       "source": {
         "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Ben Schoon",
+      "title": "Motorola is filling the gap OnePlus left behind, mostly - 9to5Google",
+      "description": "As we near the launch of Motorola’s return to the flagship space, it’s becoming clear that the company is ready...",
+      "url": "http://9to5google.com/2026/11/01/motorola-oneplus-gap/",
+      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/motorola-signature-27-1_942c71.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-11-01T14:00:00Z",
+      "content": "As we near the launch of Motorola’s return to the flagship space, it’s becoming clear that the company is ready to fill a gap left by the departure of OnePlus, though there’s one very obvious differe… [+3892 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SlashGear"
+      },
+      "author": "Shane O'Neill",
+      "title": "5 Of The Best Leatherman Multitools For Gardening - SlashGear",
+      "description": "From pruning stubborn branches to fixing garden fixtures, these Leatherman multitools are resourceful companions that won't get dusty in your garage.",
+      "url": "https://www.slashgear.com/2297561/best-leatherman-multitools-for-gardening/",
+      "urlToImage": "https://www.slashgear.com/img/gallery/5-of-the-best-leatherman-multitools-for-gardening/l-intro-1792833909.jpg",
+      "publishedAt": "2026-11-01T13:45:00Z",
+      "content": "The beauty of a multitool is that it comes in handy in most situations. With one small yet mighty package, you can open bottles, cut materials, shave down wood, and more. That said, some buy multitoo… [+985 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Gear Patrol"
       },
       "author": "Tucker Bowe",
@@ -229,19 +437,6 @@
       "urlToImage": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/11/Musical-Fidelity-B1xCD-16x9-Edited-3.webp",
       "publishedAt": "2026-11-01T13:06:30Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Microsoft AI beats doctors in simulated diagnosis test - Fox News",
-      "description": "Microsoft's AI diagnostic system identified 83% of complex medical cases in a study, more than doubling the 36% accuracy of generalist doctors.",
-      "url": "https://www.foxnews.com/tech/microsoft-ai-beats-doctors-simulated-diagnosis-test",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/senior-woman-doctor-brain-scan.jpg",
-      "publishedAt": "2026-11-01T12:34:10Z",
-      "content": "Ever leave a doctor's appointment with more questions than answers? Maybe you've gone through several tests, only to hear that your doctor still isn't sure what's causing your symptoms. That uncertai… [+13808 chars]"
     },
     {
       "source": {
@@ -271,6 +466,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Phoronix"
+      },
+      "author": null,
+      "title": "The Linux 7.4 Merge Window Is Easily The Largest In Kernel History - Phoronix",
+      "description": "After writing this morning with some stats about the size of the Linux 7.4 merge window and the kernel's source tree approaching 42 million lines, I was curious to run some numbers for putting the size of the merge window into perspective against the major ke…",
+      "url": "https://www.phoronix.com/news/Linux-7.4-Massive-Window",
+      "urlToImage": "https://www.phoronix.net/image.php?id=2026&image=linux_activity_1",
+      "publishedAt": "2026-11-01T12:00:00Z",
+      "content": "After writing this morning with some stats about the size of the Linux 7.4 merge window and the kernel's source tree approaching 42 million lines, I was curious to run some numbers for putting the si… [+3226 chars]"
+    },
+    {
+      "source": {
         "id": "nbc-news",
         "name": "NBC News"
       },
@@ -285,28 +493,28 @@
     {
       "source": {
         "id": null,
-        "name": "Phoronix"
+        "name": "BGR"
       },
-      "author": null,
-      "title": "The Linux 7.4 Merge Window Is Easily The Largest In Kernel History - Phoronix",
-      "description": "After writing this morning with some stats about the size of the Linux 7.4 merge window and the kernel's source tree approaching 42 million lines, I was curious to run some numbers for putting the size of the merge window into perspective against the major ke…",
-      "url": "https://www.phoronix.com/news/Linux-7.4-Massive-Window",
-      "urlToImage": "https://www.phoronix.net/image.php?id=2026&image=linux_activity_1",
-      "publishedAt": "2026-11-01T12:00:00Z",
-      "content": "After writing this morning with some stats about the size of the Linux 7.4 merge window and the kernel's source tree approaching 42 million lines, I was curious to run some numbers for putting the si… [+3226 chars]"
+      "author": "Talia Roepel",
+      "title": "You Should Avoid Any Video Doorbell That Lacks This Essential Security Feature - BGR",
+      "description": "Two-factor authentication helps protect your video doorbell from unwanted access. Here's why it matters and what to check before buying a new model.",
+      "url": "https://www.bgr.com/2299320/why-you-should-avoid-video-doorbell-without-2fa/",
+      "urlToImage": "https://www.bgr.com/img/gallery/you-should-avoid-any-video-doorbell-that-lacks-this-essential-security-feature/l-intro-1793190555.jpg",
+      "publishedAt": "2026-11-01T11:17:00Z",
+      "content": "In a digital age where almost everything requires a username and password to sign in, you'll likely have come across two-factor authentication (2FA). It's an extra security measure that has you use a… [+1137 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Videocardz.com"
+        "name": "Financebuzz.com"
       },
-      "author": null,
-      "title": "Full Intel Larrabee GPU development system has been found in storage unit, reportedly runs Crysis - VideoCardz.com",
-      "description": "A rare Intel Larrabee development system was discovered at a storage-unit auction and restored to working condition. Its owner claims Crysis runs at 720p.",
-      "url": "https://videocardz.com/newz/full-intel-larrabee-gpu-development-system-has-been-found-in-storage-unit-reportedly-runs-crysis",
-      "urlToImage": "https://cdn.videocardz.com/1/2026/11/INTEL-LARRABEE-GPU-DEV-SYSTEM.webp",
-      "publishedAt": "2026-11-01T11:16:21Z",
-      "content": "© pkellythompson \r\nIntel’s unreleased Larrabee GPU has reportedly been brought back to life, complete with its original development software and working Direct3D acceleration. Even more surprising, t… [+2717 chars]"
+      "author": "Calista Headrick",
+      "title": "10 Vinyl Records From the ‘70s That Are Worth a Small Fortune - AOL.com",
+      "description": "Many popular records from music industry giants of the 1970s, from the Sex Pistols to Bob Marley, have skyrocketed in value among vintage vinyl collectors.",
+      "url": "https://financebuzz.com/news/vinyl-records-70s-worth-small-fortune-2",
+      "urlToImage": "https://hermes.media.static.aol.com/media/2026/11/01/bf07199a-6629-30bb-97d8-2c632755bfef/b1bc3830-0bc0-427a-bdd1-a66230c9d704.jpg",
+      "publishedAt": "2026-11-01T11:00:00Z",
+      "content": "Even as the popularity of physical media has dwindled, vinyl records continue to be in demand among music lovers and collectors, and with that demand comes value. Even records that were popular and w… [+5159 chars]"
     },
     {
       "source": {
@@ -324,6 +532,19 @@
     {
       "source": {
         "id": null,
+        "name": "Videocardz.com"
+      },
+      "author": null,
+      "title": "Full Intel Larrabee GPU development system has been found in storage unit, reportedly runs Crysis - VideoCardz.com",
+      "description": "A rare Intel Larrabee development system was discovered at a storage-unit auction and restored to working condition. Its owner claims Crysis runs at 720p.",
+      "url": "https://videocardz.com/newz/full-intel-larrabee-gpu-development-system-has-been-found-in-storage-unit-reportedly-runs-crysis",
+      "urlToImage": "https://cdn.videocardz.com/1/2026/11/INTEL-LARRABEE-GPU-DEV-SYSTEM.webp",
+      "publishedAt": "2026-11-01T10:19:09Z",
+      "content": "© pkellythompson \r\nIntel’s unreleased Larrabee GPU has reportedly been brought back to life, complete with its original development software and working Direct3D acceleration. Even more surprising, t… [+2717 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Eurogamer.net"
       },
       "author": "Vikki Blake",
@@ -333,19 +554,6 @@
       "urlToImage": "https://assetsio.gnwcdn.com/Screenshot-2026-10-31-at-21.28.07.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "publishedAt": "2026-11-01T10:04:13Z",
       "content": "Pikmin 4Nintendo Switch 2 Edition will launch on 12th November, bundled with a new mode called Dandori Academy.\r\nNintendo confirmed the date during yesterday's surprise Pikmin Day Direct, which also … [+1269 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "The New York Times",
-      "title": "Book Review: ‘Sound Tracks,’ by Graeme Lawson - The New York Times",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcUV1X2tTZHJyb0xYNjA4OWtHUGl3aDU1OFhTNWpXOHpaTmxod0ZIV0tBdFF6RmwtV3VlNlo1SlZ5TzhxTm5ZY2tNc1pJWkpuVFJsRTFvTGpJSlJsNXB3cjhGWlpNek5xOVFTNHlXYWs4NEEwTWVvMERDVzR6T1VzQXB1MXAxZw?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-11-01T10:01:41Z",
-      "content": null
     },
     {
       "source": {
@@ -362,29 +570,29 @@
     },
     {
       "source": {
-        "id": "mashable",
-        "name": "Mashable"
+        "id": null,
+        "name": "Tom's Guide"
       },
-      "author": "Joseph Green",
-      "title": "T-Mobile is giving away the Apple iPhone 18 Pro for free — how to qualify - Mashable",
-      "description": "The free iPhone deals are so back.",
-      "url": "https://mashable.com/tech/oct-31-free-apple-iphone-18-pro-deal",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/037GA6LFMvnmzF3gXa5mSiX/hero-image.fill.size_1200x675.v1793373946.jpg",
-      "publishedAt": "2026-11-01T09:46:38Z",
+      "author": "Tom Pritchard",
+      "title": "We've tested the iPhone Duo and iPhone 18 Pro Max — here's the phone you should actually buy - Tom's Guide",
+      "description": "Which premium iPhone is the right one for you?",
+      "url": "https://www.tomsguide.com/phones/iphones/weve-tested-the-iphone-duo-and-iphone-18-pro-max-heres-the-phone-you-should-actually-buy",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/hPwe59UJGEGAsrUksyHuAM-2560-80.jpg",
+      "publishedAt": "2026-11-01T08:30:00Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "GameSpot"
+        "name": "Geeky Gadgets"
       },
-      "author": "Darryn Bonthuys",
-      "title": "The Biggest New Game Releases Of November 2026 - GameSpot",
-      "description": "There’s a lot more to November than just Grand Theft Auto 6",
-      "url": "https://www.gamespot.com/articles/the-biggest-new-game-releases-of-november-2026/",
-      "urlToImage": "https://www.gamespot.com/wp-content/uploads/2026/10/November-2026-games.jpg",
-      "publishedAt": "2026-11-01T07:00:00Z",
-      "content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links.\r\nWho would possibly think it’s a good idea to launch a new game in … [+17186 chars]"
+      "author": "Roland Hutchinson",
+      "title": "Apple’s Secret iPhone 20 Plans Will Completely Rewrite the Smartphone Playbook - Geeky Gadgets",
+      "description": "iPhone 20 redesign rumors point to a massive 20th-anniversary update in 2027. Apple might skip the iPhone 19 and introduce solid-state haptic buttons.",
+      "url": "https://www.geeky-gadgets.com/iphone-20-redesign-rumors-2/",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/11/iphone-20-concept.jpg",
+      "publishedAt": "2026-11-01T07:31:11Z",
+      "content": "Apple is reportedly preparing a significant redesign for the iPhone 20, scheduled for release in 2027 to commemorate the 20th anniversary of the original iPhone. This milestone device is expected to … [+5256 chars]"
     },
     {
       "source": {
@@ -402,15 +610,15 @@
     {
       "source": {
         "id": null,
-        "name": "Screen Rant"
+        "name": "GoNintendo"
       },
-      "author": "Ashley Shankle",
-      "title": "Fallout 5 Setting Officially Confirmed In New Teaser - ScreenRant",
-      "description": "Fallout 5 will be more familiar to fans than originally thought.",
-      "url": "https://screenrant.com/fallout-5-setting-confirmed-bethesda-tease/",
-      "urlToImage": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/06/vault-111-from-fallout-4.jpg?w=1600&h=900&fit=crop",
-      "publishedAt": "2026-11-01T05:30:18Z",
-      "content": "Fans have been waiting a long time for Fallout 5. 11 years of waiting since the release of Fallout 4, to be exact. It's not likely that fans will be waiting another decade for a new game in the popul… [+2661 chars]"
+      "author": "rawmeatcowboy",
+      "title": "Minecraft \"Switch vs. Switch 2\" graphics and framerate comparison - GoNintendo",
+      "description": "Both of them are pretty blocky",
+      "url": "https://gonintendo.com/contents/66760-minecraft-switch-vs-switch-2-graphics-and-framerate-comparison",
+      "urlToImage": "https://gonintendo.com/attachments/image/88483/file/medium-ac04cf6e662600b04abdabce36617cdb.png",
+      "publishedAt": "2026-11-01T04:31:04Z",
+      "content": "Minecraft is now out on Nintendo Switch 2! And if youve had a chance to spy on someone playing, youll know the game looks especially lush on the console. Thats because Minecraft for Nintendo Switch 2… [+2218 chars]"
     },
     {
       "source": {
@@ -427,45 +635,6 @@
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Daily Kos",
-      "title": "It’s the principle - Daily Kos",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOWI4SEdranpoczVXcU5USzdNRi1ZSHdwanhyR0p0UHFGMnczenFuMFhrd2E2em5FWHdZRnZBb0pjdzlKRXlxdFlnY1BtTzlXVUNBMlRFdktSR0czXzZaVW9rOGJpUzBRcnp5QkxUcnRKU3U3VGpRNlZXZWF0bWRqT204TzBaa2c?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-31T22:55:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SlashGear"
-      },
-      "author": "Bob Sharp",
-      "title": "5 Of The Best Leatherman Multitools For Camping - SlashGear",
-      "description": "Explore 5 of the best Leatherman multitools for camping: outdoor survival on the Signal, premium ARC MagnaCut, versatile Wave Plus, Skeletool, and Wingman.",
-      "url": "https://www.slashgear.com/2297265/best-leatherman-multitools-for-camping/",
-      "urlToImage": "https://www.slashgear.com/img/gallery/5-of-the-best-leatherman-multitools-for-camping/l-intro-1793036408.jpg",
-      "publishedAt": "2026-10-31T22:45:00Z",
-      "content": "There are a couple of philosophies that people tend to follow when camping. The first is to cram the car with everything you might need: chairs, tables, portable grills, and plenty of interesting cam… [+1315 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Notebookcheck.net"
-      },
-      "author": "Alexander Fagot",
-      "title": "Samsung now mocks Apple iPhone Duo with crackgate memes too - Notebookcheck",
-      "description": "One company's misfortune is another's delight. Samsung has a long history of mocking Apple's decisions and products. Even the now quite viral mishap involving broken hinges and damaged displays is being exploited by the South Korean company's international ma…",
-      "url": "https://www.notebookcheck.net/Samsung-now-mocks-Apple-iPhone-Duo-with-crackgate-memes-too.1439057.0.html",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-verarscht-Apple-iPhone-Duo-nun-auch-wegen-Crackgate.jpeg",
-      "publishedAt": "2026-10-31T22:25:00Z",
-      "content": "Samsung can only hope that it won`t face any major product scandal anytime soon (think Galaxy Note 7). For now at least, people in Samsung`s worldwide marketing team are taking delight in Apple`s som… [+781 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -479,16 +648,16 @@
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "id": null,
+        "name": "MMORPG.com"
       },
-      "author": "Anthony Ha",
-      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’ - TechCrunch",
-      "description": "Apple's new CEO defended the company's current position in the AI landscape.",
-      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2302418320.jpg?w=1024",
-      "publishedAt": "2026-10-31T21:41:00Z",
-      "content": "During a recent interview with Wireds Steven Levy, Apple CEO John Ternus defended the companys current position in the AI landscape.\r\nOver the past couple years, Apple has often been described as beh… [+944 chars]"
+      "author": null,
+      "title": "All the Details From FFXIV's Fan Fest Tokyo Keynote - MMORPG.com",
+      "description": "Hayes is here with a full recap of yesterday's Final Fantasy XIV Fan Festival Tokyo's Keynote, recapping all the Evercold announcements.",
+      "url": "https://www.mmorpg.com/features/all-the-details-from-ffxivs-fan-fest-tokyo-keynote-2000139232",
+      "urlToImage": "https://media.mmorpg.com/images/heroes/posts/139232.jpg",
+      "publishedAt": "2026-10-31T21:42:00Z",
+      "content": "The third and final Fan Fest of the year has arrived, bringing the best look we've seen yet of Final Fantasy XIV: Evercold. As is usually the case with Fan Fests, we now have the final version of the… [+14855 chars]"
     },
     {
       "source": {
@@ -532,32 +701,6 @@
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Zack Kotzer",
-      "title": "EA Offices Tagged With ‘Save Mass Effect’ Graffiti - Kotaku",
-      "description": "As stumbled upon overnight by a Reddit user, one incensed fan is taking the fight right to the publisher’s gates",
-      "url": "https://kotaku.com/ea-offices-tagged-with-save-mass-effect-graffiti-2000751962",
-      "urlToImage": "https://kotaku.com/app/uploads/2022/07/452cce7a4e33f51ab2dd8aaa30dcb516-1200x675.jpg",
-      "publishedAt": "2026-10-31T19:48:02Z",
-      "content": "While evergreen to say that Mass Effect fans are having a rough go, its hard to imagine a worse couple of weeks. Earlier in the month, EA announced that they were closing BioWare, extinguishing any h… [+2058 chars]"
-    },
-    {
-      "source": {
-        "id": "mashable",
-        "name": "Mashable"
-      },
-      "author": "Samantha Mangino",
-      "title": "I tested all of Amazon's e-readers, and this is the best Kindle to buy - Mashable",
-      "description": "I'm putting the new Paperwhite, Colorsoft, and Scribe head-to-head.",
-      "url": "https://mashable.com/roundup/best-kindles-hands-on-tested-2026",
-      "urlToImage": "https://helios-i.mashable.com/imagery/roundups/075BHRyIknVFjS6g55iHeyI/hero-image.fill.size_1200x675.v1793213932.jpg",
-      "publishedAt": "2026-10-31T17:27:30Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
         "name": "My Nintendo News"
       },
       "author": "Sickr",
@@ -583,29 +726,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "BleepingComputer"
+        "id": "fox-news",
+        "name": "Fox News"
       },
-      "author": "Lawrence Abrams",
-      "title": "New Android SMS of Death exploit can remotely crash unpatched phones - BleepingComputer",
-      "description": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by sending a specially craft…",
-      "url": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2024/01/31/image_(2).jpg",
-      "publishedAt": "2026-10-31T15:35:11Z",
-      "content": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt c… [+3221 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Notebookcheck.net"
-      },
-      "author": "Christian Hintze",
-      "title": "Call of Duty: Modern Warfare 4 review - Runs on integrated graphics but pushes the RTX 5090 to its limits - Notebookcheck",
-      "description": "Call of Duty: Modern Warfare 4 performance review: Benchmarks with Intel graphics, Radeon 890M, RTX 4050, RTX 5070 Ti, RTX 5090, and more reveal how much GPU power you really need.",
-      "url": "https://www.notebookcheck.net/Call-of-Duty-Modern-Warfare-4-review-Runs-on-integrated-graphics-but-pushes-the-RTX-5090-to-its-limits.1439034.0.html",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/Sonstiges/Games/Top_10_und_Dauerleih/MW4LP_BuyNow_MW4VE.jpg",
-      "publishedAt": "2026-10-31T15:21:00Z",
-      "content": "In a pinch, even our laptop with Intel UHD Graphics, AMD Radeon 890M, or RTX 4050 can handle Full HD. At the lowest settings, a standard upscaler cuts the rendering resolution in half, which should a… [+686 chars]"
+      "author": null,
+      "title": "Identity thieves don’t need your password anymore. Here are 6 new account takeover threats - Fox News",
+      "description": "Account takeover threats go beyond stolen passwords as criminals exploit session cookies, SIM swaps and MFA fatigue to bypass your login security.",
+      "url": "https://www.foxnews.com/tech/identity-thieves-dont-need-password-6-new-account-takeover-threats",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/Identity-Thief-Photo-3.jpg",
+      "publishedAt": "2026-10-31T15:19:22Z",
+      "content": "You may think of a stolen password as the main way someone gets into your account. But online criminals have learned that they do not always need to steal the password itself. They may hijack an acti… [+13566 chars]"
     },
     {
       "source": {
@@ -623,19 +753,6 @@
     {
       "source": {
         "id": null,
-        "name": "9to5Toys"
-      },
-      "author": "Justin Kahn",
-      "title": "Wild clearance deal lands on base M5 MacBook Pro at $650 off, now just $1,350 - 9to5Toys",
-      "description": "The new M6 MacBook Pro, M6 iMac, and MacBook Pro with PROLED XDR Display are now available for pre-order, but...",
-      "url": "http://9to5toys.com/2026/10/31/huge-price-drop-m5-macbook-pro-clearance-deal/",
-      "urlToImage": "https://9to5toys.com/wp-content/uploads/sites/5/2026/04/MacBook-Pro-M5-Pro.jpg?quality=82&strip=all&resize=1200,628",
-      "publishedAt": "2026-10-31T14:32:00Z",
-      "content": "The new M6 MacBook Pro, M6 iMac, and MacBook Pro with PROLED XDR Display are now available for pre-order, but Amazon is now offering a seriously banger deal on the base model M5 MacBook Pro at $1,350… [+1115 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Pure Xbox"
       },
       "author": "Craig Reid",
@@ -648,29 +765,16 @@
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "MacRumors",
-      "title": "Apple Reveals New iPad Mini's Battery Capacity - MacRumors",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1LUng0YnltSFFxMlN5VXRUTEkxOVZ6dEZZaTBfVEVROEVSYndNMTgyQ052bWl3WF9vMjN1M2ZxLWY4ZzZSa0xVOHBzTklXSllzU2tJbzlPRWE1Y2xBTzFYV2Uxdlo2aXU0UnZXWDdyemZNczNmN3htSjlibTZwQQ?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-31T14:24:08Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": null,
-        "name": "Jalopnik"
+        "name": "MacRumors"
       },
-      "author": "Josh West",
-      "title": "9 Of The Most Popular Japanese Performance Cars To Import (And Why Enthusiasts Love Them) - Jalopnik",
-      "description": "After 25 years, you can import JDM cars never sold in the U.S., including entries from Nissan, Mazda, Mitsubishi, Subaru, Honda, Toyota, and Suzuki.",
-      "url": "https://www.jalopnik.com/2298828/most-popular-japanese-performance-cars-to-import/",
-      "urlToImage": "https://www.jalopnik.com/img/gallery/9-of-the-most-popular-japanese-performance-cars-to-import-and-why-enthusiasts-love-them/l-intro-1793126714.jpg",
-      "publishedAt": "2026-10-31T12:45:00Z",
-      "content": "If the Honda Beat was Japan's idea of a tiny mid-engine sports car, the Suzuki Cappuccino takes a more traditional front-engine sports-car formula and shrinks it down about as far as possible without… [+1206 chars]"
+      "author": "Joe Rossignol",
+      "title": "Apple Reveals New iPad Mini's Battery Capacity - MacRumors",
+      "description": "Apple has published an EU energy label for the iPad mini 8 that reveals the device has a battery capacity of 4,900 mAh, which is slightly lower than...",
+      "url": "https://www.macrumors.com/2026/10/31/ipad-mini-8-battery-capacity-mah-wh/",
+      "urlToImage": "https://images.macrumors.com/t/MtZRHGN5sETgPrMS0lDN-k8KEck=/2500x/article-new/2026/10/iPad-mini-OLED-feature-3.jpg",
+      "publishedAt": "2026-10-31T14:24:08Z",
+      "content": "Apple has published an EU energy label for the iPad mini 8 that reveals the device has a battery capacity of 4,900 mAh, which is slightly lower than the 5,034 mAh capacity of the previous model's bat… [+1127 chars]"
     },
     {
       "source": {
@@ -684,6 +788,19 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/LCTFUFWYUVAGJK6XNFHW5Q6ZVE.jpg&w=1440",
       "publishedAt": "2026-10-31T12:03:47Z",
       "content": "Dear Say More: My husband is leaving for five months. I love his daughter and we get along great. Unfortunately, her mother is not great and has been flat out abusive, bullying and antagonistic towar… [+44 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Emily Mullin",
+      "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain - WIRED",
+      "description": "A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research labs.",
+      "url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+      "urlToImage": "https://media.wired.com/photos/6ae4d6bbd55a0e2bc0a8d990/191:100/w_1280,c_limit/103026-AI%20Mouse%2002.jpg",
+      "publishedAt": "2026-10-31T10:00:00Z",
+      "content": "They asked the AI model to choose a treatment from 19 options in a spreadsheet. A veterinary surgeon first performed a craniotomy on the mouse while the AI agent observed. The agent selected the ther… [+1738 chars]"
     },
     {
       "source": {
@@ -765,19 +882,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "SamMobile"
-      },
-      "author": "Mihai Matei",
-      "title": "How much Ultra DNA will the rumored Samsung Galaxy S27 Pro have? - SamMobile",
-      "description": "Samsung may expand next year's the Galaxy S27 flagship phone series with a fourth, Pro model. Is it closer to the S27+ or the S27 Ultra?",
-      "url": "https://www.sammobile.com/news/how-much-ultra-dna-in-rumored-samsung-galaxy-s27-pro/",
-      "urlToImage": "https:///wp-content/uploads/2026/09/Galaxy-S26-FE-One-UI-home-screen.jpg",
-      "publishedAt": "2026-10-30T23:00:00Z",
-      "content": "Samsung expanded its Galaxy Z lineup this year, and according to countless leaks and rumors, the company will reuse the strategy for the Galaxy S27 series next year.\r\nThe 2027 flagship lineup will co… [+2558 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -788,45 +892,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/30/multimedia/30biz-prediction-pmzg/30biz-prediction-pmzg-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-30T22:46:05Z",
       "content": "Studies have shown that the betting sites can predict races correctly, but their ability to forecast U.S. midterm elections is an important proving ground."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MMORPG.com"
-      },
-      "author": null,
-      "title": "Bungie Announces Timeline & Process For Destiny 2 Content 'Unvaulting', and A Bit About Destiny's Future - MMORPG.com",
-      "description": "Bungie has begun announcing their plans for the Destiny 2 unvaulting process, what else they've been working on with regards to the future of the IP.",
-      "url": "https://www.mmorpg.com/news/bungie-announces-timeline-and-process-for-destiny-2-content-unvaulting-and-a-bit-about-destinys-future-2000139228",
-      "urlToImage": "https://media.mmorpg.com/images/heroes/posts/139228.jpg",
-      "publishedAt": "2026-10-30T22:10:00Z",
-      "content": "Bungie has begun announcing their plans for the Destiny 2unvaulting process, what else they’ve been working on with regards to the future of the IP.\r\nAfter Destiny 2 ended content development, Bungie… [+2472 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Worlein.com"
-      },
-      "author": "Worlein-Hoff Funeral Homes",
-      "title": "John Richard Wanous Obituary Oct 30, 2026 - Worlein Funeral Home",
-      "description": "John Richard Wanous, age 78, passed away on October 30, 2026, at Legacy of Brownsdale. A memorial gathering will be held from 4:00-6:00 p.m. on Wednesday, November 4, 2026, at W...",
-      "url": "https://www.worlein.com/obituaries/john-wanous",
-      "urlToImage": "https://cdn.tukioswebsites.com/social/facebook/fb_3/a476c58e-6504-4539-a601-67602aabc0cf/a31a81398ec04934c8061e9a6abdd50c_17f6bc2c7523f8cb9075ce546ea53f4c",
-      "publishedAt": "2026-10-30T21:47:52Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Michael Cripe",
-      "title": "Bungie Says 'Don't Buy Marathon as a Donation' as Destiny Players Look to Support Studio's Future - IGN",
-      "description": "As Bungie plots a future for more Destiny, head of product Josh Deane has clarified that players don't need to \"buy Marathon as a donation\" just to support the studio's plans.",
-      "url": "https://www.ign.com/articles/bungie-says-dont-buy-marathon-as-a-donation-as-destiny-players-look-to-support-studios-future",
-      "urlToImage": "https://assets-prd.ignimgs.com/2023/05/24/marathon-blogroll-02-1684962151922.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "publishedAt": "2026-10-30T21:30:44Z",
-      "content": "As Bungie plots a future for more Destiny, head of product Josh Deane has clarified that players don't need to \"buy Marathon as a donation\" just to support the studio's plans.\r\nIt's a clarification t… [+4280 chars]"
     },
     {
       "source": {
@@ -856,16 +921,16 @@
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "MacRumors"
       },
-      "author": "MacRumors",
+      "author": "Tim Hardwick",
       "title": "14 New Things Your iPhone Can Do in iOS 27.2 - MacRumors",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBnOURnR00wOTVIOWFnMFdzU0hoUlVXZWZYWHlEUTc2VVBtY3dGeGpzckJZTFhNanduWVFsZXB2c1lRMGRYNTFhTkJCR2FmSTA0VkpIQnFMa0o1M2xQUGJGWVlpZ2FNa19Eb05INjR3dFltak9VMXlkSlU5bw?oc=5",
-      "urlToImage": null,
+      "description": "Apple released iOS 27.2 on October 26, bringing enhancements to Siri AI, adding Suggestions in Messages, and sneaking in a string of smaller...",
+      "url": "https://www.macrumors.com/2026/10/30/new-things-iphone-can-do-ios-27-2/",
+      "urlToImage": "https://images.macrumors.com/t/1HlvuYEOvRIba8bEUxG7179mPiU=/2500x/article-new/2026/10/Everything-New-Your-iPhone-Can-Do-on-iOS-27.2-Feature-1.jpg",
       "publishedAt": "2026-10-30T19:42:46Z",
-      "content": null
+      "content": "Apple released iOS 27.2 on October 26, bringing enhancements to Siri AI, adding Suggestions in Messages, and sneaking in a string of smaller additions across Photos, Podcasts, Games, Apple TV, and Fa… [+4369 chars]"
     },
     {
       "source": {
@@ -905,6 +970,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/19/arts/rv-ai-mosquitos-final-v3/rv-ai-mosquitos-final-v3-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-30T11:12:48Z",
       "content": "A Chinese start-up has developed a device that uses artificial intelligence and lasers to kill mosquitoes. But there are safety concerns for people and other creatures nearby when the device is in action."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Doublepulsar.com"
+      },
+      "author": "Kevin Beaumont",
+      "title": "Anthropic hacked to deliver remote access trojan to Claude developer laptops worldwide - DoublePulsar",
+      "description": "Yesterday, Anthropic were compromised and used to stage a global supply chain attack.",
+      "url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
+      "urlToImage": "https://miro.medium.com/v2/resize:fit:1200/0*_23N459qQLUZcQJ7.jpeg",
+      "publishedAt": "2026-10-30T10:08:04Z",
+      "content": "Yesterday, Anthropic were compromised via a Cursor VS Code extension used by tens of millions of developers for Claude access was delivering a remote access trojan via an SSH reverse backdoor. The ma… [+3378 chars]"
     },
     {
       "source": {
@@ -986,19 +1064,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Rock Paper Shotgun"
-      },
-      "author": "Edwin Evans-Thirlwell",
-      "title": "Queen's Domain is a brilliant King's Field-alike RPG that forces you to walk so you can learn to fly - Rock Paper Shotgun",
-      "description": "Out this week on PC, Queen's Blade is a beautiful and accomplished King's Field-inspired RPG that combines stately combat with an upgradeable flying sword.",
-      "url": "https://www.rockpapershotgun.com/queens-domain-is-a-brilliant-kings-field-alike-rpg-that-forces-you-to-walk-so-you-can-learn-to-fly",
-      "urlToImage": "https://assetsio.gnwcdn.com/20261027213250_1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2026-10-29T17:09:23Z",
-      "content": "FromSoftware's elderly King's Field games aren't really celebrated for their feeling of agility. They are glorious first-person trudgefests, a treacle-thick waltz of swinging and spellcraft, with pla… [+4415 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1077,19 +1142,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Warhammer-community.com"
-      },
-      "author": null,
-      "title": "Warhammer Age of Sigmar: October Update - Warhammer Community",
-      "description": "Rules changes for Khazalite Holds, Sons of Behemat, and more.",
-      "url": "https://www.warhammer-community.com/articles/iix3g22a/warhammer-age-of-sigmar-october-update",
-      "urlToImage": "https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/aos_changes-oct28-2-share-i8uxy7vpjl.jpg",
-      "publishedAt": "2026-10-28T10:27:12Z",
-      "content": "© Copyright Games Workshop Limited 2026. GW, Games Workshop, Citadel, White Dwarf, Space Marine, 40K, Warhammer, Warhammer 40,000, the Aquila Double-headed Eagle logo, Warhammer Age of Sigmar, Battle… [+1391 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1113,6 +1165,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/27/multimedia/27biz-gm-nasdaq-hlpv/27biz-gm-nasdaq-hlpv-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-27T17:46:24Z",
       "content": "After more than 100 years on the New York Stock Exchange, the automaker is shifting its listing to the Nasdaq, which is home to many technology companies."
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Jacqueline Thomas",
+      "title": "World of Warcraft Forever Opts for a Slower Update Schedule Than Retail's 8-Week Patch Cycle - IGN",
+      "description": "World of Warcraft Forever launches a week from today, and while the game will have a huge swath of content available on day one, there will be new content continually added to the game. But how frequently should fans expect new content to arrive? It sounds li…",
+      "url": "https://www.ign.com/articles/blizzard-reveals-plan-for-world-of-warcraft-forever-update-frequency",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/09/19/forever-1789805930640.png?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2026-10-27T17:00:00Z",
+      "content": "World of Warcraft Forever launches a week from today, and while the game will have a huge swath of content available on day one, there will be new content continually added to the game. But how frequ… [+3338 chars]"
     },
     {
       "source": {

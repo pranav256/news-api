@@ -6,9 +6,22 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-02T19:50:31.517096+00:00",
-  "articles_count": 89,
+  "fetched_at": "2026-11-03T01:52:59.927500+00:00",
+  "articles_count": 90,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Alexander Nazaryan",
+      "title": "Investigators Looking for Cause of Florida Crash Say Ice Was ‘Certainly a Factor’",
+      "description": "Ice, experts said, can change the shape of a plane’s wing, disrupting its aerodynamics.",
+      "url": "https://www.nytimes.com/2026/11/02/science/florida-learjet-crash-causes.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/02/multimedia/02sci-jet-crash-01-ktfm/02sci-jet-crash-01-ktfm-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-02T23:50:50Z",
+      "content": "Ice, experts said, can change the shape of a plane’s wing, disrupting its aerodynamics."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -37,16 +50,42 @@
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "KSL.com"
       },
-      "author": "The Weather Channel",
+      "author": "Staff",
+      "title": "New Moab excavation site could be oldest Cretaceous dinosaur bonebed in North America - KSL News",
+      "description": "Scientists interested in learning more about the mass extinction of dinosaurs are ecstatic over a new excavation site which they said may hold the key to understanding the major evolutionary turning point.",
+      "url": "https://www.ksl.com/article/51642182/new-moab-excavation-site-could-be-oldest-cretaceous-dinosaur-bonebed-in-north-america",
+      "urlToImage": "https://img.ksl.com/slc/3207/320727/32072768.jpeg?filter=kslv2/responsive_story_lg",
+      "publishedAt": "2026-11-01T21:10:38Z",
+      "content": "MOAB A new dinosaur dig site near Arches National Park could be one of the oldest Cretaceous bonebeds in North America.\r\nExperts in Utah say fossils found at the site outside of Moab, in eastern Utah… [+452 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KTLA Los Angeles"
+      },
+      "author": "Lily Dallow",
+      "title": "NASA’s Swift telescope expected to crash to Earth after failed rescue mission - KTLA",
+      "description": "A nearly 3,000-pound NASA space telescope that has spent more than two decades studying some of the universe’s most powerful explosions is expected to come crashing back to Earth in the coming days, with some of its debris potentially surviving the fiery desc…",
+      "url": "https://ktla.com/news/nationworld/nasas-swift-telescope-expected-to-crash-to-earth-after-failed-rescue-mission/",
+      "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2026/11/Swift-spacecraft.jpg?w=1280",
+      "publishedAt": "2026-11-01T18:48:04Z",
+      "content": "A nearly 3,000-pound NASA space telescope that has spent more than two decades studying some of the universe’s most powerful explosions is expected to come crashing back to Earth in the coming days, … [+3325 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Weather Channel"
+      },
+      "author": "Miriam Guthrie",
       "title": "Monday launch may produce a ‘space jellyfish’ in the West - The Weather Channel",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRXN5elRuSWxOWmZBUTh3MGQ5MUF3a0g3ZjAweDIyYTFERWEtb2FtSlFEd0NKX3Z1QVM5dlNERmhnLUNvQ3NrQ21jRGhPR2Z2TUI2Q2NJQkpLOEdITFVfLVNONDdkdDNva2tZZWFzdjdkZDlnV00zQkJUMEtPZ2FELW5BeFgzN2tzTDVzM1lHWjN0a0JpRHFGMmhNa2xQdF9G?oc=5",
-      "urlToImage": null,
+      "description": "Another space jellyfish could glow in the sky Monday night. See the viewing forecast for Los Angeles, Las Vegas, Salt Lake City, Arizona and more.",
+      "url": "https://weather.com/2026/11/01/forecast/regional/space-jellyfish-launch-viewing-forecast-california",
+      "urlToImage": "https://s.w-x.co/wxnext/img/spacex-orlando-a44b2e.jpg",
       "publishedAt": "2026-11-01T18:30:00Z",
-      "content": null
+      "content": "Wow! SpaceX Launch creates mesmerizing space jellyfish\r\nRemember the space jellyfish created from a SpaceX launch just a couple weeks ago? Well, theres a chance to catch it again Monday night! But le… [+1775 chars]"
     },
     {
       "source": {
@@ -77,15 +116,28 @@
     {
       "source": {
         "id": null,
-        "name": "Space.com"
+        "name": "Phys.Org"
       },
-      "author": "Leonard David",
-      "title": "NASA's Swift space telescope is about to crash to Earth. Where will it fall? - Space",
-      "description": "Swift is expected to crash back to Earth in the next few days.",
-      "url": "https://www.space.com/space-exploration/missions/nasas-swift-space-telescope-is-about-to-crash-to-earth-where-will-it-fall",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/vrXD6fnzi9tqspZvKaeFBi-2560-80.jpg",
-      "publishedAt": "2026-11-01T13:00:00Z",
-      "content": null
+      "author": "Andrew Zinin",
+      "title": "Heavy hydrogen in 3I/ATLAS's methane points to a frigid birthplace - Phys.org",
+      "description": "The interstellar comet 3I/ATLAS carries a chemical clue to conditions in the planetary system of its origin, locked away long before it reached our sun. Its methane signature is unusually rich in heavy hydrogen, suggesting that the comet's frozen ingredients …",
+      "url": "https://phys.org/news/2026-10-heavy-hydrogen-3iatlas-methane-frigid.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/heavy-hydrogen-in-3iat.jpg",
+      "publishedAt": "2026-11-01T15:20:02Z",
+      "content": "The interstellar comet 3I/ATLAS carries a chemical clue to conditions in the planetary system of its origin, locked away long before it reached our sun. Its methane signature is unusually rich in hea… [+4821 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Scientists shrink Archimedes’ screw to the size of a single molecule - Science Daily",
+      "description": "Scientists have built a groundbreaking molecular motor that spins in either direction using electricity, inspired by a machine invented more than 2,000 years ago. Even more remarkably, its rotation can boost electrical conductivity by up to 100 times, potenti…",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261030002940.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/archimedes-screw-molecular-motor.webp",
+      "publishedAt": "2026-11-01T11:57:32Z",
+      "content": "Scientists have developed a remarkable new molecular motor that spins when electricity passes through it. Inspired by an ancient invention, the tiny machine can even reverse its direction when the el… [+7030 chars]"
     },
     {
       "source": {
@@ -155,6 +207,19 @@
     {
       "source": {
         "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "David Nield",
+      "title": "The Solar System Was Choosing Fire Over Ice Right From The Beginning, Study Shows - ScienceAlert",
+      "description": "There are many contrasts between ice and fire in both real and fictional worlds – from the volcanoes of Iceland, to the Game of Thrones fantasy series.",
+      "url": "https://www.sciencealert.com/the-solar-system-was-choosing-fire-over-ice-right-from-the-beginning-study-shows",
+      "urlToImage": "https://www.sciencealert.com/images/2026/10/SolarSystem.jpg",
+      "publishedAt": "2026-11-01T09:02:41Z",
+      "content": "There are many contrasts between ice and fire in both real and fictional worlds from the volcanoes of Iceland, to the Game of Thrones fantasy series.\r\nThese two elements were at play in the early, fo… [+3878 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Science Daily"
       },
       "author": null,
@@ -193,6 +258,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "East Idaho News"
+      },
+      "author": "EastIdahoNews.com Staff",
+      "title": "Scientists say decades-old theory on the origin of life may be wrong - East Idaho News",
+      "description": "(CNN) — The popular theory that comets were crucial in kick-starting life on Earth billions of years ago may not hold up, according to new computer simulations that counter decades of scientific thinking. The finding suggests the fragile organic molecules sup…",
+      "url": "https://www.eastidahonews.com/2026/10/scientists-say-decades-old-theory-on-the-origin-of-life-may-be-wrong/",
+      "urlToImage": "https://s3.us-west-2.amazonaws.com/assets.eastidahonews.com/wp-content/uploads/2026/10/halleys-comet.jpg",
+      "publishedAt": "2026-11-01T02:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -216,6 +294,19 @@
       "urlToImage": "https://www.sciencealert.com/images/2026/10/GettyImages-1423113681-2560x1440-1.jpg",
       "publishedAt": "2026-10-31T20:00:05Z",
       "content": "Scientists are getting astonishingly good at extracting ancient human DNA from mere dirt and dust, even when there are no physical remains left\r\nNo bones, no teeth, no fossils.\r\nA small scoop of sedi… [+5638 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Boredpanda.com"
+      },
+      "author": "Eglė Tenikytė",
+      "title": "11 Space Facts So Unsettling, You Might Never Look At The Night Sky The Same Way, As Shared By This Page - Bored Panda",
+      "description": "On a clear night, the sky looks peaceful: a scattering of stars, a glowing Moon, maybe the blink of a passing satellite. That calm is mostly an illusion created by distance. Beyond our cozy corner of the cosmos, gravity bends time, entire regions sit almost c…",
+      "url": "https://www.boredpanda.com/unsettling-universe-facts-galaxies/",
+      "urlToImage": "https://static.boredpanda.com/blog/wp-content/uploads/2026/10/unsettling-universe-facts-galaxies-fb.jpg",
+      "publishedAt": "2026-10-31T19:00:15Z",
+      "content": "On February 7, 1984, NASA astronaut Bruce McCandless II became the first astronaut to move around in space untethered, with nothing connecting him to his spacecraft. Spacewalkers before him had alway… [+1109 chars]"
     },
     {
       "source": {
@@ -324,32 +415,6 @@
     {
       "source": {
         "id": null,
-        "name": "KSL.com"
-      },
-      "author": "Jacopo Prisco, CNN",
-      "title": "New study casts doubt on theory about the role comets played in kick-starting life on Earth - KSL News",
-      "description": "The popular theory that comets were crucial in kick-starting life on Earth billions of years ago may not hold up, according to new computer simulations that counter decades of scientific thinking.",
-      "url": "https://www.ksl.com/article/51642725/new-study-casts-doubt-on-theory-about-the-role-comets-played-in-kick-starting-life-on-earth",
-      "urlToImage": "https://img.ksl.com/slc/3207/320751/32075120.jpg?filter=kslv2/responsive_story_lg",
-      "publishedAt": "2026-10-31T15:03:18Z",
-      "content": "ATLANTA The popular theory that comets were crucial in kick-starting life on Earth billions of years ago may not hold up, according to new computer simulations that counter decades of scientific thin… [+6414 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": "Sandee Oster",
-      "title": "Rare Iron Age Celtic helmet discovered in northeastern Poland far from its homeland - Phys.org",
-      "description": "Around 2,400 years ago, at Łysa Góra in Poland, a group of people took a bronze helmet, crushed it, broke it into pieces and threw it into a pit with iron adzes and a scythe. Such helmets are sometimes found in lavish graves of the Celtic warrior elite, from …",
-      "url": "https://phys.org/news/2026-10-rare-iron-age-celtic-helmet.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/rare-iron-age-celtic-h.jpg",
-      "publishedAt": "2026-10-31T15:00:06Z",
-      "content": "Around 2,400 years ago, at ysa Góra in Poland, a group of people took a bronze helmet, crushed it, broke it into pieces and threw it into a pit with iron adzes and a scythe. Such helmets are sometime… [+4603 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Live Science"
       },
       "author": "Ivan Farkas",
@@ -389,19 +454,6 @@
     {
       "source": {
         "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Ivan Farkas",
-      "title": "Interstellar Visitor 3I/ATLAS Just Got Even Weirder, And May Contain 10-Billion-Year-Old Material - ScienceAlert",
-      "description": "Exiled interstellar visitors like comet 3I/ATLAS are time capsules from the cosmos at large, yeeted from their exosolar homes by an unknown cataclysm and forced to drift through lonely space for billions of years, perhaps.",
-      "url": "https://www.sciencealert.com/interstellar-visitor-3i-atlas-just-got-even-weirder-and-may-contain-10-billion-year-old-material",
-      "urlToImage": "https://www.sciencealert.com/images/2026/10/Untitled-Design-6-1200x675.png",
-      "publishedAt": "2026-10-31T12:02:40Z",
-      "content": "Exiled interstellar visitors like comet 3I/ATLAS are time capsules from the cosmos at large, yeeted from their exosolar homes by an unknown cataclysm and forced to drift through lonely space for bill… [+4652 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Space.com"
       },
       "author": "Sharmila Kuthunur",
@@ -424,19 +476,6 @@
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/5ff4cc15b8e7994530e13511/0x0.jpg?format=jpg&crop=6540,3677,x1414,y380,safe&height=900&width=1600&fit=bounds",
       "publishedAt": "2026-10-31T07:00:00Z",
       "content": "From a spectacular conjunction of the moon, two planets and a bright star to the Leonid meteor shower and a dramatic supermoon, there will be plenty going on in the night sky in November 2026. As a b… [+4475 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Spaceflight Now"
-      },
-      "author": "Will Robinson-Smith",
-      "title": "SpaceX closes out October with Halloween eve Falcon 9 launch, 700th Falcon 9 launch to date - Spaceflight Now",
-      "description": "The Starlink 15-18 mission will add another 27 Starlink V2 Mini Optimized satellites to SpaceX’s megaconstellation. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 9:04 p.m. PDT (12:04 a.m. EDT / 0404 UTC).",
-      "url": "https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch/",
-      "urlToImage": "https://spaceflightnow.com/wp-content/uploads/2026/10/20261031-Starlink-15-18-Launch.jpg",
-      "publishedAt": "2026-10-30T22:46:02Z",
-      "content": "The Starlink 15-18 mission lifts off from Vandenberg Space Force Base in California on Oct. 30, 2026, local time. Image: SpaceX.Update: Oct. 31, 12:25 a.m. EDT (0425 UTC): SpaceX landed its first sta… [+3529 chars]"
     },
     {
       "source": {
@@ -658,19 +697,6 @@
       "urlToImage": "https://www.sciencedaily.com/images/1920/ai-machine-learning-big-data-analytics-neural-network-data-flow.webp",
       "publishedAt": "2026-10-30T11:10:35Z",
       "content": "Finding the shortest route between two locations is something navigation apps like Google Maps do every day. Behind the scenes, sophisticated algorithms analyze networks of roads and intersections to… [+7178 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Yahoo",
-      "title": "Two Crows Took a Classic Psychology Test. Their Decision-Making Skills Left Ours in The Dust. - Yahoo",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORmdHd3NyX3JVcjhsWUpEZ2J4ZmZFQTFrdHFEWF81bUh4clhkTVdHZS1sVUVXcmFOMDZPSUdSRU5laGNQNldoODV1LVdhUUoxcFpYOGo2b2ExOWNVNjlveVhCdWNjLTNEdC02LUJaUEp1UTB0VmNmaFBVSVU0NVozajlTYUc4cDlNVjdIVnFBaE1QVW9uS1Bn?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-10-30T11:00:00Z",
-      "content": null
     },
     {
       "source": {
@@ -999,6 +1025,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Mike Wall",
+      "title": "Astronomers found a mysterious object beyond Neptune, and it could be a new dwarf planet - Space",
+      "description": "“My first reaction was one of excited disbelief.\"",
+      "url": "https://www.space.com/astronomy/dwarf-planets/astronomers-found-a-mysterious-object-beyond-neptune-and-it-could-be-a-new-dwarf-planet",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/5UR38v6ujvUPE5EBEzvts3-1920-80.jpg",
+      "publishedAt": "2026-10-28T12:58:18Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1009,19 +1048,6 @@
       "urlToImage": null,
       "publishedAt": "2026-10-28T12:05:49Z",
       "content": "The object, known for now as 2026 ED138, is one of the first discoveries by the new Vera C. Rubin Observatory in Chile."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Michelle Starr",
-      "title": "Maxwell's Demon Can Extract Energy From Hidden Memories, Study Finds - ScienceAlert",
-      "description": "In 1867, physicist James Clerk Maxwell did something very naughty.  He proposed an apparent violation of the second law of thermodynamics so diabolically clever that other physicists have been trying to resolve it ever since.",
-      "url": "https://www.sciencealert.com/maxwells-demon-can-extract-3-times-more-energy-by-exploiting-hidden-memories-physicists-discover",
-      "urlToImage": "https://www.sciencealert.com/images/2026/10/MaxwellDemon2-1200x675.png",
-      "publishedAt": "2026-10-28T11:00:03Z",
-      "content": "In 1867, physicist James Clerk Maxwell did something very naughty. \r\nHe proposed an apparent violation of the second law of thermodynamics so diabolically clever that other physicists have been tryin… [+5482 chars]"
     },
     {
       "source": {
@@ -1129,32 +1155,6 @@
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Michael Janofsky",
-      "title": "The Science Behind Your Reaction to Art",
-      "description": "The Honolulu Museum of Art is showing how art can influence thinking, perspective and mood, in an exhibition that is part of a trend by museums to mix science and art.",
-      "url": "https://www.nytimes.com/2026/10/26/arts/design/museums-mix-science-art.html",
-      "urlToImage": null,
-      "publishedAt": "2026-10-26T21:33:52Z",
-      "content": "The Honolulu Museum of Art is showing how art can influence thinking, perspective and mood, in an exhibition that is part of a trend by museums to mix science and art."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Katrina Miller",
-      "title": "Gaze at the Cosmic Dawn in Dizzying Detail",
-      "description": "A new simulation offers a highly immersive look at what happened during the first couple of billion years following the Big Bang.",
-      "url": "https://www.nytimes.com/2026/10/26/science/space/early-universe-simulation-lumina.html",
-      "urlToImage": null,
-      "publishedAt": "2026-10-26T21:14:48Z",
-      "content": "A new simulation offers a highly immersive look at what happened during the first couple of billion years following the Big Bang."
-    },
-    {
-      "source": {
         "id": null,
         "name": "Space.com"
       },
@@ -1165,6 +1165,19 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/sTxkVadD9aNk8qvTshrNWa-2560-80.jpg",
       "publishedAt": "2026-10-26T21:00:00Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras - Science Daily",
+      "description": "Researchers have developed a groundbreaking 3D invisibility cloak that can hide complex objects from infrared cameras while protecting them from extreme heat and cold. Instead of blocking heat, the device guides it around an object, making the object appear i…",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/3d-printed-hybrid-aluminum-and-rubber-cloaking-device.webp",
+      "publishedAt": "2026-10-26T10:37:23Z",
+      "content": "Scientists have developed and tested the first three-dimensional thermal invisibility cloak, a device that can conceal objects from infrared cameras while protecting them from extreme temperatures. T… [+6114 chars]"
     }
   ]
 }
