@@ -6,9 +6,35 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-03T08:40:51.747951+00:00",
-  "articles_count": 35,
+  "fetched_at": "2026-11-03T17:23:10.926679+00:00",
+  "articles_count": 30,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Emmy Martin",
+      "title": "Binance Says Hackers Plotted $6.3 Billion Crypto Heist for Months",
+      "description": "A report from the cryptocurrency exchange described a monthslong campaign involving fake job interviews that exploited an engineer’s work computer and an internal A.I. tool.",
+      "url": "https://www.nytimes.com/2026/11/03/technology/binance-hack-report.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/03/business/03biz-binance-sub/03biz-binance-sub-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-03T17:16:26Z",
+      "content": "A report from the cryptocurrency exchange described a monthslong campaign involving fake job interviews that exploited an engineer’s work computer and an internal A.I. tool."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Dana Goldstein and Natasha Singer",
+      "title": "Google Will Turn Off Search for Schools That Reject A.I.",
+      "description": "Google is making it easier to restrict its A.I. tools for students. But schools that block A.I. entirely will lose student access to Google’s search engine.",
+      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/03/multimedia/03nat-google-schools-cfkb/03nat-google-schools-cfkb-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-03T17:13:03Z",
+      "content": "Google is making it easier to restrict its A.I. tools for students. But schools that block A.I. entirely will lose student access to Google’s search engine."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -19,7 +45,7 @@
       "description": "A wave of disruptions at grocery stores, which some officials blame on cyberattacks, highlights the vulnerability of supply chains. Shops across Europe were affected again on Monday.",
       "url": "https://www.nytimes.com/2026/11/02/business/cyberattack-freezers-europe-us-army.html",
       "urlToImage": "https://static01.nyt.com/images/2026/11/02/multimedia/02xp-freezers/02xp-freezers-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-03T06:06:32Z",
+      "publishedAt": "2026-11-03T08:45:19Z",
       "content": "A wave of disruptions at grocery stores, which some officials blame on cyberattacks, highlights the vulnerability of supply chains. Shops across Europe were affected again on Monday."
     },
     {
@@ -34,32 +60,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/02/multimedia/APPLE-EARNINGS-1-fjml/APPLE-EARNINGS-1-fjml-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-02T23:41:50Z",
       "content": "The company said iPhone sales remained strong, but warned that the cost of memory chips for its devices was going up."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Tiffany Hsu",
-      "title": "How A.I. Is Making It Easier Than Ever to Microtarget Voters",
-      "description": "Hyper-personalized messages, delivered with A.I.-enabled precision, herald a new frontier for voter outreach (and potential disinformation).",
-      "url": "https://www.nytimes.com/2026/11/02/business/media/ai-microtargeting-midterm-elections.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/02/multimedia/02biz-ai-micro-midterms-cfzk/02biz-ai-micro-midterms-cfzk-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-02T19:05:35Z",
-      "content": "Hyper-personalized messages, delivered with A.I.-enabled precision, herald a new frontier for voter outreach (and potential disinformation)."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Lauren Hirsch",
-      "title": "Anthropic Reveals $17 Billion in Revenue as I.P.O. Approaches",
-      "description": "The A.I. company’s quarterly revenue totaled $17 billion, 12 times as high as the same quarter last year, while its net loss totaled $23 billion.",
-      "url": "https://www.nytimes.com/2026/11/02/business/anthropic-earnings-ai.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/02/multimedia/02Biz-Anthropic-Earnings-lvbz/02Biz-Anthropic-Earnings-lvbz-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-02T18:55:10Z",
-      "content": "The A.I. company’s quarterly revenue totaled $17 billion, 12 times as high as the same quarter last year, while its net loss totaled $23 billion."
     },
     {
       "source": {
@@ -398,71 +398,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/28/multimedia/APPLE-1-lcgk/APPLE-1-lcgk-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-28T18:30:51Z",
       "content": "Steve Jobs and Tim Cook both dismissed the idea, but Apple’s new chief executive is reimagining some of the company’s most important products."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Kashmir Hill",
-      "title": "Wanted: Robot-Dog Walkers. $20/Hour.",
-      "description": "No pooper scooper required.",
-      "url": "https://www.nytimes.com/2026/10/27/technology/robot-dog-walkers.html",
-      "urlToImage": null,
-      "publishedAt": "2026-10-27T18:20:48Z",
-      "content": "No pooper scooper required."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Aruni Soni",
-      "title": "GM Is Leaving NYSE for the Nasdaq After More Than 100 Years",
-      "description": "After more than 100 years on the New York Stock Exchange, the automaker is shifting its listing to the Nasdaq, which is home to many technology companies.",
-      "url": "https://www.nytimes.com/2026/10/27/business/general-motors-nasdaq-nyse.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/27/multimedia/27biz-gm-nasdaq-hlpv/27biz-gm-nasdaq-hlpv-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-27T17:46:24Z",
-      "content": "After more than 100 years on the New York Stock Exchange, the automaker is shifting its listing to the Nasdaq, which is home to many technology companies."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Theodore Schleifer and Erin Griffith",
-      "title": "How Billionaires Are Fighting the Prop 40 California Wealth Tax",
-      "description": "The latest Silicon Valley billionaire club is a $333 million political ad machine that is heavily engaged in next week’s elections.",
-      "url": "https://www.nytimes.com/2026/10/27/technology/proposition-40-california-billionaire-tax.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/29/business/00biz-billionaire-tax/00biz-billionaire-tax-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-27T14:55:35Z",
-      "content": "The latest Silicon Valley billionaire club is a $333 million political ad machine that is heavily engaged in next week’s elections."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "James Paton",
-      "title": "In the A.I. ‘Robogym,’ Machines Train to Be More Like Humans",
-      "description": "Germany’s Neura is one of the companies at the forefront of efforts to use artificial intelligence in robotics, and crucial to whether Europe can close the gap with China.",
-      "url": "https://www.nytimes.com/2026/10/27/business/neura-robotics-germany-china-ai.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/26/multimedia/26Biz-Robots-Europe-still-hplk/26Biz-Robots-Europe-still-hplk-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-27T09:02:37Z",
-      "content": "Germany’s Neura is one of the companies at the forefront of efforts to use artificial intelligence in robotics, and crucial to whether Europe can close the gap with China."
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Josh  Boswell",
-      "title": "Some topics are off limits in Chinese AI, researchers find",
-      "description": "A popular Chinese AI program, Qwen, has no memory of Tiananmen Square and no tolerance for Winnie the Pooh.",
-      "url": "https://www.cbsnews.com/news/china-ai-qwen-artificial-intelligence-bias-analysis/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/02/00208f19-d10e-4717-9565-d8012802ac36/thumbnail/1200x630/a88081719b0870b71253bdf3fe7ad8cc/gettyimages-2297443797.jpg",
-      "publishedAt": "2026-10-02T17:08:54Z",
-      "content": "An AI model downloaded over 3 billion times and used by U.S. firms like Airbnb and Uber is embedded with China-friendly narratives and programmed for censorship, new research shows.\r\nQwen, a freely a… [+5378 chars]"
     }
   ],
   "query": "technology AI software startup"
