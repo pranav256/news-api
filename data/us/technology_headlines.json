@@ -6,9 +6,22 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-03T01:52:59.927500+00:00",
-  "articles_count": 94,
+  "fetched_at": "2026-11-03T08:40:51.747951+00:00",
+  "articles_count": 93,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Ali Watkins",
+      "title": "Are Freezers Being Hacked? Europe and the U.S. Military Investigate.",
+      "description": "A wave of disruptions at grocery stores, which some officials blame on cyberattacks, highlights the vulnerability of supply chains. Shops across Europe were affected again on Monday.",
+      "url": "https://www.nytimes.com/2026/11/02/business/cyberattack-freezers-europe-us-army.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/02/multimedia/02xp-freezers/02xp-freezers-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-03T06:06:32Z",
+      "content": "A wave of disruptions at grocery stores, which some officials blame on cyberattacks, highlights the vulnerability of supply chains. Shops across Europe were affected again on Monday."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -21,19 +34,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/02/multimedia/APPLE-EARNINGS-1-fjml/APPLE-EARNINGS-1-fjml-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-02T23:41:50Z",
       "content": "The company said iPhone sales remained strong, but warned that the cost of memory chips for its devices was going up."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Ali Watkins",
-      "title": "Are Freezers Being Hacked? Europe and the U.S. Military Are Investigating.",
-      "description": "A wave of disruptions at grocery stores, which some officials blame on cyberattacks, highlights the vulnerability of supply chains. Shops across Europe were affected again on Monday.",
-      "url": "https://www.nytimes.com/2026/11/02/business/cyberattack-freezers-europe-us-army.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/02/multimedia/02xp-freezers/02xp-freezers-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-02T21:28:04Z",
-      "content": "A wave of disruptions at grocery stores, which some officials blame on cyberattacks, highlights the vulnerability of supply chains. Shops across Europe were affected again on Monday."
     },
     {
       "source": {
@@ -58,7 +58,7 @@
       "description": "The A.I. company’s quarterly revenue totaled $17 billion, 12 times as high as the same quarter last year, while its net loss totaled $23 billion.",
       "url": "https://www.nytimes.com/2026/11/02/business/anthropic-earnings-ai.html",
       "urlToImage": "https://static01.nyt.com/images/2026/11/02/multimedia/02Biz-Anthropic-Earnings-lvbz/02Biz-Anthropic-Earnings-lvbz-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-02T18:55:09Z",
+      "publishedAt": "2026-11-02T18:55:10Z",
       "content": "The A.I. company’s quarterly revenue totaled $17 billion, 12 times as high as the same quarter last year, while its net loss totaled $23 billion."
     },
     {
@@ -103,6 +103,84 @@
     {
       "source": {
         "id": null,
+        "name": "InvenGlobal"
+      },
+      "author": "Doohyun \"Biit\" Lee",
+      "title": "'Zeus' Choi Woo-je fails to reach agreement on contract renewal with Hanwha Life prior to Worlds - Inven Global",
+      "description": "It has been confirmed that Hanwha Life Esports' 'Zeus' Choi Woo-je rejected the club's contract renewal proposal before the start of the 2026 League of Legends World Championship (hereinafter Worlds).",
+      "url": "https://www.invenglobal.com/articles/28018/zeus-choi-woo-je-fails-to-reach-agreement-on-contract-renewal-with-hanwha-life-prior-to-worlds",
+      "urlToImage": "https://static.invenglobal.com/upload/image/2026/11/02/i1793591345436006.jpeg",
+      "publishedAt": "2026-11-02T03:49:12Z",
+      "content": "It has been confirmed that Hanwha Life Esports' 'Zeus' Choi Woo-je rejected the club's contract renewal proposal before the start of the 2026 League of Legends World Championship (hereinafter Worlds)… [+1343 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gematsu"
+      },
+      "author": "Sal Romano",
+      "title": "Phantom Blade Zero sales top four million in 72 hours - Gematsu",
+      "description": "Total sales for Wuxia action RPG Phantom Blade Zero have surpassed four million units in just 72 hours, developer S-GAME announced.",
+      "url": "https://www.gematsu.com/2026/11/phantom-blade-zero-sales-top-four-million-in-72-hours",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/11/Phantom-Blade-Zero-Sales_11-01-26.jpg",
+      "publishedAt": "2026-11-02T02:59:03Z",
+      "content": "Phantom Blade Zero launched digitally for PlayStation 5 and PC via Steam and Epic Games Store on October 29. A physical edition is due out for PlayStation 5 in 2027.About\r\nS-GAME presents Phantom Bla… [+2215 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Michael Burkhardt",
+      "title": "Three new iPad models are reportedly launching early next year, here’s what’s coming - 9to5Mac",
+      "description": "After debuting the refreshed iPad mini with OLED this past week, Apple still has more in the pipeline for the...",
+      "url": "https://9to5mac.com/2026/11/01/three-new-ipad-models-are-reportedly-launching-early-next-year-heres-whats-coming/",
+      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2025/03/ipad-guide.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-11-02T02:12:00Z",
+      "content": "After debuting the refreshed iPad mini with OLED this past week, Apple still has more in the pipeline for the rest of the iPad lineup in the first half of next year. That includes a new iPad Air, a n… [+1729 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Techpowerup.com"
+      },
+      "author": null,
+      "title": "Fans Rebuild Valve's Scrapped Portal Prequel \"F-Stop\" From Three Separate Leaks - TechPowerUp",
+      "description": "F-Stop, the Portal prequel Valve canceled in 2007, is now playable after the community stitched it together from several leaks. Most of its assets were already sitting in the gigantic 12 TB Steam2 archive that leaked in August, but that dump didn't include th…",
+      "url": "https://www.techpowerup.com/354391/fans-rebuild-valves-scrapped-portal-prequel-f-stop-from-three-separate-leaks",
+      "urlToImage": "https://www.techpowerup.com/img/PU7NE5tdpv0kd0eb.jpg",
+      "publishedAt": "2026-11-02T00:18:55Z",
+      "content": "This should only take a few seconds. If you have issues, please do contact us, we want to learn about any problems.\r\nDrag the handle to the target\r\nNeed help? Contact Us. Please mention your IP: 64.9… [+6 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Essence"
+      },
+      "author": "Danielle Wright",
+      "title": "How To Prepare For Grand Theft Auto VI: Release Date, Platforms, And Pre-Orders - Girls United",
+      "description": "Grand Theft Auto VI arrives on November 19. From console exclusivity to storage requirements, here are five essential details to know before launch day.",
+      "url": "https://girlsunited.essence.com/entertainment/how-to-prepare-for-grand-theft-auto-vi/",
+      "urlToImage": "https://media.essence.com/jceuxngkwx/styles/card-social/2026/11/01/Screenshot-2026-11-01-at-6.29.31-PM.png.webp?version=90837a8ab9bb",
+      "publishedAt": "2026-11-01T23:38:38Z",
+      "content": "The wait for the next installment of Vice City is almost over. After multiple delays, Grand Theft Auto VI is finally set to launch on November 19, and gamers are dissecting every detail to be ready o… [+1755 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PhoneArena"
+      },
+      "author": "Johanna Romero",
+      "title": "iPhone Duo cracks are real, and Apple's 'small number' may not be so small - PhoneArena",
+      "description": "Bloomberg's Apple insider names a likely suspect, and pushes back hard on the doubters.",
+      "url": "https://www.phonearena.com/news/iphone-duo-cracks-are-real-and-apples-small-number-may-not-be-so-small_id184475",
+      "urlToImage": "https://m-cdn.phonearena.com/images/article/184475-wide-two_1200/iPhone-Duo-cracks-are-real-and-Apples-small-number-may-not-be-so-small.jpg",
+      "publishedAt": "2026-11-01T23:31:52Z",
+      "content": "The iPhone Duo's reports of cracked screens have been observed by Bloomberg's Mark Gurman to be from real customers during normal use, and Apple's claim of only a \"small number\" of units suffering fr… [+3719 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "RPG Site"
       },
       "author": "James Galizio",
@@ -112,6 +190,45 @@
       "urlToImage": "https://images.rpgsite.net/articles/thumbnail/a3ecf1c/21673/original/queensdomainreviewminipic.jpg",
       "publishedAt": "2026-11-01T23:15:03Z",
       "content": "Usually games don't wear their inspirations on their sleeve as clearly as Queen's Domain. The name says it all; Freshly Baked Games really, really like King's Field and wanted to make their own take … [+4863 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Push Square"
+      },
+      "author": "Sammy Barker",
+      "title": "Fortnite's Pirate Shop Unlocks the Entire Item Shop for Free - Push Square",
+      "description": "Battle Royale tops five million concurrent players",
+      "url": "https://www.pushsquare.com/news/2026/11/fortnites-pirate-shop-unlocks-the-entire-item-shop-for-free",
+      "urlToImage": "https://images.pushsquare.com/ce57d15a7af15/1280x720.jpg",
+      "publishedAt": "2026-11-01T23:01:27Z",
+      "content": "In case you havent been paying attention, Fortnite is running a pirate-themed season with One Piece crossover content available right now.\r\nBut the big news is the discovery of a Pirate Shop, which m… [+2063 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jalopnik"
+      },
+      "author": "Marko Mikulic",
+      "title": "Corvette Skidpad Grip Ranked Best To Worst Across Generations - Jalopnik",
+      "description": "Corvette skidpad grip peaked in the car's seventh generation, with the eighth coming just below it. Otherwise, each generation had better grip than the last.",
+      "url": "https://www.jalopnik.com/2301787/chevrolet-corvette-skidpad-grip-ranked-best-to-worst/",
+      "urlToImage": "https://www.jalopnik.com/img/gallery/corvette-skidpad-grip-ranked-best-to-worst-across-generations/l-intro-1793309980.jpg",
+      "publishedAt": "2026-11-01T21:45:00Z",
+      "content": "Taking third place is the C6 Corvette, and the C6's best skidpad number belongs to its flagship ZR1. It actually beat the factory's own estimate here; GM put the supercharged ZR1 at 1.05 g, while Car… [+1353 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameRant"
+      },
+      "author": "James Ratcliff",
+      "title": "Official Zelda Switch 2 Console Restocks Have a Release Date - GameRant",
+      "description": "Nintendo and specific retailers confirm when restocks of the popular Zelda-themed Switch 2 console will happen, giving buyers a chance to plan ahead.",
+      "url": "https://gamerant.com/official-zelda-switch-2-console-restocks-have-a-release-date/",
+      "urlToImage": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/official-zelda-switch-2-console-restocks-have-a-release-date.jpg?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-11-01T21:00:14Z",
+      "content": "Buyers looking to get a popular Nintendo Switch 2 console are in luck, as Target and Best Buy confirmed that restocks of The Legend of Zelda: 40th Anniversary Edition bundle are planned throughout th… [+3557 chars]"
     },
     {
       "source": {
@@ -180,19 +297,6 @@
     },
     {
       "source": {
-        "id": "mashable",
-        "name": "Mashable"
-      },
-      "author": "Joseph Green",
-      "title": "The Apple iPhone 17 is yours for free this weekend — how to claim - Mashable",
-      "description": "We're still looking for the catch.",
-      "url": "https://mashable.com/tech/nov-1-free-apple-iphone-17-early-black-friday-deal",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/007QcXHY3i376lNpVPe7WeZ/hero-image.fill.size_1200x675.v1793372846.jpg",
-      "publishedAt": "2026-11-01T18:04:03Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": null,
         "name": "Warhammer-community.com"
       },
@@ -216,6 +320,19 @@
       "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/11/32-GB-Ryzen-9850X3D-bundle.jpg",
       "publishedAt": "2026-11-01T17:46:03Z",
       "content": "That's the best way to get the cheapest 32 GB DDR5 memory to complete your PC build, and considering you are also getting the fastest gaming processor, it's a dealbreaker. \r\nRAM prices are at an all-… [+1979 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Mike Pearl",
+      "title": "You’ll Never Guess How Scalpers Are Reportedly Snagging Rare iPhone Duos - Gizmodo",
+      "description": "AI bots are apparently a factor.",
+      "url": "https://gizmodo.com/youll-never-guess-how-scalpers-are-reportedly-snagging-rare-iphone-duos-2000833542",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/10/iPhone-Duo-Review-094-1200x675.jpg",
+      "publishedAt": "2026-11-01T17:32:34Z",
+      "content": "Unless you take extraordinary measures, you’re probably not getting your hands on an iPhone Duo for the remainder of this calendar year. There’s a whole constellation of reasons for this, and accordi… [+1904 chars]"
     },
     {
       "source": {
@@ -245,6 +362,19 @@
     },
     {
       "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Terrence O'Brien",
+      "title": "Apple’s HomeView could add security camera features - The Verge",
+      "description": "Code strings in HomeView’s software suggest Apple could launch a Secure Video feature soon.",
+      "url": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6101.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2026-11-01T17:16:07Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nCode strings in HomeViews software suggest Apple could launch a Secure Video feature soon.\r\nCode strings in HomeViews software suggest Apple could launch a Secur… [+2371 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "Futurism"
       },
@@ -255,19 +385,6 @@
       "urlToImage": "https://futurism.com/wp-content/uploads/2026/10/microsoft-patents-ai-words-in-peoples-mouths.jpg?w=1200",
       "publishedAt": "2026-11-01T17:09:00Z",
       "content": "Can’t-miss innovations from the bleeding edge of science and tech\r\nMicrosoft just filed a patent for an AI product that would be able to transform live video in real time to alter speakers’ words and… [+3287 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eurogamer.net"
-      },
-      "author": "Vikki Blake",
-      "title": "A Persona 1 remake called Be Your True Mind has seemingly leaked, and it looks a lot like Persona 5 - Eurogamer.net",
-      "description": "A short clip of what appears to be a Persona 1 remake, subtitled Be Your True Mind, has leaked online, showing Persona 5-style menus and combat.",
-      "url": "https://www.eurogamer.net/persona-1-remake-be-your-true-mind-leak",
-      "urlToImage": "https://assetsio.gnwcdn.com/Screenshot-2026-11-01-at-16.28.57.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2026-11-01T16:35:17Z",
-      "content": "Almost two minutes of footage from what appears to be a remake of the original Persona has leaked online.\r\nThe clip, which seemingly gives the remake the subtitle Be Your True Mind, was shared on the… [+1388 chars]"
     },
     {
       "source": {
@@ -285,19 +402,6 @@
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Zack Kotzer",
-      "title": "Mario-Dressed Speedrunner Breaks World Record - Kotaku",
-      "description": "The record-smashing Niftski seems to credit the dress-up routine with taking an edge off, bringing him two frames away from a perfect run",
-      "url": "https://kotaku.com/mario-dressed-speedrunner-breaks-world-super-mario-bros-record-on-halloween-stream-can-i-please-break-character-2000752087",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/11/halloweenmariospeedrun.jpg",
-      "publishedAt": "2026-11-01T16:28:46Z",
-      "content": "When Niftski, the speedrunner and record holder for Super Mario Bros.,kicked off a Halloween stream, he didnt expect much beyond a fun festive time. Dressed as, and eventually speaking in the distinc… [+2161 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Warhammer-community.com"
       },
       "author": null,
@@ -307,19 +411,6 @@
       "urlToImage": "https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/whday_licensed-oct29-2-share-lw5oyqre6k.jpg",
       "publishedAt": "2026-11-01T16:24:14Z",
       "content": "© Copyright Games Workshop Limited 2026. GW, Games Workshop, Citadel, White Dwarf, Space Marine, 40K, Warhammer, Warhammer 40,000, the Aquila Double-headed Eagle logo, Warhammer Age of Sigmar, Battle… [+1391 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Terrence O'Brien",
-      "title": "A fully playable version of Portal prequel F-Stop leaked - The Verge",
-      "description": "Nearly 20 years after its cancellation, Valve’s camera-based Portal prequel, F-Stop, is no longer lost media.",
-      "url": "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKB376_VALVE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2026-11-01T16:19:21Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nNearly 20 years after it was canceled, the camera-based Portal prequel F-Stop is no longer lost media.\r\nNearly 20 years after it was canceled, the camera-based P… [+229 chars]"
     },
     {
       "source": {
@@ -333,6 +424,19 @@
       "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/charger.jpg?quality=82&strip=all&resize=1200,628",
       "publishedAt": "2026-11-01T16:16:00Z",
       "content": "I have tested and used countless charging stations over the years, and while many of them get the job done, I feel like there is always some sort of compromise. Whether it’s not enough power, lack of… [+4198 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Videocardz.com"
+      },
+      "author": null,
+      "title": "Anthropic restricts Claude Code from recreating existing games, developers report blocked projects - VideoCardz.com",
+      "description": "Anthropic has updated Claude Code to prevent its AI assistant from recreating existing video games, including renamed copies. Some developers report that the restrictions also block their existing projects.",
+      "url": "https://videocardz.com/newz/anthropic-restricts-claude-code-from-recreating-existing-games-developers-report-blocked-projects",
+      "urlToImage": "https://cdn.videocardz.com/1/2026/11/MARIO-DECOMPILATION-HERO.webp",
+      "publishedAt": "2026-11-01T15:54:09Z",
+      "content": "© Nintendo/Korben.info\r\nAnthropic has introduced new restrictions for Claude Code that prevent its AI coding assistant from recreating existing video games. The change applies to Claude Opus 5.5 and … [+3054 chars]"
     },
     {
       "source": {
@@ -363,28 +467,15 @@
     {
       "source": {
         "id": null,
-        "name": "MacRumors"
+        "name": "Windows Central"
       },
-      "author": "Joe Rossignol",
-      "title": "Three New iPads Rumored to Launch in First Half of 2027 - MacRumors",
-      "description": "After announcing a new iPad mini with an OLED display earlier this month, Apple plans to release new iPad Air, iPad Pro, and entry-level iPad models...",
-      "url": "https://www.macrumors.com/2026/11/01/three-new-ipads-in-first-half-of-2027/",
-      "urlToImage": "https://images.macrumors.com/t/p9s-nnk2GVhsXedfykv8gW3Dpic=/2500x/article-new/2025/08/iPad-Pro-2024-vs-Air-2024-Feature.jpg",
-      "publishedAt": "2026-11-01T15:27:15Z",
-      "content": "Apple Announces Bold New Plan to Make Every iPad Almost the One You WantCUPERTINO, CALIFORNIA Apple today previewed the next chapter of iPad, bringing customers an extraordinary combination of better… [+886 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Wccftech"
-      },
-      "author": "Sarfraz Khan",
-      "title": "Modded RTX 2080 Ti With 22 GB Memory Delivers Up To 73% Boost At 4K Compared To 11 GB Variant, Benchmarks Reveal - Wccftech",
-      "description": "GeForce RTX 2080 Ti 22 GB outperforms 11 GB variant at 4K, boosting performance by 73% in Flight Simulator 2024 and 64% in Spider-Man 2.",
-      "url": "https://wccftech.com/modded-rtx-2080-ti-with-22-gb-memory-delivers-up-to-64-boost-at-4k-compared-to-11-gb/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/11/MSI-RTX-2080-Ti-22-GB.jpg",
-      "publishedAt": "2026-11-01T15:19:59Z",
-      "content": "As expected, the GPU with twice the VRAM performed much better in certain scenarios, but not every game saw similar improvements. \r\nGerman publication PC Games Hardware recently bought a modded GeFor… [+2993 chars]"
+      "author": "Mauro Huculak",
+      "title": "12+ useful Windows 11 features Microsoft tested in October 2026, including some long-overdue fixes - Windows Central",
+      "description": "Microsoft is testing a wave of Windows 11 features, including a customizable context menu, native speed tests, better privacy controls, and some long-overdue Start menu options.",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/i-found-the-most-useful-new-windows-11-features-microsoft-delivered-in-october",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/sNYo52ZqiUVXhfbvZJM23C-1684-80.jpg",
+      "publishedAt": "2026-11-01T14:33:09Z",
+      "content": "Microsoft spent October testing a surprisingly useful collection of Windows 11 features, and after digging through the latest preview builds, I found several changes that could make a noticeable diff… [+13696 chars]"
     },
     {
       "source": {
@@ -402,15 +493,15 @@
     {
       "source": {
         "id": null,
-        "name": "9to5google.com"
+        "name": "Forbes"
       },
-      "author": "Ben Schoon",
-      "title": "Motorola is filling the gap OnePlus left behind, mostly - 9to5Google",
-      "description": "As we near the launch of Motorola’s return to the flagship space, it’s becoming clear that the company is ready...",
-      "url": "http://9to5google.com/2026/11/01/motorola-oneplus-gap/",
-      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/motorola-signature-27-1_942c71.jpg?quality=82&strip=all&resize=1200,628",
+      "author": "Forbes",
+      "title": "Blurring The Line Between Earbuds And Headphones - Forbes",
+      "description": null,
+      "url": "https://www.forbes.com/sites/scottkramer/2026/11/01/blurring-the-line-between-earbuds-and-headphones/",
+      "urlToImage": null,
       "publishedAt": "2026-11-01T14:00:00Z",
-      "content": "As we near the launch of Motorola’s return to the flagship space, it’s becoming clear that the company is ready to fill a gap left by the departure of OnePlus, though there’s one very obvious differe… [+3892 chars]"
+      "content": null
     },
     {
       "source": {
@@ -428,19 +519,6 @@
     {
       "source": {
         "id": null,
-        "name": "Gear Patrol"
-      },
-      "author": "Tucker Bowe",
-      "title": "17 Cool New Gadgets to Keep on Your Radar - Gear Patrol",
-      "description": "Catching you up on the past week’s most notable product releases.",
-      "url": "https://www.gearpatrol.com/audio/best-new-tech-releases-11-01-2026/",
-      "urlToImage": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/11/Musical-Fidelity-B1xCD-16x9-Edited-3.webp",
-      "publishedAt": "2026-11-01T13:06:30Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Steamdeckhq.com"
       },
       "author": null,
@@ -454,15 +532,15 @@
     {
       "source": {
         "id": null,
-        "name": "SFGate"
+        "name": "GameRant"
       },
-      "author": "Andrew Pridgen",
-      "title": "Buck Owens' massive Kern County ranch asks $5.9M - SFGATE",
-      "description": "The sprawling ranch that once belonged to Buck Owens, the country music legend synonymous with the Bakersfield, is for sale.",
-      "url": "https://www.sfgate.com/centralcalifornia/article/buck-owens-california-ranch-22501572.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/67/63/16/31404955/3/rawImage.jpg",
-      "publishedAt": "2026-11-01T12:03:11Z",
-      "content": "By 1970, Buck Owens was sitting on top of the world. \r\nThe future Country Music Hall of Famer had just had a prolific decade. He had No. 1 hit records, with one hit covered by the Beatles. An album o… [+5263 chars]"
+      "author": "Dalton Cooper",
+      "title": "PS Plus Technically Giving Away 5 Free Games on November 3 - GameRant",
+      "description": "PlayStation Plus subscribers are technically being treated to five free games come Tuesday, November 3.",
+      "url": "https://gamerant.com/ps-plus-free-games-this-month-november-2026/",
+      "urlToImage": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/ps-plus-november-2026-free-games.jpg?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-11-01T12:00:14Z",
+      "content": "PlayStation Plus subscribers will technically get five free games when the next batch of freebies goes live on Tuesday, November 3. A fresh batch of new PlayStation Plus free games are given away eve… [+3322 chars]"
     },
     {
       "source": {
@@ -493,15 +571,15 @@
     {
       "source": {
         "id": null,
-        "name": "BGR"
+        "name": "MacRumors"
       },
-      "author": "Talia Roepel",
-      "title": "You Should Avoid Any Video Doorbell That Lacks This Essential Security Feature - BGR",
-      "description": "Two-factor authentication helps protect your video doorbell from unwanted access. Here's why it matters and what to check before buying a new model.",
-      "url": "https://www.bgr.com/2299320/why-you-should-avoid-video-doorbell-without-2fa/",
-      "urlToImage": "https://www.bgr.com/img/gallery/you-should-avoid-any-video-doorbell-that-lacks-this-essential-security-feature/l-intro-1793190555.jpg",
-      "publishedAt": "2026-11-01T11:17:00Z",
-      "content": "In a digital age where almost everything requires a username and password to sign in, you'll likely have come across two-factor authentication (2FA). It's an extra security measure that has you use a… [+1137 chars]"
+      "author": "Tim Hardwick",
+      "title": "Apple Offers Steps to Fix Daylight Saving Time Bug on Apple Watch - MacRumors",
+      "description": "Apple has published a support document describing what to do if your Apple Watch continues to show time that's off by one hour after daylight...",
+      "url": "https://www.macrumors.com/2026/11/01/apple-offers-steps-to-fix-dst-apple-watch-bug/",
+      "urlToImage": "https://images.macrumors.com/t/hbW_FA7rSCs1Onthhk0DF4EPLYM=/2000x/article-new/2020/09/apple-watch-series-3-design.jpg",
+      "publishedAt": "2026-11-01T11:34:49Z",
+      "content": "Apple has published a support document describing what to do if your Apple Watch continues to show time that's off by one hour after daylight savings time changes. \"This incorrect time appears only o… [+457 chars]"
     },
     {
       "source": {
@@ -515,32 +593,6 @@
       "urlToImage": "https://hermes.media.static.aol.com/media/2026/11/01/bf07199a-6629-30bb-97d8-2c632755bfef/b1bc3830-0bc0-427a-bdd1-a66230c9d704.jpg",
       "publishedAt": "2026-11-01T11:00:00Z",
       "content": "Even as the popularity of physical media has dwindled, vinyl records continue to be in demand among music lovers and collectors, and with that demand comes value. Even records that were popular and w… [+5159 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SlashGear"
-      },
-      "author": "Adnan Ahmed",
-      "title": "5 New Foldable Phones To Consider Instead Of The iPhone Duo - SlashGear",
-      "description": "Compare top foldable alternatives to the iPhone Duo: Samsung Galaxy Z Fold 8, Pixel 11 Pro Fold, Galaxy Z Flip 8, Xiaomi 18 Fold, and Motorola Razr.",
-      "url": "https://www.slashgear.com/2297495/foldable-smartphone-coming-out-iphone-duo-alternatives/",
-      "urlToImage": "https://www.slashgear.com/img/gallery/5-new-foldable-phones-to-consider-instead-of-the-iphone-duo/l-intro-1793041724.jpg",
-      "publishedAt": "2026-11-01T10:45:00Z",
-      "content": "Given the complex engineering of foldables, we've come to accept that they command a premium over traditional smartphones. Most foldable devices tend to cost more than the best slab-style flagship ph… [+1246 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Videocardz.com"
-      },
-      "author": null,
-      "title": "Full Intel Larrabee GPU development system has been found in storage unit, reportedly runs Crysis - VideoCardz.com",
-      "description": "A rare Intel Larrabee development system was discovered at a storage-unit auction and restored to working condition. Its owner claims Crysis runs at 720p.",
-      "url": "https://videocardz.com/newz/full-intel-larrabee-gpu-development-system-has-been-found-in-storage-unit-reportedly-runs-crysis",
-      "urlToImage": "https://cdn.videocardz.com/1/2026/11/INTEL-LARRABEE-GPU-DEV-SYSTEM.webp",
-      "publishedAt": "2026-11-01T10:19:09Z",
-      "content": "© pkellythompson \r\nIntel’s unreleased Larrabee GPU has reportedly been brought back to life, complete with its original development software and working Direct3D acceleration. Even more surprising, t… [+2717 chars]"
     },
     {
       "source": {
@@ -584,19 +636,6 @@
     {
       "source": {
         "id": null,
-        "name": "Geeky Gadgets"
-      },
-      "author": "Roland Hutchinson",
-      "title": "Apple’s Secret iPhone 20 Plans Will Completely Rewrite the Smartphone Playbook - Geeky Gadgets",
-      "description": "iPhone 20 redesign rumors point to a massive 20th-anniversary update in 2027. Apple might skip the iPhone 19 and introduce solid-state haptic buttons.",
-      "url": "https://www.geeky-gadgets.com/iphone-20-redesign-rumors-2/",
-      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/11/iphone-20-concept.jpg",
-      "publishedAt": "2026-11-01T07:31:11Z",
-      "content": "Apple is reportedly preparing a significant redesign for the iPhone 20, scheduled for release in 2027 to commemorate the 20th anniversary of the original iPhone. This milestone device is expected to … [+5256 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "KABC-TV"
       },
       "author": "Rob Hayes",
@@ -632,6 +671,19 @@
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6ae6932299a8faf01ea6cd84/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
       "publishedAt": "2026-11-01T01:27:35Z",
       "content": "The Sony X700K 4K Blu-ray player has disappeared from Japan and Sony's U.S. website but Sony hasn't formally declared that it's pulling out of the standalone 4K Blu-ray market.\r\nPhoto: Sony\r\nRumors h… [+3905 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameRant"
+      },
+      "author": "Rei Penber",
+      "title": "Solo Leveling Is Officially Getting New Release On November 3 - GameRant",
+      "description": "Solo Leveling has a new release planned for early November 2026, expanding the reach of the series globally.",
+      "url": "https://gamerant.com/solo-leveling-arise-overdrive-console-release-november-3/",
+      "urlToImage": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/10/solo-leveling-arise-overdrive-console-release-november-3.jpeg?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-10-31T22:31:14Z",
+      "content": "Despite Solo Leveling's overwhelming popularity since its initial anime debut in 2024 and the continuation with Season 2 in 2025, the series has been laying low. In 2026, Solo Leveling has had limite… [+7376 chars]"
     },
     {
       "source": {
@@ -688,28 +740,28 @@
     {
       "source": {
         "id": null,
-        "name": "Wccftech"
+        "name": "KHON2"
       },
-      "author": "Sebastian Castellanos",
-      "title": "Claude Code Game Restrictions Target Clones, But Developers Say Legitimate Projects Are Being Blocked - Wccftech",
-      "description": "Anthropic's Claude Code introduces restrictions to prevent recreating existing games, impacting developers using AI for original projects and mods.",
-      "url": "https://wccftech.com/claude-code-game-restrictions-target-clones-but-developers-say-legitimate-projects-are-being-blocked/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/10/FI-35.jpg",
-      "publishedAt": "2026-10-31T20:08:37Z",
-      "content": "Anthropic has introduced new Claude Code game restrictions designed to prevent its AI coding assistant from recreating existing video games. However, the change is already generating controversy, wit… [+3455 chars]"
+      "author": "John Ross Ferrara",
+      "title": "Tony Hawk kicked out of Pershing Square while celebrating anniversary of ‘Tony Hawk’s Pro Skater 3’ - KHON2",
+      "description": "(KTLA) — Tony Hawk was kicked out of Pershing Square in downtown Los Angeles Friday, the skateboarding legend announced on social media. Hawk was kicked out of the public park while filming a skate video for the 25th anniversary of “Tony Hawk’s Pro Skater 3.”…",
+      "url": "https://www.khon2.com/news/national/tony-hawk-kicked-out-of-pershing-square-while-celebrating-anniversary-of-tony-hawks-pro-skater-3/",
+      "urlToImage": "https://www.khon2.com/wp-content/uploads/sites/8/2026/10/AP19317683407378-e1793472825774.jpg?w=1280",
+      "publishedAt": "2026-10-31T18:56:06Z",
+      "content": "(KTLA) — Tony Hawk was kicked out of Pershing Square in downtown Los Angeles Friday, the skateboarding legend announced on social media.\r\nHawk was kicked out of the public park while filming a skate … [+597 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "My Nintendo News"
+        "name": "WindowsLatest"
       },
-      "author": "Sickr",
-      "title": "Walmart makes big amends for Zelda Switch 2 console cancellations - My Nintendo News",
-      "description": "There were some very disappointed Walmart customers on Wednesday as the day before the Zelda-themed Nintendo Switch 2 console was released Walmart cancelled a number of orders due to the retailer…",
-      "url": "https://mynintendonews.com/2026/10/31/walmart-makes-big-amends-for-zelda-switch-2-console-cancellations/",
-      "urlToImage": "https://i0.wp.com/mynintendonews.com/wp-content/uploads/2023/10/walmart_logo.jpg?fit=1400%2C875&ssl=1",
-      "publishedAt": "2026-10-31T16:39:06Z",
-      "content": "I got a pre-order in for the console back in September, and my confirmation email said that it would be delivered on Thursday, Oct. 29th, by 9am. I took an extra day off from work to be sure that I c… [+973 chars]"
+      "author": "Abhijith M B",
+      "title": "\"Without AI slop\": Microsoft says AI built a Windows 11 feature, and it just needed a human in their spare time - Windows Latest",
+      "description": "Microsoft says one person used an agentic AI workflow to prototype Windows 11's speed test in a day. I tested it, and here's what's next.",
+      "url": "https://www.windowslatest.com/2026/10/31/without-ai-slop-microsoft-says-ai-built-a-windows-11-feature-and-it-just-needed-a-human-in-their-spare-time/",
+      "urlToImage": "https://www.windowslatest.com/wp-content/uploads/2026/10/Microsoft-confirms-that-the-new-Windows-11-Speedtest-flyout-was-made-with-AI.jpg",
+      "publishedAt": "2026-10-31T17:30:15Z",
+      "content": "Windows 11’s new internet speed test in Quick Settings went from an idea to a working prototype in a single day, according to Windows Design and Research lead Marcus Ash, and surprisingly, the design… [+7221 chars]"
     },
     {
       "source": {
@@ -736,19 +788,6 @@
       "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/Identity-Thief-Photo-3.jpg",
       "publishedAt": "2026-10-31T15:19:22Z",
       "content": "You may think of a stolen password as the main way someone gets into your account. But online criminals have learned that they do not always need to steal the password itself. They may hijack an acti… [+13566 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Terrence O'Brien",
-      "title": "Windows 11 tries new shortcuts for Xbox gaming mode and search - The Verge",
-      "description": "The latest Windows Insider builds revamp search with filters, actions, and phone controls.",
-      "url": "https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/10d-outlook-filterresults.png?quality=90&strip=all&crop=0%2C8.2713403922147%2C100%2C83.457319215571&w=1200",
-      "publishedAt": "2026-10-31T15:12:19Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe latest Windows Insider builds revamp search with filters, actions, and phone controls.\r\nThe latest Windows Insider builds revamp search with filters, actions… [+2024 chars]"
     },
     {
       "source": {
@@ -791,29 +830,16 @@
     },
     {
       "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Emily Mullin",
-      "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain - WIRED",
-      "description": "A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research labs.",
-      "url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
-      "urlToImage": "https://media.wired.com/photos/6ae4d6bbd55a0e2bc0a8d990/191:100/w_1280,c_limit/103026-AI%20Mouse%2002.jpg",
-      "publishedAt": "2026-10-31T10:00:00Z",
-      "content": "They asked the AI model to choose a treatment from 19 options in a spreadsheet. A veterinary surgeon first performed a craniotomy on the mouse while the AI agent observed. The agent selected the ther… [+1738 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Slate Magazine"
       },
       "author": "Jenée Desmond-Harris",
-      "title": "Help! I Made a Simple Request of a Mom on a Plane. But Her Answer Has Me Questioning My Own Character. - Slate",
+      "title": "Help! I Made a Simple Request of a Mom on a Plane. But Her Answer Has Me Questioning My Own Character. - Yahoo",
       "description": "Is it wrong to ask a 3-year-old to turn the iPad volume down?",
       "url": "https://slate.com/advice/2026/10/parenting-advice-toddler-plane-ipad-volume-reddit.html",
-      "urlToImage": "https://compote.slate.com/images/669bf149-98ee-42d1-8824-944aa84716ee.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/852cf07155e8df5b4c40f5115d3f3d36968f40d79410dd9ca5cf05429dd0563e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fslate_773%2F6a07b21131436d156e4d5720dbe5fca7.jpg",
       "publishedAt": "2026-10-31T10:00:00Z",
-      "content": "Sign up for the Slatest to get the most insightful analysis, criticism, and advice out there, delivered to your inbox daily.\r\nWe receive a good number of letters in the Dear Prudence inbox, and yet n… [+5686 chars]"
+      "content": "We receive a good number of letters in the Dear Prudence inbox, and yet not enough to satisfy my desire to hear about the conflicts in strangers' lives. This piece is part of Prudie Lurks, an occasio… [+5283 chars]"
     },
     {
       "source": {
@@ -831,41 +857,15 @@
     {
       "source": {
         "id": null,
-        "name": "Nintendo Life"
+        "name": "Gematsu"
       },
-      "author": "Liam Doolan",
-      "title": "Video: Nintendo Highlights Eight New Things In Zelda: Ocarina Of Time (Switch 2) - Nintendo Life",
-      "description": "What are you most excited about?",
-      "url": "https://www.nintendolife.com/news/2026/10/video-nintendo-highlights-eight-new-things-in-zelda-ocarina-of-time-switch-2",
-      "urlToImage": "https://images.nintendolife.com/6cb79a4d20b81/1280x720.jpg",
-      "publishedAt": "2026-10-31T08:00:00Z",
-      "content": "Zelda: Ocarina of Time returns next week, and if you're not already sold, Nintendo has now released a new video highlighting \"just some of the ways\" Link's quest has been remade for a whole new era.\r… [+1321 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Techpowerup.com"
-      },
-      "author": null,
-      "title": "Phantom Blade Zero Draws 700,000+ Steam Players Within 24 Hours of Launch - TechPowerUp",
-      "description": "Phantom Blade Zero launched on Steam on October 29, 2026, and within 9 hours of launch had already cracked 500,000 concurrent players on Steam, according to SteamDB, with that number continuing to rise until it hit 723,876 around 12 hours after the game's lau…",
-      "url": "https://www.techpowerup.com/354344/phantom-blade-zero-draws-700-000-steam-players-within-24-hours-of-launch",
-      "urlToImage": "https://www.techpowerup.com/img/JnYjcozqL6F3a4sX.jpg",
-      "publishedAt": "2026-10-31T05:08:36Z",
-      "content": "Phantom Blade Zero launched on Steam on October 29, 2026, and within 9 hours of launch had already cracked 500,000 concurrent players on Steam, according to SteamDB, with that number continuing to ri… [+1160 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tom's Guide"
-      },
-      "author": "Frances Daniels",
-      "title": "I kept waking up at 3 a.m. until I discovered this free hidden iPhone feature — now I sleep through the night - Tom's Guide",
-      "description": "Keep waking up in the middle of the night? This free iPhone feature will help fall and stay asleep from tonight — and it's backed by sleep experts",
-      "url": "https://www.tomsguide.com/wellness/sleep/i-kept-waking-up-at-3-a-m-until-i-discovered-this-free-hidden-iphone-feature-now-i-sleep-through-the-night",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/bT77kL6eMgpXR3TrZfCVVX-1920-80.jpg",
-      "publishedAt": "2026-10-31T05:04:47Z",
-      "content": null
+      "author": "Sal Romano",
+      "title": "Nagoshi Studio shuts down - Gematsu",
+      "description": "Nagoshi Studio, the Shinjuku, Tokyo-based founded by Yakuza series creator Toshiro Nagoshi under NetEase Games in November 2021, was officially dissolved by a shareholders’ resolution on October 31…",
+      "url": "https://www.gematsu.com/2026/11/nagoshi-studio-shuts-down",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/11/Nagoshi-Studio-Dissolves_11-01-26.jpg",
+      "publishedAt": "2026-10-31T07:00:00Z",
+      "content": "Nagoshi Studio, the Shinjuku, Tokyo-based founded by Yakuza series creator Toshiro Nagoshi under NetEase Games in November 2021, was officially dissolved by a shareholders resolution on October 31, a… [+399 chars]"
     },
     {
       "source": {
@@ -1051,19 +1051,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Ageofempires.com"
-      },
-      "author": null,
-      "title": "Raiders of the North for Age of Empires IV is Available Now! - Age of Empires - World's Edge Studio - Age of Empires Franchise",
-      "description": "Dominion of the North Sea awaits with the all-new expansion, Age of Empires IV: Raiders of the North! Stand firm and resilient with the Scots, their strength",
-      "url": "https://www.ageofempires.com/news/raiders-of-the-north-for-age-of-empires-iv-available-now/",
-      "urlToImage": "https://cdn.ageofempires.com/aoe/wp-content/uploads/2026/10/Raiders-of-the-North-Available-Now-16x9-2-1080x608.webp",
-      "publishedAt": "2026-10-29T17:20:25Z",
-      "content": "Dominion of the North Sea awaits with the all-new expansion, Age of Empires IV: Raiders of the North! Stand firm and resilient with the Scots, their strength in disciplined infantry, fortified defens… [+2988 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1087,19 +1074,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/28/technology/personaltech/28BIZ-TECHTIP-TOP/28BIZ-TECHTIP-TOP-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-29T09:02:47Z",
       "content": "The recent updates to Google Maps and Apple’s Maps use artificial (and human) intelligence for better navigation, planning and travel guides."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Pokemon.com"
-      },
-      "author": null,
-      "title": "Receive a Spewpa That Can Evolve into a Random Vivillon Pattern in Pokémon Legends: Z‑A - Pokemon.com",
-      "description": "Celebrate the release of Pokémon Legends: Z-A – Nintendo Switch 2 Edition + Mega Dimension with this Mystery Gift.",
-      "url": "https://www.pokemon.com/us/news/receive-a-spewpa-that-can-evolve-into-a-random-vivillon-pattern-in-pokemon-legends-z-a",
-      "urlToImage": "https://mcdn.pokemon.com/pokemon-prod/image/upload/c_limit,w_1920/f_auto/v1/live/pcom-cms/static-assets/cms3/us/img/video-games/tiles/pokemon-legends-z-a/distributions/2026/spewpa/pokemon-legends-z-a-169-en.png",
-      "publishedAt": "2026-10-29T06:10:24Z",
-      "content": "Starting today, you can receive Spewpa as a Mystery Gift in Pokémon Legends: Z-A to celebrate the release of Pokémon Legends: Z-A Nintendo Switch 2 Edition + Mega Dimension. Spewpa is known for evolv… [+1994 chars]"
     },
     {
       "source": {
@@ -1142,6 +1116,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Warhammer-community.com"
+      },
+      "author": null,
+      "title": "Warhammer Age of Sigmar: October Update - Warhammer Community",
+      "description": "Rules changes for Khazalite Holds, Sons of Behemat, and more.",
+      "url": "https://www.warhammer-community.com/articles/iix3g22a/warhammer-age-of-sigmar-october-update",
+      "urlToImage": "https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/aos_changes-oct28-2-share-i8uxy7vpjl.jpg",
+      "publishedAt": "2026-10-28T10:27:12Z",
+      "content": "© Copyright Games Workshop Limited 2026. GW, Games Workshop, Citadel, White Dwarf, Space Marine, 40K, Warhammer, Warhammer 40,000, the Aquila Double-headed Eagle logo, Warhammer Age of Sigmar, Battle… [+1391 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1168,16 +1155,16 @@
     },
     {
       "source": {
-        "id": "ign",
-        "name": "IGN"
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
-      "author": "Jacqueline Thomas",
-      "title": "World of Warcraft Forever Opts for a Slower Update Schedule Than Retail's 8-Week Patch Cycle - IGN",
-      "description": "World of Warcraft Forever launches a week from today, and while the game will have a huge swath of content available on day one, there will be new content continually added to the game. But how frequently should fans expect new content to arrive? It sounds li…",
-      "url": "https://www.ign.com/articles/blizzard-reveals-plan-for-world-of-warcraft-forever-update-frequency",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/09/19/forever-1789805930640.png?width=1280&format=jpg&auto=webp&quality=80",
-      "publishedAt": "2026-10-27T17:00:00Z",
-      "content": "World of Warcraft Forever launches a week from today, and while the game will have a huge swath of content available on day one, there will be new content continually added to the game. But how frequ… [+3338 chars]"
+      "author": "WSJ",
+      "title": "‘I Felt Blind Panic.’ They Opened Their New $2,000 iPhone Duo—and It Broke. - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/tech/personal-tech/iphone-duo-broken-hinge-screen-31b2b28a",
+      "urlToImage": null,
+      "publishedAt": "2026-10-27T15:37:00Z",
+      "content": null
     },
     {
       "source": {
