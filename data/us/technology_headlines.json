@@ -6,9 +6,22 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-03T22:36:02.895325+00:00",
-  "articles_count": 96,
+  "fetched_at": "2026-11-04T03:26:02.443501+00:00",
+  "articles_count": 89,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Steven Lee Myers",
+      "title": "OpenAI and Anthropic Set Up ‘War Rooms’ to Fight Disinfo About Midterm Elections",
+      "description": "OpenAI, Anthropic and other tech companies have vowed to protect Tuesday’s elections from efforts to undermine democracy.",
+      "url": "https://www.nytimes.com/2026/11/03/business/ai-midterm-election-misinformation.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/03/multimedia/OPENAI-WARROOM-1-03-qhlg/OPENAI-WARROOM-1-03-qhlg-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-03T23:39:55Z",
+      "content": "OpenAI, Anthropic and other tech companies have vowed to protect Tuesday’s elections from efforts to undermine democracy."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -40,19 +53,6 @@
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Steven Lee Myers",
-      "title": "OpenAI and Anthropic Set Up ‘War Rooms’ to Fight Disinfo About Midterm Elections",
-      "description": "OpenAI, Anthropic and other tech companies have vowed to protect Tuesday’s elections from efforts to undermine democracy.",
-      "url": "https://www.nytimes.com/2026/11/03/business/ai-midterm-election-misinformation.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/03/multimedia/OPENAI-WARROOM-1-03-qhlg/OPENAI-WARROOM-1-03-qhlg-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-03T18:25:13Z",
-      "content": "OpenAI, Anthropic and other tech companies have vowed to protect Tuesday’s elections from efforts to undermine democracy."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "Emmy Martin",
       "title": "Binance Says Hackers Plotted $6.3 Billion Crypto Heist for Months",
       "description": "A report from the cryptocurrency exchange described a monthslong campaign involving fake job interviews that exploited an engineer’s work computer and an internal A.I. tool.",
@@ -76,6 +76,58 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Aftermath.site"
+      },
+      "author": "Luke Plunkett",
+      "title": "How To Quit Spotify And Improve Your Life In The Process - Aftermath",
+      "description": "It's a lot easier than you're probably thinking",
+      "url": "https://aftermath.site/how-quit-cancel-spotify/",
+      "urlToImage": "https://images.unsplash.com/photo-1643208589889-4f02359645c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE2fHxzcG90aWZ5fGVufDB8fHx8MTc5MzY3MzIxNnww&ixlib=rb-4.1.0&q=80&w=2000",
+      "publishedAt": "2026-11-03T02:44:53Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nintendo Life"
+      },
+      "author": "Liam Doolan",
+      "title": "Square Enix's 'Harvest Sale' Includes 80% Discounts On Final Fantasy VII Remake Intergrade And Rebirth - Nintendo Life",
+      "description": "Get ready for Revelation",
+      "url": "https://www.nintendolife.com/news/2026/11/square-enixs-harvest-sale-includes-huge-discounts-on-final-fantasy-vii-remake-intergrade-and-rebirth",
+      "urlToImage": "https://images.nintendolife.com/18cbd9df5eb05/1280x720.jpg",
+      "publishedAt": "2026-11-03T01:45:00Z",
+      "content": "Image: Square Enix\r\nThe Final Fantasy VII Remake trilogy will wrap next year with the release of Revelation and if you're wanting to catch up on the series, now is the perfect chance.\r\nSquare Enix is… [+2005 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "iPhone Duo: Apple unsure when more of the foldable devices will be available - BBC",
+      "description": "Apple’s foldable iPhone Duo was a hit with people willing to spend $2,000 on a new mobile.",
+      "url": "https://www.bbc.com/news/articles/c6n8dn457ypko",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3b2b/live/05d33ff0-d71d-11f1-b723-458a2ded4fa2.jpg",
+      "publishedAt": "2026-11-03T00:29:00Z",
+      "content": "Ternus noted, too, that Apple is still seeing \"unprecedented\" cost increases for memory, or the ability of Apple devices to store data like apps, photos, and text messages."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Pokemon GO Hub"
+      },
+      "author": "Zeroghan",
+      "title": "GO Wild Area 2026 Brings Trainer Backgrounds, Private Dynamax Battles, and More - Pokémon GO Hub",
+      "description": "Pokémon GO Wild Area 2026 brings private Dynamax Battles, profile backgrounds, Steel and Dragon medal bonuses, new avatar items, and more.",
+      "url": "https://pokemongohub.net/post/news/pokemon-go-wild-area-2026-brings-trainer-backgrounds-private-dynamax-battles-and-more/",
+      "urlToImage": "https://pokemongohub.net/wp-content/uploads/2026/11/rich-trainer-pokemon-backgrounds.jpeg",
+      "publishedAt": "2026-11-03T00:02:14Z",
+      "content": "Pokémon GO has revealed a fresh batch of details for GO Wild Area 2026, including the ability to show Pokémon backgrounds on Trainer profiles (yes!!!), private Dynamax Battle groups, new Special Rese… [+6045 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -89,16 +141,68 @@
     },
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": null,
+        "name": "Push Square"
       },
-      "author": "Ryan Whitwam",
-      "title": "Google's Legend of Zelda Easter egg transports you back to 1998 - Ars Technica",
-      "description": "The flow of time is always cruel.\"",
-      "url": "https://arstechnica.com/gaming/2026/11/googles-legend-of-zelda-easter-egg-transports-you-back-to-1998/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/zelda-google-1152x648.jpg",
-      "publishedAt": "2026-11-02T19:52:23Z",
-      "content": null
+      "author": "Sammy Barker",
+      "title": "Sony Wants You to Trade In Your PS5 for $400 if You're Not Using It - Push Square",
+      "description": "Circulate those systems",
+      "url": "https://www.pushsquare.com/news/2026/11/sony-wants-you-to-trade-in-your-ps5-for-usd400-if-youre-not-using-it",
+      "urlToImage": "https://images.pushsquare.com/e967e47b19e22/1280x720.jpg",
+      "publishedAt": "2026-11-02T22:54:21Z",
+      "content": "Image: Push Square\r\nSony is sending out notifications to PS5 players in the US, encouraging them to trade-in their console for cash if theyre not using it.\r\nThe programme which runs through a third-p… [+1255 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Pokemon GO Hub"
+      },
+      "author": "kittypokemonsalot",
+      "title": "Explorer Gadget Gets a Major Upgrade, Alongside New Quality-of-Life Updates - Pokémon GO Hub",
+      "description": "Pokémon GO's Explorer Gadget now works during active gameplay! Explore the new Appraise button, catch summary, Power Spot changes, and more.",
+      "url": "https://pokemongohub.net/post/news/explorer-gadget-gets-a-major-upgrade-alongside-new-quality-of-life-updates/",
+      "urlToImage": "https://pokemongohub.net/wp-content/uploads/2026/08/explorer-gadget-official.jpg",
+      "publishedAt": "2026-11-02T20:57:44Z",
+      "content": "The Explorer Gadget is getting a useful upgrade in Pokémon GO! Trainers can now use it to automatically catch Pokémon and spin PokéStops while actively playing the game, rather than only when Pokémon… [+3710 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Kenneth Shepard",
+      "title": "Developers, Creators, And Fans Remember BioWare: ‘I’ve Been Trying To Replicate That Feeling For Almost My Whole Life’ - Kotaku",
+      "description": "The Mass Effect and Dragon Age studio may be gone, but its legacy and impact remain",
+      "url": "https://kotaku.com/bioware-closure-mass-effect-universe-dragon-age-baldurs-gate-kotor-2000752411",
+      "urlToImage": "https://kotaku.com/app/uploads/2024/03/76b5cacdb9c9c06eec4aa90f685fea3b-1200x675.jpg",
+      "publishedAt": "2026-11-02T20:39:52Z",
+      "content": "When I initially put out a call for fans, developers, creators, and media to reach out to me with stories about their experiences with BioWare, the now-shuttered developer of some of the most beloved… [+50976 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Stevie Bonifield",
+      "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet - The Verge",
+      "description": "Google says it dismantled the backdoor of one of its manufacturing partners used to create a botnet including 1.3 million Android TV devices.",
+      "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/videostrong-android-tv-device.jpg?quality=90&strip=all&crop=12.458333333333%2C0%2C87.541666666667%2C100&w=1200",
+      "publishedAt": "2026-11-02T20:37:49Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nGoogle says a manufacturer intentionally hijacked its devices with malware.\r\nGoogle says a manufacturer intentionally hijacked its devices with malware.\r\nby\r\nSte… [+3085 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Ryan Christoffel",
+      "title": "iOS 27.2’s clever new Messages feature can be tailored to your needs - 9to5Mac",
+      "description": "iOS 27.2 has a clever new Messages feature called ‘Suggested Actions,’ here’s how you can customize the feature to your liking.",
+      "url": "https://9to5mac.com/2026/11/02/ios-27-2s-clever-new-messages-feature-can-be-tailored-to-your-needs/",
+      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-app-icon-ios-27.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-11-02T19:56:00Z",
+      "content": "iOS 27.2 launched last week with a convenient new Messages feature called Suggested Actions. Heres how you can customize the feature to your liking.\r\nIf your iPhone is running iOS 27.2, you might hav… [+1421 chars]"
     },
     {
       "source": {
@@ -129,15 +233,15 @@
     {
       "source": {
         "id": null,
-        "name": "Eurogamer.net"
+        "name": "MacRumors"
       },
-      "author": "Kaan Serin",
-      "title": "The Borderlands series has sold over 100 million copies, and Gearbox is \"cooking hard on more Borderlands 4 content for next year\" - Eurogamer.net",
-      "description": "Gearbox has announced that its looter shooter series Borderlands has sold over 100m copies, but it's still \"taking a bigger look at the franchise as a whole.\"",
-      "url": "https://www.eurogamer.net/borderlands-100-million-copies-gearbox",
-      "urlToImage": "https://assetsio.gnwcdn.com/borderlands-4-claptrap-holding-trash-on-coastal-bonescape-beach.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2026-11-02T18:44:15Z",
-      "content": "The Borderlands series has sold more than 100m copies across all games, developer Gearbox Software has announced. No surprise, then - the studio also said it's cooking up \"big plans\" for the evergree… [+2145 chars]"
+      "author": "Mitchel Broussard",
+      "title": "Early Black Friday Brings Steep Price Drops on Apple's Latest iPhone Cases - MacRumors",
+      "description": "Amazon this week has big discounts across Apple's Clear, Silicone, and TechWoven Cases for the iPhone 18 Pro lineup. These deals are part of...",
+      "url": "https://www.macrumors.com/2026/11/02/early-black-friday-cases/",
+      "urlToImage": "https://images.macrumors.com/t/6V6MD2y8IEIAfBX9l_-qyb8opzw=/2500x/article-new/2026/11/iphone-black-friday-cases.jpeg",
+      "publishedAt": "2026-11-02T18:42:35Z",
+      "content": "Amazon this week has big discounts across Apple's Clear, Silicone, and TechWoven Cases for the iPhone 18 Pro lineup. These deals are part of ongoing early Black Friday deals, which we've begun keepin… [+2326 chars]"
     },
     {
       "source": {
@@ -155,6 +259,19 @@
     {
       "source": {
         "id": null,
+        "name": "Twz.com"
+      },
+      "author": "Joseph Trevithick",
+      "title": "New X-Plane To Be Announced At Max Power Airshow: NASA Administrator Isaacman - TWZ",
+      "description": "NASA's boss insists it is \"not the one you're thinking about\" and has deflected a new question about a 'missing' SR-71.",
+      "url": "https://www.twz.com/air/new-x-plane-to-be-announced-at-max-power-airshow-nasa-administrator-isaacman",
+      "urlToImage": "https://www.twz.com/wp-content/uploads/2026/11/nasa-boss-says-new-x-plane-coming-deflects-sr-71-question.jpg?w=1200",
+      "publishedAt": "2026-11-02T18:15:33Z",
+      "content": "The TWZ Newsletter\r\nWeekly insights and analysis on the latest developments in military technology, strategy, and foreign policy.\r\nNASA Administrator Jared Isaacman says a new X-plane will be announc… [+11358 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Windows Central"
       },
       "author": "Jez Corden",
@@ -164,19 +281,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/RsnTFgxh3MvWzg8zXMkd3h-1317-80.jpg",
       "publishedAt": "2026-11-02T18:14:16Z",
       "content": "Microsoft's COO Helen Chiang was fired from Xbox a few weeks ago, after 27 years of top-level leadership spent across the org, most prolifically at Minecraft.\r\nThe removal was abrupt and somewhat con… [+5678 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Kyle Orland",
-      "title": "Claude’s new rules against game cloning won’t stop the AI copying boom - Ars Technica",
-      "description": "The tsunami of imitators is way bigger than any one model maker can stem.",
-      "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1180626096-1152x648.jpg",
-      "publishedAt": "2026-11-02T18:05:31Z",
-      "content": null
     },
     {
       "source": {
@@ -206,6 +310,19 @@
     },
     {
       "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Patricia Hernandez",
+      "title": "Google Is Quietly Hiding A New Zelda: Ocarina of Time Easter Egg - Polygon.com",
+      "description": "Google celebrates The Legend of Zelda: Ocarina of Time with a time capsule harking back to the 1998 release of the N64 classic.",
+      "url": "https://www.polygon.com/google-search-legend-of-zelda-ocarina-of-time-tloz-switch-2-easter-egg/",
+      "urlToImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/ocarina-of-time-remake-future-of-zelda-games.jpg?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-11-02T17:57:46Z",
+      "content": "The official release of the Switch 2 remake of The Legend of Zelda: Ocarinaof Time is only a couple of days away, but search engine Google has already started the festivities with a clever nod to Nin… [+1607 chars]"
+    },
+    {
+      "source": {
         "id": "ign",
         "name": "IGN"
       },
@@ -229,45 +346,6 @@
       "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Quick-Share-SDK.jpg?quality=82&strip=all&resize=1200,628",
       "publishedAt": "2026-11-02T17:51:00Z",
       "content": "At Android Dev Summit 2026, Google announced a Quick Share SDK that will let Android and iOS apps directly integrate the peer-to-peer file sharing capability.\r\nThe Quick Share SDK is coming in the fi… [+1158 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Rebekah Valentine",
-      "title": "Zelda: Ocarina Of Time Remake Link’s Tunic Looks Like That Because He Made It Himself - Kotaku",
-      "description": "He's very proud of it and you should be nice to him",
-      "url": "https://kotaku.com/zelda-ocarina-of-time-remake-links-tunic-looks-like-that-because-he-made-it-himself-2000752381",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/11/ocarina-of-time-link-tunic.jpg",
-      "publishedAt": "2026-11-02T17:30:52Z",
-      "content": "When the Legend of Zelda: Ocarina of Time remake was first revealed, one of the most common gut reactions I saw across the internet was in response to the game’s overall visual style. And everyone se… [+4113 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "cleveland.com"
-      },
-      "author": "Cleveland.com",
-      "title": "U.S. economy could lose $1B as gamers plan to rob liquor stores, steal cars - Cleveland.com",
-      "description": null,
-      "url": "https://www.cleveland.com/news/2026/11/us-economy-could-lose-1b-as-gamers-plan-to-rob-liquor-stores-steal-cars.html",
-      "urlToImage": null,
-      "publishedAt": "2026-11-02T17:27:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Abner Li",
-      "title": "Google rolling out gradient icon redesigns for Contacts, Messages, and Phone - 9to5Google",
-      "description": "Following the Workspace and Pixel app redesigns earlier this year, Google is overhauling the Contacts, Messages, and Phone icons.",
-      "url": "http://9to5google.com/2026/11/02/google-messages-phone-icon-gradient-redesign/",
-      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Messages-Phone-Contacts-icon-gradient-redesign.webp?resize=1200,628",
-      "publishedAt": "2026-11-02T17:07:00Z",
-      "content": "Following the Workspace and Pixel app redesigns earlier this year, Google is overhauling the Contacts, Messages, and Phone icons.\r\nGoogle says the icons are sharper and clearer on homescreens thanks … [+824 chars]"
     },
     {
       "source": {
@@ -298,6 +376,32 @@
     {
       "source": {
         "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Andrew Romero",
+      "title": "Privacy Display on Galaxy S27 Pro and S27 Ultra looks more promising in latest leak - 9to5Google",
+      "description": "A new leak strengthens a previous rumor that the Galaxy S27 Pro and Galaxy S27 Ultra will get an improved...",
+      "url": "http://9to5google.com/2026/11/02/galaxy-s27-privacy-display-improved-brightness/",
+      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/02/galaxy-s26-ultra-privacy-display-17.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-11-02T16:44:00Z",
+      "content": "A new leak strengthens a previous rumor that the Galaxy S27 Pro and Galaxy S27 Ultra will get an improved version of Samsung’s Privacy Display, used on this year’s flagship.\r\nWe don’t expect Samsung … [+1280 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Jacqueline Thomas",
+      "title": "Here's When You Can Play World of Warcraft Forever in Your Time Zone - IGN",
+      "description": "World of Warcraft Forever is just a few days away, and Blizzard has confirmed the global release times and preload details. Here's when you can play in your timezone.",
+      "url": "https://www.ign.com/articles/world-of-warcraft-forever-preload-and-global-release-times-confirmed",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/09/15/wowoo-1789495563832.png?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2026-11-02T16:39:22Z",
+      "content": "World of Warcraft Forever is just a few days away, and Blizzard has confirmed the global release times and preload details. \r\nWoW Forever launches on November 4, and has a global release scheduled, w… [+3193 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Neowin"
       },
       "author": "Neowin",
@@ -307,19 +411,6 @@
       "urlToImage": null,
       "publishedAt": "2026-11-02T16:21:13Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Ryan Christoffel",
-      "title": "Apple TV just added a ton of free classic movies, here’s everything new - 9to5Mac",
-      "description": "Apple TV just added 20 beloved classic movies to its catalog that you can stream for a limited time, here’s everything new.",
-      "url": "https://9to5mac.com/2026/11/02/apple-tv-just-added-a-ton-of-free-classic-movies-heres-everything-new-2/",
-      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-tv-new-logo.jpg?quality=82&strip=all&resize=1200,628",
-      "publishedAt": "2026-11-02T16:18:00Z",
-      "content": "Apple TVs November lineup is packed with originals, but the streamer also just added 20 beloved classic movies to its catalog that you can stream for a limited time. Heres everything new.\r\nApple TV h… [+987 chars]"
     },
     {
       "source": {
@@ -363,15 +454,15 @@
     {
       "source": {
         "id": null,
-        "name": "GSMArena.com"
+        "name": "Pokemon.com"
       },
-      "author": "Vlad",
-      "title": "New Samsung Galaxy S27+ certification confirms its charging prowess - GSMArena.com news - GSMArena.com",
-      "description": "Samsung's Plus models have been stuck at the same speed for years now. The upcoming Samsung Galaxy S27+ showed up in China's 3C database with 45W charging...",
-      "url": "https://www.gsmarena.com/samsung_galaxy_s27_certification_reveals_its_charging_prowess-news-75310.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/26/11/samsung-galaxy-s27-plus-new-certification/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2026-11-02T16:09:02Z",
-      "content": "The upcoming Samsung Galaxy S27+ showed up in China's 3C database with 45W charging support back in September, and now another certification is backing that up. A couple of safety certifications list… [+887 chars]"
+      "author": null,
+      "title": "Battle with Mimikyu in the Play! Pokémon Pokémon GO Championship Series - Pokemon.com",
+      "description": "The Play! Pokémon Pokémon GO Championship Series removes Mimikyu from its banned Pokémon list.",
+      "url": "https://www.pokemon.com/uk/news/battle-with-mimikyu-in-the-play-pokemon-pokemon-go-championship-series",
+      "urlToImage": "https://mcdn.pokemon.com/pokemon-prod/image/upload/c_limit,w_1920/f_auto/v1/live/pcom-cms/static-assets/cms3/us/img/video-games/tiles/pokemon-go/2026/11/02/pokemon-go-169.png",
+      "publishedAt": "2026-11-02T16:05:15Z",
+      "content": "Effective November 16, 2026, Mimikyu will be removed from the list of banned Pokémon for competitive play in Pokémon GO. The dual Ghost- and Fairy-type Pokémon is prepared to bust its way into Play! … [+356 chars]"
     },
     {
       "source": {
@@ -388,68 +479,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "MacRumors"
+        "id": "mashable",
+        "name": "Mashable"
       },
-      "author": "Joe Rossignol",
-      "title": "Mark Gurman: Apple Initially Aimed to Release iPhone Duo in November - MacRumors",
-      "description": "Apple initially aimed to \"wait until November\" to release the iPhone Duo in the U.S. and China only, according to Bloomberg's Mark...",
-      "url": "https://www.macrumors.com/2026/11/02/iphone-duo-november/",
-      "urlToImage": "https://images.macrumors.com/t/drErN-sKJCN6RvkjOQhhFQi9Eto=/2880x/article-new/2026/10/iPhone-Duo-Outer-Display-Hand.jpg",
-      "publishedAt": "2026-11-02T15:44:14Z",
-      "content": "This: \"Apple rushed the Duo to market without enough inventory to meet demand,\" he said. The device currently has a January 25 delivery estimate and is hard to find in stores.\r\ncontradicts this:https… [+782 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Tim Hardwick",
-      "title": "Apple Isn't Done With 2026: Here's What's Still Coming - MacRumors",
-      "description": "Apple's busiest season isn't over yet. Far from it. With two hardware launch dates still to come in November, plus software updates and new...",
-      "url": "https://www.macrumors.com/2026/11/02/apple-isnt-done-with-2026-heres-whats-still-coming/",
-      "urlToImage": "https://images.macrumors.com/t/5C51h-KnaF-p-m9DVQNl9lRwN8A=/1600x/article-new/2026/08/Apple-Logo-Gradient-16x9-1.jpg",
-      "publishedAt": "2026-11-02T15:27:09Z",
-      "content": "Apple's busiest season isn't over yet. Far from it. With two hardware launch dates still to come in November, plus software updates and new smart home accessories running into December, there's more … [+3007 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gematsu"
-      },
-      "author": "Sal Romano",
-      "title": "Thief: The Dark Project Remastered launches December 3 - Gematsu",
-      "description": "Thief: The Dark Project Remastered, a modern revival of the 1998 classic from Looking Glass Studios, will launch for PlayStation 5, Xbox Series, Switch 2, PlayStation 4, Switch, and PC via Steam, E…",
-      "url": "https://www.gematsu.com/2026/11/thief-the-dark-project-remastered-launches-december-3",
-      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/11/Thief-Remaster-Date_11-02-26.jpg",
-      "publishedAt": "2026-11-02T15:21:54Z",
-      "content": "Thief: The Dark Project Remastered, a modern revival of the 1998 classic from Looking Glass Studios, will launch for PlayStation 5, Xbox Series, Switch 2, PlayStation 4, Switch, and PC via Steam, Epi… [+3340 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Ethan Gach",
-      "title": "Dead By Daylight Faces Backlash Over Free Skins For BurntPeanut - Kotaku",
-      "description": "The developers say a community manager acted without authorization",
-      "url": "https://kotaku.com/dead-by-daylight-faces-backlash-on-all-sides-after-apologizing-for-gifting-theburntpeanut-all-content-2000752335",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/11/DbD-1200x675.jpg",
-      "publishedAt": "2026-11-02T15:17:27Z",
-      "content": "Dead by Daylight has been thrust into controversy after one of its community managers gifted Vtuber TheBurntPeanut all of the content in the game over the Halloween weekend. The makers of the multipl… [+4882 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Ryan Christoffel",
-      "title": "iPadOS 27.2 adds convenient new multitasking option on iPad - 9to5Mac",
-      "description": "iPadOS 27.2 launched last week with a variety of new features for iPad, including a convenient change for multitasking.",
-      "url": "https://9to5mac.com/2026/11/02/ipados-27-2-adds-convenient-new-multitasking-option-on-ipad/",
-      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ipados-27-ipad-keyboard-fi.jpg?quality=82&strip=all&resize=1200,628",
-      "publishedAt": "2026-11-02T15:11:00Z",
-      "content": "iPadOS 27.2 launched last week with a variety of new features for iPad, including a convenient change for multitasking.\r\nWhen iPhone Duo first got into users hands, several reviews mentioned how the … [+1498 chars]"
+      "author": "Joseph Green",
+      "title": "Walmart’s ‘GTA 6’ preorder bonus leaked: How to score the free \"surprise and delight bag\" - Mashable",
+      "description": "Walmart is trying to get you to buy a disc-less box.",
+      "url": "https://mashable.com/tech/gta-6-free-preorder-bonus-how-to-claim",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/02aC6cl7XAkZgt0MfrP6aCN/hero-image.fill.size_1200x675.v1793633323.jpg",
+      "publishedAt": "2026-11-02T15:39:13Z",
+      "content": null
     },
     {
       "source": {
@@ -505,16 +544,16 @@
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": null,
+        "name": "Windows Central"
       },
-      "author": "Jess Weatherbed",
-      "title": "Affinity’s creative studio is now available on iPad for free - The Verge",
-      "description": "",
-      "url": "https://www.theverge.com/1024283/canva-affinity-for-ipad-design-app-availability",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Canva-Affinity-for-iPad-hero.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2026-11-02T14:00:00Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nCanva is giving digital creatives a new way to design, illustrate, and edit photos on their iPads, and it doesnt have to cost them a thing. After relaunching the… [+3258 chars]"
+      "author": "Alexander Cope",
+      "title": "Did World of Warcraft: Forever on Xbox get accidentally outed by Microsoft? - Windows Central",
+      "description": "Xbox's UK division just announced WoW: Forever is coming to Xbox. While Xbox has confirmed this was incorrect, it's got players wondering if it wasn't.",
+      "url": "https://www.windowscentral.com/gaming/xbox/world-of-warcraft-forever-listed-among-xbox-releases",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/WvRovZ54u5a7etzReS2jRf-1407-80.jpg",
+      "publishedAt": "2026-11-02T14:03:19Z",
+      "content": "We're just days away from World of Warcraft: Forever's launch on November 4, 2026, but it looks like Microsoft may have spoiled a major surprise: WoW may be coming to Xbox after all.\r\nThe rumor recen… [+2548 chars]"
     },
     {
       "source": {
@@ -528,6 +567,19 @@
       "urlToImage": "https://www.fratellowatches.com/cdn-cgi/image/anim=false/wp-content/uploads/2026/11/AP-supersonnerie-novelties-2026-cover.jpg",
       "publishedAt": "2026-11-02T13:21:28Z",
       "content": "Audemars Piguet expands its Royal Oak and Code 11.59 collections with five new references that explore two very different aspects of the manufactures watchmaking. Three new Minute Repeater Supersonne… [+6306 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Timeextension.com"
+      },
+      "author": "Kris Moyse",
+      "title": "Mysterious Shin Megami Tensei: Persona 'Remake' Concept Video Appears Online - Time Extension",
+      "description": "'Remake footage' probably isn't",
+      "url": "https://www.timeextension.com/news/2026/11/mysterious-shin-megami-tensei-persona-remake-concept-video-appears-online",
+      "urlToImage": "https://images.timeextension.com/95e6507ad4089/1280x720.jpg",
+      "publishedAt": "2026-11-02T13:00:00Z",
+      "content": "Image: Atlus\r\nThis weekend, footage surfaced online purporting to be leaked from an as-yet-unannounced remake of Atlus' PlayStation release Revelations: Persona, the very first title in the beloved S… [+2425 chars]"
     },
     {
       "source": {
@@ -557,42 +609,42 @@
     },
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": "nbc-news",
+        "name": "NBC News"
       },
-      "author": "Nick Indge",
-      "title": "This $48 e-paper display can be whatever you want it to be - Ars Technica",
-      "description": "This DIY e-paper display works in two official ecosystems or on your own server.",
-      "url": "https://arstechnica.com/gadgets/2026/11/this-48-e-paper-display-can-be-whatever-you-want-it-to-be/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/TRMNL_Seeed_Kit_Ferengi_Rules-1152x648.jpg",
-      "publishedAt": "2026-11-02T12:00:07Z",
-      "content": null
+      "author": "Bethany Heitman",
+      "title": "Amazon’s Fire tablets are being phased out, and the Fire HD 10 is now 53% off while supplies last. - NBC News",
+      "description": "The Shark Stratos Upright is 50% off at Amazon. One owner of three dogs and two cats calls it the first vacuum that has kept their floors clean.",
+      "url": "https://www.nbcnews.com/select/shopping/-shark-stratos-upright-vacuum-deal-of-the-day-2026-rcna606952",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261102-dotd-shark-vacuum-oo-main-8ae273.jpg",
+      "publishedAt": "2026-11-02T12:00:40Z",
+      "content": "If your floors have been fighting a losing battle with pet hair, crumbs, and whatever gets tracked in from outside, nows a good time to upgrade with the Shark Stratos Upright Vacuum, its 50% off at A… [+1798 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Video Games Chronicle"
+        "name": "Theshortcut.com"
       },
-      "author": "Chris Scullion",
-      "title": "A trailer for a remake of the original Persona appears to have leaked - Video Games Chronicle",
-      "description": "The producer of Persona 4 Revival recently said Persona 1 and 2 remakes should happen",
-      "url": "https://www.videogameschronicle.com/news/a-trailer-for-a-remake-of-the-original-persona-appears-to-have-leaked/",
-      "urlToImage": "https://www.videogameschronicle.com/files/2026/11/persona-1.jpg",
-      "publishedAt": "2026-11-02T11:57:11Z",
-      "content": "A trailer for a remake of the original Persona appears to have leaked online.\r\nThe footage, which was shared on YouTube without warning by a new account, appears to show a montage consisting of gamep… [+1780 chars]"
+      "author": "Adam Vjestica",
+      "title": "Zelda Switch 2 restock: every retailer to watch this week - The Shortcut | Matt Swider",
+      "description": "We’re continuing to track the 40th Anniversary Zelda Switch 2 console",
+      "url": "https://www.theshortcut.com/p/zelda-switch-2-restock-all-the-retailers-to-watch-this-week",
+      "urlToImage": "https://substackcdn.com/image/fetch/$s_!3dIr!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5f9776b2-ae8a-4a5c-828d-bbe5e54dd00c_1456x819.webp",
+      "publishedAt": "2026-11-02T11:12:44Z",
+      "content": "<ul><li> Were tracking The Zelda 40th Anniversary Switch 2 console ahead of Ocarina of Times launch on November 5\r\n</li><li> Follow Zelda Switch 2 restock tracker @mattswider on X for instant alerts\r… [+4696 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "TrueAchievements"
+        "name": "MakeUseOf"
       },
-      "author": null,
-      "title": "Crimson Desert gets seven new Xbox achievements with Charting the Unknown DLC - TrueAchievements",
-      "description": "Crimson Desert fans can now set out on new adventures with the game's new Charting the Unknown DLC, and you can check out its achievements here.",
-      "url": "https://www.trueachievements.com/news/crimson-desert-charting-the-unknown-xbox-achievements",
-      "urlToImage": "https://www.trueachievements.com/imgs/180426/crimson-desert-charting-the-unknown-xbox-achievements.jpg",
-      "publishedAt": "2026-11-02T11:32:53Z",
-      "content": "It's time to chart the unknown in Crimson Desert, as the game's first DLC has arrived. Charting the Unknown takes you on a voyage across the seas to discover new lands, adventures, and new ways to ma… [+2300 chars]"
+      "author": "Afam Onyimadu",
+      "title": "The founder who sold his company to IBM built a free terminal app, and it’s absurdly fast - MakeUseOf",
+      "description": "My default Linux terminal never got a second thought until now.",
+      "url": "https://www.makeuseof.com/the-founder-who-sold-his-company-to-ibm-built-a-free-terminal-app-and-its-absurdly-fast/",
+      "urlToImage": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/the-ghostty-terminal-on-linux-mint.jpg?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-11-02T11:00:11Z",
+      "content": "Mitchell Hashimoto is best known for co-founding HashiCorp, a company IBM bought in 2025. However, you may not know that he also built a terminal app that you can use for free. This tool is called Gh… [+4756 chars]"
     },
     {
       "source": {
@@ -610,15 +662,15 @@
     {
       "source": {
         "id": null,
-        "name": "Windows Central"
+        "name": "Wccftech"
       },
-      "author": "Jez Corden",
-      "title": "Gears of War: E-Day's \"$500m budget\" story oversimplifies the situation - Windows Central",
-      "description": "The past few weeks, I've been investigating Gears of War: E-Day's budgetary discourse ahead of looming, widely expected layoffs. Here's what I know (so far.)",
-      "url": "https://www.windowscentral.com/gaming/xbox/gears-of-war-e-days-usd500-million-budget-story-over-simplifies",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/EQZJ8hgpuMzFmcdvQ8GyRH-1865-80.jpg",
-      "publishedAt": "2026-11-02T11:00:00Z",
-      "content": "From around July, rumors began to swirl that Gears of War: E-Day had cost upwards of half a billion dollars, raising questions about the state of AAA game development.\r\nI can confirm at my end that M… [+6928 chars]"
+      "author": "Francesco De Meo",
+      "title": "NVIDIA DLSS 5 In Mario Kart World Shows A Glimpse Of The Future, As Nintendo Switch 2 Emulated Game Looks Almost Like An Animated Movie - Wccftech",
+      "description": "Mario Kart World runs on PC with NVIDIA DLSS 5 neural rendering, showing a glimpse of future Nintendo visuals.",
+      "url": "https://wccftech.com/nvidia-dlss-5-mario-kart-world-future-nintendo-switch-2-emulated/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Mario-Kart-World-NVIDIA-DLSS-5-1920x1078.jpg",
+      "publishedAt": "2026-11-02T10:40:03Z",
+      "content": "A little over a year after its release, the Nintendo Switch 2 was jailbroken last month, opening the floodgates not only for homebrew on the system, but also to game dumping, which, in turn, opened t… [+2227 chars]"
     },
     {
       "source": {
@@ -635,16 +687,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Videocardz.com"
+        "id": "ign",
+        "name": "IGN"
       },
-      "author": null,
-      "title": "GeForce RTX 3060 retakes top spot on Steam as Linux approaches 4% share - VideoCardz.com",
-      "description": "The GeForce RTX 5070 dropped from 5.86% to 3.56% in Steam's latest survey, allowing the RTX 3060 to reclaim first place. Linux is now approaching a 4% share.",
-      "url": "https://videocardz.com/newz/geforce-rtx-3060-retakes-top-spot-on-steam-as-linux-approaches-4-share",
-      "urlToImage": "https://cdn.videocardz.com/1/2026/11/RTX-3060-STEAM-HERO.webp",
-      "publishedAt": "2026-11-02T09:49:09Z",
-      "content": "Valve has published its October 2026 Steam Hardware Survey, and the GeForce RTX 3060 is back at the top of the GPU rankings. The RTX 5070 held first place for just one month before losing most of its… [+2214 chars]"
+      "author": "Michael Cripe",
+      "title": "Dead by Daylight Devs Apologize After TheBurntPeanut Stream Stirs Controversy in Its Community - IGN",
+      "description": "Behaviour Interactive has responded after what appeared to be a Dead by Daylight collaboration with controversial streamer TheBurntPeanut caused backlash in its community.",
+      "url": "https://www.ign.com/articles/dead-by-daylight-devs-apologize-after-theburntpeanut-stream-stirs-controversy-in-its-community",
+      "urlToImage": "https://assets-prd.ignimgs.com/2025/08/06/dead-by-daylight-x-overwatch-1754498586451.png?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2026-11-02T09:27:17Z",
+      "content": "Behaviour Interactive has responded after what appeared to be a Dead by Daylight\r\n collaboration with controversial streamer TheBurntPeanut caused backlash in its community.\r\nHalloween weekend may ha… [+9898 chars]"
     },
     {
       "source": {
@@ -661,42 +713,29 @@
     },
     {
       "source": {
-        "id": "mashable",
-        "name": "Mashable"
+        "id": null,
+        "name": "9to5Mac"
       },
-      "author": "Joseph Green",
-      "title": "T-Mobile is giving away the Apple iPhone 18 Pro for free — how to qualify - Mashable",
-      "description": "The free iPhone deals are so back.",
-      "url": "https://mashable.com/tech/oct-31-free-apple-iphone-18-pro-deal",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/037GA6LFMvnmzF3gXa5mSiX/hero-image.fill.size_1200x675.v1793373946.jpg",
-      "publishedAt": "2026-11-02T08:03:47Z",
-      "content": null
+      "author": "Michael Burkhardt",
+      "title": "These are the best MacBook deals right now: November 2026 Buyer’s Guide - 9to5Mac",
+      "description": "In recent years, Macs had been getting more and more affordable. Cheaper starting points, more memory and storage per dollar,...",
+      "url": "https://9to5mac.com/2026/11/01/best-macbook-discounts-november-2026-edition/",
+      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/macos-27-macbook-generic-fi.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-11-02T05:01:00Z",
+      "content": "In recent years, Macs had been getting more and more affordable. Cheaper starting points, more memory and storage per dollar, and the introduction of MacBook Neo. For the first time, Apple had starte… [+3178 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "PhoneArena"
+        "name": "Newsnationnow.com"
       },
-      "author": "Alan Friedman",
-      "title": "Pixel 11's headline feature is about to get more useful - PhoneArena",
-      "description": "The new visual notification feature exclusive to the Pixel 11 series will soon become more useful",
-      "url": "https://www.phonearena.com/news/pixel-11-visual-notification-about-to-get-better-more-useful_id184478",
-      "urlToImage": "https://m-cdn.phonearena.com/images/article/184478-wide-two_1200/Pixel-11s-headline-feature-is-about-to-get-more-useful.jpg",
-      "publishedAt": "2026-11-02T06:05:17Z",
-      "content": "A discussion is a place, where people can voice their opinion, no matter if it\r\n is positive, neutral or negative. However, when posting, one must stay true to the topic, and not just share some\r\n ra… [+1082 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Techpowerup.com"
-      },
-      "author": null,
-      "title": "Fans Rebuild Valve's Scrapped Portal Prequel \"F-Stop\" From Three Separate Leaks - TechPowerUp",
-      "description": "F-Stop, the Portal prequel Valve canceled in 2007, is now playable after the community stitched it together from several leaks. Most of its assets were already sitting in the gigantic 12 TB Steam2 archive that leaked in August, but that dump didn't include th…",
-      "url": "https://www.techpowerup.com/354391/fans-rebuild-valves-scrapped-portal-prequel-f-stop-from-three-separate-leaks",
-      "urlToImage": "https://www.techpowerup.com/img/PU7NE5tdpv0kd0eb.jpg",
-      "publishedAt": "2026-11-02T00:18:55Z",
-      "content": "This should only take a few seconds. If you have issues, please do contact us, we want to learn about any problems.\r\nDrag the handle to the target\r\nNeed help? Contact Us. Please mention your IP: 64.9… [+6 chars]"
+      "author": "John Ross Ferrara",
+      "title": "Tony Hawk kicked out of LA park while celebrating ‘Tony Hawk’s Pro Skater 3’ - NewsNation",
+      "description": "“Fun fact: we got kicked out of Pershing Square while shooting this today,” Hawk wrote on Instagram.",
+      "url": "https://www.newsnationnow.com/us-news/west/tony-hawk-kicked-out-pershing-square-celebrating-anniversary-tony-hawks-pro-skater-3/",
+      "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/10/AP19317683407378-e1793472825774.jpg?w=1280",
+      "publishedAt": "2026-11-02T03:21:14Z",
+      "content": "(KTLA) — Tony Hawk was kicked out of Pershing Square in downtown Los Angeles Friday, the skateboarding legend announced on social media.\r\nHawk was kicked out of the public park while filming a skate … [+597 chars]"
     },
     {
       "source": {
@@ -739,71 +778,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "GameRant"
-      },
-      "author": "James Ratcliff",
-      "title": "Official Zelda Switch 2 Console Restocks Have a Release Date - GameRant",
-      "description": "Nintendo and specific retailers confirm when restocks of the popular Zelda-themed Switch 2 console will happen, giving buyers a chance to plan ahead.",
-      "url": "https://gamerant.com/official-zelda-switch-2-console-restocks-have-a-release-date/",
-      "urlToImage": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/11/official-zelda-switch-2-console-restocks-have-a-release-date.jpg?w=1600&h=900&fit=crop",
-      "publishedAt": "2026-11-01T21:00:14Z",
-      "content": "Buyers looking to get a popular Nintendo Switch 2 console are in luck, as Target and Best Buy confirmed that restocks of The Legend of Zelda: 40th Anniversary Edition bundle are planned throughout th… [+3529 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Abner Li",
-      "title": "Wear OS adding ‘system status bar’ to apps, Wear OS 7.1 coming - 9to5Google",
-      "description": "Earlier this week, Google revealed that a “later platform release of Wear OS” is adding a “system status bar.”",
-      "url": "http://9to5google.com/2026/11/01/wear-os-status-bar/",
-      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/Wear-OS-7-cover.jpg?quality=82&strip=all&resize=1200,628",
-      "publishedAt": "2026-11-01T20:44:00Z",
-      "content": "Earlier this week, Google revealed that a later platform release of Wear OS is adding a system status bar.\r\nOn October 26, Google released a Wear OS canary emulator in Android Studio to let developer… [+2199 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Zack Kotzer",
-      "title": "Tony Hawk Kicked Out Of Park While Trying To Recreate Pro Skater 3 - Kotaku",
-      "description": "The legendary Birdman wanted to celebrate 25 years of the iconic third entry in his video game series, only to be escorted out by security",
-      "url": "https://kotaku.com/tony-hawk-kicked-out-of-park-while-trying-to-recreate-pro-skater-3-2000752094",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/11/ss_8b6b1072bd6d96bd37949e4bfb8c3a229f3ef337.1920x1080-1200x675.jpg",
-      "publishedAt": "2026-11-01T19:29:35Z",
-      "content": "Tony Hawk, skateboard legend, video game superstar and the last one to die in the great uprising, has inspired the culture for generations. Since Neversoft put him on the PlayStation in 1999, Hawk ha… [+1899 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Warhammer-community.com"
-      },
-      "author": null,
-      "title": "Sunday Preview – The Khazalite Holds prepare to march out - Warhammer Community",
-      "description": "See what’s available for pre-order next week, including a wealth of Warhammer Age of Sigmar miniatures.",
-      "url": "https://www.warhammer-community.com/articles/pqgrrqqt/sunday-preview-the-khazalite-holds-prepare-to-march-out",
-      "urlToImage": "https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/sundaypreview-nov01-2-share-naig3trjvn.jpg",
-      "publishedAt": "2026-11-01T17:59:17Z",
-      "content": "Gholems are revered living statues that make for imposing figures on the battlefield. Crafted into simulacra of the Keeper of the Gate himself, the Gholems of Gazul are armed with massive two-handed … [+3648 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Mitchel Broussard",
-      "title": "Nearly Every M5 MacBook Air Now $200 Off on Amazon - MacRumors",
-      "description": "Amazon is taking $200 off nearly every model of the M5 MacBook Air this weekend, with matches of the best post-hike prices we've ever seen on...",
-      "url": "https://www.macrumors.com/2026/11/01/m5-macbook-air-200-off/",
-      "urlToImage": "https://images.macrumors.com/t/2Sx-xNppEE0yq-9mdQOPpykYFvU=/2500x/article-new/2026/06/m5-macbook-air-prime-day.jpeg",
-      "publishedAt": "2026-11-01T17:33:43Z",
-      "content": "Amazon is taking $200 off nearly every model of the M5 MacBook Air this weekend, with matches of the best post-hike prices we've ever seen on the computer. Prices now start at $1,099.99 for the 512GB… [+1091 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -830,29 +804,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Forbes"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Forbes",
-      "title": "Blurring The Line Between Earbuds And Headphones - Forbes",
-      "description": null,
-      "url": "https://www.forbes.com/sites/scottkramer/2026/11/01/blurring-the-line-between-earbuds-and-headphones/",
-      "urlToImage": null,
-      "publishedAt": "2026-11-01T14:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PCGamesN"
-      },
-      "author": null,
-      "title": "World of Warcraft Forever's rule sets are staying separate for now, but Blizzard has an emergency lever to change that - PCGamesN",
-      "description": "As the World of Warcraft Forever launch looms, Blizzard talks about keeping players together, pushing them apart, and merging rule sets.",
-      "url": "https://www.pcgamesn.com/world-of-warcraft/forever-rule-sets-layering-world",
-      "urlToImage": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/11/world-of-warcraft-forever-rule-sets-realms-layering-groups-ignoring-blizzard-mmorpg-podcast.jpg",
-      "publishedAt": "2026-11-01T13:39:22Z",
-      "content": "World of Warcraft Forever is just days away now. Its reimagined Azeroth adopts a 'realmless' approach to weave all its players into one giant world, but there are still some dividers in place. PvE, P… [+8441 chars]"
+      "author": "Terrence O'Brien",
+      "title": "A fully playable version of Portal prequel F-Stop leaked - The Verge",
+      "description": "Nearly 20 years after its cancellation, Valve’s camera-based Portal prequel, F-Stop, is no longer lost media.",
+      "url": "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKB376_VALVE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2026-11-01T16:19:21Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nNearly 20 years after it was canceled, the camera-based Portal prequel F-Stop is no longer lost media.\r\nNearly 20 years after it was canceled, the camera-based P… [+229 chars]"
     },
     {
       "source": {
@@ -895,19 +856,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Dark Horizons"
-      },
-      "author": "Garth Franklin",
-      "title": "\"Star Wars\" Killed The New \"Mass Effect\"? - Dark Horizons",
-      "description": "Last week’s announcement that EA was shutting down game developer BioWare and scrapping the newest “Mass Effect” game upset much of the fanbase. Now, the apparent reason why has been revealed. Bloomberg reports that the decision to close BioWare was mainly du…",
-      "url": "https://www.darkhorizons.com/star-wars-killed-the-new-mass-effect/",
-      "urlToImage": "https://cdndark.darkhorizons.com/wp-content/uploads/2026/10/star-wars-killed-the-new-mass-effect.jpg",
-      "publishedAt": "2026-11-01T10:43:05Z",
-      "content": "Last weeks announcement that EA was shutting down game developer BioWare and scrapping the newest Mass Effect game upset much of the fanbase. Now, the apparent reason why has been revealed.\r\nBloomber… [+1244 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -922,15 +870,15 @@
     {
       "source": {
         "id": null,
-        "name": "Tom's Guide"
+        "name": "Geeky Gadgets"
       },
-      "author": "Tom Pritchard",
-      "title": "We've tested the iPhone Duo and iPhone 18 Pro Max — here's the phone you should actually buy - Tom's Guide",
-      "description": "Which premium iPhone is the right one for you?",
-      "url": "https://www.tomsguide.com/phones/iphones/weve-tested-the-iphone-duo-and-iphone-18-pro-max-heres-the-phone-you-should-actually-buy",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/hPwe59UJGEGAsrUksyHuAM-2560-80.jpg",
-      "publishedAt": "2026-11-01T08:30:00Z",
-      "content": null
+      "author": "Roland Hutchinson",
+      "title": "Apple’s Secret iPhone 20 Plans Will Completely Rewrite the Smartphone Playbook - Geeky Gadgets",
+      "description": "iPhone 20 redesign rumors point to a massive 20th-anniversary update in 2027. Apple might skip the iPhone 19 and introduce solid-state haptic buttons.",
+      "url": "https://www.geeky-gadgets.com/iphone-20-redesign-rumors-2/",
+      "urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2026/11/iphone-20-concept.jpg",
+      "publishedAt": "2026-11-01T07:31:11Z",
+      "content": "Apple is reportedly preparing a significant redesign for the iPhone 20, scheduled for release in 2027 to commemorate the 20th anniversary of the original iPhone. This milestone device is expected to … [+5256 chars]"
     },
     {
       "source": {
@@ -973,19 +921,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "MMORPG.com"
-      },
-      "author": null,
-      "title": "All the Details From FFXIV's Fan Fest Tokyo Keynote - MMORPG.com",
-      "description": "Hayes is here with a full recap of yesterday's Final Fantasy XIV Fan Festival Tokyo's Keynote, recapping all the Evercold announcements.",
-      "url": "https://www.mmorpg.com/features/all-the-details-from-ffxivs-fan-fest-tokyo-keynote-2000139232",
-      "urlToImage": "https://media.mmorpg.com/images/heroes/posts/139232.jpg",
-      "publishedAt": "2026-10-31T21:42:00Z",
-      "content": "The third and final Fan Fest of the year has arrived, bringing the best look we've seen yet of Final Fantasy XIV: Evercold. As is usually the case with Fan Fests, we now have the final version of the… [+14855 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -996,19 +931,6 @@
       "urlToImage": null,
       "publishedAt": "2026-10-31T21:04:43Z",
       "content": "Home to tales inspired by the likes of “Harry Potter” and “Heated Rivalry,” the archive was taken down after “an intrusion,” one of its founders said. It could be down for weeks."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BleepingComputer"
-      },
-      "author": "Lawrence Abrams",
-      "title": "New Android SMS of Death exploit can remotely crash unpatched phones - BleepingComputer",
-      "description": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by sending a specially craft…",
-      "url": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2024/01/31/image_(2).jpg",
-      "publishedAt": "2026-10-31T15:35:11Z",
-      "content": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt c… [+3224 chars]"
     },
     {
       "source": {
@@ -1181,6 +1103,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "BGR"
+      },
+      "author": "José Adorno",
+      "title": "5 Big Problems Users Are Already Having With The iPhone Duo - BGR",
+      "description": "The iPhone Duo brings foldable technoogy to Apple's smartphones, but it also brings with it a host of issues, like unoptimized apps, fragile screens, and more.",
+      "url": "https://www.bgr.com/2300706/big-problems-users-having-iphone-duo/",
+      "urlToImage": "https://www.bgr.com/img/gallery/5-big-problems-users-are-already-having-with-the-iphone-duo/l-intro-1793273991.jpg",
+      "publishedAt": "2026-10-29T12:17:00Z",
+      "content": "Last but not least, one concern every iPhone user has is iOS 27 bugs. While early claims suggested that iOS 27 would be all about Siri AI and fixing bugs, it seems like Apple still needs a lot more t… [+1183 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1230,32 +1165,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/28/multimedia/APPLE-1-lcgk/APPLE-1-lcgk-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-28T18:30:51Z",
       "content": "Steve Jobs and Tim Cook both dismissed the idea, but Apple’s new chief executive is reimagining some of the company’s most important products."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Warhammer-community.com"
-      },
-      "author": null,
-      "title": "Warhammer Age of Sigmar: October Update - Warhammer Community",
-      "description": "Rules changes for Khazalite Holds, Sons of Behemat, and more.",
-      "url": "https://www.warhammer-community.com/articles/iix3g22a/warhammer-age-of-sigmar-october-update",
-      "urlToImage": "https://assets.warhammer-community.com/articles/0-2026/october/wc26-10/aos_changes-oct28-2-share-i8uxy7vpjl.jpg",
-      "publishedAt": "2026-10-28T10:27:12Z",
-      "content": "© Copyright Games Workshop Limited 2026. GW, Games Workshop, Citadel, White Dwarf, Space Marine, 40K, Warhammer, Warhammer 40,000, the Aquila Double-headed Eagle logo, Warhammer Age of Sigmar, Battle… [+1391 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "Nicole Nguyen",
-      "title": "‘I Felt Blind Panic.’ They Opened Their New $2,000 iPhone Duo—and It Broke. - WSJ",
-      "description": "Apple acknowledges an issue affecting the interior, folding screen on a ‘small number of iPhone Duo units’",
-      "url": "https://www.wsj.com/tech/personal-tech/iphone-duo-broken-hinge-screen-31b2b28a",
-      "urlToImage": "https://images.wsj.net/im-25551095/social",
-      "publishedAt": "2026-10-27T15:37:00Z",
-      "content": "It took about five minutes for Jesse Daltons \r\niPhone Duo dream to shift into nightmare mode.Last Friday, the Dallas-area resident unboxed Apples just-released $2,000 folding phone. He transferred ce… [+336 chars]"
     }
   ]
 }

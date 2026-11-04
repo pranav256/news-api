@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 88,
+  "totalResults": 83,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Kenneth Chang",
+      "title": "A NASA Telescope Is Predicted to Crash Back to Earth Within Hours",
+      "description": "The space agency estimates that there is a one-in-2,100 chance that debris from the Neil Gehrels Swift Observatory could injure someone on the ground.",
+      "url": "https://www.nytimes.com/2026/11/03/science/nasa-swift-reentry-crash.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/03/multimedia/03sci-nasa-swift-cqfk/03sci-nasa-swift-cqfk-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-03T22:37:02Z",
+      "content": "The space agency estimates that there is a one-in-2,100 chance that debris from the Neil Gehrels Swift Observatory could injure someone on the ground."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -14,19 +27,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/03/multimedia/03cli-floods-01-flkh/03cli-floods-01-flkh-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-03T21:06:37Z",
       "content": "A series of storms has added to reservoirs in the Colorado River basin, but the long-term water outlook remains bleak."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Kenneth Chang",
-      "title": "A NASA Telescope Is Predicted to Crash Back to Earth Within Hours",
-      "description": "The space agency estimates that there is a one-in-2,100 chance that debris from the Neil Gehrels Swift Observatory could injure someone on the ground.",
-      "url": "https://www.nytimes.com/2026/11/03/science/nasa-swift-reentry-crash.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/03/multimedia/03sci-nasa-swift-cqfk/03sci-nasa-swift-cqfk-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-03T19:19:05Z",
-      "content": "The space agency estimates that there is a one-in-2,100 chance that debris from the Neil Gehrels Swift Observatory could injure someone on the ground."
     },
     {
       "source": {
@@ -82,6 +82,58 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Discoverwildlife.com"
+      },
+      "author": "Fergus Collins",
+      "title": "The seals that shouldn't exist: How did 100,000 end up trapped in the middle of Siberia, a whopping 2,000 miles from the ocean? - BBC Wildlife Magazine",
+      "description": "How on Earth did the Baikal seal reach a lake in the middle of Russia?",
+      "url": "https://www.discoverwildlife.com/animal-facts/marine-animals/baikal-seals",
+      "urlToImage": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/f420f555-b7ef-436a-9f85-0b64ff12e84f/thumbnails/b3d76f4d-1782-448d-af21-2047f720a505.jpg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&platform=WEB&w=1200",
+      "publishedAt": "2026-11-03T01:01:42Z",
+      "content": "Deep in the Russian wilderness, over 3000km from the nearest ocean, 100,000 seals live on a huge frigid lake. They are Baikal seals, known in Russian as nerpas, and are the only seal species found in… [+4513 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Scientists discover potentially massive dwarf planet candidate hiding beyond Pluto - Fox News",
+      "description": "Object 2026 ED138 was spotted beyond Pluto using observations from the Vera C. Rubin Observatory, and scientists say it could be among the largest dwarf planets ever found.",
+      "url": "https://www.foxnews.com/travel/scientists-discover-potentially-massive-dwarf-planet-candidate-hiding-beyond-pluto",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/SPACE-NASA-NEW-DWARF-PLANET-BEHIND-PLUTO-COSMOS-2.jpg",
+      "publishedAt": "2026-11-02T22:43:41Z",
+      "content": "A powerful new telescope has discovered a dwarf planet candidate beyond Pluto and scientists say it could be among the largest of its kind ever found in the reaches of our solar system.\r\nThe discover… [+3770 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BGR"
+      },
+      "author": "Ian Garland",
+      "title": "How One Scientist Made A Mini Universe To Prove We're Wrong About Time - Yahoo",
+      "description": "Time is one of those things we all take for granted, but beyond clocks and the movement of the sun and stars, is there such a thing as objective time?",
+      "url": "https://www.bgr.com/2300124/scientist-made-mini-universe-prove-time-theory/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/d058b49b17ab0c6c946ac31bade7896397310581cc8bc57d4068a8e5f28ac7d5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbgr_ecomm_183%2F755d721989134d1c0b760caba86c4d56.jpg",
+      "publishedAt": "2026-11-02T21:47:00Z",
+      "content": "Most people agree that outside of science-fiction movies, time moves forward constantly. As such, determining how much time has passed since a given event is typically as simple as checking a clock. … [+2970 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Aps.org"
+      },
+      "author": null,
+      "title": "Using Pulsars to Probe Early Growth of Black Holes - American Physical Society",
+      "description": "Researchers have used radio observations of rapidly spinning neutron stars to search for signals from supermassive black hole pairs at the dawn of galaxy formation.",
+      "url": "https://physics.aps.org/articles/v19/146",
+      "urlToImage": "https://physics.aps.org/assets/32c8b70d-ca9c-4cd3-822b-49c7290d5750/e146_2_thumb.png",
+      "publishedAt": "2026-11-02T20:06:59Z",
+      "content": "Figure 1: Galactic history goes back billions of years. When galaxies merge, their supermassive black holes should form binaries that emit gravitational waves. These waves are expected to be observab… [+8857 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -122,15 +174,28 @@
     {
       "source": {
         "id": null,
-        "name": "Twz.com"
+        "name": "Thetimes.com"
       },
-      "author": "Joseph Trevithick",
-      "title": "New X-Plane To Be Announced At Max Power Airshow: NASA Administrator Isaacman - TWZ",
-      "description": "NASA's boss insists it is \"not the one you're thinking about\" and has deflected a new question about a 'missing' SR-71.",
-      "url": "https://www.twz.com/air/new-x-plane-to-be-announced-at-max-power-airshow-nasa-administrator-isaacman",
-      "urlToImage": "https://www.twz.com/wp-content/uploads/2026/11/nasa-boss-says-new-x-plane-coming-deflects-sr-71-question.jpg?w=1200",
-      "publishedAt": "2026-11-02T18:15:33Z",
-      "content": "The TWZ Newsletter\r\nWeekly insights and analysis on the latest developments in military technology, strategy, and foreign policy.\r\nNASA Administrator Jared Isaacman says a new X-plane will be announc… [+11358 chars]"
+      "author": "Adam Vaughan",
+      "title": "Climate scientists want billions to geoengineer the skies - The Times",
+      "description": "From cloud-brightening to sun-dimming, radical solutions are being dreamt up to tackle global warming",
+      "url": "https://www.thetimes.com/uk/environment/article/climate-scientists-global-warming-geoengineer-david-king-t9hg2cvxw",
+      "urlToImage": "https://www.thetimes.com/imageserver/image/37ac3d15-8447-4eb6-b248-bc86060ebe5a.jpg?strip=all&format=webp&crop=4200px%2C2362px%2C0px%2C218px&resize=1200",
+      "publishedAt": "2026-11-02T18:40:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Keith Cooper",
+      "title": "JWST uncovers new clues about the origins of 'interstellar invader' comet 3I/ATLAS - Space",
+      "description": "The findings are another clue towards understanding the origins of 3I/ATLAS and the planet-forming conditions around other stars.",
+      "url": "https://www.space.com/astronomy/asteroids/james-webb-space-telescope-uncovers-new-clues-about-the-origins-of-interstellar-invader-comet-3i-atlas",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/9mA3zrpui3mS5HYJHvw4fD-2000-80.jpg",
+      "publishedAt": "2026-11-02T17:00:00Z",
+      "content": null
     },
     {
       "source": {
@@ -148,15 +213,41 @@
     {
       "source": {
         "id": null,
-        "name": "Boing Boing"
+        "name": "Phys.Org"
       },
-      "author": "Rob Beschizza",
-      "title": "Trans-Neptunian planet candidate hailed as \"enormous new dwarf\" - Boing Boing",
-      "description": "2026 ED138 is a large trans-Neptunian object, or as the BBC has it, an \"enormous new dwarf\" planet lurking in the outer regions of the solar system. Discovered by Matthew…",
-      "url": "https://boingboing.net/2026/11/02/trans-neptunian-planet-candidate-hailed-as-enormous-new-dwarf.html",
-      "urlToImage": "https://boingboing.net/wp-content/uploads/2026/11/enormous-dwarf.jpg",
-      "publishedAt": "2026-11-02T14:54:16Z",
-      "content": "2026 ED138 is a large trans-Neptunian object, or as the BBC has it, an \"enormous new dwarf\" planet lurking in the outer regions of the solar system. Discovered by Matthew Holman, it's the first such … [+1370 chars]"
+      "author": "Paul Arnold",
+      "title": "Early humans needed more than access to water to settle ancient Arabian deserts - Phys.org",
+      "description": "Models of early population migrations assume people moved to places with easy access to water. But this assumption has left us with a fascinating mystery in ancient Arabia. Despite evidence that monsoon rains once filled lakes and supported grasslands in the …",
+      "url": "https://phys.org/news/2026-11-early-humans-access-ancient-arabian.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/early-humans-needed-mo.jpg",
+      "publishedAt": "2026-11-02T15:20:16Z",
+      "content": "Models of early population migrations assume people moved to places with easy access to water. But this assumption has left us with a fascinating mystery in ancient Arabia. Despite evidence that mons… [+3603 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Ben Cost",
+      "title": "Bizarre beaked ‘hell chicken’ is the first dinosaur discovered to eat fruit - New York Post",
+      "description": "Infernogallus jamesi is the first known dinosaur to subsist solely on fruit.",
+      "url": "https://nypost.com/2026/11/02/science/bizarre-beaked-hell-chicken-is-the-first-known-dinosaur-to-eat-fruit/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/147294265.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-11-02T15:17:00Z",
+      "content": "It was like a prehistoric parrot on steroids. \r\nThe Cretaceous might seem synonymous with hardcore carnivores and plus-sized plant-eaters. \r\nHowever, researchers have discovered a new species of dino… [+3045 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Chelsea Gohd",
+      "title": "A rainbow of ancient rocks on Mars photo of the day for Nov. 2, 2026 - Space",
+      "description": "Turns out rainbow road is on Mars.",
+      "url": "https://www.space.com/astronomy/mars/a-rainbow-of-ancient-rocks-on-mars-space-photo-of-the-day-for-nov-2-2026",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/qrVGgKSEJE8WP8FDPfjT3h-1920-80.png",
+      "publishedAt": "2026-11-02T15:00:00Z",
+      "content": null
     },
     {
       "source": {
@@ -226,6 +317,45 @@
     {
       "source": {
         "id": null,
+        "name": "Nature.com"
+      },
+      "author": null,
+      "title": "From biology to boron chemistry - Nature",
+      "description": "Ahead of his 65th birthday, Holger Braunschweig, Head and Chair of Inorganic Chemistry at the University of Würzburg, discussed his life in science.",
+      "url": "https://www.nature.com/articles/s41570-026-00893-w",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41570-026-00893-w/MediaObjects/41570_2026_893_Figa_HTML.png",
+      "publishedAt": "2026-11-02T08:55:34Z",
+      "content": "Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain\r\n the best experience, we recommend you use a more up to date browser (or turn off compatibi… [+139 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tuoitre.vn"
+      },
+      "author": "Tieu Bac - Chi Tue - Duong Lieu / Tuoi Tre News",
+      "title": "Mysterious light streaks across northern Vietnam’s night sky - Tuoi Tre News | The News Gateway to Vietnam",
+      "description": "A bright streak of light suddenly appeared and moved rapidly across the sky over several northern Vietnamese provinces and cities on Sunday evening, leaving residents intrigued by the unusual phenomenon.",
+      "url": "https://news.tuoitre.vn/mysterious-light-streaks-across-northern-vietnams-night-sky-103261102114336811.htm",
+      "urlToImage": "https://cdn2.tuoitre.vn/zoom/1200_630/471584752817336320/2026/11/2/thumb-me2-17935945052701542601338-17935945074081266975945-77-173-331-657-crop-17935945372011006782990.png",
+      "publishedAt": "2026-11-02T05:04:00Z",
+      "content": "A screenshot of a bright streak of light crossing the sky over northern Vietnam, November 1, 2026.\r\nAt around 6:00 pm, people in various parts of northern Vietnam spotted and captured images of the m… [+3067 chars]"
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Science Desk",
+      "title": "In 2022, an 800-gram pink rock was found in the Sahara Desert; NASA-funded researchers have now confirmed - The Times of India",
+      "description": "A rock that spent more than four billion years preserving clues about Mars' early history was found lying in the Sahara Desert, looking like an ordinary",
+      "url": "https://timesofindia.indiatimes.com/science/space/in-2022-an-800-gram-pink-rock-was-found-in-the-sahara-desert-nasa-funded-researchers-have-now-confirmed-it-came-from-mars-more-than-4-1-billion-years-ago-and-preserves-signs-of-the-planets-ancient-water/articleshow/135396990.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-135397162,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-11-02T03:47:00Z",
+      "content": "<ul><li>News</li>\r\n<li>Science News</li>\r\n<li>In 2022, an 800-gram pink rock was found in the Sahara Desert; NASA-funded researchers have now confirmed it came from Mars more than 4.1 billion years a… [+2021 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Post Magazine"
       },
       "author": null,
@@ -235,19 +365,6 @@
       "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/10/30/f26f5a24-832f-47f7-9389-545d21d4f496_0404b79d.jpg?itok=WE693QH4&v=1793330447",
       "publishedAt": "2026-11-02T03:13:07Z",
       "content": "Chinese researchers have mapped how energy from surface wind surges thousands of metres into the seabed, revealing massive underwater conduits they called inertial chimneys.\r\nThe discovery, based on … [+443 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Michelle Starr",
-      "title": "Scientists Asked 50 People to Map Their Near-Death Experiences. An Eerie Pattern Emerged. - ScienceAlert",
-      "description": "Of all the strange trappings associated with the near-death experience, none is so familiar as the tunnel into the light.",
-      "url": "https://www.sciencealert.com/scientists-asked-50-people-to-map-their-near-death-experiences-an-eerie-pattern-emerged",
-      "urlToImage": "https://www.sciencealert.com/images/2026/10/corridor-1200x675.png",
-      "publishedAt": "2026-11-02T03:00:19Z",
-      "content": "Of all the strange trappings associated with the near-death experience, none is so familiar as the tunnel into the light.\r\nPeople who have skirted perilously close to the brink of death or even beyon… [+6595 chars]"
     },
     {
       "source": {
@@ -395,19 +512,6 @@
     {
       "source": {
         "id": null,
-        "name": "Phys.Org"
-      },
-      "author": "Andrew Zinin",
-      "title": "Heavy hydrogen in 3I/ATLAS's methane points to a frigid birthplace - Phys.org",
-      "description": "The interstellar comet 3I/ATLAS carries a chemical clue to conditions in the planetary system of its origin, locked away long before it reached our sun. Its methane signature is unusually rich in heavy hydrogen, suggesting that the comet's frozen ingredients …",
-      "url": "https://phys.org/news/2026-10-heavy-hydrogen-3iatlas-methane-frigid.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/heavy-hydrogen-in-3iat.jpg",
-      "publishedAt": "2026-11-01T15:20:02Z",
-      "content": "The interstellar comet 3I/ATLAS carries a chemical clue to conditions in the planetary system of its origin, locked away long before it reached our sun. Its methane signature is unusually rich in hea… [+4821 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Space.com"
       },
       "author": "Leonard David",
@@ -434,19 +538,6 @@
     {
       "source": {
         "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "Scientists shrink Archimedes’ screw to the size of a single molecule - Science Daily",
-      "description": "Scientists have built a groundbreaking molecular motor that spins in either direction using electricity, inspired by a machine invented more than 2,000 years ago. Even more remarkably, its rotation can boost electrical conductivity by up to 100 times, potenti…",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261030002940.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/archimedes-screw-molecular-motor.webp",
-      "publishedAt": "2026-11-01T11:57:32Z",
-      "content": "Scientists have developed a remarkable new molecular motor that spins when electricity passes through it. Inspired by an ancient invention, the tiny machine can even reverse its direction when the el… [+7030 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Phys.Org"
       },
       "author": "Tejasri Gururaj",
@@ -456,19 +547,6 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/breaking-the-ice-scien.jpg",
       "publishedAt": "2026-11-01T11:40:01Z",
       "content": "In a recent Nature Communicationsstudy, researchers have reported the realization of an anti-spin ice, a system that does the opposite of conventional spin ices by breaking the ice rule that governs … [+10728 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Meghan Bartels",
-      "title": "Scientists have what they say is one of the oldest Mars meteorites - The Washington Post",
-      "description": "The rock is so old it was on the surface of Mars when there was still liquid water on there.",
-      "url": "https://www.washingtonpost.com/science/2026/10/31/scientists-have-what-they-say-is-one-oldest-mars-meteorites/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/YV5CWZ3VHZHAJH7YYIMJOH46CE.jpg&w=1440",
-      "publishedAt": "2026-11-01T10:17:28Z",
-      "content": "From the outside, it looks like an unassuming rock, polished and dark with a reddish stripe running through it. But cracking it open has revealed a planetary scientists dream: one of the oldest Mars … [+114 chars]"
     },
     {
       "source": {
@@ -508,58 +586,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/01/multimedia/01sp-finearts-butterflies-03-khmw/01sp-finearts-butterflies-03-khmw-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-01T10:00:28Z",
       "content": "The cartoonist Peter Kuper has filled a corridor with drawings of monarchs, depicting the beauty of the annual mass migration to Mexican forests — as well as its perils."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Live Science"
-      },
-      "author": "Deepa Jain",
-      "title": "How do summers differ between Earth's hemispheres? - Live Science",
-      "description": "Each of Earth's hemispheres experiences summer, but how do they differ?",
-      "url": "https://www.livescience.com/planet-earth/how-do-summers-differ-between-earths-hemispheres",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/vtHdnypR8zh5dtaVmCFHgC-2000-80.jpg",
-      "publishedAt": "2026-11-01T10:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "David Nield",
-      "title": "The Solar System Was Choosing Fire Over Ice Right From The Beginning, Study Shows - ScienceAlert",
-      "description": "There are many contrasts between ice and fire in both real and fictional worlds – from the volcanoes of Iceland, to the Game of Thrones fantasy series.",
-      "url": "https://www.sciencealert.com/the-solar-system-was-choosing-fire-over-ice-right-from-the-beginning-study-shows",
-      "urlToImage": "https://www.sciencealert.com/images/2026/10/SolarSystem.jpg",
-      "publishedAt": "2026-11-01T09:02:41Z",
-      "content": "There are many contrasts between ice and fire in both real and fictional worlds from the volcanoes of Iceland, to the Game of Thrones fantasy series.\r\nThese two elements were at play in the early, fo… [+3878 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "Scientists say a forgotten particle may explain why the universe exists - Science Daily",
-      "description": "A mysterious particle overlooked for decades may hold the key to why matter survived the Big Bang, allowing stars, planets, and life to exist. Scientists believe this forgotten neutrino reshaped the early universe and may have left detectable gravitational wa…",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261031221201.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/high-energy-atomic-particle-physics.webp",
-      "publishedAt": "2026-11-01T04:38:13Z",
-      "content": "Scientists have proposed a surprising new explanation for why the universe exists, and it centers on a mysterious particle that physicists have largely overlooked for decades. Their theory suggests t… [+5609 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Ivan Farkas",
-      "title": "We'd Be Entering an Ice Age Right Now if Climate Change Hadn't Terminated It, Study Suggests - ScienceAlert",
-      "description": "Earth is constantly molded by fire and ice, and not in a poetic sense.",
-      "url": "https://www.sciencealert.com/wed-be-entering-an-ice-age-right-now-if-climate-change-hadnt-terminated-it-study-suggests",
-      "urlToImage": "https://www.sciencealert.com/images/2026/10/Untitled-Design-8-1200x675.png",
-      "publishedAt": "2026-11-01T02:02:35Z",
-      "content": "Earth is constantly molded by fire and ice, and not in a poetic sense.\r\nThese physical forces singe or scour our planet's surface with fiery eruptions or the unstoppable march of glaciers. \r\nOn the c… [+5206 chars]"
     },
     {
       "source": {
@@ -655,19 +681,6 @@
     {
       "source": {
         "id": null,
-        "name": "Foxweather.com"
-      },
-      "author": null,
-      "title": "Scientists monitoring Hawaii's Kīlauea for possible 56th eruption episode during first week of November - FOX Weather",
-      "description": "Hawaii's Kilauea volcano is on track to erupt once again in early November, roughly three weeks after its 55th eruptive episode concluded in mid-October.",
-      "url": "https://www.foxweather.com/extreme-weather/kilauea-hawaii-volcano-eruption-forecast-usgs-episode-56",
-      "urlToImage": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2026/10/1024/512/screenshot-2026-10-17-110135.png?ve=1&tl=1",
-      "publishedAt": "2026-10-31T16:44:00Z",
-      "content": "Hawaii's Kilauea volcano is on track to erupt once again in early November, roughly three weeks after its 55th eruptive episode concluded in mid-October. \r\nKilauea began its most recent eruptive patt… [+2057 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Interesting Engineering"
       },
       "author": "Kaif Shaikh",
@@ -694,19 +707,6 @@
     {
       "source": {
         "id": null,
-        "name": "Space.com"
-      },
-      "author": "Sharmila Kuthunur",
-      "title": "Betelgeuse is haunted by a cosmic poltergeist tormenting the doomed star's atmosphere - Space",
-      "description": "\"This companion is orbiting so close to the star that it actually passes through its extended atmosphere.\"",
-      "url": "https://www.space.com/astronomy/stars/betelgeuse-is-haunted-by-a-cosmic-poltergeist-tormenting-the-doomed-stars-atmosphere",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ti44BXu7RTPBs2VejfL6kV-2000-80.png",
-      "publishedAt": "2026-10-31T12:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Forbes"
       },
       "author": "Jamie Carter",
@@ -716,19 +716,6 @@
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/5ff4cc15b8e7994530e13511/0x0.jpg?format=jpg&crop=6540,3677,x1414,y380,safe&height=900&width=1600&fit=bounds",
       "publishedAt": "2026-10-31T07:00:00Z",
       "content": "From a spectacular conjunction of the moon, two planets and a bright star to the Leonid meteor shower and a dramatic supermoon, there will be plenty going on in the night sky in November 2026. As a b… [+4475 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "David Nield",
-      "title": "Scientists Have Built a Robot Dog Powered by Human Brain Cells - ScienceAlert",
-      "description": "Using living neurons as the foundation of computer chips promises to bring significant advantages over conventional systems in terms of both energy efficiency and adaptability: As sophisticated as AI is, the human brain needs a lot less power to run and is st…",
-      "url": "https://www.sciencealert.com/scientists-have-built-a-robot-dog-powered-by-human-brain-cells",
-      "urlToImage": "https://www.sciencealert.com/images/2026/10/RobotDog.jpg",
-      "publishedAt": "2026-10-31T02:00:09Z",
-      "content": "Using living neurons as the foundation of computer chips promises to bring significant advantages over conventional systems in terms of both energy efficiency and adaptability: As sophisticated as AI… [+4232 chars]"
     },
     {
       "source": {
@@ -811,19 +798,6 @@
     {
       "source": {
         "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "Quantum skyrmions outlast entanglement, hinting at more resilient networks - Phys.org",
-      "description": "Quantum networks could one day connect quantum computers into more powerful systems and enable new forms of secure communication. But a fundamental obstacle stands in the way: Quantum information is extraordinarily fragile, and the entanglement between partic…",
-      "url": "https://phys.org/news/2026-10-quantum-skyrmions-outlast-entanglement-hinting.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/quantum-skyrmions-coul.jpg",
-      "publishedAt": "2026-10-30T15:40:01Z",
-      "content": "Quantum networks could one day connect quantum computers into more powerful systems and enable new forms of secure communication. But a fundamental obstacle stands in the way: Quantum information is … [+5600 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Quanta Magazine"
       },
       "author": null,
@@ -853,38 +827,12 @@
         "name": "Phys.Org"
       },
       "author": null,
-      "title": "Marine fossils in Colombia reveal possible evolutionary transition without mass extinction - Phys.org",
-      "description": "A remarkably diverse fossil ecosystem in central Colombia that preserves an unusual overlap between survivors of older Jurassic groups and newer Cretaceous lineages has led researchers at McGill University and the Centro de Investigaciones Paleontológicas (CI…",
-      "url": "https://phys.org/news/2026-10-marine-fossils-colombia-reveal-evolutionary.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/fossils-reveal-a-previ.jpg",
-      "publishedAt": "2026-10-30T14:00:05Z",
-      "content": "A remarkably diverse fossil ecosystem in central Colombia that preserves an unusual overlap between survivors of older Jurassic groups and newer Cretaceous lineages has led researchers at McGill Univ… [+3269 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
       "title": "Confirming altermagnetism: A geometric twist offers experimental proof - Phys.org",
       "description": "For decades, physicists recognized only two types of magnetism that occur in materials without external influence: ferromagnetism and antiferromagnetism. In findings published in Science, a team led by the U.S. Department of Energy's SLAC National Accelerator…",
       "url": "https://phys.org/news/2026-10-altermagnetism-geometric-experimental-proof.html",
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/slac-researchers-find.jpg",
       "publishedAt": "2026-10-30T12:20:01Z",
       "content": "For decades, physicists recognized only two types of magnetism that occur in materials without external influence: ferromagnetism and antiferromagnetism. In findings published in Science, a team led … [+7963 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "Physicists created a tiny universe and watched time emerge without a clock - Science Daily",
-      "description": "Scientists have created a miniature universe in the laboratory that could help answer one of the biggest mysteries in physics: What is time, and where does it come from? Using 24,000 ultracold atoms, a University of Birmingham researcher built an isolated qua…",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261028234703.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/glowing-mini-universe.webp",
-      "publishedAt": "2026-10-30T12:14:10Z",
-      "content": "What if time is not a fundamental part of the universe, but something that emerges from the changes taking place inside it? A physicist at the University of Birmingham has created a miniature univers… [+8310 chars]"
     },
     {
       "source": {
@@ -979,6 +927,19 @@
     },
     {
       "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Laura Paddison",
+      "title": "Humans accidentally canceled the next ice age — but it’s no reason to celebrate, scientists say - CNN",
+      "description": "A shrinking ice cap in Arctic Canada tells a striking story of how burning fossil fuels may have stopped an ice age in its infancy, new research finds",
+      "url": "https://www.cnn.com/2026/10/29/climate/how-humans-halted-the-next-ice-age",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/barnesicecapwide-oli2-20260712.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-10-29T15:45:39Z",
+      "content": "A shrinking ice cap in Arctic Canada tells a striking story of how humans may have halted the planets next ice age by burning fossil fuels, according to new research.\r\nAround 20,000 years ago, the on… [+5115 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "Archaeologymag.com"
       },
@@ -1044,19 +1005,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "Stone and water governed early human settlement of the desert - Nature",
-      "description": "A geoarchaeological survey of the Rub’ al Khali (the Empty Quarter of Arabia) and spatial modelling of the Arabian Peninsula suggest that human settlement tracked the co-occurrence of water and stone suitable for making tools, rather than water alone.",
-      "url": "https://www.nature.com/articles/s41586-026-11180-5",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11180-5/MediaObjects/41586_2026_11180_Fig1_HTML.png",
-      "publishedAt": "2026-10-28T22:35:54Z",
-      "content": "<li>Timmermann, A. &amp; Friedrich, T. Late Pleistocene climate drivers of early human migration. Nature538, 9295 (2016).\r\nArticle \r\n ADS \r\n CAS \r\n PubMed \r\nGoogle Scholar \r\n</li><li>Beyer, R. M., Kr… [+12917 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1067,6 +1015,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/28/science/28SCI-CTE-BRAINBANK/28SCI-CTE-BRAINBANK-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-28T16:31:14Z",
       "content": "Using statistical techniques, a new study has arrived at a harrowing estimate: Three of four retired pro football players most likely had C.T.E. at death."
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Gretchen Reynolds",
+      "title": "Column | Your muscles can get ‘lazy’ fast. Here’s what to do about it. - The Washington Post",
+      "description": "Taking a three-minute walk every 25 minutes can help your muscles stay active, even if you sit all day.",
+      "url": "https://www.washingtonpost.com/wellness/2026/10/28/your-muscles-can-get-lazy-fast-heres-what-do-about-it/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/36UVSYNLHHHJDGNTNNLCX4AVTQ.jpg&w=1440",
+      "publishedAt": "2026-10-28T16:00:00Z",
+      "content": "Your leg muscles are getting lazier as you sit and read this sentence. \r\nIn fact, according to one of the first studies to precisely measure leg muscle activity during movement and at rest, our legs … [+55 chars]"
     },
     {
       "source": {
@@ -1106,32 +1067,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/23/multimedia/00dc-kratom-top-lhgf/00dc-kratom-top-lhgf-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-28T13:36:31Z",
       "content": "Health officials will now allow some levels of a powerful substance to remain in products marketed as natural. The change could help a G.O.P. donor facing wrongful death lawsuits."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Kenneth Chang",
-      "title": "A New Dwarf Planet (Probably) Spotted Beyond Pluto",
-      "description": "The object, known for now as 2026 ED138, is one of the first discoveries by the new Vera C. Rubin Observatory in Chile.",
-      "url": "https://www.nytimes.com/2026/10/27/science/space/new-dwarf-planet-beyond-pluto.html",
-      "urlToImage": null,
-      "publishedAt": "2026-10-28T12:05:49Z",
-      "content": "The object, known for now as 2026 ED138, is one of the first discoveries by the new Vera C. Rubin Observatory in Chile."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Big Think"
-      },
-      "author": "Ethan Siegel",
-      "title": "These 5 divisions define how far we can go in space - Big Think",
-      "description": "What's communicable or reachable is different from what's observable and unobservable, and all of that will evolve as the Universe expands.",
-      "url": "https://bigthink.com/starts-with-a-bang/five-divisions-how-far-space/",
-      "urlToImage": "https://bigthink.com/wp-content/uploads/2022/01/https___blogs-images.forbes.com_startswithabang_files_2017_02_Laniakea-Supercluster-1401x716-1-e1793093961600.jpg?w=871&h=490&crop=1",
-      "publishedAt": "2026-10-28T06:00:00Z",
-      "content": null
     },
     {
       "source": {
