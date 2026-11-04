@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 83,
+  "totalResults": 85,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Joseph Goldstein",
+      "title": "Child Dies From Measles in New York State’s First Fatal Case in 30 Years",
+      "description": "Gov. Kathy Hochul said that the infant’s death, in Lewis County, reflected eroding vaccination levels. The state is experiencing a significant outbreak of the viral illness.",
+      "url": "https://www.nytimes.com/2026/11/02/nyregion/measles-death-child-new-york-lewis-county.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/02/multimedia/02met-measles-death-wgmb/02met-measles-death-wgmb-mediumSquareAt3X-v2.jpg",
+      "publishedAt": "2026-11-04T04:18:41Z",
+      "content": "Gov. Kathy Hochul said that the infant’s death, in Lewis County, reflected eroding vaccination levels. The state is experiencing a significant outbreak of the viral illness."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -46,19 +59,6 @@
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Joseph Goldstein",
-      "title": "Child Dies From Measles in New York State’s First Fatal Case in 30 Years",
-      "description": "Gov. Kathy Hochul said that the infant’s death, in Lewis County, reflected eroding vaccination levels. The state is experiencing a significant outbreak of the viral illness.",
-      "url": "https://www.nytimes.com/2026/11/02/nyregion/measles-death-child-new-york-lewis-county.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/02/multimedia/02met-measles-death-wgmb/02met-measles-death-wgmb-mediumSquareAt3X-v2.jpg",
-      "publishedAt": "2026-11-03T17:20:32Z",
-      "content": "Gov. Kathy Hochul said that the infant’s death, in Lewis County, reflected eroding vaccination levels. The state is experiencing a significant outbreak of the viral illness."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "Olivia Tauber",
       "title": "They Tried Kratom for Its Purported Health Benefits, Then They Became Addicted",
       "description": "Some say they were introduced to the drug through wellness podcasts, free samples at gyms or fitness influencers.",
@@ -66,6 +66,32 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/28/multimedia/00WELL-KRATOM-MARKETING1-qmcp/00WELL-KRATOM-MARKETING1-qmcp-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-03T16:49:35Z",
       "content": "Some say they were introduced to the drug through wellness podcasts, free samples at gyms or fitness influencers."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eatingwell.com"
+      },
+      "author": "https://www.facebook.com/EatingWell/",
+      "title": "The Best Time to Go to Bed to Reduce Blood Pressure - EatingWell",
+      "description": "Does bedtime affect blood pressure? Experts explain how sleep timing, consistency and duration may influence heart health, plus tips for better sleep.",
+      "url": "https://www.eatingwell.com/when-to-go-to-bed-for-blood-pressure-12202612",
+      "urlToImage": "https://www.eatingwell.com/thmb/fw2UJCctXizWC8ldDWzeZZu2ooI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/The-Best-Time-to-Go-to-Bed-to-Improve-High-Blood-Pressure-2b94a70dd48a4bbe8fee4d4132d3bd23.jpg",
+      "publishedAt": "2026-11-03T03:00:00Z",
+      "content": "High blood pressure is one of the most preventable risk factors for heart disease and death, both in the United States and worldwide. Yet nearly half of U.S. adults have high blood pressure, and many… [+7531 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Fox News",
+      "title": "Florida battles largest dengue fever outbreak in decades with hundreds infected - New York Post",
+      "description": "The locally acquired infections are separate from more than 300 travel-associated dengue cases reported in Florida this year.",
+      "url": "https://www.foxnews.com/health/dangerous-mosquito-borne-virus-surges-popular-us-state-cases-reach-highest-levels-decades",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/147327682.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-11-03T01:05:00Z",
+      "content": "Florida health officials have confirmed 485 locally acquired cases of dengue fever this year, as the state grapples with its largest outbreak in decades.\r\nBetween Oct. 18 and Oct. 24, state surveilla… [+3533 chars]"
     },
     {
       "source": {
@@ -109,6 +135,19 @@
     {
       "source": {
         "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "Krystal Kasal",
+      "title": "According to science, you may be more likely to gain respect and status by helping others - Phys.org",
+      "description": "Human intelligence is still a bit of an enigma. Researchers have some ideas about why advanced intelligence evolved in humans, but they have not come to a conclusive answer. One prominent idea is that intelligence serves a social function. In their new study,…",
+      "url": "https://phys.org/news/2026-11-science-gain-respect-status.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/helping-someone-at-wor.jpg",
+      "publishedAt": "2026-11-02T21:10:01Z",
+      "content": "Human intelligence is still a bit of an enigma. Researchers have some ideas about why advanced intelligence evolved in humans, but they have not come to a conclusive answer. One prominent idea is tha… [+7306 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Gizmodo.com"
       },
       "author": "Ed Cara",
@@ -121,16 +160,16 @@
     },
     {
       "source": {
-        "id": "fox-news",
-        "name": "Fox News"
+        "id": null,
+        "name": "Umn.edu"
       },
       "author": null,
-      "title": "Dangerous mosquito-borne virus surges in popular US state as cases reach highest levels in decades - Fox News",
-      "description": "Florida's dengue fever outbreak has reached 485 locally acquired cases, with Tampa Bay accounting for 95% of infections and emergency declarations issued.",
-      "url": "https://www.foxnews.com/health/dangerous-mosquito-borne-virus-surges-popular-us-state-cases-reach-highest-levels-decades",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/dengue_fever_spraying_001.jpg",
-      "publishedAt": "2026-11-02T20:17:55Z",
-      "content": "Florida health officials have confirmed 485 locally acquired cases of dengue fever this year, as the state grapples with its largest outbreak in decades.\r\nBetween Oct. 18 and Oct. 24, state surveilla… [+3572 chars]"
+      "title": "‘Shocking and eye-opening’: Mom who lost young daughter to flu hopes others choose vaccination - CIDRAP",
+      "description": null,
+      "url": "https://www.cidrap.umn.edu/influenza-general/shocking-and-eye-opening-mom-who-lost-young-daughter-flu-hopes-others-choose",
+      "urlToImage": "https://www.cidrap.umn.edu/sites/default/files/styles/layout_large/public/article/IMG_8425.JPG?h=506ac231&itok=eV-7GddJ",
+      "publishedAt": "2026-11-02T20:13:28Z",
+      "content": "When Cayden Smith, age 3, developed a low-grade fever and congestion one Thursday evening in December 2014, her family first thought it was a cold. The following day, they visited an urgent-care cent… [+3526 chars]"
     },
     {
       "source": {
@@ -173,6 +212,19 @@
     },
     {
       "source": {
+        "id": "time",
+        "name": "Time"
+      },
+      "author": "Dominique Mosbergen",
+      "title": "The Surprising Link Between Sunlight and Blood Sugar - Yahoo Health",
+      "description": "Emerging research suggests a little-known benefit to getting more sun.",
+      "url": "https://time.com/article/2026/11/02/how-sunlight-may-affect-blood-sugar/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/9c56f48705211f9ce786c49674042fba0a116acef4b84a4e779a39818dc7e261/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftime_72%2F53e54cc94390cc6c19ac26151551b239.jpg",
+      "publishedAt": "2026-11-02T19:14:05Z",
+      "content": "Now that clocks have fallen back, many Americans face a dreary daily reality: finishing the workday after the sun has set. That could be problematic for health, since sunlight benefits us in many way… [+6018 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "Eatingwell.com"
       },
@@ -183,6 +235,19 @@
       "urlToImage": "https://www.eatingwell.com/thmb/zpfok39aSfERP8K7_irW2khQDjM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/EWL-Spicy-Chicken-Cabbage-Stir-Fry-1x1-088_preview_maxWidth_4000_maxHeight_4000_ppi_300_quality_100-a60f25c9e97d4608abf0df9da1af03eb.jpg",
       "publishedAt": "2026-11-02T19:00:00Z",
       "content": "Maintaining healthy blood sugar levels has just become easier with these delicious and nourishing recipes. From a variety of dinners, lunches and breakfasts, this list features dishes that you can in… [+5169 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Mary Sue"
+      },
+      "author": "Kelsey Knowles",
+      "title": "Woman in a fender bender reportedly cried over missing her hair appointment, then told the other driver ‘you scare me’ - The Mary Sue",
+      "description": "A woman in a fender bender went viral for crying over a hair appointment, refusing to give insurance details.",
+      "url": "https://www.themarysue.com/woman-in-a-fender-bender-reportedly-cried-over-missing-her-hair-appointment-then-told-the-other-driver-you-scare-me/",
+      "urlToImage": "https://www.themarysue.com/wp-content/uploads/2026/11/a-woman-wearing-glasses-and-a-woman-in-her-car-with-the-window-down.jpg?fit=1280%2C720",
+      "publishedAt": "2026-11-02T18:45:00Z",
+      "content": "Minor crashes often turn into viral moments on TikTok, as seen in an Arizona fender bender outside a Krispy Kreme. A video shows a woman crying after a fender bender because she feared missing her ha… [+2946 chars]"
     },
     {
       "source": {
@@ -225,6 +290,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Sarah Chellappa",
+      "title": "How your body clock affects your mental health and ways to keep it in sync - The Conversation",
+      "description": "Research shows that disrupted body clocks can affect mood. A circadian rhythms researcher explains how sleep, light and meal timing influence mental health.",
+      "url": "https://theconversation.com/how-your-body-clock-affects-your-mental-health-and-ways-to-keep-it-in-sync-294970",
+      "urlToImage": "https://images.theconversation.com/files/769244/original/file-20261030-64-duuw4y.jpg?ixlib=rb-4.1.1&rect=0%2C561%2C6720%2C3360&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-11-02T16:17:48Z",
+      "content": "Ever wondered why a bad nights sleep can leave you irritable, anxious or sad? Poor sleep affects our emotions, but its timing also plays a role.\r\nOur circadian rhythms are nearly 24-hour cycles that … [+6946 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -252,28 +330,28 @@
     {
       "source": {
         "id": null,
-        "name": "Verywellhealth.com"
+        "name": "Health.com"
       },
-      "author": "https://www.facebook.com/verywell",
-      "title": "A PharmD Explains How Long It Takes Vitamin D Supplements to Work - Verywell Health",
-      "description": "Vitamin D supplements may begin working within weeks, while blood levels can take months to change. Learn what affects your timeline and when to retest.",
-      "url": "https://www.verywellhealth.com/how-long-it-takes-vitamin-d-supplements-to-work-12153597",
-      "urlToImage": "https://www.verywellhealth.com/thmb/aTjyta1_qdgZNbjxG-CrIUUcSVo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/VWH-GettyImages-2199350463-187c2c664ab9427da443b65fa33421d6.jpg",
-      "publishedAt": "2026-11-02T14:40:22Z",
-      "content": "<ul><li>Vitamin D supplements may start working in days, but full effects can take weeks or months.</li><li>If you are treated for vitamin D deficiency, a repeat blood test may be needed after eight … [+3622 chars]"
+      "author": "https://www.facebook.com/Health/",
+      "title": "6 High-Protein Foods for Healthy Cholesterol, Recommended by a Dietitian - Health.com",
+      "description": "From beans and tofu to walnuts and yogurt, these six protein-rich foods may help lower cholesterol and support heart health.",
+      "url": "https://www.health.com/high-protein-foods-for-lower-cholesterol-12150539",
+      "urlToImage": "https://www.health.com/thmb/lkswa-Qwz5SGO3DVEmBTB3orxwc=/6240x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-GettyImages-2294285747-a94df8fb91f2408b863c63fcff211fad.jpg",
+      "publishedAt": "2026-11-02T14:35:00Z",
+      "content": "You probably know that protein is key for building musclebut certain protein-rich foods, such as beans, soy, nuts, and salmon, also provide certain nutrients that can help support healthier cholester… [+6102 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Stanford.edu"
+        "name": "Who13.com"
       },
-      "author": null,
-      "title": "Stanford Digital Brain Project to model the human brain - Stanford Report",
-      "description": "A university-wide project aims to predict brain dynamics and accelerate treatments for brain disorders.",
-      "url": "https://news.stanford.edu/stories/2026/11/stanford-digital-brain-project",
-      "urlToImage": "https://news.stanford.edu/__data/assets/image/0025/194452/Postdoc-Alexandria_feat.jpg",
-      "publishedAt": "2026-11-02T14:13:18Z",
-      "content": "The Wu Tsai Neurosciences Institute is launching the Stanford Digital Brain Project, an ambitious new research effort to develop predictive computational models of the human brain.\r\nLaunched with lea… [+12617 chars]"
+      "author": "WHO13.com",
+      "title": "Iowa’s measles outbreak continues to grow - WHO13.com",
+      "description": null,
+      "url": "https://who13.com/news/iowa-news/iowas-measles-outbreak-continues-to-grow/",
+      "urlToImage": null,
+      "publishedAt": "2026-11-02T14:20:20Z",
+      "content": null
     },
     {
       "source": {
@@ -326,19 +404,6 @@
       "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/couple-running-together-healthy-living.jpg",
       "publishedAt": "2026-11-02T12:00:09Z",
       "content": "A strict routine combining a low-calorie diet with supervised strength and aerobic training helped more than half of younger adults reverse type 2 diabetes within six months, according to a study pub… [+5331 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Patrice Peck",
-      "title": "Exclusive | Molly Sims reveals supplement she ‘lives and dies’ by — and one of ‘biggest things that helped’ through perimenopause - New York Post",
-      "description": "The model and entrepreneur dishes on the mattress she loves, the daily drink she swears by and more.",
-      "url": "https://nypost.com/2026/11/02/health/molly-sims-perimenopause-routine-includes-supplements-and-pilates/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/10/newspress-collage-drn7y6846-1793403909859.jpg?quality=75&strip=all&1793389540&w=1200",
-      "publishedAt": "2026-11-02T12:00:00Z",
-      "content": "Hot flashes, night sweats and vaginal dryness tend to get top billing when it comes to menopause.\r\nBut the hormonal rollercoaster can wreak havoc well beyond the physical messing with a woman’s menta… [+4857 chars]"
     },
     {
       "source": {
@@ -433,58 +498,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Vogue"
-      },
-      "author": "Marie Bladt, Anna Cafolla",
-      "title": "Lymphatic Drainage: 4 Simple Habits to Add to Your Daily Routine - Vogue",
-      "description": "From deep breathing to rebounding, experts explain the small daily habits that can help support healthy lymphatic flow—and why it matters beyond depuffing.",
-      "url": "https://www.vogue.com/article/lymphatic-drainage-daily-routine-habits",
-      "urlToImage": "https://assets.vogue.com/photos/6ae7b5c7a415c59085fa22c5/16:9/w_1280,c_limit/2228705406",
-      "publishedAt": "2026-11-01T21:59:02Z",
-      "content": "Lymphatic drainage has become something of a wellness obsession. From sculpting facial massages to body brushes and compression boots, there are seemingly endless ways to coax away puffiness and enco… [+2498 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Channel3000.com - WISC-TV3"
-      },
-      "author": "Samantha Calderon",
-      "title": "Wisconsin measles cases near 400 - Channel 3000",
-      "description": "MADISON, Wis. — Wisconsin is approaching 400 measles cases as the outbreak continues to grow, according to a Wisconsin Department of Health Services tracker last updated Friday.",
-      "url": "https://www.channel3000.com/news/wisconsin-measles-cases-near-400/article_c6c4c9b4-5d3a-4814-b41e-01243b410c05.html",
-      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/channel3000.com/content/tncms/assets/v3/editorial/2/c6/2c66e73a-209f-5010-adff-84e50aba15d8/6ae0b5c471eb8.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2026-11-01T21:32:00Z",
-      "content": "MADISON, Wis. Wisconsin is approaching 400 measles cases as the outbreak continues to grow, according to a Wisconsin Department of Health Services tracker last updated Friday.\r\nThe tracker listed 392… [+1578 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "KSL.com"
-      },
-      "author": "Staff",
-      "title": "Preclinical research at BYU may lead to development of low-cost immunotherapy - KSL News",
-      "description": "Researchers at BYU are investigating a new immunotechnology called MOTO-CAR, which can genetically engineer immune cells that penetrate solid tumors and attacks the tumor cells.",
-      "url": "https://www.ksl.com/article/51642165/preclinical-research-at-byu-may-lead-to-development-of-low-cost-immunotherapy",
-      "urlToImage": "https://img.ksl.com/slc/3207/320727/32072712.jpeg?filter=kslv2/responsive_story_lg",
-      "publishedAt": "2026-11-01T20:35:00Z",
-      "content": "PROVO Researchers at Brigham Young University are developing new technology that might help the body fight cancer.\r\nThe technology, called MOTO-CAR, genetically engineers immune cells to recognize an… [+748 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Rachel Sacks",
-      "title": "Common diabetes medications may trigger side effects that require even more drugs to fix: study - New York Post",
-      "description": "Diabetics could be in for a rude awakening as research found common medications are setting off a cascade of unnecessary additional prescriptions.",
-      "url": "https://nypost.com/2026/11/01/health/diabetes-medications-may-trigger-side-effects-that-require-more-drugs/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/147216397.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-11-01T20:09:00Z",
-      "content": "Diabetics could be in for some bad news.\r\nAll medications come with side effects, from benign to fatal, which can affect a user’s health journey and whether they need additional medications to manage… [+3063 chars]"
-    },
-    {
-      "source": {
         "id": "fox-news",
         "name": "Fox News"
       },
@@ -537,6 +550,19 @@
     },
     {
       "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Marta Zaraaska | Knowable Magazine",
+      "title": "Can odors from our bodies signal Alzheimer’s, cancer and other diseases? - The Washington Post",
+      "description": "For years, scientists have explored how the molecules that waft from our breath or skin might be harnessed to sniff out a variety of ailments. Advancements are turning that potential into reality.",
+      "url": "https://www.washingtonpost.com/health/2026/11/01/can-odors-our-bodies-signal-parkinsons-cancer-other-disease/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/BQDCPQDTS7XSNB33EFAFOUCSEA.jpg&w=1440",
+      "publishedAt": "2026-11-01T17:00:00Z",
+      "content": "When social anthropologist Hanna Marie Ihlebæk interviewed nurses at a Norwegian cancer ward for her PhD dissertation, she was surprised to learn that many of them relied on their sense of smell in t… [+268 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "Slate Magazine"
       },
@@ -551,6 +577,19 @@
     {
       "source": {
         "id": null,
+        "name": "Eatthis.com"
+      },
+      "author": "Alexa Mellardo",
+      "title": "5 Daily Exercises Women Over 65 Need to Keep Their Muscles Strong - Eat This Not That",
+      "description": "Five daily exercises for women over 65 to help preserve muscle, with expert tips from an ACSM-certified trainer.",
+      "url": "https://www.eatthis.com/daily-exercises-women-over-65-keep-muscles-strong/",
+      "urlToImage": "https://www.eatthis.com/wp-content/uploads/sites/4/2026/10/middle-aged-woman-high-knee-marching-exercise_2549639141.jpg?quality=82&strip=all",
+      "publishedAt": "2026-11-01T14:04:17Z",
+      "content": "These daily moves can help you build and preserve muscle mass.\r\nFor many women, turning 65 brings on an exciting new chapter of life. It may include retirement, collecting Social Security, or being a… [+4011 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Real Simple"
       },
       "author": "https://www.facebook.com/realsimple/",
@@ -560,19 +599,6 @@
       "urlToImage": "https://www.realsimple.com/thmb/XlxzdvuKkNFeAwyYmB-uRvcbrBw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/OneHabitaLongevityExpertNeverSkipsforHealthyAging-2fc18100567e4e0eabfe42c4193d9a16.jpg",
       "publishedAt": "2026-11-01T13:40:00Z",
       "content": "Longevity is having yet another moment, to put it mildly. There are supplements, sleep trackers, cold plunges, carefully timed meals, and enough anti-aging advice to turn healthy living into a second… [+3731 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Medical Xpress"
-      },
-      "author": null,
-      "title": "Newly discovered pathway fuels production of cancer-driving proteins - Medical Xpress",
-      "description": "A previously unknown mechanism helps cancer cells selectively produce proteins that drive tumor growth—such as KRAS—in common cancers, according to new research from The University of Texas MD Anderson Cancer Center. The findings reveal that targeting a speci…",
-      "url": "https://medicalxpress.com/news/2026-10-newly-pathway-fuels-production-cancer.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/newly-discovered-pathw-1.jpg",
-      "publishedAt": "2026-11-01T13:00:01Z",
-      "content": "A previously unknown mechanism helps cancer cells selectively produce proteins that drive tumor growthsuch as KRASin common cancers, according to new research from The University of Texas MD Anderson… [+3917 chars]"
     },
     {
       "source": {
@@ -638,19 +664,6 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6JMRSCVP5MWXWDXV3VYCH64FN4_size-normalized.jpg&w=1440",
       "publishedAt": "2026-11-01T10:04:38Z",
       "content": "The rise of colorectal cancer in patients under 50 continues to stump researchers, who are still trying to work out why, in younger people, the cancer is more aggressive and carries a worse prognosis… [+35 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Marta Zaraaska , Special to The Washington Post",
-      "title": "Can odors from our bodies signal Alzheimer's, cancer and other diseases? - Yahoo",
-      "description": "When social anthropologist Hanna Marie Ihlebæk interviewed nurses at a Norwegian cancer ward for her PhD dissertation, she was surprised to learn that many o...",
-      "url": "https://www.yahoo.com/news/science/articles/odors-bodies-signal-alzheimer-cancer-100000894.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/290f2db8d1e32655773d598a2a884c5adb73d265bc928e4aceb7084c35a5d1c9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Fd68ff83a-6287-44fe-9ebc-f975e0241a03",
-      "publishedAt": "2026-11-01T10:00:00Z",
-      "content": "When social anthropologist Hanna Marie Ihlebæk interviewed nurses at a Norwegian cancer ward for her PhD dissertation, she was surprised to learn that many of them relied on their sense of smell in t… [+10220 chars]"
     },
     {
       "source": {
@@ -784,19 +797,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "404media.co"
-      },
-      "author": "Becky Ferreira",
-      "title": "Scientists Analyzed Thousands of Psychedelic Trips. They Found Something Disturbing - 404 Media",
-      "description": "A newly released database of more than 25,000 anonymized calls from the Fireside Project’s Psychedelic Support Line opens a rare window into psychedelic experiences outside of clinical settings.",
-      "url": "https://www.404media.co/fireside-project-psychedelic-support-line-study/",
-      "urlToImage": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/data-src-image-9ac36378-94a9-40de-a7b3-3b415c2e35f0-1-1.jpeg",
-      "publishedAt": "2026-10-30T18:04:47Z",
-      "content": "Researchers have amassed a trove of more than 25,000 calls to a support hotline for people during and after psychedelic trips, making it the largest dataset of psychedelic support interactions ever a… [+6808 chars]"
-    },
-    {
-      "source": {
         "id": "the-washington-post",
         "name": "The Washington Post"
       },
@@ -846,6 +846,19 @@
       "urlToImage": "https://hermes.media.static.aol.com/media/2026/10/30/b48fe56d-8432-313c-9f51-6a9b9e83c045/6557ec13-68f4-47a7-ac37-7da7d84c0ed4.jpg",
       "publishedAt": "2026-10-30T16:25:00Z",
       "content": "Pancreatic cancer doesnt come up as often as breast, colon or lung cancer, but its one of the most serious diagnoses a person can face. Its often called a silent cancer because it rarely causes notic… [+5026 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Margaret Hetherman",
+      "title": "A new test could make it easier to detect one of the most common cancers in women - The Washington Post",
+      "description": "The development of a less invasive procedure comes as the death rate from endometrial cancer is increasing.",
+      "url": "https://www.washingtonpost.com/health/2026/10/30/with-simple-swab-testing-gentler-way-detect-endometrial-cancer/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KNAUHQ2IQPTXQKFAW74U6JNDTU_size-normalized.jpg&w=1440",
+      "publishedAt": "2026-10-30T16:00:00Z",
+      "content": "For women experiencing abnormal vaginal bleeding, ruling out endometrial cancer is critical. Doctors have long relied primarily on transvaginal ultrasounds to examine the thickness of the uterine lin… [+128 chars]"
     },
     {
       "source": {
@@ -953,16 +966,16 @@
     },
     {
       "source": {
-        "id": "buzzfeed",
-        "name": "Buzzfeed"
+        "id": null,
+        "name": "Nature.com"
       },
-      "author": "Lily Grossinger",
-      "title": "\"I Didn't Know That Was A Thing\": 31 Unexpected Side Effects Of GLP-1s That Have Nothing To Do With Weight Loss - BuzzFeed",
-      "description": "\"I still don’t see 'me' in the mirror.\"",
-      "url": "https://www.buzzfeed.com/lily_grossinger/glp-1-unexpected-emotional-side-effects",
-      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/26/20/thumb/OaFcvQC9c.jpg?crop=2999:1570;0,0%26downsize=1250:*",
-      "publishedAt": "2026-10-29T10:01:02Z",
-      "content": "Anonymous, 68, F, CA, USA"
+      "author": null,
+      "title": "Perinatal elimination of genetically aberrant human cortical neurons - Nature",
+      "description": "Single-neuron sequencing shows that widespread genomic abnormalities are common prenatally but largely eliminated around birth, indicating developmental genome quality control in human neurons.",
+      "url": "https://www.nature.com/articles/s41586-026-11190-3",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11190-3/MediaObjects/41586_2026_11190_Fig1_HTML.png",
+      "publishedAt": "2026-10-28T22:44:15Z",
+      "content": "Isolation of neuronal nuclei\r\nHuman prenatal brain tissue was obtained from the NIH NeuroBioBank. Tissue from the frontoparietal lobes was sectioned into 40m sections with a cryostat. The cortical pl… [+24884 chars]"
     },
     {
       "source": {
@@ -989,6 +1002,19 @@
       "urlToImage": "https://patch.com/img/cdn20/shutterstock/23352305/20261028/030116/styles/patch_image/public/shutterstock-377672008___28150100487.jpg",
       "publishedAt": "2026-10-28T19:01:17Z",
       "content": "Princeton Elementary will remain closed for the rest of the week, according to officials with the Prince George's County Public Schools, so that the building can be deep cleaned and sanitized.\r\nSo fa… [+102 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Men's Journal"
+      },
+      "author": "Kelsey Kryger, CPT",
+      "title": "Routine CT Scans May Detect Signs of Pancreatic Cancer Years Before Diagnosis - AOL.com",
+      "description": "The findings may help researchers develop better tools for identifying people at higher risk.",
+      "url": "https://www.mensjournal.com/health/study-changes-in-body-composition-found-on-ct-scans-identify-pancreatic-cancer-risk",
+      "urlToImage": "https://hermes.media.static.aol.com/media/2026/10/28/c327cc94-0289-3f36-bd39-6a26058e79ae/40bbadac-baf8-44d4-b1d1-dbbbe8290fdf.jpg",
+      "publishedAt": "2026-10-28T17:29:16Z",
+      "content": "In the United States, an estimated 67,530 new cases of pancreatic cancer and 52,740 deaths are projected for 2026. The disease is often diagnosed in its later stages, when treatment becomes more diff… [+3260 chars]"
     },
     {
       "source": {
