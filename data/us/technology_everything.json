@@ -6,9 +6,22 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-04T11:38:09.710635+00:00",
+  "fetched_at": "2026-11-04T18:54:12.150365+00:00",
   "articles_count": 31,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "David McCabe and Theodore Schleifer",
+      "title": "Sherrod Brown’s Win in Ohio Is a Rare Loss for Crypto Under Trump",
+      "description": "Fairshake, the major industry super PAC, spent $46 million on ads against the Democrat, Sherrod Brown, who won.",
+      "url": "https://www.nytimes.com/2026/11/04/technology/sherrod-brown-ohio-crypto-trump.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/04/multimedia/04biz-ohio-crypto-fbph/04biz-ohio-crypto-fbph-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-04T18:12:27Z",
+      "content": "Fairshake, the major industry super PAC, spent $46 million on ads against the Democrat, Sherrod Brown, who won."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -45,7 +58,7 @@
       "description": "Mentions of “cheat,” “steal,” “rig” and similar terms spiked on X this morning as voting began.",
       "url": "https://www.nytimes.com/2026/11/03/technology/midterm-elections-voter-fraud-claims.html",
       "urlToImage": null,
-      "publishedAt": "2026-11-03T19:54:29Z",
+      "publishedAt": "2026-11-03T19:54:30Z",
       "content": "Mentions of “cheat,” “steal,” “rig” and similar terms spiked on X this morning as voting began."
     },
     {
@@ -110,7 +123,7 @@
       "description": "The company went on a deal spree with tech giants, former crypto miners and others to gain computing power to further its artificial intelligence ambitions.",
       "url": "https://www.nytimes.com/2026/11/02/technology/anthropic-ai-computing-power.html",
       "urlToImage": "https://static01.nyt.com/images/2026/10/29/business/00anthropic-compute/00anthropic-compute-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-02T18:01:24Z",
+      "publishedAt": "2026-11-02T18:01:25Z",
       "content": "The company went on a deal spree with tech giants, former crypto miners and others to gain computing power to further its artificial intelligence ambitions."
     },
     {
@@ -398,19 +411,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/28/multimedia/28biz-google-earnings-pcmt/28biz-google-earnings-pcmt-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-29T01:47:40Z",
       "content": "The company has been spending relentlessly to build A.I. and said it would increase those investments next year. Profit dropped because of changes to the value of its investments."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Kalley Huang and Brian X. Chen",
-      "title": "Apple Unveils Its First Touch-Screen MacBook Pro",
-      "description": "Steve Jobs and Tim Cook both dismissed the idea, but Apple’s new chief executive is reimagining some of the company’s most important products.",
-      "url": "https://www.nytimes.com/2026/10/28/technology/apple-touch-screen-macbook-pro.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/28/multimedia/APPLE-1-lcgk/APPLE-1-lcgk-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-28T18:30:51Z",
-      "content": "Steve Jobs and Tim Cook both dismissed the idea, but Apple’s new chief executive is reimagining some of the company’s most important products."
     }
   ],
   "query": "technology AI software startup"

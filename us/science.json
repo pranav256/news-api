@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 86,
+  "totalResults": 81,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Scott Dance",
+      "title": "The Southwest Is Parched. Can the Recent Floodwaters Quench It?",
+      "description": "A series of storms has added to reservoirs in the Colorado River basin, but the long-term water outlook remains bleak.",
+      "url": "https://www.nytimes.com/2026/11/03/climate/floods-arizona-colorado-river-water.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/03/multimedia/03cli-floods-01-flkh/03cli-floods-01-flkh-mediumSquareAt3X-v2.jpg",
+      "publishedAt": "2026-11-04T17:01:11Z",
+      "content": "A series of storms has added to reservoirs in the Colorado River basin, but the long-term water outlook remains bleak."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -12,7 +25,7 @@
       "description": "Kseniia Petrova, a researcher at Harvard, has argued that she was vindictively prosecuted after her arrest in 2025.",
       "url": "https://www.nytimes.com/2026/11/03/science/petrova-russian-scientist-charges-frog-embryo.html",
       "urlToImage": "https://static01.nyt.com/images/2026/11/03/multimedia/03SCI-PETROVA-DISMISS-topart-01-whtj/03SCI-PETROVA-DISMISS-topart-01-whtj-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-04T03:44:17Z",
+      "publishedAt": "2026-11-04T03:44:18Z",
       "content": "Kseniia Petrova, a researcher at Harvard, has argued that she was vindictively prosecuted after her arrest in 2025."
     },
     {
@@ -27,19 +40,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/03/multimedia/03sci-nasa-swift-cqfk/03sci-nasa-swift-cqfk-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-03T22:37:02Z",
       "content": "The space agency estimates that there is a one-in-2,100 chance that debris from the Neil Gehrels Swift Observatory could injure someone on the ground."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Scott Dance",
-      "title": "Why Floodwaters Won’t Solve the Southwestern Water Crisis",
-      "description": "A series of storms has added to reservoirs in the Colorado River basin, but the long-term water outlook remains bleak.",
-      "url": "https://www.nytimes.com/2026/11/03/climate/floods-arizona-colorado-river-water.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/03/multimedia/03cli-floods-01-flkh/03cli-floods-01-flkh-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-03T21:06:37Z",
-      "content": "A series of storms has added to reservoirs in the Colorado River basin, but the long-term water outlook remains bleak."
     },
     {
       "source": {
@@ -82,6 +82,71 @@
     },
     {
       "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Taylor Nicioli",
+      "title": "Scientists say they’ve found rare evidence of blood cells in a fossil. Not everyone is convinced - CNN",
+      "description": "A new study found chemical evidence of red blood cells in a 115 million-year-old dinosaur bone, offering new clues about how biological material can survive.",
+      "url": "https://www.cnn.com/2026/11/03/science/red-blood-cells-dinosaur-bone",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/p1012262.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-11-03T14:09:06Z",
+      "content": "Traces of prehistoric blood could reveal unprecedented clues about dinosaur biology, but theyve been notoriously difficult to confirm. Now, researchers studying a 115 million-year-old dinosaur bone s… [+7812 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Popular Mechanics"
+      },
+      "author": "Darren Orf",
+      "title": "A Startup Wants to Put 50,000 Mirrors in Space. The Goal: Make Sunlight Available at Night. - Yahoo",
+      "description": "For $5,000 an hour, Reflect Orbital will bring you the power of the sun no matter what time of night it is. Astronomers are sounding the alarm.",
+      "url": "https://www.popularmechanics.com/space/satellites/a74307577/reflect-orbital/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/a9edf0afea2a960fe62a3e82c023fdfc6b13c99b0242e95384bcfad5b6300f79/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpopular_mechanics_642%2F138c981557d0fcb8a3f334074722d003.jpg",
+      "publishedAt": "2026-11-03T13:30:00Z",
+      "content": "With the launch of Sputnik in October 1957, humanity officially entered the satellite era, and in the ensuing decades, the thousands of satellites sent into space have drastically changed life on the… [+4735 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Eric Lagatta",
+      "title": "Aging NASA telescope crashing to Earth after rescue mission fails - USA Today",
+      "description": "The Swift Observatory is expected in the coming days to plummet back to Earth, with some it potentially surviving the fiery descent. What to know.",
+      "url": "https://www.usatoday.com/story/tech/space/2026/11/02/nasa-swift-observatory-crashing-earth-reentry/92560134007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/02/PBRE/92560357007-swift.jpg?crop=846,475,x0,y0&width=846&height=475&format=pjpg&auto=webp",
+      "publishedAt": "2026-11-03T13:02:00Z",
+      "content": "<ul><li>NASA's aging Swift Observatory is expected to fall back to Earth after more than two decades in space.</li><li>A first-of-its-kind commercial mission to rescue the telescope and boost it to a… [+5791 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "All 5 genetic “letters” of DNA and RNA discovered in a 4.5-billion-year-old asteroid - Science Daily",
+      "description": "Scientists have discovered all five essential nucleobases used in DNA and RNA in pristine samples from asteroid Ryugu, revealing that key ingredients for life existed in space billions of years ago. The remarkable finding adds to growing evidence from other a…",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261102075903.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/ryugu-sample-in-return-capsule.webp",
+      "publishedAt": "2026-11-03T11:00:02Z",
+      "content": "A new study reveals all five fundamental nucleobases – the molecular “letters” of life – have been detected in samples from the asteroid Ryugu.Asteroid particles offer a glimpse into the chemical ing… [+3859 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Joe Rao",
+      "title": "Why does Betelgeuse keep fading? The mystery of Orion's giant star - Space",
+      "description": "From stellar pulsations to giant dust clouds and a mysterious companion, astronomers are piecing together why Betelguese keeps changing brightness.",
+      "url": "https://www.space.com/stargazing/why-does-betelgeuse-keep-fading-the-mystery-of-orions-giant-star",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/zRZUeNVZ8RwJC45UUuKY95-1782-80.jpg",
+      "publishedAt": "2026-11-03T11:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -92,6 +157,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/03/multimedia/03SCI-NEANDERTHAL-WOOD-01-kglw/03SCI-NEANDERTHAL-WOOD-01-kglw-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-03T10:02:47Z",
       "content": "In one case, 75,000-year-old bones reveal what may be the earliest identifiable victim of death by wooden spear."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The-european.eu"
+      },
+      "author": "John E. Kaye",
+      "title": "Scientists close in on mysterious ‘zeptoverse’ after 40-year hunt for ultra-rare particle - The European Magazine",
+      "description": "Cambridge physicists detect evidence of an extraordinarily rare particle decay at CERN, opening new possibilities for exploring dark matter and the mysterious zeptoverse.",
+      "url": "https://the-european.eu/story-68550/scientists-close-in-on-mysterious-zeptoverse-after-40-year-hunt-for-ultra-rare-particle.html",
+      "urlToImage": "https://the-european.eu/wp-content/uploads/Views_of_the_LHC_tunnel_sector_3-4_tirage_2-scaled.webp",
+      "publishedAt": "2026-11-03T09:50:17Z",
+      "content": null
     },
     {
       "source": {
@@ -148,6 +226,19 @@
     {
       "source": {
         "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Impact of deep-sea mining on seafloor ecosystem still evident 44 years later - Phys.org",
+      "description": "Little is known about the long-term effects of deep-sea mining on the organic matter that supports life on the seafloor. However, as interest in mining the deep sea for rare metals grows, there is concern that disturbing the seabed could affect the ecosystems…",
+      "url": "https://phys.org/news/2026-11-impact-deep-sea-seafloor-ecosystem.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/impact-of-deep-sea-min.jpg",
+      "publishedAt": "2026-11-02T22:20:06Z",
+      "content": "Little is known about the long-term effects of deep-sea mining on the organic matter that supports life on the seafloor. However, as interest in mining the deep sea for rare metals grows, there is co… [+4521 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "BGR"
       },
       "author": "Ian Garland",
@@ -174,6 +265,19 @@
     {
       "source": {
         "id": null,
+        "name": "Calgary Herald"
+      },
+      "author": "Bill Kaufmann",
+      "title": "U of C researchers confirm meteoric aging among astronauts - Calgary Herald",
+      "description": "U of C academics have firmed up the science of astronaut aging, concluding they're 20 years older with every six months spent in space.",
+      "url": "https://calgaryherald.com/news/u-of-c-researchers-confirm-meteoric-aging-among-astronauts",
+      "urlToImage": "https://smartcdn.gprod.postmedia.digital/calgaryherald/wp-content/uploads/2026/11/astronaut.jpg",
+      "publishedAt": "2026-11-02T20:39:31Z",
+      "content": "University of Calgary researchers have confirmed more than a few wrinkles in the science of astronaut aging while adding some new ones.\r\nTHIS CONTENT IS RESERVED FOR SUBSCRIBERS ONLY\r\nSubscribe now t… [+4964 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Aps.org"
       },
       "author": null,
@@ -183,19 +287,6 @@
       "urlToImage": "https://physics.aps.org/assets/32c8b70d-ca9c-4cd3-822b-49c7290d5750/e146_2_thumb.png",
       "publishedAt": "2026-11-02T20:06:59Z",
       "content": "Figure 1: Galactic history goes back billions of years. When galaxies merge, their supermassive black holes should form binaries that emit gravitational waves. These waves are expected to be observab… [+8857 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Michael Irving",
-      "title": "Dinosaur Blood Cells Detected in 115-Million-Year-Old Fossil - ScienceAlert",
-      "description": "We've found plenty of dinosaur bones.",
-      "url": "https://www.sciencealert.com/dinosaur-blood-cells-detected-in-115-million-year-old-fossil",
-      "urlToImage": "https://www.sciencealert.com/images/2026/11/DinoRedBlood-1-1200x675.png",
-      "publishedAt": "2026-11-02T20:02:36Z",
-      "content": "We've found plenty of dinosaur bones. We've found their teeth, skin, feathers, eggs, and even their poop.\r\nAnd now, we've found dinosaur blood.\r\nA team led by scientists at Curtin University in Austr… [+5828 chars]"
     },
     {
       "source": {
@@ -212,16 +303,16 @@
     },
     {
       "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
+        "id": null,
+        "name": "Phys.Org"
       },
       "author": null,
-      "title": "An aging 1.5-ton space telescope is plunging back to Earth. NASA has calculated the risk of harm to people. - CBS News",
-      "description": "The Swift Observatory is barely clinging to space after a failed rescue effort left it tottering lower and lower.",
-      "url": "https://www.cbsnews.com/news/nasa-telescope-swift-observatory-plunging-back-to-earth/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/02/fbcc0008-f8f4-459d-b34b-3af63b2fbd9b/thumbnail/1200x630/37d6f9be233f356b1a623629316a25f2/swift-cq5dam-thumbnail-319-319.png",
-      "publishedAt": "2026-11-02T19:00:07Z",
-      "content": "An aging NASA telescope is barely clinging to space after a failed rescue effort left it tottering lower and lower. The space agency said Monday it predicts the Swift Observatory will likely come cra… [+3093 chars]"
+      "title": "Predicting jumping genes' roles in changing genome size - Phys.org",
+      "description": "A genome contains all of the DNA of every living organism, but its contents don't stop there—most of these structures also contain snippets of DNA that can copy and paste themselves to \"infect\" a genome, expanding its size. Precisely why that happens remains …",
+      "url": "https://phys.org/news/2026-11-genes-roles-genome-size.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/predicting-jumping-gen.jpg",
+      "publishedAt": "2026-11-02T19:20:14Z",
+      "content": "A genome contains all of the DNA of every living organism, but its contents don't stop theremost of these structures also contain snippets of DNA that can copy and paste themselves to \"infect\" a geno… [+5970 chars]"
     },
     {
       "source": {
@@ -235,19 +326,6 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2026/08/NASA-Art-Voyager-Interstellar-Space-1200x675.jpg",
       "publishedAt": "2026-11-02T18:45:31Z",
       "content": "NASA’s Voyager 1 is on the verge of making history, but the aging spacecraft is having a little trouble keeping in touch with home. Just weeks before becoming the first human-made object to travel a … [+3780 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thetimes.com"
-      },
-      "author": "Adam Vaughan",
-      "title": "Climate scientists want billions to geoengineer the skies - The Times",
-      "description": "From cloud-brightening to sun-dimming, radical solutions are being dreamt up to tackle global warming",
-      "url": "https://www.thetimes.com/uk/environment/article/climate-scientists-global-warming-geoengineer-david-king-t9hg2cvxw",
-      "urlToImage": "https://www.thetimes.com/imageserver/image/37ac3d15-8447-4eb6-b248-bc86060ebe5a.jpg?strip=all&format=webp&crop=4200px%2C2362px%2C0px%2C218px&resize=1200",
-      "publishedAt": "2026-11-02T18:40:00Z",
-      "content": null
     },
     {
       "source": {
@@ -330,6 +408,19 @@
     {
       "source": {
         "id": null,
+        "name": "Iai.tv"
+      },
+      "author": null,
+      "title": "A God's eye view is made impossible by quantum mechanics - IAI TV",
+      "description": "<p><em>Many scientists and philosophers seek to provide an overall account of the world, often described as a God's eye view, that aims to picture how the universe is as a whole. In this piece, theoretical physicist <strong>Eric Cavalcanti</strong> argues tha…",
+      "url": "https://iai.tv/articles/a-gods-eye-view-is-made-impossible-by-quantum-mechanics-auid-3717",
+      "urlToImage": "https://cdn.iai.tv/assets/Uploads/_resampled/FillWzEyODAsNzIwXQ/a-gods-eye-view-is-made-impossible-by-quantum-mechanics-copy2.webp",
+      "publishedAt": "2026-11-02T15:08:07Z",
+      "content": "Many scientists and philosophers seek to provide an overall account of the world, often described as a God's eye view, that aims to picture how the universe is as a whole. In this piece, theoretical … [+3423 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Space.com"
       },
       "author": "Chelsea Gohd",
@@ -384,19 +475,6 @@
         "id": null,
         "name": "Newser"
       },
-      "author": "Polly Davis Doig",
-      "title": "'Hell of a Year': NASA Crew Emerges After 378 Days on 'Mars' - Newser",
-      "description": "NASA's yearlong CHAPEA experiment tested human endurance, communication delays for Red Planet",
-      "url": "https://www.newser.com/story/399207/after-378-days-analog-astronauts-emerge.html",
-      "urlToImage": "https://cdn.newser.com/image/1721668-12-20261102081303.jpeg",
-      "publishedAt": "2026-11-02T13:43:00Z",
-      "content": "NASA just let four \"analog astronauts\" out of a 3D-printed box after more than a year spent pretending they were on Mars. The CHAPEA crew—mission commander Ross Elder, medical officer Ellen Ellis, sc… [+387 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newser"
-      },
       "author": "Arden Dier",
       "title": "NASA Invites You to Join Mission to Saturn Moon - Newser",
       "description": "Public can add names to microchip aboard Dragonfly rotorcraft until Jan. 15",
@@ -404,19 +482,6 @@
       "urlToImage": "https://cdn.newser.com/image/1721649-12-20261102071903.jpeg",
       "publishedAt": "2026-11-02T12:48:00Z",
       "content": "Your name could hitch a ride to one of the solar system's most intriguing worlds. NASA is inviting the public to add their names to a microchip that will fly aboard Dragonfly, an eight-rotor drone sl… [+296 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SciTechDaily"
-      },
-      "author": null,
-      "title": "Scientists Discover That a Giant Bird Thought Extinct for Thousands of Years Never Actually Disappeared - SciTechDaily",
-      "description": "Ancient DNA analysis has challenged a 150-year-old belief about a giant bird thought to have disappeared after the last Ice Age.",
-      "url": "https://scitechdaily.com/scientists-discover-that-a-giant-bird-thought-extinct-for-thousands-of-years-never-actually-disappeared/",
-      "urlToImage": null,
-      "publishedAt": "2026-11-02T12:13:57Z",
-      "content": "The common crane (pictured above) is the same species as a prehistoric giant crane once thought to be extinct, according to new ancient DNA research. Credit: Shutterstock\r\nAncient DNA analysis has ch… [+4287 chars]"
     },
     {
       "source": {
@@ -433,6 +498,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Jess Cockerill",
+      "title": "A Giant Bird Declared Extinct 150 Years Ago Was Hiding in Plain Sight - ScienceAlert",
+      "description": "In 1870, identifying species was a matter of looking closely at their appearance.",
+      "url": "https://www.sciencealert.com/bones-of-an-extinct-giant-crane-named-150-years-ago-turn-out-to-belong-to-a-different-species",
+      "urlToImage": "https://www.sciencealert.com/images/2026/10/GettyImages-2210981337-2560x1440-1.jpg",
+      "publishedAt": "2026-11-02T11:02:36Z",
+      "content": "In 1870, identifying species was a matter of looking closely at their appearance. If two creatures had the same physical features, they must be the same species, scientists thought.\r\nSo when French b… [+3183 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -443,6 +521,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/29/science/00SCI-UNKNOWNS-ANIMALS-promo/00SCI-UNKNOWNS-ANIMALS-legs-mediumSquareAt3X-v2.jpg",
       "publishedAt": "2026-11-02T10:00:21Z",
       "content": "There are more than 1.5 million known zoological species on Earth, with at least as many enigmas. Here are our top 10."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ground.news"
+      },
+      "author": null,
+      "title": "Crew from NASA's simulated Mars mission emerges after 378 days in isolation - Ground News",
+      "description": "The four members of a crew who took part in a simulated mission to Mars have emerged after 378 days in isolation ​at the US space agency's Johnson Space Center in Houston, an endeavor designed to help prepare for a ‌possible future excursion by NASA astronaut…",
+      "url": "https://ground.news/article/crew-from-nasas-simulated-mars-mission-emerges-after-378-days-in-isolation",
+      "urlToImage": null,
+      "publishedAt": "2026-11-02T10:00:00Z",
+      "content": "NASA/James Blair The four-member Crew Health and Performance Exploration Analog (CHAPEA) crew poses outside for the first time in more than a year following the end of their simulated Mars journey on… [+249 chars]"
     },
     {
       "source": {
@@ -482,19 +573,6 @@
       "urlToImage": "https://static.toiimg.com/thumb/msid-135397162,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
       "publishedAt": "2026-11-02T03:47:00Z",
       "content": "<ul><li>News</li>\r\n<li>Science News</li>\r\n<li>In 2022, an 800-gram pink rock was found in the Sahara Desert; NASA-funded researchers have now confirmed it came from Mars more than 4.1 billion years a… [+2021 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Post Magazine"
-      },
-      "author": null,
-      "title": "China found giant ‘chimneys’ in deep water that could impact submarine warfare - South China Morning Post",
-      "description": "Discovery of how surface wind energy plunges to the ocean floor could improve underwater acoustic detection and marine communication: study.",
-      "url": "https://www.scmp.com/news/china/science/article/3372663/chinese-scientists-found-giant-chimneys-deep-water-could-alter-submarine-warfare",
-      "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/10/30/f26f5a24-832f-47f7-9389-545d21d4f496_0404b79d.jpg?itok=WE693QH4&v=1793330447",
-      "publishedAt": "2026-11-02T03:13:07Z",
-      "content": "Chinese researchers have mapped how energy from surface wind surges thousands of metres into the seabed, revealing massive underwater conduits they called inertial chimneys.\r\nThe discovery, based on … [+443 chars]"
     },
     {
       "source": {
@@ -538,32 +616,6 @@
     {
       "source": {
         "id": null,
-        "name": "KSL.com"
-      },
-      "author": "Staff",
-      "title": "New Moab excavation site could be oldest Cretaceous dinosaur bonebed in North America - KSL News",
-      "description": "Scientists interested in learning more about the mass extinction of dinosaurs are ecstatic over a new excavation site which they said may hold the key to understanding the major evolutionary turning point.",
-      "url": "https://www.ksl.com/article/51642182/new-moab-excavation-site-could-be-oldest-cretaceous-dinosaur-bonebed-in-north-america",
-      "urlToImage": "https://img.ksl.com/slc/3207/320727/32072768.jpeg?filter=kslv2/responsive_story_lg",
-      "publishedAt": "2026-11-01T21:10:38Z",
-      "content": "MOAB A new dinosaur dig site near Arches National Park could be one of the oldest Cretaceous bonebeds in North America.\r\nExperts in Utah say fossils found at the site outside of Moab, in eastern Utah… [+452 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Terrence O'Brien",
-      "title": "NASA hopes the commercial space industry can help save Hubble - The Verge",
-      "description": "The Hubble Space Telescope will come crashing to Earth sometime in the 2030s without a boost.",
-      "url": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13237317/PIA18165_large.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2026-11-01T21:09:21Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Hubble Space Telescope will come crashing to Earth sometime in the 2030s without a boost.\r\nThe Hubble Space Telescope will come crashing to Earth sometime in… [+211 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Phys.Org"
       },
       "author": null,
@@ -577,19 +629,6 @@
     {
       "source": {
         "id": null,
-        "name": "Interesting Engineering"
-      },
-      "author": "Munis Raza",
-      "title": "17-million-year-old fossil found in Egypt challenges a long-held view of ape origins - Yahoo",
-      "description": "A 17-18 million-year-old jaw from Egypt is the first definitive fossil ape from North Africa and challenges East Africa as the birthplace of living apes.",
-      "url": "https://interestingengineering.com/culture/masripithecus-moghraensis-first-fossil-ape-north-africa",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/092597f4102001eeb704a78ec047aaf13aa001396c3c857cfc7851fb2d7960e4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finteresting_engineering_646%2Fd45bf11dce2941c631475fd659e2c9f1.jpg",
-      "publishedAt": "2026-11-01T18:37:06Z",
-      "content": "A lower jaw dug out of the Egyptian desert is reshaping the story of where living apes came from. Researchers say it belongs to Masripithecus moghraensis, a new species that lived 17 to 18 million ye… [+3052 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "The Weather Channel"
       },
       "author": "Miriam Guthrie",
@@ -599,19 +638,6 @@
       "urlToImage": "https://s.w-x.co/wxnext/img/spacex-orlando-a44b2e.jpg",
       "publishedAt": "2026-11-01T18:30:00Z",
       "content": "Wow! SpaceX Launch creates mesmerizing space jellyfish\r\nRemember the space jellyfish created from a SpaceX launch just a couple weeks ago? Well, theres a chance to catch it again Monday night! But le… [+1775 chars]"
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Lynne Peeples",
-      "title": "Can Scientists Make Football Safer?",
-      "description": "Researchers are exploring novel ways to treat, even prevent, the brain disease C.T.E. One of the most surprising: near-infrared light.",
-      "url": "https://www.nytimes.com/2026/10/28/science/cte-nfl-football-brain-safety.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/28/multimedia/28SCI-CTE-TREATMENTS-stillpromo-tfck/28SCI-CTE-TREATMENTS-stillpromo-tfck-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-01T17:14:27Z",
-      "content": "Researchers are exploring novel ways to treat, even prevent, the brain disease C.T.E. One of the most surprising: near-infrared light."
     },
     {
       "source": {
@@ -655,15 +681,15 @@
     {
       "source": {
         "id": null,
-        "name": "Phys.Org"
+        "name": "BBC Focus Magazine"
       },
-      "author": "Tejasri Gururaj",
-      "title": "Breaking the ice: Scientists use attracting particles to form an anti-spin ice - Phys.org",
-      "description": "In a recent Nature Communications study, researchers have reported the realization of an anti-spin ice, a system that does the opposite of conventional spin ices by breaking the ice rule that governs them.",
-      "url": "https://phys.org/news/2026-10-ice-scientists-particles-anti.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/breaking-the-ice-scien.jpg",
-      "publishedAt": "2026-11-01T11:40:01Z",
-      "content": "In a recent Nature Communicationsstudy, researchers have reported the realization of an anti-spin ice, a system that does the opposite of conventional spin ices by breaking the ice rule that governs … [+10728 chars]"
+      "author": "Ezzy Pearson",
+      "title": "We might finally know what came before the Big Bang - BBC Science Focus Magazine",
+      "description": "The Universe may not have begun with a Big Bang, but instead with a Big Bounce, according to a new theory about how the Universe expands",
+      "url": "https://www.sciencefocus.com/space/big-bounce-expansion-cosmology2",
+      "urlToImage": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/741e6453-0e44-4d41-84cb-db9f6ca16ab9/thumbnails/ad43a12c-bf39-4fd7-b56d-f2b66b2815c5.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&platform=WEB&w=1200",
+      "publishedAt": "2026-11-01T12:00:00Z",
+      "content": "Cosmology challenges some of the most fundamental questions we have about our existence how did this all begin? How will it end?\r\nFor decades, astronomers have been exploring the Universe around us, … [+7096 chars]"
     },
     {
       "source": {
@@ -797,6 +823,19 @@
     },
     {
       "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Stephen Clark",
+      "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death - Ars Technica",
+      "description": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere.",
+      "url": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/hst_vantor-1080x648.jpg",
+      "publishedAt": "2026-10-31T00:07:22Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -820,19 +859,6 @@
       "urlToImage": null,
       "publishedAt": "2026-10-30T21:13:56Z",
       "content": "Minerals in the space rock provide hints about the early history of the red planet, when water was flowing on the surface."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Maketecheasier.com"
-      },
-      "author": "Make Tech Easier Editorial",
-      "title": "Zinc creep in the cable spelter sockets brought down the 57 year old Arecibo telescope in 2020, a failure sequence that began with Hurricane Maria three years earlier and the first documented case of long term zinc creep in over a century of use. - Make Tech Easier",
-      "description": "A 2024 National Academies report blames the 2020 Arecibo telescope collapse on zinc creep in cable spelter sockets, a failure never documented before.",
-      "url": "https://maketecheasier.com/arecibo-zinc-creep-collapse/",
-      "urlToImage": "https://maketecheasier.com/wp-content/uploads/2026/10/arecibo-zinc-creep-collapse-featured.jpg",
-      "publishedAt": "2026-10-30T18:55:28Z",
-      "content": "Long-term zinc creep in the cable spelter sockets was the root cause of the 2020 collapse of the National Science Foundation’s 57-year-old telescope at the Arecibo Observatory in Puerto Rico, accordi… [+2922 chars]"
     },
     {
       "source": {
@@ -898,19 +924,6 @@
       "urlToImage": null,
       "publishedAt": "2026-10-30T14:07:59Z",
       "content": "A tour of the three caves in southern Spain suggests that people in the area cannibalized one another as funerary practice over many generations."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "Confirming altermagnetism: A geometric twist offers experimental proof - Phys.org",
-      "description": "For decades, physicists recognized only two types of magnetism that occur in materials without external influence: ferromagnetism and antiferromagnetism. In findings published in Science, a team led by the U.S. Department of Energy's SLAC National Accelerator…",
-      "url": "https://phys.org/news/2026-10-altermagnetism-geometric-experimental-proof.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/slac-researchers-find.jpg",
-      "publishedAt": "2026-10-30T12:20:01Z",
-      "content": "For decades, physicists recognized only two types of magnetism that occur in materials without external influence: ferromagnetism and antiferromagnetism. In findings published in Science, a team led … [+7963 chars]"
     },
     {
       "source": {
@@ -1005,19 +1018,6 @@
     },
     {
       "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Laura Paddison",
-      "title": "Humans accidentally canceled the next ice age — but it’s no reason to celebrate, scientists say - CNN",
-      "description": "A shrinking ice cap in Arctic Canada tells a striking story of how burning fossil fuels may have stopped an ice age in its infancy, new research finds",
-      "url": "https://www.cnn.com/2026/10/29/climate/how-humans-halted-the-next-ice-age",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/barnesicecapwide-oli2-20260712.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-10-29T15:45:39Z",
-      "content": "A shrinking ice cap in Arctic Canada tells a striking story of how humans may have halted the planets next ice age by burning fossil fuels, according to new research.\r\nAround 20,000 years ago, the on… [+5115 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1028,19 +1028,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/28/multimedia/28sci-nasa-wiseman-kfhp/28sci-nasa-wiseman-kfhp-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-29T14:50:53Z",
       "content": "Reid Wiseman, now a retired emeritus astronaut, will become deputy director of the Jet Propulsion Laboratory, NASA’s premier center for deep-space robotic missions."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Christina Jewett",
-      "title": "RFK Jr. to Allow Broad Use of Unapproved Peptide Injections",
-      "description": "In a unilateral declaration by the health secretary, several injections promoted by online influencers will become widely available. The F.D.A. had advised against the move.",
-      "url": "https://www.nytimes.com/2026/10/28/health/peptides-kennedy-fda.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/28/multimedia/00DC-Peptides-mpjh/00DC-Peptides-mpjh-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-29T12:42:21Z",
-      "content": "In a unilateral declaration by the health secretary, several injections promoted by online influencers will become widely available. The F.D.A. had advised against the move."
     },
     {
       "source": {
@@ -1057,45 +1044,6 @@
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Rebecca Robbins and Ana Swanson",
-      "title": "U.S. Restricts Trade With Chinese Genomics Company",
-      "description": "The move will block shipments from BGI, a major Chinese firm that U.S. officials allege is associated with forced labor and the abuse of minority groups.",
-      "url": "https://www.nytimes.com/2026/10/28/business/us-china-biotech-trade-ban.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/28/multimedia/28biz-biotech-china-mzjw/28biz-biotech-china-mzjw-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-29T05:42:37Z",
-      "content": "The move will block shipments from BGI, a major Chinese firm that U.S. officials allege is associated with forced labor and the abuse of minority groups."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Carolyn Y. Johnson and John Branch",
-      "title": "Brain Disease Is Pervasive in N.F.L., New Estimate Suggests",
-      "description": "Using statistical techniques, a new study has arrived at a harrowing estimate: Three of four retired pro football players most likely had C.T.E. at death.",
-      "url": "https://www.nytimes.com/2026/10/28/science/brain-disease-cte-nfl-football.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/28/science/28SCI-CTE-BRAINBANK/28SCI-CTE-BRAINBANK-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-28T16:31:14Z",
-      "content": "Using statistical techniques, a new study has arrived at a harrowing estimate: Three of four retired pro football players most likely had C.T.E. at death."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Futurism"
-      },
-      "author": "Victor Tangermann",
-      "title": "Unannounced Test by Controversial “Sunlight-as-a-Service” Space Startup Shocks Astronomers - Futurism",
-      "description": "\"Sunlight-as-a-serivce\" space startup Reflect Orbital lit up a mountainside in the California desert, shocking astronomers.",
-      "url": "https://futurism.com/space/test-controversial-sunlight-space-astronomers",
-      "urlToImage": "https://futurism.com/wp-content/uploads/2026/10/test-controversial-sunlight-space-astronomers.jpg?w=1200",
-      "publishedAt": "2026-10-28T14:42:31Z",
-      "content": "Can’t-miss innovations from the bleeding edge of science and tech\r\nEarlier this year, the US Federal Communications Commission approved the construction and launch of a prototype mirror satellite des… [+3787 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Oceanographic Magazine"
       },
@@ -1106,19 +1054,6 @@
       "urlToImage": "https://cdn.oceanographicmagazine.com/wp-content/uploads/2026/10/28132935/Matt-Palmer-scaled.jpg",
       "publishedAt": "2026-10-28T13:39:37Z",
       "content": "A vast layer of fresh water that helps store carbon, supply oxygen, and drive ocean currents across the Southern Hemisphere has rapidly reversed its long-term trends, new research has found, leading … [+1732 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Geekspin.co"
-      },
-      "author": "Mary Dada",
-      "title": "New supercomputer simulation reveals how the universe formed - geekspin",
-      "description": "We just got something pretty close to a baby photo of the universe. A team of astronomers at the Center for Astrophysics | Harvard & Smithsonian has",
-      "url": "https://geekspin.co/new-supercomputer-simulation-reveals-how-the-universe-formed/",
-      "urlToImage": "https://geekspin.co/wp-content/uploads/2026/10/Lumina.png",
-      "publishedAt": "2026-10-27T15:00:15Z",
-      "content": "We just got something pretty close to a baby photo of the universe. A team of astronomers at the Center for Astrophysics | Harvard &amp; Smithsonian has created the most detailed simulation yet of th… [+2628 chars]"
     }
   ]
 }
