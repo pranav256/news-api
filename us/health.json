@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 83,
+  "totalResults": 84,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Margot Sanger-Katz and Sarah Kliff",
+      "title": "Trump Administration Moves to Oust Arbitrators as Doctor Payouts Soar",
+      "description": "The two companies settled billing disputes between doctors and insurers, keeping patients out of the middle. One let doctors win 96 percent of the time.",
+      "url": "https://www.nytimes.com/2026/11/04/health/arbitrators-medical-bills.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/04/multimedia/04dc-arbitators-jwgf/04dc-arbitators-jwgf-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-05T00:01:15Z",
+      "content": "The two companies settled billing disputes between doctors and insurers, keeping patients out of the middle. One let doctors win 96 percent of the time."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -12,8 +25,34 @@
       "description": "The maternal drape, as it is called, is helping to solve one of the world’s most intractable health problems.",
       "url": "https://www.nytimes.com/2026/11/03/health/maternal-drapes-nigeria-childbirth.html",
       "urlToImage": "https://static01.nyt.com/images/2026/11/02/multimedia/00dc-maternal-drape-husaina-ljbz/00dc-maternal-drape-husaina-ljbz-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-04T16:46:25Z",
+      "publishedAt": "2026-11-04T21:37:51Z",
       "content": "The maternal drape, as it is called, is helping to solve one of the world’s most intractable health problems."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Rebecca Robbins and Reed Abelson",
+      "title": "CVS to Split Off Drugstore Business, Ending Its Bigger-Is-Better Era",
+      "description": "In a breakup planned for 2028, CVS Health intends to keep together its insurance and pharmacy benefits divisions and create a separate company for its pharmacies.",
+      "url": "https://www.nytimes.com/2026/11/04/business/cvs-health-split.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/04/multimedia/04biz-cvs-breakup-zpcw/04biz-cvs-breakup-zpcw-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-04T21:20:03Z",
+      "content": "In a breakup planned for 2028, CVS Health intends to keep together its insurance and pharmacy benefits divisions and create a separate company for its pharmacies."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Andy Newman",
+      "title": "NYC Marathon Runner’s Death Linked to Rhabdomyolysis, Father Says",
+      "description": "Rachel Apa collapsed in Central Park. The cause was rhabdomyolysis, a rare muscle condition that can be brought on by exertion, her father said.",
+      "url": "https://www.nytimes.com/2026/11/02/nyregion/marathon-runner-dies-rachel-apa.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/02/nyregion/02met-marathon-death/02met-marathon-death-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-04T19:09:29Z",
+      "content": "Rachel Apa collapsed in Central Park. The cause was rhabdomyolysis, a rare muscle condition that can be brought on by exertion, her father said."
     },
     {
       "source": {
@@ -56,16 +95,55 @@
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
+        "id": null,
+        "name": "Abcnews.com"
       },
-      "author": "Andy Newman",
-      "title": "NYC Marathon Runner’s Death Linked to Rhabdomyolysis, Father Says",
-      "description": "Rachel Apa collapsed in Central Park. The cause was rhabdomyolysis, a rare muscle condition that can be brought on by exertion, her father said.",
-      "url": "https://www.nytimes.com/2026/11/02/nyregion/marathon-runner-dies-rachel-apa.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/02/nyregion/02met-marathon-death/02met-marathon-death-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-04T00:33:39Z",
-      "content": "Rachel Apa collapsed in Central Park. The cause was rhabdomyolysis, a rare muscle condition that can be brought on by exertion, her father said."
+      "author": "ABC News - Breaking News, Latest News and Videos",
+      "title": "What to know after Washington state resident dies of bird flu - ABC News - Breaking News, Latest News and Videos",
+      "description": null,
+      "url": "https://abcnews.com/Health/after-washington-state-resident-dies-bird-flu/story?id\\\\u003d137804667",
+      "urlToImage": null,
+      "publishedAt": "2026-11-03T22:59:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Sheetal Banchariya",
+      "title": "Vicious ‘ankle biter’ mosquitoes capable of spreading dengue fever invade California coastal city - New York Post",
+      "description": "Yellow fever mosquitoes native to Sub-Saharan Africa have been wreaking havoc in several neighborhoods of picturesque coastal areas in Southern California.",
+      "url": "https://nypost.com/2026/11/03/us-news/vicious-ankle-biter-mosquitoes-capable-of-spreading-dengue-fever-invade-socal/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/147446476.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-11-03T20:43:00Z",
+      "content": "These mosquitoes don’t wait for dusk and go straight for your ankles!\r\nYellow fever mosquitoes native to Sub-Saharan Africa have been wreaking havoc in several neighborhoods of picturesque coastal ar… [+2813 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Beth Mole",
+      "title": "Another child dies of measles as CDC reportedly holds up health alert - Ars Technica",
+      "description": "NY gov. pointed to Kennedy's long-standing anti-vaccine work as spurring outbreaks.",
+      "url": "https://arstechnica.com/health/2026/11/another-child-dies-of-measles-as-cdc-reportedly-holds-up-health-alert/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2053751760-1152x648.jpg",
+      "publishedAt": "2026-11-03T17:21:29Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Health.com"
+      },
+      "author": "https://www.facebook.com/Health/",
+      "title": "The Best Drink for Lowering Alzheimer’s Risk, According to Experts - Health.com",
+      "description": "What you drink daily may affect your brain health as you age. Learn which beverage experts recommend for Alzheimer’s prevention.",
+      "url": "https://www.health.com/best-drink-alzheimers-risk-12174989",
+      "urlToImage": "https://www.health.com/thmb/qd90Ug_cP6xeq7L5PdgR3rJs_Mc=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-GettyImages-514932147-a06ae083cbb54a1b867a70b744fc7a63.jpg",
+      "publishedAt": "2026-11-03T17:15:00Z",
+      "content": "One in nine people age 65 and older in the U.S. has Alzheimers diseaseequating to 7.4 million people. Theres no way to completely prevent Alzheimers, the most common form of dementia, but certain lif… [+3200 chars]"
     },
     {
       "source": {
@@ -82,16 +160,55 @@
     },
     {
       "source": {
-        "id": "usa-today",
-        "name": "USA Today"
+        "id": null,
+        "name": "New York Post"
       },
-      "author": "Mary Walrath-Holdridge",
-      "title": "Blood pressure medication recalled nationwide. See the affected drug - USA Today",
-      "description": "The recalled medication may not work like it's supposed to, according to the FDA.",
-      "url": "https://www.usatoday.com/story/money/consumer-protection/recalls-alerts/2026/11/02/blood-pressure-medication-recalled/92563231007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/02/USAT/92566774007-getty-images-92407491.jpg?crop=3596,2023,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
-      "publishedAt": "2026-11-03T13:56:00Z",
-      "content": "If you have high blood pressure, check your medicine cabinet: More than 3,700 bottles of blood pressure pills have been recalled nationwide.\r\nMacleods Pharmaceuticals first recalled the tablets on Oc… [+1953 chars]"
+      "author": "Rachel Sacks",
+      "title": "Breakfast cereals with tasty ingredient kids love found to have twice as much lead - New York Post",
+      "description": "Think your “natural” cereal is safe? Think again, as labels often hide toxic ingredients.",
+      "url": "https://nypost.com/2026/11/03/health/breakfast-cereals-found-to-have-two-times-as-much-lead/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/crop-41649658.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-11-03T16:02:00Z",
+      "content": "Halloween may be over, but the horrors in your pantry persist.\r\nWhile cereal’s a quick and convenient breakfast option, it’s important to pay attention to key nutritional details like fiber and sugar… [+2784 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WSB Atlanta"
+      },
+      "author": "Natalie Dreier, Cox Media Group National Content Desk",
+      "title": "Recall alert: Popular blood pressure medication recalled - WSB-TV",
+      "description": "Check your prescription: Two lots of high blood pressure medication were recalled by the FDA due to dissolution failures.",
+      "url": "https://www.wsbtv.com/news/trending/recall-alert-popular-blood-pressure-medication-recalled/TVQOMRIRZZGDROVXI3ZS75BPQ4/",
+      "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FOWHZPCXYV5BKNLKKXJYEFSRG2Q.jpeg?auth=b4fd4e0370cb17f9004a4e2e6ac1f46965fc891c1a6bdc108ffe8ccec91dc587&width=1200&height=630&smart=true",
+      "publishedAt": "2026-11-03T15:43:25Z",
+      "content": "If you take blood pressure medication, you will need to check your prescriptions. The Food and Drug Administration announced the recall of a popular treatment. \r\nThe agency said Olmesartan Medoxomil,… [+1007 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "OregonLive"
+      },
+      "author": "OregonLive.com",
+      "title": "Dear Doctor: People vaccinated against COVID have lower rates of blood clots, heart attacks and strokes - OregonLive.com",
+      "description": null,
+      "url": "https://www.oregonlive.com/advice/2026/11/dear-doctor-people-vaccinated-against-covid-have-lower-rates-of-blood-clots-heart-attacks-and-strokes.html",
+      "urlToImage": null,
+      "publishedAt": "2026-11-03T15:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eatthis.com"
+      },
+      "author": "Adam Meyer",
+      "title": "5 Daily Exercises That Regain Muscle Mass Better Than Gym Workouts After 65 - Eat This Not That",
+      "description": "Regain muscle mass after 65 with five daily moves from a certified trainer, using just a chair, wall, and light weights.",
+      "url": "https://www.eatthis.com/regain-muscle-mass-after-65-daily-exercises/",
+      "urlToImage": "https://www.eatthis.com/wp-content/uploads/sites/4/2026/01/shutterstock_2647535455.jpg?quality=82&strip=all",
+      "publishedAt": "2026-11-03T14:35:13Z",
+      "content": "Losing strength after 65? Five at-home moves need just a chair, a wall, and light weights.\r\nGyms are fantastic for a lot of things, like giving you access to machines, heavy weights, and the ability … [+4791 chars]"
     },
     {
       "source": {
@@ -109,15 +226,15 @@
     {
       "source": {
         "id": null,
-        "name": "HuffPost"
+        "name": "ScienceAlert"
       },
-      "author": null,
-      "title": "I'm A Brain Expert. Here's The 1 Mindset Shift I Wish More People Would Make. - HuffPost",
-      "description": "This is one of the best ways to protect against cognitive decline.",
-      "url": "https://www.huffpost.com/entry/treat-brain-health-like-heart-health-experts_l_6ae5209ae4b038f4fbe0dbd0",
-      "urlToImage": "https://img.huffingtonpost.com/asset/6ae8e2dd140000942ce01ef5.jpeg?cache=u7VTTHAAoO&ops=1200_630",
-      "publishedAt": "2026-11-03T12:00:17Z",
-      "content": "Many of us keep tabs on our blood pressure, heart rate and sleep. Far fewer of us ever stop to check in on our memory, focus and thinking.\r\nExperts say thats a missed opportunity, and that we should … [+4025 chars]"
+      "author": "David Nield",
+      "title": "Eating Blueberries Every Day Could Reduce Depressive Symptoms in Older Adults - ScienceAlert",
+      "description": "There's a lot of goodness packed inside the fruits we eat, and scientists continue to look at how that goodness might benefit our mental as well as our physical health.",
+      "url": "https://www.sciencealert.com/eating-blueberries-every-day-could-reduce-depressive-symptoms-in-older-adults",
+      "urlToImage": "https://www.sciencealert.com/images/2026/11/BlueberryBowl.jpg",
+      "publishedAt": "2026-11-03T12:00:15Z",
+      "content": "There's a lot of goodness packed inside the fruits we eat, and scientists continue to look at how that goodness might benefit our mental as well as our physical health.\r\nIn a small pilot study, resea… [+4067 chars]"
     },
     {
       "source": {
@@ -135,15 +252,54 @@
     {
       "source": {
         "id": null,
-        "name": "cleveland.com"
+        "name": "Live Science"
       },
-      "author": "Cleveland.com",
-      "title": "People who use marijuana for sleep may be missing something important - Cleveland.com",
-      "description": null,
-      "url": "https://www.cleveland.com/news/2026/11/people-who-use-marijuana-for-sleep-may-be-missing-something-important.html",
-      "urlToImage": null,
+      "author": "Kristina Killgrove",
+      "title": "5,300-year-old kidney stone found in burial of Bronze Age man buried near the Black Sea - Live Science",
+      "description": "Researchers identified a 5,300-year-old kidney stone in the burial of a Bronze Age cattle herder in Russia.",
+      "url": "https://www.livescience.com/archaeology/5-300-year-old-kidney-stone-the-size-of-a-grape-found-in-bronze-age-mans-burial-near-black-sea",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Ei8JmYB5euRjx7QRaoRvwe-1522-80.png",
       "publishedAt": "2026-11-03T11:00:00Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Engineer"
+      },
+      "author": "The Engineer",
+      "title": "AI cardiac MRI scans could improve prediction of patient survival - The Engineer",
+      "description": null,
+      "url": "https://www.theengineer.co.uk/content/news/ai-cardiac-mri-scans-improve-prediction-of-patient-survival",
+      "urlToImage": null,
+      "publishedAt": "2026-11-03T10:53:25Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Manisha Krishnan",
+      "title": "Opioid Users Found a ‘Miracle Drug’ to Help Them Quit. Then the DEA Banned It - WIRED",
+      "description": "On Reddit and Discord, people addicted to opioids say SR-17018 can remove withdrawal symptoms. Despite its potential, the DEA has placed it in the same category as heroin.",
+      "url": "https://www.wired.com/story/opioid-users-sr-17018-drug-to-help-them-quit-dea-ban/",
+      "urlToImage": "https://media.wired.com/photos/6ae8f97d779df3a2b1d25e49/191:100/w_1280,c_limit/Culture_Opioid%20Users%20Found%20a%20%E2%80%98Miracle%20Drug%E2%80%99%20To%20Help%20Them%20Quit.%20Then%20the%20DEA%20Banned%20It_v1.jpg",
+      "publishedAt": "2026-11-03T10:00:00Z",
+      "content": "In 2012, as the driver of deaths in the opioid crisis began moving from prescription pills to heroin, Laura Bohn was tasked with finding safer drugs to manage pain.\r\nFunded by the National Institute … [+2376 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Boston Globe"
+      },
+      "author": null,
+      "title": "In a major shift in menopause care, hormone therapy is back in the spotlight - The Boston Globe",
+      "description": "Hot flashes, hormones, and the “perimenopause” gap: What ACOG’s new menopause guideline says, and what it doesn’t",
+      "url": "https://www.bostonglobe.com/2026/11/03/metro/menopause-medical-perimenopause-changes-obgyn/",
+      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/Y7VFA44OMZGWHH2J3G5KQB6QC4.jpg?auth=23b0efed665c5f09f1b22995d617eb9e629c47608d7ea9112d9329bfde0b6cad&width=1440",
+      "publishedAt": "2026-11-03T09:44:00Z",
+      "content": "Weve learned a lot in the last 10 years on risks and benefits, newer drugs have entered the market, and that made us look back at the data, Pier said. This is a challenging review process, and making… [+6131 chars]"
     },
     {
       "source": {
@@ -174,6 +330,19 @@
     {
       "source": {
         "id": null,
+        "name": "Fox 59"
+      },
+      "author": "Fox 59",
+      "title": "Indiana measles cases surpass 100, concerning public health experts - Fox 59",
+      "description": null,
+      "url": "https://fox59.com/news/indiana-measles-cases-surpass-100-concerning-public-health-experts/",
+      "urlToImage": null,
+      "publishedAt": "2026-11-03T03:00:43Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Eatingwell.com"
       },
       "author": "https://www.facebook.com/EatingWell/",
@@ -186,42 +355,29 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Medical Xpress"
+        "id": "fox-news",
+        "name": "Fox News"
       },
-      "author": null,
-      "title": "ASN: Elderly with chronic kidney disease benefit from SGLT2 inhibitors - Medical Xpress",
-      "description": "Sodium-glucose cotransporter 2 (SGLT2) inhibitors show significant benefits for adults aged 80 years and older with chronic kidney disease (CKD), according to a study presented at Kidney Week, the annual meeting of the American Society of Nephrology, held fro…",
-      "url": "https://medicalxpress.com/news/2026-11-asn-elderly-chronic-kidney-disease.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/kidney-1.jpg",
-      "publishedAt": "2026-11-03T00:40:01Z",
-      "content": "Sodium-glucose cotransporter 2 (SGLT2) inhibitors show significant benefits for adults aged 80 years and older with chronic kidney disease (CKD), according to a study presented at Kidney Week, the an… [+1884 chars]"
+      "author": "Fox News",
+      "title": "Florida battles largest dengue fever outbreak in decades with hundreds infected - New York Post",
+      "description": "The locally acquired infections are separate from more than 300 travel-associated dengue cases reported in Florida this year.",
+      "url": "https://www.foxnews.com/health/dangerous-mosquito-borne-virus-surges-popular-us-state-cases-reach-highest-levels-decades",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/147327682.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-11-03T01:05:00Z",
+      "content": "Florida health officials have confirmed 485 locally acquired cases of dengue fever this year, as the state grapples with its largest outbreak in decades.\r\nBetween Oct. 18 and Oct. 24, state surveilla… [+3533 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Science Daily"
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
       },
       "author": null,
-      "title": "Scientists reverse liver cell aging and cut Alzheimer’s-linked protein in half - Science Daily",
-      "description": "A surprising discovery suggests that rejuvenating the liver could help protect against Alzheimer’s disease and heart disease. USC researchers found that an experimental drug restored aging liver cells in rats, cutting levels of an Alzheimer’s-linked protein i…",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261031221155.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/3d-human-liver-anatomy.webp",
-      "publishedAt": "2026-11-03T00:37:10Z",
-      "content": "The liver may hold an unexpected key to fighting two of the most serious diseases associated with aging: Alzheimer's disease and heart disease. Scientists have discovered that restoring the function … [+9269 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "Mike Stobbe",
-      "title": "Washington state resident dies from bird flu following exposure to infected cattle - AP News",
-      "description": "A person in Washington state has died from complications of bird flu, marking the first such U.S. death in a year. County health officials announced Sunday that the Yakima County resident had previous health conditions and was exposed to avian influenza at a …",
-      "url": "https://apnews.com/article/bird-flu-death-yakima-washington-c170f95d65a5ffe966ec52d7dae56f3d",
-      "urlToImage": "https://dims.apnews.com/dims4/default/f0b8315/2147483647/strip/true/crop/2579x2056+0+0/resize/1200x957!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1e%2F4d%2F91ba832d5fdc3ccfe2e67a06d863%2F8d322b9b12534fcf87cca41373b06af4",
-      "publishedAt": "2026-11-02T23:19:00Z",
-      "content": "NEW YORK (AP) A person in Washington state has died from complications of the bird flu, the first such U.S. death in a year.\r\nThe Yakima County resident, who had previous health conditions, was expos… [+2274 chars]"
+      "title": "Ebola outbreak kills more than 5,300 people in DR Congo - Al Jazeera",
+      "description": "The Bundibugyo strain has spread to Kenya and Uganda, while two in Nigeria returned negative results.",
+      "url": "https://www.aljazeera.com/news/2026/11/3/ebola-outbreak-kills-more-than-5300-people-in-dr-congo",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-10-31T191025Z_656160264_RC2DEOAHJ4I8_RTRMADP_3_HEALTH-EBOLA-CONGO-1793659361.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-11-03T00:59:52Z",
+      "content": "The death toll from the latest Ebola outbreak in Africa has surpassed 5,300, with the majority of cases recorded in the Democratic Republic of the Congo (DRC), according to the Africa Centres for Dis… [+1427 chars]"
     },
     {
       "source": {
@@ -277,19 +433,6 @@
     },
     {
       "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Dangerous mosquito-borne virus surges in popular US state as cases reach highest levels in decades - Fox News",
-      "description": "Florida's dengue fever outbreak has reached 485 locally acquired cases, with Tampa Bay accounting for 95% of infections and emergency declarations issued.",
-      "url": "https://www.foxnews.com/health/dangerous-mosquito-borne-virus-surges-popular-us-state-cases-reach-highest-levels-decades",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/dengue_fever_spraying_001.jpg",
-      "publishedAt": "2026-11-02T20:17:55Z",
-      "content": "Florida health officials have confirmed 485 locally acquired cases of dengue fever this year, as the state grapples with its largest outbreak in decades.\r\nBetween Oct. 18 and Oct. 24, state surveilla… [+3572 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Umn.edu"
       },
@@ -339,6 +482,19 @@
       "urlToImage": "https://s.yimg.com/lo/mysterio/api/9c56f48705211f9ce786c49674042fba0a116acef4b84a4e779a39818dc7e261/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftime_72%2F53e54cc94390cc6c19ac26151551b239.jpg",
       "publishedAt": "2026-11-02T19:14:05Z",
       "content": "Now that clocks have fallen back, many Americans face a dreary daily reality: finishing the workday after the sun has set. That could be problematic for health, since sunlight benefits us in many way… [+6018 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eatingwell.com"
+      },
+      "author": "https://www.facebook.com/EatingWell/",
+      "title": "16 Easy Blood Sugar-Friendly Recipes Ready in 25 Minutes - EatingWell",
+      "description": "Support healthy blood sugar levels with these easy meal and snack recipes that are lower in carbs, saturated fat, sodium and calories.",
+      "url": "https://www.eatingwell.com/blood-sugar-friendly-menu-with-25-minute-dinners-12207495",
+      "urlToImage": "https://www.eatingwell.com/thmb/zpfok39aSfERP8K7_irW2khQDjM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/EWL-Spicy-Chicken-Cabbage-Stir-Fry-1x1-088_preview_maxWidth_4000_maxHeight_4000_ppi_300_quality_100-a60f25c9e97d4608abf0df9da1af03eb.jpg",
+      "publishedAt": "2026-11-02T19:00:00Z",
+      "content": "Maintaining healthy blood sugar levels has just become easier with these delicious and nourishing recipes. From a variety of dinners, lunches and breakfasts, this list features dishes that you can in… [+5169 chars]"
     },
     {
       "source": {
@@ -394,42 +550,16 @@
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Reed Abelson and Margot Sanger-Katz",
-      "title": "Obamacare Policies Hit Again With Steep Premium Increases for 2027",
-      "description": "Premiums will increase an average 13 percent next year for millions of Americans, on top of an earlier steep increase. It adds to the problems facing the program, which the Trump administration has weakened.",
-      "url": "https://www.nytimes.com/2026/10/30/business/obamacare-health-insurance-rates.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/27/multimedia/00biz-obamacare--mlbk/00biz-obamacare--mlbk-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-02T16:06:24Z",
-      "content": "Premiums will increase an average 13 percent next year for millions of Americans, on top of an earlier steep increase. It adds to the problems facing the program, which the Trump administration has weakened."
-    },
-    {
-      "source": {
         "id": null,
-        "name": "Who13.com"
+        "name": "Health.com"
       },
-      "author": "WHO13.com",
-      "title": "Iowa’s measles outbreak continues to grow - WHO13.com",
-      "description": null,
-      "url": "https://who13.com/news/iowa-news/iowas-measles-outbreak-continues-to-grow/",
-      "urlToImage": null,
-      "publishedAt": "2026-11-02T14:20:20Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eatthis.com"
-      },
-      "author": "Alexa Mellardo",
-      "title": "5 Daily Exercises Women Over 70 Need to Keep Their Legs Strong - Eat This Not That",
-      "description": "Leg exercises for women over 70, with five daily moves and tips from a medical exercise specialist to help keep legs strong.",
-      "url": "https://www.eatthis.com/leg-exercises-for-women-over-70/",
-      "urlToImage": "https://www.eatthis.com/wp-content/uploads/sites/4/2026/10/fit-mature-woman-with-arms-folded_2770475887.jpg?quality=82&strip=all",
-      "publishedAt": "2026-11-02T14:04:59Z",
-      "content": "Performing regular strength training can help you build and maintain strong legs.\r\nThe loss of lean muscle mass is a natural process that can occur with age. This declinealso known as sarcopeniacan p… [+4905 chars]"
+      "author": "https://www.facebook.com/Health/",
+      "title": "6 High-Protein Foods for Healthy Cholesterol, Recommended by a Dietitian - Health.com",
+      "description": "From beans and tofu to walnuts and yogurt, these six protein-rich foods may help lower cholesterol and support heart health.",
+      "url": "https://www.health.com/high-protein-foods-for-lower-cholesterol-12150539",
+      "urlToImage": "https://www.health.com/thmb/lkswa-Qwz5SGO3DVEmBTB3orxwc=/6240x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-GettyImages-2294285747-a94df8fb91f2408b863c63fcff211fad.jpg",
+      "publishedAt": "2026-11-02T14:35:00Z",
+      "content": "You probably know that protein is key for building musclebut certain protein-rich foods, such as beans, soy, nuts, and salmon, also provide certain nutrients that can help support healthier cholester… [+6102 chars]"
     },
     {
       "source": {
@@ -459,19 +589,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Medical Xpress"
-      },
-      "author": "Ingrid Fadelli",
-      "title": "Cholesterol transport protein emerges as possible target for Parkinson's treatment - Medical Xpress",
-      "description": "Parkinson's disease (PD) is a neurodegenerative condition that causes the progressive loss of dopamine-producing neurons in a brain region called the substantia nigra. Its characteristic symptoms include tremors, slowed movements, rigid muscles and difficulti…",
-      "url": "https://medicalxpress.com/news/2026-10-cholesterol-protein-emerges-parkinson-treatment.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/brain-regions-1.jpg",
-      "publishedAt": "2026-11-02T12:40:01Z",
-      "content": "Parkinson's disease (PD) is a neurodegenerative condition that causes the progressive loss of dopamine-producing neurons in a brain region called the substantia nigra. Its characteristic symptoms inc… [+5138 chars]"
-    },
-    {
-      "source": {
         "id": "the-washington-post",
         "name": "The Washington Post"
       },
@@ -495,6 +612,19 @@
       "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/couple-running-together-healthy-living.jpg",
       "publishedAt": "2026-11-02T12:00:09Z",
       "content": "A strict routine combining a low-calorie diet with supervised strength and aerobic training helped more than half of younger adults reverse type 2 diabetes within six months, according to a study pub… [+5331 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "mindbodygreen.com"
+      },
+      "author": "Zhané Slambee",
+      "title": "Can Creatine Help Your Muscles Bounce Back After An Injury? - Yahoo Health",
+      "description": "Creatine may offer some support when you're getting your strength back",
+      "url": "https://www.mindbodygreen.com/articles/does-creatine-help-you-bounce-back-after-training-break",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/f4b0f15835ccefb74c696e572b86579c5cedf8aac083a0bde425121e4dc97efd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmindbodygreen_articles_658%2F39fe84a00a92be7ef2dff0c62b5e71eb.jpg",
+      "publishedAt": "2026-11-02T10:33:00Z",
+      "content": "Getting back to exercise after an injury can be frustrating. Your usual weights feel heavier, and the muscle you worked hard to build may look and feel different. This is normalregaining strength tak… [+3284 chars]"
     },
     {
       "source": {
@@ -550,32 +680,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Newser"
-      },
-      "author": "Polly Davis Doig",
-      "title": "Utah Mink Farm's Outbreak Is a Pandemic's 'Perfect Petri Dish' - Newser",
-      "description": "Experts warn uncontrolled Utah bird flu outbreak risks new flu strain that can cross over to humans",
-      "url": "https://www.newser.com/story/398884/utah-mink-farms-outbreak-is-a-pandemics-perfect-petri-dish.html",
-      "urlToImage": "https://cdn.newser.com/image/1720547-12-20261101163004.jpeg",
-      "publishedAt": "2026-11-01T22:00:00Z",
-      "content": "According to ProPublica, which calls the situation a \"perfect petri dish\" for a potential pandemic, Utah officials also agreed not to actively monitor or routinely test workers, despite CDC guidance … [+320 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Women's sex drive treatment linked to higher rates of heart attack and stroke - Fox News",
-      "description": "A study of 6,000+ postmenopausal women links testosterone therapy to higher rates of heart attack, stroke and heart failure in new research.",
-      "url": "https://www.foxnews.com/health/womens-sex-drive-treatment-linked-higher-rates-heart-attack-stroke",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/woman-at-doctor.jpg",
-      "publishedAt": "2026-11-01T18:43:26Z",
-      "content": "Postmenopausal women who use testosterone therapy could face a higher risk of heart attack, stroke and other cardiovascular problems, new research suggests.\r\nThe research, presented at the 2026 annua… [+3420 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -624,20 +728,7 @@
       "url": "https://slate.com/technology/2026/11/shingles-vaccine-age-dementia-justin-bieber.html",
       "urlToImage": "https://compote.slate.com/images/cd5a1f7e-dbd3-48a0-b336-ace96382d9d3.jpeg?crop=3240%2C2160%2Cx300%2Cy0&width=1560",
       "publishedAt": "2026-11-01T13:00:00Z",
-      "content": "Sign up for the Slatest to get the most insightful analysis, criticism, and advice out there, delivered to your inbox daily.\r\nBushra Tbakhi was in med school when she developed an unattractive, creep… [+6953 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Men's Journal"
-      },
-      "author": "Joseph Arangio",
-      "title": "A Simple Daily Habit Could Lower Your Risk of Death, Study Finds - AOL.com",
-      "description": "A Yale study linked one habit to a 20% lower risk of death over 12 years.",
-      "url": "https://www.mensjournal.com/health/scientists-followed-3635-adults-for-12-years-and-found-a-surprising-longevity-benefit",
-      "urlToImage": "https://hermes.media.static.aol.com/media/2026/11/01/3b55e38d-4558-3306-be21-edacdc172fe8/33103b53-185d-4926-8fe9-3bd63221feb0.jpg",
-      "publishedAt": "2026-11-01T12:35:00Z",
-      "content": "Reading a good book might do more than help you unwind. Researchers at Yale University found that adults who regularly read books had a 20 percent lower risk of death during a 12-year follow-up compa… [+2676 chars]"
+      "content": "Sign up for the Slatest to get the most insightful analysis, criticism, and advice out there, delivered to your inbox daily.\r\nBushra Tbakhi was in med school when she developed an unattractive, creep… [+7046 chars]"
     },
     {
       "source": {
@@ -680,19 +771,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Steamboat Pilot & Today"
-      },
-      "author": "Julia Coccaro",
-      "title": "New clinic in Steamboat Springs offers one-day treatment for depression - SteamboatToday.com",
-      "description": "Psychiatric nurse practitioner and longtime Steamboat Springs local Michael Savage has a mission: getting people out of depression.  In Steamboat, a range of modalities currently exist to treat depression and related mental health conditions — psychotherapy, …",
-      "url": "https://www.steamboatpilot.com/news/new-clinic-in-steamboat-springs-offers-one-day-treatment-for-depression/",
-      "urlToImage": "https://swiftmedia.s3.amazonaws.com/mountain.swiftcom.com/images/sites/8/2026/10/30140618/isingPsychiatrys-sbt-103126-1_-1024x679.jpg",
-      "publishedAt": "2026-10-31T19:14:00Z",
-      "content": "Psychiatric nurse practitioner and longtime Steamboat Springs local Michael Savage has a mission: getting people out of depression. \r\nIn Steamboat, a range of modalities currently exist to treat depr… [+6980 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -703,32 +781,6 @@
       "urlToImage": null,
       "publishedAt": "2026-10-31T15:43:45Z",
       "content": "Once Upon a Farm has recalled its Tractor Wheels soft-baked bars after reports that toddlers could not breathe while eating them."
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Your daily coffee habit may affect your brain and mood in unexpected ways, study finds - Fox News",
-      "description": "A University College Cork study links both caffeinated and decaf coffee to changes in gut microbiome, stress, depression and cognition in surprising ways.",
-      "url": "https://www.foxnews.com/food-drink/daily-coffee-habit-affect-brain-mood-unexpected-ways-study-finds",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/04/gettyimages-1394603045.jpg",
-      "publishedAt": "2026-10-31T15:15:30Z",
-      "content": "Your daily cup of coffee may be doing more than helping you wake up in the morning, a new study has found.\r\nA small study out of University College Cork in Ireland found that both caffeinated and dec… [+3286 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "Laura Ungar",
-      "title": "There's new guidance on menopause symptoms like hot flashes. What women need to know - AP News",
-      "description": "For the first time in a dozen years, a leading OB-GYN group has updated its guidance on managing hot flashes, night sweats, sleep changes and other disruptive symptoms that often come along with menopause. Menopause occurs when a woman has gone 12 consecutive…",
-      "url": "https://apnews.com/article/acog-menopause-hot-flashes-688f1aaa07307c0bc046776df0bc6023",
-      "urlToImage": "https://dims.apnews.com/dims4/default/8167ed7/2147483647/strip/true/crop/3000x2001+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffb%2F55%2F421c85d059b1c7ccb9b844fea9a6%2F1adaf6eb93ac47a8a575fc0528357e44",
-      "publishedAt": "2026-10-31T12:46:14Z",
-      "content": "For the first time in a dozen years, a leading OB-GYN group has updated its guidance on managing hot flashes, night sweats, sleep changes and other disruptive symptoms that often come with menopause.… [+5880 chars]"
     },
     {
       "source": {
@@ -772,28 +824,28 @@
     {
       "source": {
         "id": null,
-        "name": "TODAY"
+        "name": "PEOPLE"
       },
-      "author": "Brianna Steinhilber",
-      "title": "Start the New Year Healthier and Happier With This 75-Day Walking Streak Challenge - TODAY.com",
-      "description": "Join Al Roker for a 75-day walking streak to celebrate the TODAY show’s 75th anniversary. You will reduce stress, support weight loss and improve heart health.",
-      "url": "https://www.today.com/health/diet-fitness/start-today-75-day-walking-streak-challenge-rcna606115",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-10/pesto-chicken-salad-in-bowl-edited-1-774a03.jpg",
-      "publishedAt": "2026-10-30T19:43:15Z",
-      "content": "Were going streaking! In honor of TODAYs 75th anniversary, were celebrating the best way we know how, by getting those steps in together.\r\nThe goal is simple: Walk every day for 75 days leading up to… [+2836 chars]"
+      "author": "Vanessa Etienne",
+      "title": "Woman Says She Had to Pay $400 Upfront at Urgent Care Before Receiving Lifesaving EpiPen - Yahoo",
+      "description": "“I thought I was going to die,” said Stephanie Rowell, who was suffering from anaphylaxis caused by a wasp sting",
+      "url": "https://people.com/woman-forced-to-pay-bill-before-receiving-life-saving-epipen-12202358",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/0e80779419a97ff6ba571898ef69c52313440db99b822a2d024314ef4c535908/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fbb53e694b8d8e835bd8ad5fe6aa08319.jpg",
+      "publishedAt": "2026-10-30T18:58:26Z",
+      "content": "NEED TO KNOW\r\n<ul><li>Stephanie Rowell says she had to pay $400 before receiving epinephrine after a wasp sting triggered anaphylaxis\r\n</li><li>TruHealthNow said her condition was considered stable a… [+3716 chars]"
     },
     {
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
-      "author": "Lena H. Sun",
-      "title": "CDC scientists sought urgent alert on measles in pregnancy. It wasn’t approved. - The Washington Post",
-      "description": "The report could fill major gaps about a condition doctors have rarely seen for decades.",
-      "url": "https://www.washingtonpost.com/health/2026/10/30/cdc-has-report-measles-pregnancy-its-unclear-when-it-will-publish/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KNXPWPB4F2UQ3E5KZTZ2GWNT5Q_size-normalized.jpg&w=1440",
-      "publishedAt": "2026-10-30T17:48:37Z",
-      "content": "Federal health scientists are trying to alert doctors to the risks of measles during pregnancy as U.S. cases surge, but how quickly that information will reach clinicians and where it will be publish… [+99 chars]"
+      "author": "WSJ",
+      "title": "Flu’s Back Way Sooner Than Normal. Here’s What to Know. - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/health/flus-back-way-sooner-than-normal-heres-what-to-know-ac1cc96f",
+      "urlToImage": null,
+      "publishedAt": "2026-10-30T17:40:00Z",
+      "content": null
     },
     {
       "source": {
@@ -863,15 +915,28 @@
     {
       "source": {
         "id": null,
-        "name": "Cdc.gov"
+        "name": "BBC News"
       },
-      "author": "CDC",
-      "title": "Weekly US Influenza Surveillance Report: Key Updates for Week 42, ending October 24, 2026 | FluView - Centers for Disease Control and Prevention | CDC (.gov)",
-      "description": "Seasonal flu activity remains low nationally but is increasing in many parts of the country.",
-      "url": "https://www.cdc.gov/fluview/surveillance/2026-week-42.html",
-      "urlToImage": "https://www.cdc.gov/fluview/media/images/2026/flu-view-sm.png?_=75438",
-      "publishedAt": "2026-10-30T07:00:00Z",
-      "content": "All data are preliminary and may change as more reports are received.\r\nA description of the CDC influenza surveillance system, including methodology and detailed descriptions of each data component, … [+24936 chars]"
+      "author": null,
+      "title": "I didn't know I was lacking in vitamin D until I collapsed at work - BBC",
+      "description": "Doctors are finding vitamin D deficiency is increasingly widespread in the UK, especially in young people. But the symptoms are difficult to spot and can be missed.",
+      "url": "https://www.bbc.com/news/articles/cm78pxxe55v0o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/69c4/live/05b4e120-d46d-11f1-a701-fddedf244c16.jpg",
+      "publishedAt": "2026-10-30T00:29:05Z",
+      "content": "\"I just felt really dizzy, really nauseous, was having heart palpitations and was really hot,\" she says."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WCVB Boston"
+      },
+      "author": "Phil Tenser",
+      "title": "Why is colorectal cancer aggressive in younger patients? Boston researchers discover new clues - WCVB",
+      "description": "Boston-based researchers announced Wednesday the discovery of new biological clues about why colorectal cancer can behave more aggressively in young patients.",
+      "url": "https://www.wcvb.com/article/colorectal-cancer-research-young-patients-oct-29-2026/74284960",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/8b5839f8-c378-4a2c-b162-33c69373f47f.png?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
+      "publishedAt": "2026-10-29T22:17:00Z",
+      "content": "BOSTONBoston-based researchers announced Wednesday the discovery of new biological clues about why colorectal cancer can behave more aggressively in young patients. \r\nThe findings are based on the an… [+1765 chars]"
     },
     {
       "source": {
@@ -914,19 +979,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Men's Journal"
-      },
-      "author": "Xavier Sintra",
-      "title": "The Pancreatic Cancer Symptoms That Are Easy to Blame on Something Else - AOL.com",
-      "description": "Pancreatic cancer rarely shows itself early, and when it does, the signs can look like indigestion, a sore back or a new diabetes diagnosis.",
-      "url": "https://www.mensjournal.com/health/doctors-say-these-7-early-pancreatic-cancer-symptoms-are-often-mistaken-for-something-else",
-      "urlToImage": "https://hermes.media.static.aol.com/media/2026/10/29/5e3e2486-28f1-3b63-8e03-cb08876dc0a9/de1d7b9a-f373-43e8-914f-ff98fb32dd8b.jpg",
-      "publishedAt": "2026-10-29T15:38:52Z",
-      "content": "Pancreatic cancer is hard to catch early, and a big reason is that its first signs dont look like cancer.\r\nResearchers at Mayo Clinic recently found that people who went on to get pancreatic cancer l… [+3320 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -937,19 +989,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/28/multimedia/00DC-Peptides-mpjh/00DC-Peptides-mpjh-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-29T12:42:21Z",
       "content": "In a unilateral declaration by the health secretary, several injections promoted by online influencers will become widely available. The F.D.A. had advised against the move."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Boston Globe"
-      },
-      "author": null,
-      "title": "The rise of colon cancer among young people has been a mystery. Boston experts say they now have clues. - The Boston Globe",
-      "description": "Boston researchers unveil the largest analysis of colorectal cancer tumor samples to date.",
-      "url": "https://www.bostonglobe.com/2026/10/29/metro/colon-cancer-young-people-treatment-study/",
-      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/SKUY6FXAPPYVU7M3RRUN526JNE.jpg?auth=598a9e9de75766cd3d9bcd3ef704a7993f1f082eb8eb0acf868f6dbbe0122398&width=1440",
-      "publishedAt": "2026-10-29T06:00:00Z",
-      "content": "Its been a bit of a black box, said Ana Anderson, a senior author and core faculty member of the Gene Lay Institute of Immunology and Inflammationat Brigham and Womens Hospital. Now we have a researc… [+3331 chars]"
     },
     {
       "source": {
@@ -992,6 +1031,19 @@
     },
     {
       "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Anna Borges",
+      "title": "How to stop a “what if” anxiety spiral before it takes over - The Washington Post",
+      "description": "A psychologist shares four ways to interrupt worst-case thinking, stop catastrophizing and feel less overwhelmed.",
+      "url": "https://www.washingtonpost.com/wellness/2026/10/28/how-stop-what-if-anxiety-spiral-before-it-takes-over/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/XBLVJHFKMEK4KOZIVE35MVOH3Y.jpg&w=1440",
+      "publishedAt": "2026-10-28T17:00:01Z",
+      "content": "You may know the spiral well: It starts off as a single worry, such as how tonights date will go, whether you made a mistake at work or what an abnormal medical test result means. Then it takes on a … [+321 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1018,19 +1070,6 @@
     },
     {
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Anna Borges",
-      "title": "How to stop a “what if” anxiety spiral before it takes over - The Washington Post",
-      "description": "A psychologist shares four ways to interrupt worst-case thinking, stop catastrophizing and feel less overwhelmed.",
-      "url": "https://www.washingtonpost.com/wellness/2026/10/28/how-stop-what-if-anxiety-spiral-before-it-takes-over/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/XBLVJHFKMEK4KOZIVE35MVOH3Y.jpg&w=1440",
-      "publishedAt": "2026-10-28T11:32:40Z",
-      "content": "You may know the spiral well: It starts off as a single worry, such as how tonights date will go, whether you made a mistake at work or what an abnormal medical test result means. Then it takes on a … [+321 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Nature.com"
       },
@@ -1054,32 +1093,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/28/multimedia/28xp-onemorejob1-pjcb/28xp-onemorejob1-pjcb-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-28T09:06:04Z",
       "content": "The actor Cheyenne Jackson’s social media campaign highlights the increasing struggles of working actors to book enough parts to remain insured."
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Lena H. Sun",
-      "title": "These superbugs pose the biggest threat to Americans, CDC says - The Washington Post",
-      "description": "Nineteen germs, mostly drug-resistant, cause an estimated 9.7 million infections and 50,800 deaths in the country each year.",
-      "url": "https://www.washingtonpost.com/health/2026/10/27/these-superbugs-pose-biggest-threat-americans-cdc-says/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6VBYGR7ABZPS7WUUTIOZDYTQSI_size-normalized.jpg&w=1440",
-      "publishedAt": "2026-10-28T00:00:00Z",
-      "content": "Nineteen germs, mostly drug-resistant, cause an estimated 9.7 million infections and 50,800 deaths in the country each year."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Apoorva Mandavilli",
-      "title": "Trump-Appointed CDC Deputy Director Jennifer Shuford Resigns After 4 Months",
-      "description": "Dr. Jennifer Shuford, a respected former Texas health official, had been appointed by President Trump to help steady the agency.",
-      "url": "https://www.nytimes.com/2026/10/27/health/shuford-cdc-resign.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/26/multimedia/26dc-cdc-fwlb/26dc-cdc-fwlb-mediumSquareAt3X-v2.jpg",
-      "publishedAt": "2026-10-27T15:07:59Z",
-      "content": "Dr. Jennifer Shuford, a respected former Texas health official, had been appointed by President Trump to help steady the agency."
     }
   ]
 }

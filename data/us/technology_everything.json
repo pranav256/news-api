@@ -6,9 +6,22 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-04T18:54:12.150365+00:00",
-  "articles_count": 31,
+  "fetched_at": "2026-11-05T00:32:29.831688+00:00",
+  "articles_count": 29,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Cecilia Kang and Sophia June",
+      "title": "Voters Rejected A.I. in the Midterms. Now Comes an Era of Scrutiny.",
+      "description": "After two years of little A.I. oversight, voters on Tuesday rejected data center projects and swept into office Democratic candidates who promised to regulate the technology.",
+      "url": "https://www.nytimes.com/2026/11/04/technology/midterm-elections-ai-data-centers.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/04/multimedia/04biz-ai-bluewave-sign-jgwf/04biz-ai-bluewave-sign-jgwf-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-04T19:53:16Z",
+      "content": "After two years of little A.I. oversight, voters on Tuesday rejected data center projects and swept into office Democratic candidates who promised to regulate the technology."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -34,19 +47,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/03/multimedia/OPENAI-WARROOM-1-03-qhlg/OPENAI-WARROOM-1-03-qhlg-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-03T23:39:55Z",
       "content": "OpenAI, Anthropic and other tech companies have vowed to protect Tuesday’s elections from efforts to undermine democracy."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Dana Goldstein and Natasha Singer",
-      "title": "Google Will Turn Off Search for Schools That Reject A.I.",
-      "description": "Google is making it easier to restrict its A.I. tools for students. But schools that block A.I. entirely will lose student access to Google’s search engine.",
-      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/04/multimedia/04-nat-google-schools-print/03nat-google-schools-cfkb-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-03T20:53:40Z",
-      "content": "Google is making it easier to restrict its A.I. tools for students. But schools that block A.I. entirely will lose student access to Google’s search engine."
     },
     {
       "source": {
@@ -365,19 +365,6 @@
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Emmy Martin",
-      "title": "Microsoft’s Profit Jumps 32% Despite Big Increase in Spending",
-      "description": "The company’s free cash flow stayed positive in the last quarter even as it spent $45.2 billion on capital expenses like data centers and offered to pay workers to leave.",
-      "url": "https://www.nytimes.com/2026/10/28/technology/microsoft-earnings-ai.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/28/multimedia/28biz-microsoft-earnings-zthl/28biz-microsoft-earnings-zthl-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-29T17:49:00Z",
-      "content": "The company’s free cash flow stayed positive in the last quarter even as it spent $45.2 billion on capital expenses like data centers and offered to pay workers to leave."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "Jason Zinoman",
       "title": "Bodacious A.I. Bots Are Stealing Jokes From Young Female Comedians",
       "description": "Swiping jokes word for word, these bodacious bots mainly lift from young female comedians. What’s so insidious is how they’re subtly changing us, the audience.",
@@ -398,19 +385,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/28/technology/personaltech/28BIZ-TECHTIP-TOP/28BIZ-TECHTIP-TOP-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-29T09:02:47Z",
       "content": "The recent updates to Google Maps and Apple’s Maps use artificial (and human) intelligence for better navigation, planning and travel guides."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Kate Conger",
-      "title": "Alphabet’s Revenue Rises 25% as Profit Falls",
-      "description": "The company has been spending relentlessly to build A.I. and said it would increase those investments next year. Profit dropped because of changes to the value of its investments.",
-      "url": "https://www.nytimes.com/2026/10/28/technology/alphabet-earnings-google-ai.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/28/multimedia/28biz-google-earnings-pcmt/28biz-google-earnings-pcmt-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-29T01:47:40Z",
-      "content": "The company has been spending relentlessly to build A.I. and said it would increase those investments next year. Profit dropped because of changes to the value of its investments."
     }
   ],
   "query": "technology AI software startup"
