@@ -5,9 +5,48 @@
   "providers": [
     "rss"
   ],
-  "fetched_at": "2026-11-05T08:36:44.583558+00:00",
-  "articles_count": 33,
+  "fetched_at": "2026-11-05T17:41:45.888082+00:00",
+  "articles_count": 32,
   "articles": [
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "BBC Inside Science",
+      "description": "A glimpse into the world of the incredibly tiny",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct978k?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg",
+      "publishedAt": "2026-11-05T17:00:00Z",
+      "content": "A glimpse into the world of the incredibly tiny"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Investigation into 'major fish kill' after pollution incident",
+      "description": "The pollution caused the death of brown and migratory sea trout in the Inler river.",
+      "url": "https://www.bbc.co.uk/news/articles/cx1l36y2d941o?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0d4/live/0f9efad0-d90f-11f1-94c6-3f8050561bf5.jpg",
+      "publishedAt": "2026-11-05T14:51:45Z",
+      "content": "The pollution caused the death of brown and migratory sea trout in the Inler river."
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Google refused 54K-name petition, say campaigners",
+      "description": "Campaigners oppose the development of a large data centre on a wildlife site at Thurrock.",
+      "url": "https://www.bbc.co.uk/news/articles/c5ev3wm3ng42o?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cca/live/7b91b3d0-d90b-11f1-93e1-3b657b665bcf.jpg",
+      "publishedAt": "2026-11-05T11:30:03Z",
+      "content": "Campaigners oppose the development of a large data centre on a wildlife site at Thurrock."
+    },
     {
       "source": {
         "id": "bbc-news",
@@ -85,32 +124,6 @@
       "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d9f/live/eef58360-a424-11ef-bdf5-b7cb2fa86e10.jpg",
       "publishedAt": "2026-11-04T05:57:48Z",
       "content": "Flatford Wildlife Garden is bought by the National Trust after being run by the RSPB for 15 years."
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Action needed to tackle 'biodiversity crisis'",
-      "description": "The issue is part of wider concerns the government is not focused enough on the environment.",
-      "url": "https://www.bbc.co.uk/news/articles/c8wy94ewzw03o?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92a6/live/b5b3ff00-d794-11f1-a701-fddedf244c16.jpg",
-      "publishedAt": "2026-11-03T17:25:10Z",
-      "content": "The issue is part of wider concerns the government is not focused enough on the environment."
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Charity warns about damage of over-foraging fungi",
-      "description": "It says over-foraging, particularly in protected areas, damages habitats and wildlife.",
-      "url": "https://www.bbc.co.uk/news/videos/cmp3gr673zz9o?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9f1/live/096a6cd0-d793-11f1-801d-cf196dc7232c.jpg",
-      "publishedAt": "2026-11-03T14:36:36Z",
-      "content": "It says over-foraging, particularly in protected areas, damages habitats and wildlife."
     },
     {
       "source": {
@@ -215,19 +228,6 @@
       "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43b9/live/727760b0-d47e-11f1-b441-2b33b063138f.jpg",
       "publishedAt": "2026-11-01T08:57:56Z",
       "content": "A number of birds are also injured after the spill from the oil tank earlier this week."
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Oil tank vandalism results in waterfowl park 'nightmare'",
-      "description": "The popular attraction in County Down has been forced to close while efforts continue to remove oil from the pond.",
-      "url": "https://www.bbc.co.uk/news/articles/c64g14ene2epo?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac4d/live/5c93d360-d450-11f1-8780-edcbf4859104.jpg",
-      "publishedAt": "2026-11-01T06:42:13Z",
-      "content": "The popular attraction in County Down has been forced to close while efforts continue to remove oil from the pond."
     },
     {
       "source": {
@@ -345,19 +345,6 @@
       "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19d5/live/72e7aa00-c71d-11f1-a82f-35874a3aae81.jpg",
       "publishedAt": "2026-10-14T05:00:35Z",
       "content": "Archaeologists say the wreck is up to 4,700 years old, dating to the Early Bronze Age."
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "BBC Inside Science",
-      "description": "What next for the world of maths after a major intrusion by AI?",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct9788?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg",
-      "publishedAt": "2026-10-08T20:00:00Z",
-      "content": "What next for the world of maths after a major intrusion by AI?"
     },
     {
       "source": {

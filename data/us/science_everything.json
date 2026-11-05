@@ -6,9 +6,22 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-05T08:36:44.583558+00:00",
-  "articles_count": 28,
+  "fetched_at": "2026-11-05T17:41:45.888082+00:00",
+  "articles_count": 24,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Franz Lidz",
+      "title": "Tiny Chihuahuas Hold a Big Surprise: A Sliver of Coyote DNA",
+      "description": "The breed is descended from indigenous canines, which may have been intentionally mixed with wild coyotes long before Europeans arrived in the Americas.",
+      "url": "https://www.nytimes.com/2026/11/05/science/chihuahuas-coyote-dna.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/04/science/04SCI-CHIHUAHUA-DNA-01/04SCI-CHIHUAHUA-DNA-01-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-05T10:02:53Z",
+      "content": "The breed is descended from indigenous canines, which may have been intentionally mixed with wild coyotes long before Europeans arrived in the Americas."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -138,19 +151,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/29/science/00SCI-UNKNOWNS-ANIMALS-promo/00SCI-UNKNOWNS-ANIMALS-legs-mediumSquareAt3X-v2.jpg",
       "publishedAt": "2026-11-02T10:00:21Z",
       "content": "There are more than 1.5 million known zoological species on Earth, with at least as many enigmas. Here are our top 10."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Stella Raine Chu",
-      "title": "These Patients Struggle With Runaway Bones. Finally There’s Hope.",
-      "description": "F.O.P., a rare genetic condition, causes uncontrolled explosions of bone. New drugs may slow or halt the process.",
-      "url": "https://www.nytimes.com/2026/10/29/science/fop-bones-drugs.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/29/multimedia/29SCI-FOP-kcwm/29SCI-FOP-kcwm-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-01T17:11:56Z",
-      "content": "F.O.P., a rare genetic condition, causes uncontrolled explosions of bone. New drugs may slow or halt the process."
     },
     {
       "source": {
@@ -300,19 +300,6 @@
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Joshua Rapp Learn",
-      "title": "Three Stone Age Caves Reveal Continual Cannibalism",
-      "description": "A tour of the three caves in southern Spain suggests that people in the area cannibalized one another as funerary practice over many generations.",
-      "url": "https://www.nytimes.com/2026/10/29/science/stone-age-cannibal-caves-of-spain.html",
-      "urlToImage": null,
-      "publishedAt": "2026-10-30T14:07:59Z",
-      "content": "A tour of the three caves in southern Spain suggests that people in the area cannibalized one another as funerary practice over many generations."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "Franz Lidz",
       "title": "Dozens of Headless Skeletons Pose a Macabre Mystery",
       "description": "Mass graves found at a Stone Age farming settlement in Slovakia have researchers baffled about the details — including the location of the missing skulls.",
@@ -320,45 +307,6 @@
       "urlToImage": null,
       "publishedAt": "2026-10-30T09:01:56Z",
       "content": "Mass graves found at a Stone Age farming settlement in Slovakia have researchers baffled about the details — including the location of the missing skulls."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Cade Metz",
-      "title": "After Reinventing Mathematics, Can A.I. Eradicate Computer Bugs?",
-      "description": "Using the same techniques that allowed A.I. technologies to crack a million-dollar math problem, researchers are building new systems that aim to solve the world’s cybersecurity crisis.",
-      "url": "https://www.nytimes.com/2026/10/29/science/ai-eradicate-computer-bugs.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/29/multimedia/29SCI-AND-TRUTH-01-hvwz/29SCI-AND-TRUTH-01-hvwz-mediumSquareAt3X-v2.jpg",
-      "publishedAt": "2026-10-29T21:09:09Z",
-      "content": "Using the same techniques that allowed A.I. technologies to crack a million-dollar math problem, researchers are building new systems that aim to solve the world’s cybersecurity crisis."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "David Gelles",
-      "title": "A Marathon Runner’s Hard Lesson",
-      "description": "Racing in Chicago showed your newsletter host firsthand how warming is disrupting the sport.",
-      "url": "https://www.nytimes.com/2026/10/29/climate/climate-marathon-running.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/29/multimedia/29cli-newsletter-marathon-01-bctk/29cli-newsletter-marathon-01-bctk-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-29T16:57:12Z",
-      "content": "Racing in Chicago showed your newsletter host firsthand how warming is disrupting the sport."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Brad Plumer",
-      "title": "New Batteries That Store Blistering Heat Are Taking Off",
-      "description": "Large batteries that store electricity have revolutionized power grids and car markets. Now some start-ups are betting that “heat batteries” could be just as transformative.",
-      "url": "https://www.nytimes.com/2026/10/29/climate/heat-battery-thermal-energy-storage.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/16/multimedia/00cli-hot-bricks-01-hqvp/00cli-hot-bricks-01-hqvp-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-29T16:05:30Z",
-      "content": "Large batteries that store electricity have revolutionized power grids and car markets. Now some start-ups are betting that “heat batteries” could be just as transformative."
     },
     {
       "source": {
