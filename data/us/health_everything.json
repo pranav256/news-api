@@ -6,8 +6,8 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-06T18:32:27.009390+00:00",
-  "articles_count": 31,
+  "fetched_at": "2026-11-06T23:50:20.275414+00:00",
+  "articles_count": 30,
   "articles": [
     {
       "source": {
@@ -15,12 +15,25 @@
         "name": "The New York Times"
       },
       "author": "Christina Jewett and Sheryl Gay Stolberg",
-      "title": "Trump Chief of Staff Accused of Blocking Healthy-Food Policies to Attract Donations",
+      "title": "Susie Wiles, Trump’s Chief of Staff, Is Accused of Blocking Health Policies to Attract Donations",
       "description": "In a no-holds-barred interview with Joe Rogan, Calley Means, a former top health adviser, accused Susie Wiles of repeatedly bowing to lobbying pressures and fixating on campaign contributions.",
-      "url": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-calley-means.html",
-      "urlToImage": null,
-      "publishedAt": "2026-11-06T18:25:23Z",
+      "url": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-calley-means-joe-rogan.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/06/us/0dc-wiles-means-promo/0dc-wiles-means-promo-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-06T22:03:52Z",
       "content": "In a no-holds-barred interview with Joe Rogan, Calley Means, a former top health adviser, accused Susie Wiles of repeatedly bowing to lobbying pressures and fixating on campaign contributions."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Carl Zimmer",
+      "title": "Biotech Firm Claims Some Credit for Groundbreaking Virus Research",
+      "description": "Radical Numerics turned heads with its announcement about a novel treatment. Now a former partner, Tabula Bioscience, says it performed much of the research.",
+      "url": "https://www.nytimes.com/2026/11/06/science/radical-numerics-tabula-phage.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/05/science/05SCI-PHAGE-01/05SCI-PHAGE-01-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-06T21:52:00Z",
+      "content": "Radical Numerics turned heads with its announcement about a novel treatment. Now a former partner, Tabula Bioscience, says it performed much of the research."
     },
     {
       "source": {
@@ -284,19 +297,6 @@
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Carolyn Y. Johnson and John Branch",
-      "title": "Brain Disease Is Pervasive in N.F.L., New Estimate Suggests",
-      "description": "Using statistical techniques, a new study has arrived at a harrowing estimate: Three of four retired pro football players most likely had C.T.E. at death.",
-      "url": "https://www.nytimes.com/2026/10/28/science/brain-disease-cte-nfl-football.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/28/science/28SCI-CTE-BRAINBANK/28SCI-CTE-BRAINBANK-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-28T16:31:14Z",
-      "content": "Using statistical techniques, a new study has arrived at a harrowing estimate: Three of four retired pro football players most likely had C.T.E. at death."
-    },
-    {
-      "source": {
         "id": "fox-news",
         "name": "Fox News"
       },
@@ -398,19 +398,6 @@
       "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/08/9b53f6da-a7bf-4cd5-a4de-0fb2f241dde6/thumbnail/1200x630/56a2b51c16d0198bdee5509eb68479e7/gettyimages-2227770689.jpg",
       "publishedAt": "2026-10-09T09:00:11Z",
       "content": "A cadre of elite techies, financiers, and high-level Trump administration officials have spent a year quietly charting an extraordinary and rapid campaign to persuade Americans to use apps and other … [+14665 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Jordan D. Metzl",
-      "title": "As a sports medicine doctor, here’s what I want you to know about peptides",
-      "description": "Washington Post: Can these compounds actually help improve physical health and longevity?",
-      "url": "https://www.washingtonpost.com/wellness/2026/09/28/sports-medicine-doctor-heres-what-i-want-you-know-about-peptides/",
-      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/IEBTFTX5TFBZLNFYPFZLCRE424.jpg?auth=a9fee3229620123c527924b5189379de10b22f070e98dcfd2e9a0310f1d615af&width=1200&height=675&quality=70&focal=1100%2C589&smart=false",
-      "publishedAt": "2026-10-05T17:00:00Z",
-      "content": "As a field, weve been very good at treating disease but less successful at preventing it. For most busy healthcare professionals, it is often easier to prescribe medication to treat an existing medic… [+6298 chars]"
     }
   ],
   "query": "medical health research wellness"
