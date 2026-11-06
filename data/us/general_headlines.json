@@ -6,21 +6,281 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-06T03:46:16.564221+00:00",
-  "articles_count": 55,
+  "fetched_at": "2026-11-06T11:37:50.785236+00:00",
+  "articles_count": 58,
   "articles": [
     {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Shawn Hubler, Jill Cowan and Orlando Mayorquín",
-      "title": "Nithya Raman Wins Los Angeles Mayoral Race, Defeating Karen Bass",
-      "description": "The 45-year-old City Council member defeated the incumbent mayor, Karen Bass, 73, a sweeping success for a new generation of progressive leaders.",
-      "url": "https://www.nytimes.com/2026/11/05/us/la-mayor-raman-bass.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/04/multimedia/04nat-lamayor-raman-zjvb/04nat-lamayor-raman-zjvb-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-06T03:35:27Z",
-      "content": "The 45-year-old City Council member defeated the incumbent mayor, Karen Bass, 73, a sweeping success for a new generation of progressive leaders."
+      "author": "Tracy Mumford, Will Jarvis, Margaret Kadifa, Jake Lucas, Cecilia Kang, Siobhán O’Grady and Stephanie Nolen",
+      "title": "A Data Center Backlash in the Midterms, and Melania Trump’s Surprising Diplomatic Role",
+      "description": "Plus, the Friday news quiz.",
+      "url": "https://www.nytimes.com/2026/11/06/podcasts/the-headlines/data-center-backlash-midterms-melania-trump-diplomatic-role-ukraine.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/06/multimedia/06thehealdines-data-01-pbzc/06thehealdines-data-01-pbzc-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-06T10:59:33Z",
+      "content": "Plus, the Friday news quiz."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Matthew Schmitz",
+      "title": "After These Midterms, JD Vance Is in a Bind",
+      "description": "He will need to sell voters on a tarnished Trump brand.",
+      "url": "https://www.nytimes.com/2026/11/06/opinion/jd-vance-midterms.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/06/multimedia/06schmitz-bwqz/06schmitz-bwqz-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-06T10:44:14Z",
+      "content": "He will need to sell voters on a tarnished Trump brand."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Amy Graff",
+      "title": "Florida Shattered Rain Records This Week. Was That Just a Preview?",
+      "description": "Parts of the state recorded two feet of rain in a day. Will this El Niño winter deliver even more?",
+      "url": "https://www.nytimes.com/2026/11/06/weather/florida-rain-el-nino.html",
+      "urlToImage": null,
+      "publishedAt": "2026-11-06T10:30:03Z",
+      "content": "Parts of the state recorded two feet of rain in a day. Will this El Niño winter deliver even more?"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "The New York Times",
+      "title": "Global Stocks Follow U.S. Sell-Off as A.I. Spending Fears Spread",
+      "description": "Markets in Asia and Europe tumbled, with Japan’s market falling into a bear market.",
+      "url": "https://www.nytimes.com/2026/11/06/business/global-stocks-markets-tech-ai.html",
+      "urlToImage": null,
+      "publishedAt": "2026-11-06T10:28:08Z",
+      "content": "Markets in Asia and Europe tumbled, with Japan’s market falling into a bear market."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Paul Sonne, Andrew E. Kramer and Marc Santora",
+      "title": "Guarded Optimism, and Some Jokes, in Ukraine Over Trump’s Midterm Wipeout",
+      "description": "Victory for Democrats could alter the course of peace negotiations and a war nearing its fifth year.",
+      "url": "https://www.nytimes.com/2026/11/06/world/europe/russia-ukraine-trump-midterms.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-russia-ukraine-midterms01-photo-kbzh/06int-russia-ukraine-midterms01-photo-kbzh-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-06T10:22:23Z",
+      "content": "Victory for Democrats could alter the course of peace negotiations and a war nearing its fifth year."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Alexander Nazaryan",
+      "title": "These Newly Elected Lawmakers Know Something Trump Doesn’t: Science",
+      "description": "Among those elected to Congress on Tuesday are a mathematician, a microbiologist and a chemical engineer. They plan to take on a White House that has threatened funding cuts to research.",
+      "url": "https://www.nytimes.com/2026/11/06/science/scientists-election-congress.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/06/science/06sci-politician-scientists/06sci-politician-scientists-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-06T10:03:57Z",
+      "content": "Among those elected to Congress on Tuesday are a mathematician, a microbiologist and a chemical engineer. They plan to take on a White House that has threatened funding cuts to research."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Sabrina Tavernise and Ruth Igielnik",
+      "title": "Fed Up With Politics and Struggle, Young Voters Rose Up",
+      "description": "Young people powered Democratic candidates, joining global demands for generational change from a cohort weary of older people sitting on jobs and devouring resources.",
+      "url": "https://www.nytimes.com/2026/11/06/us/politics/young-voters-democratic-wave-midterms.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/05/us/young-voter-promos-untitled/young-voter-promos-untitled-mediumSquareAt3X-v5.jpg",
+      "publishedAt": "2026-11-06T10:03:48Z",
+      "content": "Young people powered Democratic candidates, joining global demands for generational change from a cohort weary of older people sitting on jobs and devouring resources."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Vimal Patel and Dana Goldstein",
+      "title": "Texas Led the Conservative Overhaul of Education. What Now?",
+      "description": "In Texas, teaching on race and gender was restricted, Christianity was encouraged and private school vouchers expanded. It may be hard for Democrats to reverse those policies.",
+      "url": "https://www.nytimes.com/2026/11/06/us/texas-conservative-education-reform-hinojosa.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/06/multimedia/06nat-texas-education-01-mvpf/06nat-texas-education-01-mvpf-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-06T10:02:37Z",
+      "content": "In Texas, teaching on race and gender was restricted, Christianity was encouraged and private school vouchers expanded. It may be hard for Democrats to reverse those policies."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Emmy Martin",
+      "title": "Microsoft’s Buyout Offer Sets Its Workforce on Edge",
+      "description": "As Microsoft pours billions into artificial intelligence, the company has offered buyouts to about 60,000 employees. The work force was already on edge.",
+      "url": "https://www.nytimes.com/2026/11/06/technology/microsoft-buyouts.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/07/business/06biz-microsoft-employees-SUB/06biz-microsoft-employees-SUB-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-06T10:02:29Z",
+      "content": "As Microsoft pours billions into artificial intelligence, the company has offered buyouts to about 60,000 employees. The work force was already on edge."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Natasha Sarin, Elizabeth Wilkins and Emily Holzknecht",
+      "title": "What Democrats Can Do Now to Lower Costs",
+      "description": "Democrats have a chance to rewrite the rules of the economy. Here’s how.",
+      "url": "https://www.nytimes.com/2026/11/06/opinion/democrats-economy-affordability.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/06/opinion/06opinions-sarin-wilkins-image/06opinions-sarin-wilkins-image-mediumSquareAt3X.png",
+      "publishedAt": "2026-11-06T10:02:28Z",
+      "content": "Democrats have a chance to rewrite the rules of the economy. Here’s how."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Cade Metz",
+      "title": "How A.I. Just Blew Up a Key Tenet of Computer Science",
+      "description": "A longstanding hypothesis held that some problems would always be hard for computers to solve quickly. But OpenAI disproved it — raising the possibility of radical new efficiencies.",
+      "url": "https://www.nytimes.com/2026/11/06/science/ai-exponential-time-hypothesis.html",
+      "urlToImage": null,
+      "publishedAt": "2026-11-06T10:02:06Z",
+      "content": "A longstanding hypothesis held that some problems would always be hard for computers to solve quickly. But OpenAI disproved it — raising the possibility of radical new efficiencies."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Roger Cohen",
+      "title": "Like Trump, Netanyahu Finds the Limits to Fear-Mongering",
+      "description": "By leaning into nativist absolutism, Netanyahu almost doubled the Arab vote, creating a political — and foundational — crisis for Israel.",
+      "url": "https://www.nytimes.com/2026/11/06/magazine/trump-netanyahu-fear-elections.html",
+      "urlToImage": null,
+      "publishedAt": "2026-11-06T10:01:51Z",
+      "content": "By leaning into nativist absolutism, Netanyahu almost doubled the Arab vote, creating a political — and foundational — crisis for Israel."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Roni Caryn Rabin",
+      "title": "As Hormone Use Increases, Some Doctors Warn Slight Cancer Risk Is Being Overlooked",
+      "description": "Doctors said that women should receive treatment for menopause symptoms, but need accurate information about the drugs.",
+      "url": "https://www.nytimes.com/2026/11/06/well/hormone-therapy-menopause-cancer.html",
+      "urlToImage": null,
+      "publishedAt": "2026-11-06T10:00:37Z",
+      "content": "Doctors said that women should receive treatment for menopause symptoms, but need accurate information about the drugs."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Alexis Soloski and David Billet",
+      "title": "Jordan Firstman, of ‘Club Kid,’ Knows How to Party",
+      "description": "An Instagram troublemaker becomes a sentimental filmmaker with his debut feature, “Club Kid.”",
+      "url": "https://www.nytimes.com/2026/11/06/movies/jordan-firstman-knows-how-to-party-and-when-to-go-home.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/15/multimedia/15cul-jordan-firstman-promo-zgmb/15cul-jordan-firstman-promo-zgmb-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-06T10:00:25Z",
+      "content": "An Instagram troublemaker becomes a sentimental filmmaker with his debut feature, “Club Kid.”"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Steven Erlanger",
+      "title": "Europe Still Sees Trump As Powerful, Especially in Foreign Policy",
+      "description": "The commanding victory of the Democrats has brought private relief to some Europeans but no official glee, with Ukraine, Iran and NATO all hanging in the balance.",
+      "url": "https://www.nytimes.com/2026/11/06/world/europe/europe-trump-midterms.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/06/multimedia/06europe-trump-01-bwzm/06europe-trump-01-bwzm-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-06T10:00:19Z",
+      "content": "The commanding victory of the Democrats has brought private relief to some Europeans but no official glee, with Ukraine, Iran and NATO all hanging in the balance."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Robert B. Semple Jr.",
+      "title": "Day Drinking With the President",
+      "description": "On a visit to Lyndon Johnson’s Texas ranch, a cub reporter learned why it pays to get out of Washington.",
+      "url": "https://www.nytimes.com/2026/11/06/us/politics/lbj-ranch-1965-robert-b-semple-jr.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/06/multimedia/06-EYEWITNESS-LBJ-RANCH-1-qclk/06-EYEWITNESS-LBJ-RANCH-1-qclk-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-06T10:00:06Z",
+      "content": "On a visit to Lyndon Johnson’s Texas ranch, a cub reporter learned why it pays to get out of Washington."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Trish Bendix",
+      "title": "Late Night Finds Trump Supporters Jumping Ship",
+      "description": "“Wouldn’t it be ironic if the only person who stands by Trump is Melania?” Jimmy Fallon said after Republicans began distancing themselves from the president after the midterms.",
+      "url": "https://www.nytimes.com/2026/11/06/arts/television/late-night-midterms-trump.html",
+      "urlToImage": null,
+      "publishedAt": "2026-11-06T07:26:01Z",
+      "content": "“Wouldn’t it be ironic if the only person who stands by Trump is Melania?” Jimmy Fallon said after Republicans began distancing themselves from the president after the midterms."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Luke Broadwater, Zach Montague and Emily Badger",
+      "title": "Judge Promptly Blocks Work on Trump’s Triumphal Arch After It’s Approved",
+      "description": "The judge acted swiftly after a federal planning board led by the president’s allies approved Trump’s 250-foot arch project on Thursday.",
+      "url": "https://www.nytimes.com/2026/11/05/us/politics/trump-triumphal-arch-planning-commission.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/24/multimedia/05dc-arch/24dc-trump-security-p1-gwmp-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-06T06:14:10Z",
+      "content": "The judge acted swiftly after a federal planning board led by the president’s allies approved Trump’s 250-foot arch project on Thursday."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Motoko Rich",
+      "title": "12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery",
+      "description": "Pope Leo XIV’s tour of Uruguay, Argentina and Peru is his first major trip since an operation on his lung last month.",
+      "url": "https://www.nytimes.com/2026/11/06/world/europe/pope-leo-visit-uruguay-argentina-peru.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-pope-latam-01-qlvc/06int-pope-latam-01-qlvc-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-06T05:01:25Z",
+      "content": "Pope Leo XIV’s tour of Uruguay, Argentina and Peru is his first major trip since an operation on his lung last month."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Motoko Rich, Emma Bubola and Julie Turkewitz",
+      "title": "Pope Leo’s Trip to Latin America: What to Know",
+      "description": "Less than a month after lung surgery, Pope Leo XIV is landing in Uruguay on Friday, the first stop of a 12-day voyage across South America.",
+      "url": "https://www.nytimes.com/2026/11/06/world/americas/pope-leo-uruguay-argentina-peru.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-pope-latam-wtk01-photo-cjbl/06int-pope-latam-wtk01-photo-cjbl-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-06T05:01:17Z",
+      "content": "Less than a month after lung surgery, Pope Leo XIV is landing in Uruguay on Friday, the first stop of a 12-day voyage across South America."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "David Pierson and Berry Wang",
+      "title": "A Summit in China With Trump and Putin? That Might be Awkward for Xi.",
+      "description": "A summit could bolster Xi Jinping’s stature. But talks about Ukraine’s future and limits on nuclear weapons pose uncomfortable choices for China.",
+      "url": "https://www.nytimes.com/2026/11/06/world/asia/china-trump-putin-xi-summit.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-china-trilateral-01-tcfb/06int-china-trilateral-01-tcfb-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-06T05:01:11Z",
+      "content": "A summit could bolster Xi Jinping’s stature. But talks about Ukraine’s future and limits on nuclear weapons pose uncomfortable choices for China."
     },
     {
       "source": {
@@ -40,45 +300,6 @@
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Vanessa Friedman",
-      "title": "The Many Meanings of James Talarico’s Winning Cowboy Boots",
-      "description": "Obviously, the Texas election was about more than shoes. But the symbolism mattered.",
-      "url": "https://www.nytimes.com/2026/11/05/style/james-talarico-cowboy-boots-texas-senate-race.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/29/multimedia/29TALARICO-LUCCHESE-btkz/29TALARICO-LUCCHESE-btkz-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-06T02:25:16Z",
-      "content": "Obviously, the Texas election was about more than shoes. But the symbolism mattered."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Emma G. Fitzsimmons, Andrea Barnes, David Cheung and Christopher Maag",
-      "title": "6 Killed in Sunset Park Blaze: NYC’s Deadliest Fire This Year",
-      "description": "Six people died in a blaze at a home in Sunset Park, the deadliest fire in the city this year. The cause is not yet clear, but Mayor Zohran Mamdani raised concerns about electric bikes.",
-      "url": "https://www.nytimes.com/2026/11/05/nyregion/brooklyn-fire-sunset-park.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/05/nyregion/05xp-fire1-promo/05xp-fire1-promo-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-06T02:18:11Z",
-      "content": "Six people died in a blaze at a home in Sunset Park, the deadliest fire in the city this year. The cause is not yet clear, but Mayor Zohran Mamdani raised concerns about electric bikes."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Glenn Thrush, Michael C. Bender and Alan Feuer",
-      "title": "Harmeet Dhillon, Leader of Justice Department’s Civil Rights Unit, Resigns",
-      "description": "The move came after conflicts with Justice Department leaders, including disagreements over legal strategy in the midterm elections, people familiar with the matter said.",
-      "url": "https://www.nytimes.com/2026/11/05/us/politics/harmeet-dhillon-resigns-doj-civil-rights-unit.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/05/multimedia/dc-dhillon-gbkh/dc-dhillon-gbkh-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-06T01:36:29Z",
-      "content": "The move came after conflicts with Justice Department leaders, including disagreements over legal strategy in the midterm elections, people familiar with the matter said."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "Erica L. Green",
       "title": "Trump Moves to Make Oval Office a National Monument",
       "description": "The president’s announcement reinforced his post-midterm elections preoccupation on White House renovation projects.",
@@ -86,32 +307,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/05/multimedia/05dc-trump-tzcf/05dc-trump-tzcf-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-06T01:24:38Z",
       "content": "The president’s announcement reinforced his post-midterm elections preoccupation on White House renovation projects."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Jodi Kantor and Michael S. Schmidt",
-      "title": "DOJ Steps Up Leak Investigation on Supreme Court Decision Overturning Roe v. Wade",
-      "description": "Investigators, using subpoenas and other law enforcement powers, are accelerating an inquiry that takes the Trump administration into the inner workings of the court.",
-      "url": "https://www.nytimes.com/2026/11/05/us/politics/supreme-court-trump-abortion-leak-dobbs.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/04/multimedia/00dc-scotus-investigation-top-pwtb/00dc-scotus-investigation-top-pwtb-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-06T01:10:29Z",
-      "content": "Investigators, using subpoenas and other law enforcement powers, are accelerating an inquiry that takes the Trump administration into the inner workings of the court."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Emily Cochrane and Campbell Robertson",
-      "title": "In Tight Mississippi Senate Race, Votes Are Carefully Scrutinized",
-      "description": "A phalanx of lawyers, observers and campaign officials are watching the counting of votes in the race for Senate, where a Democratic challenger has a slim lead.",
-      "url": "https://www.nytimes.com/2026/11/05/us/mississippi-senate-colom-hydesmith-votes.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/05/multimedia/05nat-mississippi-senate-01-fbjg/05nat-mississippi-senate-01-fbjg-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-06T01:03:27Z",
-      "content": "A phalanx of lawyers, observers and campaign officials are watching the counting of votes in the race for Senate, where a Democratic challenger has a slim lead."
     },
     {
       "source": {
@@ -131,182 +326,117 @@
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Laurel Rosenhall",
-      "title": "Newsom Commutes the Sentences of California’s 548 Death Row Inmates",
-      "description": "Gov. Gavin Newsom, who is considering a run for president, called capital punishment morally objectionable. Though California hasn’t executed anyone for 20 years, that represents about a quarter of death sentences nationwide.",
-      "url": "https://www.nytimes.com/2026/11/05/us/california-death-row-newsom-commutation.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/05/multimedia/05nat-newsom-deathpenalty-zjql/05nat-newsom-deathpenalty-zjql-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-06T00:44:34Z",
-      "content": "Gov. Gavin Newsom, who is considering a run for president, called capital punishment morally objectionable. Though California hasn’t executed anyone for 20 years, that represents about a quarter of death sentences nationwide."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Michelle Goldberg",
-      "title": "Elon Musk’s Very Bad Night",
-      "description": "The midterms vote was an epic rebuke of Silicon Valley.",
-      "url": "https://www.nytimes.com/2026/11/05/opinion/elon-musk-midterms-trump-results.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/05/multimedia/05goldberg-fjvq/05goldberg-fjvq-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-06T00:28:41Z",
-      "content": "The midterms vote was an epic rebuke of Silicon Valley."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Anton Troianovski",
-      "title": "Trump Says He Met With a Senior Russian Official on a Ukraine Peace Deal",
-      "description": "President Trump said the deal “might involve all of Europe.” He indicated he had met with a Kremlin envoy whom Melania Trump hosted at the White House on Thursday.",
-      "url": "https://www.nytimes.com/2026/11/05/us/politics/trump-russian-official-ukraine-peace-deal.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/05/multimedia/05dc-trump-russia-bchv/05dc-trump-russia-bchv-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-05T23:47:35Z",
-      "content": "President Trump said the deal “might involve all of Europe.” He indicated he had met with a Kremlin envoy whom Melania Trump hosted at the White House on Thursday."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Greg Jaffe",
-      "title": "Hegseth Lashes Out at Critics Calling for His Firing",
-      "description": "In a new video, the defense secretary vowed to “finish what we have started.” Some Republicans say the Iran war was a big factor in their party’s midterm losses.",
-      "url": "https://www.nytimes.com/2026/11/05/us/politics/hegseth-video-midterms-trump.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/05/multimedia/05dc-hegseth-fcbw/05dc-hegseth-fcbw-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-05T23:30:30Z",
-      "content": "In a new video, the defense secretary vowed to “finish what we have started.” Some Republicans say the Iran war was a big factor in their party’s midterm losses."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Alex Marshall",
-      "title": "How British Law Informed Russell Brand Trial Coverage",
-      "description": "British criminal trials like Russell Brand’s have rules around what can be reported.",
-      "url": "https://www.nytimes.com/2026/11/05/insider/russell-brand-trial-british-law.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/05/multimedia/05insider-brand1/05insider-brand-bkjt-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-05T22:56:32Z",
-      "content": "British criminal trials like Russell Brand’s have rules around what can be reported."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "John Ismay and Chris Cameron",
-      "title": "National Guard to Expand Patrols in Washington With Military Vehicles and Boats",
-      "description": "The Pentagon said that the decision by Pete Hegseth to widen the patrols was made on Oct. 29, just before a landslide defeat for Republicans in the midterm elections.",
-      "url": "https://www.nytimes.com/2026/11/05/us/politics/washington-dc-national-guard-troops-hegseth-trump.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/05/multimedia/05dc-guard-jbwm/05dc-guard-jbwm-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-05T22:50:58Z",
-      "content": "The Pentagon said that the decision by Pete Hegseth to widen the patrols was made on Oct. 29, just before a landslide defeat for Republicans in the midterm elections."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Tyler Pager and Anatoly Kurmanaev",
-      "title": "Rubio Dismisses Reports He Will Leave His Jobs to Run for President",
-      "description": "President Trump’s secretary of state and national security adviser said he intended to stick with the administration to the end.",
-      "url": "https://www.nytimes.com/2026/11/05/us/politics/marco-rubio-2028.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/05/multimedia/05dc-rubio-mfpc/05dc-rubio-mfpc-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-05T22:49:38Z",
-      "content": "President Trump’s secretary of state and national security adviser said he intended to stick with the administration to the end."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Whet Moser",
-      "title": "The Evening: The Blue Wave Swells",
-      "description": "Plus, Gov. Gavin Newsom clears California’s death row. Here’s the latest at the end of Thursday.",
-      "url": "https://www.nytimes.com/2026/11/05/briefing/elections-newsom-amodei.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/05/multimedia/05evening-nl-midterms-colom-zbwl/05evening-nl-midterms-colom-zbwl-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-05T22:48:30Z",
-      "content": "Plus, Gov. Gavin Newsom clears California’s death row. Here’s the latest at the end of Thursday."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Adam Liptak",
-      "title": "Why a Merciless Supreme Court Rebuke on Election Eve Matters",
-      "description": "The justices took just hours to reject Trump’s bid to meddle in the election.",
-      "url": "https://www.nytimes.com/2026/11/05/us/politics/the-docket-supreme-court-election-eve.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/05/multimedia/05thedocket-nl-kctm/05thedocket-nl-kctm-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-05T22:21:55Z",
-      "content": "The justices took just hours to reject Trump’s bid to meddle in the election."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Dodai Stewart and Mark Abramson",
-      "title": "He Felt Stuck in New York. So He Started Walking to California.",
-      "description": "A Bronx native who’d spent his whole life in the city left on foot in May.",
-      "url": "https://www.nytimes.com/2026/11/05/nyregion/chantz-rivera-walk-across-america-ny-california.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/05/multimedia/05met-walking-america-promo/05met-walking-america-hmlk-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-05T21:05:59Z",
-      "content": "A Bronx native who’d spent his whole life in the city left on foot in May."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Alex Marshall",
-      "title": "Russell Brand Is Found Guilty of Rape and Sexual Assault",
-      "description": "The judge in London said the popular conspiratorial YouTuber and former movie star would be sentenced to “significant custodial time.”",
-      "url": "https://www.nytimes.com/2026/11/05/arts/russell-brand-rape-sexual-assault-trial-verdict.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/04/multimedia/cul-russell-brown-verdict-hfo-qkpw/cul-russell-brown-verdict-hfo-qkpw-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-05T20:08:30Z",
-      "content": "The judge in London said the popular conspiratorial YouTuber and former movie star would be sentenced to “significant custodial time.”"
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Ana Ionova",
-      "title": "How Did Flávio Bolsonaro Flee Brazil? ‘I’ll Take That to the Grave,’ He Says",
-      "description": "From Miami, Flávio Bolsonaro is making unfounded claims of a stolen election and plotting to sway his nation’s politics from afar, even though his party is not challenging the results.",
-      "url": "https://www.nytimes.com/2026/11/05/world/americas/flavio-bolsonaro-florida-brazil.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-bolsonaro-interview01a-photo-flzk/05int-bolsonaro-interview01a-photo-flzk-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-05T19:56:52Z",
-      "content": "From Miami, Flávio Bolsonaro is making unfounded claims of a stolen election and plotting to sway his nation’s politics from afar, even though his party is not challenging the results."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "David French",
-      "title": "MAGA Finally Gets What It Deserves",
-      "description": "The Ozymandias election.",
-      "url": "https://www.nytimes.com/2026/11/05/opinion/maga-trump-midterms.html",
+      "author": "Alissa Wilkinson",
+      "title": "‘Club Kid’ Review: When the Lights Come Up",
+      "description": "In his confident and exuberant directorial debut, Jordan Firstman stars as a party promoter who has to grow up.",
+      "url": "https://www.nytimes.com/2026/11/05/movies/club-kid-review.html",
       "urlToImage": null,
-      "publishedAt": "2026-11-05T17:54:36Z",
-      "content": "The Ozymandias election."
+      "publishedAt": "2026-11-05T10:02:27Z",
+      "content": "In his confident and exuberant directorial debut, Jordan Firstman stars as a party promoter who has to grow up."
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
       },
-      "author": "Motoko Rich",
-      "title": "Up in the Clouds With the Pope, It’s Still Commercial",
-      "description": "Unlike American presidents, Pope Leo XIV has no private jet, so he travels on commercial airlines, like the rest of us. Well, almost.",
-      "url": "https://www.nytimes.com/2026/11/02/world/europe/pope-plane-shepherd-one-flights.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/08/multimedia/08pope-plane-01-wfpl/08pope-plane-01-wfpl-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-05T17:19:41Z",
-      "content": "Unlike American presidents, Pope Leo XIV has no private jet, so he travels on commercial airlines, like the rest of us. Well, almost."
+      "author": "Al Jazeera Staff",
+      "title": "Israel’s Herzog accepts vote results, opens talks on forming a government - Al Jazeera",
+      "description": "Move deals blow to Netanyahu’s efforts to discredit the elections, in which he and his allies lost their majority.",
+      "url": "https://www.aljazeera.com/news/2026/11/5/israels-herzog-accepts-vote-results-opens-talks-on-forming-a-government",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-04T143958Z_1468020715_RC2YGOAUCQCD_RTRMADP_3_ISRAEL-ELECTION-HERZOG-1793832020.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-11-05T08:14:05Z",
+      "content": "Israels President Isaac Herzog has accepted the certified results of last weeks parliamentary elections and begun consultations with party leaders on whom to task with forming the next government.\r\nT… [+3998 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Michael Sinkewicz",
+      "title": "Powerball's massive $847M jackpot won by lucky ticket holder in New Jersey - Fox Business",
+      "description": "A New Jersey ticket matched all six Powerball numbers to claim the $847 million jackpot on Wednesday, but the winner's identity remains a mystery.",
+      "url": "https://www.foxbusiness.com/lifestyle/powerballs-massive-847m-jackpot-won-lucky-ticket-holder-new-jersey",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/08/0/0/iStock-504384850.jpg?ve=1&tl=1",
+      "publishedAt": "2026-11-05T07:39:00Z",
+      "content": "A ticket sold in New Jersey matched all six winning numbers in Wednesday's Powerball drawing to claim the $847 million jackpot.\r\nThe grand prize has an estimated cash value of $363.1 million and is t… [+2477 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Hugh Leask, Lee Ying Shan, Davis Giangiulio",
+      "title": "Stock futures mixed, neocloud slump deepens after Democrats' midterm win rally - CNBC",
+      "description": "The Dow Industrials posted its best day since April 2025, surging 3% after Democrats decisively swept Congress and oil prices fell.",
+      "url": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108348538-1786548860834-108348538-1786548734348-gettyimages-2289681079-LONDIAN_WASON_IPO.jpg?v=1786548870&w=1920&h=1080",
+      "publishedAt": "2026-11-05T07:25:05Z",
+      "content": "U.S. equity futures traded mixed early Thursday following a rally on the heels of a sharp decline in the price of oil amid the Democrats' midterm wins.\r\nS&amp;P 500 futures were down 0.1%, while Nasd… [+2738 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "The Associated Press",
+      "title": "Bob Dylan comes knockin' on pope's door as Leo welcomes legend to Vatican - NPR",
+      "description": "The American singer-songwriter and poet visited with the American pope at the Vatican during a break between concert dates in Italy. The Vatican said the encounter was brief.",
+      "url": "https://www.npr.org/2026/11/05/g-s1-152035/vatican-pope-bob-dylan",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7087x3986+0+369/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2e%2F8e%2Feb78e83745ad833d90b6ed5feaa1%2Fap26308606767348.jpg",
+      "publishedAt": "2026-11-05T07:02:12Z",
+      "content": "VATICAN CITY Bob Dylan came knockin' on Pope Leo XIV' s door Wednesday, as the American singer-songwriter and poet visited with the American pope at the Vatican during a break between concert dates i… [+2400 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Arjun Kharpal",
+      "title": "Nintendo Switch 2 sales plunge 41% as price hikes and memory crunch bite - CNBC",
+      "description": "Sales of Nintendo's flagship Switch 2 plunged in its fiscal second quarter after the Japanese gaming giant rolled out price hikes amid soaring memory costs.",
+      "url": "https://www.cnbc.com/2026/11/05/nintendo-earnings-switch-2-sales.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108160824-1750231226798-gettyimages-2218016424-JAPAN_NINTENDO_SWITCH_2.jpeg?v=1770172023&w=1920&h=1080",
+      "publishedAt": "2026-11-05T06:50:12Z",
+      "content": "Sales of Nintendo's flagship Switch 2 plunged in its fiscal second quarter after the Japanese gaming giant rolled out price hikes amid soaring memory costs.\r\nNintendo said it sold 2.67 million units … [+1828 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FRANCE 24 English"
+      },
+      "author": "https://www.facebook.com/FRANCE24.English",
+      "title": "Live: France braces for nationwide strikes in fresh test for Macron’s policies - France 24",
+      "description": "Strikes and demonstrations are planned across France on Thursday, with trade unions urging the government to support households struggling with rising living costs. The nationwide action follows weeks…",
+      "url": "https://www.france24.com/en/france/20261105-live-france-nationwide-strikes-living-costs",
+      "urlToImage": "https://s.france24.com/media/display/8104c804-d8eb-11f1-af97-a575454bc579/w:1280/p:16x9/000-D4ZV8HR.jpg",
+      "publishedAt": "2026-11-05T05:53:09Z",
+      "content": "05/11/2026 - 10:41Firefighters bring fire in Aubervilliers under control by firefighters\r\nFirefighters have brought a fire in Aubervilliers, a suburb northeast of Paris, under control, says FRANCE 24… [+3620 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DW (English)"
+      },
+      "author": "Dharvi Vaid Dhulia",
+      "title": "NASA's Swift space telescope plunges back to Earth in fiery demise - DW.com",
+      "description": "NASA's Swift orbital observatory fell back to Earth after running its mission for more than two decades. A rescue attempt to raise its sinking orbit had earlier failed.",
+      "url": "https://www.dw.com/en/nasas-swift-space-telescope-plunges-back-to-earth-in-fiery-demise/a-79859805",
+      "urlToImage": "https://static.dw.com/image/79859748_6.jpg",
+      "publishedAt": "2026-11-05T04:43:28Z",
+      "content": "A premier NASA space telescope met a fiery end as it crashed back to Earth   two decades after its launch   following the failure of a rescue mission.\r\nThe unmanned Neil Gehrels Swift Observatory re-… [+1724 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Herb Scribner",
+      "title": "Vance says the Iran war cost Republicans the midterms - Axios",
+      "description": "\"The reason we lost is the war.\"",
+      "url": "https://www.axios.com/2026/11/04/jd-vance-iran-war-trump-election",
+      "urlToImage": "https://images.axios.com/dZIkexiCzm8Z7X0kL7R6WnmE0zc=/0x0:5550x3122/1366x768/2026/11/04/1793807446869.jpeg",
+      "publishedAt": "2026-11-05T04:37:09Z",
+      "content": "<ul><li>Vance's comments come hours after Trump admitted the Iran war partly played a role in pushing Democrats over the edge.</li><li>Trump's son Donald Jr was quick to apparently endorse Vance's me… [+2273 chars]"
     },
     {
       "source": {
@@ -323,81 +453,55 @@
     },
     {
       "source": {
-        "id": "politico",
-        "name": "Politico"
-      },
-      "author": "Melanie Mason, Liam Dillon",
-      "title": "‘An earthquake’: Nithya Raman’s rise jolts LA’s political establishment - Politico",
-      "description": "If her lead holds — and Raman and Bass allies alike expect it to — Raman’s victory will mark the latest win for the ascendant left.",
-      "url": "https://www.politico.com/news/2026/11/04/nithya-raman-rise-jolts-la-establishment-01151074",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Ff6%2F67%2Fa11ec86d43bf9b5e4afb6e87492a%2Faptopix-election-2-26-los-angeles-mayor-8-894.jpg",
-      "publishedAt": "2026-11-05T03:12:00Z",
-      "content": "LOS ANGELES Nithya Ramans widening lead over Karen Bass in Los Angeles mayoral race is scrambling the political hierarchy of the nations second-largest city, even before the race is called. \r\nIf her … [+1087 chars]"
-    },
-    {
-      "source": {
         "id": null,
-        "name": "CNBC"
-      },
-      "author": "Lee Ying Shan, Davis Giangiulio",
-      "title": "Stock futures are little changed after big rally following Democrats' decisive midterm wins - CNBC",
-      "description": "The Dow Industrials posted its best day since April 2025, surging 3% after Democrats decisively swept Congress and oil prices fell.",
-      "url": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108348538-1786548860834-108348538-1786548734348-gettyimages-2289681079-LONDIAN_WASON_IPO.jpg?v=1786548870&w=1920&h=1080",
-      "publishedAt": "2026-11-05T03:01:57Z",
-      "content": "U.S. equity futures rose on Wednesday evening following a rally on the heels of a sharp decline in the price of oil and certainty around the Democrats' midterm wins.\r\nFutures tied to the Dow Jones In… [+2535 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Twz.com"
-      },
-      "author": "Tyler Rogoway",
-      "title": "NASA Announces X-70 \"Fractal\" Experimental Aircraft - TWZ",
-      "description": "The X-70 will be able to test new flight control capabilities and will push the bounds of maneuverability.",
-      "url": "https://www.twz.com/space/nasa-announces-x-70-fractal-experimental-aircraft",
-      "urlToImage": "https://www.twz.com/wp-content/uploads/2026/11/X70-NASA.jpg?w=1200",
-      "publishedAt": "2026-11-05T02:37:32Z",
-      "content": "NASA just unveiled its latest X-plane, the X-70 Fractal, which Administrator Jared Isaacman had teased last week, at the UP.Summit at Kennedy Space Center today. \r\nThe aircraft is described as crewed… [+3096 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
+        "name": "Financial Times"
       },
       "author": null,
-      "title": "US singer Bob Dylan meets Pope Leo XIV in Vatican City - BBC",
-      "description": "Pope Leo had previously quoted Dylan's work in the preface of a book warning against nuclear rearmament.",
-      "url": "https://www.bbc.com/news/articles/cm0e035n13ylo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/dfbd/live/91275ec0-d8b6-11f1-a51b-9f26c18566b3.jpg",
-      "publishedAt": "2026-11-05T02:09:23Z",
-      "content": "Dylan, 85, wore a nearly all-black outfit, including a pulled up hoodie, gloves and umbrella, starkly contrasting with the Chicago-born Pope's all-white vestments."
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Winnie Hsu, Ruth Carson",
-      "title": "Asian Stocks to Rise as Oil Slides After US Vote: Markets Wrap - Bloomberg.com",
-      "description": "A stock-rotation trade fueled by the US midterm elections swept Asia, denting regional chipmakers and boosting unfavored markets from China to Australia. Sliding oil prices helped fuel gains in Southeast Asia.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-04/stock-market-today-dow-s-p-live-updates",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igo0iYpSE7d4/v0/1200x800.jpg",
-      "publishedAt": "2026-11-05T01:43:00Z",
-      "content": "A stock-rotation trade fueled by the US midterm elections swept Asia, denting regional chipmakers and boosting unfavored markets from China to Australia. Sliding oil prices helped fuel gains in South… [+428 chars]"
+      "title": "China blocks SoftBank’s $5.4bn takeover of ABB’s robotics division - Financial Times",
+      "description": "Swiss-Swedish company’s unit is focused on Chinese market and has mega-factory in Pudong",
+      "url": "https://www.ft.com/content/f10c3e24-45e4-47ff-bde2-24a8de90aec4?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4d94014d-82c5-465c-904f-71691a373299.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "publishedAt": "2026-11-05T03:02:02Z",
+      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
     },
     {
       "source": {
         "id": "the-washington-post",
         "name": "The Washington Post"
       },
-      "author": "Natalie Allison",
-      "title": "Vance says voters want to ‘end the war,’ change Israel relationship - The Washington Post",
-      "description": "Vice President JD Vance, a potential 2028 contender, acknowledged some failures of the administration’s policies.",
-      "url": "https://www.washingtonpost.com/politics/2026/11/04/vance-blames-republicans-midterm-losses-iran-war-cost-living/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/ALNMGPWXCUI7DEYK4CHYBBXVVQ.jpg&w=1440",
-      "publishedAt": "2026-11-05T01:39:20Z",
-      "content": "For months, Vice President JD Vance had publicly defended the presidents war with Iran, even as he privately opposed it. Vance routinely explained it as something President Donald Trump felt was nece… [+57 chars]"
+      "author": "Katie Mettler",
+      "title": "Indiana plans execution using drugs from pharmacy facing state probe, lawyer says - The Washington Post",
+      "description": "Attorneys for Jeffrey Weisheit have asked Indiana to call off the scheduled lethal injection.",
+      "url": "https://www.washingtonpost.com/nation/2026/11/04/indiana-plans-execution-using-drugs-pharmacy-facing-state-probe-lawyer-says/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/S6QIJQ36DF6UGS4ZG5SKUKXLNE_size-normalized.jpg&w=1440",
+      "publishedAt": "2026-11-05T03:01:00Z",
+      "content": "Indiana is set to carry out an execution early Thursday, despite concerns raised by the death row inmates legal team and opponents of capital punishment who say the lethal injection drugs the state p… [+148 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hollywood Reporter"
+      },
+      "author": "Steven Zeitchik",
+      "title": "Six Hollywood Consequences of Tuesday’s Democrat Blockbuster - The Hollywood Reporter",
+      "description": "From the federal tax credit to cable-news trolling to AI regulation, the world looks a lot different today than it did last week before the election.",
+      "url": "http://www.hollywoodreporter.com/news/politics-news/hollywood-consequences-democrat-blockbuster-midterms-trump-1236748202/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/johnoliver.jpg?w=1440&h=810&crop=1",
+      "publishedAt": "2026-11-05T02:59:09Z",
+      "content": "The massive showing by Democrats in Tuesday’s midterm elections impacts everyone who lives in this country. But the entertainment industry has a particular role, given its charge to tell stories — to… [+10016 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YourTango"
+      },
+      "author": "Kate Rose",
+      "title": "Your Love Horoscope Is Here For Thursday, November 5: Retrograde Venus Aligns With Jupiter - YourTango",
+      "description": "Your zodiac sign's daily love horoscope is here for November 5, 2026. See how the alignment of retrograde Venus and Jupiter affects your love life on Thursday.",
+      "url": "https://www.yourtango.com/2026402438/love-horoscope-thursday-november-05-2026",
+      "urlToImage": "https://www.yourtango.com/sites/default/files/image_blog/2026-11/daily-love-horoscopes-november-5-2026.png",
+      "publishedAt": "2026-11-05T02:06:14Z",
+      "content": "Your zodiac sign's daily love horoscope is here for November 5, 2026. This retrograde season has been quite the journey, but we're almost at the finish line. Despite all the challenges and delays, Th… [+7393 chars]"
     },
     {
       "source": {
@@ -414,16 +518,29 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "The Texas Tribune"
+        "id": "bloomberg",
+        "name": "Bloomberg"
       },
-      "author": "Alex Ford, Apurva Mahajan, Jayme Lozano Carver, Jess Huff",
-      "title": "Republicans lost ground in rural Texas, adding to historic wipeout - The Texas Tribune",
-      "description": "James Talarico ran up the score in the Panhandle, while rural Texans living along the Louisiana border stayed home.",
-      "url": "https://www.texastribune.org/2026/11/04/texas-rural-vote-2026/",
-      "urlToImage": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/11/20261103-East-Texas-Election-Day-MC-18.jpg?fit=2560%2C1707&ssl=1&quality=100&w=1200&h=630",
-      "publishedAt": "2026-11-05T01:21:22Z",
-      "content": "Subscribe to The Yall a weekly dispatch about the people, places and policies defining Texas, produced by Texas Tribune journalists living in communities across the state.\r\nAudio recording is automat… [+5939 chars]"
+      "author": "John Gittelsohn",
+      "title": "DSA’s Raman Beats Bass in Los Angeles Mayor Race, DDHQ Projects - Bloomberg.com",
+      "description": "Nithya Raman is projected to win the Los Angeles mayor’s race, according to Decision Desk HQ, ousting incumbent Karen Bass and putting a democratic socialist in charge of the second-largest US city.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-05/raman-wins-los-angeles-mayor-race-ddhq-projects",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQArfSqlpRIs/v0/1200x800.jpg",
+      "publishedAt": "2026-11-05T01:06:00Z",
+      "content": "Nithya Raman is projected to win the Los Angeles mayors race, according to Decision Desk HQ, ousting incumbent Karen Bass and putting a democratic socialist in charge of the second-largest US city.\r\n… [+283 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "John Fritze",
+      "title": "Democratic wave prompts GOP anxiety over Samuel Alito and future of Supreme Court - CNN",
+      "description": "The Democratic rout in Tuesday’s midterm elections sparked an immediate sense of unease on the right about the future of the Supreme Court and a new round of Republican anxiety over decisions by Justices Samuel Alito and Clarence Thomas to stick it out rather…",
+      "url": "https://www.cnn.com/2026/11/04/politics/alito-thomas-supreme-court-republican-anxiety",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2298237672.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-11-05T01:03:00Z",
+      "content": "The Democratic rout in Tuesdays midterm elections sparked an immediate sense of unease on the right about the future of the Supreme Court and a new round of Republican anxiety over decisions by Justi… [+6794 chars]"
     },
     {
       "source": {
@@ -437,32 +554,6 @@
       "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1024%2Fr1735564_1296x729_16%2D9.jpg",
       "publishedAt": "2026-11-05T00:59:00Z",
       "content": "Nov 4, 2026, 07:59 PM ET\r\nMiami star wide receiver Malachi Toney has a high ankle sprain and will have surgery, sources told ESPN's Pete Thamel on Wednesday, sidelining the Heisman Trophy contender f… [+986 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jay Peters",
-      "title": "X says its updated web app is way faster - The Verge",
-      "description": "X is introducing a new version of its web app that it says is much faster than before, and it’s now rolling out the updated app “one country at a time” for signed-in users.",
-      "url": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK160_X_TWITTER_2__A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2026-11-05T00:25:00Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nX is moving signed-in users to its new web app one country at a time, but its already using the rewrite for Xs logged-out web experience.\r\nX is moving signed-in … [+1895 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Abigail Brooks, Erik Ortiz",
-      "title": "Lawyers rush to halt Indiana execution over state’s lethal drug supplier - NBC News",
-      "description": "Jeffrey Weisheit, 50, is set to die by lethal injection for the 2010 murders of two young children in his care. A drug supplier is now in the spotlight.",
-      "url": "https://www.nbcnews.com/news/us-news/lawyers-rush-halt-indiana-execution-states-lethal-drug-supplier-rcna607445",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261104-pentobarbital-ch-1145-84178b.jpg",
-      "publishedAt": "2026-11-04T23:39:47Z",
-      "content": "Hours before Indiana was poised to carry out its first execution of the year, set for Thursday before sunrise, lawyers and supporters for the condemned man rallied to spare his life after new details… [+8081 chars]"
     },
     {
       "source": {
@@ -505,42 +596,42 @@
     },
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": "associated-press",
+        "name": "Associated Press"
       },
-      "author": "Kyle Orland",
-      "title": "The tech memory shortage comes for Nintendo's cartridge supply chain - Ars Technica",
-      "description": "And what that could mean for physical Switch game costs.",
-      "url": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/switchcarts-1152x648.jpg",
-      "publishedAt": "2026-11-04T22:47:51Z",
-      "content": null
+      "author": "Joey Cappelletti",
+      "title": "El-Sayed tells AP Michigan rejected ‘hateful, spiteful campaign’ after months of Republican attacks - AP News",
+      "description": "Michigan Sen.-elect Abdul El-Sayed tells The Associated Press that voters have rejected a “hateful, spiteful campaign” after months of Republican attacks on his Muslim identity. El-Sayed spoke to the AP by phone Wednesday. He will become the nation’s first Mu…",
+      "url": "https://apnews.com/article/el-sayed-michigan-muslim-db04935081795f4f00525c09eed95374",
+      "urlToImage": "https://dims.apnews.com/dims4/default/77df2c9/2147483647/strip/true/crop/5616x3744+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F73%2F99%2Ffc234d1ed50ef6861e9a05cf85ef%2Fad6bfdfd4c584fb99b93b3001b207a32",
+      "publishedAt": "2026-11-04T22:45:00Z",
+      "content": "WASHINGTON (AP) Sen.-elect Abdul El-Sayed told The Associated Press on Wednesday that Michigan voters had rejected a hateful, spiteful campaign after months of Republican attacks on his Muslim identi… [+3172 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "PBS"
+        "id": "nbc-news",
+        "name": "NBC News"
       },
-      "author": null,
-      "title": "What's next in the investigation of the Learjet crash in Florida that killed 9? - PBS",
-      "description": "Investigators are just beginning the lengthy process of determining why a business jet plummeted from the sky in Florida after encountering a thunderstorm and slammed into the ground with such force that it created a crater and shattered the plane.",
-      "url": "https://www.pbs.org/newshour/nation/whats-next-in-the-investigation-of-the-learjet-crash-in-florida-that-killed-9",
-      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-03T181429Z_1634108657_RC2BGOAV0BKN_RTRMADP_3_USA-CRASH-FLORIDA-1024x683.jpg",
-      "publishedAt": "2026-11-04T22:37:20Z",
-      "content": "Investigators are just beginning the lengthy process of determining why a business jet plummeted from the sky in Florida after encountering a thunderstorm and slammed into the ground with such force … [+5715 chars]"
+      "author": "David Ingram, Lawrence Hurley",
+      "title": "Elon Musk moved to Texas to escape Democrats — now they’re in charge - NBC News",
+      "description": "After leaving California amid clashes with Democratic leaders, Musk finds himself facing a new crop of Democratic officials in the state he’s made his home.",
+      "url": "https://www.nbcnews.com/tech/elon-musk/elon-musk-moved-texas-escape-democrats-now-re-charge-rcna607450",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261020-elon-musk-sjr-1622-dce637.jpg",
+      "publishedAt": "2026-11-04T22:44:04Z",
+      "content": "Just a moment.\r\nWe are getting your experience ready."
     },
     {
       "source": {
-        "id": "the-hill",
-        "name": "The Hill"
+        "id": "nbc-news",
+        "name": "NBC News"
       },
-      "author": "Julia Manchester",
-      "title": "Trump faces reckoning, but focuses on ballroom, after devastating losses - The Hill",
-      "description": "President Trump’s legacy is facing a moment of reckoning following sweeping Democratic wins in the House and the Senate that will impact the trajectory of the last two years of his presidency.  Despite his efforts to mobilize his normally loyal political base…",
-      "url": "https://thehill.com/homenews/administration/6199555-trump-midterm-losses-legacy/",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26308663324187-e1793831441218.jpg?w=1280",
-      "publishedAt": "2026-11-04T22:31:00Z",
-      "content": "President Trumps legacy is facing a moment of reckoning following sweeping Democratic wins in the House and the Senate that will impact the trajectory of the last two years of his presidency. \r\nDespi… [+4974 chars]"
+      "author": "Bridget Bowman, Gary Grumbach",
+      "title": "Mississippi Senate race heads to an extended vote count and possible ballot battle - NBC News",
+      "description": "The Mississippi Senate race may take days to resolve, as Democrat Scott Colom leads GOP Sen.",
+      "url": "https://www.nbcnews.com/politics/2026-election/mississippi-senate-race-heads-extended-vote-count-possible-ballot-batt-rcna607463",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261104-mississippi-hyde-smith-colom-mn-1345-cf3081.jpg",
+      "publishedAt": "2026-11-04T22:20:09Z",
+      "content": "The Mississippi Senate race may take days to resolve, as Democrat Scott Colom leads GOP Sen. Cindy Hyde-Smith by just 65 votes in the current vote count.\r\nAnd as votes continue to be counted, all eye… [+4676 chars]"
     },
     {
       "source": {
@@ -557,94 +648,29 @@
     },
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
+        "id": null,
+        "name": "GSMArena.com"
       },
-      "author": "WSJ",
-      "title": "Appeals Court Gives Mamdani Administration Green Light on Pied-à-Terre Rollout - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/us-news/appeals-court-gives-mamdani-administration-green-light-on-pied-a-terre-rollout-153c242d",
-      "urlToImage": null,
-      "publishedAt": "2026-11-04T21:57:25Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Bryan Alexander",
-      "title": "'Chicago Fire' bids farewell to Cruz after 15 seasons. Inside his emotional goodbye - USA Today",
-      "description": "After 15 seasons, Joe Miñoso says goodbye to Joe Cruz in \"Chicago Fire\" for its 300th episode, with a farewell that'll require tissues.",
-      "url": "https://www.usatoday.com/story/entertainment/tv-streaming/2026/11/04/chicago-fire-joe-cruz-joe-minoso-leaves-show-after-15-seasons/92483501007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/04/USAT/92610454007-nup-211697-01502.jpg?crop=999,562,x0,y0&width=999&height=562&format=pjpg&auto=webp",
-      "publishedAt": "2026-11-04T21:57:00Z",
-      "content": "\"Chicago Fire\" is saying goodbye to beloved firefighter Joe Cruz (Joe Minoso), who has been part of Firehouse 51 since the NBC drama premiered in 2012.\r\nIt's going to get emotional as Minoso, 48, mak… [+4460 chars]"
+      "author": "Vlad",
+      "title": "Google Maps update makes the app fully iPhone Duo compatible - GSMArena.com",
+      "description": "It looks a lot more like the iPad version on the inside now. The iPhone Duo has been shipping for a little while now, but plenty of iOS apps still haven't...",
+      "url": "https://www.gsmarena.com/google_maps_update_makes_the_app_fully_iphone_duo_compatible-news-75349.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/26/11/google-maps-iphone-duo-support/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2026-11-04T21:02:02Z",
+      "content": "The iPhone Duo has been shipping for a little while now, but plenty of iOS apps still haven't been adapted to its two displays. Google Maps is no longer one of them, as version 26.44.4 of the app is … [+1155 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Hollywood Reporter"
+        "name": "NPR"
       },
-      "author": "Kevin Dolak",
-      "title": "Hollywood Celebrates Democrats’ Midterm Sweep: “The Trump Regime Is Over” - The Hollywood Reporter",
-      "description": "Stars took to Instagram, Bluesky and X after Democrats won back both the House and Senate.",
-      "url": "http://www.hollywoodreporter.com/news/politics-news/hollywood-celebrates-democrats-midterms-1236747942/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/GettyImages-2302447535.jpg?w=1440&h=810&crop=1",
-      "publishedAt": "2026-11-04T21:52:37Z",
-      "content": "Hollywood woke up happy after the 2026 midterm elections delivered a blue flood, with Democrats not only retaking both chambers of Congress but also scoring a number of notable and historic wins. Two… [+2945 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "DW (English)"
-      },
-      "author": "Wesley Rahn",
-      "title": "France: Cyberattack targets blood bank refrigerators - DW.com",
-      "description": "A cyberattack had attempted to destroy blood plasma by raising the temperatures in cold storage facilities past the boiling point.",
-      "url": "https://www.dw.com/en/french-blood-banks-targeted-by-refrigerator-cyberattack/a-79857981",
-      "urlToImage": "https://static.dw.com/image/79832114_6.jpg",
-      "publishedAt": "2026-11-04T21:49:04Z",
-      "content": "Blood banks in France were included among cyberattacks that hit refrigeration systems in several European countries on Sunday and Monday, French authorities said on Wednesday.\r\nThe French Blood Estab… [+2242 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Channel3000.com - WISC-TV3"
-      },
-      "author": "Samantha Calderon",
-      "title": "Measles spreads to Columbia County - Channel 3000",
-      "description": "PORTAGE, Wis. — Columbia County Public Health confirmed three measles cases Wednesday as Wisconsin's statewide tally reached 431, according to the state Department of Health Services tracker.",
-      "url": "https://www.channel3000.com/news/measles-spreads-to-columbia-county/article_1f36f877-81d8-4edd-8337-481b435056a1.html",
-      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/channel3000.com/content/tncms/assets/v3/editorial/7/ae/7ae4c70b-59a5-57c6-8973-f08f2850b5da/695696be768c8.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2026-11-04T21:43:00Z",
-      "content": "PORTAGE, Wis. Columbia County Public Health confirmed three measles cases Wednesday as Wisconsin's statewide tally reached 431, according to the state Department of Health Services tracker.\r\nCounty h… [+1515 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "Joey Cappelletti",
-      "title": "El-Sayed tells AP Michigan rejected ‘hateful, spiteful campaign’ after months of Republican attacks - AP News",
-      "description": "Michigan Sen.-elect Abdul El-Sayed tells The Associated Press that voters have rejected a “hateful, spiteful campaign” after months of Republican attacks on his Muslim identity. El-Sayed spoke to the AP by phone Wednesday. He will become the nation’s first Mu…",
-      "url": "https://apnews.com/article/el-sayed-michigan-muslim-db04935081795f4f00525c09eed95374",
-      "urlToImage": "https://dims.apnews.com/dims4/default/77df2c9/2147483647/strip/true/crop/5616x3744+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F73%2F99%2Ffc234d1ed50ef6861e9a05cf85ef%2Fad6bfdfd4c584fb99b93b3001b207a32",
-      "publishedAt": "2026-11-04T19:17:00Z",
-      "content": "WASHINGTON (AP) Sen.-elect Abdul El-Sayed told The Associated Press on Wednesday that Michigan voters had rejected a hateful, spiteful campaign after months of Republican attacks on his Muslim identi… [+3172 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Mike Wall",
-      "title": "NASA's Swift space telescope crashes back to Earth after failed rescue attempt - Space",
-      "description": "Swift had a pretty good 22-year run, but NASA wanted the scope to keep going even longer.",
-      "url": "https://www.space.com/space-exploration/missions/nasa-swift-space-telescope-crashes-to-earth",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/FPZUTd9PY8i9Q9d4pN8f6B-2560-80.jpg",
-      "publishedAt": "2026-11-04T19:06:08Z",
-      "content": null
+      "author": "Ruby Siefken",
+      "title": "Democratic leaders reflect on midterm results and what's next for the party - NPR",
+      "description": "Democratic party leaders and political analysts spoke with <em>Morning Edition</em> about the results of the midterm elections, the effects of mid-decade redistricting efforts, and the next steps for the party.",
+      "url": "https://www.npr.org/2026/11/04/g-s1-151868/democratic-leaders-election-results-reactions-takeaways",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+0/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F68%2F9b%2F349e92cc4941a59a894387d22c42%2Fgettyimages-2303436558.jpg",
+      "publishedAt": "2026-11-04T20:49:59Z",
+      "content": "Democrats coasted into victory\r\n late last night, taking control of both the House of Representatives and the Senate by considerable margins. Several states that are traditionally characterized as \"d… [+4355 chars]"
     },
     {
       "source": {
@@ -662,41 +688,54 @@
     {
       "source": {
         "id": null,
-        "name": "MacRumors"
+        "name": "Space.com"
       },
-      "author": "Joe Rossignol",
-      "title": "macOS 27.3 Brings Live Activities to Macs Without Dynamic Island - MacRumors",
-      "description": "The new MacBook Pro models with touch-enabled OLED displays feature the Dynamic Island instead of a notch, and it includes support for Live...",
-      "url": "https://www.macrumors.com/2026/11/04/macos-27-3-live-activities-in-menu-bar/",
-      "urlToImage": "https://images.macrumors.com/t/CIfy--X2sm1ac7jQkphWGDE7Noo=/1600x/article-new/2026/11/macOS-27-3-Live-Activities-Timer.jpg",
-      "publishedAt": "2026-11-04T17:40:27Z",
-      "content": "The new MacBook Pro models with touch-enabled OLED displays feature the Dynamic Island instead of a notch, and it includes support for Live Activities. Fortunately, other Apple silicon Macs will not … [+754 chars]"
+      "author": "Robert Lea",
+      "title": "Mars isn't dead — recent volcanic activity reveals it's just sleeping - Space",
+      "description": "\"It was like looking for a needle in a haystack.\"",
+      "url": "https://www.space.com/astronomy/mars/mars-isnt-dead-recent-volcanic-activity-reveals-its-just-sleeping",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/H8GVsV7MCBNjGQuBJVBqxn-2000-80.png",
+      "publishedAt": "2026-11-04T19:00:00Z",
+      "content": null
     },
     {
       "source": {
-        "id": "cnn",
-        "name": "CNN"
+        "id": null,
+        "name": "NPR"
       },
-      "author": "Mostafa Salem, Oren Liebermann, Nick Paton Walsh",
-      "title": "What Trump’s midterms setback could mean for Iran, Israel and Ukraine - CNN",
-      "description": "The US midterm elections could have consequences far beyond the country’s borders. President Donald Trump has spent nearly two years overturning decades of American foreign policy, unsettling allies and adversaries alike. Now, both are watching to see how an …",
-      "url": "https://www.cnn.com/2026/11/04/world/iran-israel-ukraine-midterm-impact-intl",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2302607354.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-11-04T16:37:19Z",
-      "content": "The US midterm elections could have consequences far beyond the countrys borders. President Donald Trump has spent nearly two years overturning decades of American foreign policy, unsettling allies a… [+7782 chars]"
+      "author": "Barbara Sprunt",
+      "title": "Mike Johnson will step aside as top House Republican next Congress - NPR",
+      "description": "After Tuesday's bruising defeat for Republicans, House Speaker Mike Johnson will not stay on as minority leader come January.",
+      "url": "https://www.npr.org/2026/11/04/g-s1-151854/2026-midterms-mike-johnson-speaker",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5616x3159+0+293/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc3%2Fff%2F33c85d5b400284e3f7b3c31f3ecb%2Fap26305774437048.jpg",
+      "publishedAt": "2026-11-04T18:14:13Z",
+      "content": "Midterms coverage:Live results | Takeaways | Stories around the countryStay connected: NPR Politics Podcast | NPR Politics newsletter | NPR app\r\nAfter a bruising defeat for Republicans, House Speaker… [+1953 chars]"
     },
     {
       "source": {
-        "id": "bleacher-report",
-        "name": "Bleacher Report"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Adam Wells",
-      "title": "New Jonathan Taylor Trade Rumors on NFL Teams' Stance on Colts' Asking Price at 2026 Deadline - Bleacher Report",
-      "description": "Six days away from the NFL trade deadline, the Indianapolis Colts are in a good position to potentially get the value they want for Jonathan Taylor if they decided to move their star running back.",
-      "url": "https://bleacherreport.com/articles/25529255-new-jonathan-taylor-trade-rumors-nfl-teams-stance-colts-asking-price-2026-deadline",
-      "urlToImage": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/ap_images/2026-11/0c930459ce9140c8be7524ab6b37c387/Colts_Football_93268_4759x2677_(0,1).jpg?w=1120&h=630",
-      "publishedAt": "2026-11-04T16:24:58Z",
-      "content": "Six days away from the NFL trade deadline, the Indianapolis Colts are in a good position to potentially get the value they want for Jonathan Taylor if they decided to move their star running back. \r\n… [+2361 chars]"
+      "author": "Emma Roth",
+      "title": "ChatGPT will now make you animated GIFs - The Verge",
+      "description": "OpenAI is rolling out an update for ChatGPT that will allow you to create and edit GIFs with the AI chatbot.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2026-11-04T18:00:00Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can use ChatGPT to edit a GIFs animation speed and individual frames.\r\nYou can use ChatGPT to edit a GIFs animation speed and individual frames.\r\nby\r\nEmma Ro… [+2190 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NBC Chicago"
+      },
+      "author": "NBC Chicago Staff",
+      "title": "FDA issues nationwide recall of blood pressure medication after pills fail quality test - NBC 5 Chicago",
+      "description": "Overall, more than 3,700 bottles of pills were recalled, according to an FDA enforcement report.",
+      "url": "https://www.nbcchicago.com/news/local/fda-issues-nationwide-recall-of-blood-pressure-medication-after-pills-fail-quality-test/4012339/",
+      "urlToImage": "https://media.nbcchicago.com/2026/11/GettyImages-1450449280.jpg?quality=85&strip=all&resize=1200%2C675",
+      "publishedAt": "2026-11-04T17:59:36Z",
+      "content": "Check your medicine cabinets: More than 3,700 bottles of blood pressure medication sold nationwide were recalled last month because the pills fail to break down and dissolve properly, an enforcement … [+958 chars]"
     },
     {
       "source": {
@@ -714,15 +753,15 @@
     {
       "source": {
         "id": null,
-        "name": "PhoneArena"
+        "name": "Video Games Chronicle"
       },
-      "author": "PhoneArena",
-      "title": "Motorola is apparently working on a surprising product revival with some intriguing specs - PhoneArena",
-      "description": null,
-      "url": "https://www.phonearena.com/news/motorola-moto-one-product-revival-snapdragon-8-gen-5-wireless-charging_id184557",
-      "urlToImage": null,
-      "publishedAt": "2026-11-04T12:59:20Z",
-      "content": null
+      "author": "Chris Scullion",
+      "title": "Zelda Ocarina of Time Switch 2 remake review published in Famitsu - Video Games Chronicle",
+      "description": "The first verdict on Nintendo's remake has been delivered",
+      "url": "https://www.videogameschronicle.com/news/zelda-ocarina-of-time-switch-2-remake-review-published-in-famitsu/",
+      "urlToImage": "https://www.videogameschronicle.com/files/2026/09/zelda-ocarina-of-time-remake-pic-021.jpg",
+      "publishedAt": "2026-11-04T09:22:16Z",
+      "content": "The first review for The Legend of Zelda: Ocarina of Time remake on Nintendo Switch 2 has been published.\r\nThe latest issue of Japanese publication Famitsu has the first review of the game, as report… [+1668 chars]"
     }
   ]
 }

@@ -1,7 +1,46 @@
 {
   "status": "ok",
-  "totalResults": 80,
+  "totalResults": 79,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Max Read, Whitney Jones, Sawyer Roque, Vjeran Pavic, Alyssa Moxley, Dan Powell, Elisheba Ittoop, Marion Lozano and Diane Wong",
+      "title": "Why the Tech Right Lost Big This Week",
+      "description": "“This felt like a decidedly anti-tech election.”",
+      "url": "https://www.nytimes.com/2026/11/06/podcasts/hardfork-midterms-tech-right.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/06/podcasts/06hardfork-tech-midterms-video/06hardfork-tech-midterms-video-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-06T11:00:18Z",
+      "content": "“This felt like a decidedly anti-tech election.”"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Emmy Martin",
+      "title": "Microsoft’s Buyout Offer Sets Its Workforce on Edge",
+      "description": "As Microsoft pours billions into artificial intelligence, the company has offered buyouts to about 60,000 employees. The work force was already on edge.",
+      "url": "https://www.nytimes.com/2026/11/06/technology/microsoft-buyouts.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/07/business/06biz-microsoft-employees-SUB/06biz-microsoft-employees-SUB-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-06T10:02:29Z",
+      "content": "As Microsoft pours billions into artificial intelligence, the company has offered buyouts to about 60,000 employees. The work force was already on edge."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Victor Mather",
+      "title": "Tired of Slow TikToks? This Content Creator Gives You the Ending",
+      "description": "Videos on social media often save key details for the end. One content creator, who goes by Heyitsyoon, skips the filler so viewers don’t have to wait.",
+      "url": "https://www.nytimes.com/2026/11/06/technology/tiktok-time-saved-videos-heyitsyoon.html",
+      "urlToImage": null,
+      "publishedAt": "2026-11-06T10:00:58Z",
+      "content": "Videos on social media often save key details for the end. One content creator, who goes by Heyitsyoon, skips the filler so viewers don’t have to wait."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -96,28 +135,67 @@
     {
       "source": {
         "id": null,
-        "name": "Nintendo Life"
+        "name": "CNBC"
       },
-      "author": "Liam Doolan",
-      "title": "Nintendo Celebrates Zelda's 40th Anniversary With An Exclusive Pin Set (US) - Nintendo Life",
-      "description": "Get it while you can",
-      "url": "https://www.nintendolife.com/news/2026/11/nintendo-celebrates-zeldas-40th-anniversary-with-an-exclusive-pin-set-us",
-      "urlToImage": "https://images.nintendolife.com/f90dbafdd07e6/1280x720.jpg",
-      "publishedAt": "2026-11-05T02:00:00Z",
-      "content": "Image: Nintendo\r\nTimed in with the launch of Ocarina of Time on the Switch 2 this week, Nintendo has released a Zelda 40th Anniversary Pin Set.\r\nIt's currently available to Nintendo store users in th… [+1094 chars]"
+      "author": "Arjun Kharpal",
+      "title": "Nintendo Switch 2 sales plunge 41% as price hikes and memory crunch bite - CNBC",
+      "description": "Sales of Nintendo's flagship Switch 2 plunged in its fiscal second quarter after the Japanese gaming giant rolled out price hikes amid soaring memory costs.",
+      "url": "https://www.cnbc.com/2026/11/05/nintendo-earnings-switch-2-sales.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108160824-1750231226798-gettyimages-2218016424-JAPAN_NINTENDO_SWITCH_2.jpeg?v=1770172023&w=1920&h=1080",
+      "publishedAt": "2026-11-05T06:50:12Z",
+      "content": "Sales of Nintendo's flagship Switch 2 plunged in its fiscal second quarter after the Japanese gaming giant rolled out price hikes amid soaring memory costs.\r\nNintendo said it sold 2.67 million units … [+1828 chars]"
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": null,
+        "name": "Internet"
       },
-      "author": "Jay Peters",
-      "title": "X says its updated web app is way faster - The Verge",
-      "description": "X is introducing a new version of its web app that it says is much faster than before, and it’s now rolling out the updated app “one country at a time” for signed-in users.",
-      "url": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK160_X_TWITTER_2__A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2026-11-05T00:25:00Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nX is moving signed-in users to its new web app one country at a time, but its already using the rewrite for Xs logged-out web experience.\r\nX is moving signed-in … [+1895 chars]"
+      "author": "The Hacker News",
+      "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says - The Hacker News",
+      "description": "CISA adds Apple CVE-2024-27834 to its KEV catalog after reports of active exploitation involving a pointer authentication bypass.",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkv0B0acGnMDLnCJQYXNCkpzSeKKr_1m4-a10Q2Iy6DZOorGLb35YDD9vw3iQQA9fZTi7QGIZYlSsvTSmxc8w0UbgN_Xtl-QPyTngA9qhOuoryee3Z8X8CZRnHiUAY3wuIXG_UIO1DyDnjnfS5cOilt3WPzRnYYqFDZ1NHbXS0OVAsrVYHSeFuc7zglZw5/s1600/apple-0day.jpg",
+      "publishedAt": "2026-11-05T05:17:00Z",
+      "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (… [+1749 chars]"
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Soumya Kumar",
+      "title": "Best early Black Friday PlayStation deals 2026: Up to 75% off PS5, PS4, and PS VR2 games - Mashable",
+      "description": "Rest in peace to your remaining SSD storage space.",
+      "url": "https://mashable.com/entertainment/best-early-black-friday-playstation-deals-2026",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/07LiXBf1T88VCEQRfmeQSyV/hero-image.fill.size_1200x675.v1793793347.webp",
+      "publishedAt": "2026-11-05T05:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Internet"
+      },
+      "author": "The Hacker News",
+      "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run - The Hacker News",
+      "description": "OpenAI's AI pipeline reproduced 1,724 Linux vulnerabilities and generated 948 working local privilege escalation exploits for $1.2 million.",
+      "url": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje4ZiJMrWCzkoOXuOcWQkB02TmQLM81NWPvzQ8yw9iComqPyLIP0_TAzy8AHMkNfzyXw2Fw-8kBhWIohuXc_dGl39AI4Kw_n4Tll0DImNrRfcPrk1eZNQCP9QtOich_dhNW-ly5DIuZSzmWspWsWXU9QiGwnS5W7qzVDiIBVc4oggC__f6tsL1AOIP8opc/s1600/linux-lpe.jpg",
+      "publishedAt": "2026-11-05T04:31:00Z",
+      "content": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1… [+5015 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nintendo Life"
+      },
+      "author": "Liam Doolan",
+      "title": "Reminder: Zelda: Ocarina Of Time - Playable Ocarina Available Now On The Nintendo Store - Nintendo Life",
+      "description": "Check your local store for stock",
+      "url": "https://www.nintendolife.com/news/2026/11/reminder-zelda-ocarina-of-time-playable-ocarina-available-now-on-the-nintendo-store",
+      "urlToImage": "https://images.nintendolife.com/c4a53c946fc3f/1280x720.jpg",
+      "publishedAt": "2026-11-05T03:45:00Z",
+      "content": "Image: Nintendo\r\nWhen Nintendo lifted the lid on the Ocarina of Time remake, it also announced the release of electronic and playable ocarinas.\r\nHORI's electronic ocarina has already sold out in a lo… [+1432 chars]"
     },
     {
       "source": {
@@ -135,6 +213,19 @@
     {
       "source": {
         "id": null,
+        "name": "Push Square"
+      },
+      "author": "Liam Croft",
+      "title": "Bethesda Will Sell You Elder Scrolls 6: Sentinel T-Shirts and Hoodies, Even Though It Hasn't Shown the Game - Push Square",
+      "description": "$35 for the t-shirt, $65 for the hoodie",
+      "url": "https://www.pushsquare.com/news/2026/11/bethesda-will-sell-you-elder-scrolls-6-sentinel-t-shirts-and-hoodies-even-though-it-hasnt-shown-the-game",
+      "urlToImage": "https://images.pushsquare.com/d9d8ec5f4ccf2/1280x720.jpg",
+      "publishedAt": "2026-11-05T00:00:00Z",
+      "content": "You won't play The Elder Scrolls VI: Sentinel for at least another two years, Bloomberg journalist Jason Schreier claims, but that's not stopping Bethesda from selling you something today: merchandis… [+1182 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Gameinformer.com"
       },
       "author": "Wesley LeBlanc",
@@ -144,6 +235,19 @@
       "urlToImage": "https://static.gameinformer.com/sites/default/files/styles/og_image/public/2026/09/28/b118e622/gow-laufey-art-banner.jpg.webp",
       "publishedAt": "2026-11-04T23:30:50Z",
       "content": "PlayStation first-party developer Santa Monica Studio has delayed its upcoming action game, God of War Laufey, to May. More specifically, the PlayStation 5-exclusive title will now launch on May 20, … [+1336 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SVG"
+      },
+      "author": "Gabran Gray",
+      "title": "GTA 6 Release Time By Region: When You Can Play On November 19 - SVG",
+      "description": "\"Grand Theft Auto VI\" will rock the foundations of gaming on November 19th, but the hour is a little bit more flexible. We'll lay out the regional schedule.",
+      "url": "https://www.svg.com/2294021/gta-6-release-time-by-region/",
+      "urlToImage": "https://www.svg.com/img/gallery/gta-6-release-time-by-region-when-you-can-play-on-november-19/l-intro-1793220776.jpg",
+      "publishedAt": "2026-11-04T23:00:00Z",
+      "content": "The official \"GTA 6\" release is locked in at midnight local-to-your-console time, and because of where the dateline falls on our planet, New Zealand will get the first crack. Midnight in New Zealand … [+1089 chars]"
     },
     {
       "source": {
@@ -161,54 +265,41 @@
     {
       "source": {
         "id": null,
-        "name": "Nature.com"
+        "name": "Theregister.com"
       },
-      "author": null,
-      "title": "An AI-native experimental laboratory for autonomous biomolecular operations - Nature",
-      "description": "AutoDNA is an artificial intelligence (AI)-native autonomous biomolecular engineering laboratory targeting multi-objective experiments across diverse instruments, realizing the co-evolution of AI and the automation system within an end-to-end multi-user frame…",
-      "url": "https://www.nature.com/articles/s41586-026-11228-6",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11228-6/MediaObjects/41586_2026_11228_Fig1_HTML.png",
-      "publishedAt": "2026-11-04T22:28:14Z",
-      "content": "<li>Burger, B. et al. A mobile robotic chemist. Nature583, 237241 (2020).\r\nArticle \r\n CAS \r\n PubMed \r\nGoogle Scholar \r\n</li><li>Boiko, D. A., MacKnight, R., Kline, B. &amp; Gomes, G. Autonomous chemi… [+9687 chars]"
+      "author": "Brandon Vigliarolo",
+      "title": "Apple turns iCloud into spy cloud, will start looking at public share links - The Register",
+      "description": "Content shared with anyone who has the URL will be scanned for 'harmful content,' though the iMaker hasn't defined that term",
+      "url": "https://www.theregister.com/security/2026/11/04/apple-turns-icloud-into-spy-cloud-will-start-looking-at-public-share-links/5307681",
+      "urlToImage": "https://image.theregister.com/5307696.jpg?imageId=5307696&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "publishedAt": "2026-11-04T21:49:38Z",
+      "content": "If you share content using public iCloud links, Apple could soon be looking over your shoulder and checking for \"harmful content.\" The iBiz announced plans to moderate publicly accessible iCloud shar… [+2183 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "MacRumors"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Joe Rossignol",
-      "title": "HomePod Mini 2's Amount of RAM Confirmed - MacRumors",
-      "description": "MacRumors has confirmed that the HomePod mini 2 is equipped with 2GB of RAM supplied by SK Hynix. This is not very surprising given the S10 chip in...",
-      "url": "https://www.macrumors.com/2026/11/04/homepod-mini-2-ram/",
-      "urlToImage": "https://images.macrumors.com/t/i0L0_y-u_c-HgB6GhJPFUufFzNc=/2500x/article-new/2026/10/homepod-mini-2-feature2.jpg",
-      "publishedAt": "2026-11-04T21:50:46Z",
-      "content": "MacRumors has confirmed that the HomePod mini 2 is equipped with 2GB of RAM supplied by SK Hynix. This is not very surprising given the S10 chip in the Apple Watch Series 10 also has 2GB of RAM, but … [+105 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GSMArena.com"
-      },
-      "author": "Vlad",
-      "title": "Google Maps update makes the app fully iPhone Duo compatible - GSMArena.com news - GSMArena.com",
-      "description": "It looks a lot more like the iPad version on the inside now. The iPhone Duo has been shipping for a little while now, but plenty of iOS apps still haven't...",
-      "url": "https://www.gsmarena.com/google_maps_update_makes_the_app_fully_iphone_duo_compatible-news-75349.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/26/11/google-maps-iphone-duo-support/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2026-11-04T21:02:02Z",
-      "content": "The iPhone Duo has been shipping for a little while now, but plenty of iOS apps still haven't been adapted to its two displays. Google Maps is no longer one of them, as version 26.44.4 of the app is … [+1155 chars]"
+      "author": "Sheena Vasani",
+      "title": "Bose’s QuietComfort Headphones are more than half off - The Verge",
+      "description": "Bose’s QuietComfort Headphones are on sale for $169.99, matching their lowest price, while the second-generation model is down to $199 at multiple retailers.",
+      "url": "https://www.theverge.com/gadgets/1026807/bose-quietcomfort-headphones-wireless-deal-sale",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Bose-QuietComfort-Headphones-lifestyle.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2026-11-04T21:13:11Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nBoth generations of Boses noise-canceling headphones are steeply discounted, with prices starting at $170.\r\nBoth generations of Boses noise-canceling headphones … [+2512 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "GameSpot"
       },
-      "author": "Eddie Makuch",
-      "title": "GTA 6 Will Now Come To Stores Sooner, But It’s Not Playable Right Away - GameSpot",
-      "description": "The game's physical edition--containing a code in a box--will now arrive two days earlier than anticipated.",
-      "url": "https://www.gamespot.com/articles/gta-6-will-now-come-to-stores-sooner-but-its-not-playable-right-away/",
-      "urlToImage": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA.jpg",
-      "publishedAt": "2026-11-04T20:28:41Z",
-      "content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links.\r\nRockstar Games has announced that Grand Theft Auto 6 will now rele… [+1308 chars]"
+      "author": "Cameron Koch",
+      "title": "WoW: Forever May Have Just Sneakily Revealed New Class And Race Combos - GameSpot",
+      "description": "Tauren Mage anyone?",
+      "url": "https://www.gamespot.com/articles/wow-forever-may-have-just-sneakily-revealed-new-class-and-race-combos/",
+      "urlToImage": "https://www.gamespot.com/wp-content/uploads/2026/11/WoW-Forever-More-New-Class-Race-Combos.jpg",
+      "publishedAt": "2026-11-04T21:05:33Z",
+      "content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links.\r\nDeveloper Blizzard may have just revealed new World of Warcraft: F… [+2410 chars]"
     },
     {
       "source": {
@@ -235,6 +326,19 @@
       "urlToImage": "https://assetsio.gnwcdn.com/marvel-blade-(1).webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "publishedAt": "2026-11-04T20:17:10Z",
       "content": "A French union representing workers at Arkane Lyon has accused Microsoft of sabotaging development of Marvel's Blade, claiming a 19-month hiring freeze caused the delays now being used to justify the… [+1960 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "Sanuj Bhatia",
+      "title": "Motorola could be bringing back a familiar Android phone after five years - Android Central",
+      "description": "Motorola could be bringing back the Moto One series, with a new device spotted supporting Qi2 wireless charging and Snapdragon hardware.",
+      "url": "https://www.androidcentral.com/phones/motorola/remember-moto-one-phones-they-might-be-making-a-comeback",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/MW3DR9CYPwkkqGnefhpktb-2048-80.jpg",
+      "publishedAt": "2026-11-04T19:58:27Z",
+      "content": "<ul><li>Motorola could revive its Moto One lineup after nearly five years, with a new device appearing in the WPC database.</li><li>The leaked Moto One looks similar to the Motorola Edge from 2025, w… [+2596 chars]"
     },
     {
       "source": {
@@ -278,19 +382,6 @@
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Zack Zwiezen",
-      "title": "PlayStation’s Massive Black Friday 2026 Sale Is Live Now And Filled With Big Deals On PS5 Games - Kotaku",
-      "description": "Silent Hill 2, God of War Ragnarok, Astro Bot, Disco Elysium, Well Dweller, and many more PS5 games are currently on sale",
-      "url": "https://kotaku.com/playstations-massive-black-friday-2026-sale-is-live-now-and-filled-with-big-deals-on-ps5-games-2000753373",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/11/PSn-sale-bfriday.jpg",
-      "publishedAt": "2026-11-04T19:30:06Z",
-      "content": "We are still weeks away from Thanksgiving and Black Friday, but that hasn’t stopped PlayStation from kicking off a big “Black Friday” sale on its digital storefront. Yes, it’s a bit absurd, but the d… [+2507 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "TechSpot"
       },
       "author": "Kishalaya Kundu",
@@ -300,19 +391,6 @@
       "urlToImage": "https://www.techspot.com/images2/news/bigimage/2026/11/2026-11-04-image-28.jpg",
       "publishedAt": "2026-11-04T19:06:00Z",
       "content": "What we know so far: Google has severed ties with Android TV box manufacturer Videostrong Technology over allegations that it pre-loaded a backdoor on more than 1.3 million set-top boxes. Dubbed XCPE… [+3377 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Tom Warren",
-      "title": "Xbox previews two new ways to control cloud games - The Verge",
-      "description": "Xbox Cloud Gaming is getting a phone controller and new direct Wi-Fi connectivity for the Xbox Nano.",
-      "url": "https://www.theverge.com/news/1026455/xbox-nano-direct-cloud-wifi-connection-xbox-cloud-gaming-phone-controller",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/XBOX-Wire-DtC-Phone-Controller-110426-5428ff0def107f49971d.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2026-11-04T19:00:00Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nXbox Cloud Gaming is getting a phone controller and new direct Wi-Fi connectivity for the Xbox Nano.\r\nXbox Cloud Gaming is getting a phone controller and new dir… [+2550 chars]"
     },
     {
       "source": {
@@ -329,6 +407,32 @@
     },
     {
       "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Tom Warren",
+      "title": "Xbox previews two new ways to control cloud games - The Verge",
+      "description": "Xbox Cloud Gaming is getting a phone controller and new direct Wi-Fi connectivity for the Xbox Nano.",
+      "url": "https://www.theverge.com/news/1026455/xbox-nano-direct-cloud-wifi-connection-xbox-cloud-gaming-phone-controller",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/XBOX-Wire-DtC-Phone-Controller-110426-5428ff0def107f49971d.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2026-11-04T19:00:00Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nXbox Cloud Gaming is getting a phone controller and new direct Wi-Fi connectivity for the Xbox Nano.\r\nXbox Cloud Gaming is getting a phone controller and new dir… [+2550 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": null,
+      "title": "AI agents run this automated biology lab that sequences DNA and more - Nature",
+      "description": "Self-driving lab in China requires only a simple prompt to encode messages in DNA and read them out.",
+      "url": "https://www.nature.com/articles/d41586-026-03552-8",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03552-8/d41586-026-03552-8_53940190.jpg",
+      "publishedAt": "2026-11-04T18:48:49Z",
+      "content": "A self-driving lab named AutoDNA can work out the constituent letters in a snippet of DNA.Credit: Turtle Rock Scientific/Science Source/Science Photo Library\r\nTo say that someone has good hands is hi… [+2785 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -339,19 +443,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/04/multimedia/04biz-ohio-crypto-fbph/04biz-ohio-crypto-fbph-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-04T18:12:27Z",
       "content": "Fairshake, the major industry super PAC, spent $46 million on ads against the Democrat, Sherrod Brown, who won."
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Ryan Whitwam",
-      "title": "People say they want small smartphones—the Enough Phone will put that to the test - Ars Technica",
-      "description": "It won't win the specs race, but it will actually fit in your hand.",
-      "url": "https://arstechnica.com/gadgets/2026/11/people-say-they-want-small-smartphones-the-enough-phone-will-put-that-to-the-test/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Enough-Phone-in-Hand-1152x648.jpg",
-      "publishedAt": "2026-11-04T18:00:40Z",
-      "content": null
     },
     {
       "source": {
@@ -368,29 +459,29 @@
     },
     {
       "source": {
-        "id": "ign",
-        "name": "IGN"
+        "id": null,
+        "name": "Digitalfoundry.net"
       },
-      "author": "Michael Peyton",
-      "title": "Square Enix Plans More New Games Over Remakes, Kitase Says - IGN",
-      "description": "Final Fantasy producer Yoshinori Kitase reveals Square Enix will prioritize new games over remakes, discussing future film adaptations and what he wants to make next.",
-      "url": "https://www.ign.com/articles/square-enix-new-games-remakes-kitase-interview",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/11/03/yoshinori-kitase-interview-blogroll-1793738480688.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "publishedAt": "2026-11-04T18:00:00Z",
-      "content": "Final Fantasy VII Revelation is still months away, but a prominent voice in the Final Fantasy universe is already teasing whats next for publisher Square Enix after the game releases next year. \r\nI s… [+8391 chars]"
+      "author": "William Judd",
+      "title": "Nvidia Adds \"GPU App Prioritisation\" Feature for Some RTX GPU Owners - Digital Foundry",
+      "description": "But it's not mentioned in the patch notes and invisible for some users.",
+      "url": "https://www.digitalfoundry.net/news/2026/11/nvidia-adds-gpu-app-prioritisation-feature-for-some-rtx-gpu-owners",
+      "urlToImage": "https://images.digitalfoundry.net/bb0c165c4a848/1280x720.jpg",
+      "publishedAt": "2026-11-04T17:00:00Z",
+      "content": "After first debuting on its RTX Spark systems, Nvidia has added a new \"GPU app prioritisation\" control to its self-titled app.\r\nThe feature, which is available for some RTX GPU owners following the m… [+1430 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "MacRumors"
+        "name": "Jalopnik"
       },
-      "author": "Joe Rossignol",
-      "title": "macOS 27.3 Brings Live Activities to Macs Without Dynamic Island - MacRumors",
-      "description": "The new MacBook Pro models with touch-enabled OLED displays feature the Dynamic Island instead of a notch, and it includes support for Live...",
-      "url": "https://www.macrumors.com/2026/11/04/macos-27-3-live-activities-in-menu-bar/",
-      "urlToImage": "https://images.macrumors.com/t/CIfy--X2sm1ac7jQkphWGDE7Noo=/1600x/article-new/2026/11/macOS-27-3-Live-Activities-Timer.jpg",
-      "publishedAt": "2026-11-04T17:40:27Z",
-      "content": "The new MacBook Pro models with touch-enabled OLED displays feature the Dynamic Island instead of a notch, and it includes support for Live Activities. Fortunately, other Apple silicon Macs will not … [+754 chars]"
+      "author": "Nicholas Werner",
+      "title": "SpaceX Starship Will Need To Re-Fuel 22 Times In Space To Make It To The Moon - Jalopnik",
+      "description": "The total number of times that any rocket has ever done this is zero.",
+      "url": "https://www.jalopnik.com/2306690/spacex-starships-orbit-refueling/",
+      "urlToImage": "https://www.jalopnik.com/img/gallery/how-many-spacex-starships-in-orbit-could-a-starship-refuel-in-orbit-if-a-starship-could-refuel-in-orbit/l-intro-1793810898.jpg",
+      "publishedAt": "2026-11-04T16:57:34Z",
+      "content": "By contrast, Jeff Bezos' Blue Origin has a much simpler plan to get to the Moon. It's still complicated, let's be clear, but less so than SpaceX. The company's proposal calls for a mere four launches… [+1649 chars]"
     },
     {
       "source": {
@@ -407,42 +498,16 @@
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Andrew Liszewski",
-      "title": "Anker’s new window-mounted camera monitors the outside of your home from within it - The Verge",
-      "description": "Anker’s new Eufy Window Camera E10 sticks to the inside of an outward-facing window so it can watch your yard or driveway without being exposed to the elements.",
-      "url": "https://www.theverge.com/tech/1026360/anker-eufy-window-camera-e10-indoors-security-ai-color-night-vision",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ankercam1_43ac74.jpg?quality=90&strip=all&crop=0%2C10.7460602225%2C100%2C78.507879555&w=1200",
-      "publishedAt": "2026-11-04T16:36:21Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Eufy Window Cam E10 sticks directly to the inside of a window so installation takes less than a minute.\r\nThe Eufy Window Cam E10 sticks directly to the insid… [+3021 chars]"
-    },
-    {
-      "source": {
         "id": null,
-        "name": "9to5Mac"
+        "name": "Quanta Magazine"
       },
-      "author": "Ryan Christoffel",
-      "title": "MacBook Neo 2 is coming, and Apple reportedly expects a massive hit - 9to5Mac",
-      "description": "Apple has a MacBook Neo 2 rumored for early 2027, and a new report from Digitimes indicates the company is expecting it to be a massive hit.",
-      "url": "https://9to5mac.com/2026/11/04/macbook-neo-2-is-coming-and-apple-reportedly-expects-a-massive-hit/",
-      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo_eaaffa.jpg?quality=82&strip=all&resize=1200,628",
-      "publishedAt": "2026-11-04T16:33:00Z",
-      "content": "Apple has a MacBook Neo 2 planned for early 2027, per Mark Gurman, and a new report from Digitimes indicates the company is expecting it to be a massive hit.\r\nWhen the MacBook Neo debuted earlier thi… [+1318 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Ryan Christoffel",
-      "title": "With iOS 27.3, Apple will start checking iCloud public links for ‘harmful content’ - 9to5Mac",
-      "description": "iOS 27.3 makes a change to how public iCloud links work, with the aim of preventing harmful content from being shared. Here are the details.",
-      "url": "https://9to5mac.com/2026/11/04/with-ios-27-3-apple-will-start-checking-icloud-public-links-for-harmful-content/",
-      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/icloud-ios-27-blue.jpg?quality=82&strip=all&resize=1200,628",
-      "publishedAt": "2026-11-04T15:55:00Z",
-      "content": "iOS 27.3 adds lots of new iPhone features, and it also makes a change to how public iCloud links work with the aim of preventing harmful content from being shared. Here are the details.\r\nThis week Ap… [+2066 chars]"
+      "author": null,
+      "title": "New Research Tests Whether AI Models Know Their Own Thoughts - Quanta Magazine",
+      "description": "By injecting “thoughts” directly into large language models, researchers are trying to map out AI’s capacity for introspection.",
+      "url": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/",
+      "urlToImage": "https://www.quantamagazine.org/wp-content/uploads/2026/11/LLMIntrospection-crKristinaArmitage-Social.jpg",
+      "publishedAt": "2026-11-04T15:36:19Z",
+      "content": "Whats on your mind right now? You can probably answer this question without thinking too hard about it. Being aware of our own thought processes a capacity called introspection seems to come naturall… [+15050 chars]"
     },
     {
       "source": {
@@ -460,28 +525,28 @@
     {
       "source": {
         "id": null,
-        "name": "Forbes"
+        "name": "Pokemon.com"
       },
-      "author": "Paul Tassi",
-      "title": "$750 Million In ‘GTA 6’ Pre-Sales Will Soon Pass GTA 5’s Entire Launch - Forbes",
-      "description": "'GTA 6' has already made an astonishing amount of money in pre-sales, and it will likely pass GTA 5's day one take before it even releases.",
-      "url": "https://www.forbes.com/sites/paultassi/2026/11/04/750-million-in-gta-6-pre-sales-will-soon-pass-gta-5s-entire-launch/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6aeb4626044f321dac494b86/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2026-11-04T14:59:46Z",
-      "content": "Rockstar has confirmed that Grand Theft Auto 6 did not cost $1.5 billion to make, but even if its close, GTA 6 has reportedly made up almost half that theoretical, unprecedented budget two weeks befo… [+2620 chars]"
+      "author": null,
+      "title": "Check Out the Pokémon Champions Battle Pass Season M‑8 - Pokemon.com",
+      "description": "Compete in the new season’s Ranked Battles and earn Battle Pass rewards.",
+      "url": "https://www.pokemon.com/us/news/check-out-the-pokemon-champions-battle-pass-season-m-8",
+      "urlToImage": "https://mcdn.pokemon.com/pokemon-prod/image/upload/c_limit,w_1920/f_auto/v1/live/pcom-cms/static-assets/cms3/us/img/video-games/tiles/pokemon-champions/2026/11/04/pokemon-champions-169.png",
+      "publishedAt": "2026-11-04T14:19:35Z",
+      "content": "Take on Trainers from around the world in Pokémon Champions Ranked Battles to earn in-game rewards based on the rank you reach or the placement you achieve! Ranked Battles Season M-8 runs from Tuesda… [+1258 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Forbes"
+        "name": "GameSpot"
       },
-      "author": "Paul Tassi",
-      "title": "‘The Legend Of Zelda: Ocarina Of Time’ Remake Metacritic Review Score Is Historic - Forbes",
-      "description": "'The Legend of Zelda: Ocarina of Time' remake review embargo has lifted, and it has one of the best Metacritic scores of all time.",
-      "url": "https://www.forbes.com/sites/paultassi/2026/11/04/the-legend-of-zelda-ocarina-of-time-remake-metacritic-review-score-is-historic/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6aeb3f8aae8c0f06c3e360c0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2026-11-04T14:28:42Z",
-      "content": "The Legend of Zelda: Ocarina of Time remake\r\nMetacritic\r\nFew games are daring to release in the month of November, even if its still two weeks until the atomic bomb of Grand Theft Auto 6 on Nov. 19. … [+2455 chars]"
+      "author": "Eddie Makuch",
+      "title": "GTA 6 Has Sold Almost 8 Million Copies So Far, And PS5 Is Dominating The Split (Of Course) - GameSpot",
+      "description": "The PS5 edition of GTA 6 is massively outselling the Xbox version.",
+      "url": "https://www.gamespot.com/articles/gta-6-has-sold-almost-8-million-copies-so-far-and-ps5-is-dominating-the-split-of-course/",
+      "urlToImage": "https://www.gamespot.com/wp-content/uploads/2026/11/Jason_and_Lucia_09-2.jpg",
+      "publishedAt": "2026-11-04T14:18:31Z",
+      "content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links.\r\nThe video game research company Sensor Tower has updated its GTA 6… [+2624 chars]"
     },
     {
       "source": {
@@ -512,28 +577,28 @@
     {
       "source": {
         "id": null,
-        "name": "The Boston Globe"
+        "name": "GameSpot"
       },
-      "author": null,
-      "title": "‘World of Warcraft: Forever’ launches today. Here’s what you need to know. - The Boston Globe",
-      "description": "As newcomers and longtime fans of the franchise prepare to play, here’s what you need to know about the game.",
-      "url": "https://www.bostonglobe.com/2026/11/04/arts/world-of-warcraft-forever/",
-      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/J6XQFRXXWNHKPMZFH2HNXZTR3I.jpeg?auth=44769fc0d70b95f05c20276362c66b38f28633cc27e8b2f7868b29999b35c80b&width=1440",
-      "publishedAt": "2026-11-04T13:27:00Z",
-      "content": "Gamers, its time to return to Azeroth with the highly anticipated release of World of Warcraft: Forever. As newcomers and longtime fans of the franchise prepare to play, heres what you need to know a… [+2121 chars]"
+      "author": "Darryn Bonthuys",
+      "title": "Steam Is Tightening Its Game Submission Rules As AI Slop Floods The Store - GameSpot",
+      "description": "Steam wants developers to actually play their games before submitting them.",
+      "url": "https://www.gamespot.com/articles/steam-is-tightening-its-game-submission-rules-as-ai-slop-floods-the-store/",
+      "urlToImage": "https://www.gamespot.com/wp-content/uploads/original/1597/15976769/4629387-steam-logo-with-blue-background.jpg",
+      "publishedAt": "2026-11-04T13:19:17Z",
+      "content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links.\r\nValve currently has a review backlog on Steam, as the mandatory QA… [+2647 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "PhoneArena"
+        "name": "Theshortcut.com"
       },
-      "author": "PhoneArena",
-      "title": "Motorola is apparently working on a surprising product revival with some intriguing specs - PhoneArena",
-      "description": null,
-      "url": "https://www.phonearena.com/news/motorola-moto-one-product-revival-snapdragon-8-gen-5-wireless-charging_id184557",
-      "urlToImage": null,
-      "publishedAt": "2026-11-04T12:59:20Z",
-      "content": null
+      "author": "Adam Vjestica",
+      "title": "Zelda Switch 2 restock today: midnight launches may trigger online stock drops - The Shortcut | Matt Swider",
+      "description": "Best Buy and GameStop are holding midnight launches, but could we see online stock appear?",
+      "url": "https://www.theshortcut.com/p/zelda-switch-2-restock-today-midnight-launches-may-trigger-online-stock-drops",
+      "urlToImage": "https://substackcdn.com/image/fetch/$s_!pnk4!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcbebc2f8-56d8-4a5c-a8ab-2958928f5c9d_1456x819.webp",
+      "publishedAt": "2026-11-04T12:40:46Z",
+      "content": "<ul><li> GameStop and Best Buy are holding midnight launches, where limited stock of the console will be available at some stores\r\n</li><li> Want the Zelda Switch 2? Follow our Zelda Switch 2 restock… [+3149 chars]"
     },
     {
       "source": {
@@ -564,19 +629,6 @@
     {
       "source": {
         "id": null,
-        "name": "Wccftech"
-      },
-      "author": "Francesco De Meo",
-      "title": "GTA 6 Still Has No PC Release Date, but an NVIDIA DLSS 5 and 90 FPS Multi-Frame Generation Experiment Shows How Realistic It Could Look - Wccftech",
-      "description": "A new GTA 6 experiment uses NVIDIA DLSS 5 and Frame Generation on trailer footage, previewing the game's PC potential",
-      "url": "https://wccftech.com/gta-6-pc-release-date-nvidia-dlss-5-realistic/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/11/GTA-6-NVIDIA-DLSS-5-Experiment-1920x1078.jpg",
-      "publishedAt": "2026-11-04T11:01:10Z",
-      "content": "GTA 6 launches in a little over two weeks on PlayStation 5 and Xbox Series X|S, and from everything we know about the game, it will push current-generation hardware hard. As such, it will only be wit… [+2077 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Eurogamer.net"
       },
       "author": "Dom Peppiatt",
@@ -586,6 +638,32 @@
       "urlToImage": "https://assetsio.gnwcdn.com/dungeon-meshi-dd2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "publishedAt": "2026-11-04T10:03:46Z",
       "content": "Have you ever seen - or read - the wonderful Dungeon Meshi (known in English as 'Delicious in Dungeon')? It's a phenomenal manga series written and illustrated by Ryoko Kui, which was adapted into an… [+5521 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Video Games Chronicle"
+      },
+      "author": "Chris Scullion",
+      "title": "Zelda Ocarina of Time Switch 2 remake review published in Famitsu - Video Games Chronicle",
+      "description": "The first verdict on Nintendo's remake has been delivered",
+      "url": "https://www.videogameschronicle.com/news/zelda-ocarina-of-time-switch-2-remake-review-published-in-famitsu/",
+      "urlToImage": "https://www.videogameschronicle.com/files/2026/09/zelda-ocarina-of-time-remake-pic-021.jpg",
+      "publishedAt": "2026-11-04T09:22:16Z",
+      "content": "The first review for The Legend of Zelda: Ocarina of Time remake on Nintendo Switch 2 has been published.\r\nThe latest issue of Japanese publication Famitsu has the first review of the game, as report… [+1668 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TmoNews"
+      },
+      "author": "Jordan",
+      "title": "T-Mobile’s Holiday Deals Are Here: iPhone 18 Pro on Us, Four Lines for $25, and More - TmoNews",
+      "description": "Holiday deal season is officially here, Magenta fam. T-Mobile just dropped its lineup across T-Mobile, Metro,",
+      "url": "https://www.tmonews.com/2026/11/t-mobiles-holiday-deals-are-here-iphone-18-pro-on-us-four-lines-for-25-and-more/",
+      "urlToImage": "https://www.tmonews.com/wp-content/uploads/2026/11/t-mobile-holiday-offer-210x131.png",
+      "publishedAt": "2026-11-04T05:14:13Z",
+      "content": "Holiday deal season is officially here, Magenta fam. T-Mobile just dropped its lineup across T-Mobile, Metro, and Mint, and T-Mix is front and center. Most T-Mobile offers kick off Thursday, November… [+1860 chars]"
     },
     {
       "source": {
@@ -628,32 +706,6 @@
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jay Peters",
-      "title": "Valve is making changes to deal with a ‘significant increase’ in Steam game submissions - The Verge",
-      "description": "Valve acknowledged that it’s seen “a significant increase in submissions for store and page review in recent months,” is taking “up to 12 business days” for reviews.",
-      "url": "https://www.theverge.com/games/1025722/valve-steam-game-increase-submissions",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK138_Stream_Kradtke_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2026-11-03T22:15:33Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nValve admits that its now taking up to 12 business days to review games.\r\nValve admits that its now taking up to 12 business days to review games.\r\nby\r\nJay Peter… [+2129 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Kenneth Shepard",
-      "title": "Overwatch’s Midseason Patch Adds Teaser For Its Sexy New Omnic Detective Hero - Kotaku",
-      "description": "The Midtown map has a new clue for fans to investigate",
-      "url": "https://kotaku.com/overwatch-season-5-midseason-patch-omnic-detective-new-hero-55-rigby-2000752862",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/11/owstellarblade.jpg",
-      "publishedAt": "2026-11-03T22:00:42Z",
-      "content": "Overwatchs midseason patch that went live today added Stellar Bladeskins and balance changes, but it also has teasers for a few changes to come. Those include the next hero, colloquially known as Omn… [+1526 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -677,6 +729,19 @@
       "urlToImage": "https://images.macrumors.com/t/UkiRbaS2GEd5EyTccUEykNbJA78=/2500x/article-new/2026/11/macs-black-friday.jpeg",
       "publishedAt": "2026-11-03T19:40:00Z",
       "content": "We're getting closer to Black Friday ('https://www.macrumors.com/2026/11/02/best-early-black-friday-deals-2026/'), which lands on Friday, November 27 this year. In the lead-up to the shopping holiday… [+4731 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Benjamin Mayo",
+      "title": "iOS 27.3 expands Siri AI with many new capabilities across Apple apps - 9to5Mac",
+      "description": "iOS 27.3 has just entered beta testing and includes major new features for Siri AI across iPhone, iPad and Mac....",
+      "url": "https://9to5mac.com/2026/11/03/ios-27-3-expands-siri-ai-with-many-new-capabilities-across-apple-apps/",
+      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-ios-27-siri-ai.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-11-03T19:19:00Z",
+      "content": "iOS 27.3 has just entered beta testing and includes major new features for Siri AI across iPhone, iPad and Mac. The company has unlocked many new capabilities across major Apple apps, like Music, Mes… [+1826 chars]"
     },
     {
       "source": {
@@ -732,32 +797,6 @@
     },
     {
       "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Kirk McKeand",
-      "title": "TheBurntPeanut and Dead by Daylight Developer Respond to Recent Gifting Controversy As Freebies Get Taken Away - IGN",
-      "description": "Behavior Interactive is currently under fire after one of its community staff allegedly went rogue and gifted controversial streamer TheBurntPeanut every in-game item in Dead by Daylight live on stream. The developer already apologized once on the secondary D…",
-      "url": "https://www.ign.com/articles/dead-by-daylight-developer-apologizes-again-removes-free-items-from-theburntpeanuts-account",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/11/03/ss-141a099b39afb31b864e8eda9570c344ad0c70f5-1920x1080-1793724151578.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "publishedAt": "2026-11-03T16:44:57Z",
-      "content": "Behavior Interactive is currently under fire after one of its community staff allegedly went rogue and gifted controversial streamer TheBurntPeanut every in-game item in Dead by Daylight\r\n live on st… [+4227 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Windows Central"
-      },
-      "author": "Sean Endicott",
-      "title": "Buying a gaming handheld for the holidays? Microsoft will throw in 25 Xbox games worth over $500 - Windows Central",
-      "description": "Buying a gaming handheld is expensive enough. Microsoft's X25 promotion helps fill your library from day one with 25 games worth more than $500.",
-      "url": "https://www.windowscentral.com/gaming/xbox/xbox-just-launched-one-of-the-greatest-gaming-handheld-bundles-ive-ever-seen",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/pLko6WaZVV4qdeEDZZ8ud7-2560-80.jpg",
-      "publishedAt": "2026-11-03T15:58:48Z",
-      "content": "We're quickly approaching XBOX's 25th anniversary.Many companies are celebrating the event with special accessories and gear, but you can also build your game library as part of the festivities. If y… [+3946 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Gamingbible.com"
       },
@@ -772,15 +811,41 @@
     {
       "source": {
         "id": null,
-        "name": "9to5Mac"
+        "name": "Pure Xbox"
       },
-      "author": "Chance Miller",
-      "title": "New iPad mini hands-on: Refreshed design, OLED display, more - 9to5Mac",
-      "description": "Apple’s smallest iPad has gotten its biggest update in years. The new iPad mini features a much thinner and lighter...",
-      "url": "https://9to5mac.com/2026/11/03/new-ipad-mini-a20-pro-review/",
-      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/ipad-mini-hero2-edited-1.jpg?quality=82&strip=all&resize=1200,628",
+      "author": "Fraser Gilbert",
+      "title": "Xbox's New 25 Years Bundle Retails For $569.99, And Here's The Full List Of Games - Pure Xbox",
+      "description": "Update: Microsoft has removed the ability to purchase it",
+      "url": "https://www.purexbox.com/news/2026/11/xboxs-new-25-years-bundle-retails-for-usd569-99-and-heres-the-full-list-of-games",
+      "urlToImage": "https://images.purexbox.com/e09db123587a7/1280x720.jpg",
+      "publishedAt": "2026-11-03T14:05:00Z",
+      "content": "Update [Wed 4th Nov 2026, 2:45pm]: Microsoft has now quietly removed the ability to buy this bundle. It still exists on the store for eligible PC buyers as a freebie, but the price tag has been taken… [+3517 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "David Pierce",
+      "title": "The 2026 iPad Mini is a terrific tiny tablet — for a big price - The Verge",
+      "description": "Apple’s newest tablet has an improved OLED screen, a smaller and lighter design, and some new ruggedness. But $699 is a steep price to pay for an iPad Mini.",
+      "url": "https://www.theverge.com/tech/1025015/2026-ipad-mini-oled-review",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268850_iPad_Mini_2026_DPierce_0002.jpg?quality=90&strip=all&crop=0%2C11.942378189973%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2026-11-03T14:00:00Z",
-      "content": "Apple’s smallest iPad has gotten its biggest update in years. The new iPad mini features a much thinner and lighter design, a larger OLED display, water resistance, and the powerful A20 Pro chip.\r\nI’… [+9919 chars]"
+      "content": "Review<ul><li></li><li></li><li></li></ul>\r\nThe 2026 iPad Mini is a terrific tiny tablet for a big price\r\nWith better performance and a better screen, this is a Mini to be reckoned with. But its not … [+11449 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "John Walker",
+      "title": "Dead By Daylight Developers Launch A Second Lengthy Attempt At Damage Control Following TheBurntPeanut Controversy - Kotaku",
+      "description": "Halloween hangovers continue for Behaviour Interactive",
+      "url": "https://kotaku.com/dead-by-daylight-theburntpeanut-streamer-controversy-behaviour-interactive-2000752726",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/11/deadbydaylight-halloween.jpg",
+      "publishedAt": "2026-11-03T13:34:38Z",
+      "content": "Over the weekend, Dead by Daylight developer Behaviour Interactive found itself embroiled in a fracas after a member of its team provided controversial Vtuber TheBurntPeanut with a whole bunch of in-… [+6520 chars]"
     },
     {
       "source": {
@@ -797,45 +862,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Josh Dinner",
-      "title": "Do we know how many Starship launches SpaceX will need to get NASA astronauts to the moon? No. Will its refuelling plan be simple? Also no. - Space",
-      "description": "If you liked Starship in LEO (low Earth orbit), you're going to love Starship in the new FTO (final tanking orbit).",
-      "url": "https://www.space.com/space-exploration/artemis/do-we-know-how-many-starship-launches-spacex-will-need-to-get-nasa-astronauts-to-the-moon-no-will-its-refuelling-plan-be-simple-also-no",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Nu5bWDwZmhSzFr3qifWiqj-2560-80.jpg",
-      "publishedAt": "2026-11-03T13:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gamingbible.com"
-      },
-      "author": "Richard Breslin",
-      "title": "Zelda gamers secure over $500 in free credit ahead of Ocarina of Time launch - GAMINGbible",
-      "description": "Over $500? That's a Hyrule-sized bonus, if you qualify 🗡️🎮",
-      "url": "https://www.gamingbible.com/news/platform/nintendo/nintendo-switch-2-zelda-console-orders-500-gift-cards-068644-20261103",
-      "urlToImage": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/bltc31d26b82cf2b0ce/6ae9b19e867a098a36e29a06/Zelda_gamers_secure_over_$500_in_free_credit_ahead_of_Ocarin_(2).png",
-      "publishedAt": "2026-11-03T10:18:48Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Outside"
-      },
-      "author": "Logan Jones-Wilkins",
-      "title": "Pivot Enters the Road Bike World with the Pravia, ‘A Race Bike for Humans’ - Outside Magazine",
-      "description": "The first road bike from the Arizona-based brand looks to bridge the gap between high-performance, aggressive road bikes and the more approachable geometry of a modern endurance bike.",
-      "url": "https://velo.outsideonline.com/road/road-gear/pivot-enters-road-bike-world-with-pravia/#article",
-      "urlToImage": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/11/Pivot-Pravia-Cover.jpg",
-      "publishedAt": "2026-11-03T10:10:41Z",
-      "content": "Published November 3, 2026 01:01AM\r\nAfter years of refining performance near the top of the mountain bike world, Pivot Cycles has extended its range into drop bars with the new Pravia road bike. Afte… [+7710 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -846,19 +872,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/02/multimedia/02xp-freezers/02xp-freezers-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-03T08:45:20Z",
       "content": "A wave of disruptions at grocery stores, which some officials blame on cyberattacks, highlights the vulnerability of supply chains. Shops across Europe were affected again on Monday."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Wccftech"
-      },
-      "author": "Hassan Mujtaba",
-      "title": "NVIDIA RTX 50 GPUs Will See A Massive Price Increase In November: RTX 5090s & 5080s Up By Almost $500, 5070 Ti Up $150 & Even RTX 5060 8GB Climbs Another $30 - Wccftech",
-      "description": "NVIDIA's RTX 50 GPUs will be getting more expensive in November, as manufacturers confirm price increases across all models.",
-      "url": "https://wccftech.com/nvidia-rtx-50-gpus-see-a-massive-price-increase-in-november/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/11/NVIDIA-RTX-50-GPUs.jpg",
-      "publishedAt": "2026-11-03T08:10:16Z",
-      "content": "NVIDIA's RTX 50 GPUs will be getting more expensive in November, as manufacturers confirm price increases across all models.\r\nAll consumer graphics cards have faced price hikes throughout this year, … [+4207 chars]"
     },
     {
       "source": {
@@ -1015,32 +1028,6 @@
       "urlToImage": null,
       "publishedAt": "2026-10-30T17:24:13Z",
       "content": "What was Elizabeth Holmes’s partner watching in the new Nathan Fielder documentary? We found the videos (and the scientists in them)."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Keith Bradsher, Nailah Morgan, Qilai Shen and Siyi Zhao",
-      "title": "This Device Uses A.I. and Lasers to Kill Mosquitoes",
-      "description": "A Chinese start-up has developed a device that uses artificial intelligence and lasers to kill mosquitoes. But there are safety concerns for people and other creatures nearby when the device is in action.",
-      "url": "https://www.nytimes.com/video/technology/100000011221955/ai-lasers-mosquitoes.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/19/arts/rv-ai-mosquitos-final-v3/rv-ai-mosquitos-final-v3-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-30T11:12:48Z",
-      "content": "A Chinese start-up has developed a device that uses artificial intelligence and lasers to kill mosquitoes. But there are safety concerns for people and other creatures nearby when the device is in action."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Max Read, Whitney Jones, Sawyer Roque, Vjeran Pavic, Daniel Ramirez, Dan Powell, Marion Lozano and Alyssa Moxley",
-      "title": "Are We in an A.I. Bubble? We’re About to Find Out.",
-      "description": "“This is the first pure-play L.L.M. company to go public, to open its books so we can actually look at the underlying business of this A.I. boom.”",
-      "url": "https://www.nytimes.com/2026/10/30/podcasts/hardfork-anthropic-ipo.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/30/podcasts/30hardfork-anthropic-s1/30hardfork-anthropic-s1-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-30T10:00:25Z",
-      "content": "“This is the first pure-play L.L.M. company to go public, to open its books so we can actually look at the underlying business of this A.I. boom.”"
     }
   ]
 }

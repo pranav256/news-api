@@ -6,9 +6,48 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-06T03:46:16.564221+00:00",
-  "articles_count": 29,
+  "fetched_at": "2026-11-06T11:37:50.785236+00:00",
+  "articles_count": 30,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Max Read, Whitney Jones, Sawyer Roque, Vjeran Pavic, Alyssa Moxley, Dan Powell, Elisheba Ittoop, Marion Lozano and Diane Wong",
+      "title": "Why the Tech Right Lost Big This Week",
+      "description": "“This felt like a decidedly anti-tech election.”",
+      "url": "https://www.nytimes.com/2026/11/06/podcasts/hardfork-midterms-tech-right.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/06/podcasts/06hardfork-tech-midterms-video/06hardfork-tech-midterms-video-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-06T11:00:18Z",
+      "content": "“This felt like a decidedly anti-tech election.”"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Emmy Martin",
+      "title": "Microsoft’s Buyout Offer Sets Its Workforce on Edge",
+      "description": "As Microsoft pours billions into artificial intelligence, the company has offered buyouts to about 60,000 employees. The work force was already on edge.",
+      "url": "https://www.nytimes.com/2026/11/06/technology/microsoft-buyouts.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/07/business/06biz-microsoft-employees-SUB/06biz-microsoft-employees-SUB-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-06T10:02:29Z",
+      "content": "As Microsoft pours billions into artificial intelligence, the company has offered buyouts to about 60,000 employees. The work force was already on edge."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Victor Mather",
+      "title": "Tired of Slow TikToks? This Content Creator Gives You the Ending",
+      "description": "Videos on social media often save key details for the end. One content creator, who goes by Heyitsyoon, skips the filler so viewers don’t have to wait.",
+      "url": "https://www.nytimes.com/2026/11/06/technology/tiktok-time-saved-videos-heyitsyoon.html",
+      "urlToImage": null,
+      "publishedAt": "2026-11-06T10:00:58Z",
+      "content": "Videos on social media often save key details for the end. One content creator, who goes by Heyitsyoon, skips the filler so viewers don’t have to wait."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -359,32 +398,6 @@
       "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/cybersecurity-cyber-defense-center.jpg",
       "publishedAt": "2026-10-30T14:20:43Z",
       "content": "Startup founder Colin Parsons woke up to roughly 50 billing notifications he never expected. He reported that his OpenAI and Anthropic accounts had racked up $449 in charges he didn't recognize. It w… [+18849 chars]"
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Keith Bradsher, Nailah Morgan, Qilai Shen and Siyi Zhao",
-      "title": "This Device Uses A.I. and Lasers to Kill Mosquitoes",
-      "description": "A Chinese start-up has developed a device that uses artificial intelligence and lasers to kill mosquitoes. But there are safety concerns for people and other creatures nearby when the device is in action.",
-      "url": "https://www.nytimes.com/video/technology/100000011221955/ai-lasers-mosquitoes.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/19/arts/rv-ai-mosquitos-final-v3/rv-ai-mosquitos-final-v3-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-30T11:12:48Z",
-      "content": "A Chinese start-up has developed a device that uses artificial intelligence and lasers to kill mosquitoes. But there are safety concerns for people and other creatures nearby when the device is in action."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Max Read, Whitney Jones, Sawyer Roque, Vjeran Pavic, Daniel Ramirez, Dan Powell, Marion Lozano and Alyssa Moxley",
-      "title": "Are We in an A.I. Bubble? We’re About to Find Out.",
-      "description": "“This is the first pure-play L.L.M. company to go public, to open its books so we can actually look at the underlying business of this A.I. boom.”",
-      "url": "https://www.nytimes.com/2026/10/30/podcasts/hardfork-anthropic-ipo.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/30/podcasts/30hardfork-anthropic-s1/30hardfork-anthropic-s1-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-30T10:00:25Z",
-      "content": "“This is the first pure-play L.L.M. company to go public, to open its books so we can actually look at the underlying business of this A.I. boom.”"
     }
   ],
   "query": "technology AI software startup"

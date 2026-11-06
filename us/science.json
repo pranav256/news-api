@@ -1,7 +1,59 @@
 {
   "status": "ok",
-  "totalResults": 88,
+  "totalResults": 86,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Alexander Nazaryan",
+      "title": "These Newly Elected Lawmakers Know Something Trump Doesn’t: Science",
+      "description": "Among those elected to Congress on Tuesday are a mathematician, a microbiologist and a chemical engineer. They plan to take on a White House that has threatened funding cuts to research.",
+      "url": "https://www.nytimes.com/2026/11/06/science/scientists-election-congress.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/06/science/06sci-politician-scientists/06sci-politician-scientists-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-06T10:03:57Z",
+      "content": "Among those elected to Congress on Tuesday are a mathematician, a microbiologist and a chemical engineer. They plan to take on a White House that has threatened funding cuts to research."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Benjamin Mueller, Carolyn Y. Johnson, Cade Metz and Kenneth Chang",
+      "title": "What a Democratic Congress Could Mean for Science",
+      "description": "The Trump administration has sought to reshape the nation’s research infrastructure. Democratic lawmakers, newly empowered, are preparing to push back.",
+      "url": "https://www.nytimes.com/2026/11/06/science/science-democrats-congress-election.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/06/multimedia/06SCI-BLUE-SCIENCE-01-fqwp/06SCI-BLUE-SCIENCE-01-fqwp-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-06T10:03:49Z",
+      "content": "The Trump administration has sought to reshape the nation’s research infrastructure. Democratic lawmakers, newly empowered, are preparing to push back."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Cade Metz",
+      "title": "How A.I. Just Blew Up a Key Tenet of Computer Science",
+      "description": "A longstanding hypothesis held that some problems would always be hard for computers to solve quickly. But OpenAI disproved it — raising the possibility of radical new efficiencies.",
+      "url": "https://www.nytimes.com/2026/11/06/science/ai-exponential-time-hypothesis.html",
+      "urlToImage": null,
+      "publishedAt": "2026-11-06T10:02:06Z",
+      "content": "A longstanding hypothesis held that some problems would always be hard for computers to solve quickly. But OpenAI disproved it — raising the possibility of radical new efficiencies."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Scott Dance",
+      "title": "Disaster-Prone Communities Face Cuts and Slowdowns in Federal Help",
+      "description": "The Trump administration is scaling back or stalling investments that help vulnerable places harden themselves to rising flood and fire threats.",
+      "url": "https://www.nytimes.com/2026/11/06/climate/fema-grants-cuts-resilience.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/29/multimedia/00cli-climate-grants-01-fkhw/00cli-climate-grants-01-fkhw-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-06T10:00:45Z",
+      "content": "The Trump administration is scaling back or stalling investments that help vulnerable places harden themselves to rising flood and fire threats."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -44,28 +96,15 @@
     {
       "source": {
         "id": null,
-        "name": "Twz.com"
+        "name": "DW (English)"
       },
-      "author": "Tyler Rogoway",
-      "title": "NASA Announces X-70 \"Fractal\" Experimental Aircraft - TWZ",
-      "description": "The X-70 will be able to test new flight control capabilities and will push the bounds of maneuverability.",
-      "url": "https://www.twz.com/space/nasa-announces-x-70-fractal-experimental-aircraft",
-      "urlToImage": "https://www.twz.com/wp-content/uploads/2026/11/X70-NASA.jpg?w=1200",
-      "publishedAt": "2026-11-05T02:37:32Z",
-      "content": "NASA just unveiled its latest X-plane, the X-70 Fractal, which Administrator Jared Isaacman had teased last week, at the UP.Summit at Kennedy Space Center today. \r\nThe aircraft is described as crewed… [+3096 chars]"
-    },
-    {
-      "source": {
-        "id": "cbc-news",
-        "name": "CBC News"
-      },
-      "author": null,
-      "title": "Former NASA chief economist named new head of Canadian Space Agency - CBC",
-      "description": "Alexander MacDonald was named the new president of the Canadian Space Agency late Wednesday evening.",
-      "url": "https://www.cbc.ca/news/politics/new-head-of-canadian-space-agency-9.7410061",
-      "urlToImage": "https://i.cbc.ca/ais/ca910d6c-cbb0-41ac-a562-82e097e5c2e6,1793842462538/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C149%2C3424%2C1926%29%3BResize%3D620",
-      "publishedAt": "2026-11-05T01:38:00Z",
-      "content": "Alexander MacDonald was named the new president of the Canadian Space Agency late Wednesday evening.\r\nIndustry Minister Mélanie Joly made the announcement in Ottawa during a tribute event to the late… [+1307 chars]"
+      "author": "Dharvi Vaid Dhulia",
+      "title": "NASA's Swift space telescope plunges back to Earth in fiery demise - DW.com",
+      "description": "NASA's Swift orbital observatory fell back to Earth after running its mission for more than two decades. A rescue attempt to raise its sinking orbit had earlier failed.",
+      "url": "https://www.dw.com/en/nasas-swift-space-telescope-plunges-back-to-earth-in-fiery-demise/a-79859805",
+      "urlToImage": "https://static.dw.com/image/79859748_6.jpg",
+      "publishedAt": "2026-11-05T04:43:28Z",
+      "content": "A premier NASA space telescope met a fiery end as it crashed back to Earth   two decades after its launch   following the failure of a rescue mission.\r\nThe unmanned Neil Gehrels Swift Observatory re-… [+1724 chars]"
     },
     {
       "source": {
@@ -92,6 +131,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/04/obituaries/04whipple_top/04whipple_top-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-04T23:03:06Z",
       "content": "Dr. Whipple studied the female erogenous zone and, with collaborators, wrote a best seller about women’s sexuality. She was 85."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "David Nield",
+      "title": "Scientists Crushed Water Between Two Diamonds And Saw Something Never Observed in a Lab Before. - ScienceAlert",
+      "description": "Water is crucial for life to flourish, which is why it's something scientists search for first on other planets – but can we really be sure what water looks like in alien environments? In a new study published in Communications Chemistry, researchers in the U…",
+      "url": "https://www.sciencealert.com/water-does-something-unexpected-under-the-crushing-pressures-of-alien-worlds",
+      "urlToImage": "https://www.sciencealert.com/images/2026/11/WaterMolecules-1200x675.jpg",
+      "publishedAt": "2026-11-04T23:02:38Z",
+      "content": "Water is crucial for life to flourish, which is why it's something scientists search for first on other planets but can we really be sure what water looks like in alien environments?\r\nIn a new study … [+3921 chars]"
     },
     {
       "source": {
@@ -138,19 +190,6 @@
         "name": "Nature.com"
       },
       "author": null,
-      "title": "An AI-native experimental laboratory for autonomous biomolecular operations - Nature",
-      "description": "AutoDNA is an artificial intelligence (AI)-native autonomous biomolecular engineering laboratory targeting multi-objective experiments across diverse instruments, realizing the co-evolution of AI and the automation system within an end-to-end multi-user frame…",
-      "url": "https://www.nature.com/articles/s41586-026-11228-6",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11228-6/MediaObjects/41586_2026_11228_Fig1_HTML.png",
-      "publishedAt": "2026-11-04T22:28:14Z",
-      "content": "<li>Burger, B. et al. A mobile robotic chemist. Nature583, 237241 (2020).\r\nArticle \r\n CAS \r\n PubMed \r\nGoogle Scholar \r\n</li><li>Boiko, D. A., MacKnight, R., Kline, B. &amp; Gomes, G. Autonomous chemi… [+9687 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
       "title": "Carbon radical generation by irreversible metal-to-ligand charge transfer - Nature",
       "description": "Nature - Carbon radical generation by irreversible metal-to-ligand charge transfer",
       "url": "https://www.nature.com/articles/s41586-026-11368-9.pdf",
@@ -187,19 +226,6 @@
     {
       "source": {
         "id": null,
-        "name": "Space.com"
-      },
-      "author": "Mike Wall",
-      "title": "NASA's Swift space telescope crashes back to Earth after failed rescue attempt - Space",
-      "description": "Swift had a pretty good 22-year run, but NASA wanted the scope to keep going even longer.",
-      "url": "https://www.space.com/space-exploration/missions/nasa-swift-space-telescope-crashes-to-earth",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/FPZUTd9PY8i9Q9d4pN8f6B-2560-80.jpg",
-      "publishedAt": "2026-11-04T19:06:08Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Abcnews.com"
       },
       "author": "ABC News - Breaking News, Latest News and Videos",
@@ -213,15 +239,15 @@
     {
       "source": {
         "id": null,
-        "name": "Financial Times"
+        "name": "Space.com"
       },
-      "author": null,
-      "title": "Martian volcanoes once thought to be extinct show possible signs of life - Financial Times",
-      "description": "Detection of hydrogen chloride gas spikes raises prospect of volcanic activity under the surface",
-      "url": "https://www.ft.com/content/02b36e5a-223f-4a91-96ab-72b7fbde68f7?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F975da5e4-2bee-4253-bf8b-1bb5e7ed32f8.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "publishedAt": "2026-11-04T19:00:02Z",
-      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+      "author": "Robert Lea",
+      "title": "Mars isn't dead — recent volcanic activity reveals it's just sleeping - Space",
+      "description": "\"It was like looking for a needle in a haystack.\"",
+      "url": "https://www.space.com/astronomy/mars/mars-isnt-dead-recent-volcanic-activity-reveals-its-just-sleeping",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/H8GVsV7MCBNjGQuBJVBqxn-2000-80.png",
+      "publishedAt": "2026-11-04T19:00:00Z",
+      "content": null
     },
     {
       "source": {
@@ -330,19 +356,6 @@
     {
       "source": {
         "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Gayoung Lee",
-      "title": "The Grand Canyon Is Missing 1.2 Billion Years of Earth History. Scientists May Have Figured Out Why - Gizmodo",
-      "description": "“Sometimes what is missing can tell us more about the story of Earth than what we can see.”",
-      "url": "https://gizmodo.com/the-grand-canyon-is-missing-1-2-billion-years-of-earth-history-scientists-figured-out-why-2000834872",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/11/Grand_canyon_powell_great_unconformity-1200x675.jpg",
-      "publishedAt": "2026-11-04T16:50:18Z",
-      "content": "Earths geological history is like a book. At the start of this book you have layers of ancient rock from billions of years ago, and these layers grow younger as you turn the pages. But unlike your ty… [+4356 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Phys.Org"
       },
       "author": "Sam Jarman",
@@ -369,15 +382,15 @@
     {
       "source": {
         "id": null,
-        "name": "Quanta Magazine"
+        "name": "SciTechDaily"
       },
       "author": null,
-      "title": "New Research Tests Whether AI Models Know Their Own Thoughts - Quanta Magazine",
-      "description": "By injecting “thoughts” directly into large language models, researchers are trying to map out AI’s capacity for introspection.",
-      "url": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/",
-      "urlToImage": "https://www.quantamagazine.org/wp-content/uploads/2026/11/LLMIntrospection-crKristinaArmitage-Social.jpg",
-      "publishedAt": "2026-11-04T15:36:19Z",
-      "content": "Whats on your mind right now? You can probably answer this question without thinking too hard about it. Being aware of our own thought processes a capacity called introspection seems to come naturall… [+15050 chars]"
+      "title": "Common Nutritional Supplement Shows Surprising Promise Against Psoriasis - SciTechDaily",
+      "description": "A common nutritional supplement has shown unexpected promise in treating psoriasis.",
+      "url": "https://scitechdaily.com/common-nutritional-supplement-shows-surprising-promise-against-psoriasis/",
+      "urlToImage": null,
+      "publishedAt": "2026-11-04T15:11:16Z",
+      "content": "Psoriasis is a chronic, immune-mediated inflammatory disease that causes skin cells to build up rapidly, forming thick, scaly patches that may itch, crack, or become painful. Credit: Shutterstock\r\nA … [+4865 chars]"
     },
     {
       "source": {
@@ -447,19 +460,6 @@
     {
       "source": {
         "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Simon Sharwood",
-      "title": "China outlines plans for moonshot it hopes to land by 2030 - The Register",
-      "description": "We have go for launch, and the ethernet and Wi-Fi standards that will make it happen",
-      "url": "https://www.theregister.com/offbeat/2026/11/04/china-outlines-plans-for-moonshot-it-hopes-to-land-by-2030/5307457",
-      "urlToImage": "https://image.theregister.com/5307462.jpg?imageId=5307462&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "publishedAt": "2026-11-04T05:58:41Z",
-      "content": "Chinas crewed space program has outlined plans for a moon landing it hopes to achieve by the year 2030.\r\nDeputy chief designer Wang Xiang explained the plans last weekend at an event called the Seven… [+1850 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Phys.Org"
       },
       "author": null,
@@ -486,6 +486,19 @@
     {
       "source": {
         "id": null,
+        "name": "Nature.com"
+      },
+      "author": null,
+      "title": "Nature awards recognize inspiring women in science - Nature",
+      "description": "This year’s winners are a materials scientist and a champion of women’s science education. They — like all those shortlisted — are driven by the desire to support others.",
+      "url": "https://www.nature.com/articles/d41586-026-03545-7",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03545-7/d41586-026-03545-7_53934042.jpg",
+      "publishedAt": "2026-11-04T02:16:14Z",
+      "content": "This year, the Nature Awards for Inspiring Women in Science recognized Taghried Abdelmagid (left) in the Science Outreach category and Alexandra Paterson in the Science Achievement category.Credit: C… [+5493 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "ScienceAlert"
       },
       "author": "Michelle Starr",
@@ -508,6 +521,19 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/a-new-quantum-state-of.jpg",
       "publishedAt": "2026-11-03T22:20:11Z",
       "content": "Researchers from the Faculty of Physics at the University of Warsaw, the Military University of Technology (Poland), IBM Research Zurich and the French National Centre for Scientific Research (CNRS) … [+6106 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Passant Rabie",
+      "title": "China Reveals Detailed Plan to Land Astronauts on the Moon - Gizmodo",
+      "description": "The race to the lunar surface is officially on, and China is making sure it stays in the running.",
+      "url": "https://gizmodo.com/china-details-its-plan-to-land-astronauts-on-the-moon-before-2030-2000834556",
+      "urlToImage": "https://gizmodo.com/app/uploads/2021/10/62c2746dd8950a2c8cd5a94254345faa.jpg",
+      "publishedAt": "2026-11-03T22:05:46Z",
+      "content": "In a rare public statement, China laid out its detailed plan to land a crew of astronauts on the Moon within three years. The recently revealed roadmap offers the most comprehensive look yet at the n… [+3101 chars]"
     },
     {
       "source": {
@@ -655,6 +681,32 @@
     {
       "source": {
         "id": null,
+        "name": "WJHL-TV News Channel 11"
+      },
+      "author": "WJHL",
+      "title": "Star Watch: Meteor shower, planetary pairings, and darker skies this week - WJHL",
+      "description": null,
+      "url": "https://www.wjhl.com/news/star-watch-meteor-shower-planetary-pairings-and-darker-skies-this-week/",
+      "urlToImage": null,
+      "publishedAt": "2026-11-03T15:49:03Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Physicists step closer to the 'Zeptoverse' after 42-year particle search - Phys.org",
+      "description": "Physicists have found evidence of a particle decay so rare that it is expected to occur only around once in every 10 billion \"beauty\" particles. The result, from the upgraded LHCb experiment at CERN's Large Hadron Collider (LHC), follows a search spanning mor…",
+      "url": "https://phys.org/news/2026-11-physicists-closer-zeptoverse-year-particle.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/manchester-physicists.jpg",
+      "publishedAt": "2026-11-03T15:40:30Z",
+      "content": "Physicists have found evidence of a particle decay so rare that it is expected to occur only around once in every 10 billion \"beauty\" particles. The result, from the upgraded LHCb experiment at CERN'… [+6442 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Archaeologymag.com"
       },
       "author": "Dario Radley",
@@ -668,6 +720,19 @@
     {
       "source": {
         "id": null,
+        "name": "New York Post"
+      },
+      "author": "Ben Cost",
+      "title": "‘Landmark discovery:’ Dinosaur blood found in fossils for the first time — and it could advance search for life in the cosmos - New York Post",
+      "description": "‘This really is a landmark discovery.”",
+      "url": "https://nypost.com/2026/11/03/science/fossilized-dinosaur-blood-detected-for-first-time-study/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/147408394.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-11-03T14:42:00Z",
+      "content": "It’s a bloody big find.\r\nAustralian scientists have identified fossilized blood in dinosaur bones for the first time, rewriting our understanding of fossil preservation and even suggesting that simil… [+2880 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Phys.Org"
       },
       "author": null,
@@ -677,19 +742,6 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/fingernail-sized-chip.jpg",
       "publishedAt": "2026-11-03T14:20:12Z",
       "content": "Stanford engineers and colleagues designed a chip that can take a muddled mixture of light from multiple lasers and output clean beams of light. It's the first time researchers have demonstrated a de… [+6219 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Taylor Nicioli",
-      "title": "Scientists say they’ve found the strongest evidence yet of red blood cells in a dinosaur bone - CNN",
-      "description": "A new study found chemical evidence of red blood cells in a 115 million-year-old dinosaur bone, offering new clues about how biological material can survive.",
-      "url": "https://www.cnn.com/2026/11/03/science/red-blood-cells-dinosaur-bone",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/p1012262.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-11-03T14:09:06Z",
-      "content": "Traces of prehistoric blood could reveal unprecedented clues about dinosaur biology, but theyve been notoriously difficult to confirm. Now, researchers studying a 115 million-year-old dinosaur bone s… [+7812 chars]"
     },
     {
       "source": {
@@ -716,19 +768,6 @@
       "urlToImage": "https://www.sciencedaily.com/images/1920/ryugu-sample-in-return-capsule.webp",
       "publishedAt": "2026-11-03T11:00:02Z",
       "content": "A new study reveals all five fundamental nucleobases – the molecular “letters” of life – have been detected in samples from the asteroid Ryugu.Asteroid particles offer a glimpse into the chemical ing… [+3859 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Joe Rao",
-      "title": "Why does Betelgeuse keep fading? The mystery of Orion's giant star - Space",
-      "description": "From stellar pulsations to giant dust clouds and a mysterious companion, astronomers are piecing together why Betelguese keeps changing brightness.",
-      "url": "https://www.space.com/stargazing/why-does-betelgeuse-keep-fading-the-mystery-of-orions-giant-star",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/zRZUeNVZ8RwJC45UUuKY95-1782-80.jpg",
-      "publishedAt": "2026-11-03T11:00:00Z",
-      "content": null
     },
     {
       "source": {
@@ -759,32 +798,6 @@
     {
       "source": {
         "id": null,
-        "name": "The-european.eu"
-      },
-      "author": "John E. Kaye",
-      "title": "Scientists close in on mysterious ‘zeptoverse’ after 40-year hunt for ultra-rare particle - The European Magazine",
-      "description": "Cambridge physicists detect evidence of an extraordinarily rare particle decay at CERN, opening new possibilities for exploring dark matter and the mysterious zeptoverse.",
-      "url": "https://the-european.eu/story-68550/scientists-close-in-on-mysterious-zeptoverse-after-40-year-hunt-for-ultra-rare-particle.html",
-      "urlToImage": "https://the-european.eu/wp-content/uploads/Views_of_the_LHC_tunnel_sector_3-4_tirage_2-scaled.webp",
-      "publishedAt": "2026-11-03T09:50:17Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CounterPunch"
-      },
-      "author": "Peter Sahlins",
-      "title": "Ancient DNA in the Neanderthal Mirror - CounterPunch.org",
-      "description": "Why are we so obsessed with a group of prehistoric humans who disappeared some 40,000 years ago? Ever since the discovery of the first named Neanderthal fossils in 1856, scientists have struggled to make sense of them in tens of thousands of books and article…",
-      "url": "https://www.counterpunch.org/2026/11/03/ancient-dna-in-the-neanderthal-mirror/",
-      "urlToImage": "https://www.counterpunch.org/wp-content/uploads/2026/10/Homo_sapiens_neanderthalensis-Jager.jpg",
-      "publishedAt": "2026-11-03T07:03:02Z",
-      "content": "Reconstruction of a tattooed Neanderthal man butchering a goat at the Neanderthal Museum. CC BY-SA 4.0\r\nWhy are we so obsessed with a group of prehistoric humans who disappeared some 40,000 years ago… [+29646 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "ScienceAlert"
       },
       "author": "Ivan Farkas",
@@ -797,16 +810,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Sci.news"
+        "id": "cbc-news",
+        "name": "CBC News"
       },
-      "author": "Enrico de Lazaro",
-      "title": "Large Megapode Bird Identified from Flores Cave Bone - Sci.News",
-      "description": "A new species of extinct megapode bird -- a ground-dwelling relative of the chicken that was several times heavier than its living cousin -- has been identified from a single fragment of leg bone found in a cave on the Indonesian island of Flores.",
-      "url": "https://www.sci.news/paleontology/megapodius-rokusi-15170.html",
-      "urlToImage": "https://cdn.sci.news/images/2026/11/image_15170f-Megapodius-rokusi.jpg",
-      "publishedAt": "2026-11-03T00:57:28Z",
-      "content": "A new species of extinct megapode bird — a ground-dwelling relative of the chicken that was several times heavier than its living cousin — has been identified from a single fragment of leg bone found… [+3303 chars]"
+      "author": null,
+      "title": "How a high school science teacher stumbled upon the 1st known T. Rex trackway - CBC",
+      "description": "A teacher has discovered the first known trackway of an adult T. Rex, which could shed new light on how the iconic dinos moved around the planet more than 66.5 million years ago.",
+      "url": "https://www.cbc.ca/radio/asithappens/t-rex-trackway-9.7406432",
+      "urlToImage": "https://i.cbc.ca/ais/bfdd6584-e545-47b8-acbb-0d502f640bf3,1793659828825/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C535%2C5712%2C3213%29%3BResize%3D620",
+      "publishedAt": "2026-11-02T23:24:00Z",
+      "content": "Kent Hups says hes dreamed of discovering a Tyrannosaur rex bone ever since he was a little boy. Instead, he found something much, much rarer.\r\nHups, a science teacher at Northglenn High School in Co… [+5047 chars]"
     },
     {
       "source": {
@@ -850,15 +863,15 @@
     {
       "source": {
         "id": null,
-        "name": "Phys.Org"
+        "name": "Gadgetreview.com"
       },
       "author": null,
-      "title": "Why birds speed up to slow down: The physics of landing - Phys.org",
-      "description": "Birds may not always take the flight path that physics suggests is the perfect landing, at the safest and lowest possible speed, using the least energy, according to new research.",
-      "url": "https://phys.org/news/2026-11-birds-physics.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/why-birds-speed-up-to.jpg",
-      "publishedAt": "2026-11-02T16:20:09Z",
-      "content": "Birds may not always take the flight path that physics suggests is the perfect landing, at the safest and lowest possible speed, using the least energy, according to new research.\r\nMost birds flap th… [+4454 chars]"
+      "title": "A Scientist Says the Sun Could Be Conscious & Ball Lightning Can Behave Like a Living Creature - Gadget Review",
+      "description": "Rupert Sheldrake claims stars may be conscious and morphic resonance shapes nature, but mainstream science has not accepted either idea.",
+      "url": "https://www.gadgetreview.com/a-scientist-says-the-sun-could-be-conscious-ball-lightning-can-behave-like-a-living-creature",
+      "urlToImage": "https://www.gadgetreview.com/wp-content/uploads/Rupert-Sheldrake.jpg",
+      "publishedAt": "2026-11-02T16:25:50Z",
+      "content": "Sheldrake’s theories on solar consciousness and morphic resonance draw decades of criticism from biologists and physicists who reject his core claimsThere is a theory in which the nearest star is not… [+5583 chars]"
     },
     {
       "source": {
@@ -885,19 +898,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/29/science/00SCI-UNKNOWNS-ANIMALS-promo/00SCI-UNKNOWNS-ANIMALS-legs-mediumSquareAt3X-v2.jpg",
       "publishedAt": "2026-11-02T10:00:21Z",
       "content": "There are more than 1.5 million known zoological species on Earth, with at least as many enigmas. Here are our top 10."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Jules-Pierre Malartre",
-      "title": "Night sky November 2026 — What to look for in the sky this month - Space",
-      "description": "Discover the best things to see in the night sky this month, from planets to moon meet-ups and deep-sky wonders.",
-      "url": "https://www.space.com/stargazing/what-to-look-for-in-night-sky-november-2026",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/qbBcnnxYC4TjjxsAdTTEv9-1920-80.jpg",
-      "publishedAt": "2026-11-02T08:53:41Z",
-      "content": null
     },
     {
       "source": {
@@ -937,6 +937,19 @@
       "urlToImage": "https://images.theconversation.com/files/769193/original/file-20261030-64-4nkhv1.jpg?ixlib=rb-4.1.1&rect=0%2C108%2C2400%2C1200&q=45&auto=format&w=1356&h=668&fit=crop",
       "publishedAt": "2026-11-01T12:54:58Z",
       "content": "In every culture, humans speak and sing to each other. We have created an astounding array of languages and musical structures across the globe. And yet, within this diversity, some fundamental seque… [+4268 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC Focus Magazine"
+      },
+      "author": "Ezzy Pearson",
+      "title": "We might finally know what came before the Big Bang - BBC Science Focus Magazine",
+      "description": "The Universe may not have begun with a Big Bang, but instead with a Big Bounce, according to a new theory about how the Universe expands",
+      "url": "https://www.sciencefocus.com/space/big-bounce-expansion-cosmology2",
+      "urlToImage": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/741e6453-0e44-4d41-84cb-db9f6ca16ab9/thumbnails/ad43a12c-bf39-4fd7-b56d-f2b66b2815c5.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&platform=WEB&w=1200",
+      "publishedAt": "2026-11-01T12:00:00Z",
+      "content": "Cosmology challenges some of the most fundamental questions we have about our existence how did this all begin? How will it end?\r\nFor decades, astronomers have been exploring the Universe around us, … [+7096 chars]"
     },
     {
       "source": {
@@ -1047,19 +1060,6 @@
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Sarah Bahr",
-      "title": "Scary Ghost Stories From New York Times Archives",
-      "description": "From haunted zoo cages to ghostly bar owners, here are five stories from our archives that will make you shiver, or maybe chuckle.",
-      "url": "https://www.nytimes.com/2026/10/30/insider/ghost-stories-new-york-times.html",
-      "urlToImage": null,
-      "publishedAt": "2026-10-30T22:05:26Z",
-      "content": "From haunted zoo cages to ghostly bar owners, here are five stories from our archives that will make you shiver, or maybe chuckle."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "Kenneth Chang",
       "title": "A Meteorite Found in the Sahara Is a 4.1-Billion-Year-Old Piece of Mars",
       "description": "Minerals in the space rock provide hints about the early history of the red planet, when water was flowing on the surface.",
@@ -1109,19 +1109,6 @@
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Franz Lidz",
-      "title": "Dozens of Headless Skeletons Pose a Macabre Mystery",
-      "description": "Mass graves found at a Stone Age farming settlement in Slovakia have researchers baffled about the details — including the location of the missing skulls.",
-      "url": "https://www.nytimes.com/2026/10/30/science/headless-skeletons-stone-age.html",
-      "urlToImage": null,
-      "publishedAt": "2026-10-30T09:01:56Z",
-      "content": "Mass graves found at a Stone Age farming settlement in Slovakia have researchers baffled about the details — including the location of the missing skulls."
-    },
-    {
-      "source": {
         "id": "cnn",
         "name": "CNN"
       },
@@ -1132,19 +1119,6 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/barnesicecapwide-oli2-20260712.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2026-10-29T15:45:39Z",
       "content": "A shrinking ice cap in Arctic Canada tells a striking story of how humans may have halted the planets next ice age by burning fossil fuels, according to new research.\r\nAround 20,000 years ago, the on… [+5115 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aeon.co"
-      },
-      "author": "Zahaan Bharmal",
-      "title": "How to use physics to make sense of the messiness of life - Aeon",
-      "description": "Physics offered me a sense of order and purpose. But when life got messy I realised it had a much deeper insight to give",
-      "url": "https://aeon.co/essays/how-to-use-physics-to-make-sense-of-the-messiness-of-life",
-      "urlToImage": "https://images.aeonmedia.co/images/afb6d18f-037c-451b-a48b-e7420fcaa8b4/essay-v1-test-v1-jiran-family-4srj_3nontc-unsplash.jpg?width=1200&quality=75&format=jpeg",
-      "publishedAt": "2026-10-29T10:00:16Z",
-      "content": "The senior partner didnt waste any time. Im sorry, Zahaan, he said, your services are no longer required at the firm. We sometimes called him the Burger King behind his back, because he ate a Whopper… [+20869 chars]"
     }
   ]
 }
