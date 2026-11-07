@@ -6,9 +6,22 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-07T17:00:37.294083+00:00",
+  "fetched_at": "2026-11-07T21:06:10.086168+00:00",
   "articles_count": 100,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Emmett Lindner",
+      "title": "A ‘Legend of Zelda’ Game Is Reborn and ’90s Nostalgia Fans Are All In",
+      "description": "Nintendo’s “Legend of Zelda: Ocarina of Time” was released in 1998. Now, its remake has some fans giddily reliving their childhoods.",
+      "url": "https://www.nytimes.com/2026/11/07/business/media/zelda-ocarina-of-time-remake-nintendo.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/07/multimedia/00xp-zelda-03/00xp-zelda-03-mediumSquareAt3X.png",
+      "publishedAt": "2026-11-07T18:52:25Z",
+      "content": "Nintendo’s “Legend of Zelda: Ocarina of Time” was released in 1998. Now, its remake has some fans giddily reliving their childhoods."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -19,7 +32,7 @@
       "description": "With Tom Verlaine, he led the dual-guitar attack in a band that brought fiery yet sophisticated art rock to the New York City punk scene of the 1970s. He was 75.",
       "url": "https://www.nytimes.com/2026/11/07/arts/music/richard-lloyd-dead.html",
       "urlToImage": "https://static01.nyt.com/images/2026/11/02/multimedia/00obit-lloyd-pgkt/00obit-lloyd-pgkt-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-07T16:22:21Z",
+      "publishedAt": "2026-11-07T17:03:05Z",
       "content": "With Tom Verlaine, he led the dual-guitar attack in a band that brought fiery yet sophisticated art rock to the New York City punk scene of the 1970s. He was 75."
     },
     {
@@ -97,7 +110,7 @@
       "description": "After two decades at luxury houses including Hermès, Sophie Toporkoff opened a stained glass studio and introduces some of her design sensibilities to the craft.",
       "url": "https://www.nytimes.com/2026/11/07/arts/the-artisan-transforming-broken-glass-into-something-beautiful.html",
       "urlToImage": null,
-      "publishedAt": "2026-11-07T10:00:29Z",
+      "publishedAt": "2026-11-07T10:00:30Z",
       "content": "After two decades at luxury houses including Hermès, Sophie Toporkoff opened a stained glass studio and introduces some of her design sensibilities to the craft."
     },
     {
@@ -110,7 +123,7 @@
       "description": "The company’s resident choreographers, Lauren Lovette and Robert Battle, showed new dances at Lincoln Center. As usual, Taylor’s works flattened them to bits.",
       "url": "https://www.nytimes.com/2026/11/07/arts/dance/paul-taylor-company-premieres-lauren-lovette-robert-battle.html",
       "urlToImage": null,
-      "publishedAt": "2026-11-07T05:02:33Z",
+      "publishedAt": "2026-11-07T05:02:34Z",
       "content": "The company’s resident choreographers, Lauren Lovette and Robert Battle, showed new dances at Lincoln Center. As usual, Taylor’s works flattened them to bits."
     },
     {
@@ -121,9 +134,9 @@
       "author": "Ben Sisario",
       "title": "Macklemore Says U.S. Arenas Won’t Book His ‘Free Palestine’ Tour",
       "description": "The singer was kicked off Ed Sheeran’s tour in September over his vocal support for Palestinians.",
-      "url": "https://www.nytimes.com/2026/11/06/arts/music/macklemore-says-us-arenas-wont-book-his-free-palestine-tour.html",
+      "url": "https://www.nytimes.com/2026/11/06/arts/music/macklemore-free-palestine-tour.html",
       "urlToImage": "https://static01.nyt.com/images/2026/11/06/multimedia/06cul-Macklemore-bhmp/06cul-Macklemore-bhmp-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-06T23:20:57Z",
+      "publishedAt": "2026-11-06T23:20:58Z",
       "content": "The singer was kicked off Ed Sheeran’s tour in September over his vocal support for Palestinians."
     },
     {
@@ -284,6 +297,19 @@
     },
     {
       "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Alanna Durkin Richer",
+      "title": "Meghan Markle's estranged father arrested and charged with possessing child sexual abuse materials - AP News",
+      "description": "Thomas Markle, the estranged father of Prince Harry’s wife Meghan, has been arrested by federal agents in Florida and charged with possessing child sexual abuse material in California. Thomas Markle was arrested near Tampa. Federal authorities say they search…",
+      "url": "https://apnews.com/article/meghan-markle-father-abuse-allegations-0bf10d1c7d915b82048c04bd9cca9fc5",
+      "urlToImage": "https://dims.apnews.com/dims4/default/697c20b/2147483647/strip/true/crop/2478x1652+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fff%2Fb6%2F7679b63a37cfe437657088c63a58%2Fd8f544ba147b469b9579b99034536cba",
+      "publishedAt": "2026-11-06T16:37:00Z",
+      "content": "The estranged father of Meghan, the Duchess of Sussex, was arrested Friday morning in Florida on a charge of possessing child sexual abuse material in storage units in California, authorities said.\r\n… [+2641 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -294,6 +320,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/05/multimedia/05cul-kehinde-wiley-pbzq/05cul-kehinde-wiley-pbzq-mediumSquareAt3X-v2.jpg",
       "publishedAt": "2026-11-06T16:32:21Z",
       "content": "The artist, who has been facing sexual misconduct allegations, became a single father in May and returns to the gallery world this week with a new show, “What the Light Becomes.”"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Entertainment Weekly"
+      },
+      "author": "https://www.facebook.com/entertainmentweekly",
+      "title": "Knicks star says Taylor Swift is the ‘fakest celebrity’ fan: ‘It’s a little performative’ - Entertainment Weekly",
+      "description": "New York Knicks player Tyler Kolek says that Taylor Swift is the ‘fakest celebrity’ fan of the basketball team.",
+      "url": "https://ew.com/knicks-star-says-taylor-swift-is-fakest-celebrity-fan-12240090",
+      "urlToImage": "https://ew.com/thmb/hreL7DN3kO7l78S7uhPkb_fjWO4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/tyler-kolek-taylor-swift-110626-1-63b0daff068b440dad33f98a733238bd.jpg",
+      "publishedAt": "2026-11-06T16:28:32Z",
+      "content": "Is Taylor Swift a real New York Knicks fan? One of their players doesnt think so.\r\nWhen asked about the fakest celebrity Knicks fan in a seemingly deleted video from a NBA 2K TikTok livestream, Knick… [+2938 chars]"
     },
     {
       "source": {
@@ -323,6 +362,58 @@
     },
     {
       "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Jessie Wade",
+      "title": "Yaga's Episode 4 Creates the Best Episode in the Series – Here's All the Chaos That Ensues - IGN",
+      "description": "Episode 4 of Yaga pulls every twist together to create the best episode in the series thus far.",
+      "url": "https://www.ign.com/articles/yaga-episode-4-recap-and-review-hudson-williams-noah-reid-clark-backo-horror-thriller",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/11/05/yaga-ep4-hero-1793909992418.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2026-11-06T16:00:00Z",
+      "content": "Warning: This review contains full spoilers forYaga\r\n Season 1, Episode 4. Episodes 1-4 are now streaming on AMC+ in the US and Crave in Canada, with new episodes releasing on Fridays at midnight PT.… [+6636 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TMZ"
+      },
+      "author": "TMZ Staff",
+      "title": "Jax Taylor Asks Judge To Order Estranged Wife Brittany Cartwright To Pay Him Spousal Support - TMZ",
+      "description": "Jax Taylor is asking a judge to order his estranged wife Brittany Cartwright to fork over $17,401 a month in spousal support as part of their ongoing bitter divorce proceedings ... TMZ has learned.",
+      "url": "https://www.tmz.com/2026/11/06/jax-taylor-asks-for-thousands-in-spousal-support-from-brittany-cartwright/",
+      "urlToImage": "https://imagez.tmz.com/image/20/16by9/2026/09/03/209ce3e77e794597b8e295f43c026852_xl.jpg",
+      "publishedAt": "2026-11-06T15:36:04Z",
+      "content": "Jax Taylor is asking a judge to order his estranged wife Brittany Cartwright to fork over $17,401 a month in spousal support as part of their ongoing bitter divorce proceedings ... TMZ has learned.\r\n… [+1287 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Variety"
+      },
+      "author": "Anna Tingley",
+      "title": "Katherine Ryan Reacts to Russell Brand Rape Conviction With 'Relief' - Variety",
+      "description": "Katherine Ryan, who worked alongside Russell Brand on Comedy Central's \"Roast Battle,\" has reacted to his rape conviction with \"grief and relief.\"",
+      "url": "https://variety.com/2026/global/news/katherine-ryan-reacts-to-russell-brand-rape-conviction-1236941302/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2026/11/katherine-ryan-russell-brand-1.jpg?w=1000&h=563&crop=1",
+      "publishedAt": "2026-11-06T15:16:00Z",
+      "content": "Years after Katherine Ryan reportedly confronted Russell Brand about alleged predatory behavior while working alongside him on Comedy Central’s “Roast Battle” in 2018, the comedian has spoken out fol… [+1766 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Taijuan Moorman",
+      "title": "Why 'Marshals' and 'Tracker' won't be on air on CBS Sunday - USA Today",
+      "description": "CBS' \"Marshals\" and \"Tracker\" will be pushed back a week as the network airs back-to-back episodes of one of its new original series.",
+      "url": "https://www.usatoday.com/story/entertainment/tv-streaming/2026/11/06/cbs-sunday-schedule-change-november-marshals-tracker/92639301007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/06/USAT/92639391007-3250994-trkr-s-4-0518-b.jpg?crop=2176,1224,x0,y166&width=2176&height=1224&format=pjpg&auto=webp",
+      "publishedAt": "2026-11-06T14:52:00Z",
+      "content": "CBS is making a notable change to its Sunday schedule.\r\nThe network will shake things up Sunday, Nov. 8, when it airs back-to-back episodes of its new original legal drama \"Cupertino,\" pushing \"Marsh… [+1998 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -333,6 +424,84 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/29/multimedia/00cul-titanic-judge-02-wjvq/00cul-titanic-judge-02-wjvq-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-06T14:05:20Z",
       "content": "A Virginia judge, empowered by quirks in maritime law, has overseen the salvage of the remote shipwreck for decades. Now her rule is being challenged."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Cut"
+      },
+      "author": "Olivia Craighead",
+      "title": "Mormon Wives Star Jen Affleck Has Filed for Divorce - The Cut",
+      "description": "‘The Secret Lives of Mormon Wives’ star Jen Affleck filed for divorce from Zac Affleck almost five months after announcing she was pregnant with their fourth child.",
+      "url": "http://www.thecut.com/article/secret-lives-mormon-wives-jen-affleck-divorce-zac-affleck.html",
+      "urlToImage": "https://pyxis.nymag.com/v1/imgs/4a5/a32/3c0d612a72494ffede6d3b8ed53b8710c0-jen-affleck-divorce.1x.rsocial.w1200.jpg",
+      "publishedAt": "2026-11-06T14:02:00Z",
+      "content": "The Secret Lives of Mormon Wivesstar Jen Affleck, 27, has reportedly filed for divorce from her husband, Zac Affleck, 30. On Wednesday, TMZ reported that Jen filed a petition for divorce on Tuesday i… [+3868 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deadline"
+      },
+      "author": "Nellie Andreeva",
+      "title": "'Stranger Things' Live-Action Prequel 'Other Worlds' A Go At Netflix - Deadline",
+      "description": "Netflix has ordered live-action Stranger Things spinoff Other Worlds: A Stranger Things Adventure, from Kate Trefry & The Duffer Brothers, for 2028.",
+      "url": "http://deadline.com/2026/11/stranger-things-prequel-series-other-worlds-netflix-duffers-1237215152/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2026/11/Other_Worlds_Logo_v37_16x9.jpg?w=1024",
+      "publishedAt": "2026-11-06T14:00:00Z",
+      "content": "The long-rumored live-action Stranger Things spinoff series has been officially revealed by Netflix. Other Worlds: A Stranger Things Adventure, co-created by Kate Trefry and the Duffer Brothers and d… [+7434 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Kid Rock shows off massive elk harvest on Instagram while joking about missing the election - Fox News",
+      "description": "Kid Rock's Instagram post combines his love of elk hunting and politics, joking he missed the election while off the grid on an epic outdoor trip.",
+      "url": "https://www.foxnews.com/outkick-culture/kid-rock-shows-off-massive-elk-harvest-instagram-joking-missing-election",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/05/gettyimages-2177676141-scaled.jpg",
+      "publishedAt": "2026-11-06T13:55:43Z",
+      "content": "Kid Rock harvested an incredible elk, and poked some fun at the state of politics in America in the process.\r\nThe popular musician is known for never holding back when it comes to social media, his b… [+1676 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TODAY"
+      },
+      "author": "Ariana Brockington",
+      "title": "Martha Stewart Sits Down With Craig Melvin to Address Halloween Costume Controversy: EXCLUSIVE - TODAY.com",
+      "description": "During the Nov. 6 TODAY episode, Martha Stewart addressed the backlash she received following her controversial Halloween costume.",
+      "url": "https://www.today.com/popculture/news/martha-stewart-homeless-halloween-costume-craig-melvin-today-show-rcna607774",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-11/martha-stewart-1-bc-110626-06b9c5.jpg",
+      "publishedAt": "2026-11-06T13:43:54Z",
+      "content": "Martha Stewart apologized on TODAY following her controversial Halloween costume that appeared to depict a homeless person and said Craig Melvin was not at fault for her wearing the outfit that spark… [+3423 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Decider"
+      },
+      "author": "Liz Kocan",
+      "title": "New Shows & Movies To Watch This Weekend: 'Black Doves' on Netflix, 'It Gets Worse' on Paramount+ and More - Decider",
+      "description": "These shows and more have arrived to streaming this week.",
+      "url": "https://decider.com/2026/11/06/best-new-movies-shows-weekend-netflix-hulu-amazon-prime-hbo-november-6-2026/",
+      "urlToImage": "https://decider.com/wp-content/uploads/2026/11/Decider-NewShowsMovies-1103.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-11-06T13:00:00Z",
+      "content": "Looking for a new show to sink your teeth into this weekend? No matter which streaming services you have, there will be something new arriving: On Netflix, check out returning hits like Black Doves a… [+5709 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Page Six"
+      },
+      "author": "Leah Bitsky",
+      "title": "Exclusive | Meghan Markle's Hollywood reputation 'unraveling in real time' as latest drama 'weakens' career hopes - Page Six",
+      "description": "“You don’t typically throw one of your most important commercial partners under the bus when you’re counting on them to finance your next big project,” Page Six was told.",
+      "url": "https://pagesix.com/2026/11/06/royal-family/meghan-markles-hollywood-reputation-unraveling-in-real-time-as-latest-drama-weakens-career-hopes/",
+      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/newspress-collage-vory2c8s0-1793906488876.jpg?quality=75&strip=all&1793888635&w=1200",
+      "publishedAt": "2026-11-06T13:00:00Z",
+      "content": "Meghan Markle’s Hollywood reputation is falling apart as her latest career moves raise questions about her future in entertainment, according to multiple sources.\r\n“I think were watching the Sussexes… [+9384 chars]"
     },
     {
       "source": {
@@ -363,15 +532,15 @@
     {
       "source": {
         "id": null,
-        "name": "Variety"
+        "name": "The Comeback"
       },
-      "author": "Ellise Shafer",
-      "title": "Bear Grylls Speaks Out on Russell Brand Verdict After Helping Baptize Him: ‘Justice Has Now Been Served’ and the Victims Are ‘Heroes’ - Variety",
-      "description": "Bear Grylls, the \"Man vs. Wild\" host, has spoken out about Russell Brand's rape and sexual assault conviction after he helped to baptize him.",
-      "url": "https://variety.com/2026/tv/global/bear-grylls-russell-brand-verdict-baptism-justice-served-1236941211/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2026/11/bear-grylls-russell-brand.jpg?w=1000&h=563&crop=1",
-      "publishedAt": "2026-11-06T11:48:00Z",
-      "content": "Bear Grylls, the adventurer and TV host known for “Man vs. Wild,” has spoken out about Russell Brand‘s rape and sexual assault conviction after he helped to baptize him in 2024.\r\nBrand was found guil… [+1704 chars]"
+      "author": "Kevin Harrish",
+      "title": "‘Hard for her to shrug it off’: Travis Kelce reportedly trying to calm Taylor Swift down after wedding leak - Yahoo",
+      "description": "Taylor Swift has reportedly not been at all happy about the leaked photos from her wedding to Kansas City Chiefs star Travis Kelce, which surfaced online las...",
+      "url": "https://thecomeback.com/nfl/hard-for-her-to-shrug-it-off-travis-kelce-reportedly-trying-to-calm-taylor-swift-down-after-wedding-leak.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/a47005729ce56b84af5408bcab9c5a1a3e1e147afc7b1c1bdc52a06563b67ac8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_comeback_288%2F3afe5a4899936ac6025537faa6d3ebfe.jpg",
+      "publishedAt": "2026-11-06T11:40:50Z",
+      "content": "Taylor Swift has reportedly not been at all happy about the leaked photos from her wedding to Kansas City Chiefs star Travis Kelce, which surfaced online last month despite the couple's efforts to ke… [+2634 chars]"
     },
     {
       "source": {
@@ -385,6 +554,19 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ef3a/live/c645a760-d9ce-11f1-9e5a-c30c5e3d8c85.jpg",
       "publishedAt": "2026-11-06T11:13:21Z",
       "content": "Posting on social media, Rodrigo said it was written last summer with her longtime collaborator Dan Nigro, and Amy Allen, who has previously contributed to songs by Harry Styles, Sabrina Carpenter an… [+13 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "Emma Jones",
+      "title": "'It was a total miracle': How rejection led Sylvester Stallone to create film's ultimate underdog Rocky - BBC",
+      "description": "In 1976, boxing drama Rocky turned its \"absolutely broke\" and unknown star and screenwriter, Sylvester Stallone, into an A-list sensation. It's a story told in new film I Play Rocky.",
+      "url": "https://www.bbc.com/culture/article/20261104-how-sylvester-stallone-created-underdog-icon-rocky",
+      "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0plmjc9.jpg",
+      "publishedAt": "2026-11-06T10:41:32Z",
+      "content": "In I Play Rocky, the studio United Artists offers Stallone increasing sums to sell the script, just as long as he lets an A-lister of the era, such as Burt Reynolds or Ryan O'Neal, take the title rol… [+248 chars]"
     },
     {
       "source": {
@@ -532,15 +714,28 @@
     {
       "source": {
         "id": null,
-        "name": "Suntimes.com"
+        "name": "Abcnews.com"
       },
-      "author": "Georgia Nicols",
-      "title": "Horoscope for Friday, November 06, 2026 - Chicago Sun-Times",
-      "description": null,
-      "url": "https://chicago.suntimes.com/horoscopes/2026/11/06/horoscopes-today-friday-november-06-2026",
-      "urlToImage": "https://cst.brightspotcdn.com/dims4/default/2145dbd/2147483647/strip/true/crop/870x497+0+67/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2Ffd%2F790f04b15195427014757adc0272%2Fgeorgia-nicols.jpg",
-      "publishedAt": "2026-11-06T06:01:00Z",
-      "content": "Moon Alert\r\nThere are no restrictions to shopping or important decisions today. The moon is in Libra.\r\nAries (March 21-April 19)\r\n Today you will have to go more than halfway when dealing with others… [+3752 chars]"
+      "author": "ANDREW DALTON AP entertainment writer",
+      "title": "'ER' and 'The Pitt' are similar enough for lawsuit to move forward, appeals court finds - ABC News - Breaking News, Latest News and Videos",
+      "description": "A California appeals court has found enough similarity between “ER” and “The Pitt” for a lawsuit by Michael Crichton's widow to proceed",
+      "url": "https://abcnews.com/Business/wireStory/er-pitt-similar-lawsuit-move-forward-appeals-court-137894214",
+      "urlToImage": "https://i.abcnewsfe.com/a/de727f23-dbb2-403c-bfbf-40d546d0c1e2/wirestory_9a6ad0b8bf685b7ac435aacf22cb5a71_16x9.jpg?w=1600",
+      "publishedAt": "2026-11-06T04:06:34Z",
+      "content": "LOS ANGELES -- A California appeals court has found that ER and The Pitt have enough similarity that a lawsuit brought by the widow and estate of ER creator Michael Crichton alleging The Pitt is an u… [+3682 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hollywood Reporter"
+      },
+      "author": "Mia Galuppo, Kirsten Chuba",
+      "title": "Pam Abdy Laments Exits of Top Female Executives in Hollywood: “It Is Upsetting to See” - The Hollywood Reporter",
+      "description": "Abdy, who was ousted as Warner Bros. co-film chief after Paramount Skydance completed its $111 billion acquisition of the studio, received Women in Film’s inaugural Vanguard Award on Thursday night.",
+      "url": "http://www.hollywoodreporter.com/business/business-news/pamela-abdy-female-executives-hollywood-exits-1236749121/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2271373128.jpg?w=1440&h=810&crop=1",
+      "publishedAt": "2026-11-06T03:39:01Z",
+      "content": "At Thursday night‘s Women in Film Honors, Pamela Abdy was on hand to receive one of the evening’s big awards, one month after being ousted as the film chief at Warner Bros.\r\n“I have been relaxing and… [+2596 chars]"
     },
     {
       "source": {
@@ -570,6 +765,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "TVInsider"
+      },
+      "author": "Meredith Jacobs",
+      "title": "‘9-1-1: Nashville’s LeAnn Rimes Explains Shocking Ending: ‘It’s Dixie’ - TV Insider",
+      "description": "Dixie's flight becomes hell when the Pharaoh releases snakes.",
+      "url": "https://www.tvinsider.com/1301766/911-nashville-dixie-snakes-plane-diss-track-blythe-leann-rimes-interview/",
+      "urlToImage": "https://www.tvinsider.com/wp-content/uploads/2026/11/911-nashville-204-blythe-dixie-1420x798.jpg",
+      "publishedAt": "2026-11-06T03:00:24Z",
+      "content": "What To Know\r\n<ul><li>Dixie’s flight becomes hell when the Pharaoh releases snakes in the latest 9-1-1: Nashville.</li><li>The episode ends with her making a shocking move against Blythe.</li><li>LeA… [+14093 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -596,16 +804,42 @@
     },
     {
       "source": {
-        "id": "usa-today",
-        "name": "USA Today"
+        "id": null,
+        "name": "PEOPLE"
       },
-      "author": "Liza Esquibias, KiMi Robinson",
-      "title": "Motley Crue singer Vince Neil's girlfriend arrested for assault - USA Today",
-      "description": "Mötley Crüe frontman Vince Neil's girlfriend, Rain Hannah Andreani, was arrested in Tennessee and faces a domestic assault charge.",
-      "url": "https://www.usatoday.com/story/entertainment/music/2026/11/05/vince-neil-rain-hannah-arrested-assault/92632899007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/06/USAT/92634006007-getty-images-1136731441.jpg?crop=2288,1287,x0,y154&width=2288&height=1287&format=pjpg&auto=webp",
-      "publishedAt": "2026-11-06T01:22:00Z",
-      "content": "Motley Crue frontman Vince Neil's girlfriend was arrested in Tennessee for assault.\r\nRainbow Hannah Andreani, 45, was booked into jail in Williamson County on Sunday, Nov. 1, and faces a domestic-rel… [+2133 chars]"
+      "author": "Kimberlee Speakman",
+      "title": "Savannah Chrisley’s Sister Lindsie Congratulates Her on Pregnancy, Slams ‘Heartbreaking’ Reactions - Yahoo",
+      "description": "“I want to congratulate my sister on her pregnancy [and] congratulate her on her engagement or marriage, whichever that may be,” said Lindsie",
+      "url": "https://people.com/savannah-chrisley-sister-lindsie-congratulates-her-on-pregnancy-slams-heartbreaking-reactions-12239194",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/c865675f8e3f3a37fc5fb73bceb92fa43811bfc9586ced9ca7a63de1e1743e37/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F1c3f86286286912d86358b20399eacfc.jpg",
+      "publishedAt": "2026-11-06T02:27:00Z",
+      "content": "NEED TO KNOW\r\n<ul><li>Lindsie Chrisley praised her sister Savannah's pregnancy and \"engagement or marriage\" on her The Southern Tea podcast\r\n</li><li>She also shared that some of the responses online… [+3365 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eonline.com"
+      },
+      "author": null,
+      "title": "DWTS ' Ezra Sosa and Julia Stiles Reveal Their Matching Tattoos After Elimination - E! News",
+      "description": "Dancing With the Stars alum Julia Stiles and pro partner Ezra Sosa—who came in 8th place in the competition—debuted meaningful tattoos following their elimination.",
+      "url": "https://www.eonline.com/news/1437876/dwts-julia-stiles-ezra-sosa-get-matching-star-tattoos-after-elimination",
+      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/20261105/5a5802db-599a-43b0-a6f7-39001bde9415_1793930410.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
+      "publishedAt": "2026-11-06T02:13:00Z",
+      "content": "Julia Stiles and Ezra Sosa saved their last DWTS memory for after the ballroom.\r\nThe Save the Last Dance star and her partner marked the emotional end of their Dancing With the Stars run with multipl… [+840 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YourTango"
+      },
+      "author": "Kate Rose",
+      "title": "Your Love Horoscope Is Here For Friday, November 6: Finally, It’s Time To Act - YourTango",
+      "description": "Your zodiac sign's daily love horoscope is here for November 6, 2026. See how the alignment of retrograde Venus in Libra and Mars in Leo affects your love life on Friday.",
+      "url": "https://www.yourtango.com/2026402444/love-horoscope-friday-november-06-2026",
+      "urlToImage": "https://www.yourtango.com/sites/default/files/image_blog/2026-11/daily-love-horoscopes-november-6-2026.png",
+      "publishedAt": "2026-11-06T02:07:18Z",
+      "content": "Your zodiac sign's daily love horoscope is here for November 6, 2026. Retrograde Venus in Libra aligns with Mars in Leo on Friday, encouraging you to take action. \r\nThis retrograde season taught you … [+6998 chars]"
     },
     {
       "source": {
@@ -636,15 +870,15 @@
     {
       "source": {
         "id": null,
-        "name": "Deadline"
+        "name": "Fightful"
       },
-      "author": "Peter White",
-      "title": "‘The Terminal List’ Franchise Continues At Amazon With ‘Savage Son’ - Deadline",
-      "description": "It’s unclear whether it will be a standalone season, like The Terminal List: Dark Wolf, or whether it will act as season three of The Terminal List.",
-      "url": "http://deadline.com/2026/11/the-terminal-list-franchise-amazon-savage-son-chris-pratt-1237215033/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2026/11/TCDTELI_ZU037.jpg?w=1024",
-      "publishedAt": "2026-11-05T23:30:00Z",
-      "content": "Chris Pratt is returning as Lieutenant Commander James Reece as Amazon plots the latest move in The Terminal Listfranchise.\r\nThe streamer is adapting Jack Carr’s Savage Son as it maps out the future … [+1734 chars]"
+      "author": "Andrew Thompson",
+      "title": "Report: Major Part Of WWE Crown Jewel Broadcast Will Be Remote Engineered From WWE HQ In Stamford - Fightful",
+      "description": "According to a report, a major part of the WWE Crown Jewel broadcast will be remotely engineered. The show takes place in Saudi Arabia.",
+      "url": "https://www.fightful.com/wrestling/report-major-part-of-wwe-crown-jewel-broadcast-will-be-remote-engineered-from-wwe-hq-in-stamford/",
+      "urlToImage": "https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/09/04112806/NET_INTL_065804_CrownJewel26_LAUNCH_1920x1080.jpg?v=20261105233358",
+      "publishedAt": "2026-11-05T23:36:21Z",
+      "content": "The latest on Crown Jewel.\r\nComing up on November 7th is WWE’s Crown Jewel Premium Live Event at the ANB Arena in Riyadh, Saudi Arabia.\r\nMike Johnson of PWInsider provided more details related to the… [+691 chars]"
     },
     {
       "source": {
@@ -713,6 +947,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Stereogum"
+      },
+      "author": "Chris DeVille",
+      "title": "Vatican’s Culture Minister Details Bob Dylan’s Audience With Pope - Stereogum",
+      "description": "Bob Dylan met the Pope on Wednesday. It wasn’t the first time. Back in 1997, Dylan performed “Knockin’ On Heaven’s Door” in front of Pope John Paul II and about 300,000 young folks at the Eucharistic Congress in Bologna. Twenty-nine years later, he had an aud…",
+      "url": "https://stereogum.com/2516696/vaticans-culture-minister-details-bob-dylans-audience-with-pope/news",
+      "urlToImage": "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/11/Bob-Dylan-Pope.jpeg",
+      "publishedAt": "2026-11-05T22:37:00Z",
+      "content": "Bob Dylan met the Pope on Wednesday. It wasn't the first time. Back in 1997, Dylan performed \"Knockin' On Heaven's Door\" in front of Pope John Paul II and about 300,000 young folks at the Eucharistic… [+4286 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -752,29 +999,42 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "TheWrap"
+        "id": "cbs-news",
+        "name": "CBS News"
       },
-      "author": "Drew Taylor",
-      "title": "‘John Wick’ Animated Prequel Film Officially in the Works at Lionsgate, Keanu Reeves Returning - TheWrap",
-      "description": "An animated John Wick prequel film is officially on the way from Lionsgate, with Keanu Reeves returning to the iconic role.",
-      "url": "https://www.thewrap.com/creative-content/movies/john-wick-animated-prequel-keanu-reeves-lionsgate/",
-      "urlToImage": "https://www.thewrap.com/wp-content/uploads/2026/11/John-Wick-4-1.jpg",
-      "publishedAt": "2026-11-05T22:14:47Z",
-      "content": "Yeah, were thinking hes back.An untitled John Wick animated prequel, which dramatizes the impossible task that got him out from under his gangland overlords on the High Tables, has officially been gr… [+2543 chars]"
+      "author": "Eric  Henderson",
+      "title": "Iowa Gov.-elect Rob Sand comments on Vogue post about his modeling past: \"Yes, I knew that\" - CBS News",
+      "description": "Vogue asked on Instagram whether followers knew the Iowa governor-elect once modeled for Prada. A verified account for Sand, who was previously elected to the Iowa state auditor's office, replied affirmatively in the comments.",
+      "url": "https://www.cbsnews.com/minnesota/news/rob-sand-iowa-governor-elect-prada-model-resurfaces/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/05/12ae2a14-e897-4d4c-83e8-111192935393/thumbnail/1200x630/bf67752a2bbc45912c2b3ea99c154b8b/gettyimages-2290615667.jpg",
+      "publishedAt": "2026-11-05T22:05:00Z",
+      "content": "Iowa Gov.-elect Rob Sand, who won Tuesday's election, walked runways for Prada and other fashion houses while he was in college, according to Vogue.\r\nVogue asked on Instagram whether followers knew t… [+1451 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "KiMi Robinson, Sameen Chaudhry",
+      "title": "'Kate & Allie' star Susan Saint James' cause of death is confirmed - USA Today",
+      "description": "Emmy-winning TV actress Susan Saint James' cause of death has been confirmed. The \"Kate & Allie\" and \"McMillan & Wife\" star died at 80 on Oct. 26.",
+      "url": "https://www.usatoday.com/story/entertainment/tv-streaming/2026/11/05/susan-saint-james-cause-of-death-pancreatic-cancer/92631077007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/05/USAT/92631179007-susan-saint-james.jpg?crop=2839,1597,x137,y82&width=2839&height=1597&format=pjpg&auto=webp",
+      "publishedAt": "2026-11-05T21:58:00Z",
+      "content": "\"Kate &amp; Allie\" star Susan Saint James' cause of death has been confirmed.\r\nThe death certificate for the Emmy-winning actress, who died at 80 on Oct. 26, showed her primary cause of death was met… [+1778 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Page Six"
+        "name": "Hollywood Reporter"
       },
-      "author": "Sarah Jones",
-      "title": "‘Breaking Bad’ star RJ Mitte’s manner of death revealed - Page Six",
-      "description": "Mitte died on Oct. 12 at age 34. His representative previously confirmed he died by suicide but did not disclose further details surrounding his death.",
-      "url": "https://pagesix.com/2026/11/05/celebrity-news/breaking-bad-star-rj-mittes-manner-of-death-revealed/",
-      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/147687237.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-11-05T21:14:00Z",
-      "content": "“Breaking Bad” star RJ Mitte’s manner of death has been revealed.\r\nThe actor, who died at age 34 last month, died by suicide by hanging, according to an official inquest report obtained by Page Six.\r… [+3766 chars]"
+      "author": "McKinley Franklin",
+      "title": "Kimmarie Johnson, ‘Beverly Hills, 90210’ Actress, Dies at 50 - The Hollywood Reporter",
+      "description": "She was a former Miss Pennsylvania USA winner, which led her to compete in the 1993 Miss USA beauty pageant, where she placed in the top six.",
+      "url": "http://www.hollywoodreporter.com/tv/tv-news/kimmarie-johnson-dead-beverly-hills-90210-miss-usa-1236748857/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Kimmarie-Johnson-Obit-Template-Headshot-Getty-H-2026.jpg?w=1296&h=730&crop=1",
+      "publishedAt": "2026-11-05T21:56:18Z",
+      "content": "Kimmarie Johnson, the Beverly Hills, 90210 actress who also competed in the 1993 Miss USA beauty pageant, has died. She was 50. \r\nJohnson died Wednesday after experiencing a “heart event” at her Los … [+1267 chars]"
     },
     {
       "source": {
@@ -792,28 +1052,15 @@
     {
       "source": {
         "id": null,
-        "name": "InStyle"
+        "name": "Redshirtsalwaysdie.com"
       },
-      "author": "https://www.facebook.com/InStyle",
-      "title": "North West Looks So Different With Icy Blue Contacts and Bleached Eyebrows - InStyle",
-      "description": "North West looked so different with blue contacts and bleached eyebrows, while stepping out with her three siblings at the Yeezy Season 01 Runway Show. See her transformation, here.",
-      "url": "https://www.instyle.com/north-west-looks-so-different-icy-blue-contacts-bleached-eyebrows-12238621",
-      "urlToImage": "https://www.instyle.com/thmb/gWbmqPzUVCw9tBD8Ij0RD1QJC0A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/north-a37972ee7dab451cb949be4ca64228a4.jpg",
-      "publishedAt": "2026-11-05T20:44:15Z",
-      "content": "It may have been Kanye Wests Yeezy Season 01 runway show, but his daughter North West stole the show. The 13-year-old rapper made an appearance, alongside her siblings Psalm West, 7, Chicago West, 8,… [+1714 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Variety"
-      },
-      "author": "Jordan Moreau",
-      "title": "Kimmarie Johnson, ‘Beverly Hills, 90210’ Actress and Miss USA Contestant, Dies at 50 - Variety",
-      "description": "Kimmarie Johnson, a model and actress who appeared in \"Beverly Hills, 90210,\" died Wednesday, Nov. 4.",
-      "url": "https://variety.com/2026/tv/obituaries-people-news/kimmarie-johnson-dead-beverly-hills-90210-model-1236940671/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2026/11/GettyImages-168483107.jpg?w=1000&h=563&crop=1",
-      "publishedAt": "2026-11-05T20:41:00Z",
-      "content": "Kimmarie Johnson, a model and actress who appeared in “Beverly Hills, 90210,” “Dude, Where’s My Car?” and more, died Wednesday, Nov. 4, after suffering a “heart event” at her Los Angeles home on Oct.… [+1367 chars]"
+      "author": "Steven Thrash",
+      "title": "Patrick Stewart's lifelong friend Ian McKellen remembers late Star Trek actor - Redshirts Always Die",
+      "description": "“He told me about an offer to take over a leading part in Star Trek…”",
+      "url": "https://redshirtsalwaysdie.com/star-trek-patrick-stewart-death-ian-mckellen-reaction",
+      "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_3000,h_1687/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/GettyImages/mmsport/370/01m6pq1c7t00sbrdmffn.jpg",
+      "publishedAt": "2026-11-05T20:50:00Z",
+      "content": "He told me about an offer to take over a leading part in Star Trek\r\nMost Star Trek fans know real-life brothers of the knighthood Sir Patrick Stewart and Sir Ian McKellen from their on-screen charact… [+2500 chars]"
     },
     {
       "source": {
@@ -830,19 +1077,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Page Six"
-      },
-      "author": "Lanae Brody",
-      "title": "Ellen DeGeneres’ late producer Matt Wright’s secret health struggles revealed after TV veteran died in his sleep - Page Six",
-      "description": "Wright worked on “The Ellen DeGeneres Show” for 16 years, eventually earning an Executive Producer title.",
-      "url": "https://pagesix.com/2026/11/05/celebrity-news/ellen-degeneres-late-producer-matt-wrights-secret-health-struggles-revealed-after-death/",
-      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/147647841.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-11-05T20:13:00Z",
-      "content": "Matt Wright was privately battling health problems prior to his shocking death at 52.\r\nPage Six has learned that those close to the late talk show producer knew he suffered from “heart problems” prio… [+2338 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -853,19 +1087,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/04/multimedia/cul-russell-brown-verdict-hfo-qkpw/cul-russell-brown-verdict-hfo-qkpw-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-05T20:08:30Z",
       "content": "The judge in London said the popular conspiratorial YouTuber and former movie star would be sentenced to “significant custodial time.”"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Variety"
-      },
-      "author": "Michael Schneider",
-      "title": "HBO’s ‘The Gilded Age’ Season 4 Ratings: Most-Watched Premiere Yet - Variety",
-      "description": "HBO's 'The Gilded Age' opened its Season 4 on November 1 with its most-watched premiere ratings yet.",
-      "url": "https://variety.com/2026/tv/news/the-gilded-age-season-4-ratings-season-premiere-hbo-1236940637/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2026/10/Gilded-Age-2.jpg?crop=0px%2C47px%2C1920px%2C1080px&resize=1000%2C563",
-      "publishedAt": "2026-11-05T20:05:00Z",
-      "content": "Things are still looking gilded for HBO’s “The Gilded Age.” The series returned on Nov. 1 to its most-watched season premiere yet, averaging nearly 4 million viewers across platforms, according to th… [+2015 chars]"
     },
     {
       "source": {
@@ -883,19 +1104,6 @@
     {
       "source": {
         "id": null,
-        "name": "Fightful"
-      },
-      "author": "Andrew Thompson",
-      "title": "WWE Offering Crew Members $3,000 In Hazard Pay For Trip To Saudi Arabia For Crown Jewel 2026 - Fightful",
-      "description": "WWE is offering $3,000 in hazard pay for crew members who are making the trip to Saudi Arabia for Crown Jewel.",
-      "url": "https://www.fightful.com/wrestling/wwe-offering-crew-members-3000-in-hazard-pay-for-trip-to-saudi-arabia-for-crown-jewel-2026/",
-      "urlToImage": "https://d1fcaprh3kb5t7.cloudfront.net/wp-content/uploads/2026/09/04112806/NET_INTL_065804_CrownJewel26_LAUNCH_1920x1080.jpg?v=20261105190621",
-      "publishedAt": "2026-11-05T19:11:11Z",
-      "content": "Crown Jewel is scheduled for November 7th.\r\nWith WWE’s 2026 Crown Jewel Premium Live Event being scheduled for November 7th in Saudi Arabia, WrestleVotes on Fightful Select learned that WWE is offeri… [+929 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Hollywood Reporter"
       },
       "author": "Ryan Gajewski",
@@ -909,15 +1117,41 @@
     {
       "source": {
         "id": null,
-        "name": "Page Six"
+        "name": "Slate Magazine"
       },
-      "author": "Jolie Zenna",
-      "title": "Travis Kelce 'can't wait to start new' traditions with Taylor Swift in 'first Christmas as a married man' - Page Six",
-      "description": "“I’m excited for this year to be my first Christmas as a married man,” the athlete gushed.",
-      "url": "https://pagesix.com/2026/11/05/entertainment/travis-kelce-cant-wait-to-start-new-traditions-with-taylor-swift-in-first-christmas-as-a-married-man/",
-      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/147645633.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-11-05T18:15:00Z",
-      "content": "Travis Kelce is looking forward to creating new holiday traditions with his wife, Taylor Swift.\r\n“I’m excited for this year to be my first Christmas as a married man,” the athlete gushed in Tommy Hil… [+2920 chars]"
+      "author": "Nadira Goffe",
+      "title": "Fans Waited Five Years for a Sequel to One of Books’ Biggest Series. Now That It’s Here, They’re Not All Pleased. - Slate Magazine",
+      "description": "A Court of Splintered Harmony sure is splintering harmony.",
+      "url": "https://slate.com/culture/2026/11/acotar-book-6-a-court-of-splintered-harmony-crescent-city-sarah-j-maas.html",
+      "urlToImage": "https://compote.slate.com/images/824dfb8e-a083-41db-912d-1117751cfac5.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+      "publishedAt": "2026-11-05T18:30:00Z",
+      "content": "Sign up for the Slatest to get the most insightful analysis, criticism, and advice out there, delivered to your inbox daily.\r\nSinking ships, extra chapters, and unwarranted crossovers, oh my! Fans ha… [+9453 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The A.V. Club"
+      },
+      "author": null,
+      "title": "Hollywood cracking down on industry insiders betting on Kalshi, Polymarket - A.V. Club",
+      "description": "Hollywood cracking down on industry insiders betting on Kalshi, Polymarket",
+      "url": "https://www.avclub.com/hollywood-studios-production-companies-prediction-market-ban",
+      "urlToImage": "https://www.avclub.com/wp-content/uploads/2026/11/05/polymarket-logo.jpg",
+      "publishedAt": "2026-11-05T18:16:00Z",
+      "content": "Entertainment industry insiders looking to cash in on prediction market betting will have a much harder time, according to The Hollywood Reporter. THR reports that Hollywood studios and production co… [+1558 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deadline"
+      },
+      "author": "Jill Goldsmith",
+      "title": "Imax CEO Wades Into ‘Cliff Booth’ Debate: “Frankly, I Don’t Understand” - Deadline",
+      "description": "Imax CEO Rich Gelfond said he doesn't understand why some chains won’t show The Further Mis-Adventures Of Cliff Booth.",
+      "url": "http://deadline.com/2026/11/imax-ceo-cliff-booth-theatrical-window-debate-netflix-film-1237214415/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2026/08/the-future-mis-adventures-of-cliff-booth-brad-pitt-netflix.jpg?w=1024",
+      "publishedAt": "2026-11-05T18:05:00Z",
+      "content": "Imax chief executive Rich Gelfond said Thursday he doesn’t get why some circuits won’t show The Further Mis-Adventures Of Cliff Boothwhen the Netflix films starts a two-week Imax run on Thanksgiving … [+1993 chars]"
     },
     {
       "source": {
@@ -948,6 +1182,19 @@
     {
       "source": {
         "id": null,
+        "name": "WREG NewsChannel 3"
+      },
+      "author": "WREG.com",
+      "title": "‘Love Island USA’ seeks Memphis singles for upcoming season - WREG.com",
+      "description": null,
+      "url": "https://wreg.com/news/local/love-island-usa-seeks-memphis-singles-for-upcoming-season/",
+      "urlToImage": null,
+      "publishedAt": "2026-11-05T17:55:28Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Riffmagazine.com"
       },
       "author": "Skott Bennett, Skott Bennett",
@@ -961,54 +1208,28 @@
     {
       "source": {
         "id": null,
-        "name": "Pitchfork"
+        "name": "Variety"
       },
-      "author": "Jazz Monroe",
-      "title": "NewJeans’ Contracts Removed Key Protections Against Child Labor Violations - Pitchfork",
-      "description": "The beleaguered K-pop group’s dispute with HYBE label ADOR is laid bare in a New York Times report",
-      "url": "https://pitchfork.com/story/newjeans-contracts-removed-key-protections-against-child-labor-violations/",
-      "urlToImage": "https://media.pitchfork.com/photos/6aecb5a26940ad07c783268c/16:9/w_1280,c_limit/newjeans-contract-report.jpg",
-      "publishedAt": "2026-11-05T17:18:02Z",
-      "content": "Last year, NewJeans staged a revolt that challenged the foundations of the K-pop industry. Their case, against the HYBE label ADOR, hinged on the claim they had suffered significant negligence at the… [+3033 chars]"
+      "author": "Marc Malkin",
+      "title": "Robin Roberts and George Stephanopoulos on Co-Anchoring ‘GMA’ for Almost 20 Years and Trump Era Attacks on the Media: ‘It Stings When You Hear the Words “Fake News”’ - Variety",
+      "description": "Robin Roberts and George Stephanopoulos talk about co-anchoring ‘GMA’ for almost 20 years and Trump era attacks on the media.",
+      "url": "https://variety.com/2026/tv/columns/robin-roberts-george-stephanopoulos-gma-trump-media-fake-news-1236940470/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2026/11/Sherri-Shepherd-Debuts-As-The-First-Female-Genie-In-Aladdin-On-Broadway-A-Funny-Thing-Happened-On-The-Way-To-Cure-Parkinsons-Gala-1000.jpg?w=1000&h=563&crop=1",
+      "publishedAt": "2026-11-05T17:42:00Z",
+      "content": "When George Stephanopoulos was approached in 2009 about replacing Diane Sawyer as co-anchor of “Good Morning America” by then-ABC News president David Westin, the former politico was the host of Sund… [+7507 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Newsnationnow.com"
+        "name": "Entertainment Weekly"
       },
-      "author": "Zach Kaplan",
-      "title": "Martha Stewart blames controversial Halloween costume on ‘Today’ show host - NewsNation",
-      "description": "In footage obtained by TMZ, Stewart, who’s been described as the country’s first self-made female billionaire.",
-      "url": "https://www.newsnationnow.com/entertainment-news/martha-controversial-halloween-costume-today-show-host/",
-      "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2024/10/GettyImages-1258539723.jpg?w=1280",
-      "publishedAt": "2026-11-05T17:04:26Z",
-      "content": "(NewsNation) Martha Stewart has reportedly changed her story about why she dressed as a hungry homeless person for Halloween, saying it was actually “Today” show host Craig Melvin’s fault for spillin… [+820 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Cut"
-      },
-      "author": "Emma Childs",
-      "title": "The New 2027 Met Gala Theme: Boring - The Cut",
-      "description": "Two months after the John Galliano exhibit was scrapped, the museum announced a pivot toward blue jeans, T-shirts, and the ‘poetics of the everyday.’",
-      "url": "http://www.thecut.com/article/the-new-2027-met-gala-theme-boring.html",
-      "urlToImage": "https://pyxis.nymag.com/v1/imgs/1e6/ab8/b80568cb2f60b793693577b7de1b648351-bhavitha-mandava.1x.rsocial.w1200.jpg",
-      "publishedAt": "2026-11-05T16:53:10Z",
-      "content": "The new theme of the 2027 Met Gala is basic. Officially, its extraORDINARY: Fashion and the Poetics of the Everyday, an exploration on how the seemingly unremarkable can inspire delight, surprise, an… [+2857 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "inTouch Weekly"
-      },
-      "author": "Brian Particelli",
-      "title": "Khloe Kardashian and Kris Jenner Caught Lamar Odom in Hotel Room With 20 People: ‘Never Date a Freak Again’ - Yahoo",
-      "description": "Kris Jenner said some serious tea about daughter Khloé Kardashian and her former son-in-law Lamar Odom during a game of Truth or Dare. It all went down on th...",
-      "url": "https://intouchweekly.com/khloe-kardashian-and-kris-jenner-caught-lamar-odom-in-hotel-room-with-20-people-never-date-a-freak-again/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/d121ac77f7bf0a415a32961f4a3674b19c28df0fdc5491defc61b055dbea4cfd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fin_touch_weekly_articles_766%2F9e1e80bc0ae9594e06bebcb902c8e0e3.jpg",
-      "publishedAt": "2026-11-05T16:38:12Z",
-      "content": "Kris Jenner said some serious tea about daughter Khloé Kardashian and her former son-in-law Lamar Odom during a game of Truth or Dare.\r\nIt all went down on the Thursday, November 5, episode of The Ka… [+3008 chars]"
+      "author": "https://www.facebook.com/entertainmentweekly",
+      "title": "Jimmy Kimmel tells Trump to resign after midterm results: ‘Nobody wants you’ - Entertainment Weekly",
+      "description": "Jimmy Kimmel is encouraging Donald Trump to resign after the Democrats won big in the midterm elections: ‘Even you don’t want to be president anymore.’",
+      "url": "https://ew.com/jimmy-kimmel-tells-trump-to-resign-after-midterm-results-12237951",
+      "urlToImage": "https://ew.com/thmb/6KHUPbhisSz1uzIyIhMaX6QB5d0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/jimmy-kimmel-donald-trump-110526-ae8da32e21564a44ae21aacbf9e179f7.jpg",
+      "publishedAt": "2026-11-05T16:43:13Z",
+      "content": "Jimmy Kimmel is calling for Donald Trumps resignation after the Democrats won big at the midterm elections. \r\nThe late-night host, 58, encouraged the reality star-turned-politician, 80, to end his pr… [+2239 chars]"
     },
     {
       "source": {
@@ -1022,19 +1243,6 @@
       "urlToImage": null,
       "publishedAt": "2026-11-05T16:37:32Z",
       "content": "In Martin McDonagh’s latest laugh- and blood-flecked romp, John Malkovich and Sam Rockwell play C.I.A. agents who do more than just sightseeing in Chile."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Wrestling Inc."
-      },
-      "author": "Sam Palmer",
-      "title": "Update On Injury Status Of AEW Stars Following Blood & Guts - Wrestling Inc.",
-      "description": "The 2026 Blood and Guts edition of \"AEW Dynamite\" took its toll on the AEW roster, but no one suffered any serious injuries.",
-      "url": "https://www.wrestlinginc.com/2307970/aew-blood-guts-2026-update-injury-status/",
-      "urlToImage": "https://www.wrestlinginc.com/img/gallery/update-on-injury-status-of-aew-stars-following-blood-guts/l-intro-1793896442.jpg",
-      "publishedAt": "2026-11-05T16:35:33Z",
-      "content": "November 4, 2026 saw the return of All Elite Wrestling's most violent stipulation as the 2026 Blood and Guts edition of \"AEW Dynamite\" took place in Jacksonville, Florida. It was a night that saw Dar… [+1683 chars]"
     },
     {
       "source": {
@@ -1077,19 +1285,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Deadline"
-      },
-      "author": "Glenn Garner",
-      "title": "‘Yellowjackets’ Trailer: The Team Adjusts To Civilization With Creepy Alanis Morissette Soundtrack In Final Season - Deadline",
-      "description": "After three high-stakes seasons stranded in the Canadian wilderness, the Yellowjackets have been rescued in the fourth and final season.",
-      "url": "http://deadline.com/2026/11/yellowjackets-trailer-creepy-alanis-morissette-soundtrack-1237213999/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2026/11/Yellowjackets_S4_DS_0501_1888_RT.jpg?w=1024",
-      "publishedAt": "2026-11-05T16:00:00Z",
-      "content": "After three high-stakes seasons stranded in the Canadian wilderness, the Yellowjackets have been rescued in the fourth and final season.\r\nOn Thursday, Paramount released the trailer for Season 4 of Y… [+1137 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1103,32 +1298,6 @@
     },
     {
       "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Rebecca Cohen",
-      "title": "‘ER’ creator’s estate can sue over ‘The Pitt’ similarities, appeals court rules - NBC News",
-      "description": "Michael Crichton’s wife sued the team behind “The Pitt” in 2024, alleging the HBO drama is an unauthorized reboot of her late husband’s show.",
-      "url": "https://www.nbcnews.com/pop-culture/tv/er-creators-estate-can-sue-pitt-similarities-appeals-court-rules-rcna607612",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-02/250226-The-Pitt-HBO-aa-1153-4c381a.jpg",
-      "publishedAt": "2026-11-05T15:11:05Z",
-      "content": "An appeals court ruled Wednesday that ER is similar enough to HBOs The Pitt for Michael Crichtons estate to continue its lawsuit against the Emmy Award-winning show. \r\nSherri Crichton controls the es… [+3981 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Cut"
-      },
-      "author": "Olivia Craighead",
-      "title": "Mormon Wives Star Jen Affleck Has Filed for Divorce - The Cut",
-      "description": "‘Secret Lives of Mormon Wives’ star Jen Affleck filed for divorce from Zac Affleck almost five months after announcing she was pregnant with their fourth child.",
-      "url": "http://www.thecut.com/article/secret-lives-mormon-wives-jen-affleck-divorce-zac-affleck.html",
-      "urlToImage": "https://pyxis.nymag.com/v1/imgs/4a5/a32/3c0d612a72494ffede6d3b8ed53b8710c0-jen-affleck-divorce.1x.rsocial.w1200.jpg",
-      "publishedAt": "2026-11-05T15:10:42Z",
-      "content": "Secret Lives of Mormon Wivesstar Jen Affleck, 27, has reportedly filed for divorce from her husband, Zac Affleck, 30. On Wednesday, TMZ reported that Jen filed a petition for divorce on Tuesday in Ut… [+2221 chars]"
-    },
-    {
-      "source": {
         "id": "ign",
         "name": "IGN"
       },
@@ -1139,175 +1308,6 @@
       "urlToImage": "https://assets-prd.ignimgs.com/2026/11/05/visionquest-human-torch-jim-thumb-1793891276304.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "publishedAt": "2026-11-05T15:08:26Z",
       "content": "Spoilers follow for VisionQuest\r\n Episode 7, Immolation.\r\nIn the latest (and penultimate) episode of Marvels VisionQuest, Paul Bettanys Vision embarks on a journey deep into his own mind, and along t… [+7809 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Entertainment Weekly"
-      },
-      "author": "https://www.facebook.com/entertainmentweekly",
-      "title": "‘Survivor 51’ star Brady Booker addresses if he was peeing by the tribe camp - Entertainment Weekly",
-      "description": "‘Survivor 51’ star Brady Booker addresses if he was peeing by the tribe camp: ‘I didn’t know I was getting recorded peeing there.’",
-      "url": "https://ew.com/survivor-51-star-brady-booker-addresses-peeing-by-tribe-camp-interview-12235413",
-      "urlToImage": "https://ew.com/thmb/w1U69dxGk1L2zQAGXBCxIWTKwLY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Brady-Booker-110326-e3a68bd1277640dc8ed213e264acf32d.jpg",
-      "publishedAt": "2026-11-05T15:08:00Z",
-      "content": "In the end, his Brodies did him dirty.\r\nBrady Booker was voted out of Survivor 51, becoming the first member of the jury after a coalition of his former Toka tribemates and original Savu players join… [+12094 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Figure Four Online"
-      },
-      "author": "Rosanne Raphael",
-      "title": "Triple H approached Paige at the last minute to replace original challenger for NXT Women’s Championship - F4W/WON",
-      "description": "Paige returned to WWE NXT nearly 12 years after her last match on the brand. She faced Kelani Jordan for the NXT Women’s Championship. However, the WWE star",
-      "url": "https://www.f4wonline.com/news/wwe/triple-h-approached-paige-at-the-last-minute-to-replace-original-challenger-for-nxt-womens-championship/",
-      "urlToImage": "https://www.f4wonline.com/wp-content/uploads/2026/08/triple-h.jpg",
-      "publishedAt": "2026-11-05T14:43:52Z",
-      "content": "Paige returned to WWE NXT nearly 12 years after her last match on the brand. She faced Kelani Jordan for the NXT Womens Championship. However, the WWE star disclosed that she was not the first choice… [+1116 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Blast"
-      },
-      "author": "Favour Adegoke",
-      "title": "Meghan Markle Reportedly Floats Idea Of ‘Living Separate Lives’ From Prince Harry After Becoming ‘Deeply Unhappy’ In The UK - Yahoo News UK",
-      "description": "Prince Harry and Meghan Markle are facing another major disagreement over what their future should look like, with the Duchess […]",
-      "url": "https://theblast.com/879957/meghan-markle-reportedly-living-separate-harry/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/41dc241ed07fe265f6da40d709eb261a80aca2b3778178537cb176de4b2cdb20/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_73%2F1cd7e2c81da43f1e93d1042efb4b8d25.jpg",
-      "publishedAt": "2026-11-05T14:30:00Z",
-      "content": "Prince Harry and Meghan Markle are facing another major disagreement over what their future should look like, with the Duchess of Sussex reportedly unwilling to make Britain their permanent home.\r\nJu… [+7063 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Just Jared"
-      },
-      "author": "Kim Brown",
-      "title": "Meghan Markle's Half Brother Is Allegedly the Subject of Police Investigation as Possible Person of Interest (Report) - Just Jared",
-      "description": "More information is coming to light involving the allegations against Thomas Markle Sr., who is Meghan Markle's father. New reports indicate her",
-      "url": "https://www.justjared.com/2026/11/05/meghan-markles-half-brother-is-allegedly-the-subject-of-police-investigation-as-possible-person-of-interest-report/",
-      "urlToImage": "https://www.justjared.com/wp-content/uploads/2026/11/meghan-markle-allegations.jpg",
-      "publishedAt": "2026-11-05T14:28:47Z",
-      "content": "Credit: Getty Images\r\nMore information is coming to light involving the allegations against Thomas Markle Sr., who is Meghan Markle‘s father. New reports indicate her half-brother, Thomas Jr.,\r\nIf yo… [+1059 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tyla"
-      },
-      "author": "Madison Burgess",
-      "title": "Christina Applegate shares what she might actually have following MS misdiagnosis - Tyla",
-      "description": "The Anchorman actress is 'back at square one' after finding out that she doesn't have multiple sclerosis",
-      "url": "https://www.tyla.com/entertainment/celebrity/christina-applegate-ms-misdiganosis-health-update-podcast-169633-20261105",
-      "urlToImage": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/blt8bbf16c2d7a209e5/bltd45ef815091953c0/6aec4f6db4310ff7861d26a5/christina_applegate.jpg",
-      "publishedAt": "2026-11-05T13:32:37Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hollywood Reporter"
-      },
-      "author": "James Hibberd",
-      "title": "Hollywood Quietly Banning Prediction Market Betting on Movie News, Release Dates (Exclusive) - The Hollywood Reporter",
-      "description": "Employees at studios and production companies are being warned against profiting off their knowledge of insider information. But experts say there's almost no way to stop it.",
-      "url": "http://www.hollywoodreporter.com/movies/movie-news/prediction-market-ban-hollywood-studios-1236742752/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/07/GettyImages-2163996937-H-2026.jpg?w=1296&h=730&crop=1",
-      "publishedAt": "2026-11-05T13:04:02Z",
-      "content": "If you’re an industry insider tempted to drop a few thousand on Kalshi predicting who will be cast as the next James Bond, think again.\r\nThe Hollywood Reporter has learned studios and production comp… [+7222 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Page Six"
-      },
-      "author": "Tamantha Ryan",
-      "title": "‘Today’ host Carson Daly lands a major new role: ‘I’m thrilled’ - Page Six",
-      "description": "The former “TRL” host will make his official debut alongside co-anchor Laura Jarrett, feature anchor Joe Fryer and meteorologist Angie Lassman on Saturday.",
-      "url": "https://pagesix.com/2026/11/05/entertainment/carson-daly-lands-major-new-role-at-today-show/",
-      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/147633529.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-11-05T12:55:00Z",
-      "content": "Carson Daly has been named co-anchor of “Saturday Today.”\r\nThe former “Total Request Live” host will make his official debut alongside co-anchor Laura Jarrett, feature anchor Joe Fryer and meteorolog… [+3421 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Entertainment Weekly"
-      },
-      "author": "https://www.facebook.com/entertainmentweekly",
-      "title": "What happened to Natalee Holloway? Inside her disappearance and why her body has never been found - Entertainment Weekly",
-      "description": "Natalee Holloway vanished in Aruba in 2005, sparking a decades-long investigation filled with shocking twists and unanswered questions. As Netflix revisits the case in a new documentary, EW breaks down what happened.",
-      "url": "https://ew.com/what-happened-to-natalee-holloway-inside-her-2005-disappearance-12237042",
-      "urlToImage": "https://ew.com/thmb/9PYHIuk3n_TVKz_CaVrXBp9wDQg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Taken-Natalee-Holloway-110426-6-25cd5480b7a44045a55b7106c189f9d4.jpg",
-      "publishedAt": "2026-11-05T12:15:00Z",
-      "content": "Its been over two decades since Natalee Holloway went missing during a trip to Aruba. Despite a murder confession from the prime suspect in the case, questions still linger about the teenagers disapp… [+15937 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thetimes.com"
-      },
-      "author": "Tom Kington",
-      "title": "Why Bob Dylan wore Star Wars hood to meet Pope Leo - The Times",
-      "description": "Leo is said not to have batted an eyelid when the singer walked in looking like Emperor Palpatine for the latest celebrity meeting set up by a Vatican fixer",
-      "url": "https://www.thetimes.com/world/europe/article/pope-leo-meets-singer-bob-dylan-vatican-gcbztf77c",
-      "urlToImage": "https://www.thetimes.com/imageserver/image/0a5cf976-fafd-401c-a6b1-9731134f7b6a.jpg?strip=all&format=webp&crop=7087px%2C3986px%2C0px%2C103px&resize=1200",
-      "publishedAt": "2026-11-05T12:04:59Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TVLine"
-      },
-      "author": "Emma Keates",
-      "title": "Patrick Stewart's 5 Best Captain Picard Quotes In Star Trek, Ranked - TVLine",
-      "description": "Captain Jean-Luc Picard's one-liners and pearls of wisdom are part of what makes him such a memorable character. We've ranked Picard's five best quotes.",
-      "url": "https://www.tvline.com/2307583/patrick-stewart-best-captain-picard-quotes-star-trek-ranked/",
-      "urlToImage": "https://www.tvline.com/img/gallery/patrick-stewarts-5-best-captain-picard-quotes-in-star-trek-ranked/l-intro-1793880058.jpg",
-      "publishedAt": "2026-11-05T12:03:22Z",
-      "content": "\"Chain of Command,\" a must-watch two-part episode of \"Star Trek: The Next Generation,\" sees Picard at his absolute lowest. While carrying out a covert mission, the captain is taken prisoner by Cardas… [+949 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The A.V. Club"
-      },
-      "author": null,
-      "title": "Nothing else on TV feels—or looks—quite like Netflix's North Of North - A.V. Club",
-      "description": "The warm, Arctic-set Canadian comedy is sweeter and more sure of itself in season 2.",
-      "url": "https://www.avclub.com/north-of-north-season-2-review-netflix",
-      "urlToImage": "https://www.avclub.com/wp-content/uploads/2026/11/04/north-of-north-s2-1.jpg",
-      "publishedAt": "2026-11-05T12:00:00Z",
-      "content": "Canada’s frosty regions have proven to be fertile ground for TV shows about brooding characters solving dark mysteries (think Cardinal, or the more recent Below). But thats not North Of North. This N… [+4575 chars]"
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Deborah Solomon",
-      "title": "Nara, Dreaming of a Lost Girlhood, Finds New Freedom in Color",
-      "description": "In interviews in New York and Washington, on the eve of two major shows, he discloses the effect of glaucoma on his work.",
-      "url": "https://www.nytimes.com/2026/11/05/arts/design/yoshitomo-nara-david-zwirner-hirshhorn-museum.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/06/multimedia/05cul-nara-art-review-01-kqlf/05cul-nara-art-review-01-kqlf-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-05T10:04:41Z",
-      "content": "In interviews in New York and Washington, on the eve of two major shows, he discloses the effect of glaucoma on his work."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Erik Piepenburg",
-      "title": "‘Jimmy’ Review: Cornball? Absolutely. But Heck, It’s Got Heart.",
-      "description": "Aaron Burns’s sticky-sweet biopic maps a connection between Jimmy Stewart’s military service and “It’s a Wonderful Life.”",
-      "url": "https://www.nytimes.com/2026/11/05/movies/jimmy-review.html",
-      "urlToImage": null,
-      "publishedAt": "2026-11-05T10:02:50Z",
-      "content": "Aaron Burns’s sticky-sweet biopic maps a connection between Jimmy Stewart’s military service and “It’s a Wonderful Life.”"
     }
   ]
 }
