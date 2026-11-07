@@ -6,9 +6,22 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-06T23:50:20.275414+00:00",
-  "articles_count": 100,
+  "fetched_at": "2026-11-07T03:19:42.687502+00:00",
+  "articles_count": 99,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Lauren McCarthy and Stuart A. Thompson",
+      "title": "Researchers Identify Suspicious Activity on Kalshi and Polymarket Before Times/Siena Poll Release",
+      "description": "A trader placed well-timed bets on Polymarket and Kalshi in two Senate races. It was unclear if the person had access to inside information or simply made good trades.",
+      "url": "https://www.nytimes.com/2026/11/06/technology/kalshi-polymarket-nyt-siena-poll-bets.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/04/multimedia/2026-11-04-insider-trading-index/2026-11-04-insider-trading-index-mediumSquareAt3X.png",
+      "publishedAt": "2026-11-07T02:55:47Z",
+      "content": "A trader placed well-timed bets on Polymarket and Kalshi in two Senate races. It was unclear if the person had access to inside information or simply made good trades."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -16,11 +29,11 @@
       },
       "author": "Zane Irwin and Laurence Blair",
       "title": "Paraguay’s President Removed and Arrested Over Financial Crisis",
-      "description": "Santiago Peña was impeached, removed from office and arrested at his residence after a bank with close ties to his administration went under.",
+      "description": "Santiago Peña was impeached, removed from office and placed under house arrest after a bank with close ties to his administration went under.",
       "url": "https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html",
       "urlToImage": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-Paraguay-WTK-glwt/06int-Paraguay-WTK-glwt-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-06T23:30:11Z",
-      "content": "Santiago Peña was impeached, removed from office and arrested at his residence after a bank with close ties to his administration went under."
+      "publishedAt": "2026-11-07T01:29:30Z",
+      "content": "Santiago Peña was impeached, removed from office and placed under house arrest after a bank with close ties to his administration went under."
     },
     {
       "source": {
@@ -58,7 +71,7 @@
       "description": "A judge has twice tossed the president’s defamation complaint, which centered on an article about a birthday greeting to the sex offender Jeffrey Epstein.",
       "url": "https://www.nytimes.com/2026/11/06/business/media/trump-wall-street-journal.html",
       "urlToImage": "https://static01.nyt.com/images/2026/11/06/multimedia/06biz-wsj-pvgk/06biz-wsj-pvgk-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-06T21:28:04Z",
+      "publishedAt": "2026-11-06T21:28:05Z",
       "content": "A judge has twice tossed the president’s defamation complaint, which centered on an article about a birthday greeting to the sex offender Jeffrey Epstein."
     },
     {
@@ -84,7 +97,7 @@
       "description": "Anger over tariffs and higher costs because of the war in Iran led many Republican farmers and ranchers to vote blue — or stay home.",
       "url": "https://www.nytimes.com/2026/11/06/business/farmers-election-trump-democrats.html",
       "urlToImage": "https://static01.nyt.com/images/2026/11/06/multimedia/06biz-farm-vote-01-hlmz/06biz-farm-vote-01-hlmz-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-06T20:03:40Z",
+      "publishedAt": "2026-11-06T20:03:41Z",
       "content": "Anger over tariffs and higher costs because of the war in Iran led many Republican farmers and ranchers to vote blue — or stay home."
     },
     {
@@ -206,6 +219,32 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Michael Sinkewicz",
+      "title": "Trump blames Democrats for stock market plunge after sweeping midterm victories - Fox Business",
+      "description": "Trump blamed Democrats' midterm wins for Wall Street's massive sell-off, warning Americans on Truth Social that their 401(k)s have dropped.",
+      "url": "https://www.foxbusiness.com/politics/trump-blames-democrats-stock-market-plunge-after-sweeping-midterm-victories",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/donald-trump-stock-market-plunge-democrats-2026.jpg?ve=1&tl=1",
+      "publishedAt": "2026-11-06T01:09:00Z",
+      "content": "President Donald Trump blamed Democrats' sweeping midterm election victories for Thursday's massive stock market sell-off, as Wall Street suffered its sharpest losses since April 2025.\r\nIn a post on … [+3229 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Lee Ying Shan, Jenny Lee",
+      "title": "Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble - CNBC",
+      "description": "Asian technology stocks tumbled Friday, tracking a sharp sell-off on Wall Street overnight that sent the tech-heavy Nasdaq Composite into correction territory.",
+      "url": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108256608-1769204635647-gettyimages-1237668341-TAIWAN_TSMC.jpeg?v=1775649989&w=1920&h=1080",
+      "publishedAt": "2026-11-06T00:59:00Z",
+      "content": "Asian technology stocks tumbled Friday, tracking a sharp sell-off on Wall Street overnight that sent the tech-heavy Nasdaq Composite into correction territory as renewed concerns over artificial inte… [+2194 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -229,6 +268,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/05/multimedia/05dc-bird-flu-cfvb/05dc-bird-flu-cfvb-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-06T00:26:37Z",
       "content": "The death follows reports of infections in cattle on dozens of American farms across the country over the past month and a worrying outbreak in mink."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "By Ankur Banerjee",
+      "title": "Asia stocks to drop after AI rout rocks US markets - Yahoo Finance",
+      "description": "(Corrects typographic errors in paragraphs 2 and 10) By Ankur Banerjee SINGAPORE, Nov 6 (Reuters) - Asia's tech-heavy markets crumbled on Friday as fear of i...",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-drop-ai-rout-235808955.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/8e23050eb3a047022e14508d580b2217d5384a65716f27f95e1afbb7bd44bd91/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F0f188f8bed7261183c9643b74e0450ce.jpg",
+      "publishedAt": "2026-11-05T23:58:08Z",
+      "content": "(Corrects typographic errors in paragraphs 2 and 10)\r\nBy Ankur Banerjee\r\nSINGAPORE, Nov 6 (Reuters) - Asia's tech-heavy markets crumbled on Friday as fear of increased regulatory scrutiny and a slowd… [+3569 chars]"
     },
     {
       "source": {
@@ -258,6 +310,19 @@
     },
     {
       "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Thomas Kutty Abraham, Winnie Hsu",
+      "title": "Asian Stocks Brace for Selloff as AI Rout Deepens: Markets Wrap - Bloomberg.com",
+      "description": "Asian stocks slumped from the open after a post-election rout in chipmakers deepened on Wall Street amid growing concern that Democrats will seek tighter regulation of the artificial intelligence industry.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-05/stock-market-today-dow-s-p-live-updates",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKvBs9XkcEZI/v0/1200x800.jpg",
+      "publishedAt": "2026-11-05T23:09:55Z",
+      "content": "Asian stocks slumped from the open after a post-election rout in chipmakers deepened on Wall Street amid growing concern that Democrats will seek tighter regulation of the artificial intelligence ind… [+360 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -268,6 +333,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/29/business/29BIZ-LETTERBOXD/29BIZ-LETTERBOXD-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-05T23:09:27Z",
       "content": "The roughly $330 million deal for the cinephile community site would be part of an effort to add new products and services to the company’s portfolio."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "David Hollerith",
+      "title": "Retail traders dump $265 million in stocks in biggest selling day since 2020 - Yahoo Finance",
+      "description": "Retail investors are dumping US stocks at a pace not seen since the onset of the COVID-19 pandemic, breaking with their typical market-down-day habit of \"buy...",
+      "url": "https://finance.yahoo.com/markets/article/retail-traders-dump-265-million-in-stocks-in-biggest-selling-day-since-2020-224908037.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/5b746261bb8bc9a1b423a88b7b0405fd1e98275fd80c8f347f72cb04ce4c8e69/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F5aa95ff2-2e4c-4865-8aa9-742f04189073",
+      "publishedAt": "2026-11-05T22:50:34Z",
+      "content": "Retail investors dumped US stocks on Thursday at a pace not seen since the onset of the COVID-19 pandemic, breaking with their typical market-down-day habit of \"buying the dip.\"\r\nEveryday investors s… [+1338 chars]"
     },
     {
       "source": {
@@ -297,29 +375,16 @@
     },
     {
       "source": {
-        "id": "usa-today",
-        "name": "USA Today"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": "Medora Lee",
-      "title": "Why the midterm blue wave just triggered a red Wall Street - USA Today",
-      "description": "AI and data center stocks slump as investors worry a new Democratic-controlled Congress will curb the industry's growth. Nasdaq falls into correction.",
-      "url": "https://www.usatoday.com/story/money/personal-finance/2026/11/05/blue-midterm-sweep-turns-ai-tech-rally/92624862007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/05/USAT/92625883007-20080122-t-120000-z-874095695-gm-1-dxcfnifaa-rtrmadp-3-marketsstocks.JPG?crop=3848,2165,x0,y123&width=3200&height=1801&format=pjpg&auto=webp",
-      "publishedAt": "2026-11-05T21:46:00Z",
-      "content": "Midterm election results weighed heavily on U.S. stocks, particularly shares in data center and artificial intelligence, as investors worry a Democratic Congress will slow their development.\r\nThe tec… [+6823 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Lora Kolodny",
-      "title": "Elon Musk's Tesla and SpaceX lose over $420 billion in combined market cap after midterms - CNBC",
-      "description": "Elon Musk's Tesla and SpaceX lose $420 billion in combined market cap after midterms",
-      "url": "https://www.cnbc.com/2026/11/05/tesla-spacex-stocks-fall-after-2026-midterms.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108443511-1792616630586-108443511-1792616084338-gettyimages-2297246496-AFP_C9Q98QB.jpeg?v=1792701546&w=1920&h=1080",
-      "publishedAt": "2026-11-05T21:42:17Z",
-      "content": "SpaceX and Tesla shares declined by about 9% and 11%, respectively, on Thursday afternoon with investors concerned that Elon Musk could face new congressional probes and his companies stricter regula… [+2679 chars]"
+      "author": "Ryan Whitwam",
+      "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable - Ars Technica",
+      "description": "Google is technically offering schools more choice but not the choices anyone wants.",
+      "url": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-1152x648.jpg",
+      "publishedAt": "2026-11-05T21:40:36Z",
+      "content": null
     },
     {
       "source": {
@@ -337,15 +402,54 @@
     {
       "source": {
         "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": null,
+      "title": "SpaceX Lessors Look To Sell $40 Bil AI Deal. ARK Buys The Dip On SPCX Stock. - Investor's Business Daily",
+      "description": "Goldman Sachs, Apollo Global look to sell portions of $40 billion GPU deal with SpaceX. Cathie Wood buys the dip amid AI retreat.",
+      "url": "https://www.investors.com/news/spacex-goldman-sachs-apollo-40bil-nvidia-ai-gpu-deal-sale-cathie-wood-ark-invest-spcx-stock/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2026/11/stock-spaceX-Hawthorne-adobe.jpg",
+      "publishedAt": "2026-11-05T21:39:00Z",
+      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Samuel O'Brient",
+      "title": "Investors have dumped Tesla and SpaceX stock since the blue wave election - Business Insider",
+      "description": "Shares of Musk's companies have cratered since Democrats swept the midterms, with concerns that a Tesla-SpaceX merger could now be more difficult.",
+      "url": "https://www.businessinsider.com/tesla-spacex-elon-musk-democrats-tsla-spcx-stock-2026-11#article",
+      "urlToImage": "https://i.insider.com/6aecd141c54bfafa65abf658?width=1200&format=jpeg",
+      "publishedAt": "2026-11-05T21:32:00Z",
+      "content": "Elon Musk spent a fortune on the doomed GOP midterms, but his losses are still piling up days later as SpaceX and Tesla shares tank.\r\nThe rout in both Tesla and SpaceX continued for a second day on T… [+2701 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Barron's"
       },
-      "author": "Mackenzie Tatananni",
-      "title": "IonQ CEO Doubles Down on Vision for Quantum Dominance After Blowout Earnings - Barron's",
-      "description": "IonQ CEO Niccolo de Masi envisions the company as a cornerstone of U.S. dominance in quantum technology.",
-      "url": "https://www.barrons.com/articles/ionq-earnings-stock-price-44567619",
-      "urlToImage": "https://images.barrons.com/im-04893291/social",
-      "publishedAt": "2026-11-05T21:38:00Z",
-      "content": "IonQhas become a standout name in quantum computingdue in part to its outspoken chief executive, but also backed by steady commercial progress. Following the latest earnings report, leadership expect… [+129 chars]"
+      "author": "Al Root",
+      "title": "SpaceX Stock Had These 2 Positives Today. It’s Still Falling. - Barron's",
+      "description": "China Renaissance initiates coverage of SpaceX with a Buy rating and a $194.20 price target,",
+      "url": "https://www.barrons.com/articles/spacex-stock-buy-rating-cathie-wood-e46d26d7",
+      "urlToImage": "https://images.barrons.com/im-55616031/social",
+      "publishedAt": "2026-11-05T21:20:00Z",
+      "content": "SpaceXstock was falling Thursday, dipping below its initial public offering price of $135 in June, despite a new Buy rating on Wall Street and more buying from growth investorCathie Wood. Post-electi… [+141 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Mary  Cunningham",
+      "title": "Gas prices could soon dip below $4 a gallon. So why are fuel costs falling? - CBS News",
+      "description": "Fuel prices have dropped in recent weeks amid hopes that the midterm elections would increase pressure on the U.S. and Iran to reach a peace deal.",
+      "url": "https://www.cbsnews.com/news/gas-prices-below-four-dollars-expert-predicts/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/05/5ecc93a5-d6f5-4fe4-8dfc-010b46c938a8/thumbnail/1200x630/cfe66de34ce7157832cafc2c34d66aeb/gettyimages-2302796448.jpg",
+      "publishedAt": "2026-11-05T21:19:08Z",
+      "content": "Motorists could soon see U.S. gasoline prices fall below $4 a gallon for the first time since July, according to energy experts.\r\nPatrick De Haan, a petroleum expert at price-tracking firm GasBuddy, … [+2314 chars]"
     },
     {
       "source": {
@@ -362,29 +466,16 @@
     },
     {
       "source": {
-        "id": "fox-news",
-        "name": "Fox News"
+        "id": "business-insider",
+        "name": "Business Insider"
       },
-      "author": null,
-      "title": "OpenAI faces Democratic backlash over AI data center expansion - Fox News",
-      "description": "OpenAI unveils new data center policies amid growing concerns over power costs, local communities and Democratic efforts to halt AI infrastructure expansion.",
-      "url": "https://www.foxnews.com/live-news/ai-news-openai-data-centers-midterms-11-05-26",
-      "urlToImage": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/11/0395d2cdc93277c2164300c0bc595a98.jpg",
-      "publishedAt": "2026-11-05T21:11:15Z",
-      "content": "OpenAI is promising greater transparency and community involvement in its massive data center expansion as Democrats push to restrict new facilities following sweeping victories in Tuesday's midterm … [+1739 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Julie Z. Weil",
-      "title": "U.S. taxpayers can shield an extra $500 from taxation next year - The Washington Post",
-      "description": "The IRS announced next year’s standard deduction and tax brackets.",
-      "url": "https://www.washingtonpost.com/business/2026/11/05/us-taxpayers-can-shield-an-extra-500-taxation-next-year/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fwapo%2F7CP63U2BAQZKFIKHZCXEOFE44M.jpg&w=1200",
-      "publishedAt": "2026-11-05T21:11:12Z",
-      "content": "Following stunning losses, even in seats thought to be safe, some House Republicans say their conferences leadership team needs to step aside. On Thursday, a handful of Republicans began trying to ou… [+1641 chars]"
+      "author": "Alice Tecotzky, Tim Paradis",
+      "title": "Here's the Severance Package Block Is Offering Laid-Off US Employees - Business Insider",
+      "description": "Block employees laid off this week are getting 90 days of pay without working, plus severance and three months of healthcare coverage.",
+      "url": "https://www.businessinsider.com/block-november-layoffs-severance-package-2026-11#article",
+      "urlToImage": "https://i.insider.com/6aecc64e308912814ed714d8?width=1200&format=jpeg",
+      "publishedAt": "2026-11-05T21:14:00Z",
+      "content": "Block employees in the US who were hit in the company's latest round of cuts will receive at least 60 days of pay, plus severance.\r\nThose workers are eligible for at least seven weeks of base pay, ac… [+3238 chars]"
     },
     {
       "source": {
@@ -398,6 +489,45 @@
       "urlToImage": "https://s.yimg.com/lo/mysterio/api/d1f8a3fb29392d3087b29d208811a91d7ebbaee0a7a55e961f59fbf07e75574f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Fc9cf47b4-a56b-44db-bfc5-6da7b7872789",
       "publishedAt": "2026-11-05T21:10:47Z",
       "content": "Shares of memory chipmaker Micron Technology (MU) tumbled 17% as a chip sell-off deepened on Thursday.\r\nPeer SK Hynix (SKHY), along with memory and storage names Sandisk (SNDK), Seagate (STX), and We… [+716 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ionq.com"
+      },
+      "author": null,
+      "title": "IonQ Announces Record 3Q26 Revenues and Raises FY2026 Guidance to $505 - $515 Million as Backlog Grows to $1.2 Billion - IonQ - Investor Relations",
+      "description": "Revenue, GAAP EPS and Adjusted EPS All Exceed Consensus Estimates* Reported GAAP Revenue of $173.8 Million, Up 336% Year-over-Year, Marking the Sixth Consecutive Record Quarter Raises Full Year Revenue Guidance to $505 to $515 Million and Expects 110% Year-Ov…",
+      "url": "https://investors.ionq.com/news/news-details/2026/IonQ-Announces-Record-3Q26-Revenues-and-Raises-FY2026-Guidance-to-505---515-Million-as-Backlog-Grows-to-1-2-Billion/",
+      "urlToImage": "https://investors.ionq.com/files/images/ionq-og-2021-10-11.jpg",
+      "publishedAt": "2026-11-05T21:09:39Z",
+      "content": "COLLEGE PARK, Md.--(BUSINESS WIRE)-- \r\nIonQ (NYSE: IONQ), the worlds leading full-stack quantum platform and foundry, today announced financial results for the quarter ended September 30, 2026.\r\nI am… [+38460 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "STAT"
+      },
+      "author": "Ed Silverman, Jason Mast",
+      "title": "Novartis cites cases of previously unknown tumors possibly tied to its SMA gene therapy - STAT",
+      "description": "Novartis has acknowledged seven previously unknown instances in which tumors were found in children who were treated with its spinal muscular atrophy therapy, Zolgensma.",
+      "url": "https://www.statnews.com/pharmalot/2026/11/05/novartis-sma-zolgensma-tumor-case-reports/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2021/05/ks051621_SMA_31-1024x576.jpg",
+      "publishedAt": "2026-11-05T21:06:15Z",
+      "content": "Novartis has acknowledged seven previously unknown instances in which tumors were found in children who were treated with its spinal muscular atrophy therapy, a surprising development that has raised… [+920 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Rebecca Torrence",
+      "title": "Shield AI To Hit $28.8 Billion Value With $5.3 Billion Radar Acquisition - Bloomberg.com",
+      "description": "Defense tech startup set to acquire Echodyne Corp., which sells radar sensors to government and commercial customers.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-05/shield-ai-to-hit-28-8-billion-value-with-5-3-billion-radar-acquisition",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/injuquI4rnuA/v1/1200x800.jpg",
+      "publishedAt": "2026-11-05T20:37:30Z",
+      "content": "Shield AI is buying a radar company for $5.3 billion, and raising $2.5 billion in new funding for it, the company plans to announce on Thursday.\r\nThe new backing, which Shield AI is raising to suppor… [+747 chars]"
     },
     {
       "source": {
@@ -415,6 +545,32 @@
     {
       "source": {
         "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "DEE-ANN DURBIN AP business writer",
+      "title": "Wendy's rejects buyout bid and girds itself for a hostile takeover campaign - ABC News - Breaking News, Latest News and Videos",
+      "description": "Wendy’s rejected a $1.4 billion buyout offer from an activist investor, saying Thursday that the bid was too low",
+      "url": "https://abcnews.com/Business/wireStory/wendys-rejects-buyout-bid-activist-investor-adopts-poison-137876779",
+      "urlToImage": "https://i.abcnewsfe.com/a/1079f3d6-e7b7-4a7a-be6d-df71ab7a032f/wirestory_15809c56629618ca75df028aa954f8e3_16x9.jpg?w=1600",
+      "publishedAt": "2026-11-05T20:33:37Z",
+      "content": "Wendys rejected a $1.4 billion buyout offer from an activist investor, saying Thursday that the bid was too low and didn't take into account the company's long-term earnings potential under its new C… [+4662 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ",
+      "title": "Trump’s Memecoin Sinks to All-Time Low - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026/card/trump-s-memecoin-sinks-to-all-time-low-QNfsLqVsVaBBTuRfqig3",
+      "urlToImage": null,
+      "publishedAt": "2026-11-05T20:23:43Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
         "name": "CNBC"
       },
       "author": "Davis Giangiulio",
@@ -424,6 +580,45 @@
       "urlToImage": "https://image.cnbcfm.com/api/v1/image/108363195-1789494139297-gettyimages-2294931488-AFP_C8EA8N2.jpeg?v=1789494213&w=1920&h=1080",
       "publishedAt": "2026-11-05T20:16:52Z",
       "content": "After a big win in the U.S. midterm elections on Tuesday, some Democrats are already signaling they want to take on the artificial build-out, specifically data centers. \r\nIn a post on X, Sen. Bernie … [+3082 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investing.com"
+      },
+      "author": "Frank DeMatteo",
+      "title": "AI free-fall triggers another major hedge fund shakeout - Investing.com",
+      "description": "AI free-fall triggers another major hedge fund shakeout",
+      "url": "https://www.investing.com/news/stock-market-news/ai-freefall-triggers-another-major-hedge-fund-shakeout-5005449",
+      "urlToImage": "https://content-media.investing.com/news/LYNXNPEE9L1CO_L.jpg",
+      "publishedAt": "2026-11-05T20:01:08Z",
+      "content": "Investing.com -- Wall Street’s AI-focused sell-off is producing another round of collateral damage inside the hedge fund industry, with $17 billion Walleye Capital restructuring its stock-picking ope… [+2998 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tastingtable.com"
+      },
+      "author": "Dani Zoeller",
+      "title": "Review: Starbucks' 2026 Holiday Menu Has A Lot Of Hits And A Few Misses - Tasting Table",
+      "description": "Starbucks dropped its holiday menu for 2026 on 11/5, and I headed right over to try a spread of new drinks plus a few new food items. Here's what I think.",
+      "url": "https://www.tastingtable.com/2308401/starbucks-holiday-menu-2026-review/",
+      "urlToImage": "https://www.tastingtable.com/img/gallery/review-starbucks-2026-holiday-menu-has-a-lot-of-hits-and-a-few-slight-misses/l-intro-1793908046.jpg",
+      "publishedAt": "2026-11-05T19:49:06Z",
+      "content": "I absolutely love making tiramisu for the holidays, so I was thrilled that for the 2026 holiday season, Starbucks released a Tiramisu Velvet Latte in iced, hot, and cold brew versions. For this tasti… [+1205 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": "Dana Nickel, Maggie Miller",
+      "title": "US agencies issue warning after spate of cyberattacks on refrigerators - Politico",
+      "description": "Pro-Russian hacktivist groups have claimed responsibility for the recent hacking spree across European grocery stores.",
+      "url": "https://www.politico.com/news/2026/11/05/cisa-fbi-hhs-warning-fridge-cyberattacks-01152018",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F11%2F56%2F485aa8194127af694c775695c287%2Ffrance-supermarket-1-44.jpg",
+      "publishedAt": "2026-11-05T19:42:00Z",
+      "content": "Federal agencies are urging hospitals, transportation systems and food retailers to shore up industrial refrigeration systems after a spate of cyberattacks disrupted cooling systems at grocery stores… [+694 chars]"
     },
     {
       "source": {
@@ -437,6 +632,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-bomb-threats-scene01-photo-bqtk/05int-bomb-threats-scene01-photo-bqtk-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-05T19:39:19Z",
       "content": "Passengers recounted landing at a military base and being subjected to security checks and travel delays after threats that turned out to be hoaxes affected planes in Italy, Poland and Spain."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Grace O'Donnell",
+      "title": "Stock market today: Nasdaq plunges 5% amid chip stock wipeout, Dow and S&P 500 erase post-election rally gains - Yahoo Finance",
+      "description": "US stocks plunged as investors dumped AI stocks and the Nasdaq entered a correction.",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/50f30270174dcb7adea7de2d0ac67ecc9cb7a57b0b6bcb6641cbf0c4f44679b3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F072607b5-313d-4f66-bb29-9dd73a3ba1bc",
+      "publishedAt": "2026-11-05T19:38:49Z",
+      "content": "US stocks plunged on Thursday as AI and chip stocks sold off, erasing the gains from Wednesday's post-election rally.\r\nThe Dow Jones Industrial Average (^DJI\r\n) tumbled 3.4%, or more than 1,800 point… [+19515 chars]"
     },
     {
       "source": {
@@ -454,15 +662,15 @@
     {
       "source": {
         "id": null,
-        "name": "Barron's"
+        "name": "CNBC"
       },
-      "author": "Nate Wolf",
-      "title": "Everything Is Going Wrong for Chip Stocks. 5 Names at Fire-Sale Prices. - Barron's",
-      "description": "Nvidia, Intel, Qualcomm and other chip stocks are in the middle of a bloodbath. But shares that looked very pricey months ago are suddenly bargains, if investors pick the right names.",
-      "url": "https://www.barrons.com/articles/chip-stocks-nvidia-amd-broadcom-selloff-4f4e25a4",
-      "urlToImage": "https://images.barrons.com/im-12602152/social",
-      "publishedAt": "2026-11-05T19:04:00Z",
-      "content": "If your portfolio is flush with semiconductor stocks, I wouldnt suggest taking a look at your returns today. Everything that could have gone wrong for chip makers has gone wrongseemingly all at once.… [+99 chars]"
+      "author": "Kate Dore, CFP®, EA",
+      "title": "IRS announces new federal income tax brackets for 2027 - CNBC",
+      "description": "The IRS has announced higher federal income tax brackets and standard deductions for 2027. Here's what taxpayers need to know.",
+      "url": "https://www.cnbc.com/2026/11/05/2027-federal-tax-brackets.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107419788-1716554678545-gettyimages-1424217145-6w1a0811.jpeg?v=1749066860&w=1920&h=1080",
+      "publishedAt": "2026-11-05T19:23:32Z",
+      "content": "The IRS has announced new federal income tax brackets and standard deductions for 2027.\r\nIn its announcement Thursday, the agency raised the income thresholds for each bracket, which apply to tax yea… [+2510 chars]"
     },
     {
       "source": {
@@ -479,32 +687,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Financial Times"
-      },
-      "author": null,
-      "title": "Goldman Sachs elevates record number of engineers to coveted partner ranks - Financial Times",
-      "description": "Wall Street bank expands elite cohort as trading and dealmaking boom fuels profits",
-      "url": "https://www.ft.com/content/2f7eadc8-e01e-45df-8fcc-275e3e100558?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8b92cbe6-df3f-4de1-a3bb-a525a6160d2d.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "publishedAt": "2026-11-05T18:57:46Z",
-      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fox Business"
-      },
-      "author": "Eric Revell",
-      "title": "McDonald's plans new value menu offerings next year to boost sluggish sales - Fox Business",
-      "description": "McDonald's is testing new value menu constructs in 1,900 restaurants, with CEO Christopher Kempczinski eyeing a national launch in early 2027.",
-      "url": "https://www.foxbusiness.com/markets/mcdonalds-plans-new-value-menu-offerings-next-year-us-traffic-declines",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/05/0/0/mcdonalds-workers.jpg?ve=1&tl=1",
-      "publishedAt": "2026-11-05T18:57:00Z",
-      "content": "McDonald's is testing new value menu offerings with an eye toward launching a new national value menu program in early 2027.\r\nThe fast-food giant has sought to counter slowing traffic in the U.S. as … [+3368 chars]"
-    },
-    {
-      "source": {
         "id": "bloomberg",
         "name": "Bloomberg"
       },
@@ -518,29 +700,29 @@
     },
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
+        "id": null,
+        "name": "Marijuana Moment"
       },
-      "author": "WSJ",
-      "title": "Trump’s Memecoin Sinks to All-Time Low - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026/card/trump-s-memecoin-sinks-to-all-time-low-QNfsLqVsVaBBTuRfqig3",
-      "urlToImage": null,
-      "publishedAt": "2026-11-05T18:32:09Z",
-      "content": null
+      "author": "Tom Angell",
+      "title": "Illinois Governor And US Senator Push For Federal Hemp THC Product Ban To Take Effect Without Further Delay - Marijuana Moment",
+      "description": "The governor and lieutenant governor of Illinois, along with a U.S. senator that represents the state, released a policy agenda this week that calls on Congress to allow the planned federal recriminalization of hemp THC products to take effect without further…",
+      "url": "https://www.marijuanamoment.net/illinois-governor-and-us-senator-push-for-federal-hemp-thc-product-ban-to-take-effect-without-further-delay/",
+      "urlToImage": "https://www.marijuanamoment.net/wp-content/uploads/2022/08/pexels-kindel-media-7668053-scaled.webp",
+      "publishedAt": "2026-11-05T18:39:36Z",
+      "content": "The governor and lieutenant governor of Illinois, along with a U.S. senator that represents the state, released a policy agenda this week that calls on Congress to allow the planned federal recrimina… [+4388 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "NBC 7 San Diego"
+        "id": "business-insider",
+        "name": "Business Insider"
       },
-      "author": "NBC San Diego Staff",
-      "title": "2 arrested after mushroom gummies given to children on Halloween in Ocean Beach - NBC 7 San Diego",
-      "description": "An 80-year-old man and a 45-year-old man suspected of distributing psilocybin gummies to at least 15 trick-or-treating children in Sunset Cliffs were taken into…",
-      "url": "https://www.nbcsandiego.com/news/local/2-arrested-after-psilocybin-gummies-given-to-children-on-halloween/4097474/",
-      "urlToImage": "https://media.nbcsandiego.com/2026/11/halloween-gummies.jpg?quality=85&strip=all&resize=1200%2C675",
-      "publishedAt": "2026-11-05T18:28:55Z",
-      "content": "An 80-year-old man and a 45-year-old man suspected of distributing psilocybin gummies, also known as \"magic mushrooms\" to at least 15 trick-or-treating children in Ocean Beach were taken into custody… [+2948 chars]"
+      "author": "Samuel O'Brient",
+      "title": "Michael Burry says Anthropic is 'betting its entire existence' on optimism, and he has no plans to own the stock - Business Insider",
+      "description": "Michael Burry is among the Anthropic bears, worried about the AI maker's revenue keeping up with future spending commitments.",
+      "url": "https://www.businessinsider.com/michael-burry-anthropic-ipo-outlook-ant-big-short-2026-11#article",
+      "urlToImage": "https://i.insider.com/6aec7fdac54bfafa65abf3aa?width=1200&format=jpeg",
+      "publishedAt": "2026-11-05T18:26:00Z",
+      "content": "Michael Burry won't be buying Anthropic stock when the AI titan goes public.\r\n\"The Big Short\" investor has been bearish on the Anthropic's initial public offering since it unveiled its prospectus las… [+2211 chars]"
     },
     {
       "source": {
@@ -557,16 +739,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Investor's Business Daily"
+        "id": "business-insider",
+        "name": "Business Insider"
       },
-      "author": null,
-      "title": "Micron Stock Plunges As Memory-Chip Shortages Cause Ripple Effects - Investor's Business Daily",
-      "description": "Micron Technology stock fell Thursday as memory-chip shortages are having ripple effects across the tech sector.",
-      "url": "https://www.investors.com/news/technology/micron-stock-plunges-memory-chip-shortages/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2026/10/stock-Micron-Dell-Technologies-conference-company.jpg",
-      "publishedAt": "2026-11-05T17:56:00Z",
-      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
+      "author": "Alice Tecotzky",
+      "title": "Goldman Sachs just welcomed 109 new members to its most exclusive club. Here's a breakdown of the new partner class. - Business Insider",
+      "description": "Goldman' class of 109 new partners represents a 15% increase from its previous cohort and largest under CEO David Solomon.",
+      "url": "https://www.businessinsider.com/goldman-sachs-partner-promotions-full-list-2026-11#article",
+      "urlToImage": "https://i.insider.com/6aecc53e9270da3cc66687a1?width=1200&format=jpeg",
+      "publishedAt": "2026-11-05T18:12:00Z",
+      "content": "Goldman Sachs has crowned its newest class of partners.The storied financial institution announced it elevated 109 executives to one of Wall Street's most coveted titles the largest class since 2010.… [+1464 chars]"
     },
     {
       "source": {
@@ -580,32 +762,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/09/wonder.jpg?resize=1200,800",
       "publishedAt": "2026-11-05T17:11:48Z",
       "content": "Food delivery startup Wonder is moving closer to becoming a publicly traded company after confidentially filing for an initial public offering (IPO). The company announced the filing on Thursday, mar… [+2319 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Financial Times"
-      },
-      "author": null,
-      "title": "So, about that Anthropic IPO . . . - Financial Times",
-      "description": "A dispatch from the trenches of daily market commentary",
-      "url": "https://www.ft.com/content/2fbd60ee-060a-4957-b9c5-3b5a0ce88e1a?syn-25a6b1a6=1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbf7a9080-09d4-4502-ab6a-15133991e710.png?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
-      "publishedAt": "2026-11-05T17:01:56Z",
-      "content": "Perhaps youre old enough to remember yesterday, when Wall Street stocks posted their biggest gain in three months as investors bet that the Democrats resounding victory in the US midterm elections wo… [+1284 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Alice Tecotzky, Shubhangi Goel",
-      "title": "Jack Dorsey's Block Makes Second Round of Job Cuts This Year - Business Insider",
-      "description": "Block said in an email to staff that it's \"reducing the number of roles, changing some responsibilities, and shifting some reporting lines.\"",
-      "url": "https://www.businessinsider.com/jack-dorsey-block-layoffs-second-round-job-cuts-cash-app-2026-11#article",
-      "urlToImage": "https://i.insider.com/6aece2f5c54bfafa65abf732?width=1200&format=jpeg",
-      "publishedAt": "2026-11-05T16:59:00Z",
-      "content": "Block is cutting jobs for the second time this year.\r\nThe fintech company, led by Jack Dorsey, informed some employees on Wednesday that their roles are being eliminated, according to an email seen b… [+2928 chars]"
     },
     {
       "source": {
@@ -636,19 +792,6 @@
     {
       "source": {
         "id": null,
-        "name": "Seeking Alpha"
-      },
-      "author": "Carla Magliocco",
-      "title": "Sandisk: A 35% Stock Decline, But RPO Tells A Different Story (Rating Upgrade) - Seeking Alpha",
-      "description": "Sandisk Corporation Q1 2027 beats on revenue and EPS, with AI demand, strong contracts, and low valuation signaling major upside. Click for this SNDK update.",
-      "url": "https://seekingalpha.com/article/4963211-sandisk-a-35-percent-stock-decline-but-rpo-tells-a-different-story-upgrade",
-      "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1409066266/image_1409066266.jpg?io=getty-c-w1536",
-      "publishedAt": "2026-11-05T16:50:41Z",
-      "content": "Analysts Disclosure: I/we have a beneficial long position in the shares of SNDK either through stock ownership, options, or other derivatives. I wrote this article myself, and it expresses my own opi… [+730 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "24/7 Wall St."
       },
       "author": "Omor Ibne Ehsan",
@@ -658,6 +801,19 @@
       "urlToImage": "https://247wallst.com/wp-content/uploads/2022/10/imageForEntry18-PjC.jpg",
       "publishedAt": "2026-11-05T16:48:00Z",
       "content": "Democrats just won big, and bond investors are already eyeing the next showdown. Treasury's borrowing room is shrinking faster than its plans suggest, and one corner of the market may carry far more … [+4064 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Shares in Musk's SpaceX plunge as tech and AI stocks fall - BBC",
+      "description": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-terms",
+      "url": "https://www.bbc.com/news/articles/cmn04705rd8jo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2258/live/1f0da230-d934-11f1-8bce-2396c9c50357.jpg",
+      "publishedAt": "2026-11-05T16:44:38Z",
+      "content": "\"A lot of our shift over the course of this year has really been to realise that from San Francisco trying to build infrastructure in Texas, Georgia, and other places, you can't just tweet and say: '… [+146 chars]"
     },
     {
       "source": {
@@ -684,19 +840,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/05/multimedia/05vid-bangladesh-cover-jtbq/05vid-bangladesh-cover-jtbq-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-05T16:35:52Z",
       "content": "Hundreds of garment factories were shut down this week as workers in the country, the world’s second-largest exporter of clothing, demonstrated for higher pay."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Investor's Business Daily"
-      },
-      "author": null,
-      "title": "SpaceX Lessors Look To Sell $40 Bil AI Deal. ARK Buys The Dip On SPCX Stock. - Investor's Business Daily",
-      "description": "Goldman Sachs, Apollo Global look to sell portions of $40 billion GPU deal with SpaceX. Cathie Wood buys the dip amid AI retreat.",
-      "url": "https://www.investors.com/news/spacex-goldman-sachs-apollo-40bil-nvidia-ai-gpu-deal-sale-cathie-wood-ark-invest-spcx-stock/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2026/11/stock-spaceX-Hawthorne-adobe.jpg",
-      "publishedAt": "2026-11-05T16:05:00Z",
-      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
     },
     {
       "source": {
@@ -740,6 +883,19 @@
     {
       "source": {
         "id": null,
+        "name": "NPR"
+      },
+      "author": "Jennifer Ludden",
+      "title": "First-time homebuyers remain scarce, but a record share of them pay all cash - NPR",
+      "description": "A new report finds generational wealth is widening the divide between homebuyers and those priced out. The median age of first-time buyers also remains at a record high.",
+      "url": "https://www.npr.org/2026/11/05/nx-s1-6022491/real-estate-all-cash-offer",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5281x2971+0+335/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F44%2F29%2F2594b31f489c9ae9d50618c1d5c2%2Fgettyimages-2285398438.jpg",
+      "publishedAt": "2026-11-05T15:00:00Z",
+      "content": "The share of first-time homebuyers remains at a near-record low of 22% as a housing shortage and high prices sideline many, according to a new report\r\n by the National Association of Realtors. But th… [+4229 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "New York Post"
       },
       "author": "Erica Andrews",
@@ -752,16 +908,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "NPR"
+        "id": "associated-press",
+        "name": "Associated Press"
       },
-      "author": "Jennifer Ludden",
-      "title": "First-time homebuyers remain scarce, but a record share of them pay all cash - NPR",
-      "description": "A new report finds generational wealth is widening the divide between homebuyers and those priced out. The median age of first-time buyers also remains at a record high.",
-      "url": "https://www.npr.org/2026/11/05/nx-s1-6022491/real-estate-all-cash-offer",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5281x2971+0+335/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F44%2F29%2F2594b31f489c9ae9d50618c1d5c2%2Fgettyimages-2285398438.jpg",
-      "publishedAt": "2026-11-05T15:00:00Z",
-      "content": "The share of first-time homebuyers remains at a near-record low of 22% as a housing shortage and high prices sideline many, according to a new report\r\n by the National Association of Realtors. But th… [+4229 chars]"
+      "author": "Pan Pylas",
+      "title": "BoE hikes rate for first time in 3 years; retreating oil prices may allow for more options ahead - AP News",
+      "description": "The Bank of England is raising interest rates for the first time in more than three years in an effort to tackle an inflation shock stoked by the Iran war. The decision to lift the bank’s main interest rate to 4% from 3.75% Thursday was widely expected given …",
+      "url": "https://apnews.com/article/britain-economy-interest-rates-dce506792fe3b452ec4c3982147286f3",
+      "urlToImage": "https://dims.apnews.com/dims4/default/2eec11f/2147483647/strip/true/crop/5279x3519+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5b%2F9a%2Fa8e95b315e93a4a1d442ffdf1305%2F896b4c19f1f645c7b8e20ac611ff2e1b",
+      "publishedAt": "2026-11-05T14:27:00Z",
+      "content": "LONDON (AP) The Bank of England indicated Thursday that the sharp decline in energy prices after the U.S. midterm elections if sustained could limit the prospect of further interest rate hikes in the… [+3359 chars]"
     },
     {
       "source": {
@@ -817,29 +973,16 @@
     },
     {
       "source": {
-        "id": "usa-today",
-        "name": "USA Today"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "author": "Julia Gomez, Fernando Cervantes Jr.",
-      "title": "Powerball player wins $847M jackpot. See where winning ticket was sold - USA Today",
-      "description": "The lucky player won the ninth largest jackpot in the game's history.",
-      "url": "https://www.usatoday.com/story/money/lottery/2026/11/05/powerball-jackpot-winner-new-jersey/92622332007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/05/USAT/92622459007-20261019-t-224115-z-838582534-mt-1-usatoday-30132186-rtrmadp-3-adisplayfornewjerseylotterypowerballat-7-elevenon.JPG?crop=6290,3539,x0,y327&width=3200&height=1801&format=pjpg&auto=webp",
-      "publishedAt": "2026-11-05T12:23:00Z",
-      "content": "Ladies and gentlemen, we have a winner! Overnight, one lucky Powerball player became a millionaire after winning the game's ninth-largest jackpot.\r\nOn Wednesday, Nov. 4, one person in New Jersey won … [+3859 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Samantha Kelly",
-      "title": "Nvidia-Backed Humanoid Maker Agility Goes Public in First for the US - Bloomberg.com",
-      "description": "Agility Robotics Inc. is set to become the first dedicated humanoid company to go public in the US, marking a major milestone for the emerging category that still has a lot to prove.The startup begins trading Thursday on Nasdaq under the ticker “AGLT” after m…",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-05/nvidia-backed-humanoid-maker-agility-goes-public-in-first-for-the-us",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iDmLF.b1VAi4/v1/1200x801.jpg",
-      "publishedAt": "2026-11-05T12:00:21Z",
-      "content": "Agility Robotics Inc. is set to become the first dedicated humanoid company to go public in the US, marking a major milestone for the emerging category that still has a lot to prove.\r\nThe startup beg… [+1435 chars]"
+      "author": "Tim Fernholz",
+      "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying? - TechCrunch",
+      "description": "Agility arrives on the Nasdaq today as the first publicly traded pure-play humanoid robotics company.",
+      "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/11/Agility_Digit5_01.png?resize=900,1200",
+      "publishedAt": "2026-11-05T12:00:00Z",
+      "content": "Almost a year ago to the day, Figure AI CEO Brett Adcock responded to some gentle social media taunting from rival robotics company Agility with a prediction: “Youll be bankrupt in &lt;12 months.”\r\nI… [+5489 chars]"
     },
     {
       "source": {
@@ -869,42 +1012,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "The Denver Post"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "author": "Tiney Ricciardi",
-      "title": "7 Denver restaurants named among best in the U.S. by OpenTable - The Denver Post",
-      "description": "Denver is quickly becoming one of the hottest places to dine in the U.S. thanks to its Michelin-starred restaurants, a stalwart steakhouse and a new Italian joint where it’s nearly impossible to snag a reservation.",
-      "url": "https://www.denverpost.com/2026/11/05/opentable-top-restaurants-denver-johnny-curiel/",
-      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2024/11/TDP-L-Curiel-01_8d9823.jpg?w=7997&h=5334",
-      "publishedAt": "2026-11-05T11:00:08Z",
-      "content": "Denver is quickly becoming one of the hottest places to dine out in the U.S. thanks to its Michelin-starred restaurants, a stalwart steakhouse and a new Italian joint where its nearly impossible to s… [+1806 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fox Business"
-      },
-      "author": "Bonny Chu",
-      "title": "CVS announces major breakup, pharmacy expert weighs impact on consumers - Fox Business",
-      "description": "CVS Health breakup will create separate pharmacy and healthcare companies as industry expert weighs the impact on prescription drug prices, pharmacies and patients.",
-      "url": "https://www.foxbusiness.com/retail/cvs-announces-major-breakup-pharmacy-expert-weighs-impact-consumers",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/cvs-pedestrian.jpg?ve=1&tl=1",
+      "author": "Kirsten Korosec",
+      "title": "Amazon ditches Grubhub, taps Uber Eats for Prime - TechCrunch",
+      "description": "Amazon has made Uber Eats its official restaurant delivery partner for Prime members in the United States.",
+      "url": "https://techcrunch.com/2026/11/05/amazon-ditches-grubhub-taps-uber-eats-for-prime/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/11/amazon-uber.jpg?resize=1200,675",
       "publishedAt": "2026-11-05T11:00:00Z",
-      "content": "CVS Health on Wednesday announced plans to split its sprawling conglomerate into separate health insurance and pharmacy businesses, a move one industry expert welcomed as a potential way to drive dow… [+6641 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Andrew J. Hawkins",
-      "title": "Amazon is getting back into restaurant delivery with Uber Eats team-up - The Verge",
-      "description": "Amazon and Uber Eats have partnered to offer US Prime members $0 delivery fees on restaurant orders over $25 directly through Amazon’s app or website.",
-      "url": "https://www.theverge.com/tech/1026716/amazon-uber-eats-prime-restaurant-delivery-partnership",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19218417/acastro_190920_1777_amazon_0001.0.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2026-11-05T11:00:00Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nPrime members can now order takeout straight from the Amazon app or website with waived delivery fees on orders over $25.\r\nPrime members can now order takeout st… [+4427 chars]"
+      "content": "Amazon has made Uber Eats its official restaurant delivery partner for Prime members in the United States, effectively ending the e-commerce giant’s existing deal with Grubhub. \r\nUnder the new partne… [+2407 chars]"
     },
     {
       "source": {
@@ -918,45 +1035,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/05/multimedia/05dc-trump-econ-01-qtbk/05dc-trump-econ-01-qtbk-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-05T10:04:56Z",
       "content": "Some Democrats quickly signaled they could try to roll back the president’s tax and trade policies, ignoring his early veto threats."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NPR"
-      },
-      "author": "Willa Rubin",
-      "title": "Does the blue wave mean lower gasoline and diesel prices soon? Don’t hold your breath - NPR",
-      "description": "A new Democratic majority in Congress could pressure the president to end the war in Iran. But it will be harder for them to directly affect fuel prices, which are tied to a complex international oil market.",
-      "url": "https://www.npr.org/2026/11/05/nx-s1-6029365/gas-diesel-price-congress-midterms",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8174x4598+0+426/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa1%2Fd5%2F2f507d3245b58e37869c017c2f94%2Fap26107769190989.jpg",
-      "publishedAt": "2026-11-05T10:00:00Z",
-      "content": "Sign up for the Planet Money newsletter. The world is confusing. Economics can help\r\nDemocrats are now poised to take control of Congress by wide margins and a critical driver of their success has be… [+6733 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Jennifer Schonberger",
-      "title": "Trump's Fed pressure campaign hits a new Democratic wall in the Senate - Yahoo Finance",
-      "description": "That political firewall directly impacts the administration's ongoing effort to remove Fed governor Lisa Cook.",
-      "url": "https://finance.yahoo.com/economy/policy/article/trumps-fed-pressure-campaign-hits-a-new-democratic-wall-in-the-senate-100000283.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/0db63f3557b72b4281286a63b68b7236c2c43e7df16db0f045ff21cbaadeeede/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-09%2F25301447-de2c-442a-a2a5-23e41e3f7e94",
-      "publishedAt": "2026-11-05T10:00:00Z",
-      "content": "Democrats secured control of the Senate on Tuesday, a seismic shift that effectively blocks President Trump's campaign to reshape the Federal Reserve and neutralizes what many analysts viewed as a th… [+4560 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fox Business"
-      },
-      "author": "Michael Sinkewicz",
-      "title": "France blood bank cyberattack targets refrigeration systems as European supermarkets hit - Fox Business",
-      "description": "Hackers targeted cold storage systems at three French blood banks, but staff quickly moved supplies to uncompromised refrigerators before damage could be done.",
-      "url": "https://www.foxbusiness.com/technology/france-blood-bank-cyberattack-targets-refrigeration-systems-european-supermarkets-hit",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/blood-bank-cold-storage-cyberattack-france.jpg?ve=1&tl=1",
-      "publishedAt": "2026-11-05T07:27:00Z",
-      "content": "Hackers targeted refrigeration systems at three regional blood banks in France this week, raising concerns about the safety of critical medical supplies as similar cyberattacks disrupted supermarkets… [+3933 chars]"
     },
     {
       "source": {
@@ -999,19 +1077,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "TheStreet"
-      },
-      "author": "TheStreet",
-      "title": "AMD CEO issues a strong warning for the 2027 PC market - TheStreet",
-      "description": null,
-      "url": "https://www.thestreet.com/technology/amd-2027-pc-market-forecast",
-      "urlToImage": null,
-      "publishedAt": "2026-11-05T00:47:00Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1035,32 +1100,6 @@
       "urlToImage": "https://cdn.kqed.org/wp-content/uploads/sites/35/2026/10/261028-HeatpumpRules-12-BL-KQED-d0bd6fc9.jpg",
       "publishedAt": "2026-11-05T00:08:30Z",
       "content": "The Bay Area Air District voted Wednesday to delay its zero-emission water heater rule by a year, pushing the start date to January 2028. \r\nThe air regulators also approved carveouts that Air Distric… [+2583 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Luke Fountain",
-      "title": "What Wall Street billionaires are saying about Democrats' midterm sweep - CNBC",
-      "description": "Billionaire political spending met criticism from ... billionaires in the wake of Tuesday's blue wave election.",
-      "url": "https://www.cnbc.com/2026/11/04/billionaires-musk-branson-democrats-midterms-ai-wall-street.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108369772-17907103772026-09-29t193020z_933004631_rc27tnagbtu2_rtrmadp_0_usa-trump.jpeg?v=1793831589&w=1920&h=1080",
-      "publishedAt": "2026-11-04T23:17:56Z",
-      "content": "America's billionaires woke up Wednesday to a political reckoning and a Wall Street rally.\r\nAs Democrats celebrated a sweeping midterm victory, some of the country's wealthiest donors traded barbs ov… [+3880 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Twz.com"
-      },
-      "author": "Joseph Trevithick, Howard Altman",
-      "title": "Did The Blue Wave Just Sink Trump’s Battleship? - TWZ",
-      "description": "Bipartisan pushback to President Trump's battleship program had been growing even before the Democrats' historic mid-term wins.",
-      "url": "https://www.twz.com/sea/did-the-blue-wave-just-sink-trumps-battleship",
-      "urlToImage": "https://www.twz.com/wp-content/uploads/2026/11/trump-class-battleship-fate-mid-term-blue-wave.jpg?quality=85&w=1200",
-      "publishedAt": "2026-11-04T23:00:28Z",
-      "content": "The TWZ Newsletter\r\nWeekly insights and analysis on the latest developments in military technology, strategy, and foreign policy.\r\nThe Democratic Party’s historic blowout of its Republican opponents … [+15265 chars]"
     },
     {
       "source": {
@@ -1142,19 +1181,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Barron's"
-      },
-      "author": "Paul R. La Monica",
-      "title": "Gold Prices Are Above $4,000 After Democrats Win Big in Midterm Elections - Barron's",
-      "description": "Gold got a big boost from the midterm elections. So did gold mining stocks. Can the rally last?",
-      "url": "https://www.barrons.com/articles/gold-price-dollar-bond-yields-midterm-elections-25a81dad",
-      "urlToImage": "https://images.barrons.com/im-36596268/social",
-      "publishedAt": "2026-11-04T20:23:00Z",
-      "content": "Gold jumped on Wednesday, but investment pros have doubts about whether it can hold on to those gains once the midterm momentum fades.\r\nCopyright ©2026Dow Jones &amp; Company, Inc. All Rights Reserve… [+34 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1165,19 +1191,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/03/multimedia/03dc-saildrone-jtqg/03dc-saildrone-jtqg-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-04T19:55:07Z",
       "content": "A federal judge’s ruling on the side of the small defense contractor was a rarity, as most company protests against government bidding decisions do not prevail."
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy - TechCrunch",
-      "description": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
-      "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/05/DuckDuckGo_NoAI.png?resize=1200,784",
-      "publishedAt": "2026-11-04T19:29:52Z",
-      "content": "DuckDuckGo is pitching itself to schools after Google created an opening for the alternative search engine. On Tuesday, Google told schools they could turn off Gemini, but it said shutting off its ot… [+3175 chars]"
     },
     {
       "source": {
@@ -1195,14 +1208,14 @@
     {
       "source": {
         "id": null,
-        "name": "The Information"
+        "name": "Forbes"
       },
-      "author": "Tiffany Li, Stephanie Palazzolo",
-      "title": "The Security Companies Trying to Get AI Agents Under Control - The Information",
-      "description": "Before we get to today’s column, a heads up that new models from OpenAI could come as soon as Friday, according to people with knowledge of the models. Those models could include the next generation of its Astra, Soland cyber focused models, the people said. …",
-      "url": "https://www.theinformation.com/newsletters/ai-agenda/security-companies-trying-get-ai-agents-control",
-      "urlToImage": "https://tii.imgix.net/production/articles/18105/b06b9daf-1c3f-446c-8182-a30682a8d3bd-sB39iu.png?fm=jpg&auto=compress&w=1200&frame=0",
-      "publishedAt": "2026-11-04T15:02:00Z",
+      "author": "Forbes",
+      "title": "Musk And Dell Lose Nearly $50 Billion—As Bezos, Page And Brin Gain After Election Day - Forbes",
+      "description": null,
+      "url": "https://www.forbes.com/sites/fionariley/2026/11/04/these-billionaires-are-winning-and-losing-big-after-democrats-sweep-midterms/",
+      "urlToImage": null,
+      "publishedAt": "2026-11-04T17:42:02Z",
       "content": null
     },
     {
@@ -1220,19 +1233,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Block Club Chicago"
-      },
-      "author": "Nick Kindelsperger",
-      "title": "Time Is Running Out For THC Beverages In Illinois, And Breweries Are Selling Them Fast - Block Club Chicago",
-      "description": "Now’s a good time to find deals in Chicago as breweries unload their supply ahead of a state law taking effect Nov. 12 banning the sale of THC drinks outside of dispensaries.",
-      "url": "https://blockclubchicago.org/2026/11/04/time-is-running-out-for-thc-beverages-in-illinois-and-breweries-are-selling-them-fast/",
-      "urlToImage": "https://bcc-newspack.s3.amazonaws.com/uploads/2026/11/choom.png",
-      "publishedAt": "2026-11-04T14:00:00Z",
-      "content": "CHICAGO Now might be the best time to stock up on hemp-derived THC beverages in Chicago.\r\nThey’re being sold buy-one-get-one at Logan Square’s Hopewell Brewing Company and Revolution Brewing in Avond… [+6046 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1243,19 +1243,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/04/multimedia/04db-talarico-cqwp/04db-talarico-cqwp-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-04T13:18:36Z",
       "content": "Investors are already picking the winners and the losers after Democrats glided to a landslide victory in the midterm elections."
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": null,
-      "title": "U.S. cruise ship departs Cambodia with no passengers after abruptly forcing everyone to disembark - CBS News",
-      "description": "The MV Odyssey had been on an around-the-world cruise when it suspended its planned three-year voyage due to the sharp rise in fuel costs.",
-      "url": "https://www.cbsnews.com/news/us-cruise-ship-odyssey-leaves-cambodia-no-passengers/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/04/05594c3e-94a1-4a1a-bbaf-0a20c02a987a/thumbnail/1200x630/2a93460e451755ba326f25fa70f81da4/2026-11-04t042705z-810558905-rc2jgoa4um2q-rtrmadp-3-cambodia-cruise.jpg",
-      "publishedAt": "2026-11-04T11:56:00Z",
-      "content": "A U.S. cruise ship that forced all its passengers to disembark in Cambodia after suspending its operations last week has departed the Southeast Asian nation with only crew aboard, Cambodian officials… [+3763 chars]"
     },
     {
       "source": {
@@ -1288,19 +1275,6 @@
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Kurtis Lee and Mark Abramson",
-      "title": "The Soaring Cost of Diesel Is Bankrupting Small Trucking Companies",
-      "description": "For small trucking firms operating with little margin for error, high fuel costs can make the difference between survival and bankruptcy.",
-      "url": "https://www.nytimes.com/2026/11/03/business/trucking-diesel-prices.html",
-      "urlToImage": null,
-      "publishedAt": "2026-11-03T20:28:38Z",
-      "content": "For small trucking firms operating with little margin for error, high fuel costs can make the difference between survival and bankruptcy."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "John Koblin and Michael M. Grynbaum",
       "title": "How Broadcast, Cable and Late-Night Shows Plan to Cover the Midterm Elections",
       "description": "Viewers will be flooded with options, including 13 straight hours of NBC footage and a continuous livestream of Steve Kornacki and his big board.",
@@ -1308,6 +1282,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/03/multimedia/03biz-election-coverage-primer-qwpm/03biz-election-coverage-primer-qwpm-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-03T17:02:14Z",
       "content": "Viewers will be flooded with options, including 13 straight hours of NBC footage and a continuous livestream of Steve Kornacki and his big board."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe, Sri Muppidi, Ian Mount and Kalley Huang",
+      "title": "Gaming Out the Prospect of a Blue Wave",
+      "description": "Business executives and investors are preparing for a Democratic sweep and the ramifications for policy on data centers, cryptocurrency and more.",
+      "url": "https://www.nytimes.com/2026/11/03/business/dealbook/blue-wave-business-market-ramifications.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/03/multimedia/03db-elections-bvhw/03db-elections-bvhw-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-03T15:27:12Z",
+      "content": "Business executives and investors are preparing for a Democratic sweep and the ramifications for policy on data centers, cryptocurrency and more."
     }
   ]
 }

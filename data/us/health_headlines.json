@@ -6,8 +6,8 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-06T23:50:20.275414+00:00",
-  "articles_count": 80,
+  "fetched_at": "2026-11-07T03:19:42.687502+00:00",
+  "articles_count": 81,
   "articles": [
     {
       "source": {
@@ -76,6 +76,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Are you an evening snacker? What you need to know - BBC",
+      "description": "There are biological reasons why you may reach for sweet treats before bed, but you can change the habit.",
+      "url": "https://www.bbc.com/news/articles/cq2e9v3030gyo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/fc48/live/b35f36c0-d2f8-11f1-8d86-83eebc838351.png",
+      "publishedAt": "2026-11-06T00:42:05Z",
+      "content": "Even after a substantial evening meal, foods rich in sugar, fat or salt can continue to activate reward pathways in the brain, helping explain why many people find themselves reaching for something m… [+3 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -89,16 +102,81 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Abcnews.com"
+        "id": "associated-press",
+        "name": "Associated Press"
       },
-      "author": "ABC News - Breaking News, Latest News and Videos",
-      "title": "8th measles-related death reported in Wisconsin: Health officials - ABC News - Breaking News, Latest News and Videos",
-      "description": null,
-      "url": "https://abcnews.com/Health/wisconsin-infant-dies-measles-health-officials/story?id\\\\u003d137886629",
+      "author": null,
+      "title": "British doctor who tested positive for Ebola in Congo is evacuated to London hospital - AP News",
+      "description": "The U.K. government says a British doctor with Ebola has been evacuated from Congo to London. The man was working in Congo during the Ebola epidemic. He is the first British patient evacuated from the current outbreak of the deadly virus, and the third person…",
+      "url": "https://apnews.com/article/british-ebola-patient-evacuated-london-congo-a93a0db98e090a1aa4d61708ac38afb3",
+      "urlToImage": "https://dims.apnews.com/dims4/default/cd51c2b/2147483647/strip/true/crop/4140x2760+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F78%2F23%2F250579dc69d0fdaef457f3e37831%2Fe49d654073e74b8591bf5035304407b0",
+      "publishedAt": "2026-11-05T22:39:00Z",
+      "content": "LONDON (AP) A British doctor who was working on the Ebola epidemic in Congo was evacuated Thursday to a London hospital for treatment for the virus, the U.K. government said.\r\nThe man is the first Br… [+1586 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": null,
+      "title": "Opportunistically Detecting Signs of Hypertension on a Consumer Smartwatch - Nature",
+      "description": "Nature - Opportunistically Detecting Signs of Hypertension on a Consumer Smartwatch",
+      "url": "https://www.nature.com/articles/s41586-026-11336-3.pdf",
       "urlToImage": null,
-      "publishedAt": "2026-11-05T22:18:45Z",
-      "content": null
+      "publishedAt": "2026-11-05T22:25:11Z",
+      "content": "Hypertension is a silent killer, with over half of affected adults unaware of their condition1,2. This lack of awareness is a major concern, as early intervention is critical for preventing major adv… [+1375 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Milwaukee Journal Sentinel"
+      },
+      "author": "Madeline Heim",
+      "title": "Infant's death from measles is first in Wisconsin since 1990 - Milwaukee Journal Sentinel",
+      "description": "Wisconsin's outbreak continues to spread, a particularly frustrating development because vaccines had all but ended transmission of the disease.",
+      "url": "https://www.jsonline.com/story/news/health/2026/11/05/a-wisconsin-infant-has-died-of-measles-state-health-department-says/92627482007/",
+      "urlToImage": "https://www.jsonline.com/gcdn/authoring/authoring-images/2026/10/12/USAT/92224842007-getty-images-462803928.jpg?crop=3059,1721,x0,y462&width=3059&height=1721&format=pjpg&auto=webp",
+      "publishedAt": "2026-11-05T21:09:00Z",
+      "content": "An infant died of measles as southwest Wisconsin's outbreak continues to spread, the Wisconsin Department of Health Services has reported.\r\nThe coroner listed the immediate cause of death as measles,… [+4518 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Allrecipes.com"
+      },
+      "author": "https://www.facebook.com/allrecipes",
+      "title": "Don’t Buy Tuna Until You Check This on the Label - Allrecipes",
+      "description": "Learn which canned tuna varieties contain more mercury, how much to eat in moderation, and which fishing labels signal more sustainable catches.",
+      "url": "https://www.allrecipes.com/what-to-look-for-on-tuna-labels-12236561",
+      "urlToImage": "https://www.allrecipes.com/thmb/eFsRCZZqDQFmF0BEGEO_Hv6afuc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ar-can-tuna-getty-2x1-8be80652e1184ccc8bfa2d33fab94444.jpg",
+      "publishedAt": "2026-11-05T21:00:00Z",
+      "content": "Tinned fish is having a moment, but canned tuna has always been the rage. My weekly fridge cleanouts have made me realize just how delicious tuna can beand there are plenty of tasty tuna concoctions,… [+3289 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Minneapolis Star Tribune"
+      },
+      "author": "Jeremy Olson",
+      "title": "Measles count in Minnesota surges to highest in decades - Star Tribune",
+      "description": "Minnesota’s count of confirmed cases of the vaccine-preventable disease reached 139, while Wisconsin reported more cases plus one death.",
+      "url": "https://www.startribune.com/measles-count-in-minnesota-surges-to-highest-total-in-decades/601911353",
+      "urlToImage": "https://arc.stimg.co/startribunemedia/WJFX4TLU4BHFLFPX7LY4LYUXVE.JPG?&w=1200&ar=1.91:1&fit=crop",
+      "publishedAt": "2026-11-05T20:49:51Z",
+      "content": "The measles virus has continued to spread in Todd County because of a lack of widespread vaccination, bringing the states tally of confirmed cases to the highest level since 1990.\r\nIn the past week, … [+1434 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Verywellhealth.com"
+      },
+      "author": "https://www.facebook.com/verywell",
+      "title": "Peanuts vs. Popcorn: Which Snack Is Better for Blood Sugar? - Verywell Health",
+      "description": "Both peanuts and popcorn are good snack choices for managing blood pressure, but one reigns supreme.",
+      "url": "https://www.verywellhealth.com/peanuts-vs-popcorn-12235776",
+      "urlToImage": "https://www.verywellhealth.com/thmb/vNWc0co-Iiq8D_cjGg_7QXit7tM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/VWH-peanuts-vs-popcorn-7f4685b6b8e14bc4ae755d26c6da8ed2.jpeg",
+      "publishedAt": "2026-11-05T20:42:38Z",
+      "content": "<ul><li>Peanuts are a good snack for managing blood sugar because they provide a balance of fiber, protein, and healthy fats.</li><li>Air-popped popcorn is a low-calorie, fiber-rich snack that can he… [+2818 chars]"
     },
     {
       "source": {
@@ -155,19 +233,6 @@
     {
       "source": {
         "id": null,
-        "name": "Health.com"
-      },
-      "author": "https://www.facebook.com/Health/",
-      "title": "FDA Announces Nationwide Recall of Common Blood Pressure Medication - Health.com",
-      "description": "Nearly 4,000 bottles of a generic version of Tribenzor have been recalled. Learn which bottles are affected.",
-      "url": "https://www.health.com/blood-pressure-medication-recall-november-2026-12235859",
-      "urlToImage": "https://www.health.com/thmb/x3R46FjtNNnv0wt4twm7sbbLl-U=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-med-recall-4c8b653ffbad4f3a9b0a93b5085278cb.jpg",
-      "publishedAt": "2026-11-05T19:28:55Z",
-      "content": "Almost 4,000 bottles of blood pressure medication have been recalled nationwide, according to the Food and Drug Administration (FDA). The prescription drugsa generic version of Tribenzorwere initiall… [+1433 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Martha Stewart"
       },
       "author": "https://www.facebook.com/marthastewart/",
@@ -177,6 +242,19 @@
       "urlToImage": "https://www.marthastewart.com/thmb/KwH8f2RdvU4x13THxrouhMYwHYE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ms-sliced.multigrain-bread-8b33c14992fb4ec89238b30aefe9e8ed.jpg",
       "publishedAt": "2026-11-05T19:01:00Z",
       "content": "Whole wheat vs. multigrain bread: which is better? Multigrain bread may seem healthier than whole wheatafter all, as its name suggests, its made with more than one flour, combining multiple grains in… [+5042 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Aria Bendix",
+      "title": "Are we approaching a new era of Alzheimer’s prevention? - NBC News",
+      "description": "In her late 50s, Susan Kroll wondered whether she might have early signs of Alzheimer’s disease.",
+      "url": "https://www.nbcnews.com/health/aging/are-approaching-new-era-alzheimers-prevention-rcna607501",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261104-sue-kroll-mother-alzheimers-vl-504p-3ddd25.jpg",
+      "publishedAt": "2026-11-05T18:48:10Z",
+      "content": "Just a moment.\r\nWe are getting your experience ready."
     },
     {
       "source": {
@@ -233,6 +311,19 @@
     {
       "source": {
         "id": null,
+        "name": "Eatingwell.com"
+      },
+      "author": "https://www.facebook.com/EatingWell/",
+      "title": "Why Turmeric Is the Best Spice for Prostate Health - EatingWell",
+      "description": "Turmeric may help reduce inflammation and support prostate health, according to research and experts. See how to add this spice to your diet safely.",
+      "url": "https://www.eatingwell.com/the-best-spice-for-prostate-health-12236262",
+      "urlToImage": "https://www.eatingwell.com/thmb/TtYF082IfbhsZ1tkbaHfY_VDbv0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1-Spice-for-Prostate-Health-ef12ec264fe4480e80ff5ff8fe046820.jpg",
+      "publishedAt": "2026-11-05T15:00:00Z",
+      "content": "Prostate problems can be tough to talk about, but in older men, theyre every bit as common as telling dad jokes and snoozing in a favorite armchairwhich is to say, extremely common. Enlarged prostate… [+5669 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "New York Post"
       },
       "author": "Allie Yang",
@@ -259,19 +350,6 @@
     {
       "source": {
         "id": null,
-        "name": "SheKnows"
-      },
-      "author": "Kenzie Mastroe",
-      "title": "Cleaning Pros Have Stopped Using Vinegar on Limescale, & the Fix Is Already in Your Pantry - SheKnows",
-      "description": "Cleaning pros now prefer citric acid over vinegar for limescale. Learn easy, safe methods to remove buildup from toilets, faucets, and showerheads effectively.",
-      "url": "http://www.sheknows.com/living/articles/1235089430/ditch-vinegar-for-citric-acid-limescale-gq9021/",
-      "urlToImage": "https://www.sheknows.com/wp-content/uploads/2026/10/cleaning-pros-have-stopped-using-vinegar-on-limescale-the-fix-is-already-in-your-pantry.jpeg?w=1024",
-      "publishedAt": "2026-11-05T14:00:00Z",
-      "content": "If you’ve ever attempted to clean a bathroom covered in hard water stains, then I’m sure you’re all too familiar with the special kind of despair that comes with scrubbing a toilet ring that seems to… [+5115 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Rolling Stone"
       },
       "author": "Jeff Ihaza",
@@ -294,6 +372,19 @@
       "urlToImage": "https://www.verywellhealth.com/thmb/m-t_7h3XaMYap4navTsI9wVk5U4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/VWH-GettyImages-504424006-71e9611870db48738f6c27424c47e93e.jpg",
       "publishedAt": "2026-11-05T13:40:00Z",
       "content": "<ul><li>Stirring peas into scrambled eggs is an easy way to boost your breakfasts fiber content.</li></ul><ul><li>Peas are also high in protein and contain antioxidants, vitamins, and minerals.</li><… [+4613 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TODAY"
+      },
+      "author": "A. Pawlowski",
+      "title": "Exposure to This 1 Thing at Night May Damage Your Heart, Research Shows - TODAY.com",
+      "description": "Preventing heart disease may also depend on avoiding exposure to light during sleep, doctors say. Why sleeping in darkness is important for heart health.",
+      "url": "https://www.today.com/health/sleep/heart-disease-risk-lower-sleep-habit-avoid-light-doctor-warns-rcna605277",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-11/light-exposure-night-heart-damage-tip-mh-11042026-0b92ed.jpg",
+      "publishedAt": "2026-11-05T13:00:00Z",
+      "content": "You might think youre doing everything right to prevent heart disease eating a healthy diet, exercising and managing blood pressure and still miss an important risk factor.\r\nIt happens during sleep, … [+3107 chars]"
     },
     {
       "source": {
@@ -337,6 +428,32 @@
     {
       "source": {
         "id": null,
+        "name": "Nature.com"
+      },
+      "author": null,
+      "title": "Opposing microbiome-mediated axes link modifiable lifestyles to health and chronic diseases - Nature",
+      "description": "Fecal shotgun metagenomics from 6,803 adults in the Japanese 4D cohort and microbiome-based prediction scores validated across 13 independent and geographically diverse cohorts revealed two opposing microbiome-mediated axes linking lifestyle to health and 15 …",
+      "url": "https://www.nature.com/articles/s41591-026-04744-5",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04744-5/MediaObjects/41591_2026_4744_Fig1_HTML.png",
+      "publishedAt": "2026-11-05T12:08:01Z",
+      "content": "Ethics declarations\r\nThe study protocol was approved by the ethics committees of all participating institutions, including the National Center for Global Health and Medicine (NCGM-S-004586), Tokyo Me… [+38753 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Jess Cockerill",
+      "title": "Longer Estrogen Exposure Linked to Less Blood Vessel Damage in Women's Brains Later in Life - ScienceAlert",
+      "description": "The brain is directly influenced by hormone changes, and scientists suspect this could explain why women are generally more likely to develop Alzheimer's disease.",
+      "url": "https://www.sciencealert.com/longer-estrogen-exposure-linked-to-less-blood-vessel-damage-in-womens-brains-later-in-life",
+      "urlToImage": "https://www.sciencealert.com/images/2026/11/GettyImages-2164992188-2560x1440-1.jpg",
+      "publishedAt": "2026-11-05T12:02:38Z",
+      "content": "The brain is directly influenced by hormone changes, and scientists suspect this could explain why women are generally more likely to develop Alzheimer's disease.\r\nWomen are more likely to experience… [+4385 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Parade"
       },
       "author": "Parade Editorial Team, Leigh Weingus, Parade AI Desk",
@@ -362,6 +479,19 @@
     },
     {
       "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Jane Ridley",
+      "title": "My mom was diagnosed with Alzheimer's at 58. I helped care for her for 20 years and learned 3 important lessons. - Business Insider",
+      "description": "Karen Finocchio, whose mother showed signs of Alzheimer's at 54, reflects on the positive things she did and those she wish she'd done differently.",
+      "url": "https://www.businessinsider.com/alzheimers-caregiver-three-things-wish-knew-sooner-2026-11#article",
+      "urlToImage": "https://i.insider.com/6aea3f32fcd244796940f38d?width=1200&format=jpeg",
+      "publishedAt": "2026-11-05T11:50:00Z",
+      "content": "This story is based on an interview with Karen Finocchio, 56, a marketing and engagement consultant from Marblehead, Massachusetts. It has been edited for length and clarity.\r\nMy mother, Louise, know… [+5820 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "Science Daily"
       },
@@ -372,32 +502,6 @@
       "urlToImage": "https://www.sciencedaily.com/images/1920/immune-cells-lymphocytes.webp",
       "publishedAt": "2026-11-05T11:07:42Z",
       "content": "Scientists have solved a biological mystery that remained unanswered for more than three decades, uncovering an unexpected way the immune system protects the body from its own inflammatory response. … [+15146 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Ariana Eunjung Cha",
-      "title": "New estrogen research may change how scientists think about women’s aging brains - The Washington Post",
-      "description": "Scientists are assessing the potential benefits of hormone therapy for older women’s cognition.",
-      "url": "https://www.washingtonpost.com/health/2026/11/05/can-hormone-therapy-lower-risk-alzheimers-dementia/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/PILVQOMMLFEQXOTTBZYAQQXDWI.jpg&w=1440",
-      "publishedAt": "2026-11-05T10:19:27Z",
-      "content": "Neurobiologist Anna Marseglia had long studied the forces that shape the aging brain. But as she entered her 40s, amid a fierce cultural debate over hormone therapy, she found herself increasingly cu… [+20 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Daryl Austin",
-      "title": "Is beef jerky actually healthy for you? - USA Today",
-      "description": "Beef jerky is a tasty, convenient snack for many. But is it healthy? Experts weigh in.",
-      "url": "https://www.usatoday.com/story/life/health-wellness/is-beef-jerky-healthy/92072304007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/03/USAT/92072950007-getty-images-594483862.jpg?crop=2118,1191,x0,y0&width=2118&height=1191&format=pjpg&auto=webp",
-      "publishedAt": "2026-11-05T10:10:14Z",
-      "content": "Whether its tucked into a hiking backpack, grabbed at a gas station or stashed in a desk drawer, beef jerky has the staying power that most snacks are missing. Its tasty, travels well, requires no pr… [+5099 chars]"
     },
     {
       "source": {
@@ -415,6 +519,19 @@
     {
       "source": {
         "id": null,
+        "name": "SFGate"
+      },
+      "author": "Olivia Hebert",
+      "title": "San Luis Obispo County investigates up to 13 E. coli infections at pumpkin patch - SFGATE",
+      "description": "Over the weekend, San Luis Obispo County health officials said they were investigating 13 possible E. coli infections from a popular pumpkin patch.",
+      "url": "https://www.sfgate.com/bayarea/article/california-ecoli-pumpkin-patch-22513095.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/67/60/54/31394602/7/rawImage.jpg",
+      "publishedAt": "2026-11-05T00:36:08Z",
+      "content": "Public health officials are investigating a dangerous E. coli outbreak potentially linked to a pumpkin patch.\r\nLynn U. via Yelp\r\nHealth officials are investigating up to 13 cases of E. coli possibly … [+2755 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "PBS"
       },
       "author": null,
@@ -424,6 +541,19 @@
       "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-01T130742Z_45007579_RC2ZEOA9GFU1_RTRMADP_3_USA-ELECTION-MAINE-1024x675.jpg",
       "publishedAt": "2026-11-04T22:57:46Z",
       "content": "As winter approaches and daylight hours grow shorter, people prone to seasonal depression can feel it in their bodies and brains.\r\nThe millions of people estimated to have seasonal affective disorder… [+3870 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": null,
+      "title": "The neural basis of flavour–nutrient learning - Nature",
+      "description": "A dopamine pathway to the basolateral amygdala is necessary for associating nutrients with flavours.",
+      "url": "https://www.nature.com/articles/s41586-026-11229-5",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11229-5/MediaObjects/41586_2026_11229_Fig1_HTML.png",
+      "publishedAt": "2026-11-04T22:28:14Z",
+      "content": "<li>Sclafani, A. Learned controls of ingestive behaviour. Appetite29, 153158 (1997).\r\nArticle \r\n CAS \r\n PubMed \r\nGoogle Scholar \r\n</li><li>Capaldi, E. D. Conditioned food preferences. In Psychology o… [+15326 chars]"
     },
     {
       "source": {
@@ -505,19 +635,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Martha Stewart"
-      },
-      "author": "https://www.facebook.com/marthastewart/",
-      "title": "7 High-Protein Foods That Help Keep Your Bones Strong as You Age - Martha Stewart",
-      "description": "These are the best high-protein foods for bone strength as you age, according to dietitians. Protein is necessary strong and healthy bones, just like calcium and vitamin D.",
-      "url": "https://www.marthastewart.com/high-protein-foods-for-stronger-bones-aging-12195247",
-      "urlToImage": "https://www.marthastewart.com/thmb/lKJknBneovoCqePVYBi52oaa8Rk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/salmon-shiitake-rice-bowls-9gitt9c2ah89edoepbmf24-0621_hz-ocms-2000-43b12a92331f4fb884beb7a8b1d93e4d.jpg",
-      "publishedAt": "2026-11-04T20:59:00Z",
-      "content": "When it comes to nutrition and bone health, many people think of calcium. That makes sense, since calcium is necessary for building (and maintaining) strong bones. But what about protein? Often assoc… [+6889 chars]"
-    },
-    {
-      "source": {
         "id": "usa-today",
         "name": "USA Today"
       },
@@ -583,16 +700,16 @@
     },
     {
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
+        "id": null,
+        "name": "NBC Chicago"
       },
-      "author": "Gretchen Reynolds",
-      "title": "Column | This type of exercise is surprisingly good at lowering blood pressure - The Washington Post",
-      "description": "Even people who struggle to find the time and motivation to exercise may see a benefit, one researcher said.",
-      "url": "https://www.washingtonpost.com/wellness/2026/11/04/just-few-minutes-this-simple-exercise-may-lower-blood-pressure/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/A3NRY5QE7JTHAUD6AEFRAIVLVI.jpg&w=1440",
-      "publishedAt": "2026-11-04T18:00:00Z",
-      "content": "If it feels like current events are conspiring to raise your blood pressure, now might be a good time to go sit against a wall for a few minutes. \r\nIn a new study, several minutes of wall sits also c… [+187 chars]"
+      "author": "NBC Chicago Staff",
+      "title": "FDA issues nationwide recall of blood pressure medication after pills fail quality test - NBC 5 Chicago",
+      "description": "Overall, more than 3,700 bottles of pills were recalled, according to an FDA enforcement report.",
+      "url": "https://www.nbcchicago.com/news/local/fda-issues-nationwide-recall-of-blood-pressure-medication-after-pills-fail-quality-test/4012339/",
+      "urlToImage": "https://media.nbcchicago.com/2026/11/GettyImages-1450449280.jpg?quality=85&strip=all&resize=1200%2C675",
+      "publishedAt": "2026-11-04T17:59:36Z",
+      "content": "Check your medicine cabinets: More than 3,700 bottles of blood pressure medication sold nationwide were recalled last month because the pills fail to break down and dissolve properly, an enforcement … [+954 chars]"
     },
     {
       "source": {
@@ -632,19 +749,6 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2223522548.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2026-11-04T10:00:15Z",
       "content": "When a baby is on the way, doctors often recommend that the mother get certain vaccinations to protect her newborn and it turns out that other family members who may visit the infant, especially gran… [+10788 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "AI helps Stanford scientists discover a “natural Ozempic” with a surprising advantage - Science Daily",
-      "description": "Stanford researchers have discovered an AI-identified natural molecule that dramatically suppresses appetite and promotes fat loss in animals, potentially offering an Ozempic-like weight-loss treatment without common digestive side effects or significant musc…",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261104004909.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/weight-loss-molecule-fit-woman.webp",
-      "publishedAt": "2026-11-04T06:58:53Z",
-      "content": "Scientists at Stanford Medicine have identified a naturally occurring molecule that could lead to a new generation of weight loss medications. Early animal experiments suggest that it can suppress ap… [+11845 chars]"
     },
     {
       "source": {
@@ -688,32 +792,6 @@
     {
       "source": {
         "id": null,
-        "name": "Gadgetreview.com"
-      },
-      "author": "Al Landes",
-      "title": "Vibrating Mattress and Nitric-Oxide Pill May Clear Alzheimer’s Protein From The Brain - Yahoo Health",
-      "description": "Vibrating mattress and nitric-oxide pills raised beta-amyloid blood levels 35% in a small study, but no Alzheimer's treatment has been proven yet.",
-      "url": "https://www.gadgetreview.com/vibrating-mattress-and-nitric-oxide-pill-may-clear-alzheimers-protein-from-the-brain",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/0b146721cfb30121156c0ea43828fbe1ebd42194990d34954185b68c3033f19e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgadget_review_articles_822%2F1c26c3f3c73ef276498b9c1776b41659.jpg",
-      "publishedAt": "2026-11-03T19:50:39Z",
-      "content": "Blood levels of beta-amyloid 42 rose by an average of 35% in healthy adults who spent 40 minutes on a gently vibrating mattress while taking two nitric-oxide-releasing sublingual pills. That result, … [+4590 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Caitlin Carlson",
-      "title": "More people are having strokes before 55. Here’s what experts know. - The Washington Post",
-      "description": "High blood pressure and diabetes may partly explain the rise in strokes among younger people documented in a new study. Reducing your risk starts long before symptoms appear.",
-      "url": "https://www.washingtonpost.com/wellness/2026/11/03/more-people-are-having-strokes-before-55-heres-what-experts-know/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NEXEWBMSRLNK7YPE7CPLGS3L34_size-normalized.JPG&w=1440",
-      "publishedAt": "2026-11-03T19:00:00Z",
-      "content": "When Sen. Chris Murphy, 53, was hospitalized after a stroke Saturday, he became a high-profile example of what may be a troubling trend: Strokes seem to be more common in younger adults than they wer… [+13 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Health.com"
       },
       "author": "https://www.facebook.com/Health/",
@@ -752,16 +830,16 @@
     },
     {
       "source": {
-        "id": "cnn",
-        "name": "CNN"
+        "id": null,
+        "name": "Science Daily"
       },
-      "author": "Katherine Dillinger",
-      "title": "Child in New York dies after contracting measles, the state’s first such death in 30 years - CNN",
-      "description": "A child in Lewis County, New York, has died after contracting measles, officials announced Monday. It is the state’s first measles-related death in 30 years.",
-      "url": "https://www.cnn.com/2026/11/02/health/new-york-measles-death",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-2026-09-18t151017z-556781221-rc20ddaz56pe-rtrmadp-3-health-usa-measles.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-11-02T23:58:48Z",
-      "content": "A child in Lewis County, New York, has died after contracting measles, officials announced Monday. It is the states first measles-related death in 30 years.\r\nAs a mother and grandmother, I cannot ima… [+4355 chars]"
+      "author": null,
+      "title": "Scientists discover new Alzheimer’s drug that repairs DNA damage and reduces brain inflammation - Science Daily",
+      "description": "Scientists have discovered that a drug originally developed for spinal cord injuries can tackle several key features of Alzheimer’s disease, including DNA damage and inflammation. Already tested for initial safety in humans, the experimental treatment could o…",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261102075806.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/genetic-neuroscience-human-brain-dna-mutation-health.webp",
+      "publishedAt": "2026-11-03T04:12:29Z",
+      "content": "Scientists at King's College London have identified a promising new strategy for fighting Alzheimer's disease that could address several of the condition's damaging effects at the same time. Their re… [+6923 chars]"
     },
     {
       "source": {
@@ -779,19 +857,6 @@
     {
       "source": {
         "id": null,
-        "name": "HuffPost"
-      },
-      "author": null,
-      "title": "Third Person Dies From Bird Flu In U.S. After Exposure To Infected Cattle - HuffPost",
-      "description": "More than 70 human infections have been reported in the U.S. since the beginning of 2024, according to the CDC.",
-      "url": "https://www.huffpost.com/entry/bird-flu-human-death-infected-cattle_n_6ae9044be4b086126ce93942",
-      "urlToImage": "https://img.huffingtonpost.com/asset/6ae9044d1400006e30e01f23.jpeg?cache=X7hTqmuYG4&ops=1200_630",
-      "publishedAt": "2026-11-02T21:55:03Z",
-      "content": "NEW YORK (AP) A person in Washington state has died from complications of the bird flu, the first such U.S. death in a year.\r\nThe Yakima County resident, who had previous health conditions, was expos… [+2551 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "NPR"
       },
       "author": "Yuki Noguchi",
@@ -801,45 +866,6 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2620x1474+0+0/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fae%2F91%2F480eb7a545288915d87e1209f332%2Fimg-2115.jpg",
       "publishedAt": "2026-11-02T21:31:10Z",
       "content": "Donna Gustafson is living a cancer patient's fantasy.\r\nAt 72, the retired accountant hikes, travels, lifts weights, and exchanges adoring glances with Ed, the husband she married 50 years ago. All th… [+4964 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TODAY"
-      },
-      "author": "Caroline Kee",
-      "title": "Dietitian Reveals the Healthiest Type of Canned Tuna - TODAY.com",
-      "description": "Canned tuna is a quick source of protein, but which type is best for you? A dietitian reveals what to look for in healthier canned tuna and which types to limit.",
-      "url": "https://www.today.com/health/diet-fitness/dietitian-reveals-healthiest-type-canned-tuna-rcna602089",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-11/healthiest-canned-tuna-as11022026-9a0880.jpg",
-      "publishedAt": "2026-11-02T20:02:23Z",
-      "content": "If youre looking to eat more fish, canned tuna is a no-brainer. Love it or hate it, this shelf-stable fish is one of the healthiest foods you can keep in your pantry. Its a quick, easy source of prot… [+7481 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "New diabetes implant uses electricity to lower blood sugar and promote weight loss - Science Daily",
-      "description": "Researchers have developed a remarkable new electronic implant that could transform type 2 diabetes treatment by lowering blood sugar without insulin or traditional drugs. The device uses a special electrically powered catalyst to convert excess glucose into …",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261031221151.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/blood-sugar-illustration.webp",
-      "publishedAt": "2026-11-02T12:48:40Z",
-      "content": "An experimental electronic implant could offer an entirely new way to treat type 2 diabetes. Rather than relying on insulin or conventional medications, the device uses electricity to convert excess … [+7034 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TODAY"
-      },
-      "author": "Susan Kroll",
-      "title": "At 58, I Had Early Signs of Alzheimer’s in My Brain. These Interventions Got Rid of Them - TODAY.com",
-      "description": "In the months leading up to my mother’s 75th birthday in June 2019, I was planning a surprise party.",
-      "url": "https://www.today.com/health/disease/early-alzheimers-tau-amyloid-medical-interventions-delay-progress-rcna606595",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-10/sue-kroll-alzheimers-essay-01-mh-10302026-88c1be.jpg",
-      "publishedAt": "2026-11-02T12:45:42Z",
-      "content": "In the months leading up to my mothers 75th birthday in June 2019, I was planning a surprise party. As I was surreptitiously making calls to her closest friends, two of them asked me with a bit of he… [+7104 chars]"
     },
     {
       "source": {
@@ -882,6 +908,19 @@
     },
     {
       "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Daniel Wu",
+      "title": "Clues emerge on why colon cancer may be harder to treat in young people - The Washington Post",
+      "description": "New research could offer targets for future studies and treatments.",
+      "url": "https://www.washingtonpost.com/health/2026/11/01/new-clues-emerge-why-colon-cancer-is-harder-treat-young-people/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6JMRSCVP5MWXWDXV3VYCH64FN4_size-normalized.jpg&w=1440",
+      "publishedAt": "2026-11-01T17:00:00Z",
+      "content": "The rise of colorectal cancer in patients under 50 continues to stump researchers, who are still trying to work out why, in younger people, the cancer is more aggressive and carries a worse prognosis… [+35 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "Eatingwell.com"
       },
@@ -918,19 +957,6 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/4FGHY5DRCXWQGNWHMQPOI46444.jpg&w=1440",
       "publishedAt": "2026-10-31T17:00:00Z",
       "content": "The deep-rooted notion that a little bit of alcohol isnt harmful, and may even be good, for your health has been repeatedly debunked by research on everything from heart disease to dementia to mortal… [+179 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eatingwell.com"
-      },
-      "author": "https://www.facebook.com/EatingWell/",
-      "title": "Peanuts vs. Popcorn: Which Snack Is Better for Blood Sugar? - EatingWell",
-      "description": "Peanuts and popcorn both offer benefits for blood sugar. Discover which snack dietitians recommend for supporting healthy glucose levels and why.",
-      "url": "https://www.eatingwell.com/peanuts-vs-popcorn-for-blood-sugar-12201113",
-      "urlToImage": "https://www.eatingwell.com/thmb/5mCONyKGPP6tabQ6KjTXqnKfSYM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Peanuts-vs-Popcorn--Which-Snack-Is-Better-for-Blood-Sugar-86d1c94cef3d4eef9a13b515dccdc942.jpg",
-      "publishedAt": "2026-10-31T17:00:00Z",
-      "content": "A satisfying snack is key for maintaining blood sugar levels between meals. If youre managing diabetes or just trying to support healthy blood glucose levels, your snacking habits can help. Peanuts a… [+5637 chars]"
     },
     {
       "source": {
@@ -996,19 +1022,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/29/multimedia/29dc-health-midterms-qmlz/29dc-health-midterms-qmlz-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-30T15:09:29Z",
       "content": "After concentrating on the high price of gas and groceries, Democrats are using health costs to make their case about an “affordability crisis.”"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Cdc.gov"
-      },
-      "author": "CDC",
-      "title": "Weekly US Influenza Surveillance Report: Key Updates for Week 42, ending October 24, 2026 | FluView - Centers for Disease Control and Prevention | CDC (.gov)",
-      "description": "Seasonal flu activity remains low nationally but is increasing in many parts of the country.",
-      "url": "https://www.cdc.gov/fluview/surveillance/2026-week-42.html",
-      "urlToImage": "https://www.cdc.gov/fluview/media/images/2026/flu-view-sm.png?_=75438",
-      "publishedAt": "2026-10-30T07:00:00Z",
-      "content": "All data are preliminary and may change as more reports are received.\r\nA description of the CDC influenza surveillance system, including methodology and detailed descriptions of each data component, … [+24936 chars]"
     },
     {
       "source": {

@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 90,
+  "totalResults": 88,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Lauren McCarthy and Stuart A. Thompson",
+      "title": "Researchers Identify Suspicious Activity on Kalshi and Polymarket Before Times/Siena Poll Release",
+      "description": "A trader placed well-timed bets on Polymarket and Kalshi in two Senate races. It was unclear if the person had access to inside information or simply made good trades.",
+      "url": "https://www.nytimes.com/2026/11/06/technology/kalshi-polymarket-nyt-siena-poll-bets.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/04/multimedia/2026-11-04-insider-trading-index/2026-11-04-insider-trading-index-mediumSquareAt3X.png",
+      "publishedAt": "2026-11-07T02:55:47Z",
+      "content": "A trader placed well-timed bets on Polymarket and Kalshi in two Senate races. It was unclear if the person had access to inside information or simply made good trades."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -108,6 +121,45 @@
     },
     {
       "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Dan Goodin",
+      "title": "Vulnerability allows attackers to log into some Linux devices sans password - Ars Technica",
+      "description": "Certain configurations of Alpine are affected. Other distros may be as well.",
+      "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/getty-hacking-1152x648.jpg",
+      "publishedAt": "2026-11-05T23:09:36Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Cade Onder",
+      "title": "GTA 6 Hype Has Led to Spectrum Offering Free Internet Upgrade So Fans Can Download the Game Quickly - IGN",
+      "description": "Spectrum customers can get a free internet upgrade this month to download GTA 6 faster.",
+      "url": "https://www.ign.com/articles/spectrum-is-offering-free-internet-upgrades-so-people-can-download-gta-6-faster",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/11/05/lucia-caminos-14-1793891731331.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2026-11-05T23:00:09Z",
+      "content": "Spectrum customers can get a free internet upgrade this month to download GTA 6 faster.\r\nThe company announced earlier this week that it would be a free \"Gig Speed Lift\" from November 9 to November 3… [+1985 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Neowin"
+      },
+      "author": "Neowin",
+      "title": "Windows 11 27H2 could be major upgrade with 64-bit performance boost, new default wallpapers - Neowin",
+      "description": null,
+      "url": "https://www.neowin.net/news/windows-11-27h2-could-be-major-upgrade-with-64-bit-performance-boost-new-default-wallpapers/",
+      "urlToImage": null,
+      "publishedAt": "2026-11-05T22:32:00Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -122,15 +174,41 @@
     {
       "source": {
         "id": null,
-        "name": "GSMArena.com"
+        "name": "Outside"
       },
-      "author": "Vlad",
-      "title": "Sony brings back the original Walkman headphones with USB-C - GSMArena.com news - GSMArena.com",
-      "description": "There's a Stranger Things edition too. Back in 1979, Sony launched the original Walkman TPS-L2 cassette player alongside the MDR-3 headphones, and together...",
-      "url": "https://www.gsmarena.com/sony_brings_back_the_original_walkman_headphones_with_usbc-news-75372.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/26/11/sony-mdr-3r-official/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2026-11-05T20:31:02Z",
-      "content": "Back in 1979, Sony launched the original Walkman TPS-L2 cassette player alongside the MDR-3 headphones, and together they helped popularize listening to music on the go. Today, the company is bringin… [+1163 chars]"
+      "author": "Josh Ross",
+      "title": "Why the Factor ONE Proves Specialized Needs a New Venge - Outside Magazine",
+      "description": "Aerodynamic data is objective, but selling speed is entirely psychological. Specialized made a massive marketing mistake, and no one seems to be noticing.",
+      "url": "https://velo.outsideonline.com/road/road-gear/why-specialized-needs-new-venge-dropped/#article",
+      "urlToImage": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/11/DSC_7310-Edit.jpg",
+      "publishedAt": "2026-11-05T21:58:59Z",
+      "content": "Updated November 5, 2026 04:19PM\r\nWelcome to Dropped, a new weekly road and gravel cycling newsletter from Velo that brings you the latest ideas were debating endlessly on group rides, and a look beh… [+9054 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Scharon Harding",
+      "title": "Sony revives the original Walkman headphones, adds USB-C - Ars Technica",
+      "description": "Orange ear cushions included.",
+      "url": "https://arstechnica.com/gadgets/2026/11/sony-adds-usb-c-to-its-70s-era-mdr-3-walkman-headphones/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/assets_MS2027641_000001_feature-2-3-D-1152x648.jpg",
+      "publishedAt": "2026-11-05T21:56:36Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Mike Wall",
+      "title": "Blue Origin announces 3rd stage for its powerful New Glenn rocket — and a new engine - Space",
+      "description": "Jeff Bezos' company has been busy.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-announces-3rd-stage-for-its-powerful-new-glenn-rocket-and-a-new-engine",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/nmyuKvA2TBYzza98d3t3BK-2027-80.jpg",
+      "publishedAt": "2026-11-05T20:55:15Z",
+      "content": null
     },
     {
       "source": {
@@ -144,19 +222,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/XyTApFhvyfxVv4QbRBAPqk-2000-80.jpg",
       "publishedAt": "2026-11-05T20:14:49Z",
       "content": "2026-11-05T20:42:42.962ZZelda console has disappeared from Walmart\r\n(Image credit: Shutterstock)\r\nOur link to the Zelda console is broken and no longer goes to a page for the special edition Switch 2… [+8836 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Kenneth Shepard",
-      "title": "The Best Thing I’ve Seen In The Ocarina Of Time Remake Is This New Guy In Castle Town - Kotaku",
-      "description": "I need him to teach me his ways or just give me his powers",
-      "url": "https://kotaku.com/legend-zelda-ocarina-of-time-remake-switch-castle-town-new-npcs-bearded-guy-2000754229",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/11/beardedguy1-1200x675.jpg",
-      "publishedAt": "2026-11-05T20:00:02Z",
-      "content": "Sometimes you meet a video game character that is your kindred spirit, separated from you by the unbreakable walls of your TV screen and gigabytes of code. I, like many people today, am playing throu… [+2174 chars]"
     },
     {
       "source": {
@@ -241,26 +306,39 @@
         "id": null,
         "name": "TheStreet"
       },
-      "author": "TheStreet",
+      "author": "Faizan Farooque",
       "title": "Apple’s new $299 device comes with a warning for buyers - TheStreet",
-      "description": null,
+      "description": "Apple's new household gadget has impressive features, but its $299 price doesn't tell the whole story.",
       "url": "https://www.thestreet.com/investing/apple-homeview-new-299-smart-home-device-may-cost-extra-add-ons-subscriptions",
-      "urlToImage": null,
+      "urlToImage": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMjM0MTE4/apple-new-product-launch-event.jpg?profile=share16-9",
       "publishedAt": "2026-11-05T17:13:00Z",
-      "content": null
+      "content": "Imagine purchasing a new Apple product for $299, only to discover that it costs more to obtain the features you really want.\r\nCustomers of Apples newest home appliance may have to deal with it.\r\nAppl… [+7020 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Tom Warren",
-      "title": "Xbox overhauls its PC, web, and cloud apps with a faster design - The Verge",
-      "description": "Microsoft is overhauling its Xbox PC app and Xbox Cloud Gaming design. A new, faster UI is rolling out to testers.",
-      "url": "https://www.theverge.com/news/1027353/microsoft-new-xbox-pc-app-redesign",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ApplicationFrameHost_463qT9deYw.jpg?quality=90&strip=all&crop=0%2C4.3743779624242%2C100%2C91.251244075152&w=1200",
-      "publishedAt": "2026-11-05T17:00:31Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nXbox Insiders can start testing the new PC app today.\r\nXbox Insiders can start testing the new PC app today.\r\nby\r\nTom WarrenClose\r\nPosts from this author will be… [+4465 chars]"
+      "author": "Emma Roth",
+      "title": "OpenAI says its new cybersecurity model is better at not hacking other companies - The Verge",
+      "description": "OpenAI has announced GPT-6 Cyber, the latest version of its cybersecurity model that the company says is better at finding vulnerabilities without going out of bounds.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2026-11-05T17:00:00Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nClassified as Critical, GPT-6 Cyber outperforms GPT-6 Astra on cyber-related benchmarks.\r\nClassified as Critical, GPT-6 Cyber outperforms GPT-6 Astra on cyber-re… [+3819 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Windows Central"
+      },
+      "author": "Jez Corden",
+      "title": "The shiny new Xbox PC app is going live today for Insiders — Here's how to get it early - Windows Central",
+      "description": "The Xbox PC app has had a huge overhaul with performance and usability in mind. Here's what it looks like, and here's how you can join the public test.",
+      "url": "https://www.windowscentral.com/gaming/xbox/the-shiny-new-xbox-pc-app-is-going-live-today-for-insiders-heres-how-to-get-it-early",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/X4yWwrFyiAbtXxX3y8uTXK-2108-80.jpg",
+      "publishedAt": "2026-11-05T17:00:00Z",
+      "content": "The new Xbox PC app, which we recently dived into in its earlier forms, is finally going live for testers today. Here's what you need to know.\r\nOn Xbox Wire, Microsoft's VP for Xbox Experiences, Jaso… [+3152 chars]"
     },
     {
       "source": {
@@ -304,28 +382,15 @@
     {
       "source": {
         "id": null,
-        "name": "Deadline"
+        "name": "Xbox.com"
       },
-      "author": "Jesse Whittock",
-      "title": "Story Of 'Mass Effect' Studio BioWare Set As Super Channel Feature Doc - Deadline",
-      "description": "The final days of 'Mass Effect' video games studio BioWare will be told in a doc from Shane Fennessey and Adam Scorgie for Canada's Super Channel.",
-      "url": "http://deadline.com/2026/11/massive-effect-bioware-story-doc-super-channel-1237213018/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2026/11/MASSIVE_EFFECT_AnnouncementArt_NORMAL_3840x2160_Title_vFinal.jpg?w=1024",
-      "publishedAt": "2026-11-05T16:00:00Z",
-      "content": "EXCLUSIVE: The final days of legendary video games studio BioWare will be told in a doc from Shane Fennessey and Adam Scorgie for Canada‘s Super Channel.\r\nMassive Effect: The BioWare Story will docum… [+3550 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Internet"
-      },
-      "author": "The Hacker News",
-      "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux - The Hacker News",
-      "description": "OpenSSH 10.6p2 fixes a critical password bypass allowing access to key-only accounts on affected Alpine Linux servers using long passwords.",
-      "url": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
-      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieaHvS5baW_XG1eAsBsoSp9qRzV179f0WwXoj9k6rUeX4Qa4sxpi3hvpGkgkYNMPzZQH0mvvVAoTooEAgl1G3SyFksmhqNEbDEIEWM83RH47u8qvNyIYclA7z7GUdPJGx8WfJd556iCvvtvsitAYp9M-T46OvuwkaSWwnyhlynEpYax2qyTCACsPbtQLw/s1600/ssh-linux.jpg",
-      "publishedAt": "2026-11-05T15:31:57Z",
-      "content": "Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine Linux servers running the standard openssh-server package. They need network access to the server… [+6684 chars]"
+      "author": "Kyle Ocean",
+      "title": "Free Play Days – PAYDAY 3, Anno 117, BALL x PIT, Deceive Inc, Age of Wonders 4, and More - XBOX Wire",
+      "description": "Xbox Game Pass Ultimate, Premium, and Essential members can enjoy Subnautica this weekend, while Project Motor Racing, One Piece: Pirate Warriors 4, and Graveyard Keeper are free for all Xbox users. Discover how to participate, keep your progress, and take ad…",
+      "url": "https://news.xbox.com/en-us/2026/11/05/free-play-days-11-04-2026/",
+      "urlToImage": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/FY26-Social-FPD_11-05-2026_1920x1080-bb10143010bd0934cd86.jpg",
+      "publishedAt": "2026-11-05T16:02:37Z",
+      "content": "Skip the safe picks – play something daring with Free Play Days! PAYDAY 3, Nowhere Prophet, BALL x PIT, Deceive Inc, and Age of Wonders 4 are available this weekend for XBOX Game Pass Ultimate, Premi… [+4875 chars]"
     },
     {
       "source": {
@@ -343,6 +408,32 @@
     {
       "source": {
         "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Marcus Mendes",
+      "title": "Instagram launches Edits for Mac with multi-track video editing and 4K exports - 9to5Mac",
+      "description": "Instagram users can now download a Mac version of Edits, the company’s free video editing app. Here are the details.",
+      "url": "https://9to5mac.com/2026/11/05/instagram-launches-edits-for-mac-with-multi-track-video-editing-and-4k-exports/",
+      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/instagram-edits-desktop.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-11-05T15:00:00Z",
+      "content": "Instagram users can now download a Mac version of Edits, the companys free video editing app, with multi-track editing, advanced color grading tools, direct publishing to Instagram, and 4K exports. H… [+2122 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Passant Rabie",
+      "title": "An Amateur Radio Operator Told a Satellite to Play ‘Doom.’ And It Listened - Gizmodo",
+      "description": "The experiment marks the first known time a satellite has received and acted on a voice command from the ground.",
+      "url": "https://gizmodo.com/an-amateur-radio-operator-told-a-satellite-to-play-doom-and-it-listened-2000835488",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/07/satellites-around-Earth--1200x675.jpg",
+      "publishedAt": "2026-11-05T14:35:37Z",
+      "content": "Satellite operators usually send commands as digital packets over radio, but one group of amateur radio operators tried something a little more conversational: They spoke the command into a microphon… [+3474 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "GameSpot"
       },
       "author": "Eddie Makuch",
@@ -352,19 +443,6 @@
       "urlToImage": "https://www.gamespot.com/wp-content/uploads/2026/11/Lucia_Caminos_02.jpg",
       "publishedAt": "2026-11-05T14:14:50Z",
       "content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links.\r\nGrand Theft Auto 6 is the biggest game that Rockstar Games has eve… [+4264 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GamesIndustry.biz"
-      },
-      "author": "Sophie McEvoy",
-      "title": "Sensor Tower: GTA 6 pre-orders almost reach 8m, 74% bought on PlayStation 5 - GamesIndustry.biz",
-      "description": "Pre-orders for Rockstar's title have generated an estimated $751 million in gross revenue",
-      "url": "https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-almost-reach-8m-74-bought-on-playstation-5",
-      "urlToImage": "https://assetsio.gnwcdn.com/gta-6-lucia-jason_Eos2shf.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2026-11-05T14:13:50Z",
-      "content": "Grand Theft Auto 6 is two weeks away, and the highly anticipated title has nearly reached eight million pre-orders, according to recent data.\r\nSensor Tower's GTA 6 tracker reports 7.71 million pre-or… [+1443 chars]"
     },
     {
       "source": {
@@ -382,6 +460,32 @@
     {
       "source": {
         "id": null,
+        "name": "Videocardz.com"
+      },
+      "author": null,
+      "title": "NVIDIA GeForce NOW adds 24 games in November, Hogwarts Legacy gets DLSS 5 - VideoCardz.com",
+      "description": "NVIDIA is adding 24 games to GeForce NOW this November, including eight arriving this week and new Xbox storefront support. Hogwarts Legacy also receives DLSS 5.",
+      "url": "https://videocardz.com/newz/nvidia-geforce-now-adds-24-games-in-november-hogwarts-legacy-gets-dlss-5",
+      "urlToImage": "https://cdn.videocardz.com/1/2026/11/HOGWARTS-DLSS5.webp",
+      "publishedAt": "2026-11-05T13:45:42Z",
+      "content": "NVIDIA has announced 24 games joining GeForce NOW in November, including eight arriving this week. The lineup includes new releases, additional storefront support for existing games and the arrival o… [+4457 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Ethan Gach",
+      "title": "Nintendo Fans Are Crashing Out After Amazon Suddenly Delays Tons Of Zelda: Ocarina Of Time Remake Pre-Orders - Kotaku",
+      "description": "What Jeff Bezos giveth, he taketh away",
+      "url": "https://kotaku.com/nintendo-fans-are-crashing-out-after-amazon-suddenly-delays-tons-of-zelda-ocarina-of-time-remake-pre-orders-2000754143",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/11/Links-1200x675.jpg",
+      "publishedAt": "2026-11-05T13:38:32Z",
+      "content": "It’s November 5, the day the Legend of Zelda: Ocarina of Time remake officially launches on Switch 2. Diehard fans had an important decision to make prior to the game’s release. Buy it digitally and … [+4169 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Eurogamer.net"
       },
       "author": "Matt Wales",
@@ -395,45 +499,6 @@
     {
       "source": {
         "id": null,
-        "name": "GameSpot"
-      },
-      "author": "Darryn Bonthuys",
-      "title": "The Legend of Zelda: Ocarina Of Time's 2026 Remake Looks Stunning Next To The Original N64 Game - GameSpot",
-      "description": "What a difference a few decades make.",
-      "url": "https://www.gamespot.com/articles/the-legend-of-zelda-ocarina-of-time-2026-remake-looks-stunning-next-to-the-original-n64-game/",
-      "urlToImage": "https://www.gamespot.com/wp-content/uploads/2026/11/Zelda-comparison.jpg",
-      "publishedAt": "2026-11-05T13:23:42Z",
-      "content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links.\r\nSince its launch last year, the Switch 2 has proven itself to be a… [+1967 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Motorolanews.com"
-      },
-      "author": "marreroc",
-      "title": "motorola signature 27 has the world's best camera system, according to DXOMARK - Motorola News",
-      "description": "DXOMARK has ranked motorola signature 27 as the world's best camera system launched in 2026, outranking all other Android and iOS devices.",
-      "url": "https://motorolanews.com/motorola-signature-27-dxomark/",
-      "urlToImage": "https://media.motorolanews.fiestic.com/2026/11/04160605/29260918_MOTOROLA_SIGNATURE_0928-768x707.png",
-      "publishedAt": "2026-11-05T13:02:06Z",
-      "content": "Motorola is proud to announce that DXOMARK has ranked motorola signature 27 as the world’s best camera system launched in 2026¹, outranking all other Android and iOS devices, and securing DXOMARKs Go… [+12898 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gamingbible.com"
-      },
-      "author": "Kate Harrold",
-      "title": "You can still grab GTA 6's Ultimate Edition for $20 if you want the full experience - GAMINGbible",
-      "description": "Upgrade and secure the full breadth of the GTA VI experience 👇",
-      "url": "https://www.gamingbible.com/news/gta-6-ultimate-edition-upgrade-20-dollars-270386-20261105",
-      "urlToImage": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/blta025281f9ca45664/6aec648fbebfaea112ecd7fe/gta6upgrade_(1).png",
-      "publishedAt": "2026-11-05T13:00:01Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Windows Central"
       },
       "author": "Alexander Cope",
@@ -443,6 +508,19 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/YMnH2Z425bUdLYvNwfSREU-1920-80.jpg",
       "publishedAt": "2026-11-05T13:00:00Z",
       "content": "After months of anticipation, World of Warcraft: Forever, the reimagined take on the World of Warcraft's \"classic\" era, has finally gone live on PC via the Battle.net store.\r\nNormally, whenever a new… [+2223 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Allison Johnson",
+      "title": "Motorola is going ultra premium with its $1,600 ‘Signature’ phone - The Verge",
+      "description": "The Motorola Signature 27 comes with true flagship specs — and a sky-high price.",
+      "url": "https://www.theverge.com/gadgets/1026643/motorola-signature-27-price-specs-availability",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/signature27_lifestyle12.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+      "publishedAt": "2026-11-05T13:00:00Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Signature 27 comes with true flagship specs and a price that has RAMageddon written all over it.\r\nThe Signature 27 comes with true flagship specs and a price… [+5191 chars]"
     },
     {
       "source": {
@@ -485,19 +563,6 @@
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Tom Warren",
-      "title": "Discord is ditching Electron and its new app uses less RAM - The Verge",
-      "description": "Discord is moving its apps fully over to the Rust programming language.",
-      "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK062_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2026-11-05T11:39:42Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nDiscord is moving its apps fully over to the Rust programming language.\r\nDiscord is moving its apps fully over to the Rust programming language.\r\nby\r\nTom WarrenC… [+2255 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Gematsu"
       },
@@ -537,19 +602,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Phoronix"
-      },
-      "author": null,
-      "title": "OpenAI Finds 948 Local Privilege Escalation Bugs In The Linux Kernel - Phoronix",
-      "description": "OpenAI published a blog post outlining their work on autonomous vulnerability discovery",
-      "url": "https://www.phoronix.com/news/OpenAI-948-Linux-LPE-Bugs",
-      "urlToImage": "https://www.phoronix.net/image.php?id=2026&image=openai_948_lpe",
-      "publishedAt": "2026-11-05T10:00:00Z",
-      "content": "OpenAI published a blog post outlining their work on autonomous vulnerability discovery. To showcase their AI potential, they found 948 valid local privilege escalation vulnerabilities within the Lin… [+1528 chars]"
-    },
-    {
-      "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
@@ -560,6 +612,32 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chrome_B9cuzcr0n5.png?quality=90&strip=all&crop=0%2C4.9460047488004%2C100%2C90.107990502399&w=1200",
       "publishedAt": "2026-11-05T09:46:58Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GoNintendo"
+      },
+      "author": "rawmeatcowboy",
+      "title": "Nintendo explains why certain Zelda and Mario references were pulled from Zelda: Ocarina of Time on Switch 2 - GoNintendo",
+      "description": "Canon events",
+      "url": "https://gonintendo.com/contents/66934-nintendo-explains-why-certain-zelda-and-mario-references-were-pulled-from-zelda",
+      "urlToImage": "https://gonintendo.com/attachments/image/88699/file/medium-fa8743bd71082c00c5f6a283857a98ce.webp",
+      "publishedAt": "2026-11-05T09:46:44Z",
+      "content": "It's funny because the staff would sometimes ask me about the possibility of including nods to the timeline or references to the other game, and I actually, at the time, would say, \"No, let's focus o… [+1407 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Sherif Saed",
+      "title": "Valve explains why it's running behind on Steam game approvals, asks developers to perform basic release checks to prevent re-reviews - Eurogamer.net",
+      "description": "Valve has responded to the rise in game submissions on Steam by explaining why approvals are taking longer and revealing tighter guidelines.",
+      "url": "https://www.eurogamer.net/steam-games-approvals-delayed-valve-response",
+      "urlToImage": "https://assetsio.gnwcdn.com/steam-as-a-memorial.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2026-11-05T09:22:40Z",
+      "content": "In the wake of witnessing an unprecedented number of game submissions to Steam over the last few months, Valve has been forced to delay approvals in order to deal with the existing backlog.\r\nFollowin… [+2398 chars]"
     },
     {
       "source": {
@@ -586,6 +664,19 @@
       "urlToImage": "https://hackernoon.imgix.net/images/RedhyyLm3wdWHEbi1u2M2jYm5782-rt83b3k.png",
       "publishedAt": "2026-11-05T06:50:24Z",
       "content": "Companies may soon discover that owning the code is no longer equivalent to owning the system.\r\nFor most of programming history, code had two audiences.\r\nOne was the machine that executed it. The oth… [+11384 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Internet"
+      },
+      "author": "The Hacker News",
+      "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says - The Hacker News",
+      "description": "CISA adds Apple CVE-2024-27834 to its KEV catalog after reports of active exploitation involving a pointer authentication bypass.",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkv0B0acGnMDLnCJQYXNCkpzSeKKr_1m4-a10Q2Iy6DZOorGLb35YDD9vw3iQQA9fZTi7QGIZYlSsvTSmxc8w0UbgN_Xtl-QPyTngA9qhOuoryee3Z8X8CZRnHiUAY3wuIXG_UIO1DyDnjnfS5cOilt3WPzRnYYqFDZ1NHbXS0OVAsrVYHSeFuc7zglZw5/s1600/apple-0day.jpg",
+      "publishedAt": "2026-11-05T05:17:00Z",
+      "content": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (… [+1749 chars]"
     },
     {
       "source": {
@@ -628,45 +719,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Gameinformer.com"
-      },
-      "author": "Wesley LeBlanc",
-      "title": "God Of War Laufey Delayed To May - Game Informer",
-      "description": "It was originally due out exclusively on PlayStation 5 on February 16. - Game Informer",
-      "url": "https://gameinformer.com/2026/11/04/god-of-war-laufey-delayed-to-may",
-      "urlToImage": "https://static.gameinformer.com/sites/default/files/styles/og_image/public/2026/09/28/b118e622/gow-laufey-art-banner.jpg.webp",
-      "publishedAt": "2026-11-04T23:30:50Z",
-      "content": "PlayStation first-party developer Santa Monica Studio has delayed its upcoming action game, God of War Laufey, to May. More specifically, the PlayStation 5-exclusive title will now launch on May 20, … [+1336 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Kyle Orland",
-      "title": "Nintendo’s biggest ROM chip supplier is bowing out of the business - Ars Technica",
-      "description": "And what that could mean for physical Switch game costs.",
-      "url": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/switchcarts-1152x648.jpg",
-      "publishedAt": "2026-11-04T22:47:51Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Dan Goodin",
-      "title": "Hackers exploited iOS and Android flaws to infect phones - Ars Technica",
-      "description": "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.",
-      "url": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/malware-1000x648.jpg",
-      "publishedAt": "2026-11-04T22:26:49Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
@@ -677,58 +729,6 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Bose-QuietComfort-Headphones-lifestyle.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "publishedAt": "2026-11-04T21:13:11Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nBoth generations of Boses noise-canceling headphones are steeply discounted, with prices starting at $170.\r\nBoth generations of Boses noise-canceling headphones … [+2512 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ComicBook.com"
-      },
-      "author": "Logan Moore",
-      "title": "Nintendo GameCube Remaster Releases on Switch Without Any Warning - ComicBook.com",
-      "description": "A Nintendo GameCube game that launched 24 years ago has been brought to Switch without any previous warning.",
-      "url": "http://comicbook.com/gaming/news/nintendo-gamecube-game-remaster-new-switch-release/",
-      "urlToImage": "https://comicbook.com/wp-content/uploads/sites/4/2025/03/GameCube-Logo.jpg?resize=2000,1125",
-      "publishedAt": "2026-11-04T20:40:39Z",
-      "content": "A remaster of a Nintendo GameCube game that launched on the platform back in 2002 has surprisingly been released on Switch platforms today. In recent years, Nintendo has been bringing back a number o… [+2388 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Video Games Chronicle"
-      },
-      "author": "Rhiannon Bevan",
-      "title": "PlayStation’s Black Friday sale includes hundreds of PS5 games - Video Games Chronicle",
-      "description": "PlayStation's Black Friday sale in on now, with more than 300 PS5 titles discounted",
-      "url": "https://www.videogameschronicle.com/news/playstations-black-friday-sale-includes-hundreds-of-ps5-games/",
-      "urlToImage": "https://www.videogameschronicle.com/files/2026/11/PlayStation-Black-Friday-2026.jpg",
-      "publishedAt": "2026-11-04T20:29:36Z",
-      "content": "PlayStation’s Black Friday sale has begun, with hundreds of deals on the PS Store.\r\nThe sale runs from November 4 to November 30, with discounts of up to 75%. It includes software across both PS4 and… [+1997 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Ryan Christoffel",
-      "title": "Apple disables Siri AI waitlist in iOS 27, with one exception - 9to5Mac",
-      "description": "A newly updated Apple support document says Siri AI no longer uses a waitlist to enable it, except in “high demand” times.",
-      "url": "https://9to5mac.com/2026/11/04/apple-disables-siri-ai-waitlist-in-ios-27-with-one-exception/",
-      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-27-light.jpg?quality=82&strip=all&resize=1200,628",
-      "publishedAt": "2026-11-04T20:28:00Z",
-      "content": "When Siri AI launched in iOS 27 earlier this fall, Apple used a waitlist to gate access. But a newly updated support document says the waitlist is no longer being used, except in high demand times.\r\n… [+1126 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Siliconera"
-      },
-      "author": "Jenni Lada",
-      "title": "Wendy’s Releases Free WendyQuest RPG on Steam - Siliconera",
-      "description": "Wendy's and 81monkeys are behind the new RPG WendyQuest: Legend of the Four Corner Stones on Steam for Windows and Steam Deck.",
-      "url": "https://www.siliconera.com/wendys-releases-free-wendyquest-rpg-on-steam/",
-      "urlToImage": "https://www.siliconera.com/wp-content/uploads/2026/11/ss-be94a9ce99ad528d238341e1f84e99db4fca672d1920x1080.jpg",
-      "publishedAt": "2026-11-04T20:00:00Z",
-      "content": "Wendys and 81monkeys released a RPG called WendyQuest: Legend of the Four Corner Stones on Steam. This is a free game that is playable on Windows PCs and Steam Decks. It is only available in English.… [+1210 chars]"
     },
     {
       "source": {
@@ -772,6 +772,32 @@
     {
       "source": {
         "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Zack Zwiezen",
+      "title": "PlayStation’s Massive Black Friday 2026 Sale Is Live Now And Filled With Big Deals On PS5 Games - Kotaku",
+      "description": "Silent Hill 2, God of War Ragnarok, Astro Bot, Disco Elysium, Well Dweller, and many more PS5 games are currently on sale",
+      "url": "https://kotaku.com/playstations-massive-black-friday-2026-sale-is-live-now-and-filled-with-big-deals-on-ps5-games-2000753373",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/11/PSn-sale-bfriday.jpg",
+      "publishedAt": "2026-11-04T19:30:06Z",
+      "content": "We are still weeks away from Thanksgiving and Black Friday, but that hasn’t stopped PlayStation from kicking off a big “Black Friday” sale on its digital storefront. Yes, it’s a bit absurd, but the d… [+2507 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PhoneArena"
+      },
+      "author": "PhoneArena",
+      "title": "I know it, you know it, the Galaxy Z Fold 8 is simply better than the iPhone Duo for now - PhoneArena",
+      "description": null,
+      "url": "https://www.phonearena.com/news/you-know-galaxy-z-fold-8-is-simply-better-than-iphone-duo_id184569",
+      "urlToImage": null,
+      "publishedAt": "2026-11-04T19:08:46Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
         "name": "TechSpot"
       },
       "author": "Kishalaya Kundu",
@@ -797,6 +823,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Singularity Hub"
+      },
+      "author": "Shelly Fan",
+      "title": "Microsoft’s Medical AI Is Over Twice as Good Diagnosing Diseases as Doctors - SingularityHub",
+      "description": "The system, MAI-DxO, was not only more accurate, but it also spent much less on tests to make its diagnoses.",
+      "url": "https://singularityhub.com/2026/11/04/microsofts-medical-ai-is-over-twice-as-good-diagnosing-diseases-as-doctors/#article",
+      "urlToImage": "https://singularityhub.com/uploads/2026/11/doctor-with-medical-images-on-tablet.jpeg?auto=webp",
+      "publishedAt": "2026-11-04T18:55:52Z",
+      "content": "Doctors are like detectives. They scrutinize symptoms, piece together medical histories, and narrow down possible diagnoses. Simple cases may be solved on the spot. But trickier ones require tests to… [+7078 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -807,45 +846,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/04/multimedia/04biz-ohio-crypto-fbph/04biz-ohio-crypto-fbph-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-04T18:12:27Z",
       "content": "Fairshake, the major industry super PAC, spent $46 million on ads against the Democrat, Sherrod Brown, who won."
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Michael Peyton",
-      "title": "Square Enix Plans More New Games Over Remakes, Kitase Says - IGN",
-      "description": "Final Fantasy producer Yoshinori Kitase reveals Square Enix will prioritize new games over remakes, discussing future film adaptations and what he wants to make next.",
-      "url": "https://www.ign.com/articles/square-enix-new-games-remakes-kitase-interview",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/11/03/yoshinori-kitase-interview-blogroll-1793738480688.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "publishedAt": "2026-11-04T18:00:00Z",
-      "content": "Final Fantasy VII Revelation is still months away, but a prominent voice in the Final Fantasy universe is already teasing whats next for publisher Square Enix after the game releases next year. \r\nI s… [+8391 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Authority"
-      },
-      "author": null,
-      "title": "This tiny Android phone promises Android 17 and five years of OS updates - Android Authority",
-      "description": "The enough phone is a compact smartphone with a 5.3-inch display, Dimensity 7500, and a 3,500mAh user-replaceable battery.",
-      "url": "https://www.androidauthority.com/enough-phone-compact-android-phone-kickstarter-3731507/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2026/11/enough-phone-hero-image.jpg",
-      "publishedAt": "2026-11-04T18:00:00Z",
-      "content": "<ul><li>The enough phone is a compact Android phone with a 5.3-inch display that can be reserved on Kickstarter for a starting price of $399.</li><li>Its equipped with a Dimensity 7500 chipset, 8GB o… [+2981 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SamMobile"
-      },
-      "author": "Mihai Matei",
-      "title": "Galaxy Buds Canal 5 earbuds uncovered this past summer visit the FCC ahead of US launch - SamMobile",
-      "description": "The Samsung Galaxy Buds Canal 5 earhook earbuds we uncovered this past summer has visited the FCC. They may soon launch in the US.",
-      "url": "https://www.sammobile.com/news/galaxy-buds-canal-5-earbuds-visit-fcc-ahead-of-usa-launch/",
-      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2026/03/Galaxy-Buds-4-Pro-review-9.jpg",
-      "publishedAt": "2026-11-04T16:59:00Z",
-      "content": "Samsung seems to be preparing to launch a new pair of Galaxy Buds, following FCC approval. The company recently released the U-shaped Galaxy Buds On in Korea, but those don't match the new model spot… [+1598 chars]"
     },
     {
       "source": {
@@ -888,19 +888,6 @@
     },
     {
       "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Kirk McKeand",
-      "title": "New Hogwarts Legacy Trailer Shows Off Nvidia's DLSS 5 Enhanced Lighting and Materials - IGN",
-      "description": "Nvidia just showed off DLSS 5 in Hogwarts Legacy in a new video that shows how its AI-enhanced lighting and materials model looks in-game. It’s a much more subtle effect compared to the images and clips going around after a leaked early version of DLSS 5 was …",
-      "url": "https://www.ign.com/articles/nvidia-shows-off-dlss-5-hogwarts-legacy-trailer",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/11/04/hogwartslegacy-dlss5-1793806537149.png?width=1280&format=jpg&auto=webp&quality=80",
-      "publishedAt": "2026-11-04T15:46:55Z",
-      "content": "Nvidia just showed off DLSS 5 in Hogwarts Legacy\r\n in a new video that shows how its AI-enhanced lighting and materials model looks in-game. Its a much more subtle effect compared to the images and c… [+2747 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Quanta Magazine"
       },
@@ -915,6 +902,19 @@
     {
       "source": {
         "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Kyle Barr",
+      "title": "Nintendo’s Switch 2 Game Card Situation Just Became Dire - Gizmodo",
+      "description": "We're reaching a point where owning a physical title could soon be treated as a luxury.",
+      "url": "https://gizmodo.com/nintendos-switch-2-game-cards-matronix-2000834832",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/06/DSC00618-1200x675.jpg",
+      "publishedAt": "2026-11-04T15:10:54Z",
+      "content": "Nintendos physical Switch 2 game cards may have suffered their worst blow since the handheld console hit the scene last year. David Gibson, the games-focused analyst at MST Financial, reported late o… [+3533 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Wccftech"
       },
       "author": "Sarfraz Khan",
@@ -924,6 +924,19 @@
       "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/11/ROG-XG-Station-3-1920x1083.jpg",
       "publishedAt": "2026-11-04T15:08:13Z",
       "content": "ASUS continues its XG Station lineup with the latest external GPU dock called ROG XG Station 3 that brings the Thunderbolt 5 interface.\r\nPopular hardware maker ASUS has launched its latest external G… [+1921 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Forbes",
+      "title": "$750 Million In ‘GTA 6’ Pre-Sales Will Soon Pass GTA 5’s Entire Launch - Forbes",
+      "description": null,
+      "url": "https://www.forbes.com/sites/paultassi/2026/11/04/750-million-in-gta-6-pre-sales-will-soon-pass-gta-5s-entire-launch/",
+      "urlToImage": null,
+      "publishedAt": "2026-11-04T14:59:46Z",
+      "content": null
     },
     {
       "source": {
@@ -953,42 +966,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "MacRumors"
+        "id": "ign",
+        "name": "IGN"
       },
-      "author": "Hartley Charlton",
-      "title": "Apple May Phase Out Non-Touch High-End MacBook Pros - MacRumors",
-      "description": "Apple will likely consolidate its high-end MacBook Pro lineup around touchscreen models, according to Bloomberg's Mark Gurman.   Writing in his...",
-      "url": "https://www.macrumors.com/2026/11/04/apple-may-phase-out-non-touch-macbook-pros/",
-      "urlToImage": "https://images.macrumors.com/t/nbgKwh_JVhUXfXXq_ntMhJ827JE=/1960x/article-new/2025/10/MacBook-Pro-M5-Screen.jpg",
-      "publishedAt": "2026-11-04T13:35:27Z",
-      "content": "Apple will likely consolidate its high-end MacBook Pro lineup around touchscreen models, according to Bloomberg's Mark Gurman.\r\nWriting in his latest \"Power On\" newsletter, Gurman questioned whether … [+1412 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GameSpot"
-      },
-      "author": "Darryn Bonthuys",
-      "title": "Steam Is Tightening Its Game Submission Rules As AI Slop Floods The Store - GameSpot",
-      "description": "Steam wants developers to actually play their games before submitting them.",
-      "url": "https://www.gamespot.com/articles/steam-is-tightening-its-game-submission-rules-as-ai-slop-floods-the-store/",
-      "urlToImage": "https://www.gamespot.com/wp-content/uploads/original/1597/15976769/4629387-steam-logo-with-blue-background.jpg",
-      "publishedAt": "2026-11-04T13:19:17Z",
-      "content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links.\r\nValve currently has a review backlog on Steam, as the mandatory QA… [+2647 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eurogamer.net"
-      },
-      "author": "Dom Peppiatt",
-      "title": "Dragon's Dogma 2 gets a timed collaboration with beloved anime and manga series Delicious in Dungeon, and it's out right now on PC, PlayStation and Xbox (but Switch players will have to wait) - Eurogamer.net",
-      "description": "The Dragon's Dogma 2: Dark Arisen collaboration brings in new allies and equipment for a limited time.",
-      "url": "https://www.eurogamer.net/dragons-dogma-2-dungeon-meshi-collaboration-out-now",
-      "urlToImage": "https://assetsio.gnwcdn.com/dungeon-meshi-dd2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2026-11-04T10:03:46Z",
-      "content": "Have you ever seen - or read - the wonderful Dungeon Meshi (known in English as 'Delicious in Dungeon')? It's a phenomenal manga series written and illustrated by Ryoko Kui, which was adapted into an… [+5521 chars]"
+      "author": "Kirk McKeand",
+      "title": "Fortnite's Ultra-Rare Pirate Shop Token Hunt Sparks Wave of Profiteering and EBay Listings - IGN",
+      "description": "Fortnite Players Are Doing Things Epic Would Probably Prefer They Didn't to Try to Get the Ultra Rare Pirate Shop Token.",
+      "url": "https://www.ign.com/articles/fortnite-pirate-shop-token-hunt-sparked-wave-of-profiteering",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/11/02/onepiecefortthumb-1793644579999.png?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2026-11-04T13:12:36Z",
+      "content": "Update: Article updated to add a statement from Epic. Additionally, the two eBay listings mentioned have already been taken down. \r\nOriginal Story:Fortnite's recently launched One Piece crossover eve… [+2750 chars]"
     },
     {
       "source": {
@@ -1015,19 +1002,6 @@
       "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F03%2Fxbox-debuts-series-x-bite-working-console-inside-alligator-tw.jpg?w=1080&cbr=1&q=90&fit=max",
       "publishedAt": "2026-11-04T03:50:26Z",
       "content": "Xbox has officially revealed the Series X-BITE featuring a fully working console housed inside a five-foot alligator replica\r\nCrafted alongside John Nolan Studio the one-of-a-kind hardware build feat… [+1993 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Notebookcheck.net"
-      },
-      "author": "Bùi Giang",
-      "title": "Galaxy S27 series chipset details leak with a surprising entry for the Pro - Notebookcheck",
-      "description": "New import-export records name the chipsets in the international variants of all four Galaxy S27 models, with the Pro being powered by an unexpected chipset.",
-      "url": "https://www.notebookcheck.net/Galaxy-S27-series-chipset-details-leak-with-a-surprising-entry-for-the-Pro.1441625.0.html",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung_Galaxy_S266676.jpg",
-      "publishedAt": "2026-11-04T01:45:00Z",
-      "content": "According to the records, the Galaxy S27 and Galaxy S27+ will use Samsung's upcoming Exynos 2700, while the Galaxy S27 Pro is listed with the SM8950, better known by its marketing name, Snapdragon 8 … [+720 chars]"
     },
     {
       "source": {
