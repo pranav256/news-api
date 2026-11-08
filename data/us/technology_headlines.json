@@ -6,8 +6,8 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-07T21:06:10.086168+00:00",
-  "articles_count": 85,
+  "fetched_at": "2026-11-08T00:56:20.994763+00:00",
+  "articles_count": 78,
   "articles": [
     {
       "source": {
@@ -50,6 +50,58 @@
     },
     {
       "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Scharon Harding",
+      "title": "Artist pulls popular screensaver from Roku OS because of Fox acquisition - Ars Technica",
+      "description": "Developer: “I can’t be part of the Fox world.”...",
+      "url": "https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Screenshot-2026-11-06-134100-1152x648.jpg",
+      "publishedAt": "2026-11-06T19:50:18Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Jacqueline Thomas",
+      "title": "Canadian Politician Petitions Government to Help BioWare Buy Its Way From Under EA - IGN",
+      "description": "A Canadian politician has started an official government petition to save Mass Effect developer BioWare.",
+      "url": "https://www.ign.com/articles/canadian-politician-petitions-government-to-help-bioware-buy-its-way-from-under-ea",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/10/30/ss-4b2b412307b72a21f68148c32fab7a278875d139-1920x1080-1793370780028.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2026-11-06T19:26:07Z",
+      "content": "Update: Canadian MP Don Davies has provided comment on the BioWare petition:\r\nBioWare has cultivated an international following from their renowned video game franchises like Mass Effect, Baldurs Gat… [+4023 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HYPEBEAST"
+      },
+      "author": "Eddie Eng",
+      "title": "The 'Grand Theft Auto VI' Custom In-Game Cars Have Come to Life - Hypebeast",
+      "description": "West Coast Customs painstakingly recreated the iconic cars of the game.",
+      "url": "https://hypebeast.com/2026/11/grand-theft-auto-vi-gta6-real-in-game-cars#article",
+      "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F06%2Fgrand-theft-auto-vi-gta6-real-in-game-cars-tw.jpg?w=1080&cbr=1&q=90&fit=max",
+      "publishedAt": "2026-11-06T19:00:33Z",
+      "content": "Summary\r\nWest Coast Customs helped recreate the in-game custom cars of 'Grand Theft Auto VI'\r\nEach car comes with its own backstory, including stats, figures and details\r\n'Grand Theft Auto VI' finall… [+3586 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Lucas Ropek",
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent - TechCrunch",
+      "description": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
+      "publishedAt": "2026-11-06T18:44:20Z",
+      "content": "Meta recently launched its Muse agents a new generation of cuddly agentic helpers. Now, the company has launched Spaces, a new way to communicate and collaborate with them.\r\nAs far as I can tell, Spa… [+2369 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -63,6 +115,58 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Nicholas Sutrich",
+      "title": "Discord is about to get way, way faster on your Android phone - 9to5Google",
+      "description": "A new Discord update built on Rust is substantially reducing the amount of RAM it uses, leading to significantly faster loading times",
+      "url": "http://9to5google.com/2026/11/06/discord-is-about-to-get-way-way-faster-on-your-android-phone/",
+      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/discord-redmagic-12-pro.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-11-06T18:13:00Z",
+      "content": "A new Discord client built in Rust is looking pretty shiny and clean, even on low-end Android phones.\r\nI love Discord, but if there’s one thing the app isn’t known for is it’s speed. That’s particula… [+1575 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Chris Reed",
+      "title": "You Can Request an Invite to Buy an Xbox Series X | X25 Special Edition Console at Amazon Right Now - IGN",
+      "description": null,
+      "url": "https://www.ign.com/articles/xbox-series-x-x25-special-edition-console-invite-requests-are-up-at-amazon",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/11/06/xbox-series-x-x25-1787838440148-1793987454358.jpeg?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2026-11-06T18:04:07Z",
+      "content": "Back in August, when preorders went up for the translucent green Xbox Series X | X25 Special Edition console, they sold out almost instantly. That was a bummer for longtime Xbox fans who wanted to ge… [+1299 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Tyler Lacoma",
+      "title": "Bluetooth 7 Speeds Are Set to Quadruple in 2027, Especially for Audio - CNET",
+      "description": "The Bluetooth Group has announced a new standard. Here's how it works and when you can expect to benefit from it.",
+      "url": "https://www.cnet.com/tech/bluetooth-7-speeds-quadruple-2027/",
+      "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2220974969.jpg",
+      "publishedAt": "2026-11-06T17:50:00Z",
+      "content": "Wireless tech is about to get a whole lot snappier. On Thursday, the Bluetooth Special Interest Group, the trade association that oversees Bluetooth, officially unveiled Bluetooth High Data Throughpu… [+3657 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Joe Rossignol",
+      "title": "Apple Says More Than 100,000 Apps Optimized for iPhone Duo, Here's What's Still Missing - MacRumors",
+      "description": "Apple today announced that more than 100,000 apps have been optimized for the iPhone Duo, released two weeks ago. We confirmed that this figure...",
+      "url": "https://www.macrumors.com/2026/11/06/apple-says-100k-apps-optimized-for-iphone-duo/",
+      "urlToImage": "https://images.macrumors.com/t/bn-vb4EvT__PrYAMCEn1MrjiwUo=/2572x/article-new/2026/11/Apple-Says-Over-100000-Apps-Optimized-for-iPhone-Duo-But-These-Are-Still-Missing-Feature-1.jpg",
+      "publishedAt": "2026-11-06T17:18:31Z",
+      "content": "Apple today announced that more than 100,000 apps have been optimized for the iPhone Duo, released two weeks ago. We confirmed that this figure refers to apps built with the iOS 27.1 SDK or later, me… [+3445 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -73,6 +177,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/29/business/00biz-amodei-profile/00biz-amodei-profile-mediumSquareAt3X.png",
       "publishedAt": "2026-11-06T17:09:36Z",
       "content": "Some call him a doomer. Others see him as a responsible technologist. Here’s how Dario Amodei’s thinking on artificial intelligence was shaped."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Ash Parrish",
+      "title": "PlayStation Is Already Killing Off Ratchet & Clank Mobile Game Just 12 Months After It Was Revealed - Kotaku",
+      "description": "Ratchet & Clank: Ranger Rumble never officially launched globally",
+      "url": "https://kotaku.com/playstation-mobile-game-shuts-down-just-12-months-after-it-was-revealed-2000754657",
+      "urlToImage": "https://kotaku.com/app/uploads/2025/11/ratchclankmobile.jpg",
+      "publishedAt": "2026-11-06T17:00:11Z",
+      "content": "Ratchet &amp; Clank: Ranger Rumble, a mobile-only free-to-play multiplayer hero shooter, will shut down services on May 1, 2027. The developers at OhBibi made the announcement that the final update f… [+1235 chars]"
     },
     {
       "source": {
@@ -103,28 +220,28 @@
     {
       "source": {
         "id": null,
-        "name": "9to5Mac"
+        "name": "MacRumors"
       },
-      "author": "Ryan Christoffel",
-      "title": "Next year’s iPhone Pro redesign will drop an important button, per leak - 9to5Mac",
-      "description": "Apple is rumored to have a big iPhone redesign coming next year, and per a new leak, it may come with the loss of the Action button.",
-      "url": "https://9to5mac.com/2026/11/06/next-years-iphone-pro-redesign-will-drop-an-important-button-per-leak/",
-      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-19-pro-20-anniversary-max.jpg?quality=82&strip=all&resize=1200,628",
-      "publishedAt": "2026-11-06T16:02:00Z",
-      "content": "Next year Apple is rumored to have a big redesign coming to the iPhone Pro models, and per a new leak, it may come with the loss of the Action button.\r\n2027 brings the iPhones 20th anniversary, and a… [+1378 chars]"
+      "author": "Mitchel Broussard",
+      "title": "Best Buy's Black Friday Event Begins With Sitewide Savings on Apple, TVs, More - MacRumors",
+      "description": "Early Black Friday sales are kicking off this week, with Best Buy joining in with deals that will last the next few weeks. Similar to other...",
+      "url": "https://www.macrumors.com/2026/11/06/best-buy-reveals-black-friday-2/",
+      "urlToImage": "https://images.macrumors.com/t/VaEwfTl52lH59S71hI60ZBLKC78=/2500x/article-new/2024/11/best-buy-holiday.jpeg",
+      "publishedAt": "2026-11-06T15:44:11Z",
+      "content": "Early Black Friday sales are kicking off this week, with Best Buy joining in with deals that will last the next few weeks. Similar to other retailers, Best Buy's early Black Friday event includes sit… [+1763 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "Internet"
       },
-      "author": "Rebekah Valentine",
-      "title": "Nintendo’s Shigeru Miyamoto Misses Financial Briefing Due To A ‘Sudden Illness’ But Is Expected To Recover Soon - Kotaku",
-      "description": "'He is expected to recover in a few days to a week'",
-      "url": "https://kotaku.com/nintendos-shigeru-miyamoto-misses-financial-briefing-due-to-a-sudden-illness-but-is-expected-to-recover-soon-2000754655",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/11/miyamoto-1200x675.jpg",
-      "publishedAt": "2026-11-06T15:46:04Z",
-      "content": "Nintendo executive and father of Mario, Zelda, Donkey Kong, and Pikmin Shigeru Miyamoto was unexpectedly absent from Nintendo’s most recent investor meeting due to a “sudden illness,” though the comp… [+1257 chars]"
+      "author": "The Hacker News",
+      "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot - The Hacker News",
+      "description": "Attackers are exploiting CVE-2026-123158 in OpenSSH, with root access confirmed on an Alpine Linux honeypot. OpenSSH 10.6p2 fixes the flaw.",
+      "url": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHbl1TAGj_ZHZDF3oQ8AfebRDiovg_d8Wk4huY5VJkSa0csE45G7k5jwdG1De-W-7l2RjnyH_ZvT3vcioykVeOooifwvViM8RiuTu0gSt2t-XgOefyYKyM5_zbsI5WFNubkIT0hOUr4inPIQMvXs6GDTLa6j7XWL3etRJYvOcDLJxa3IDXv-KtuCma5JsG/s1600/ssh.jpg",
+      "publishedAt": "2026-11-06T15:21:00Z",
+      "content": "Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian.\r\nThe vulnerability… [+3289 chars]"
     },
     {
       "source": {
@@ -142,67 +259,41 @@
     {
       "source": {
         "id": null,
-        "name": "Nintendo Life"
+        "name": "Android Authority"
       },
-      "author": "Ollie Reynolds",
-      "title": "Are You A Tired Parent? The Witcher 3's New Accessibility Mode Was Built With You In Mind - Nintendo Life",
-      "description": "For anyone busy adulting",
-      "url": "https://www.nintendolife.com/news/2026/11/are-you-a-tired-parent-the-witcher-3s-new-accessibility-mode-was-built-with-you-in-mind",
-      "urlToImage": "https://images.nintendolife.com/50d3c65946e36/1280x720.jpg",
-      "publishedAt": "2026-11-06T14:15:00Z",
-      "content": "Image: Nintendo Life\r\nCD Projekt Red's director of player experience, Karolina Niewgowska, has taken to the company's official forum to explain the approach behind a new accessibility preset for The … [+2431 chars]"
+      "author": null,
+      "title": "Google’s November Pixel update is missing, and Android 17 QPR2 may explain why - Android Authority",
+      "description": "Google's November Pixel update hasn't rolled out, but Android 17 QPR2 release candidate builds suggest an early rollout could be coming.",
+      "url": "https://www.androidauthority.com/google-pixel-android-17-qpr2-november-release-leak-3732519/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2026/09/google-pixel-11-pro-review-hero-photo-1-scaled.jpg",
+      "publishedAt": "2026-11-06T14:19:00Z",
+      "content": "<ul><li>November Pixel update hasnt arrived, breaking the first-Tuesday release pattern that Google has followed for most monthly updates this year.</li><li>Android security database entries and repo… [+2713 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "PCWorld"
+        "name": "MacRumors"
       },
-      "author": "Brad Chacos",
-      "title": "Valve escaped Windows. Now Steam is breaking free from the PC itself - PCWorld",
-      "description": "Steam Deck made Windows optional. Steam Frame takes aim at x86. Valve is building a future where your Steam library barely cares what kind of computer sits underneath it. Is that good for gamers?",
-      "url": "https://www.pcworld.com/article/3266419/valve-escaped-windows-now-steam-is-breaking-free-from-the-pc-itself.html",
-      "urlToImage": "https://www.pcworld.com/wp-content/uploads/2026/11/3266419-0-59719400-1793973662-image_3acedd.png?w=1024",
-      "publishedAt": "2026-11-06T14:02:41Z",
+      "author": "Hartley Charlton",
+      "title": "Apple Rumored to Drop the iPhone's Action Button Next Year - MacRumors",
+      "description": "Apple plans to merge the iPhone's Action button with the Camera Control starting next year, according to the leaker known as \"Instant...",
+      "url": "https://www.macrumors.com/2026/11/06/apple-rumored-to-drop-the-action-button/",
+      "urlToImage": "https://images.macrumors.com/t/8rdr2_m4H-OMWXBOQpVtZD-Zt44=/1600x/article-new/2026/09/silver-iphone-18-pro.jpg",
+      "publishedAt": "2026-11-06T14:07:47Z",
+      "content": "Apple plans to merge the iPhone's Action button with the Camera Control starting next year, according to the leaker known as \"Instant Digital.\"\r\nIn a new post on Weibo, the leaker claimed that a sing… [+2912 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PhoneArena"
+      },
+      "author": "PhoneArena",
+      "title": "Weekly deals roundup: Pixel 11 Pro, Galaxy S26 Ultra, Galaxy Z Fold 8, and more holiday promos - PhoneArena",
+      "description": null,
+      "url": "https://www.phonearena.com/news/best-deals-of-the-week-pixel-11-pro-galaxy-s26-ultra-z-fold-more-early-holiday-offers_id184613",
+      "urlToImage": null,
+      "publishedAt": "2026-11-06T14:03:48Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Push Square"
-      },
-      "author": "Sammy Barker",
-      "title": "These 8+ PS5 Games Will Be Delisted in November and December 2026 - Push Square",
-      "description": "Going offline",
-      "url": "https://www.pushsquare.com/news/2026/11/these-8plus-ps5-games-will-be-delisted-in-november-and-december-2026",
-      "urlToImage": "https://images.pushsquare.com/27ed3754d272a/1280x720.jpg",
-      "publishedAt": "2026-11-06T13:30:00Z",
-      "content": "Image: Push Square\r\nThe end of the year is always a prime time for PS5 game delistings and server closures, but fortunately were being spared a large list this year.\r\nThere are about eight titles wit… [+1541 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Push Square"
-      },
-      "author": "Stephen Tailby",
-      "title": "Sony's Killing This Ratchet & Clank Game Before It Even Comes Out - Push Square",
-      "description": "No more Ranger Rumble",
-      "url": "https://www.pushsquare.com/news/2026/11/sonys-killing-this-ratchet-and-clank-game-before-it-even-comes-out",
-      "urlToImage": "https://images.pushsquare.com/7ae9053263de6/1280x720.jpg",
-      "publishedAt": "2026-11-06T13:00:00Z",
-      "content": "Image: Push Square\r\nOne of PlayStation's mobile games is shutting up shop, and it's doing so before it's managed to launch globally.\r\nYou may recall Ratchet &amp; Clank: Ranger Rumble, a mobile multi… [+1942 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Kirk McKeand",
-      "title": "'I Don't Really See How You Could Protect Against That' — Rockstar Will Be Keen to Release GTA 6 on PC Sooner Rather Than Later Because of AI Clones, Former Dev Says - IGN",
-      "description": "Rockstar may officially release GTA 6 on PC soon after console over concern about AI-generated clones, one former developer has said.",
-      "url": "https://www.ign.com/articles/former-rockstar-dev-claims-gta-6-online-will-launch-soon",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/11/06/vintage-vice-city-pack-exclusive-looks-05-1793969517630.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "publishedAt": "2026-11-06T12:57:07Z",
-      "content": "Rockstar may officially release GTA 6 on PC soon after console over concern about AI-generated clones, one former developer has said.\r\nIn an interview with IGN sister site RPS\r\n, former Rockstar Nort… [+4169 chars]"
     },
     {
       "source": {
@@ -232,6 +323,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Connor Makar",
+      "title": "Former Rockstar Games tech director thinks GTA 6 could be coming to PC sooner than you'd expect to curb AI clones - Eurogamer.net",
+      "description": "Obbe Vermeij believes that the possibility of Grand Theft Auto 6 being vibecoded onto the PC will push Rockstar Games to port sooner than you'd think.",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-pc-sooner-than-you-expect-curb-ai-clone",
+      "urlToImage": "https://assetsio.gnwcdn.com/ai-gta.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2026-11-06T12:02:40Z",
+      "content": "Former Rockstar Games North technical director Obbe Vermeij believes that the possibility of AI vibe coded ports of Grand Theft Auto 6 could push Rockstar to create an official PC version sooner than… [+1809 chars]"
+    },
+    {
+      "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
@@ -258,6 +362,19 @@
     },
     {
       "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Kirk McKeand",
+      "title": "Pilot Spends 8 Hours in the Air to Draw Incredible GTA 6 Mural With His Flight Path - IGN",
+      "description": "Benjamin McDaniel, who calls himself The Pilot Picasso, just unveiled his new masterpiece: a GTA 6 mural drawn by flying his plane. Using flight path visualization systems, you can watch his entire journey and see the artwork come to life.",
+      "url": "https://www.ign.com/articles/pilot-draws-incredible-gta-6-mural-with-flight-path",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/11/06/gta6-sky-art-1793959942190.png?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2026-11-06T10:21:20Z",
+      "content": "Benjamin McDaniel, who calls himself The Pilot Picasso, just unveiled his new masterpiece: a GTA 6\r\n mural drawn by flying his plane. Using flight path visualization systems, you can watch his entire… [+1994 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "Cybernews.com"
       },
@@ -271,6 +388,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Video Games Chronicle"
+      },
+      "author": "Andy Robinson",
+      "title": "Zelda: Ocarina of Time Switch 2: All Gold Skulltula locations and which have moved - Video Games Chronicle",
+      "description": "How to find every Gold Skulltula in Zelda: Ocarina of Time remake, rewards, and more",
+      "url": "https://www.videogameschronicle.com/guide/zelda-ocarina-of-time-switch-2-all-gold-skulltula-locations-and-which-have-moved/",
+      "urlToImage": "https://www.videogameschronicle.com/files/2026/11/IMG_7982-e1793970293203.jpg",
+      "publishedAt": "2026-11-06T10:03:39Z",
+      "content": "Gold Skulltulas return in the Nintendo Switch 2 remake of The Legend of Zelda: Ocarina of Time – and this guide will help you find all of them, even the ones that have been moved.\r\nLike in the origin… [+2284 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -281,6 +411,32 @@
       "urlToImage": null,
       "publishedAt": "2026-11-06T10:00:58Z",
       "content": "Videos on social media often save key details for the end. One content creator, who goes by Heyitsyoon, skips the filler so viewers don’t have to wait."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Ed Bott",
+      "title": "I tried local AI on HP’s Omnibook Ultra – it’s a private, powerful beast with zero token fees - ZDNET",
+      "description": "I ran a free, open-weights AI model locally on HP’s $7,000 OmniBook Ultra and turned 20 years of my articles into a searchable archive in a day.",
+      "url": "https://www.zdnet.com/tech/hp-omnibook-ultra-nvidia-rtx-spark-laptop-review/",
+      "urlToImage": "https://www.zdnet.com/wp-content/uploads/sites/3/Image_19F2B4C6-FC08-4BD0-94A5-AAE6C3A21789.jpeg",
+      "publishedAt": "2026-11-06T09:30:14Z",
+      "content": "<ul><li>PCs built on the Nvidia RTX Spark architecture are superb at AI tasks.</li><li>Running a local open-weights model has no per-token charges or usage limits.</li><li>The biggest advantage of ru… [+7286 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HYPEBEAST"
+      },
+      "author": "Hypebeast Newsroom",
+      "title": "Electronic Arts Launches 25 Classic PC Games on Steam for the First Time - Hypebeast",
+      "description": "Including titles like 'Wing Commander' and 'Road Rash.'",
+      "url": "https://hypebeast.com/2026/11/ea-releases-25-classic-pc-games-on-steam#article",
+      "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F06%2Ftwea-releases-25-classic-pc-games-on-steam.jpg?w=1080&cbr=1&q=90&fit=max",
+      "publishedAt": "2026-11-06T08:45:55Z",
+      "content": "Electronic Arts dropped 25 classic PC titles on Steam, GOG and the EA App\r\nThe massive release features seven fully restored Anniversary Editions for Road Rash and Wing Commander\r\nThe preservation ef… [+2613 chars]"
     },
     {
       "source": {
@@ -323,6 +479,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Marcus Mendes",
+      "title": "Apple explains how to turn off the new MacBook Pro’s glowing logo - 9to5Mac",
+      "description": "Apple knows that not everyone will want to keep it on. Here’s the company’s official guide to turning it off.",
+      "url": "https://9to5mac.com/2026/11/05/apple-explains-how-to-turn-off-the-new-macbook-pros-glowing-logo/",
+      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/macbook-pro-proled-xdr-touch-07.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-11-06T01:48:00Z",
+      "content": "While the illuminated Apple logo on the new MacBook Pro drew one of the biggest cheers during last weeks announcement, Apple knows that not everyone will want to keep it on. Heres the companys offici… [+2305 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -333,6 +502,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/05/multimedia/05biz-jensen-congress-gwjh/05biz-jensen-congress-gwjh-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-06T01:10:46Z",
       "content": "The New York Times reported last week that Mr. Huang had a close relationship with an executive that U.S. officials determined was funneling information to Chinese intelligence."
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Takashi Mochizuki",
+      "title": "Nintendo Profit Drops After Memory Crunch and Lack of Big Debuts - Bloomberg.com",
+      "description": "Nintendo Co. reported a surprise quarterly profit decline, hurt by a dearth of major new game releases and rising Switch 2 component costs.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-05/nintendo-profit-drops-after-memory-crunch-and-lack-of-big-debuts",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3p.b1Wx7URs/v0/1200x800.jpg",
+      "publishedAt": "2026-11-06T00:33:00Z",
+      "content": "Nintendo Co. reported a surprise quarterly profit decline, hurt by a dearth of major new game releases and rising Switch 2 component costs.\r\nThe Kyoto-based company said operating profit during its s… [+250 chars]"
     },
     {
       "source": {
@@ -350,32 +532,6 @@
     {
       "source": {
         "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Juli Clover",
-      "title": "Apple Surveys iPhone Duo Buyers About Crease and Camera - MacRumors",
-      "description": "Apple is sending email surveys to some iPhone Duo buyers to get feedback on display size, crease, under-display camera, and other features.   The...",
-      "url": "https://www.macrumors.com/2026/11/05/apple-iphone-duo-survey/",
-      "urlToImage": "https://images.macrumors.com/t/moB5pnioz9ULPrWGK9M7DZdy-9Y=/1600x/article-new/2026/10/hero_medium_2x-feature1.jpg",
-      "publishedAt": "2026-11-06T00:22:00Z",
-      "content": "Apple is sending email surveys to some iPhone Duo buyers to get feedback on display size, crease, under-display camera, and other features.\r\nThe first question asks why the buyer chose the ‌iPhone Du… [+1081 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Cdm.link"
-      },
-      "author": "Peter Kirn",
-      "title": "Mods for everyone: inMusic is opening up MPC, more new gear to coders - CDM Create Digital Music",
-      "description": "You may have seen Akai tease an \"open-source\" MPC keyboard running vibe-coded mods. But there's more coming—a lot more. inMusic, parent of Moog, Akai, Numark, Alesis, Denon, and others, promises that many of its 22 product launches coming in January will be o…",
-      "url": "https://cdm.link/inmusic-opens-up-for-namm/",
-      "urlToImage": "https://cdm.link/app/uploads/2026/11/new-mpc-hardware.png",
-      "publishedAt": "2026-11-06T00:18:46Z",
-      "content": "You may have seen Akai tease an “open-source” MPC keyboard running vibe-coded mods. But there’s more cominga lot more. inMusic, parent of Moog, Akai, Numark, Alesis, Denon, and others, promises that … [+7558 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Techpowerup.com"
       },
       "author": null,
@@ -385,32 +541,6 @@
       "urlToImage": "https://www.techpowerup.com/img/FZr9vA8SJkZdK5YD.jpg",
       "publishedAt": "2026-11-05T23:16:23Z",
       "content": "This should only take a few seconds. If you have issues, please do contact us, we want to learn about any problems.\r\nDrag the handle to the target\r\nNeed help? Contact Us. Please mention your IP: 216.… [+10 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Juli Clover",
-      "title": "Apple's First Touchscreen Mac is Now Arriving to Customers - MacRumors",
-      "description": "It's Friday, November 6 in Australia and New Zealand, which means customers who preordered a PROLED touchscreen MacBook Pro, OLED iPad mini, M6...",
-      "url": "https://www.macrumors.com/2026/11/05/touchscreen-mac-now-arriving-to-customers/",
-      "urlToImage": "https://images.macrumors.com/t/XM5h7IRnM8GreuKQNQzYWM9F_xE=/2500x/article-new/2026/11/Apples-First-Touchscreen-Mac-is-Now-Arriving-to-Customers-Feature.jpg",
-      "publishedAt": "2026-11-05T23:12:31Z",
-      "content": "It's Friday, November 6 in Australia and New Zealand, which means customers who preordered a PROLED touchscreen MacBook Pro, OLEDiPad mini, M6 ‌MacBook Pro‌, or M6 iMac are now starting to receive th… [+1932 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Dan Goodin",
-      "title": "Vulnerability allows attackers to log into some Linux devices sans password - Ars Technica",
-      "description": "Certain configurations of Alpine are affected. Other distros may be as well.",
-      "url": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/getty-hacking-1152x648.jpg",
-      "publishedAt": "2026-11-05T23:09:36Z",
-      "content": null
     },
     {
       "source": {
@@ -427,19 +557,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Lifehacker.com"
-      },
-      "author": "Daniel Oropeza",
-      "title": "What to Expect From Best Buy's Black Friday and Cyber Monday Sales This Year - Lifehacker",
-      "description": "Best Buy has sales going all the way to Christmas.",
-      "url": "https://lifehacker.com/tech/best-buy-sale-black-friday-2026",
-      "urlToImage": "https://lifehacker.com/imagery/articles/01M6PVBT1AQZCDFJKV7T68456D/hero-image.fill.size_1200x675.png",
-      "publishedAt": "2026-11-05T22:31:19Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -450,19 +567,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/05/business/05biz-addiction-lawsuit/05biz-addiction-lawsuit-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-05T22:10:24Z",
       "content": "Separate lawsuits were filed by Google, Meta and TikTok, which have been battling a flood of claims that their services are addictive."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Authority"
-      },
-      "author": null,
-      "title": "Samsung One UI 9.5 brings notable changes to Health and Calendar - Android Authority",
-      "description": "Samsung's One UI 9.5 brings a redesigned Calendar app and a new journaling feature to Samsung Health.",
-      "url": "https://www.androidauthority.com/samsung-one-ui-9-5-calendar-health-app-changes-3732266/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2026/03/Samsung-Galaxy-S26-Ultra-showing-One-UI-home-screen.jpg",
-      "publishedAt": "2026-11-05T22:09:00Z",
-      "content": "<ul><li>Early One UI 9.5 test builds reveal upcoming changes to Samsung Calendar and Samsung Health.</li><li>Samsung Calendar is getting a cleaner, grid-free interface, a relocated search button, and… [+2841 chars]"
     },
     {
       "source": {
@@ -493,6 +597,19 @@
     {
       "source": {
         "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Joe Rossignol",
+      "title": "Apple's New HomeView Smart Home Hub: Here's How Much RAM It Has - MacRumors",
+      "description": "MacRumors has confirmed that the A18 chip in Apple's new HomeView smart home hub is paired with 8GB of RAM. This is not very surprising given the...",
+      "url": "https://www.macrumors.com/2026/11/05/apple-homeview-how-much-ram/",
+      "urlToImage": "https://images.macrumors.com/t/hDGkYUBX7leA4HwBu6c7d-XhWog=/2071x/article-new/2026/10/homeview_home_screen_feature-1.jpg",
+      "publishedAt": "2026-11-05T21:47:42Z",
+      "content": "MacRumors has confirmed that the A18 chip in Apple's new HomeView smart home hub is paired with 8GB of RAM. This is not very surprising given the A18 chip also has 8GB of RAM in all iPhone 16 models … [+118 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "9to5google.com"
       },
       "author": "Abner Li",
@@ -502,19 +619,6 @@
       "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/find-hub-bluetooth.jpg?quality=82&strip=all&resize=1200,628",
       "publishedAt": "2026-11-05T21:30:00Z",
       "content": "As previewed in October, Google has added Notify when left behind alerts for Find Hub tags and trackers on Android.\r\nTo enable, open the Find Hub app and choose a tag. In the top-right corner of the … [+1129 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Ethan Gach",
-      "title": "Rockstar Dumps Nearly 40 Spectacular New GTA 6 Screenshots Ahead Of Launch - Kotaku",
-      "description": "The wait is almost over",
-      "url": "https://kotaku.com/rockstar-dumps-nearly-40-spectacular-new-gta-6-screenshots-ahead-of-launch-2000754266",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/11/Jason_and_Lucia_17.jpg",
-      "publishedAt": "2026-11-05T21:15:19Z",
-      "content": "If over 30 minutes of gameplay footage and trailers weren’t enough, Rockstar Games has now dumped a load of new Grand Theft Auto 6 screenshots ahead of the game’s November 19 launch. The latest batch… [+179 chars]"
     },
     {
       "source": {
@@ -544,19 +648,6 @@
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Meta says US users can now video chat with their Muse AI avatar - TechCrunch",
-      "description": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
-      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
-      "publishedAt": "2026-11-05T19:48:28Z",
-      "content": "Muse Voice, a feature that lets users call and video chat with Meta’s consumer AI agent, Muse, is now available to everyone in the U.S., the company announced on Thursday.\r\nFirst introduced at Meta’s… [+2073 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -583,55 +674,29 @@
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": null,
+        "name": "Android Authority"
       },
-      "author": "Jay Peters",
-      "title": "EA is bringing 25 classic PC games to Steam - The Verge",
-      "description": "EA is bringing 25 classic games to Steam, including “Anniversary Editions” of the motorcycle racer Road Rash and six Wing Commander titles.",
-      "url": "https://www.theverge.com/games/1023553/ea-classic-pc-games-steam-anniversary-edition",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/RoadRash_Screenshot_12.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2026-11-05T18:30:00Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThanks to the discovery of a physical media vault, EA was able to restore Road Rash and six Wing Commander titles for new Anniversary editions.\r\nThanks to the di… [+3249 chars]"
+      "author": null,
+      "title": "Samsung Android XR smart glasses pre-orders get started on November 12 - Android Authority",
+      "description": "The smart glasses collaboration, featuring frames from Warby Parker and Gentle Monster, is about to start taking pre-orders.",
+      "url": "https://www.androidauthority.com/samsung-smart-glasses-pre-orders-3732159/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2026/10/samsung-warby-parker-hand-scaled.jpg",
+      "publishedAt": "2026-11-05T17:43:00Z",
+      "content": "<ul><li>Samsung Android XR smart glasses are nearly here, with pre-orders now confirmed to open on November 12.</li><li>The audio-based smart glasses, developed in collaboration with Google, will fea… [+2472 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "EventHubs"
+        "name": "Nintendo Life"
       },
-      "author": "Justin AdaptiveTrigger Gordon",
-      "title": "Producer Riichiro Yamada seemingly disconfirms character for Virtua Fighter Crossroads - EventHubs",
-      "description": "Lionel Rafale was recently announced for Virtua Fighter Crossroads. It is widely believed that Lionel Rafale is the son of Lion Rafale, a character that debuted in Virtua Fighter 2, though this has yet to be confirmed officially.The confirmed ...",
-      "url": "https://www.eventhubs.com/news/2026/nov/05/character-disconfirmation-virtua-fighter-crossroads/",
-      "urlToImage": "https://media.eventhubs.com/images/2026/11/05_taka-disconfirmed-bnrt.webp",
-      "publishedAt": "2026-11-05T17:33:28Z",
-      "content": "Lionel Rafale was recently announced for Virtua Fighter Crossroads. It is widely believed that Lionel Rafale is the son of Lion Rafale, a character that debuted in Virtua Fighter 2, though this has y… [+1628 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SamMobile"
-      },
-      "author": "Abid Iqbal Shaik",
-      "title": "Samsung releases new updates for Galaxy S25 series - SamMobile",
-      "description": "Samsung has started rolling out new updates to the Galaxy S25 series. These updates bring under-the-hood improvements.",
-      "url": "https://www.sammobile.com/news/samsung-releases-new-updates-galaxy-s25-series/",
-      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2025/04/Galaxy-S25-software-update-1.jpg",
-      "publishedAt": "2026-11-05T17:24:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TheStreet"
-      },
-      "author": "TheStreet",
-      "title": "Apple’s new $299 device comes with a warning for buyers - TheStreet",
-      "description": null,
-      "url": "https://www.thestreet.com/investing/apple-homeview-new-299-smart-home-device-may-cost-extra-add-ons-subscriptions",
-      "urlToImage": null,
-      "publishedAt": "2026-11-05T17:13:00Z",
-      "content": null
+      "author": "Ollie Reynolds",
+      "title": "We Have So Many Questions About This Stellar Blade Launch Trailer - Nintendo Life",
+      "description": "\"Take EVE everywhere\"",
+      "url": "https://www.nintendolife.com/news/2026/11/we-have-so-many-questions-about-this-stellar-blade-launch-trailer",
+      "urlToImage": "https://images.nintendolife.com/b48473f3a67e3/1280x720.jpg",
+      "publishedAt": "2026-11-05T17:30:00Z",
+      "content": "Shift Up has launched a new live-action launch trailer for Stellar Blade: Complete Edition on Switch 2, and it's... well, we have so many questions.\r\nTo be fair, the message is clear: take EVE wherev… [+853 chars]"
     },
     {
       "source": {
@@ -649,19 +714,6 @@
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Zack Zwiezen",
-      "title": "Massive GTA 6 Mural Tagged By Graffiti Artist Overnight And People Aren't Happy: 'As A Graffiti Artist Myself, I Honestly Think This Is Pretty Disrespectful' - Kotaku",
-      "description": "Some have defended the artist, claiming the mural is just a big advertisement and fair game for tagging",
-      "url": "https://kotaku.com/massive-gta-6-mural-tagged-by-graffiti-artist-overnight-and-people-arent-happy-as-a-graffiti-artist-myself-i-honestly-think-this-is-pretty-disrespectful-2000754181",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/11/GTa-6-mural-1200x675.jpg",
-      "publishedAt": "2026-11-05T16:32:30Z",
-      "content": "Earlier this week, a graffiti artist tagged a large Grand Theft Auto 6 mural located in New York City. Reactions to the tag have been mostly negative, with many fans claiming the artist has ruined th… [+2513 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Xbox.com"
       },
       "author": "Kyle Ocean",
@@ -671,6 +723,19 @@
       "urlToImage": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/FY26-Social-FPD_11-05-2026_1920x1080-bb10143010bd0934cd86.jpg",
       "publishedAt": "2026-11-05T16:02:37Z",
       "content": "Skip the safe picks – play something daring with Free Play Days! PAYDAY 3, Nowhere Prophet, BALL x PIT, Deceive Inc, and Age of Wonders 4 are available this weekend for XBOX Game Pass Ultimate, Premi… [+4875 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Ben Schoon",
+      "title": "YouTube rolling out app redesign without Subscriptions tab, and everyone hates it - 9to5Google",
+      "description": "YouTube is now rolling out its app redesign on Android and iOS which removes the dedicated Subscriptions tab from the app.",
+      "url": "http://9to5google.com/2026/11/05/youtube-app-redesign-subscriptions-tab/",
+      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/youtube-app-redesign-subs.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-11-05T15:35:00Z",
+      "content": "After the change was announced last month, YouTube is now rolling out its mobile app redesign with a new navigation bar and no dedicated Subscriptions tab and initial reactions tell a pretty clear st… [+1473 chars]"
     },
     {
       "source": {
@@ -688,67 +753,15 @@
     {
       "source": {
         "id": null,
-        "name": "Techpowerup.com"
+        "name": "Videocardz.com"
       },
       "author": null,
-      "title": "Razer Unveils the Hammerhead V3 Chroma Gaming Earbuds - TechPowerUp",
-      "description": "Razer, the leading global lifestyle brand for gamers, today announced the Razer Hammerhead V3 Chroma, premium wired USB-C gaming earbuds engineered for distraction-free immersion, tactile handheld control, and signature style.\r\n\r\nDesigned for players who dema…",
-      "url": "https://www.techpowerup.com/354497/razer-unveils-the-hammerhead-v3-chroma-gaming-earbuds",
-      "urlToImage": "https://www.techpowerup.com/img/zdgR44BJaWNH2Jua.jpg",
-      "publishedAt": "2026-11-05T14:50:26Z",
-      "content": "Razer, the leading global lifestyle brand for gamers, today announced the Razer Hammerhead V3 Chroma, premium wired USB-C gaming earbuds engineered for distraction-free immersion, tactile handheld co… [+3303 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Passant Rabie",
-      "title": "An Amateur Radio Operator Told a Satellite to Play ‘Doom.’ And It Listened - Gizmodo",
-      "description": "The experiment marks the first known time a satellite has received and acted on a voice command from the ground.",
-      "url": "https://gizmodo.com/an-amateur-radio-operator-told-a-satellite-to-play-doom-and-it-listened-2000835488",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/07/satellites-around-Earth--1200x675.jpg",
-      "publishedAt": "2026-11-05T14:35:37Z",
-      "content": "Satellite operators usually send commands as digital packets over radio, but one group of amateur radio operators tried something a little more conversational: They spoke the command into a microphon… [+3474 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GamesIndustry.biz"
-      },
-      "author": "Sophie McEvoy",
-      "title": "Sensor Tower: GTA 6 pre-orders almost reach 8m, 74% bought on PlayStation 5 - GamesIndustry.biz",
-      "description": "Pre-orders for Rockstar's title have generated an estimated $751 million in gross revenue",
-      "url": "https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-almost-reach-8m-74-bought-on-playstation-5",
-      "urlToImage": "https://assetsio.gnwcdn.com/gta-6-lucia-jason_Eos2shf.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2026-11-05T14:13:50Z",
-      "content": "Grand Theft Auto 6 is two weeks away, and the highly anticipated title has nearly reached eight million pre-orders, according to recent data.\r\nSensor Tower's GTA 6 tracker reports 7.71 million pre-or… [+1443 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Chris McGraw",
-      "title": "Amazon is selling its newest 4K Fire TV Stick for nearly 60% off ahead of Black Friday (plus 10 more fab deals) - Yahoo",
-      "description": "Also on the pre-Black Friday deals deck: a cozy fleece blanket, comfy Hoka sneakers and an under-$100 luggage set built for holiday travel.",
-      "url": "https://shopping.yahoo.com/deals/article/amazon-is-selling-its-newest-4k-fire-tv-stick-for-nearly-60-off-ahead-of-black-friday-plus-10-more-fab-deals-140142903.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/40a060c8401144e20c5740fac8dc7acfba7e975956e15390bbf87a4191f639b8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fhisense-fire-tv_1577.jpg",
-      "publishedAt": "2026-11-05T14:01:42Z",
-      "content": "The clocks rolled back on Sunday and I'm still not over it. I took my dog out at 5:15 p.m. last night and needed a headlamp. A headlamp! On my own street. Along with a down-filled winter jacket to st… [+8225 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Warhammer-community.com"
-      },
-      "author": null,
-      "title": "Bring Khazalite might to armies of Order with Regiments of Renown - Warhammer Community",
-      "description": "Duardin resilience is a hot commodity in the Mortal Realms.",
-      "url": "https://www.warhammer-community.com/articles/f3ip2eww/bring-khazalite-might-to-armies-of-order-with-regiments-of-renown",
-      "urlToImage": "https://assets.warhammer-community.com/articles/0-2026/november/wc-02-11/aos_khazaliteregrenown-nov05-2-share-l9qf8mkfdv.jpg",
-      "publishedAt": "2026-11-05T13:57:16Z",
-      "content": "© Copyright Games Workshop Limited 2026. GW, Games Workshop, Citadel, White Dwarf, Space Marine, 40K, Warhammer, Warhammer 40,000, the Aquila Double-headed Eagle logo, Warhammer Age of Sigmar, Battle… [+1391 chars]"
+      "title": "NVIDIA GeForce NOW adds 24 games in November, Hogwarts Legacy gets DLSS 5 - VideoCardz.com",
+      "description": "NVIDIA is adding 24 games to GeForce NOW this November, including eight arriving this week and new Xbox storefront support. Hogwarts Legacy also receives DLSS 5.",
+      "url": "https://videocardz.com/newz/nvidia-geforce-now-adds-24-games-in-november-hogwarts-legacy-gets-dlss-5",
+      "urlToImage": "https://cdn.videocardz.com/1/2026/11/HOGWARTS-DLSS5.webp",
+      "publishedAt": "2026-11-05T13:45:42Z",
+      "content": "NVIDIA has announced 24 games joining GeForce NOW in November, including eight arriving this week. The lineup includes new releases, additional storefront support for existing games and the arrival o… [+4457 chars]"
     },
     {
       "source": {
@@ -766,15 +779,15 @@
     {
       "source": {
         "id": null,
-        "name": "9to5google.com"
+        "name": "PCMag.com"
       },
-      "author": "Ben Schoon",
-      "title": "Motorola Signature 27 gets Pixel's Gemini Intelligence features with Rambler, Create My Widget - 9to5Google",
-      "description": "Motorola is adopting Google’s Gemini Intelligence features in the first major expansion beyond Pixel, with Gboard’s Rambler and more supported....",
-      "url": "http://9to5google.com/2026/11/05/motorola-signature-27-gemini-intelligence-features/",
-      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/motorola-signature-27-lifestyle-2-copy.jpg?quality=82&strip=all&resize=1200,628",
-      "publishedAt": "2026-11-05T13:15:00Z",
-      "content": "Motorola is adopting Googles Gemini Intelligence features in the first major expansion beyond Pixel, with Gboards Rambler and more supported.\r\nWhile Googles Gemini Intelligence is technically support… [+1752 chars]"
+      "author": "Kimberly Gedeon",
+      "title": "Motorola's New Signature 27 Phone Has a 12,000-Nit Display, 200MP Zoom Camera - PCMag",
+      "description": "The Signature 27 features the first dedicated action sensor in a smartphone, Bang & Olufsen-tuned audio for the phone market, and Qualcomm’s Snapdragon 8 Elite Extreme Gen 6 chip.",
+      "url": "https://www.pcmag.com/news/motorolas-new-signature-27-phone-has-a-12000-nit-display-200mp-zoom-camera",
+      "urlToImage": "https://i.pcmag.com/imagery/articles/03WINnqrH0VWYLSro0UqBUO-2.fit_lim.size_1200x630.v1793813988.jpg",
+      "publishedAt": "2026-11-05T13:00:19Z",
+      "content": null
     },
     {
       "source": {
@@ -788,19 +801,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/YMnH2Z425bUdLYvNwfSREU-1920-80.jpg",
       "publishedAt": "2026-11-05T13:00:00Z",
       "content": "After months of anticipation, World of Warcraft: Forever, the reimagined take on the World of Warcraft's \"classic\" era, has finally gone live on PC via the Battle.net store.\r\nNormally, whenever a new… [+2223 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eurogamer.net"
-      },
-      "author": "Sherif Saed",
-      "title": "Mass Effect petition has enough signatures for the Canadian Government to potentially save BioWare - Eurogamer.net",
-      "description": "There may be some good news for Mass Effect and Dragon Age fans hoping for some sort of future for BioWare that isn't death.",
-      "url": "https://www.eurogamer.net/bioware-canada-house-of-commons-petition-save-mass-effect",
-      "urlToImage": "https://assetsio.gnwcdn.com/liara-canadaian-flag.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2026-11-05T12:48:40Z",
-      "content": "Following news of EA's decision to shut down iconic RPG studio BioWare, Canadian fans of the studio have escalated their grievances to the governmental level, calling on the Canadian Government to st… [+2054 chars]"
     },
     {
       "source": {
@@ -831,45 +831,6 @@
     {
       "source": {
         "id": null,
-        "name": "Eurogamer.net"
-      },
-      "author": "Sherif Saed",
-      "title": "Nintendo game sales surge thanks to Tomodachi Life: Living the Dream, but Switch 2 hardware suffers big decline - Eurogamer.net",
-      "description": "Nintendo has reported a solid first half for its current fiscal year, despite a significant drop in Switch 2 hardware sales.",
-      "url": "https://www.eurogamer.net/nintendo-switch-2-hardware-decline-software-boom",
-      "urlToImage": "https://assetsio.gnwcdn.com/Switch-2-tabletop-mode.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2026-11-05T11:56:40Z",
-      "content": "Nintendo's latest financial earnings report is here, revealing healthy software sales thanks to the enormously popular Tomodachi Life: Living the Dream. Sales of Switch 2 hardware, however, are down.… [+1656 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Tom Warren",
-      "title": "Discord is ditching Electron and its new app uses less RAM - The Verge",
-      "description": "Discord is moving its apps fully over to the Rust programming language.",
-      "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK062_01.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2026-11-05T11:39:42Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nDiscord is moving its apps fully over to the Rust programming language.\r\nDiscord is moving its apps fully over to the Rust programming language.\r\nby\r\nTom WarrenC… [+2255 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GoodHousekeeping.com"
-      },
-      "author": "Charley Williams-Howitt, Lynne Hyland",
-      "title": "Six easy daily habits to boost lymphatic drainage instantly for women over 50 - Good Housekeeping",
-      "description": "These six easy daily habits help to boost lymphatic drainage instantly. Experts explain what to do, and what the benefits are, especially when you are over 50",
-      "url": "https://www.goodhousekeeping.com/uk/beauty/skincare/a74341748/lymphatic-drainage/",
-      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/0060cdd8-72df-488c-b10c-1440b8f31c7a.jpg?crop=1xw:0.7498171177761521xh;center,top&resize=1200:*",
-      "publishedAt": "2026-11-05T11:37:44Z",
-      "content": "Lymphatic drainage is a huge wellness trend, with all manner of gadgets, tutorials and treatments promising to make us more energised and less puffy. The first method that springs to mind might be ma… [+7302 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Gematsu"
       },
       "author": "Sal Romano",
@@ -879,32 +840,6 @@
       "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/11/Fate-Extra-Record-PV_11-05-26.jpg",
       "publishedAt": "2026-11-05T11:30:33Z",
       "content": "Publisher Aniplex and developers Meteorise and TYPE-MOON have released a new trailer for Fate/EXTRA Record, introducing Lil’ Ronnie Faction characters Lil’ Ronnie and her Servant. \r\nHere is each char… [+638 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "80.lv"
-      },
-      "author": "Amber Rutherford",
-      "title": "NVIDIA Shows Off DLSS 5 Graphics Improvements In Hogwarts Legacy - 80 Level",
-      "description": "DLSS 5 expands beyond NBA 2K27 this November.",
-      "url": "https://80.lv/articles/nvidia-shows-off-dlss-5-graphics-improvements-in-hogwarts-legacy",
-      "urlToImage": "https://cdn.80.lv/api/upload/meta/50900/images/6aec629f6d8fd/contain_1200x630.jpg",
-      "publishedAt": "2026-11-05T11:08:22Z",
-      "content": "Currently, official DLSS 5 support is limited to NVIDIA's GeForce RTX 50 Series GPUs and RTX Spark systems.\r\nWar Thunder, the popular free-to-play military combat game, is set to receive DLSS 5 suppo… [+758 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Digital Trends"
-      },
-      "author": "Rachit Agarwal",
-      "title": "ChatGPT can now turn your images into GIFs with its latest update - Digital Trends",
-      "description": "ChatGPT’s Images 2.6 update brings GIF animation, 50% faster image generation, and better consistency, letting you turn sketches, mascots, and product shots into fun looping visuals.",
-      "url": "https://www.digitaltrends.com/computing/openai-images-2-6-adds-gif-support-and-faster-image-generation/",
-      "urlToImage": "https://i0.wp.com/cdn.dtmg.xyz/uploads/2026/11/ChatGPT-Images-2.6.jpg?resize=1200%2C630&ssl=1",
-      "publishedAt": "2026-11-05T09:01:13Z",
-      "content": null
     },
     {
       "source": {
@@ -947,19 +882,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Nintendoeverything.com"
-      },
-      "author": "Brian",
-      "title": "Rumor: Sonic Racing: CrossWorlds datamine leaks Year 2 characters - Nintendo Everything",
-      "description": "Find out which unannounced DLC characters are potentially coming to Sonic Racing: CrossWorlds Year 2 with this leak.",
-      "url": "https://nintendoeverything.com/rumor-sonic-racing-crossworlds-datamine-leaks-year-2-characters/",
-      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Sonic-Racing-CrossWorlds-datamine-Year-2-DLC-leak.jpg",
-      "publishedAt": "2026-11-05T00:07:35Z",
-      "content": "Sonic Racing: CrossWorlds may have been hit with a new leak, revealing potential characters coming to the game in Year 2.\r\nAs many of you know, SEGA released a massive 2.0.0 update last week. Unsurpr… [+1358 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -970,19 +892,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/04/multimedia/04biz-ai-bluewave-sign-jgwf/04biz-ai-bluewave-sign-jgwf-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-04T19:53:16Z",
       "content": "After two years of little A.I. oversight, voters on Tuesday rejected data center projects and swept into office Democratic candidates who promised to regulate the technology."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Zack Zwiezen",
-      "title": "PlayStation’s Massive Black Friday 2026 Sale Is Live Now And Filled With Big Deals On PS5 Games - Kotaku",
-      "description": "Silent Hill 2, God of War Ragnarok, Astro Bot, Disco Elysium, Well Dweller, and many more PS5 games are currently on sale",
-      "url": "https://kotaku.com/playstations-massive-black-friday-2026-sale-is-live-now-and-filled-with-big-deals-on-ps5-games-2000753373",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/11/PSn-sale-bfriday.jpg",
-      "publishedAt": "2026-11-04T19:30:06Z",
-      "content": "We are still weeks away from Thanksgiving and Black Friday, but that hasn’t stopped PlayStation from kicking off a big “Black Friday” sale on its digital storefront. Yes, it’s a bit absurd, but the d… [+2507 chars]"
     },
     {
       "source": {
