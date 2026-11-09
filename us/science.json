@@ -1,7 +1,33 @@
 {
   "status": "ok",
-  "totalResults": 75,
+  "totalResults": 77,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Ishani Desai",
+      "title": "How an Intern and a Biologist Rescued an Orphaned Walrus in Alaska",
+      "description": "An injured five-month-old walrus was found huddled next to carcasses in remote Alaska after it became separated from its mother. Its rescue took days and lots of patience.",
+      "url": "https://www.nytimes.com/2026/11/08/us/walrus-alaska-rescue.html",
+      "urlToImage": null,
+      "publishedAt": "2026-11-08T22:54:56Z",
+      "content": "An injured five-month-old walrus was found huddled next to carcasses in remote Alaska after it became separated from its mother. Its rescue took days and lots of patience."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Eli Saslow and Hilary Swift",
+      "title": "Top Astrophysicist Leaves U.S. After Trump Policies Affect Her Work",
+      "description": "Kelly Holley-Bockelmann was one of the top astrophysicists in the country until President Trump’s policies affected every part of her work.",
+      "url": "https://www.nytimes.com/2026/11/07/science/space/holley-bockelmann-astrophysicist-space-trump.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/09/29/multimedia/sus-astronomer-promo-pkhq/sus-astronomer-promo-pkhq-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-08T22:27:55Z",
+      "content": "Kelly Holley-Bockelmann was one of the top astrophysicists in the country until President Trump’s policies affected every part of her work."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -27,19 +53,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/07Sci-heart-drugs-01b-kqzj/07Sci-heart-drugs-01b-kqzj-mediumSquareAt3X-v2.jpg",
       "publishedAt": "2026-11-08T14:14:55Z",
       "content": "By every measure, the drugs were no better than placebos, full data revealed on Saturday. Was it the fault of the design of the studies, or our very hypotheses about heart disease?"
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Eli Saslow and Hilary Swift",
-      "title": "Top Astrophysicist Leaves U.S. After Trump Policies Affect Her Work",
-      "description": "Kelly Holley-Bockelmann was one of the top astrophysicists in the country until President Trump’s policies affected every part of her work.",
-      "url": "https://www.nytimes.com/2026/11/07/science/space/holley-bockelmann-astrophysicist-space-trump.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/09/29/multimedia/sus-astronomer-promo-pkhq/sus-astronomer-promo-pkhq-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-08T11:49:36Z",
-      "content": "Kelly Holley-Bockelmann was one of the top astrophysicists in the country until President Trump’s policies affected every part of her work."
     },
     {
       "source": {
@@ -85,19 +98,6 @@
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Ishani Desai",
-      "title": "How an Intern and a Biologist Rescued an Orphaned Walrus in Alaska",
-      "description": "An injured five-month-old walrus huddled next to carcasses in remote Alaska after it became separated from its mother. Humans came to its rescue.",
-      "url": "https://www.nytimes.com/2026/11/08/us/walrus-alaska-rescue.html",
-      "urlToImage": null,
-      "publishedAt": "2026-11-08T10:00:45Z",
-      "content": "An injured five-month-old walrus huddled next to carcasses in remote Alaska after it became separated from its mother. Humans came to its rescue."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "Kenneth Chang",
       "title": "NASA Is Selecting Future Astronauts. Here’s How to Apply.",
       "description": "The space agency is recruiting its next class of space travelers for missions to low-Earth orbit and the moon. Applications are due Dec. 3.",
@@ -105,6 +105,58 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/07/multimedia/07sci-nasa-astronauts-topart-lzfc/07sci-nasa-astronauts-topart-lzfc-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-08T02:17:03Z",
       "content": "The space agency is recruiting its next class of space travelers for missions to low-Earth orbit and the moon. Applications are due Dec. 3."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Carly Cassella",
+      "title": "Humans Are Still Evolving Right Before Our Eyes. Here Are 5 Signs on Our Bodies - ScienceAlert",
+      "description": "Our species' evolution is often symbolized as a four-legged chimpanzee slowly morphing into an upright hunter.",
+      "url": "https://www.sciencealert.com/humans-are-still-evolving-right-before-our-eyes-here-are-5-signs-on-our-bodies",
+      "urlToImage": "https://www.sciencealert.com/images/2026/11/GettyImages-641893758-2560x1440-1.jpg",
+      "publishedAt": "2026-11-08T00:01:54Z",
+      "content": "Our species' evolution is often symbolized as a four-legged chimpanzee slowly morphing into an upright hunter.\r\nBut that's not where our story ends.\r\nToday, evidence suggests that humans are still ev… [+6556 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Michelle Starr",
+      "title": "A Mysterious Asteroid Is Accelerating in Space, And We're Running Out of Explanations - ScienceAlert",
+      "description": "Most asteroids are pretty predictable.",
+      "url": "https://www.sciencealert.com/a-mysterious-asteroid-is-accelerating-in-space-and-were-running-out-of-explanations",
+      "urlToImage": "https://www.sciencealert.com/images/2026/11/space-potat-1200x675.png",
+      "publishedAt": "2026-11-07T21:04:12Z",
+      "content": "Most asteroids are pretty predictable.\r\nThey just do what they're told, pushed and tugged by external forces such as gravity or radiation pressure from the Sun.\r\nNot 1998 KY26.\r\nKY26 is hooning about… [+4370 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Marcia Dunn",
+      "title": "Want to fly to the moon? NASA is looking for new astronauts to help grow its Artemis program - AP News",
+      "description": "Want to fly to the moon and help build a permanent lunar base? NASA is accepting applications for a new astronaut class that will help grow the Artemis program. Officials announced the news Saturday during an air show and tech expo at Florida's Kennedy Space …",
+      "url": "https://apnews.com/article/nasa-astronauts-moon-space-789a68a0425551b9870b17911eaa042e",
+      "urlToImage": "https://dims.apnews.com/dims4/default/97e66ff/2147483647/strip/true/crop/7433x4955+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F77%2F9d%2F09e852b0896ec9acbedc6411bc6a%2F218414dc4c3445ceb0e0a11002f4f649",
+      "publishedAt": "2026-11-07T18:00:00Z",
+      "content": "CAPE CANAVERAL, Fla. (AP) Want to fly to the moon and help build a permanent lunar base? NASA is accepting applications for a new astronaut class that will help grow the Artemis program.\r\nOfficials a… [+2515 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Grunge.com"
+      },
+      "author": "Nicholas Vrchoticky",
+      "title": "The Rock 'N' Roll Song That's Been Traveling Through Space Since 1977 - Grunge",
+      "description": "In 1977, NASA launched two space probes meant to leave our solar system and head into space — and a legendary rock 'n' roll song was along for the ride.",
+      "url": "https://www.grunge.com/2305986/rock-n-roll-song-traveling-through-space-since-1977/",
+      "urlToImage": "https://www.grunge.com/img/gallery/the-rock-n-roll-song-thats-been-traveling-through-space-since-1977/l-intro-1793735662.jpg",
+      "publishedAt": "2026-11-07T17:07:00Z",
+      "content": "In 1977, NASA launched twin Voyager 1 and 2 space probes meant to leave our solar system and head into interstellar space. On board were identical gold-plated phonograph records, simply known as the … [+1146 chars]"
     },
     {
       "source": {
@@ -148,6 +200,19 @@
     {
       "source": {
         "id": null,
+        "name": "Eatthis.com"
+      },
+      "author": "Alexa Mellardo",
+      "title": "4 Kitchen-Counter Exercises That Strengthen Your Core Faster Than Pilates After 70 - Eat This Not That",
+      "description": "Kitchen counter core exercises after 70, from a NASM-certified trainer. Four standing moves that need no floor work or equipment.",
+      "url": "https://www.eatthis.com/kitchen-counter-core-exercises-after-70/",
+      "urlToImage": "https://www.eatthis.com/wp-content/uploads/sites/4/2026/11/fit-mature-woman-washing-dishes_1648495819.jpg?quality=82&strip=all",
+      "publishedAt": "2026-11-07T14:17:43Z",
+      "content": "Start building core strength at home with just your body weight and a kitchen counter.\r\nTurning 70 brings on many changes to your body. That’s why it’s important to tweak your routine to keep you phy… [+3859 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Phys.Org"
       },
       "author": null,
@@ -157,6 +222,32 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/theory-predicting-an-o-2.jpg",
       "publishedAt": "2026-11-07T14:00:02Z",
       "content": "An alternative model in which the universe is 26.7 billion years old and needs neither dark matter nor dark energy has held up against several major cosmology tests, according to a new University of … [+4580 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "404media.co"
+      },
+      "author": "Becky Ferreira",
+      "title": "How Earth Lost a Billion Years of Its History - 404 Media",
+      "description": "Earth is missing a huge chunk of its geological record before the Cambrian period 538 million years ago, when complex life emerged. A new study suggests that the gap was caused by the rise and fall of ancient supercontinents.",
+      "url": "https://www.404media.co/how-earth-lost-a-billion-years-of-its-history/",
+      "urlToImage": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/11/data-src-image-2158cee5-7359-4931-bfd9-e34d4615ba4e-1.jpeg",
+      "publishedAt": "2026-11-07T13:03:38Z",
+      "content": "Welcome back to the Abstract! Here are the studies this week that drew a blank, felt the squeeze, played the queen, and made donkey-bull love.\r\nFirst, scientists shed new light on how Earth ended up … [+8050 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Futurism"
+      },
+      "author": "Victor Tangermann",
+      "title": "Orbiter Detects Signs of Activity on Mars - Futurism",
+      "description": "Researchers suggest gas is being released from hot magma deep beneath Mars' surface after discovering intriguing new fissures.",
+      "url": "https://futurism.com/space/orbiter-detects-signs-volcanic-activity-mars",
+      "urlToImage": "https://futurism.com/wp-content/uploads/2026/11/orbiter-detects-signs-volcanic-activity-mars.jpg?quality=85&w=1200",
+      "publishedAt": "2026-11-07T12:50:00Z",
+      "content": "Can’t-miss innovations from the bleeding edge of science and tech\r\nWhile many scientists have long held that Mars is “geologically dead” inside, new research is adding to the growing body of evidence… [+2487 chars]"
     },
     {
       "source": {
@@ -213,6 +304,19 @@
     {
       "source": {
         "id": null,
+        "name": "Boredpanda.com"
+      },
+      "author": "Justinas Keturka",
+      "title": "68 Incredible Photos That Could Take A Lifetime To Get Again - Bored Panda",
+      "description": "There is a lot of skill to taking a good photo, just having professional equipment isn’t enough, no matter how hard a rich amateur might try. But there is also some degree of being in the right place at the right time, moments where just a few seconds differe…",
+      "url": "https://www.boredpanda.com/rare-once-in-lifetime-pics/",
+      "urlToImage": "https://static.boredpanda.com/blog/wp-content/uploads/2026/11/rare-once-in-lifetime-pics-fb.jpg",
+      "publishedAt": "2026-11-07T08:01:32Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Discoverwildlife.com"
       },
       "author": "Sheena Harvey",
@@ -235,6 +339,19 @@
       "urlToImage": null,
       "publishedAt": "2026-11-07T02:25:00Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Aspen Times"
+      },
+      "author": "Ryan Spencer",
+      "title": "Colorado’s night skies to feature ‘can’t miss celestial event,’ multiple meteor showers and a supermoon in November - AspenTimes.com",
+      "description": "With the end of daylight saving time, dusk comes sooner in November — and the nights will only grow longer as the height of winter approaches. But for Colorado astronomy guide Mark Laurin, the early darkness is welcome, because it means that stargazing can on…",
+      "url": "https://www.aspentimes.com/news/colorado-night-skies-meteor-shower-supermoon-november",
+      "urlToImage": "https://swiftmedia.s3.amazonaws.com/mountain.swiftcom.com/images/sites/5/2026/11/04153225/IMG_61553-1024x682.jpg",
+      "publishedAt": "2026-11-06T23:30:00Z",
+      "content": "With the end of daylight saving time, dusk comes sooner in November and the nights will only grow longer as the height of winter approaches.\r\nBut for Colorado astronomy guide Mark Laurin, the early d… [+5482 chars]"
     },
     {
       "source": {
@@ -313,19 +430,6 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2026/11/hera-asteroid-target-1200x675.jpg",
       "publishedAt": "2026-11-06T20:45:46Z",
       "content": "Two years ago, Europe sent a spacecraft on a mission to investigate the aftermath of a human-instigated cosmic collision. Now, Hera is closing in on its destination, and it just sent back the first c… [+2742 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Jacek Krywko",
-      "title": "Earth's churning mantle may have created the Great Unconformity - Ars Technica",
-      "description": "Explaining the Great Unconformity, where Cambrian deposits sit on top of older rocks.",
-      "url": "https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1498933988-1152x648.jpg",
-      "publishedAt": "2026-11-06T20:24:20Z",
-      "content": null
     },
     {
       "source": {
@@ -434,19 +538,6 @@
     {
       "source": {
         "id": null,
-        "name": "WESH Orlando"
-      },
-      "author": "Dacia Johnson",
-      "title": "MAX POWER aerospace expo, airshow coming to Space Coast, NASA says - WESH",
-      "description": "MAX POWER aerospace expo and airshow featuring Air Force Thunderbirds is happening this weekend.",
-      "url": "https://www.wesh.com/article/max-power-aerospace-airshow-kennedy-space-center-florida/74359377",
-      "urlToImage": "https://kubrick.htvapps.com/vidthumb/26e40469-8bc3-4940-8b00-8650c99fb3bd/564fb18c-addb-477f-990d-47ad70e615fe.jpg?crop=0.726xw%3A0.725xh%3B0.0326xw%2C0.116xh&resize=1200%3A*",
-      "publishedAt": "2026-11-06T16:34:00Z",
-      "content": "NASA's air and space innovation expo and show is happening this weekend along the Space Coast. \r\nThe event is in honor of Americas historic 250th anniversary, NASA said. \r\nThe family-friendly event w… [+2276 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Phys.Org"
       },
       "author": null,
@@ -473,15 +564,15 @@
     {
       "source": {
         "id": null,
-        "name": "Eatthis.com"
+        "name": "Geekspin.co"
       },
-      "author": "Adam Meyer",
-      "title": "4 Standing Exercises That Restore Calf Strength Faster Than Treadmills After 65 - Eat This Not That",
-      "description": "Trainer James Bickerstaff shares four standing exercises for calf strength after 65, plus why walking alone may fall short.",
-      "url": "https://www.eatthis.com/calf-strength-exercises-over-sixty-five-no-treadmills/",
-      "urlToImage": "https://www.eatthis.com/wp-content/uploads/sites/4/2026/11/fit-senior-woman-listening-to-music_627156599.jpg?quality=82&strip=all",
-      "publishedAt": "2026-11-06T14:31:53Z",
-      "content": "Got weak calves? Try these trainer-approved moves that target calf strength after 65.\r\nAsk most people how to strengthen their legs and they’ll point to the treadmill. It’s an understandable assumpti… [+5012 chars]"
+      "author": "Stefan Milovanovic",
+      "title": "China detects rare radio signal from distant star system - Yahoo",
+      "description": "A radio signal from a star 238 light-years away briefly looked like it might be a sign of alien life, but the astronomers who found it say it’s more likely c...",
+      "url": "https://geekspin.co/china-detects-rare-radio-signal-from-distant-star-system/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/5d9b884f3580ba3979466c83235b9192757f5ec5139eda64b71ccc1f0bfa06a5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgeekspin_390%2F90a3f80f2339b45106cd9b2436891456.jpg",
+      "publishedAt": "2026-11-06T13:00:18Z",
+      "content": "A radio signal from a star 238 light-years away briefly looked like it might be a sign of alien life, but the astronomers who found it say it's more likely coming from somewhere on Earth.\r\nThe signal… [+2596 chars]"
     },
     {
       "source": {
@@ -534,19 +625,6 @@
       "urlToImage": null,
       "publishedAt": "2026-11-06T10:02:06Z",
       "content": "A longstanding hypothesis held that some problems would always be hard for computers to solve quickly. But OpenAI disproved it — raising the possibility of radical new efficiencies."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "Don't miss: Meteor showers, fireballs, and a supermoon light up November's night sky - Science Daily",
-      "description": "November&apos;s night sky is packed with celestial wonders, from bright meteor fireballs and a close pairing of Mars and Jupiter to a spectacular supermoon. Meanwhile, NASA&apos;s Voyager 1 is making history by becoming the first spacecraft to reach a distanc…",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261105224547.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/fireball-meteor-shower-at-sunset.webp",
-      "publishedAt": "2026-11-06T08:21:43Z",
-      "content": "November 2026 is packed with celestial events worth watching, from brilliant meteors streaking across the sky to a striking encounter between Mars and Jupiter. NASA's Voyager 1 spacecraft is also app… [+7014 chars]"
     },
     {
       "source": {
@@ -719,19 +797,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "European orbiter detects fresh hints of volcanic activity on Mars - Phys.org",
-      "description": "New evidence from gas seeping above volcanic rifts suggests Mars is not geologically dead deep inside, but merely sleeping. Fresh fissures along the Alba Mons region hint at active spots under the surface, where gases from inside the planet may be making thei…",
-      "url": "https://phys.org/news/2026-11-european-orbiter-fresh-hints-volcanic.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/european-orbiter-detec-5.jpg",
-      "publishedAt": "2026-11-05T00:40:07Z",
-      "content": "New evidence from gas seeping above volcanic rifts suggests Mars is not geologically dead deep inside, but merely sleeping. Fresh fissures along the Alba Mons region hint at active spots under the su… [+5807 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -742,19 +807,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/07/obituaries/04whipple_top-print1/04whipple_top-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-04T23:03:06Z",
       "content": "Dr. Whipple studied the female erogenous zone and, with collaborators, wrote a best seller about women’s sexuality. She was 85."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "David Nield",
-      "title": "Scientists Crushed Water Between Two Diamonds And Saw Something Never Observed in a Lab Before. - ScienceAlert",
-      "description": "Water is crucial for life to flourish, which is why it's something scientists search for first on other planets – but can we really be sure what water looks like in alien environments? In a new study published in Communications Chemistry, researchers in the U…",
-      "url": "https://www.sciencealert.com/water-does-something-unexpected-under-the-crushing-pressures-of-alien-worlds",
-      "urlToImage": "https://www.sciencealert.com/images/2026/11/WaterMolecules-1200x675.jpg",
-      "publishedAt": "2026-11-04T23:02:38Z",
-      "content": "Water is crucial for life to flourish, which is why it's something scientists search for first on other planets but can we really be sure what water looks like in alien environments?\r\nIn a new study … [+3921 chars]"
     },
     {
       "source": {
@@ -836,19 +888,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Michelle Starr",
-      "title": "Moths Keep Evolving Their Genitals Into Anti-Bat Weapons, Again And Again - ScienceAlert",
-      "description": "Some evolutionary innovations are so useful that nature keeps on making them.",
-      "url": "https://www.sciencealert.com/moths-have-repeatedly-evolved-a-bizarre-way-to-scream-at-bats-using-their-genitals",
-      "urlToImage": "https://www.sciencealert.com/images/2026/11/hawkmoth-1200x675.png",
-      "publishedAt": "2026-11-04T00:02:36Z",
-      "content": "Some evolutionary innovations are so useful that nature keeps on making them.\r\nThere's the crab; everyone knows nature keeps making crabs. There's the ability to fly, whether by feathers, membranes, … [+6629 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -915,19 +954,6 @@
     {
       "source": {
         "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Ivan Farkas",
-      "title": "Just 3 Lines of Math Rule Out Time Travel in Many Possible Universes, Physicist Says - Yahoo",
-      "description": "\"You now know exactly what you must break.\"",
-      "url": "https://www.sciencealert.com/just-3-lines-of-math-rule-out-time-travel-in-many-possible-universes-physicist-says",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/d6ad60ee0958fc9aebcecb57d1ceaab5cb3a1b9e3dc790aa9a4c80e01d320fba/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsciencealert_160%2F46f70c0b4c0dc8917032843365634955.png",
-      "publishedAt": "2026-11-03T01:00:00Z",
-      "content": "Time travel is a dream shared by pretty much all of us.\r\nBut the dearth of visitors from the future and the dismal turnout at the famed time traveler party is alarming for hopefuls.\r\nStill, hypotheti… [+5206 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Phys.Org"
       },
       "author": null,
@@ -953,6 +979,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Newser"
+      },
+      "author": "Arden Dier",
+      "title": "Scientists Upend Theory on Origin of Life on Earth - Newser",
+      "description": "New simulations show comet impacts likely destroyed crucial prebiotic molecules",
+      "url": "https://www.newser.com/story/399150/scientists-upend-theory-on-origin-of-life-on-earth.html",
+      "urlToImage": "https://cdn.newser.com/image/1721677-12-20261107160000.jpeg",
+      "publishedAt": "2026-11-02T14:04:00Z",
+      "content": "Focusing on hydrogen cyanide (HCN), a common prebiotic molecule on comets, the team calculated that conditions would have to be almost impossibly precise—right speed, right angle, right aftermath—for… [+432 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -963,19 +1002,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/29/science/00SCI-UNKNOWNS-ANIMALS-promo/00SCI-UNKNOWNS-ANIMALS-legs-mediumSquareAt3X-v2.jpg",
       "publishedAt": "2026-11-02T10:00:21Z",
       "content": "There are more than 1.5 million known zoological species on Earth, with at least as many enigmas. Here are our top 10."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Houston Public Media"
-      },
-      "author": "Michael Adkison",
-      "title": "They spent more than a year inside a NASA hangar in Houston simulating life on Mars. Now, they’re finally out - Houston Public Media",
-      "description": "The four crew members of NASA’s CHAPEA mission had spent 378 days inside a 1,700 square foot facility, living and working in Mars-like conditions. Their families welcomed them back to Earth on Saturday.",
-      "url": "https://www.houstonpublicmedia.org/articles/news/nasa/2026/10/31/565803/they-spent-more-than-a-year-inside-a-nasa-hangar-in-houston-simulating-life-on-mars-now-theyre-finally-out/",
-      "urlToImage": "https://cdn.houstonpublicmedia.org/wp-content/uploads/2026/10/31190249/IMG_5788-1500x1000.jpg",
-      "publishedAt": "2026-11-01T00:19:29Z",
-      "content": "Ross Elder and the CHAPEA crew take their first steps outside the Johnson Space Center in more than a year on Oct. 31, 2026.\r\nAfter spending 378 days inside a 1,700-square-foot facility living and wo… [+5994 chars]"
     }
   ]
 }
