@@ -6,9 +6,204 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-09T08:44:28.199358+00:00",
-  "articles_count": 54,
+  "fetched_at": "2026-11-09T20:12:27.922916+00:00",
+  "articles_count": 53,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Niraj Chokshi",
+      "title": "Boeing Will Cut 5% of Commercial Plane Employees",
+      "description": "The company said it needed fewer workers because production was increasing more slowly than previously expected.",
+      "url": "https://www.nytimes.com/2026/11/09/business/boeing-layoff-737-max.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/09/multimedia/09biz-boeing-layoffs-jlzb/09biz-boeing-layoffs-jlzb-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-09T20:00:31Z",
+      "content": "The company said it needed fewer workers because production was increasing more slowly than previously expected."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Ben Casselman, Tony Romm and Colby Smith",
+      "title": "Could the Voter Backlash Against A.I. Actually Help the Economy?",
+      "description": "Voter backlash could threaten the data center boom. Some economists think that could be a good thing.",
+      "url": "https://www.nytimes.com/2026/11/09/business/economy/ai-bubble-democrats-midterms-economy.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/09/multimedia/00biz-ai-econ-01-lwvk/00biz-ai-econ-01-lwvk-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-09T19:28:16Z",
+      "content": "Voter backlash could threaten the data center boom. Some economists think that could be a good thing."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Ana Swanson and Devlin Barrett",
+      "title": "U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Intervention",
+      "description": "An investigation into Megaspeed, a Singapore company that was buying advanced Nvidia A.I. chips, was transferred to the Justice Department after a top Nvidia executive reached out to Commerce Department officials.",
+      "url": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/09/multimedia/09dc-commerce-megaspeed-qmlg/09dc-commerce-megaspeed-qmlg-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-09T18:38:40Z",
+      "content": "An investigation into Megaspeed, a Singapore company that was buying advanced Nvidia A.I. chips, was transferred to the Justice Department after a top Nvidia executive reached out to Commerce Department officials."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Adam Satariano",
+      "title": "China Rejects Espionage Claims Involving Nvidia C.E.O. Jensen Huang",
+      "description": "The controversy has intensified scrutiny of Mr. Huang’s ties to Beijing and sparked mixed reactions across Asia, where he is widely popular.",
+      "url": "https://www.nytimes.com/2026/11/09/business/jensen-huang-china-spying.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/08/multimedia/08biz-jensen-bqpz/08biz-jensen-bqpz-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-09T18:38:04Z",
+      "content": "The controversy has intensified scrutiny of Mr. Huang’s ties to Beijing and sparked mixed reactions across Asia, where he is widely popular."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Noam Scheiber and Lauren Hirsch",
+      "title": "$2 Billion Wasn’t Enough to Save Weil Gotshal",
+      "description": "Among the reasons that the 95-year-old law firm fell apart was a failure to adapt to the eat-or-be-eaten ethos of Big Law.",
+      "url": "https://www.nytimes.com/2026/11/09/business/weil-gotshal-law-firm-collapse.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/06/business/00Weil-profits-illo/00Weil-profits-illo-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-09T17:35:50Z",
+      "content": "Among the reasons that the 95-year-old law firm fell apart was a failure to adapt to the eat-or-be-eaten ethos of Big Law."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Rebecca F. Elliott and Lisa Friedman",
+      "title": "Oil Prices Fall on Hopes for Peace Between U.S. and Iran",
+      "description": "The global benchmark price is now down roughly $20 a barrel since late October, when it traded for around $113.",
+      "url": "https://www.nytimes.com/2026/11/09/business/energy-environment/oil-price-iran-trump-war.html",
+      "urlToImage": null,
+      "publishedAt": "2026-11-09T17:02:37Z",
+      "content": "The global benchmark price is now down roughly $20 a barrel since late October, when it traded for around $113."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Joe Rennison and Jason Karaian",
+      "title": "Nvidia’s Stock Price Drops After Investigation Into CEO Jensen Huang",
+      "description": "The chipmaker’s size and significance to the A.I. trade means that Jensen Huang’s admission of a relationship with a businesswoman suspected of spying for China could reverberate across Wall Street.",
+      "url": "https://www.nytimes.com/2026/11/09/business/nvidia-stock-price-jensen-huang-ceo.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/09/multimedia/nvidia-stock-promo-bgjq/nvidia-stock-promo-bgjq-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-09T16:24:05Z",
+      "content": "The chipmaker’s size and significance to the A.I. trade means that Jensen Huang’s admission of a relationship with a businesswoman suspected of spying for China could reverberate across Wall Street."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Ivan Penn",
+      "title": "Giant Merger of NextEra and Dominion Could Fail Amid Anger Over Electricity Bills",
+      "description": "State leaders and residents in Virginia have opposed NextEra’s acquisition of Dominion Energy, fearing that it will accelerate rate increases.",
+      "url": "https://www.nytimes.com/2026/11/09/business/energy-environment/nextera-dominon-energy-virginia.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/06/multimedia/06biz-nextera-dominion-01-vpbk/06biz-nextera-dominion-01-vpbk-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-09T15:18:30Z",
+      "content": "State leaders and residents in Virginia have opposed NextEra’s acquisition of Dominion Energy, fearing that it will accelerate rate increases."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Mark Miller",
+      "title": "Medicare Advantage vs. Traditional Medicare, Explained",
+      "description": "When you sign up for the retiree health plan, the two options can present a financial puzzle. But cost is just one factor.",
+      "url": "https://www.nytimes.com/2026/11/08/business/original-medicare-advantage.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/08/business/08retiring-illo-sub/08retiring-illo-sub-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-09T15:01:25Z",
+      "content": "When you sign up for the retiree health plan, the two options can present a financial puzzle. But cost is just one factor."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Adam B. Ellick and Laurence Blair",
+      "title": "A Country’s President Led to a Bank’s Stunning Rise, and Its Fall",
+      "description": "Prosecutors accused President Santiago Peña of Paraguay of funneling nearly a billion dollars of government funds to the Ueno bank as its executives made reckless insider loans.",
+      "url": "https://www.nytimes.com/2026/11/09/world/americas/paraguay-bank-president-ueno.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-paraguay-zjft/08int-paraguay-zjft-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-09T14:43:11Z",
+      "content": "Prosecutors accused President Santiago Peña of Paraguay of funneling nearly a billion dollars of government funds to the Ueno bank as its executives made reckless insider loans."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Sri Muppidi",
+      "title": "How Indispensable Is Jensen Huang?",
+      "description": "The fate of Nvidia’s chief executive, who was romantically involved with a suspected Chinese spy, has wide implications for Silicon Valley, Washington and beyond.",
+      "url": "https://www.nytimes.com/2026/11/09/business/dealbook/nvidia-huang-spy.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/09/multimedia/09db-huang-pwkv/09db-huang-pwkv-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-09T13:33:07Z",
+      "content": "The fate of Nvidia’s chief executive, who was romantically involved with a suspected Chinese spy, has wide implications for Silicon Valley, Washington and beyond."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Max Read",
+      "title": "Can My Company Force Me to Reveal My Personal Email Address?",
+      "description": "Plus: Ways to leave your mentee and new-parent strife.",
+      "url": "https://www.nytimes.com/2026/11/08/business/personal-email-employer-privacy.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/08/multimedia/08bizsun-workfriend-jvkw/08bizsun-workfriend-jvkw-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-09T13:10:54Z",
+      "content": "Plus: Ways to leave your mentee and new-parent strife."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Natasha Singer and Dana Goldstein",
+      "title": "Senator Tells Google to Let Schools Disable A.I. Features in Search",
+      "description": "The request came from Senator Edward J. Markey of Massachusetts, after Google said it would not turn off artificial intelligence tools for students using its search engine.",
+      "url": "https://www.nytimes.com/2026/11/09/business/google-ai-school-features.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/07/23/multimedia/09biz-google-schools1/09biz-google-schools1-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-09T10:04:01Z",
+      "content": "The request came from Senator Edward J. Markey of Massachusetts, after Google said it would not turn off artificial intelligence tools for students using its search engine."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Sapna Maheshwari",
+      "title": "A.I.-Generated Celebrity Ads Get an Assist From Terry Crews",
+      "description": "The Ogilvy ad agency and the CAA talent agency introduced a partnership to create promotions featuring digital replicas of celebrities.",
+      "url": "https://www.nytimes.com/2026/11/09/business/media/ogilvy-caa-ai-ads.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/09/business/09biz-ai-celebrities/09biz-ai-celebrities-mediumSquareAt3X-v2.jpg",
+      "publishedAt": "2026-11-09T10:02:38Z",
+      "content": "The Ogilvy ad agency and the CAA talent agency introduced a partnership to create promotions featuring digital replicas of celebrities."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Kim Bhasin",
+      "title": "Shoppers to Use Black Friday Sales to Stock Up on Essentials",
+      "description": "Shoppers strained by high costs of living are expected to put a priority on value this season, whether they’re buying gifts or everyday items for themselves.",
+      "url": "https://www.nytimes.com/2026/11/09/business/holiday-shopping-deals-essentials.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/09/multimedia/09biz-holiday-shopping-bzqg/09biz-holiday-shopping-bzqg-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-09T10:02:30Z",
+      "content": "Shoppers strained by high costs of living are expected to put a priority on value this season, whether they’re buying gifts or everyday items for themselves."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -34,19 +229,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/08/multimedia/08xp-ai1-tmjk/08xp-ai1-tmjk-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-08T23:34:09Z",
       "content": "A federal indictment alleges that three men used generative A.I. to impersonate voices of chief executives and lawyers to defraud companies of millions of dollars."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Mark Miller",
-      "title": "Medicare Advantage vs. Traditional Medicare, Explained",
-      "description": "When you sign up for the retiree health plan, the two options can present a financial puzzle. But cost is just one factor.",
-      "url": "https://www.nytimes.com/2026/11/08/business/original-medicare-advantage.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/08/business/08retiring-illo-sub/08retiring-illo-sub-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-08T22:42:45Z",
-      "content": "When you sign up for the retiree health plan, the two options can present a financial puzzle. But cost is just one factor."
     },
     {
       "source": {
@@ -99,19 +281,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/07Sci-heart-drugs-01b-kqzj/07Sci-heart-drugs-01b-kqzj-mediumSquareAt3X-v2.jpg",
       "publishedAt": "2026-11-08T14:14:55Z",
       "content": "By every measure, the drugs were no better than placebos, full data revealed on Saturday. Was it the fault of the design of the studies, or our very hypotheses about heart disease?"
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Max Read",
-      "title": "Can My Company Force Me to Reveal My Personal Email?",
-      "description": "Plus: Ways to leave your mentee and new-parent strife.",
-      "url": "https://www.nytimes.com/2026/11/08/business/personal-email-employer-privacy.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/08/multimedia/08bizsun-workfriend-jvkw/08bizsun-workfriend-jvkw-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-08T10:01:43Z",
-      "content": "Plus: Ways to leave your mentee and new-parent strife."
     },
     {
       "source": {
@@ -274,19 +443,6 @@
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Ryan Mac, Kalley Huang, Cade Metz and Georgia Gee",
-      "title": "What Shaped Anthropic CEO Dario Amodei’s Thinking on A.I.",
-      "description": "Some call him a doomer. Others see him as a responsible technologist. Here’s how Dario Amodei’s thinking on artificial intelligence was shaped.",
-      "url": "https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/29/business/00biz-amodei-profile/00biz-amodei-profile-mediumSquareAt3X.png",
-      "publishedAt": "2026-11-06T17:09:36Z",
-      "content": "Some call him a doomer. Others see him as a responsible technologist. Here’s how Dario Amodei’s thinking on artificial intelligence was shaped."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "Sydney Ember",
       "title": "Here’s the latest.",
       "description": null,
@@ -318,7 +474,7 @@
       "description": "Financial tech firms promote home equity contracts as a source of money without monthly payments. But skeptics see “a loan masquerading as obligation-free cash.”",
       "url": "https://www.nytimes.com/2026/11/06/your-money/home-equity-investment.html",
       "urlToImage": null,
-      "publishedAt": "2026-11-06T14:00:06Z",
+      "publishedAt": "2026-11-06T14:00:07Z",
       "content": "Financial tech firms promote home equity contracts as a source of money without monthly payments. But skeptics see “a loan masquerading as obligation-free cash.”"
     },
     {
@@ -404,19 +560,6 @@
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Ephrat Livni, Johnatan Reiss and Aaron Boxerman",
-      "title": "Israel’s Election Ended With No Clear Winner. These Parties Are Trying to Form a Coalition.",
-      "description": "President Isaac Herzog wrapped up two days of talks with party leaders by saying he will ask one of them on Sunday to try to assemble a governing coalition.",
-      "url": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-herzog-prime-minister-meetings.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-israel-party-vote-photo-hjzq/05int-israel-party-vote-photo-hjzq-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-05T23:18:21Z",
-      "content": "President Isaac Herzog wrapped up two days of talks with party leaders by saying he will ask one of them on Sunday to try to assemble a governing coalition."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "Benjamin Mullin and Lauren Hirsch",
       "title": "New York Times Company in Advanced Talks to Acquire Letterboxd",
       "description": "The roughly $330 million deal for the cinephile community site would be part of an effort to add new products and services to the company’s portfolio.",
@@ -443,19 +586,6 @@
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Amisha Padnani and Michael S. Rosenwald",
-      "title": "In the Style of P.C. Vey: The Funniest Reader Cartoons We Received",
-      "description": "More than 200 people answered our call for cartoons in the spirit of P.C. Vey. Here are some of the best ones.",
-      "url": "https://www.nytimes.com/2026/11/05/business/media/pc-vey-new-yorker-cartoons.html",
-      "urlToImage": null,
-      "publishedAt": "2026-11-05T22:21:47Z",
-      "content": "More than 200 people answered our call for cartoons in the spirit of P.C. Vey. Here are some of the best ones."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "Jonathan Kandell",
       "title": "Klaus-Michael Kühne Has Died. His Company Played a Dark Role in Nazi Germany.",
       "description": "As Klaus-Michael Kühne’s business became a global force in container shipping, he resisted demands to document its wartime activities. He was 89.",
@@ -463,19 +593,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/05/obituaries/05kuhne_bw/05kuhne_bw-mediumSquareAt3X.png",
       "publishedAt": "2026-11-05T21:16:14Z",
       "content": "As Klaus-Michael Kühne’s business became a global force in container shipping, he resisted demands to document its wartime activities. He was 89."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Margot Sanger-Katz and Sarah Kliff",
-      "title": "Trump Administration Moves to Oust Arbitrators as Doctor Payouts Soar",
-      "description": "The two companies settled billing disputes between doctors and insurers, keeping patients out of the middle. One let doctors win 96 percent of the time.",
-      "url": "https://www.nytimes.com/2026/11/04/health/arbitrators-medical-bills.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/04/multimedia/04dc-arbitators-jwgf/04dc-arbitators-jwgf-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-05T20:34:26Z",
-      "content": "The two companies settled billing disputes between doctors and insurers, keeping patients out of the middle. One let doctors win 96 percent of the time."
     },
     {
       "source": {
@@ -508,32 +625,6 @@
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "River Akira Davis",
-      "title": "High Gas Prices Boost Sales of Hybrids for Toyota, Sending Its Stock Soaring",
-      "description": "Toyota is cashing in on a U.S. hybrid boom as electric-vehicle demand slows, but shifting political tides in Washington could jeopardize its edge.",
-      "url": "https://www.nytimes.com/2026/11/05/business/toyota-profits-hybrids.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/05/multimedia/05biz-toyota-tvgh/05biz-toyota-tvgh-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-05T16:57:33Z",
-      "content": "Toyota is cashing in on a U.S. hybrid boom as electric-vehicle demand slows, but shifting political tides in Washington could jeopardize its edge."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Eshe Nelson",
-      "title": "Bank of England Raises Rates for First Time in Three Years",
-      "description": "The central bank increased interest rates for the first time in more than three years and warned that inflation would climb to about 5 percent next year, far above its target.",
-      "url": "https://www.nytimes.com/2026/11/05/business/bank-of-england-interest-rates-inflation.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/05/multimedia/05Boe-Rates-Sub-bgkv/05Boe-Rates-Sub-bgkv-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-05T16:53:44Z",
-      "content": "The central bank increased interest rates for the first time in more than three years and warned that inflation would climb to about 5 percent next year, far above its target."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "Saif Hasnat",
       "title": "Bangladesh Agrees to Raise Minimum Wage for Garment Workers After Protests",
       "description": "Hundreds of garment factories were shut down this week as workers in the country, the world’s second-largest exporter of clothing, demonstrated for higher pay.",
@@ -541,110 +632,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/05/multimedia/05vid-bangladesh-cover-jtbq/05vid-bangladesh-cover-jtbq-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-05T16:35:52Z",
       "content": "Hundreds of garment factories were shut down this week as workers in the country, the world’s second-largest exporter of clothing, demonstrated for higher pay."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe, Sri Muppidi and Ian Mount",
-      "title": "The Texas-size Political Tremor Rattling Big Business",
-      "description": "The Lone Star State’s business-friendly playbook could be rewritten by the Democrats’ election sweep there.",
-      "url": "https://www.nytimes.com/2026/11/05/business/dealbook/texas-blue-wave-business-fallout.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/05/multimedia/05db-hinojosa-jvpm/05db-hinojosa-jvpm-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-05T12:41:27Z",
-      "content": "The Lone Star State’s business-friendly playbook could be rewritten by the Democrats’ election sweep there."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Adam Satariano",
-      "title": "China Blocks SoftBank’s $5.4 Billion Robotics Takeover, Impeding Foreign Deals",
-      "description": "Chinese authorities stopped the sale of ABB Robotics, owned by a Swiss conglomerate, to SoftBank of Japan amid wider scrutiny of global transactions that could affect Beijing’s technology ambitions.",
-      "url": "https://www.nytimes.com/2026/11/05/business/softbank-robotics-china-block.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/05/business/05biz-china-softbank-abb/05biz-china-softbank-abb-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-05T11:23:03Z",
-      "content": "Chinese authorities stopped the sale of ABB Robotics, owned by a Swiss conglomerate, to SoftBank of Japan amid wider scrutiny of global transactions that could affect Beijing’s technology ambitions."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Tony Romm",
-      "title": "In Victory, Democrats See Economic Mandate to Cut Costs and Curtail Trump",
-      "description": "Some Democrats quickly signaled they could try to roll back the president’s tax and trade policies, ignoring his early veto threats.",
-      "url": "https://www.nytimes.com/2026/11/05/us/politics/midterms-democrats-trump-taxes-tariffs.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/05/multimedia/05dc-trump-econ-01-qtbk/05dc-trump-econ-01-qtbk-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-05T10:04:56Z",
-      "content": "Some Democrats quickly signaled they could try to roll back the president’s tax and trade policies, ignoring his early veto threats."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "David Gelles",
-      "title": "How Trump’s Energy Policies Helped Trigger Midterm Rout",
-      "description": "The war in Iran, efforts to promote fossil fuels and attacks on renewable energy contributed to higher prices for gas and electricity that drove voter discontent.",
-      "url": "https://www.nytimes.com/2026/11/04/climate/trump-fossil-fuel-energy-policy-election.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/04/multimedia/04cli-energy-midterms-wmvb/04cli-energy-midterms-wmvb-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-05T00:31:07Z",
-      "content": "The war in Iran, efforts to promote fossil fuels and attacks on renewable energy contributed to higher prices for gas and electricity that drove voter discontent."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Tony Romm",
-      "title": "White House Delays Hearing on Fed Governor",
-      "description": "The administration pushed back a hearing for Lisa D. Cook, the Federal Reserve governor that President Trump has tried to fire, after her lawyers raised scheduling issues.",
-      "url": "https://www.nytimes.com/2026/11/04/business/trump-lisa-cook-fed-governor.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/04/multimedia/04dc-trump-cook-bqcz/04dc-trump-cook-bqcz-mediumSquareAt3X-v2.jpg",
-      "publishedAt": "2026-11-04T22:55:30Z",
-      "content": "The administration pushed back a hearing for Lisa D. Cook, the Federal Reserve governor that President Trump has tried to fire, after her lawyers raised scheduling issues."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Matthew Goldstein",
-      "title": "Trump Media’s Shares Fall to Record Low After Midterms",
-      "description": "Trump Media & Technology Group’s stock plunged 24 percent a day after Democrats made huge gains in the midterm elections.",
-      "url": "https://www.nytimes.com/2026/11/04/business/trump-media-truth-social-midterm-elections.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/04/multimedia/04biz-trump-media-02-gkwh/04biz-trump-media-02-gkwh-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-04T22:37:45Z",
-      "content": "Trump Media & Technology Group’s stock plunged 24 percent a day after Democrats made huge gains in the midterm elections."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Victor Mather",
-      "title": "A Lawsuit Says the McRib Is Lacking Something You Might Expect It to Have",
-      "description": "A judge in Chicago ruled that the class-action lawsuit could proceed.",
-      "url": "https://www.nytimes.com/2026/11/04/business/mcdonalds-mcrib-lawsuit.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/04/multimedia/04xp-mcrib-cwpj/04xp-mcrib-cwpj-mediumSquareAt3X-v2.jpg",
-      "publishedAt": "2026-11-04T21:24:09Z",
-      "content": "A judge in Chicago ruled that the class-action lawsuit could proceed."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Ana Swanson",
-      "title": "America’s Trade Deficit Remained Elevated in September",
-      "description": "The gap between U.S. exports and imports, which remained at a relatively high level in September, has defied efforts by President Trump to decrease it with tariffs.",
-      "url": "https://www.nytimes.com/2026/11/04/business/us-trade-deficit-september.html",
-      "urlToImage": null,
-      "publishedAt": "2026-11-04T14:42:20Z",
-      "content": "The gap between U.S. exports and imports, which remained at a relatively high level in September, has defied efforts by President Trump to decrease it with tariffs."
     },
     {
       "source": {
