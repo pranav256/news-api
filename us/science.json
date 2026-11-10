@@ -1,7 +1,33 @@
 {
   "status": "ok",
-  "totalResults": 78,
+  "totalResults": 81,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Brad Plumer",
+      "title": "What Is Congress’s Plan to Speed Up Energy Permits?",
+      "description": "The sprawling bill, which has divided Democrats, would overhaul major environmental laws to streamline the permitting process.",
+      "url": "https://www.nytimes.com/2026/11/09/climate/congress-energy-permitting-reform-vote.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/09/climate/09cli-permitting-bill/09cli-permitting-bill-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-10T01:30:26Z",
+      "content": "The sprawling bill, which has divided Democrats, would overhaul major environmental laws to streamline the permitting process."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Brad Plumer",
+      "title": "Iran War Unexpectedly Drove Down Carbon Emissions This Year",
+      "description": "It’s the first drop in planet-warming pollution since the pandemic in 2020. But researchers cautioned that the decline could be short-lived.",
+      "url": "https://www.nytimes.com/2026/11/09/climate/global-emissions-iran-war.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/09/multimedia/09cli-global-emissions-01-jlbf/09cli-global-emissions-01-jlbf-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-10T01:01:05Z",
+      "content": "It’s the first drop in planet-warming pollution since the pandemic in 2020. But researchers cautioned that the decline could be short-lived."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -27,19 +53,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/09/29/multimedia/sus-astronomer-promo-pkhq/sus-astronomer-promo-pkhq-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-09T18:22:02Z",
       "content": "Kelly Holley-Bockelmann was one of the top astrophysicists in the country until President Trump’s policies affected every part of her work."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Brad Plumer",
-      "title": "What Is Congress’s Plan to Speed Up Energy Permits?",
-      "description": "The sprawling bill, which has divided Democrats, would overhaul major environmental laws to streamline the permitting process.",
-      "url": "https://www.nytimes.com/2026/11/09/climate/congress-energy-permitting-reform-vote.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/09/climate/09cli-permitting-bill/09cli-permitting-bill-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-09T17:14:23Z",
-      "content": "The sprawling bill, which has divided Democrats, would overhaul major environmental laws to streamline the permitting process."
     },
     {
       "source": {
@@ -82,16 +95,42 @@
     },
     {
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
+        "id": null,
+        "name": "ScienceAlert"
       },
-      "author": "Taz Ali",
-      "title": "NASA opens recruitment for its next generation of astronauts - The Washington Post",
-      "description": "The space agency is inviting applications from U.S. citizens with a master's degree in a relevant STEM subject.",
-      "url": "https://www.washingtonpost.com/nation/2026/11/08/nasa-opens-recruitment-its-next-generation-astronauts/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https%3A%2F%2Farc-anglerfish-washpost-prod-washpost.s3.amazonaws.com%2Fpublic%2FA6QYQBXEPVAPUW5Q4ZFK3DKVHQ_size-normalized.jpg&w=1200",
-      "publishedAt": "2026-11-08T19:24:58Z",
-      "content": "Democrats on Sunday spoke out against the elevation of Stephen Miller to White House chief of staff, saying it comes after Americans showed at the ballot box that they wanted a shift away from the Tr… [+1778 chars]"
+      "author": "David Nield",
+      "title": "Finally! Physicists Create an Exotic Quantum State of Matter That Works at Room Temperature - ScienceAlert",
+      "description": "The laws of physics at the quantum level can break free from the standard confines of solids, liquids, and gases, and researchers just observed an exotic quantum state of matter – a particular way of particles organizing and behaving themselves.",
+      "url": "https://www.sciencealert.com/finally-physicists-create-an-exotic-quantum-state-of-matter-that-works-at-room-temperature",
+      "urlToImage": "https://www.sciencealert.com/images/2026/11/QuantumEffect.jpg",
+      "publishedAt": "2026-11-08T16:04:18Z",
+      "content": "The laws of physics at the quantum level can break free from the standard confines of solids, liquids, and gases, and researchers just observed an exotic quantum state of matter a particular way of p… [+4374 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Skyatnightmagazine.com"
+      },
+      "author": "Jamie Middleton, Chris Lintott",
+      "title": "Scientists have found strange objects in deep space unlike anything seen before. And they could help solve a huge mystery in space science - BBC Sky at Night Magazine",
+      "description": "Astronomers have identified a new class of mysterious hypersoft X-ray source that behave unlike anything catalogued before.",
+      "url": "https://www.skyatnightmagazine.com/news/mysterious-hypersoft-x-ray-sources",
+      "urlToImage": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/7a2eb36d-a08f-4d4c-9aa4-20d0629cbed4/thumbnails/1dfc5001-4e61-435a-bfdc-4d09e1d2c942.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&platform=WEB&w=1200",
+      "publishedAt": "2026-11-08T15:40:00Z",
+      "content": "Astronomers combing through archival data from NASAs Chandra X-ray Observatory have identified a new class of cosmic objects that behave unlike anything catalogued before and which could help resolve… [+3257 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "Sam Jarman",
+      "title": "'Stupendously large' primordial black holes ruled out as a dark matter source - Phys.org",
+      "description": "Primordial black holes are hypothetical objects that could have formed directly from dense clumps of matter in the very early universe. If they exist, their dramatic origins would set them apart from the black holes we see today, which form when massive stars…",
+      "url": "https://phys.org/news/2026-11-stupendously-large-primordial-black-holes.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/stupendously-large-pri.jpg",
+      "publishedAt": "2026-11-08T14:40:01Z",
+      "content": "Primordial black holes are hypothetical objects that could have formed directly from dense clumps of matter in the very early universe. If they exist, their dramatic origins would set them apart from… [+4326 chars]"
     },
     {
       "source": {
@@ -103,7 +142,7 @@
       "description": "By every measure, the drugs were no better than placebos, full data revealed on Saturday. Was it the fault of the design of the studies, or our very hypotheses about heart disease?",
       "url": "https://www.nytimes.com/2026/11/07/science/heart-drugs-failed-novartis-novo-nordisk.html",
       "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/07Sci-heart-drugs-01b-kqzj/07Sci-heart-drugs-01b-kqzj-mediumSquareAt3X-v2.jpg",
-      "publishedAt": "2026-11-08T14:14:55Z",
+      "publishedAt": "2026-11-08T14:14:56Z",
       "content": "By every measure, the drugs were no better than placebos, full data revealed on Saturday. Was it the fault of the design of the studies, or our very hypotheses about heart disease?"
     },
     {
@@ -135,6 +174,19 @@
     {
       "source": {
         "id": null,
+        "name": "Live Science"
+      },
+      "author": "Brandon Specktor",
+      "title": "Destroyed NASA observatory took one of the best-ever photos of the galaxy barreling toward ours - Live Science",
+      "description": "NASA's Swift Observatory went out in a blaze of glory this week, but it left behind millions of images of the universe that could fuel discoveries for decades.",
+      "url": "https://www.livescience.com/space/astronomy/nasas-destroyed-swift-observatory-took-one-of-the-best-ever-photos-of-bright-andromeda-space-photo-of-the-week",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/rXxN2F9wNHHiivkuyJWMSh-2000-80.jpg",
+      "publishedAt": "2026-11-08T11:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Newsnationnow.com"
       },
       "author": "Caroline Jaime",
@@ -144,6 +196,19 @@
       "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/01/AP26008548577300.jpg?w=1280",
       "publishedAt": "2026-11-08T10:27:49Z",
       "content": "(NewsNation)  An unknown object nearly struck the International Space Station, according to a video posted by SpaceX. NASA has not confirmed a near miss.\r\nAstrophysicist Avi Loeb, who chairs the Whit… [+824 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "A nuclear blast could save Earth from an asteroid, but there's a catch - Science Daily",
+      "description": "A nuclear explosion might save Earth from a deadly asteroid, but new research suggests that hitting the wrong side could make the difference between success and disaster. Scientists found that an asteroid&apos;s irregular shape can dramatically affect how it …",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261106174532.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/asteroid-explosion-above-earth.webp",
+      "publishedAt": "2026-11-08T10:12:58Z",
+      "content": "A nuclear explosion could potentially protect Earth from an incoming asteroid by releasing powerful X-rays that heat its surface and push it onto a safer trajectory. However, new research suggests th… [+7334 chars]"
     },
     {
       "source": {
@@ -304,6 +369,19 @@
     {
       "source": {
         "id": null,
+        "name": "SciTechDaily"
+      },
+      "author": null,
+      "title": "Deep-Sea Scientists Capture Extraordinary 4K Footage of a Fish With a See-Through Head - SciTechDaily",
+      "description": "MBARI’s first 4K footage of a barreleye fish offers a rare chance to study how its unusual eyes work in the ocean’s dim twilight zone.",
+      "url": "https://scitechdaily.com/deep-sea-scientists-capture-extraordinary-4k-footage-of-a-fish-with-a-see-through-head/",
+      "urlToImage": null,
+      "publishedAt": "2026-11-07T16:24:00Z",
+      "content": "The barreleye fish (Macropinna microstoma) lives in the oceans twilight zone, scanning the waters above for food. After spotting a potential meal, those large tubular eyes rotate under a transparent … [+5151 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Live Science"
       },
       "author": "Zunnash Khan",
@@ -313,6 +391,32 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/UZL3xtpq3rajthBGiMWw87-2000-80.jpg",
       "publishedAt": "2026-11-07T16:00:00Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "Hannah Bird",
+      "title": "Heavy rain can more than double glacier speeds in Alaska - Phys.org",
+      "description": "Glaciers are often thought of as unyielding blocks of ice that slowly carve out the landscape as they move downhill by gravity. But sometimes their slow crawl becomes a surge that sees them move orders of magnitude faster than their usual speed.",
+      "url": "https://phys.org/news/2026-11-heavy-glacier-alaska.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/heavy-rain-can-more-th.jpg",
+      "publishedAt": "2026-11-07T15:40:05Z",
+      "content": "Glaciers are often thought of as unyielding blocks of ice that slowly carve out the landscape as they move downhill by gravity. But sometimes their slow crawl becomes a surge that sees them move orde… [+5513 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nautil.us"
+      },
+      "author": "Nicolas Flament, Santosh Dhungana",
+      "title": "Earth’s Rocks Have a Missing Layer Spanning Up to a Billion Years - Nautilus | Science Connected",
+      "description": "Now we finally know where it went",
+      "url": "https://nautil.us/earths-rocks-have-a-missing-layer-spanning-up-to-a-billion-years-1286417",
+      "urlToImage": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/AdobeStock_2220127622.jpeg",
+      "publishedAt": "2026-11-07T15:02:50Z",
+      "content": "Imagine opening a history book and finding several chapters torn out. This was what geologists looking into the rock records of Earths past discovered on several continents in the 1870s.\r\nThey dubbed… [+5438 chars]"
     },
     {
       "source": {
@@ -352,19 +456,6 @@
       "urlToImage": null,
       "publishedAt": "2026-11-07T14:19:29Z",
       "content": "His observations helped establish shriveling mountain glaciers as an unmistakable consequence of human-caused warming. He was 78."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eatthis.com"
-      },
-      "author": "Alexa Mellardo",
-      "title": "4 Kitchen-Counter Exercises That Strengthen Your Core Faster Than Pilates After 70 - Eat This Not That",
-      "description": "Kitchen counter core exercises after 70, from a NASM-certified trainer. Four standing moves that need no floor work or equipment.",
-      "url": "https://www.eatthis.com/kitchen-counter-core-exercises-after-70/",
-      "urlToImage": "https://www.eatthis.com/wp-content/uploads/sites/4/2026/11/fit-mature-woman-washing-dishes_1648495819.jpg?quality=82&strip=all",
-      "publishedAt": "2026-11-07T14:17:43Z",
-      "content": "Start building core strength at home with just your body weight and a kitchen counter.\r\nTurning 70 brings on many changes to your body. That’s why it’s important to tweak your routine to keep you phy… [+3859 chars]"
     },
     {
       "source": {
@@ -447,32 +538,6 @@
     {
       "source": {
         "id": null,
-        "name": "Boredpanda.com"
-      },
-      "author": "Justinas Keturka",
-      "title": "68 Incredible Photos That Could Take A Lifetime To Get Again - Bored Panda",
-      "description": "There is a lot of skill to taking a good photo, just having professional equipment isn’t enough, no matter how hard a rich amateur might try. But there is also some degree of being in the right place at the right time, moments where just a few seconds differe…",
-      "url": "https://www.boredpanda.com/rare-once-in-lifetime-pics/",
-      "urlToImage": "https://static.boredpanda.com/blog/wp-content/uploads/2026/11/rare-once-in-lifetime-pics-fb.jpg",
-      "publishedAt": "2026-11-07T08:01:32Z",
-      "content": "Read more »I am a writer at Bored Panda. Despite being born in the US, I ended up spending most of my life in Europe, from Latvia, Austria, and Georgia to finally settling in Lithuania. At Bored Pand… [+243 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nautil.us"
-      },
-      "author": "jschollmeyer",
-      "title": "Earth's Rocks Have a Missing Layer Spanning Up to a Billion Years - Yahoo",
-      "description": "Imagine opening a history book and finding several chapters torn out. This was what geologists looking into the rock records of Earth's past discovered on se...",
-      "url": "https://nautil.us/earths-rocks-have-a-missing-layer-spanning-up-to-a-billion-years-1286417/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/3db80db3e764f07fd8ee5ab6efcca7b691e7be77be05f2893b9b38d09b6bbe2c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnautilus_articles_455%2F12413bc9b364bacbb314f6ba943b1bae.jpg",
-      "publishedAt": "2026-11-07T03:00:00Z",
-      "content": "Imagine opening a history book and finding several chapters torn out. This was what geologists looking into the rock records of Earth's past discovered on several continents in the 1870s.\r\nThey dubbe… [+5524 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "SlashGear"
       },
       "author": "Jonathan H. Kantor",
@@ -482,19 +547,6 @@
       "urlToImage": "https://www.slashgear.com/img/gallery/climate-scientists-found-a-surprise-hiding-under-a-cold-war-military-base/l-intro-1793638363.jpg",
       "publishedAt": "2026-11-07T02:45:00Z",
       "content": "Today, Greenland's ice sheet is nearly two miles thick in parts, and around three times the size of Texas. However, the sediment samples from beneath Camp Century reveal that it was a very different … [+1381 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Aspen Times"
-      },
-      "author": "Ryan Spencer",
-      "title": "Colorado’s night skies to feature ‘can’t miss celestial event,’ multiple meteor showers and a supermoon in November - AspenTimes.com",
-      "description": "With the end of daylight saving time, dusk comes sooner in November — and the nights will only grow longer as the height of winter approaches. But for Colorado astronomy guide Mark Laurin, the early darkness is welcome, because it means that stargazing can on…",
-      "url": "https://www.aspentimes.com/news/colorado-night-skies-meteor-shower-supermoon-november",
-      "urlToImage": "https://swiftmedia.s3.amazonaws.com/mountain.swiftcom.com/images/sites/5/2026/11/04153225/IMG_61553-1024x682.jpg",
-      "publishedAt": "2026-11-06T23:30:00Z",
-      "content": "With the end of daylight saving time, dusk comes sooner in November and the nights will only grow longer as the height of winter approaches.\r\nBut for Colorado astronomy guide Mark Laurin, the early d… [+5482 chars]"
     },
     {
       "source": {
@@ -537,19 +589,6 @@
     },
     {
       "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "TOI Science Desk",
-      "title": "Scientists tested the six-tonne Altar Stone at Stonehenge after earlier research pointed to north-east Sc - The Times of India",
-      "description": "It is surprising how the stonehenge, one of the most recognisable and famous prehistoric monuments, still holds its secrets.",
-      "url": "https://timesofindia.indiatimes.com/science/archaeology/altar-stone-mystery-deepens-stonehenges-origins-linked-to-scotland-remain-elusive/articleshow/135612200.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-135612324,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-11-06T21:28:00Z",
-      "content": "<ul><li>News</li>\r\n<li>Science News</li>\r\n<li>Scientists tested the six-tonne Altar Stone at Stonehenge after earlier research pointed to north-east Scotland, but a new November 5 study found no matc… [+1863 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Space.com"
       },
@@ -573,32 +612,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/06/science/06sci-politician-scientists/06sci-politician-scientists-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-06T19:50:43Z",
       "content": "Among those elected to Congress on Tuesday are a mathematician, a microbiologist and a chemical engineer. They plan to take on a White House that has threatened funding cuts to research."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "David Nield",
-      "title": "MIT Scientists Break a 20-Year Rule And Unlock Never-Before-Seen Crystal Structures - ScienceAlert",
-      "description": "One of the key methods through which scientists develop and enhance new materials is by getting more control over their structure at the smallest scales, and microscopic nanoparticles can be incredibly useful for this kind of detail.",
-      "url": "https://www.sciencealert.com/mit-scientists-break-a-20-year-rule-and-unlock-never-before-seen-crystal-structures",
-      "urlToImage": "https://www.sciencealert.com/images/2026/11/NanoparticleConnectors-1200x675.jpg",
-      "publishedAt": "2026-11-06T19:03:03Z",
-      "content": "One of the key methods through which scientists develop and enhance new materials is by getting more control over their structure at the smallest scales, and microscopic nanoparticles can be incredib… [+4360 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": "Sam Jarman",
-      "title": "Vibrating mirrors of light create analog of a black hole event horizon - Phys.org",
-      "description": "Optical cavities are pairs of light-trapping mirrors and underpin the operation of lasers, atomic clocks and many types of precision sensors. If the distance between the mirrors is changed rapidly enough, some theories predict that the waves inside them shoul…",
-      "url": "https://phys.org/news/2026-11-vibrating-mirrors-analog-black-hole.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/vibrating-mirrors-of-l.jpg",
-      "publishedAt": "2026-11-06T17:40:11Z",
-      "content": "Optical cavities are pairs of light-trapping mirrors and underpin the operation of lasers, atomic clocks and many types of precision sensors. If the distance between the mirrors is changed rapidly en… [+4356 chars]"
     },
     {
       "source": {
@@ -693,6 +706,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Universe Today"
+      },
+      "author": "David Dickinson",
+      "title": "'Big Bang' Fix Puts Voyager Across the 'One Light-Day' Mark - Universe Today",
+      "description": "Flashback to 1977. Jimmy Carter was U.S. president, Star Wars was a box office hit, and the two Voyager spacecraft departed on an historic Grand Tour of the solar system. Now, teams at NASA’s Jet Propulsion Laboratory are working to keep the missions active, …",
+      "url": "https://www.universetoday.com/articles/big-bang-fix-puts-voyager-across-the-one-light-day-mark",
+      "urlToImage": "https://www.universetoday.com/article_images/1-Voyager_2-copy.width-1320_20261106_111427.jpg",
+      "publishedAt": "2026-11-06T11:49:00Z",
+      "content": "An innovative solution helps to put the venerable Voyager 1 spacecraft past a key milestone.\r\nFlashback to 1977. Jimmy Carter was U.S. president, Star Wars was a box office hit, and the two Voyager s… [+4385 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -716,6 +742,19 @@
       "urlToImage": "https://s.yimg.com/lo/mysterio/api/f1e9a3a5b129a460466873de72e192da58696743d1211904cc59e87f3562616f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsciencealert_160%2Fae1cf1a078bcf13198f676cd1259a898.png",
       "publishedAt": "2026-11-06T03:00:00Z",
       "content": "We may be one gigantically small step closer to solving the most essential Universal questions, including what happened immediately after the Big Bang, where is dark matter hiding, and why does norma… [+5742 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sci.news"
+      },
+      "author": "Enrico de Lazaro",
+      "title": "Stonehenge’s Altar Stone Still Has No Home, Geologists Say - Sci.News",
+      "description": "A new analysis by University of South Wales Professor Duncan Pirrie and his colleagues undercuts the leading theory that the 6-ton slab of sandstone came from northeastern Scotland, though the geologists stop short of ruling it out entirely.",
+      "url": "https://www.sci.news/archaeology/stonehenges-altar-stone-15179.html",
+      "urlToImage": "https://cdn.sci.news/images/2026/11/image_15179-Stonehenge-Altar-Stone.jpg",
+      "publishedAt": "2026-11-06T01:07:43Z",
+      "content": "A new analysis by University of South Wales Professor Duncan Pirrie and his colleagues undercuts the leading theory that the 6-ton slab of sandstone came from northeastern Scotland, though the geolog… [+4428 chars]"
     },
     {
       "source": {
@@ -798,19 +837,6 @@
     {
       "source": {
         "id": null,
-        "name": "Space.com"
-      },
-      "author": "Elizabeth Howell",
-      "title": "NASA's Voyager 1 probe bounces back from communications glitch in interstellar space - Space",
-      "description": "\"This is the first time we've seen the spacecraft do something like this.\"",
-      "url": "https://www.space.com/space-exploration/voyager/nasas-voyager-1-probe-bounces-back-from-communications-glitch-in-interstellar-space",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/bUP6ipSPwRnVPNkNak7LD7-2000-80.jpg",
-      "publishedAt": "2026-11-05T15:18:15Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Live Science"
       },
       "author": "Larissa G. Capella",
@@ -833,6 +859,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/04/science/04SCI-CHIHUAHUA-DNA-01/04SCI-CHIHUAHUA-DNA-01-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-05T10:02:53Z",
       "content": "The breed is descended from indigenous canines, which may have been intentionally mixed with wild coyotes long before Europeans arrived in the Americas."
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Kyley Warren",
+      "title": "Fireballs could light up the sky tonight as the Southern Taurids peak - USA TODAY 10BEST",
+      "description": "The Southern Taurid meteor shower peaks Nov. 4-5, 2026. Find out when to watch for shooting stars and bright 'Halloween fireballs.'",
+      "url": "https://10best.usatoday.com/lifestyle/southern-taurids-meteor-shower-november-2026/",
+      "urlToImage": "https://img2.10bestmedia.com/Images/Photos/437250/71423220007-1234617956_54_990x660.jpg",
+      "publishedAt": "2026-11-05T06:09:03Z",
+      "content": "The Southern Taurids meteor shower peaks Nov. 4-5, 2026. Find out when to watch for shooting stars and bright Halloween fireballs. – Photo courtesy of Bill Ingalls/ NASA via Getty Images\r\nCould blazi… [+2928 chars]"
     },
     {
       "source": {
@@ -966,19 +1005,6 @@
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Alexander Nazaryan",
-      "title": "Investigators Looking for Cause of Learjet Crash Say Ice Was ‘Certainly a Factor’",
-      "description": "Ice, experts said, can change the shape of a plane’s wing, disrupting its aerodynamics.",
-      "url": "https://www.nytimes.com/2026/11/02/science/florida-learjet-crash-causes.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/02/multimedia/02sci-jet-crash-01-ktfm/02sci-jet-crash-01-ktfm-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-03T15:55:50Z",
-      "content": "Ice, experts said, can change the shape of a plane’s wing, disrupting its aerodynamics."
-    },
-    {
-      "source": {
         "id": null,
         "name": "Science Daily"
       },
@@ -999,7 +1025,7 @@
       "title": "Neanderthals Used Wood for Tools, Housing — and Murder?",
       "description": "In one case, 75,000-year-old bones reveal what may be the earliest identifiable victim of death by wooden spear.",
       "url": "https://www.nytimes.com/2026/11/03/science/neanderthals-wood-tools.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/03/multimedia/03SCI-NEANDERTHAL-WOOD-01-kglw/03SCI-NEANDERTHAL-WOOD-01-kglw-mediumSquareAt3X.jpg",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/03SCI-NEANDERTHAL-WOOD-01-kglw/03SCI-NEANDERTHAL-WOOD-01-kglw-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-03T10:02:47Z",
       "content": "In one case, 75,000-year-old bones reveal what may be the earliest identifiable victim of death by wooden spear."
     },
@@ -1015,6 +1041,19 @@
       "urlToImage": "https://cdn.newser.com/image/1721677-12-20261107160000.jpeg",
       "publishedAt": "2026-11-02T14:04:00Z",
       "content": "Focusing on hydrogen cyanide (HCN), a common prebiotic molecule on comets, the team calculated that conditions would have to be almost impossibly precise—right speed, right angle, right aftermath—for… [+432 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thecoolist.com"
+      },
+      "author": "TheCoolist Team",
+      "title": "Few people know what the two sides of aluminum foil are for - TheCoolist",
+      "description": "One side of aluminum foil is shiny, the other dull. Where the difference comes from, which side should touch the food, and the one product where it matters.",
+      "url": "https://www.thecoolist.com/few-people-know-what-the-two-sides-of-aluminum-foil-are-for-h2r4-m1/",
+      "urlToImage": "https://cdn.thecoolist.com/wp-content/uploads/2026/11/iStock-1370366987.jpg",
+      "publishedAt": "2026-11-02T13:04:35Z",
+      "content": "Pull a sheet of aluminum foil off the roll and you’ll see it: one side is mirror-bright, the other is matte. Some cooks swear one side should always touch the food, and the Spanish daily MARCA recent… [+2707 chars]"
     }
   ]
 }
