@@ -1,45 +1,240 @@
 {
   "status": "ok",
-  "totalResults": 50,
+  "totalResults": 56,
   "articles": [
     {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Helene Cooper",
-      "title": "Hegseth to Hold Rare News Conference as Impeachment Vote Looms",
-      "description": "The defense secretary has indicated that he will fight accusations that he violated the Constitution and federal law.",
-      "url": "https://www.nytimes.com/2026/11/10/us/politics/hegseth-news-conference-impeachment-vote.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-hegseth-pentagon-pchj/10dc-hegseth-pentagon-pchj-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-10T11:46:47Z",
-      "content": "The defense secretary has indicated that he will fight accusations that he violated the Constitution and federal law."
+      "author": "Paul Mozur, Ana Swanson, Tripp Mickle and Michael Forsythe",
+      "title": "Who Is Alice Huang, the Woman in the Middle of Nvidia’s Spy Scandal?",
+      "description": "Alice Huang, who U.S. intelligence determined is a Chinese asset, emerged from the high-flying world of Shanghai finance to work with tech titans and obtain essential A.I. chips.",
+      "url": "https://www.nytimes.com/2026/11/10/technology/alice-huang-megaspeed-nvidia-jensen-huang.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/09/business/00biz-alice-huang-nanjing/00biz-alice-huang-nanjing-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-10T18:48:52Z",
+      "content": "Alice Huang, who U.S. intelligence determined is a Chinese asset, emerged from the high-flying world of Shanghai finance to work with tech titans and obtain essential A.I. chips."
     },
     {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Ezra Klein and Rollin Hu",
-      "title": "The Path to a Democratic Supermajority",
-      "description": "Adam Jentleson, the president of Searchlight Institute, thinks that Democrats can win a whole lot more by embracing heterodoxy.",
-      "url": "https://www.nytimes.com/2026/11/10/opinion/ezra-klein-podcast-adam-jentleson.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/10/opinion/10eks-jentleson-image01/10eks-jentleson-image01-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-10T11:30:03Z",
-      "content": "Adam Jentleson, the president of Searchlight Institute, thinks that Democrats can win a whole lot more by embracing heterodoxy."
+      "author": "Jack Healy and Maia Spoto",
+      "title": "In Midterm Elections, Voters Backed Democrats but Broke Right on Many Ballot Measures",
+      "description": "Many Republican and moderate voters who chose Democratic candidates did not do the same on transgender and other social issues.",
+      "url": "https://www.nytimes.com/2026/11/10/us/ballot-measures-democrats-republicans.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/10nat-blue-referendums-1-hzgc/10nat-blue-referendums-1-hzgc-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-10T18:28:54Z",
+      "content": "Many Republican and moderate voters who chose Democratic candidates did not do the same on transgender and other social issues."
     },
     {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "David Gelles",
-      "title": "A New York Times Reporter on El Niño and His California Childhood",
-      "description": "David Gelles, who covers a warming world for The New York Times, recalls natural disasters of his youth as he seeks to make sense of a powerful El Niño.",
-      "url": "https://www.nytimes.com/2026/11/10/insider/el-nino-california-climate.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/09/climate/09insider-california-fires-stillpromo/09insider-california-fires-stillpromo-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-10T10:05:08Z",
-      "content": "David Gelles, who covers a warming world for The New York Times, recalls natural disasters of his youth as he seeks to make sense of a powerful El Niño."
+      "author": "Bret Stephens",
+      "title": "JD Vance Trots Out an Old Scapegoat",
+      "description": "Contra the vice president, the cause of last week’s G.O.P. debacle is a conservatism of fools.",
+      "url": "https://www.nytimes.com/2026/11/10/opinion/vance-trump-midterms-israel.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/11/multimedia/10stephens-vftw/10stephens-vftw-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-10T18:05:06Z",
+      "content": "Contra the vice president, the cause of last week’s G.O.P. debacle is a conservatism of fools."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Valerie Hopkins and Nanna Heitmann",
+      "title": "The Lights Go Out at Novaya Gazeta, Russia’s Bravest Newspaper",
+      "description": "For more than 30 years, the paper covered an increasingly repressive Russia. “The process of silencing us started many years ago,” one of its journalists said.",
+      "url": "https://www.nytimes.com/2026/11/10/world/europe/russia-novaya-gazeta-closure.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/10russia-newspaper-01-fpcw/10russia-newspaper-01-fpcw-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-10T17:59:40Z",
+      "content": "For more than 30 years, the paper covered an increasingly repressive Russia. “The process of silencing us started many years ago,” one of its journalists said."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Apoorva Mandavilli",
+      "title": "America’s Measles Problem Has Reached Endemic Level",
+      "description": "A panel of scientific experts will convene on Tuesday to evaluate the United States’ measles elimination status. But genetic data already shows the virus is once again endemic.",
+      "url": "https://www.nytimes.com/2026/11/10/health/measles-united-states-elimination-rfk.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-measles-whjg/10dc-measles-whjg-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-10T17:56:29Z",
+      "content": "A panel of scientific experts will convene on Tuesday to evaluate the United States’ measles elimination status. But genetic data already shows the virus is once again endemic."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Sadiba Hasan",
+      "title": "Every Wedding Has a Budget. What’s the Story Behind Yours?",
+      "description": "We want to hear from couples who married in the last five years about how they approached their wedding budget: where they splurged and saved and how they brought their vision to life.",
+      "url": "https://www.nytimes.com/2026/11/09/style/wedding-cost-budget.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/09/multimedia/09ST-WEDDING-BUDGET-CALLOUT-zjwm/09ST-WEDDING-BUDGET-CALLOUT-zjwm-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-10T17:44:56Z",
+      "content": "We want to hear from couples who married in the last five years about how they approached their wedding budget: where they splurged and saved and how they brought their vision to life."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Erin Griffith, Mike Isaac and Lauren Hirsch",
+      "title": "Anthropic Targets Valuation of Up to $1.4 Trillion for Blockbuster I.P.O.",
+      "description": "The A.I. company’s pricing would make it one of the biggest ever public listings. It comes at a volatile moment in markets, with investors questioning the sustainability of the A.I. boom.",
+      "url": "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/08/24/multimedia/00biz-anthropic-price-range-hfo-zmfq/00biz-anthropic-price-range-hfo-zmfq-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-10T17:32:09Z",
+      "content": "The A.I. company’s pricing would make it one of the biggest ever public listings. It comes at a volatile moment in markets, with investors questioning the sustainability of the A.I. boom."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Talmon Joseph Smith",
+      "title": "Data Show Households Still Managing to Meet Their Monthly Debts",
+      "description": "The New York Fed detailed general steadiness in debt payments for autos, student loans and mortgages.",
+      "url": "https://www.nytimes.com/2026/11/10/business/economy/household-debt-real-estate-home-equity.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-household-debt-pvkl/10biz-household-debt-pvkl-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-10T17:25:51Z",
+      "content": "The New York Fed detailed general steadiness in debt payments for autos, student loans and mortgages."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Colby Smith and Ben Casselman",
+      "title": "Elevated Inflation Keeps Pressure on Fed to Raise Rates",
+      "description": "October’s Consumer Price Index report showed a broadening of price pressures that has stoked concerns about the Federal Reserve’s grip on inflation.",
+      "url": "https://www.nytimes.com/2026/11/10/business/economy/inflation-economy-cpi.html",
+      "urlToImage": null,
+      "publishedAt": "2026-11-10T17:18:01Z",
+      "content": "October’s Consumer Price Index report showed a broadening of price pressures that has stoked concerns about the Federal Reserve’s grip on inflation."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Tyler Pager",
+      "title": "What Trump Said in His Letter to Biden in 2021",
+      "description": "The letter, which former President Joseph R. Biden Jr. details in a new book, is remarkable for a warm tone starkly at odds with his predecessor’s public comments.",
+      "url": "https://www.nytimes.com/2026/11/10/us/politics/biden-trump-letter.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-biden-pbcg/10dc-biden-pbcg-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-10T17:00:05Z",
+      "content": "The letter, which former President Joseph R. Biden Jr. details in a new book, is remarkable for a warm tone starkly at odds with his predecessor’s public comments."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "John Leland and Anna Connors",
+      "title": "Inside NYC’s First Hip-Hop High School Where Students Freestyle Every Friday",
+      "description": "In the South Bronx, the first program of its kind offers the same classes as any high school. Only these classes are dope.",
+      "url": "https://www.nytimes.com/2026/11/10/nyregion/bronx-school-hip-hop.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/03/multimedia/00met-hiphophighschool-intro-01-jgwl/00met-hiphophighschool-intro-01-jgwl-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-10T16:29:56Z",
+      "content": "In the South Bronx, the first program of its kind offers the same classes as any high school. Only these classes are dope."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Rebecca F. Elliott and Lisa Friedman",
+      "title": "Oil Prices Have Tumbled in November. Here’s Why.",
+      "description": "The global benchmark price is down more than $20 a barrel since late October, when it traded for around $113.",
+      "url": "https://www.nytimes.com/2026/11/09/business/energy-environment/oil-price-iran-trump-war.html",
+      "urlToImage": null,
+      "publishedAt": "2026-11-10T15:59:29Z",
+      "content": "The global benchmark price is down more than $20 a barrel since late October, when it traded for around $113."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Stephen P. Neary",
+      "title": "They Were Married for Decades Before the Parkinson’s Began. Then Came the Visions.",
+      "description": "After 50 years of marriage, John Matthias found himself caring for his wife, an art curator grappling with Parkinson’s.",
+      "url": "https://www.nytimes.com/2026/11/10/opinion/living-with-a-visionary-parkinsons-animation.html",
+      "urlToImage": null,
+      "publishedAt": "2026-11-10T15:39:36Z",
+      "content": "After 50 years of marriage, John Matthias found himself caring for his wife, an art curator grappling with Parkinson’s."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Tim Balk",
+      "title": "What to Know About Thomas Massie, Leader of Drive to Impeach Hegseth",
+      "description": "Representative Thomas Massie, Republican of Kentucky, is retiring at the end of his term after losing to a primary challenger backed by President Trump.",
+      "url": "https://www.nytimes.com/2026/11/10/us/thomas-massie-impeachment-hegseth.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/10pol-massie-topart-pzkw/10pol-massie-topart-pzkw-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-10T15:30:06Z",
+      "content": "Representative Thomas Massie, Republican of Kentucky, is retiring at the end of his term after losing to a primary challenger backed by President Trump."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Andrew Duehren",
+      "title": "Failure of California Billionaire Tax Strikes Blow to Progressive Agenda",
+      "description": "A wealth tax on billionaires seemed like a political layup. The outcome of a California ballot initiative shows otherwise.",
+      "url": "https://www.nytimes.com/2026/11/10/business/billionaire-tax-progressive-agenda.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-wealth-tax-hbpg/10dc-wealth-tax-hbpg-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-10T15:10:43Z",
+      "content": "A wealth tax on billionaires seemed like a political layup. The outcome of a California ballot initiative shows otherwise."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Robert Jimison",
+      "title": "The Impeachment Charges Against Defense Secretary Pete Hegseth, Explained",
+      "description": "The charges accuse the defense secretary of illegally starting the war with Iran, directing extrajudicial killings and ignoring laws meant to minimize civilian casualties.",
+      "url": "https://www.nytimes.com/2026/11/10/us/politics/hegseth-impeachment-explainer-massie.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-hegseth-charges-wmbg/10dc-hegseth-charges-wmbg-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-10T15:09:50Z",
+      "content": "The charges accuse the defense secretary of illegally starting the war with Iran, directing extrajudicial killings and ignoring laws meant to minimize civilian casualties."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Luis Ferré-Sadurní",
+      "title": "Mamdani Has Been a Fierce Opponent of ICE. A Judge Handed Him a Setback.",
+      "description": "A federal judge ordered Mayor Zohran Mamdani to comply with a federal subpoena for information about some migrants with serious criminal records.",
+      "url": "https://www.nytimes.com/2026/11/10/nyregion/ice-mamdani-migrants-court-ruling.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/10met-ice-subpoena-promo-vpck/10met-ice-subpoena-promo-vpck-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-10T13:40:19Z",
+      "content": "A federal judge ordered Mayor Zohran Mamdani to comply with a federal subpoena for information about some migrants with serious criminal records."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Sam Sifton",
+      "title": "The A.I. Spy Thriller",
+      "description": "We look into what’s going on at Nvidia.",
+      "url": "https://www.nytimes.com/2026/11/10/briefing/nvidia-spy-scandal.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/10Daily-Nvidia-fpkb/10Daily-Nvidia-fpkb-mediumSquareAt3X-v2.jpg",
+      "publishedAt": "2026-11-10T13:28:00Z",
+      "content": "We look into what’s going on at Nvidia."
     },
     {
       "source": {
@@ -51,7 +246,7 @@
       "description": "Governance experts question whether the board, which is investigating Mr. Huang’s conduct, has been too deferential as he has turned Nvidia into a global giant.",
       "url": "https://www.nytimes.com/2026/11/10/technology/jensen-huang-nvidia-board.html",
       "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-nvidia-board-gpqw/10biz-nvidia-board-gpqw-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-10T10:04:48Z",
+      "publishedAt": "2026-11-10T13:07:03Z",
       "content": "Governance experts question whether the board, which is investigating Mr. Huang’s conduct, has been too deferential as he has turned Nvidia into a global giant."
     },
     {
@@ -59,52 +254,26 @@
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Shane Goldmacher",
-      "title": "Democrats Will Be in Charge of Congress. Elizabeth Warren Has a Plan for That.",
-      "description": "The Massachusetts senator said it is imperative that Democrats address economic pain after running campaigns that centered cost-of-living issues.",
-      "url": "https://www.nytimes.com/2026/11/10/us/politics/democrats-elizabeth-warren-economic-plan.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/10pol-warren-pvtk/10pol-warren-pvtk-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-10T10:04:37Z",
-      "content": "The Massachusetts senator said it is imperative that Democrats address economic pain after running campaigns that centered cost-of-living issues."
+      "author": "Michael Kimmelman and Alex Kent",
+      "title": "Many of Trump’s Plans to Remake D.C. Would Push Locals Aside",
+      "description": "If these projects come to fruition, Washingtonians will lose access to sports fields, fishing spots and other tent poles of everyday city life.",
+      "url": "https://www.nytimes.com/2026/11/10/arts/design/trump-washington-arch-oval-office.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/10kimmelman-washington-promo/10kimmelman-washington-promo-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-10T10:03:48Z",
+      "content": "If these projects come to fruition, Washingtonians will lose access to sports fields, fishing spots and other tent poles of everyday city life."
     },
     {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Paul Sonne",
-      "title": "Why U.S. Business Deals Are Unlikely to Get Putin to Give Any Ground",
-      "description": "President Vladimir V. Putin of Russia has shown a willingness to endure a high price to get what he wants in Ukraine, and he sees little reason to stop fighting now, analysts say.",
-      "url": "https://www.nytimes.com/2026/11/10/world/europe/putin-trump-abu-dhabi-talks.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-russia-putin-talks-bgpf/10int-russia-putin-talks-bgpf-mediumSquareAt3X-v3.jpg",
-      "publishedAt": "2026-11-10T10:04:04Z",
-      "content": "President Vladimir V. Putin of Russia has shown a willingness to endure a high price to get what he wants in Ukraine, and he sees little reason to stop fighting now, analysts say."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Soumya Karlamangla and Loren Elliott For The New York Times",
-      "title": "Why the California Coast Has So Many Dead Birds",
-      "description": "Scientists say El Niño is exacerbating conditions by causing Pacific Ocean temperatures to rise.",
-      "url": "https://www.nytimes.com/2026/11/10/us/california-sea-birds-dead-el-nino.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/10/us/10nat-seabird-PROMO/10nat-seabird-deathTOPPER-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-10T10:03:24Z",
-      "content": "Scientists say El Niño is exacerbating conditions by causing Pacific Ocean temperatures to rise."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Julie Bosman",
-      "title": "The Blue Wave Washed Across Much of America. But Not Here.",
-      "description": "By some measures, the Republican Party grew even stronger in South Dakota, one of the states that shifted the least toward Democrats in the midterms.",
-      "url": "https://www.nytimes.com/2026/11/10/us/south-dakota-republicans.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/10nat-southdakota-red-dan-pzfv/10nat-southdakota-red-dan-pzfv-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-10T10:03:02Z",
-      "content": "By some measures, the Republican Party grew even stronger in South Dakota, one of the states that shifted the least toward Democrats in the midterms."
+      "author": "Miriam Jordan",
+      "title": "ICE Hides Detainee Locations From Lawyers and Family Under New Policy",
+      "description": "A nursing professor in California is among thousands of immigrants excluded from a public detainee database under a new policy to expedite their deportation by keeping their location hidden.",
+      "url": "https://www.nytimes.com/2026/11/10/us/ice-detainees-hidden-location-deportation.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/09/multimedia/09nat-immig-detainee-locator-cbkh/09nat-immig-detainee-locator-cbkh-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-10T10:03:25Z",
+      "content": "A nursing professor in California is among thousands of immigrants excluded from a public detainee database under a new policy to expedite their deportation by keeping their location hidden."
     },
     {
       "source": {
@@ -121,146 +290,198 @@
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
+        "id": null,
+        "name": "CNBC"
       },
-      "author": "David Gelles and Gabriela Bhaskar",
-      "title": "El Niño Is Hitting California Hard",
-      "description": "Rising sea levels and violent weather are testing residents in some of the most picturesque cities along the Pacific Coast.",
-      "url": "https://www.nytimes.com/2026/11/10/climate/el-nino-california-flooding-fires-kelvin-wave.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/07/multimedia/00cli-california-el-nino-stillpromo/00cli-california-el-nino-01-cplk-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-10T10:00:54Z",
-      "content": "Rising sea levels and violent weather are testing residents in some of the most picturesque cities along the Pacific Coast."
+      "author": "Michael Wayland",
+      "title": "Honda to invest $3 billion in new vehicle assembly plant in Ohio - CNBC",
+      "description": "The Japanese automaker said the plant will focus on hybrid vehicles and is expected to begin production in 2029.",
+      "url": "https://www.cnbc.com/2026/11/09/honda-to-invest-3-billion-in-new-vehicle-assembly-plant-in-ohio.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108095724-1738345729872-IMG_3109.jpeg?v=1738346588&w=1920&h=1080",
+      "publishedAt": "2026-11-09T16:10:33Z",
+      "content": "MARYSVILLE, Ohio Honda Motor plans to invest $3 billion to build a new vehicle assembly plant in Ohio, the automaker announced Monday.\r\nHonda said the new plant, which will be near its other faciliti… [+3148 chars]"
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
+        "id": "politico",
+        "name": "Politico"
       },
-      "author": "Stephen P. Neary",
-      "title": "They Were Married for Decades Before the Parkinson’s Began. Then Came the Visions.",
-      "description": "After 50 years of marriage, John found himself caring for his wife, an art curator grappling with Parkinson’s.",
-      "url": "https://www.nytimes.com/2026/11/10/opinion/living-with-a-visionary-parkinsons-animation.html",
-      "urlToImage": null,
-      "publishedAt": "2026-11-10T10:00:05Z",
-      "content": "After 50 years of marriage, John found himself caring for his wife, an art curator grappling with Parkinson’s."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Trish Bendix",
-      "title": "Late Night Weighs In on Trump’s Hopes for the Afterlife",
-      "description": "The president told “60 Minutes” that he doesn’t want to go to hell. “America was like, ‘Then where have we been living the past three years?’” Jimmy Fallon said.",
-      "url": "https://www.nytimes.com/2026/11/10/arts/television/late-night-trump-midterms.html",
-      "urlToImage": null,
-      "publishedAt": "2026-11-10T08:01:20Z",
-      "content": "The president told “60 Minutes” that he doesn’t want to go to hell. “America was like, ‘Then where have we been living the past three years?’” Jimmy Fallon said."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Abdi Latif Dahir and Vivian Nereim",
-      "title": "Saudi Arabia Sentences Mother to 100 Lashes for Birth Outside Marriage",
-      "description": "The kingdom’s promised reforms don’t always match the realities of its justice system. Unmarried women, particularly foreign workers, face unique perils.",
-      "url": "https://www.nytimes.com/2026/11/10/world/middleeast/saudi-arabia-lashing-sentence-kenyan-woman.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-saudi-migrants-1-hcvz/10int-saudi-migrants-1-hcvz-mediumSquareAt3X-v2.jpg",
-      "publishedAt": "2026-11-10T07:27:41Z",
-      "content": "The kingdom’s promised reforms don’t always match the realities of its justice system. Unmarried women, particularly foreign workers, face unique perils."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Laurel Rosenhall",
-      "title": "California Voters Reject Prop. 40 Billionaire Tax Measure",
-      "description": "The outcome could hinder the wealth tax movement in California and across the country in future years.",
-      "url": "https://www.nytimes.com/2026/11/09/us/california-billionaire-tax-prop-40.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/12/09/multimedia/09nat-billionairetax-ca-hfo-fcmv/09nat-billionairetax-ca-hfo-fcmv-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-10T05:47:58Z",
-      "content": "The outcome could hinder the wealth tax movement in California and across the country in future years."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Alan Feuer and Michael S. Schmidt",
-      "title": "In Trump’s Washington, Prosecutors Can’t Count on Grand Juries to Take Their Side",
-      "description": "In the past two weeks, prosecutors in the capital have failed to secure indictments in at least three cases, an acceleration of the problems the Justice Department has had with grand juries.",
-      "url": "https://www.nytimes.com/2026/11/09/us/politics/doj-trump-grand-jury-indictments.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/09/multimedia/dc-grandjuries-2-jhml/dc-grandjuries-2-jhml-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-10T03:00:13Z",
-      "content": "In the past two weeks, prosecutors in the capital have failed to secure indictments in at least three cases, an acceleration of the problems the Justice Department has had with grand juries."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Luke Broadwater and Maggie Haberman",
-      "title": "Nvidia CEO Jensen Huang Told Trump He Did Not Know Chinese Woman Was Suspected Spy",
-      "description": "President Trump told reporters Monday that he believed Jensen Huang’s account and said he did not recall receiving a briefing warning him about Mr. Huang’s liaison.",
-      "url": "https://www.nytimes.com/2026/11/09/us/politics/trump-jensen-huang-spy.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/09/multimedia/09dc-trump-jensen-tvfw/09dc-trump-jensen-tvfw-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-10T02:13:11Z",
-      "content": "President Trump told reporters Monday that he believed Jensen Huang’s account and said he did not recall receiving a briefing warning him about Mr. Huang’s liaison."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Robert Jimison",
-      "title": "Thomas Massie Moves to Force Vote on Impeaching Pete Hegseth",
-      "description": "Representative Thomas Massie, Republican of Kentucky, set in motion a vote that must occur by Wednesday. If the House approves the charges, it will prompt a Senate trial.",
-      "url": "https://www.nytimes.com/2026/11/09/us/politics/hegseth-impeachment-massie.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/09/multimedia/09dc-hegseth-wtk-gjkp/09dc-hegseth-wtk-gjkp-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-09T22:35:06Z",
-      "content": "Representative Thomas Massie, Republican of Kentucky, set in motion a vote that must occur by Wednesday. If the House approves the charges, it will prompt a Senate trial."
+      "author": "Mia McCarthy",
+      "title": "Freedom Caucus lays out legislative priorities for lame-duck session - Politico",
+      "description": "The conservative group is also pushing GOP leaders to not leave Capitol Hill until the list of demands is met.",
+      "url": "https://www.politico.com/live-updates/2026/11/09/congress/freedom-caucus-lame-duck-list-01156340",
+      "urlToImage": "https://www.politico.com/dims4/default/b8a70d5/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Ff4%2F9c%2F3ecf375a4d71aab07b8c0503897e%2Fu-s-congress-10375.jpg",
+      "publishedAt": "2026-11-09T16:10:00Z",
+      "content": null
     },
     {
       "source": {
         "id": "cbs-news",
         "name": "CBS News"
       },
-      "author": "Duarte  Dias",
-      "title": "Live Updates: Trump says he sees no reason to escalate war with Iran, touts his long-term goals in the conflict - CBS News",
-      "description": "President Trump told 60 Minutes the war with Iran was a \"good decision\" in the long term, despite its short-term impact.",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-deal-negotiations/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/09/bb36bc53-9733-4c49-bd1f-08c869ad08f2/thumbnail/1200x630/49ee27bb9930178a8f6edb5b7d480275/centcom-ship-strike-iran-gulf-oman.png",
-      "publishedAt": "2026-11-09T12:29:00Z",
-      "content": "Iran's foreign ministry spokesman said Monday that Tehran's proposal to reduce the implementation period for a possible peace deal with the U.S. to two days from the previous seven was a \"sign of goo… [+1134 chars]"
+      "author": "Aimee  Picchi",
+      "title": "Nvidia's stock slides as questions swirl around Jensen Huang's future as CEO - CBS News",
+      "description": "Investors are questioning whether Huang's future as Nvidia's CEO may be at risk amid allegations that he was targeted in a Chinese intelligence operation.",
+      "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-stock-board-investigation-spy/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/09/195e6142-1604-4985-9466-6d90af5f98ff/thumbnail/1200x630/675ca74afd671084d76611fbf7023fc6/gettyimages-2299645290.jpg",
+      "publishedAt": "2026-11-09T15:42:50Z",
+      "content": "Nvidia's stock price dropped in early trading on Monday amid questions about CEO Jensen Huang's future at the chipmaker, following the board of directors' investigation into allegations that China ta… [+5115 chars]"
     },
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
+        "id": "polygon",
+        "name": "Polygon"
       },
-      "author": "WSJ",
-      "title": "Stock Market Today: Nvidia Stock Slides After Huang Apologizes for Affair With Alleged Spy - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-09-2026",
-      "urlToImage": null,
-      "publishedAt": "2026-11-09T12:02:00Z",
-      "content": null
+      "author": "Elijah Gonzalez",
+      "title": "Sony Officially Announces New Playstation Handheld - Polygon.com",
+      "description": "Sony announced a new version of the PlayStation Portal with internal storage, but it's Japan-exclusive.",
+      "url": "https://www.polygon.com/sony-playstation-portal-japan-only-internal-storage/",
+      "urlToImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/playstation-portal-screenshot-astrobot.jpg?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-11-09T15:10:37Z",
+      "content": "While Sony has largely given up on the handheld market following the death of the now-lamented PlayStation Vita, the company is taking another swing at the PlayStation Portal. Following in Nintendos … [+2612 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Kate Bartlett",
+      "title": "British comedian Russell Brand sentenced to over 10 years for rape and sexual assault - NPR",
+      "description": "Russell Brand, who became a celebrity darling in the early 2000s, was found guilty on one count of rape and three counts of sexual assault in a case brought by six women.",
+      "url": "https://www.npr.org/2026/11/09/nx-s1-6034335/british-comedian-russell-brand-sentenced",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4079x2295+0+268/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdd%2F10%2Fc857c3834375bada2b4dddb35e12%2Fap26309660909871.jpg",
+      "publishedAt": "2026-11-09T14:36:54Z",
+      "content": "Russell Brand, the raunchy, irreverent British comedian who became a celebrity darling in the early 2000s, has been sentenced to over 10 years in prison after being found guilty on one count of rape … [+3761 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "author": "",
+      "title": "2026 NFL trade deadline live updates: Latest rumors, buzz and news in final two days to make deals - CBS Sports",
+      "description": "Keep it locked here for all the news ahead of the Nov. 10 cutoff",
+      "url": "https://www.cbssports.com/nfl/news/2026-nfl-trade-deadline-live-updates-latest-rumors-buzz-news/live/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/11/09/682f4508-41ba-4b6b-9142-d8adf32c9c70/thumbnail/1200x675/50037a3aebbfcf54727be8beff6fa0c2/jonathan-taylor.jpg",
+      "publishedAt": "2026-11-09T14:32:12Z",
+      "content": "Deal or no deal? It's that time of year again when GMs across the NFL are working the phones to wheel and deal before the 2026 trade deadline hits on Tuesday, Nov. 10 at 4 p.m. ET. \r\nSome clubs are w… [+1099 chars]"
     },
     {
       "source": {
         "id": "the-washington-post",
         "name": "The Washington Post"
       },
-      "author": "Trisha Pasricha, MD",
-      "title": "Column | Your stroke risk is 72 percent higher during these 3 hours of the day - The Washington Post",
-      "description": "Heart attacks follow a similar pattern.",
-      "url": "https://www.washingtonpost.com/wellness/2026/11/09/your-stroke-risk-is-72-percent-higher-during-these-3-hours-day/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/M2X3BCIZVPFIK6MT7T74HPGOSY.jpg&w=1440",
-      "publishedAt": "2026-11-09T10:34:15Z",
-      "content": "The morning rush often feels like nothing short of a crisis. For our hearts and brains, its also the riskiest time of day.\r\nA meta-analysis of almost 12,000 adult stroke patients found that people we… [+249 chars]"
+      "author": "Anthony Faiola, Marina Dias",
+      "title": "Pope Leo delivers veiled rebuke of austerity measures in predecessor’s homeland - The Washington Post",
+      "description": "The pope’s words and actions in Buenos Aires have been interpreted by some as critiques of Argentine President Javier Milei.",
+      "url": "https://www.washingtonpost.com/world/2026/11/09/pope-leo-delivers-veiled-rebuke-austerity-measures-argentina/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/KDWBXPWP3HGESQHRGUUD7CTM3E.JPG&w=1440",
+      "publishedAt": "2026-11-09T14:29:21Z",
+      "content": "BUENOS AIRES Pope Leo XIV delivered a veiled rebuke of the polarizing austerity and swaggering style of Argentinas pro-Trump President Javier Milei, as he waded into a politically fraught national de… [+39 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Emily Mae  Czachor",
+      "title": "Fireball traveling 47,000 mph lights up sky over North Carolina and Tennessee - CBS News",
+      "description": "A bright fireball was spotted in skies over North Carolina and Tennessee, zooming by at 47,000 mph before disintegrating above a city near Chattanooga, NASA said.",
+      "url": "https://www.cbsnews.com/news/fireball-north-carolina-tennessee-47000-mph/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/09/5cd7cfbd-27f7-4be7-92b4-bd5a62efb13e/thumbnail/1200x630g6/f3a72adf8903274e637bf44d79b7e248/nasa-meteor.png",
+      "publishedAt": "2026-11-09T14:28:07Z",
+      "content": "A meteor lit up skies over parts of North Carolina and Tennessee on Thursday night, zooming by at 47,000 mph, according to NASA. \r\nEyewitnesses have shared numerous photographs on social media of the… [+1469 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TMZ"
+      },
+      "author": "TMZ Staff",
+      "title": "Kim Kardashian's SKIMS Issuing Refunds of Advent Calendar After Furious Fans Complain - TMZ",
+      "description": "Kim Kardashian's SKIMS is reimbursing customers who called out the company for selling a $148 Advent calendar that many felt was extremely underwhelming.",
+      "url": "https://www.tmz.com/2026/11/09/skims-refund-dissatisfied-customers/",
+      "urlToImage": "https://imagez.tmz.com/image/5e/16by9/2026/11/09/5e3f8a07c4644ccb8468761b4173794e_xl.jpg",
+      "publishedAt": "2026-11-09T14:24:14Z",
+      "content": "Kim Kardashian's SKIMS is reimbursing customers who called out the company for selling a $148 Advent calendar that many felt was extremely underwhelming.\r\nHere's the deal ... many customers purchased… [+905 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Mike Catalini, Darlene Superville",
+      "title": "Trump says his deportation policy ‘might have been too tough’ for voters in the election - AP News",
+      "description": "President Donald Trump said he thinks his administration was too aggressive on deportations. That's one of the reasons he gave for his party losing control of the House and Senate in the midterm elections. He made the remarks in his first major interview that…",
+      "url": "https://apnews.com/article/trump-60-minutes-interview-immigration-73d62584b3ad81ef2f55742ee3ba4c35",
+      "urlToImage": "https://dims.apnews.com/dims4/default/7c29495/2147483647/strip/true/crop/7619x5079+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3b%2F01%2F52715983a842eaae5e6bddd334c7%2F72b3f8ad64f2479591511693206c995a",
+      "publishedAt": "2026-11-09T14:20:00Z",
+      "content": "President Donald Trump, in his first major interview since his party lost control of the House and Senate in the midterm elections, said he thinks his administration was too aggressive on deportation… [+3785 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "The Associated Press",
+      "title": "US-led peace talks for Russia and Ukraine will look at security guarantees for both sides - AP News",
+      "description": "For the first time since February, Russian, Ukrainian and U.S. negotiators are scheduled to hold talks on ending the full-scale war that is nearing its five-year mark. The two-day session starts Tuesday in Abu Dhabi, United Arab Emirates. It follows previous …",
+      "url": "https://apnews.com/article/russia-ukraine-war-putin-zelenskyy-uae-81537cce8daf84b24bf73a91addb6e9b",
+      "urlToImage": "https://dims.apnews.com/dims4/default/6c6151b/2147483647/strip/true/crop/6048x4032+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9e%2F2d%2Fa203ef036de8b21c5c00505f10e6%2Fb69eef3ecca34b00bb1c5840632645ea",
+      "publishedAt": "2026-11-09T14:16:00Z",
+      "content": "For the first time since February, Russian, Ukrainian and U.S. negotiators are scheduled to hold talks on ending the full-scale war that is nearing the five-year mark, with security guarantees toppin… [+8714 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Brittany Miller",
+      "title": "Poppi founders look to disrupt hydration market with new electrolyte drink - Fox Business",
+      "description": "The founders behind Poppi are entering a new beverage category after their nearly $2 billion PepsiCo deal, betting they can replicate their soda success in the competitive hydration market.",
+      "url": "https://www.foxbusiness.com/lifestyle/poppi-founders-look-disrupt-hydration-market-new-electrolyte-drink",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/allison-ellsworth-jetty-launch.jpg?ve=1&tl=1",
+      "publishedAt": "2026-11-09T14:01:02Z",
+      "content": "The husband-and-wife duo behind Poppi is taking on another corner of the beverage industry, launching a new hydration brand after selling their prebiotic soda company to PepsiCo for nearly $2 billion… [+4828 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Robb M. Stewart",
+      "title": "Goodyear CEO Mark Stewart Steps Down - WSJ",
+      "description": "Director Roger Wood has been appointed interim CEO",
+      "url": "https://www.wsj.com/business/goodyear-ceo-mark-stewart-steps-down-9a85b5a8",
+      "urlToImage": "https://images.wsj.net/im-33636176/social",
+      "publishedAt": "2026-11-09T13:07:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "James Powel",
+      "title": "Jeffries says Democrats will not work with Trump's new chief of staff - USA Today",
+      "description": "Democratic Leader Hakeem Jeffries said in a Nov. 8 television appearance that the elevation of Stephen Miller to White House Chief of Staff was \"irresponsible.\"",
+      "url": "https://www.usatoday.com/story/news/politics/2026/11/08/hakeem-jeffries-democrats-not-work-stephen-miller/92678563007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/08/USAT/92679565007-20261104-t-045008-z-220517021-rc-2-sgoaiu-1-kl-rtrmadp-3-usaelection.JPG?crop=5499,3094,x0,y553&width=3200&height=1801&format=pjpg&auto=webp",
+      "publishedAt": "2026-11-09T12:44:00Z",
+      "content": "Democratic House Minority Leader Hakeem Jeffries said that his party will not work with Stephen Miller, President Donald Trump's new chief of staff, during an appearance on ABCs \"This Week\" Nov. 8.\r\n… [+2346 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Tim Hardwick",
+      "title": "Apple Launching Two More New Products This Friday - MacRumors",
+      "description": "The Apple launches keep coming! The company is set to release two new products on Friday, November 13: the all-new Apple HomeView and the...",
+      "url": "https://www.macrumors.com/2026/11/09/apple-launching-two-new-products-on-november-13/",
+      "urlToImage": "https://images.macrumors.com/t/wPYeHY6-2xS0BMyi62C601kOVDs=/1600x/article-new/2026/10/apple-pro-tell-logo.jpg",
+      "publishedAt": "2026-11-09T12:19:28Z",
+      "content": "The Apple launches keep coming! The company is set to release two new products on Friday, November 13: the all-new Apple HomeView and the fourth-generation Apple TV 4K, both of which have been availa… [+968 chars]"
     },
     {
       "source": {
@@ -268,12 +489,77 @@
         "name": "Fox News"
       },
       "author": null,
-      "title": "Congress returns to brutal lame-duck stretch with shutdown deadline, leadership races: 'Closet is full of s—' - Fox News",
-      "description": "Lawmakers return to Capitol Hill facing a government shutdown deadline, the farm bill and a debt ceiling fight before Democrats take power in January.",
-      "url": "https://www.foxnews.com/politics/congress-returns-brutal-lame-duck-stretch-shutdown-deadline-leadership-races-closet-full-s",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/05/thune-johnson-split-3.jpeg",
-      "publishedAt": "2026-11-09T10:00:25Z",
-      "content": "Lawmakers are back on Capitol Hill this week for the first time since the midterm elections, and Republicans have a slew of responsibilities in front of them before Democrats take over the reins of p… [+5113 chars]"
+      "title": "NFL Week 9 Sunday takeaways: Bengals, 49ers and Packers look Super, Rams finally over .500 - Fox News",
+      "description": "The Packers look like Super Bowl contenders, Brock Purdy dominates with depleted receivers and the Chargers' season spirals into a disaster.",
+      "url": "https://www.foxnews.com/outkick-sports/nfl-week-9-sunday-takeaways-bengals-49ers-packers-look-super-rams-finally-over-500",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/joe-burrow-brock-purdy-jordan-love-nfl-quarterbacks.jpg",
+      "publishedAt": "2026-11-09T12:11:15Z",
+      "content": "We're essentially at the halfway point of the NFL season, and the playoff races are heating up and starting to take shape. I'd like to think I've figured out which teams are good and which teams are … [+10902 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Scientists discover a surprising link between acorns and lyme disease - Science Daily",
+      "description": "After more than 35 years of research, scientists have uncovered surprising clues about what really drives Lyme disease risk. Contrary to longstanding assumptions, deer populations appear less important than mice, which can fuel a 40% increase in tick numbers …",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261106174518.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/acorn-in-forest.webp",
+      "publishedAt": "2026-11-09T11:46:08Z",
+      "content": "Tick-borne illnesses are becoming increasingly common across the United States, and Lyme disease remains the most frequently reported. Nearly 500,000 Americans are diagnosed each year. The infection … [+9418 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Common supplement could help fight psoriasis, scientists discover - Science Daily",
+      "description": "Scientists have discovered that pantethine, a readily available vitamin B5 derivative, can calm overactive immune cells and may help fight psoriasis. The supplement prevented psoriasis in mice and showed promising results in a small human trial, revealing an …",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261108233057.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/woman-pouring-vitamin-d-omega-3-vitamin-supplements-into-hand.webp",
+      "publishedAt": "2026-11-09T11:45:47Z",
+      "content": "A widely available nutritional supplement derived from vitamin B5 may offer a promising new approach to treating psoriasis, according to research from China. Scientists found that pantethine can calm… [+5833 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Elena Becatoros",
+      "title": "Death toll from migrant boat found with bodies on board south of Greece increases to 14 - AP News",
+      "description": "Greek authorities have recovered 13 bodies from a migrant boat found south of Crete. One of the other 18 people rescued from the same boat was later also confirmed to have died. That brought the death toll to 14. The Greek coast guard said that the boat was d…",
+      "url": "https://apnews.com/article/greece-migration-boat-16f88d8a9956d3ea9541e50b41826843",
+      "urlToImage": "https://dims.apnews.com/dims4/default/63970da/2147483647/strip/true/crop/5201x3469+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F79%2F5f%2F317f1cebf48300597110d0a096a8%2F49204fc8cb734cb5951428c9eb441912",
+      "publishedAt": "2026-11-09T11:34:00Z",
+      "content": "ATHENS, Greece (AP) Greek authorities recovered 13 bodies from a boat carrying migrants found sailing south of Greeces island of Crete early Monday, while one of the 18 other people rescued from the … [+2995 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SamMobile"
+      },
+      "author": "Abid Iqbal Shaik",
+      "title": "Here's what the new Galaxy S24 update brings - SamMobile",
+      "description": "Samsung has started rolling out a new update to the Galaxy S24 series. It brings under-the-hood improvements.",
+      "url": "https://www.sammobile.com/news/heres-what-the-new-galaxy-s24-update-brings/",
+      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2026/10/One-UI-9-Galaxy-S24-Ultra.jpg",
+      "publishedAt": "2026-11-09T11:08:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PennLive"
+      },
+      "author": "PennLive.com",
+      "title": "Rock legend dies just 8 months after rare cancer diagnosis. Here’s what we know - PennLive.com",
+      "description": null,
+      "url": "https://www.pennlive.com/entertainment/2026/11/rock-legend-dies-just-8-months-after-rare-cancer-diagnosis-heres-what-we-know.html",
+      "urlToImage": null,
+      "publishedAt": "2026-11-09T10:10:00Z",
+      "content": null
     },
     {
       "source": {
@@ -293,26 +579,13 @@
         "id": "politico",
         "name": "Politico"
       },
-      "author": "Riley Rogerson",
-      "title": "Hakeem Jeffries has a choice to make: Will he work with Trump? - Politico",
-      "description": "The presumptive speaker must manage competing theories of how to engage the president in the next two years.",
-      "url": "https://www.politico.com/news/2026/11/09/hakeem-jeffries-trump-relationship-01155108",
-      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fb7%2Ffe%2F7b904f0445b987fd284ecfb74337%2Fmidterm-elections-39337.jpg",
+      "author": "Jennifer Scholtes, Katherine Tully-McManus",
+      "title": "‘Russ Vought’s gonna meet his match’: What Murkowski’s potential promotion means for the White House - Politico",
+      "description": "The Alaska Republican has a record of fighting the White House over funding power, and soon she could lock arms with Democrats in that battle.",
+      "url": "https://www.politico.com/news/2026/11/09/lisa-murkowski-trump-appropriations-01155181",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fe2%2Fa2%2F6753ac67403589f43def3b904206%2Fu-s-congress-30611.jpg",
       "publishedAt": "2026-11-09T09:45:00Z",
-      "content": "President Donald Trump said after Tuesdays midterm drubbing he wants to work with Democrats. Now Hakeem Jeffries has to decide if his party will play ball.\r\nAs he prepares to lead a massive House Dem… [+876 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TMZ"
-      },
-      "author": "TMZ Staff",
-      "title": "Chris Brown's Baby Mama Diamond Working to Get Her Hands On His Bank Records - TMZ",
-      "description": "Chris Brown’s baby mama is working overtime to see the singer’s finances in her bid to collect a bigger child support check … claiming she’s been roadblocked for months by his team ...  TMZ has learned.",
-      "url": "https://www.tmz.com/2026/11/09/chris-brown-baby-mama-diamond-wants-to-see-his-bank-records/",
-      "urlToImage": "https://imagez.tmz.com/image/12/16by9/2026/11/06/127ed17563854eebb26001ab560db8ee_xl.jpg",
-      "publishedAt": "2026-11-09T09:00:56Z",
-      "content": "Chris Browns baby mama is working overtime to see the singers finances in her bid to collect a bigger child support check claiming shes been roadblocked for months by his team ...  TMZ has learned.\r\n… [+1047 chars]"
+      "content": "As President Donald Trump loses one of the biggest GOP critics of his administration with Sen. Susan Collins defeat, hes gaining an increasingly powerful Republican antagonist who could pose a bigger… [+811 chars]"
     },
     {
       "source": {
@@ -330,132 +603,67 @@
     {
       "source": {
         "id": null,
-        "name": "Sky Sports"
+        "name": "NBCSports.com"
+      },
+      "author": "Nic Bodiford",
+      "title": "ESPN: Colts could get 11th-hour offer for Taylor - NBC Sports",
+      "description": "ESPN's Stephen Holder believes the Colts could receive \"an 11th-hour offer\" for Jonathan Taylor that convinces Indianapolis to trade him.",
+      "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-11-08/espn-could-be-big-11th-hour-trade-offer-for-jt",
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/d3dcf24/2147483647/strip/true/crop/800x450+0+315/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fea%2Faf%2F255a8f4c40b4b4bc004d3ee489dd%2Ftaylor-jonathan-800-1080-515f879e21ba85c6.jpg",
+      "publishedAt": "2026-11-09T04:50:36Z",
+      "content": "A Division of NBCUniversal.\r\nDISCLAIMER: This site and the products offered are for entertainment purposes only, and there is no gambling offered on this site. This service is intended for adult audi… [+153 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PhoneArena"
+      },
+      "author": "Alan Friedman",
+      "title": "Is this the shocking conclusion to the Galaxy S27 Ultra processor mystery? - PhoneArena",
+      "description": "Will it be the homegrown Exynos 2700 or the Snapdragon 8 Elite Extreme Gen 6 AP powering the upcoming Galaxy S27 Ultra?",
+      "url": "https://www.phonearena.com/news/here-is-the-answer-to-a-major-galaxy-s27-ultra-processor-question_id184644",
+      "urlToImage": "https://m-cdn.phonearena.com/images/article/184644-wide-two_1200/Is-this-the-shocking-conclusion-to-the-Galaxy-S27-Ultra-processor-mystery.jpg",
+      "publishedAt": "2026-11-09T04:46:54Z",
+      "content": "Back in October, we told you that the processor pendulum for the upcoming Galaxy S27 Ultra, the one that swings back and forth between the Exynos 2700 and the Snapdragon 8 Elite Extreme Gen 6 chipset… [+2335 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "KiMi Robinson",
+      "title": "Taylor Swift shocks at Chiefs game with Karlie Kloss, ends feud rumors - USA Today",
+      "description": "Once best friends, Taylor Swift and Karlie Kloss' friendship cooled in the late 2010s. Now they've appeared to make amends by attending a Chiefs game.",
+      "url": "https://www.usatoday.com/story/entertainment/music/2026/11/08/taylor-swift-karlie-kloss-chiefs-game-drama-explained/92683150007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/08/USAT/92683466007-getty-images-2304181002.jpg?crop=1598,899,x860,y412&width=1598&height=899&format=pjpg&auto=webp",
+      "publishedAt": "2026-11-09T03:07:00Z",
+      "content": "Is it 2026 or 2016?\r\nA reunion of the once-inseparable duo of Taylor Swift and Karlie Kloss has activated Swift's fanbase. The two shared a box with Swift's parents and mother-in-law Donna Kelce on S… [+3689 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
       },
       "author": null,
-      "title": "Patrick Mahomes proves he is indestructible while Joe Burrow, Ja'Marr Chase and Tee Higgins light up Madrid - NFL Sunday Review - Sky Sports",
-      "description": "NFL Sunday Review - we reflect on Week Nine in the NFL as the Cincinnati Bengals stars dazzled in Madrid, Patrick Mahomes overcame an injury scare and Myles Garrett made an emphatic return from injury in his first big day for the Los Angeles Rams",
-      "url": "https://www.skysports.com/nfl/news/13609657/patrick-mahomes-proves-he-is-indestructible-while-joe-burrow-jamarr-chase-and-tee-higgins-light-up-madrid-nfl-sunday-review",
-      "urlToImage": "https://e0.365dm.com/26/11/1600x900/skysports-joe-burrow-jamarr-chase_7401757.jpg?20261109014719",
-      "publishedAt": "2026-11-09T06:19:06Z",
-      "content": "Want to grow the NFL overseas? Send the stars. The superstars. The Joe Burrows'. The Ja'Marr Chases'. The Tee Higgins'. Let them flourish like superstars, and watch new host countries turn to discipl… [+13063 chars]"
+      "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean - BBC",
+      "description": "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast.",
+      "url": "https://www.bbc.com/news/articles/ck1wvrrgln13o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/bc95/live/fa87f0c0-dc0b-11f1-b441-2b33b063138f.jpg",
+      "publishedAt": "2026-11-09T02:50:13Z",
+      "content": "\"I'm like, 'Yeah, it's a human being. Stop the boat; let's get all of our lines in,\" Grant Garrett was quoted as saying, recalling the moment he and Sean Norton spotted him."
     },
     {
       "source": {
         "id": null,
-        "name": "SFGate"
+        "name": "WAPT Jackson"
       },
-      "author": "Christopher Renstrom",
-      "title": "Horoscope for Monday, 11/09/26 by Christopher Renstrom - SFGATE",
-      "description": "AQUARIUS (Jan. 19 - Feb. 17): You're ready to make bold moves at work.  Expect to rock the boat, but trust that your ideas will prevail in the end.",
-      "url": "https://www.sfgate.com/horoscope/article/horoscope-monday-11-09-26-christopher-renstrom-22517374.php",
-      "urlToImage": "https://s.hdnux.com/photos/47/72/12/10461851/6/rawImage.jpg",
-      "publishedAt": "2026-11-09T06:07:38Z",
-      "content": "Star-crossed lovers?PlentyOfFish sorted through 150,000 users to find trends in matches between certain astrological signs. Who's your best match? Click through to find out. \r\nAries, March 21 to Apri… [+7317 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "Brian Melley",
-      "title": "Russell Brand facing significant prison term for rape and sexual assaults - AP News",
-      "description": "Russell Brand faces a significant prison term after being convicted of raping one woman and sexually assaulting three others. The British actor-comedian is being sentenced Monday in a London court. Brand, who is known for outrageous stand-up routines and batt…",
-      "url": "https://apnews.com/article/russell-brand-sentenced-convicted-rape-sexual-assault-b1a4d27cbe73ed8b447947fdf9f05d59",
-      "urlToImage": "https://dims.apnews.com/dims4/default/c64c906/2147483647/strip/true/crop/6072x4048+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb8%2Fc5%2F165538f06512531c71319983d432%2F2dc41723a48d49079d93c2708baf7b81",
-      "publishedAt": "2026-11-09T05:02:00Z",
-      "content": "LONDON (AP) Russell Brand faces a reckoning Monday for sexual abuse that occurred just offstage from a public life built around boasts of his erotic exploits.\r\nBrand, 51, faces a significant prison t… [+2709 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hollywood Reporter"
-      },
-      "author": "Hilary Lewis",
-      "title": "‘You Can See Everything’ Sweeps Critics Choice Documentary Awards - The Hollywood Reporter",
-      "description": "Ron Howard and Jehane Noujaim were honored at the 11th annual celebration of nonfiction filmmaking in New York.",
-      "url": "http://www.hollywoodreporter.com/movies/movie-news/2026-critics-choice-documentary-awards-winners-list-1236750661/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/YCSE_EH-TH-H-2026.jpg?w=1296&h=730&crop=1",
-      "publishedAt": "2026-11-09T03:58:10Z",
-      "content": "You Can See Everything won everything it was nominated for at the 2026 Critics Choice DocumentaryAwards.\r\nThe buzzy Elizabeth Holmes doc, directed by Nathan Fielder and Lance Oppenheim, won all five … [+8330 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Liam Bowman",
-      "title": "In rare GOP rebuke, congressman says Trump must ‘fire people’ — including Miller - The Washington Post",
-      "description": "Rep. Marlin Stutzman of Indiana, speaking on CNN, criticized Stephen Miller’s “tone” and his record on immigration.",
-      "url": "https://www.washingtonpost.com/politics/2026/11/08/rare-gop-rebuke-congressman-says-trump-must-fire-people-including-miller/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TTCSOJNLFMJRDI6QVNOBAJ752M_size-normalized.JPG&w=1440",
-      "publishedAt": "2026-11-09T03:45:00Z",
-      "content": "A House Republican from Indiana on Sunday said the White House should fire people including Stephen Miller after Democrats won big in the midterm elections.\r\nRep. Marlin Stutzman said it was a bad mi… [+181 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Financial Times"
-      },
-      "author": null,
-      "title": "Trump says he was ‘too tough’ on immigrants as he floats amnesty deal - Financial Times",
-      "description": "President concedes US voters were turned off by deportations, Iran war and ‘bad messaging’ on economy in midterm elections",
-      "url": "https://www.ft.com/content/c82ac9a2-617e-400a-a5b7-e8d6674a80d4?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8b038d19-3efa-4f21-a22e-c399bf73479d.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "publishedAt": "2026-11-09T02:54:17Z",
-      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Financial Times"
-      },
-      "author": null,
-      "title": "Pope Leo and Javier Milei offer duelling visions for Argentina - Financial Times",
-      "description": "Pontiff’s speech included what many interpreted as veiled criticism of president’s austerity measures",
-      "url": "https://www.ft.com/content/67575be7-5801-481e-9097-a1c0ba3ebf36?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F98182473-86ba-40f4-b638-aa5ec9f9be5d.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "publishedAt": "2026-11-09T02:49:57Z",
-      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
-    },
-    {
-      "source": {
-        "id": "the-hill",
-        "name": "The Hill"
-      },
-      "author": "Abigail Walker",
-      "title": "Trump says he was ‘kidding’ about Dana White for press secretary - The Hill",
-      "description": "President Trump said on Sunday that he offered UFC CEO Dana White the White House press secretary role as a joke. “I will tell you, I was only kidding,” Trump told reporters in West Palm Beach, Florida. “But Dana loves the idea, and there’s only one Dana, and…",
-      "url": "https://thehill.com/homenews/6207197-trump-dana-white-press-secretary-joke/",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26312854076201-e1794188697709.jpg?w=1280",
-      "publishedAt": "2026-11-09T02:20:00Z",
-      "content": "Skip to content\r\nPresident Trump said on Sunday that he offered UFC CEO Dana White the White House press secretary role as a joke.\r\n“I will tell you, I was only kidding,” Trump told reporters in West… [+1502 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Liam Bowman",
-      "title": "Top House Democrat says he’s a ‘hard yes’ on Pete Hegseth impeachment - The Washington Post",
-      "description": "“Pete Hegseth has got to go,” House Minority Leader Hakeem Jeffries told ABC News.",
-      "url": "https://www.washingtonpost.com/politics/2026/11/08/pete-hegseth-impeachment-would-be-hard-yes-hakeem-jeffries/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/ZT7OPQ56MK2PXEW5CCWOS2RVZY.jpg&w=1440",
-      "publishedAt": "2026-11-09T02:08:37Z",
-      "content": "Rep. Hakeem Jeffries (New York), the top House Democrat, said Sunday he was a hard yes on impeaching Defense Secretary Pete Hegseth and said he would discuss the issue with other lawmakers in his par… [+45 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "mlive.com"
-      },
-      "author": "MLive.com",
-      "title": "Overheard inside the Lions’ locker room: All we could do and can’t find the words - MLive.com",
-      "description": null,
-      "url": "https://www.mlive.com/lions/2026/11/overheard-inside-the-lions-locker-room-all-we-could-do-and-cant-find-the-words.html",
-      "urlToImage": null,
-      "publishedAt": "2026-11-08T23:44:00Z",
-      "content": null
+      "author": "Chris Oswalt",
+      "title": "Mississippi election count continues with 2,800 ballots out - WAPT",
+      "description": "Mississippi Secretary of State Michael Watson says 75 of the state’s 82 counties have uploaded unofficial election results",
+      "url": "https://www.wapt.com/article/mississippi-election-count-2800-absentee-ballots-out/74370112",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/wapt/25376012-25376012.jpg?crop=1.00xw%3A0.753xh%3B0%2C0.0998xh&resize=1200%3A*",
+      "publishedAt": "2026-11-08T23:56:14Z",
+      "content": "JACKSON, Miss.Mississippi Secretary of State Michael Watson says 75 of the states 82 counties have uploaded unofficial election results.\r\nJust over 2,800 absentee mail-in ballots are still out, Watso… [+320 chars]"
     },
     {
       "source": {
@@ -469,45 +677,6 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4599x2587+0+0/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5c%2Fc0%2Fdc73c7204565a92b1ac2edbf6cdf%2Fap26240473368494.jpg",
       "publishedAt": "2026-11-08T23:36:47Z",
       "content": "If you have dreams of going to the moon, you now have a chance. NASA is accepting applications for those interested in becoming an astronaut.\r\nThe candidates selected to be astronauts would not only … [+2115 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Variety"
-      },
-      "author": "Naman Ramachandran",
-      "title": "‘Godzilla Minus Zero’ and ‘Ramayana: Rise of a Legend’ Roar at International Box Office - Variety",
-      "description": "Asian cinema dominated the global box office over the weekend as Japan's 'Godzilla Minus Zero' and Indian epic 'Ramayana' posted thunderous debuts.",
-      "url": "https://variety.com/2026/film/box-office/godzilla-minus-zero-ramayana-nternational-box-office-1236942760/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2026/11/Godzilla-Ramayana.jpg?w=1000&h=563&crop=1",
-      "publishedAt": "2026-11-08T23:22:00Z",
-      "content": "Asian cinema dominated the worldwide box office over the weekend as Toho and Takashi Yamazaki’s “Godzilla Minus Zero” and Namit Malhotra and Nitesh Tiwari’s Indian epic “Ramayana: Rise of a Legend” p… [+5134 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Margaret  Brennan, Kiki  Intarasuwan",
-      "title": "Former RFK Jr. adviser accuses Susie Wiles, other Trump officials of corruption, blocking MAHA policies - CBS News",
-      "description": "Calley Means, a White House senior adviser and aide to Health Secretary Robert F. Kennedy Jr., who resigned last month, said on \"Face the Nation with Margaret Brennan\" that some Trump administration officials are catering to special interests.",
-      "url": "https://www.cbsnews.com/news/calley-means-white-house-health-and-human-services-rfk-jr/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/08/495d1840-bab7-4d2a-a339-d65fa4a3f282/thumbnail/1200x630/173b9d54a2686a007efcba0e584d5d51/1794165308889.png",
-      "publishedAt": "2026-11-08T21:46:00Z",
-      "content": "The full transcript of Margaret Brennan's interview with Calley Means is available on cbsnews.com.\r\nA former senior White House adviser and top aide to Health and Human Services Secretary Robert F. K… [+10292 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Week 10 AP Poll sees Georgia rightfully take over top spot while voters continue to award USC for no reason - Fox News",
-      "description": "Georgia jumped to No. 1 after dismantling Ole Miss 42-7, while the Alabama-Tennessee ranking debate and USC's puzzling rise stir controversy.",
-      "url": "https://www.foxnews.com/outkick-sports/week-10-ap-poll-georgia-rightfully-take-over-top-spot-voters-continue-award-usc-no-reason",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/georgia-number-one-featured.jpg",
-      "publishedAt": "2026-11-08T21:20:08Z",
-      "content": "Week 10 had the potential to be one of the more chaotic and disruptive weekends of the college football season, with seven ranked-on-ranked matchups. Naturally, five of those seven matchups were won … [+4845 chars]"
     },
     {
       "source": {
@@ -525,19 +694,6 @@
     {
       "source": {
         "id": null,
-        "name": "Wccftech"
-      },
-      "author": "Sebastian Castellanos",
-      "title": "AMD Acknowledges Radeon Driver Bug Causing Constant SSD Writes, Fix In The Works - Wccftech",
-      "description": "AMD acknowledges a Radeon driver bug causing continuous SSD writes on some systems. Here's what's affected, how to check, and when a fix may arrive.",
-      "url": "https://wccftech.com/amd-acknowledges-radeon-driver-bug-causing-constant-ssd-writes-fix-in-the-works/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-16.jpg",
-      "publishedAt": "2026-11-08T16:27:47Z",
-      "content": "Some AMD Radeon users are reporting an unusual graphics driver bug that causes continuous background writes to their SSDs, even when their systems are otherwise idle. The issue appears to involve AMD… [+3189 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "ScienceAlert"
       },
       "author": "David Nield",
@@ -550,107 +706,29 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "AppleInsider"
+        "id": "the-washington-post",
+        "name": "The Washington Post"
       },
-      "author": "William Gallagher",
-      "title": "Siri AI chief may step down as more Apple departures are rumored - AppleInsider",
-      "description": "Apple's Mike Rockwell is reportedly considering leaving at least his current role as head of Siri AI, perhaps prompting a shakeup of executive roles at the company.",
-      "url": "https://appleinsider.com/articles/26/11/08/siri-ai-chief-may-step-down-as-more-apple-departures-are-rumored",
-      "urlToImage": "https://photos5.appleinsider.com/gallery/68351-144058-Apple-Park-miniature-xl.jpg",
-      "publishedAt": "2026-11-08T15:25:28Z",
-      "content": "Apple Park\r\nApple's Mike Rockwell is reportedly considering leaving at least his current role as head of Siri AI, perhaps prompting a shakeup of executive roles at the company.\r\nRockwell was behind t… [+2489 chars]"
+      "author": "Elie Dolgin",
+      "title": "Why the simple flu shot could be a surprise weapon against cancer - The Washington Post",
+      "description": "Scientists are exploring whether the flu vaccine can disrupt tumors, providing another treatment along with expensive cutting-edge care. A small clinical trial offers hope.",
+      "url": "https://www.washingtonpost.com/health/2026/11/08/why-simple-flu-shot-could-be-surprise-weapon-against-cancer/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FDCZ4G4YO4LP7DOZDIWLXLTUNE_size-normalized.jpg&w=1440",
+      "publishedAt": "2026-11-08T11:32:29Z",
+      "content": "The humble flu shot may have a hidden talent: fighting cancer.\r\nIn a small clinical trial in Ohio, doctors injected an ordinary flu vaccine straight into patients skin tumors, hoping to fool the immu… [+52 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "STAT"
+        "name": "ScienceAlert"
       },
-      "author": "Matthew Herper",
-      "title": "Why the latest heart drug failures should make us all more skeptical of AI hype - STAT",
-      "description": "Once again, a hot new technology that was supposed to speed up drug research has fallen flat.",
-      "url": "https://www.statnews.com/2026/11/08/heart-drug-failures-lessons-for-artificial-intelligence-from-aha-conference/",
-      "urlToImage": "https://www.statnews.com/wp-content/uploads/2026/08/AdobeStock_182456094-1024x576.jpeg",
-      "publishedAt": "2026-11-08T09:34:05Z",
-      "content": "The next time someone tells you that artificial intelligence, or any other new technology, is going to cure every disease, point them to the effort to fight heart attacks and strokes, which together … [+992 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Chelsea Gohd",
-      "title": "'I think we will prevail': NASA chief Jared Isaacman on Artemis, China and the new moon race (exclusive) - Space",
-      "description": "\"I think the implications are pretty severe, which is why we're taking it so seriously and putting such extreme focus on the mission right now.\"",
-      "url": "https://www.space.com/space-exploration/i-think-we-will-prevail-nasa-chief-jared-isaacman-on-artemis-china-and-the-new-moon-race-exclusive",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/hdXEWy2dVNKmQrF4BoLQZW-1920-80.png",
-      "publishedAt": "2026-11-07T11:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "cleveland.com"
-      },
-      "author": "Chris Pugh, cleveland.com",
-      "title": "Many babies thought to have peanut allergies may not have them, study finds - Cleveland.com",
-      "description": "A new peanut allergy study found 35% of infants tested had no reaction during a supervised food challenge, raising questions about early diagnoses.",
-      "url": "https://www.cleveland.com/news/2026/11/many-babies-thought-to-have-peanut-allergies-may-not-have-them-study-finds.html",
-      "urlToImage": "https://www.cleveland.com/resizer/v2/MA2NDKDMERAW7IMXAYKZILDFBI.jpg?auth=4f7a0042a66a5ba053c9e6583eeea77dfca19ffc2efe0e9178c35f08c668fd5a&width=1280&smart=true",
-      "publishedAt": "2026-11-07T10:00:00Z",
-      "content": "A peanut allergy diagnosis can change nearly every meal for a family. But new research suggests some babies believed to have the allergy may actually be able to eat peanuts safely. A new Australian s… [+1813 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "HYPEBEAST"
-      },
-      "author": "Eddie Eng",
-      "title": "The 'Grand Theft Auto VI' Custom In-Game Cars Have Come to Life - Hypebeast",
-      "description": "West Coast Customs painstakingly recreated the iconic cars of the game.",
-      "url": "https://hypebeast.com/2026/11/grand-theft-auto-vi-gta6-real-in-game-cars#article",
-      "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2026%2F11%2F06%2Fgrand-theft-auto-vi-gta6-real-in-game-cars-tw.jpg?w=1080&cbr=1&q=90&fit=max",
-      "publishedAt": "2026-11-06T21:37:04Z",
-      "content": "Summary\r\nWest Coast Customs helped recreate the in-game custom cars of 'Grand Theft Auto VI'\r\nEach car comes with its own backstory, including stats, figures and details\r\n'Grand Theft Auto VI' finall… [+3586 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "HuffPost"
-      },
-      "author": null,
-      "title": "Wisconsin Reports Its First Infant Death Linked To Measles In 36 Years - HuffPost",
-      "description": "The death immediately follows Pennsylvania reporting its sixth measles-associated death this year, and New York reporting its first.",
-      "url": "https://www.huffpost.com/entry/wisconsin-infant-measles-death_n_6aedd3e2e4b037ca10338f15",
-      "urlToImage": "https://img.huffingtonpost.com/asset/6aedd9ae1b0000f31dd13067.jpeg?cache=S6WHWDurWS&ops=1200_630",
-      "publishedAt": "2026-11-06T13:49:11Z",
-      "content": "The Wisconsin Department of Health Services said on Thursday that an infant had died in connection with the ongoing measles outbreak in the state.\r\nThe coroner listed measles as the immediate cause o… [+1816 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Authority"
-      },
-      "author": null,
-      "title": "Samsung One UI 9.5 brings notable changes to Health and Calendar - Android Authority",
-      "description": "Samsung's One UI 9.5 brings a redesigned Calendar app and a new journaling feature to Samsung Health.",
-      "url": "https://www.androidauthority.com/samsung-one-ui-9-5-calendar-health-app-changes-3732266/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2026/03/Samsung-Galaxy-S26-Ultra-showing-One-UI-home-screen.jpg",
-      "publishedAt": "2026-11-05T22:09:00Z",
-      "content": "<ul><li>Early One UI 9.5 test builds reveal upcoming changes to Samsung Calendar and Samsung Health.</li><li>Samsung Calendar is getting a cleaner, grid-free interface, a relocated search button, and… [+2841 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Kyley Warren",
-      "title": "Fireballs could light up the sky tonight as the Southern Taurids peak - USA TODAY 10BEST",
-      "description": "The Southern Taurid meteor shower peaks Nov. 4-5, 2026. Find out when to watch for shooting stars and bright 'Halloween fireballs.'",
-      "url": "https://10best.usatoday.com/lifestyle/southern-taurids-meteor-shower-november-2026/",
-      "urlToImage": "https://img2.10bestmedia.com/Images/Photos/437250/71423220007-1234617956_54_990x660.jpg",
-      "publishedAt": "2026-11-05T06:09:03Z",
-      "content": "The Southern Taurids meteor shower peaks Nov. 4-5, 2026. Find out when to watch for shooting stars and bright Halloween fireballs. – Photo courtesy of Bill Ingalls/ NASA via Getty Images\r\nCould blazi… [+2928 chars]"
+      "author": "David Nield",
+      "title": "Scientists Discover Two Enormous Tears in a Tectonic Plate Beneath Iran - ScienceAlert",
+      "description": "On the scale of human generations, the tectonic plates that form Earth's crust and upper mantle are moving incredibly slowly.",
+      "url": "https://www.sciencealert.com/scientists-discover-two-enormous-tears-in-a-tectonic-plate-beneath-iran",
+      "urlToImage": "https://www.sciencealert.com/images/2026/11/ZagrosMountains-1200x675.jpg",
+      "publishedAt": "2026-11-07T19:04:12Z",
+      "content": "On the scale of human generations, the tectonic plates that form Earth's crust and upper mantle are moving incredibly slowly.\r\nThey are constantly moving, though, and across millions of years, that m… [+4294 chars]"
     }
   ]
 }

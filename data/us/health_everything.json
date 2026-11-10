@@ -6,9 +6,22 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-10T11:52:42.932106+00:00",
-  "articles_count": 31,
+  "fetched_at": "2026-11-10T18:55:48.124807+00:00",
+  "articles_count": 30,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Apoorva Mandavilli",
+      "title": "America’s Measles Problem Has Reached Endemic Level",
+      "description": "A panel of scientific experts will convene on Tuesday to evaluate the United States’ measles elimination status. But genetic data already shows the virus is once again endemic.",
+      "url": "https://www.nytimes.com/2026/11/10/health/measles-united-states-elimination-rfk.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-measles-whjg/10dc-measles-whjg-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-10T17:56:29Z",
+      "content": "A panel of scientific experts will convene on Tuesday to evaluate the United States’ measles elimination status. But genetic data already shows the virus is once again endemic."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -34,6 +47,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/09/us/09nat-dengue1/09nat-dengue1-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-09T20:06:06Z",
       "content": "In the past, Americans were infected with dengue after being bitten by mosquitoes while traveling. But now, most of the current transmission is from local mosquitoes."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Eric Boodman",
+      "title": "An Anti-Trump Protest. Police Threats. Inside a Rift in Diabetes Research.",
+      "description": "It began with a protest at an American Diabetes Association conference. Now a resulting boycott has caused a scientific slowdown, with no end in sight.",
+      "url": "https://www.nytimes.com/2026/11/09/science/american-diabetes-association-turmoil.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/27/multimedia/00SCI-ADA-CONTROVERSY-01-stillpromo/00SCI-ADA-CONTROVERSY-01-stillpromo-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-09T16:41:41Z",
+      "content": "It began with a protest at an American Diabetes Association conference. Now a resulting boycott has caused a scientific slowdown, with no end in sight."
     },
     {
       "source": {
@@ -209,19 +235,6 @@
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Stella Raine Chu",
-      "title": "These Patients Struggle With Runaway Bones. Finally There’s Hope.",
-      "description": "F.O.P., a rare genetic condition, causes uncontrolled explosions of bone. New drugs may slow or halt the process.",
-      "url": "https://www.nytimes.com/2026/10/29/science/fop-bones-drugs.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/29/multimedia/29SCI-FOP-kcwm/29SCI-FOP-kcwm-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-01T17:11:56Z",
-      "content": "F.O.P., a rare genetic condition, causes uncontrolled explosions of bone. New drugs may slow or halt the process."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "Gina Kolata and Marc Santora",
       "title": "Doctors in Ukraine Try Treating Infections Like Biological Warfare Attacks",
       "description": "As many as 40 percent of injured soldiers face severe infections that can lead to amputations and death. One initiative is trying to fix that.",
@@ -294,19 +307,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/29/multimedia/29dc-foreignaid-contraception2-cmgj/29dc-foreignaid-contraception2-cmgj-mediumSquareAt3X.jpg",
       "publishedAt": "2026-10-29T16:31:53Z",
       "content": "In a memo, the department told lawmakers it was redirecting up to $125 million in foreign aid, including nearly $49 million that Congress appropriated for family planning programs in low-income countries."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Christina Jewett",
-      "title": "RFK Jr. to Allow Broad Use of Unapproved Peptide Injections",
-      "description": "In a unilateral declaration by the health secretary, several injections promoted by online influencers will become widely available. The F.D.A. had advised against the move.",
-      "url": "https://www.nytimes.com/2026/10/28/health/peptides-kennedy-fda.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/28/multimedia/00DC-Peptides-mpjh/00DC-Peptides-mpjh-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-29T12:42:21Z",
-      "content": "In a unilateral declaration by the health secretary, several injections promoted by online influencers will become widely available. The F.D.A. had advised against the move."
     },
     {
       "source": {
@@ -398,19 +398,6 @@
       "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/c4555e09-shigella-lab-test.jpg",
       "publishedAt": "2026-10-10T16:28:05Z",
       "content": "A highly contagious gut infection that can spread during sex is becoming harder to treat as antibiotic-resistant strains become more common.\r\nAn April report from the Centers for Disease Control and … [+4163 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": null,
-      "title": "AI leaders lobby Trump health officials in government-run chat room",
-      "description": "A Slack workspace has served as a war room for AI industry insiders and Trump administration officials to launch a rapid campaign aimed at persuading Americans to manage their healthcare and medical records on apps.",
-      "url": "https://www.cbsnews.com/news/ai-tech-leaders-trump-health-officials-slack/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/08/9b53f6da-a7bf-4cd5-a4de-0fb2f241dde6/thumbnail/1200x630/56a2b51c16d0198bdee5509eb68479e7/gettyimages-2227770689.jpg",
-      "publishedAt": "2026-10-09T09:00:11Z",
-      "content": "A cadre of elite techies, financiers, and high-level Trump administration officials have spent a year quietly charting an extraordinary and rapid campaign to persuade Americans to use apps and other … [+14665 chars]"
     }
   ],
   "query": "medical health research wellness"
