@@ -6,9 +6,35 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-11T08:28:37.336807+00:00",
-  "articles_count": 90,
+  "fetched_at": "2026-11-11T17:29:32.312117+00:00",
+  "articles_count": 89,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Chico Harlan and Lisa Friedman",
+      "title": "‘Fight Harder,’ U.N. Chief António Guterres Implores, Rousing Climate Ambassadors at COP31",
+      "description": "The United Nations secretary general, António Guterres, spoke at COP31, a meeting aimed at reducing emissions, amid a sharp drop in attendance by world leaders.",
+      "url": "https://www.nytimes.com/2026/11/11/climate/cop31-antonio-guterres-un.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/11/multimedia/11CLI-COP-LEADERS-jvcq/11CLI-COP-LEADERS-jvcq-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-11T12:41:20Z",
+      "content": "The United Nations secretary general, António Guterres, spoke at COP31, a meeting aimed at reducing emissions, amid a sharp drop in attendance by world leaders."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "K. R. Callaway",
+      "title": "25 Years After the Anthrax Attacks, America Remains Vulnerable",
+      "description": "Letters filled with anthrax spores exposed flaws in the United States’ biosecurity systems. Experts say many of those issues still exist.",
+      "url": "https://www.nytimes.com/2026/11/11/science/25-years-since-anthrax-attacks-vulnerability.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/11/multimedia/11SCI-BIOSECURITY-25-YEARS-01-fbhl/11SCI-BIOSECURITY-25-YEARS-01-fbhl-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-11T10:00:45Z",
+      "content": "Letters filled with anthrax spores exposed flaws in the United States’ biosecurity systems. Experts say many of those issues still exist."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -32,7 +58,7 @@
       "description": "An international panel of scientific experts will convene on Tuesday to evaluate the status, but genetic data already shows the virus is once again entrenched in the United States.",
       "url": "https://www.nytimes.com/2026/11/10/health/measles-united-states-elimination-rfk.html",
       "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-measles-whjg/10dc-measles-whjg-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-10T23:00:41Z",
+      "publishedAt": "2026-11-10T23:00:42Z",
       "content": "An international panel of scientific experts will convene on Tuesday to evaluate the status, but genetic data already shows the virus is once again entrenched in the United States."
     },
     {
@@ -76,6 +102,19 @@
     },
     {
       "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Gizmodo",
+      "title": "Astronomers Spot Backward-Orbiting Object Beyond Neptune - Gizmodo",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORWpWd19yVFRqd1FyWGpZUkpmUEZTSVJUVVg2ejBEZzBaV0NWWmVuUTZrSjZWUDU5V3lGT0NYTVR4d0pmWTRXejVnQXk5SklEUEwzRkNMZElVc3l2Z0hLR19Tc3luRWR1ZERlZlhCckgySmR1UzZMR2NmcF93UmYwM2dwVmUzbU9QOEM5UU1IX2tQNllVM2g1WEhVS3NXMzVJeTlSbGFmc184T1daWS1vVElHZ2k0bU5J?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-11-10T14:40:08Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -86,6 +125,32 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/09/multimedia/09cli-global-emissions-01-jlbf/09cli-global-emissions-01-jlbf-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-10T13:40:41Z",
       "content": "It’s the first drop in planet-warming pollution since the pandemic in 2020. But researchers cautioned that the decline could be short-lived."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Michelle Starr",
+      "title": "Einstein's Equations Reveal Gravity Can Break And Reconnect Like Magnetic Fields - ScienceAlert",
+      "description": "Everywhere you go in the Universe, gravity exists.",
+      "url": "https://www.sciencealert.com/einsteins-equations-reveal-gravity-can-break-and-reconnect-like-magnetic-fields",
+      "urlToImage": "https://www.sciencealert.com/images/2026/11/warp-1200x675.png",
+      "publishedAt": "2026-11-10T11:02:31Z",
+      "content": "Everywhere you go in the Universe, gravity exists.\r\nIt's inextricably woven into its fabric, forming stars and planets, and choreographing the dance of galaxies.\r\nIt's what keeps our world together a… [+7394 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Meghan Bartels",
+      "title": "NASA's twin ESCAPADE Mars probes slingshot around Earth in unprecedented double 'gravity assist' - Space",
+      "description": "\"No NASA mission has ever done this before.\"",
+      "url": "https://www.space.com/astronomy/mars/nasas-escapade-twin-mars-probes-execute-a-1st-of-its-kind-gravity-slingshot-around-earth",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/4YuqmLiXJ7u7ppndMEZUtX-1920-80.jpg",
+      "publishedAt": "2026-11-10T11:00:00Z",
+      "content": null
     },
     {
       "source": {
@@ -112,6 +177,19 @@
       "urlToImage": null,
       "publishedAt": "2026-11-10T10:00:43Z",
       "content": "Best known for dissolving bodies in bathtubs, sulfuric acid has the potential to be the elixir of life on other worlds."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Big Think"
+      },
+      "author": null,
+      "title": "5 big astronomy \"facts\" that changed in the 21st century - Big Think",
+      "description": "\"Everyone knew\" how these things worked at the turn of the century. Wrong! Today, our understanding of these 5 phenomena is very different.",
+      "url": "https://bigthink.com/starts-with-a-bang/5-astronomy-facts-changed-21st-century/",
+      "urlToImage": "https://bigthink.com/wp-content/uploads/2023/11/uhz1_illus.jpg?quality=85&w=864&h=488&crop=1",
+      "publishedAt": "2026-11-10T07:00:00Z",
+      "content": null
     },
     {
       "source": {
@@ -151,6 +229,19 @@
       "urlToImage": "https://www.sciencedaily.com/images/1920/particle-collision-physics-accelerator.webp",
       "publishedAt": "2026-11-10T00:44:33Z",
       "content": "After more than 40 years of searching, physicists at CERN have reached a major milestone in their hunt for one of the rarest known particle decays. Researchers working with the LHCb experiment have d… [+6297 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Accidental discovery enables room-temperature recrystallization of molybdenum - Phys.org",
+      "description": "Researchers at the University of Rochester and Technion–Israel Institute of Technology accidentally discovered a new way to rearrange the internal structure of molybdenum—an extremely heat-resistant metal—at room temperature. Molybdenum is typically used to r…",
+      "url": "https://phys.org/news/2026-11-accidental-discovery-enables-room-temperature.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/a-molybdenite-mos2-min.jpg",
+      "publishedAt": "2026-11-10T00:30:06Z",
+      "content": "Researchers at the University of Rochester and TechnionIsrael Institute of Technology accidentally discovered a new way to rearrange the internal structure of molybdenuman extremely heat-resistant me… [+4720 chars]"
     },
     {
       "source": {
@@ -206,6 +297,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Our sun's undiscovered stellar nemesis is still out there, says physicist - Phys.org",
+      "description": "Long-period, high-inclination comets of the sort that can cause extinction-level impacts here on Earth have long been thought to originate from a theoretical Oort cloud. That is, a roughly spherical cloud of icy cometary objects that number in the trillions a…",
+      "url": "https://phys.org/news/2026-11-sun-undiscovered-stellar-nemesis-physicist.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/our-suns-undiscovered.jpg",
+      "publishedAt": "2026-11-09T20:20:11Z",
+      "content": "Long-period, high-inclination comets of the sort that can cause extinction-level impacts here on Earth have long been thought to originate from a theoretical Oort cloud. That is, a roughly spherical … [+5368 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -229,19 +333,6 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/tiny-beetle-trapped-in.jpg",
       "publishedAt": "2026-11-09T20:04:16Z",
       "content": "Preserved in amber for about 53 million years, a beetle has been described as a new species by researchers in Spain and France. Named Cnopus twentyonepilotorum, it is the first puppet beetle (family … [+4042 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thetimes.com"
-      },
-      "author": "Rhys Blakely",
-      "title": "Just like humans, chimps learn to ‘talk’ by copying their elders - The Times",
-      "description": "Youngsters learn when to use different sounds by studying older apes, suggesting the building blocks of speech date back to a common ancestor",
-      "url": "https://www.thetimes.com/uk/science/article/chimpanzees-learn-speak-elders-mq00ml7d9",
-      "urlToImage": "https://www.thetimes.com/imageserver/image/de79dff9-b596-44b4-895e-7997a76da910.jpg?strip=all&format=webp&crop=6000px%2C3375px%2C0px%2C312px&resize=1200",
-      "publishedAt": "2026-11-09T20:03:33Z",
-      "content": null
     },
     {
       "source": {
@@ -272,14 +363,14 @@
     {
       "source": {
         "id": null,
-        "name": "NewsCenterMaine.com WCSH-WLBZ"
+        "name": "KVUE.com"
       },
-      "author": "newscentermaine.com",
-      "title": "Fireball streaks across skies over North Carolina and Tennessee at 47,000 mph, NASA says - newscentermaine.com",
+      "author": "KVUE",
+      "title": "Fireball streaks across skies over North Carolina and Tennessee at 47,000 mph, NASA says - KVUE",
       "description": null,
-      "url": "https://www.newscentermaine.com/article/news/nation-world/fireball-streaks-across-skies-over-north-carolina-tennessee/507-ee3bd876-e677-4a83-bb55-b4c5fb0588e6",
+      "url": "https://www.kvue.com/article/news/nation-world/fireball-streaks-across-skies-over-north-carolina-tennessee/507-ee3bd876-e677-4a83-bb55-b4c5fb0588e6",
       "urlToImage": null,
-      "publishedAt": "2026-11-09T18:40:00Z",
+      "publishedAt": "2026-11-09T18:47:03Z",
       "content": null
     },
     {
@@ -311,6 +402,19 @@
     {
       "source": {
         "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Quantum interference keeps two atoms bound despite enough energy to break apart - Phys.org",
+      "description": "How can something remain intact when it should naturally break apart? This question has been addressed by researchers at RPTU. Their work has led to the experimental observation of an unusual quantum state in which two atoms remain bound together even though …",
+      "url": "https://phys.org/news/2026-11-quantum-atoms-bound-energy.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/rapidly-oscillating-ma.jpg",
+      "publishedAt": "2026-11-09T18:00:16Z",
+      "content": "How can something remain intact when it should naturally break apart? This question has been addressed by researchers at RPTU. Their work has led to the experimental observation of an unusual quantum… [+5815 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Space.com"
       },
       "author": "Mike Wall",
@@ -324,6 +428,19 @@
     {
       "source": {
         "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "Krystal Kasal",
+      "title": "The fastest levitated spinning magnet ever made might help physicists search for dark matter - Phys.org",
+      "description": "Tiny levitated magnets are able to avoid contact friction, making them useful for detecting extremely weak forces and magnetic fields and acting as ultralow-noise quantum sensors and precision measurement tools. Combining levitation with extreme cold further …",
+      "url": "https://phys.org/news/2026-11-fastest-levitated-magnet-physicists-dark.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/the-fastest-levitated.jpg",
+      "publishedAt": "2026-11-09T17:30:01Z",
+      "content": "Tiny levitated magnets are able to avoid contact friction, making them useful for detecting extremely weak forces and magnetic fields and acting as ultralow-noise quantum sensors and precision measur… [+5539 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Space.com"
       },
       "author": "Chelsea Gohd",
@@ -331,6 +448,19 @@
       "description": "\"We have an awful lot of problems that need to be solved.\"",
       "url": "https://www.space.com/space-exploration/nasa-just-launched-a-usd1-million-moon-base-student-challenge-to-award-cash-prizes-to-students-that-solve-lunar-base-problems",
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/q7vCqn7LxFksz2NwjJGvRm-1920-80.jpg",
+      "publishedAt": "2026-11-09T17:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thetimes.com"
+      },
+      "author": "Dr Mark Porter",
+      "title": "Shoulder injuries are a common problem. I did mine playing padel - The Times",
+      "description": "Two of the leading complaints in middle age are frozen shoulder and problems with the rotator cuff muscles and their tendons. And the cause is not always as obvious as mine was",
+      "url": "https://www.thetimes.com/life-style/health-fitness/article/shoulder-injuries-are-a-common-problem-i-did-mine-playing-padel-9kpxxm6dc",
+      "urlToImage": "https://www.thetimes.com/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fe9087243-6b3c-4f9f-9cfb-40a82ccb4a10.png?strip=all&format=webp&crop=1500px%2C844px%2C0px%2C59px&resize=1200",
       "publishedAt": "2026-11-09T17:00:00Z",
       "content": null
     },
@@ -363,15 +493,15 @@
     {
       "source": {
         "id": null,
-        "name": "ExtremeTech"
+        "name": "The Weather Channel"
       },
-      "author": "Graham Templeton",
-      "title": "Voyager 1's Communications Blackout Mysteriously Fixed Itself - ExtremeTech",
-      "description": "Thanks to the unexplained windfall, Voyager should be able to \"talk\" to NASA as it crosses the one-light-day threshold.",
-      "url": "https://www.extremetech.com/science/voyager-1s-communications-blackout-mysteriously-fixed-itself",
-      "urlToImage": "https://i.extremetech.com/imagery/content-types/014XjHqcpU407t20dbQQn0P/hero-image.fill.size_1200x675.png",
-      "publishedAt": "2026-11-09T15:45:29Z",
-      "content": "NASA just won't quit the Voyager probes, and it seems that the Voyager probes just won't quit themselves. New reports indicate that after an unexplained loss of communications in October, Voyager 1 c… [+2744 chars]"
+      "author": "Ada Wood",
+      "title": "Taurid meteor shower 2026: when to see fireballs in November - The Weather Channel",
+      "description": "Your best chance to catch the Taurids is this Wednesday, Nov. 11, with a dark sky and more chances on the days around the peak.",
+      "url": "https://weather.com/2026/11/09/science/space/catch-the-taurid-meteor-showers-fireballs-this-week",
+      "urlToImage": "https://s.w-x.co/wxnext/img/taurid_meteors_1_110326-0cea1e.jpg",
+      "publishedAt": "2026-11-09T16:00:00Z",
+      "content": "Taurid meteor shower peaks with November fireballs\r\nThe Taurid meteor shower is here, and you could describe the show as a high-risk, high-reward skywatching activity where catching a fireball is the… [+2891 chars]"
     },
     {
       "source": {
@@ -428,6 +558,19 @@
     {
       "source": {
         "id": null,
+        "name": "Women's Health"
+      },
+      "author": "Gabrielle Kassel",
+      "title": "Experts Say This Type of O May Offer the Most Health Benefits - Women's Health",
+      "description": "Want to have multiple orgasms? Sex experts explain what exactly qualifies as multiple orgasms and share 8 tips on how to achieve them, alone or with a partner.",
+      "url": "https://www.womenshealthmag.com/sex-and-love/a74358465/multiple-orgasms-how-to/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-2188887872-6933198a0ab56.jpg?crop=1xw:0.7514910536779325xh;center,top&resize=1200:*",
+      "publishedAt": "2026-11-09T13:09:00Z",
+      "content": "Pleasure powerfully contributes to overall well-being. If your sex life feels good, it's likely that you feel good, tooemotionally, mentally, physically, and relationally. That's why, especially for … [+15648 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Phys.Org"
       },
       "author": "Andrew Zinin",
@@ -466,19 +609,6 @@
     },
     {
       "source": {
-        "id": "mashable",
-        "name": "Mashable"
-      },
-      "author": "Lois Mackenzie",
-      "title": "Moon phase today: What the Moon will look like on November 9, 2026 - Mashable",
-      "description": "It's the New Moon.",
-      "url": "https://mashable.com/science/moon-phase-today-nov-9-2026",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/05v4uRVTEun5MITnsMjvS0e/hero-image.fill.size_1200x675.v1793627321.jpg",
-      "publishedAt": "2026-11-09T12:56:48Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": null,
         "name": "Thebrighterside.news"
       },
@@ -496,12 +626,12 @@
         "name": "ScienceAlert"
       },
       "author": "Michelle Starr",
-      "title": "Scientists Reach a Record Temperature: 280 Billion Times Colder Than The Universe - ScienceAlert",
-      "description": "Even the seemingly empty vacuum of space isn't completely cold.",
+      "title": "Scientists Reach a Record Temperature: 280 Billion Times Colder Than The Universe - Yahoo Tech",
+      "description": "Pack your thermals...",
       "url": "https://www.sciencealert.com/scientists-reach-a-record-temperature-280-billion-times-colder-than-the-universe",
-      "urlToImage": "https://www.sciencealert.com/images/2026/11/bec.png",
-      "publishedAt": "2026-11-09T12:01:01Z",
-      "content": "Even the seemingly empty vacuum of space isn't completely cold.\r\nThe Universe was born some 13.8 billion years ago in a state so hot and dense that the leftover radiation still permeates every one of… [+6872 chars]"
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/1b1b3d04aee11d6d2e650d4acd703c7cce6dd01ccb2f3f82a068bddba76ae36b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsciencealert_160%2F285219ffe4f2604523e8fd98f4ae5ee7.png",
+      "publishedAt": "2026-11-09T12:00:00Z",
+      "content": "Even the seemingly empty vacuum of space isn't completely cold.\r\nThe Universe was born some 13.8 billion years ago in a state so hot and dense that the leftover radiation still permeates every one of… [+6832 chars]"
     },
     {
       "source": {
@@ -571,6 +701,19 @@
     {
       "source": {
         "id": null,
+        "name": "KSBY San Luis Obispo News"
+      },
+      "author": "Evelyn Santa Rosa",
+      "title": "SpaceX Falcon 9 launch planned for Tuesday evening out of Vandenberg SFB - KSBY News",
+      "description": "SpaceX is planning to launch a Falcon 9 rocket out of Vandenberg Space Force Base. The launch window is expected to open shortly before 7 p.m. on Tuesday, November 10, carrying the USSF-627 mission.",
+      "url": "https://www.ksby.com/news/launch-tracker/spacex-falcon-9-launch-planned-for-monday-evening-out-of-vandenberg-sfb",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/3523130/2147483647/strip/true/crop/982x516+0+23/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F3e%2F03%2F8f6217a1445083ac0432c0f09886%2Ffalcon-9.JPG",
+      "publishedAt": "2026-11-09T02:33:44Z",
+      "content": "UPDATE (3:30 p.m.) - The launch has been pushed to Tuesday with the four-hour launch window opening shortly before 7 p.m.\r\nORIGINAL STORY: SpaceX is planning to launch a Falcon 9 rocket out of Vanden… [+419 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "SciTechDaily"
       },
       "author": null,
@@ -580,19 +723,6 @@
       "urlToImage": null,
       "publishedAt": "2026-11-08T23:25:09Z",
       "content": "Scientists have uncovered evidence that Earth may have been entering a new glacial period thousands of years ago before rising temperatures abruptly reversed the process. Credit: SciTechDaily.com\r\nA … [+5853 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "Einstein's equations reveal how gravity could break, reconnect, and release energy - Science Daily",
-      "description": "More than a century after Einstein revolutionized our understanding of gravity, scientists have uncovered a surprising new phenomenon hidden within his equations. Researchers at Columbia University and Universidad Adolfo Ibáñez have identified a theoretical p…",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261104084011.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/einstein-equations-spacetime-gravity.webp",
-      "publishedAt": "2026-11-08T22:16:28Z",
-      "content": "More than 100 years after Albert Einstein developed his theory of gravity, physicists have uncovered a surprising possibility hidden within his equations. Their work suggests that gravitational field… [+8642 chars]"
     },
     {
       "source": {
@@ -632,19 +762,6 @@
       "urlToImage": "https://cdn.sci.news/images/2026/11/image_15181f-Amber-Feather.jpg",
       "publishedAt": "2026-11-08T19:42:01Z",
       "content": "A pennaceous (vaned) feather trapped in Burmese amber about 99 million years ago, during the Cenomanian age of the Cretaceous period, is the longest three-dimensionally preserved example of its kind … [+5247 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": "Shreejaya Karantha",
-      "title": "JWST tracks more than 100 magnified stellar events in the Dragon galaxy - Phys.org",
-      "description": "Using the James Webb Space Telescope (JWST), a team of astronomers identified 104 magnified stellar events in a galaxy known as the Dragon, located around 6.5 billion light-years away. This discovery more than doubles the previous record of 44 such detections…",
-      "url": "https://phys.org/news/2026-11-jwst-tracks-magnified-stellar-events.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/jwst-tracks-more-than.jpg",
-      "publishedAt": "2026-11-08T19:20:01Z",
-      "content": "Using the James Webb Space Telescope (JWST), a team of astronomers identified 104 magnified stellar events in a galaxy known as the Dragon, located around 6.5 billion light-years away. This discovery… [+6061 chars]"
     },
     {
       "source": {
@@ -710,19 +827,6 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-90737843-884x648.jpg",
       "publishedAt": "2026-11-08T12:15:31Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "EarthSky"
-      },
-      "author": "Kelly Kizer Whitt",
-      "title": "Backward world? Rubin finds a retrograde object past Neptune - EarthSky",
-      "description": "The Rubin Observatory in Chile has discovered a retrograde object in our solar system. It circles the sun in a highly inclined orbit beyond Neptune.",
-      "url": "https://earthsky.org/space/rubin-retrograde-object-far-solar-system-r631/",
-      "urlToImage": "https://earthsky.org/upl/2026/11/retrogradeobject-Rubin-TonyDunn.gif",
-      "publishedAt": "2026-11-08T12:07:11Z",
-      "content": "Rubin Observatory has discovered a retrograde object, currently labeled R631. It orbits the sun beyond the orbit of the 8th planet, Neptune, at a steep inclination. Simulation via Tony Dunn.\r\nThe new… [+5434 chars]"
     },
     {
       "source": {
@@ -805,32 +909,6 @@
     {
       "source": {
         "id": null,
-        "name": "SciTechDaily"
-      },
-      "author": null,
-      "title": "Deep-Sea Scientists Capture Extraordinary 4K Footage of a Fish With a See-Through Head - SciTechDaily",
-      "description": "MBARI’s first 4K footage of a barreleye fish offers a rare chance to study how its unusual eyes work in the ocean’s dim twilight zone.",
-      "url": "https://scitechdaily.com/deep-sea-scientists-capture-extraordinary-4k-footage-of-a-fish-with-a-see-through-head/",
-      "urlToImage": null,
-      "publishedAt": "2026-11-07T16:24:00Z",
-      "content": "The barreleye fish (Macropinna microstoma) lives in the oceans twilight zone, scanning the waters above for food. After spotting a potential meal, those large tubular eyes rotate under a transparent … [+5151 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Live Science"
-      },
-      "author": "Zunnash Khan",
-      "title": "Women often get cold more easily than men — a mouse study offers hints why - Live Science",
-      "description": "A new study points to testosterone and proteins in the skin as reasons why males and females experience temperatures differently.",
-      "url": "https://www.livescience.com/health/neuroscience/women-often-get-cold-more-easily-than-men-a-mouse-study-offers-hints-why",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/UZL3xtpq3rajthBGiMWw87-2000-80.jpg",
-      "publishedAt": "2026-11-07T16:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Space.com"
       },
       "author": "Elizabeth Howell",
@@ -883,19 +961,6 @@
     {
       "source": {
         "id": null,
-        "name": "Futurism"
-      },
-      "author": "Victor Tangermann",
-      "title": "Orbiter Detects Signs of Activity on Mars - Futurism",
-      "description": "Researchers suggest gas is being released from hot magma deep beneath Mars' surface after discovering intriguing new fissures.",
-      "url": "https://futurism.com/space/orbiter-detects-signs-volcanic-activity-mars",
-      "urlToImage": "https://futurism.com/wp-content/uploads/2026/11/orbiter-detects-signs-volcanic-activity-mars.jpg?quality=85&w=1200",
-      "publishedAt": "2026-11-07T12:50:00Z",
-      "content": "Can’t-miss innovations from the bleeding edge of science and tech\r\nWhile many scientists have long held that Mars is “geologically dead” inside, new research is adding to the growing body of evidence… [+2487 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Space.com"
       },
       "author": "Chelsea Gohd",
@@ -905,19 +970,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/hdXEWy2dVNKmQrF4BoLQZW-1920-80.png",
       "publishedAt": "2026-11-07T11:00:00Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Universe Today"
-      },
-      "author": "Bruce Dorminey",
-      "title": "Our Sun’s Undiscovered Stellar Nemesis Is Still Out There, Says Physicist - Universe Today",
-      "description": "The decades old idea that our solar system’s Oort Cloud is continually perturbed by a heretofore undetected low mass Red Dwarf star remains the best explanation for periodicities found in Earth’s impact record. Or so says a well known physicist who has long c…",
-      "url": "https://www.universetoday.com/articles/our-suns-undiscovered-stellar-nemesis-is-still-out-there-says-physicist",
-      "urlToImage": "https://www.universetoday.com/article_images/Comet_2021_A1_Leonard_20261107_091553.jpg",
-      "publishedAt": "2026-11-07T08:47:00Z",
-      "content": "Long period, high inclination comets of the sort that can cause extinction level impacts here on Earth have long been thought to originate from a theoretical Oort Cloud. That is, a roughly spherical … [+5133 chars]"
     },
     {
       "source": {
@@ -947,19 +999,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "Air holes turn silicon wafers into flat ultraviolet focusing mirrors for compact optics - Phys.org",
-      "description": "Traditional lenses and mirrors focus light using curved surfaces. Metasurfaces can achieve similar functions with a flat layer of nanoscale structures that locally control the phase of light. Extending these flat optics into the ultraviolet could support comp…",
-      "url": "https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/air-holes-turn-silicon.jpg",
-      "publishedAt": "2026-11-06T22:00:01Z",
-      "content": "Traditional lenses and mirrors focus light using curved surfaces. Metasurfaces can achieve similar functions with a flat layer of nanoscale structures that locally control the phase of light. Extendi… [+5059 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -970,19 +1009,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/05/science/05SCI-PHAGE-01/05SCI-PHAGE-01-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-06T21:52:00Z",
       "content": "Radical Numerics turned heads with its announcement about a novel treatment. Now a former partner, Tabula Bioscience, says it performed much of the research."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Joe Rao",
-      "title": "What's that bright 'star' in the early morning sky? It's not a star at all! - Space",
-      "description": "Spotted a dazzling light in the eastern sky before sunrise? It's Venus, and the planet is only going to get brighter as it heads toward its spectacular peak later this month.",
-      "url": "https://www.space.com/stargazing/whats-that-bright-star-in-the-early-morning-sky-its-not-a-star-at-all",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/kv8mtQKdbpsTsbNskhXDAJ-2119-80.jpg",
-      "publishedAt": "2026-11-06T21:00:00Z",
-      "content": null
     },
     {
       "source": {
@@ -1009,19 +1035,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/06/multimedia/06SCI-BLUE-SCIENCE-01-fqwp/06SCI-BLUE-SCIENCE-01-fqwp-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-06T16:05:48Z",
       "content": "The Trump administration has sought to reshape the nation’s research infrastructure. Democratic lawmakers, newly empowered, are preparing to push back."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Geekspin.co"
-      },
-      "author": "Stefan Milovanovic",
-      "title": "China detects rare radio signal from distant star system - Yahoo",
-      "description": "A radio signal from a star 238 light-years away briefly looked like it might be a sign of alien life, but the astronomers who found it say it’s more likely c...",
-      "url": "https://geekspin.co/china-detects-rare-radio-signal-from-distant-star-system/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/5d9b884f3580ba3979466c83235b9192757f5ec5139eda64b71ccc1f0bfa06a5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgeekspin_390%2F90a3f80f2339b45106cd9b2436891456.jpg",
-      "publishedAt": "2026-11-06T13:00:18Z",
-      "content": "A radio signal from a star 238 light-years away briefly looked like it might be a sign of alien life, but the astronomers who found it say it's more likely coming from somewhere on Earth.\r\nThe signal… [+2596 chars]"
     },
     {
       "source": {
@@ -1091,19 +1104,6 @@
     {
       "source": {
         "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "Mystery origin of iconic Stonehenge Altar Stone deepens as search narrows - Phys.org",
-      "description": "The hunt for the source of Stonehenge's mysterious Altar Stone has entered a new phase after scientists ruled out several previously proposed locations and moved a step closer to identifying its origins.",
-      "url": "https://phys.org/news/2026-11-mystery-iconic-stonehenge-altar-stone.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/november--news--aberys.jpg",
-      "publishedAt": "2026-11-05T17:00:02Z",
-      "content": "The hunt for the source of Stonehenge's mysterious Altar Stone has entered a new phase after scientists ruled out several previously proposed locations and moved a step closer to identifying its orig… [+4260 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Live Science"
       },
       "author": "Larissa G. Capella",
@@ -1155,29 +1155,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Nature.com"
+        "id": "associated-press",
+        "name": "Associated Press"
       },
-      "author": null,
-      "title": "Carbon radical generation by irreversible metal-to-ligand charge transfer - Nature",
-      "description": "Nature - Carbon radical generation by irreversible metal-to-ligand charge transfer",
-      "url": "https://www.nature.com/articles/s41586-026-11368-9.pdf",
-      "urlToImage": null,
-      "publishedAt": "2026-11-04T22:28:14Z",
-      "content": "State Key Laboratory of Fluorine and Nitrogen Chemistry and Advanced Materials, Shanghai Institute of Organic Chemistry, University of Chinese Academy of Sciences, Chinese Academy of Sciences, Shangh… [+112 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "All 5 genetic “letters” of DNA and RNA discovered in a 4.5-billion-year-old asteroid - Science Daily",
-      "description": "Scientists have discovered all five essential nucleobases used in DNA and RNA in pristine samples from asteroid Ryugu, revealing that key ingredients for life existed in space billions of years ago. The remarkable finding adds to growing evidence from other a…",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261102075903.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/ryugu-sample-in-return-capsule.webp",
-      "publishedAt": "2026-11-03T11:00:02Z",
-      "content": "A new study reveals all five fundamental nucleobases – the molecular “letters” of life – have been detected in samples from the asteroid Ryugu.Asteroid particles offer a glimpse into the chemical ing… [+3859 chars]"
+      "author": "Marcia Dunn",
+      "title": "NASA space telescope plunges to Earth after two decades studying cosmic explosions - AP News",
+      "description": "One of NASA's premier space telescopes has plunged to Earth, ending its 22-year investigation of the universe's biggest explosions. The Swift Observatory's demise on Wednesday came less than three months after a long-shot rescue mission failed. The U.S. Space…",
+      "url": "https://apnews.com/article/swift-observatory-telescope-hubble-5c19afdd7867dc88d68ea61dba1fbaee",
+      "urlToImage": "https://dims.apnews.com/dims4/default/f0c46d0/2147483647/strip/true/crop/3008x2000+0+0/resize/1200x798!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7f%2F19%2Ffc86deaed4a846edbd4945ffe82a%2F5f317232886346b2be17e35945218adc",
+      "publishedAt": "2026-11-04T19:41:00Z",
+      "content": "CAPE CANAVERAL, Fla. (AP) One of NASAs premier space telescopes plunged to Earth on Wednesday, ending its 22-year investigation of the universes biggest explosions.\r\nThe Swift Observatorys demise cam… [+1997 chars]"
     }
   ]
 }
