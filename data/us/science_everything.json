@@ -6,9 +6,35 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-11T17:29:32.312117+00:00",
+  "fetched_at": "2026-11-11T23:44:15.450497+00:00",
   "articles_count": 29,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "K. R. Callaway",
+      "title": "25 Years After the Anthrax Attacks, America Remains Vulnerable",
+      "description": "Letters filled with anthrax spores exposed flaws in the United States’ biosecurity systems. Experts say many of those issues still exist.",
+      "url": "https://www.nytimes.com/2026/11/11/science/25-years-since-anthrax-attacks-vulnerability.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/17/multimedia/11SCI-BIOSECURITY-25-YEARS-01-fbhl/11SCI-BIOSECURITY-25-YEARS-01-fbhl-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-11T21:00:38Z",
+      "content": "Letters filled with anthrax spores exposed flaws in the United States’ biosecurity systems. Experts say many of those issues still exist."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Clay Risen",
+      "title": "The Russian Scientist Behind the Deadly Novichok Nerve Agents Has Died",
+      "description": "Vladimir Uglev, a lead developer of a Cold War-era chemical weapon used on the dissident Alexei Navalny, later turned against the government. He was 80.",
+      "url": "https://www.nytimes.com/2026/11/11/science/vladimir-uglev-dead.html",
+      "urlToImage": null,
+      "publishedAt": "2026-11-11T19:51:52Z",
+      "content": "Vladimir Uglev, a lead developer of a Cold War-era chemical weapon used on the dissident Alexei Navalny, later turned against the government. He was 80."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -19,21 +45,8 @@
       "description": "The United Nations secretary general, António Guterres, spoke at COP31, a meeting aimed at reducing emissions, amid a sharp drop in attendance by world leaders.",
       "url": "https://www.nytimes.com/2026/11/11/climate/cop31-antonio-guterres-un.html",
       "urlToImage": "https://static01.nyt.com/images/2026/11/11/multimedia/11CLI-COP-LEADERS-jvcq/11CLI-COP-LEADERS-jvcq-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-11T12:41:20Z",
+      "publishedAt": "2026-11-11T17:27:55Z",
       "content": "The United Nations secretary general, António Guterres, spoke at COP31, a meeting aimed at reducing emissions, amid a sharp drop in attendance by world leaders."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "K. R. Callaway",
-      "title": "25 Years After the Anthrax Attacks, America Remains Vulnerable",
-      "description": "Letters filled with anthrax spores exposed flaws in the United States’ biosecurity systems. Experts say many of those issues still exist.",
-      "url": "https://www.nytimes.com/2026/11/11/science/25-years-since-anthrax-attacks-vulnerability.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/11/multimedia/11SCI-BIOSECURITY-25-YEARS-01-fbhl/11SCI-BIOSECURITY-25-YEARS-01-fbhl-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-11T10:00:45Z",
-      "content": "Letters filled with anthrax spores exposed flaws in the United States’ biosecurity systems. Experts say many of those issues still exist."
     },
     {
       "source": {
@@ -372,19 +385,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/04/science/04SCI-CHIHUAHUA-DNA-01/04SCI-CHIHUAHUA-DNA-01-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-05T10:02:53Z",
       "content": "The breed is descended from indigenous canines, which may have been intentionally mixed with wild coyotes long before Europeans arrived in the Americas."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Randi Hutter Epstein",
-      "title": "Beverly Whipple Has Died. She Introduced the G-Spot to the Mainstream.",
-      "description": "Dr. Whipple studied the female erogenous zone and, with collaborators, wrote a best seller about women’s sexuality. She was 85.",
-      "url": "https://www.nytimes.com/2026/11/04/science/beverly-whipple-g-spot-dead.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/07/obituaries/04whipple_top-print1/04whipple_top-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-04T23:03:06Z",
-      "content": "Dr. Whipple studied the female erogenous zone and, with collaborators, wrote a best seller about women’s sexuality. She was 85."
     }
   ],
   "query": "science research discovery space"

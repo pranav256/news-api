@@ -6,9 +6,22 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-11T17:29:32.312117+00:00",
-  "articles_count": 31,
+  "fetched_at": "2026-11-11T23:44:15.450497+00:00",
+  "articles_count": 30,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Michael Paulson",
+      "title": "Jessica Chastain to Star in New Broadway Play ‘Lost Lear’",
+      "description": "Chastain will portray an actress with dementia whose most vivid memories are of rehearsing for the title role in “King Lear.”",
+      "url": "https://www.nytimes.com/2026/11/11/theater/jessica-chastain-broadway-lost-lear.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/06/multimedia/00cul-broadway-chastain-htmg/00cul-broadway-chastain-htmg-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-11T22:00:05Z",
+      "content": "Chastain will portray an actress with dementia whose most vivid memories are of rehearsing for the title role in “King Lear.”"
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -310,19 +323,6 @@
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Sarah Kliff and Margot Sanger-Katz",
-      "title": "Court Blocks Strict New Rule for Medicaid Work Requirements",
-      "description": "States had sued the Trump administration, arguing that a regulation would unlawfully cause very sick Americans to lose their coverage. A federal judge agreed.",
-      "url": "https://www.nytimes.com/2026/10/29/us/politics/medicaid-work-requirements-frailty.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/29/multimedia/29dc-medicaid-mtwq/29dc-medicaid-mtwq-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-10-29T21:32:44Z",
-      "content": "States had sued the Trump administration, arguing that a regulation would unlawfully cause very sick Americans to lose their coverage. A federal judge agreed."
-    },
-    {
-      "source": {
         "id": "fox-news",
         "name": "Fox News"
       },
@@ -398,19 +398,6 @@
       "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/man-with-headache-overwhelmed.jpg",
       "publishedAt": "2026-10-12T11:00:58Z",
       "content": "A new analysis of 44 studies has linked \"doomscrolling\" to higher levels of anxiety and psychological distress but for some, information overload may also contribute to a phenomenon one neurologist c… [+7592 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Stomach-turning sexually transmitted infection is on the rise — and standard medicines are failing",
-      "description": "Shigella bacteria are becoming harder to treat as drug-resistant strains rise, and doctors warn Americans should be concerned but not panicked.",
-      "url": "https://www.foxnews.com/health/sexually-transmitted-diarrhea-rise-standard-medicines-failing",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/c4555e09-shigella-lab-test.jpg",
-      "publishedAt": "2026-10-10T16:28:05Z",
-      "content": "A highly contagious gut infection that can spread during sex is becoming harder to treat as antibiotic-resistant strains become more common.\r\nAn April report from the Centers for Disease Control and … [+4163 chars]"
     }
   ],
   "query": "medical health research wellness"

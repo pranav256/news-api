@@ -6,9 +6,35 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-11T17:29:32.312117+00:00",
-  "articles_count": 89,
+  "fetched_at": "2026-11-11T23:44:15.450497+00:00",
+  "articles_count": 90,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "K. R. Callaway",
+      "title": "25 Years After the Anthrax Attacks, America Remains Vulnerable",
+      "description": "Letters filled with anthrax spores exposed flaws in the United States’ biosecurity systems. Experts say many of those issues still exist.",
+      "url": "https://www.nytimes.com/2026/11/11/science/25-years-since-anthrax-attacks-vulnerability.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/17/multimedia/11SCI-BIOSECURITY-25-YEARS-01-fbhl/11SCI-BIOSECURITY-25-YEARS-01-fbhl-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-11T21:00:38Z",
+      "content": "Letters filled with anthrax spores exposed flaws in the United States’ biosecurity systems. Experts say many of those issues still exist."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Clay Risen",
+      "title": "The Russian Scientist Behind the Deadly Novichok Nerve Agents Has Died",
+      "description": "Vladimir Uglev, a lead developer of a Cold War-era chemical weapon used on the dissident Alexei Navalny, later turned against the government. He was 80.",
+      "url": "https://www.nytimes.com/2026/11/11/science/vladimir-uglev-dead.html",
+      "urlToImage": null,
+      "publishedAt": "2026-11-11T19:51:52Z",
+      "content": "Vladimir Uglev, a lead developer of a Cold War-era chemical weapon used on the dissident Alexei Navalny, later turned against the government. He was 80."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -19,21 +45,8 @@
       "description": "The United Nations secretary general, António Guterres, spoke at COP31, a meeting aimed at reducing emissions, amid a sharp drop in attendance by world leaders.",
       "url": "https://www.nytimes.com/2026/11/11/climate/cop31-antonio-guterres-un.html",
       "urlToImage": "https://static01.nyt.com/images/2026/11/11/multimedia/11CLI-COP-LEADERS-jvcq/11CLI-COP-LEADERS-jvcq-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-11T12:41:20Z",
+      "publishedAt": "2026-11-11T17:27:55Z",
       "content": "The United Nations secretary general, António Guterres, spoke at COP31, a meeting aimed at reducing emissions, amid a sharp drop in attendance by world leaders."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "K. R. Callaway",
-      "title": "25 Years After the Anthrax Attacks, America Remains Vulnerable",
-      "description": "Letters filled with anthrax spores exposed flaws in the United States’ biosecurity systems. Experts say many of those issues still exist.",
-      "url": "https://www.nytimes.com/2026/11/11/science/25-years-since-anthrax-attacks-vulnerability.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/11/multimedia/11SCI-BIOSECURITY-25-YEARS-01-fbhl/11SCI-BIOSECURITY-25-YEARS-01-fbhl-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-11T10:00:45Z",
-      "content": "Letters filled with anthrax spores exposed flaws in the United States’ biosecurity systems. Experts say many of those issues still exist."
     },
     {
       "source": {
@@ -102,16 +115,81 @@
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "KTLA Los Angeles"
       },
-      "author": "Gizmodo",
-      "title": "Astronomers Spot Backward-Orbiting Object Beyond Neptune - Gizmodo",
+      "author": "KTLA",
+      "title": "Planet 1,000 light-years away mysteriously vanishes before astronomers’ eyes - KTLA",
       "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORWpWd19yVFRqd1FyWGpZUkpmUEZTSVJUVVg2ejBEZzBaV0NWWmVuUTZrSjZWUDU5V3lGT0NYTVR4d0pmWTRXejVnQXk5SklEUEwzRkNMZElVc3l2Z0hLR19Tc3luRWR1ZERlZlhCckgySmR1UzZMR2NmcF93UmYwM2dwVmUzbU9QOEM5UU1IX2tQNllVM2g1WEhVS3NXMzVJeTlSbGFmc184T1daWS1vVElHZ2k0bU5J?oc=5",
+      "url": "https://ktla.com/news/local-news/planet-1000-light-years-away-mysteriously-vanishes-before-astronomers-eyes/",
       "urlToImage": null,
-      "publishedAt": "2026-11-10T14:40:08Z",
+      "publishedAt": "2026-11-10T17:53:58Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Brandon Cruz",
+      "title": "Sun's hidden twin is hurling killer comets at Earth -- and may have wiped out dinosaurs: expert - New York Post",
+      "description": "The sun’s hidden twin is hurling killer comets at Earth every 26 million years — and the bad bro may have wiped out the dinosaurs, according to a new theory. And tape up the windows — U…",
+      "url": "https://nypost.com/2026/11/10/science/suns-hidden-twin-is-hurling-killer-comets-at-earth-and-may-have-wiped-out-dinosaurs-expert/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/star-comp.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-11-10T17:43:00Z",
+      "content": "The suns hidden twin is hurling killer comets at Earth every 26 million years — and the bad bro may have wiped out the dinosaurs, according to a new theory.\r\nAnd tape up the windows — UC Berkeley phy… [+2507 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Financial Times"
+      },
+      "author": null,
+      "title": "Why the Grand Canyon is missing a billion years of rocks - Financial Times",
+      "description": "A new paper on the Great Unconformity advances a novel theory on one of geology’s great mysteries",
+      "url": "https://www.ft.com/content/a1c99f81-b30e-4757-9c00-2d422d7394ac?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe8aa60f6-c72a-46a1-9169-f48ff81e4240.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "publishedAt": "2026-11-10T17:29:42Z",
+      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Elizabeth Howell",
+      "title": "A robot just built a structure autonomously in space for the 1st time ever - Space",
+      "description": "\"This work could be useful not only for astronomy and astrophysics, but also for communications and other areas.\"",
+      "url": "https://www.space.com/technology/a-robot-just-built-a-structure-autonomously-in-space-for-the-1st-time-ever",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/B4UQ62ei7LkPj3KWJ8TYTP-2560-80.jpg",
+      "publishedAt": "2026-11-10T16:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Quanta Magazine"
+      },
+      "author": null,
+      "title": "The Case for a Bubble at Life’s Start - Quanta Magazine",
+      "description": "Is self-enclosure life’s greatest trick? According to the lipid-first theory of the origin of life, a cell membrane gave primordial chemistry a place to gather.",
+      "url": "https://www.quantamagazine.org/the-case-for-a-bubble-at-lifes-start-20261110/",
+      "urlToImage": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Lipid-First-cr.Mark-Belan-Social.jpg",
+      "publishedAt": "2026-11-10T15:12:08Z",
+      "content": "At its core, every cell is just a bubble of chemistry sealed inside a membrane. In modern cells, that chemistry is extraordinarily complex, orchestrating some 1 billion reactions per second. Likewise… [+6633 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Passant Rabie",
+      "title": "Astronomers Spot Backward-Orbiting Object Beyond Neptune - Gizmodo",
+      "description": "Scientists believe a close encounter with Neptune may have sent the object into its backward orbit around the Sun.",
+      "url": "https://gizmodo.com/something-beyond-neptune-is-going-the-wrong-way-around-the-sun-it-may-not-be-from-here-2000837621",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/11/neptune-1200x675.jpg",
+      "publishedAt": "2026-11-10T14:40:08Z",
+      "content": "Deep in the outer reaches of the solar system, an unusual object is moving against the flow of cosmic traffic, cutting across the Sun’s orbital plane at a remarkably steep angle. Scientists aren’t su… [+3502 chars]"
     },
     {
       "source": {
@@ -125,6 +203,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/09/multimedia/09cli-global-emissions-01-jlbf/09cli-global-emissions-01-jlbf-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-10T13:40:41Z",
       "content": "It’s the first drop in planet-warming pollution since the pandemic in 2020. But researchers cautioned that the decline could be short-lived."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "Sam Jarman",
+      "title": "World's most sensitive lab-based axion search presents its first results - Phys.org",
+      "description": "Physicists at the ALPS II collaboration have reported the first results from the Any-Light-Particle-Search (ALPS) II experiment: the most sensitive instrument of its kind in the search for hypothetical \"axions.\" Headed by Axel Lindner at the DESY Research Cen…",
+      "url": "https://phys.org/news/2026-11-world-sensitive-lab-based-axion.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/worlds-most-sensitive.jpg",
+      "publishedAt": "2026-11-10T13:40:01Z",
+      "content": "Physicists at the ALPS II collaboration have reported the first results from the Any-Light-Particle-Search (ALPS) II experiment: the most sensitive instrument of its kind in the search for hypothetic… [+6681 chars]"
     },
     {
       "source": {
@@ -233,6 +324,19 @@
     {
       "source": {
         "id": null,
+        "name": "Sci.news"
+      },
+      "author": "Enrico de Lazaro",
+      "title": "Century after Its Discovery, Taung Child Still Puzzles Paleoanthropologists - Sci.News",
+      "description": "A century after a small fossil skull from a South African limestone quarry changed ideas about human origins, it remains the only specimen that can be called, without dispute, Australopithecus africanus.",
+      "url": "https://www.sci.news/othersciences/anthropology/taung-child-15185.html",
+      "urlToImage": "https://cdn.sci.news/images/2015/01/image_2428-Australopithecus-africanus.jpg",
+      "publishedAt": "2026-11-10T00:37:32Z",
+      "content": "A century after a small fossil skull from a South African limestone quarry changed ideas about human origins, it remains the only specimen that can be called, without dispute, Australopithecus africa… [+3082 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Phys.Org"
       },
       "author": null,
@@ -242,6 +346,19 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/a-molybdenite-mos2-min.jpg",
       "publishedAt": "2026-11-10T00:30:06Z",
       "content": "Researchers at the University of Rochester and TechnionIsrael Institute of Technology accidentally discovered a new way to rearrange the internal structure of molybdenuman extremely heat-resistant me… [+4720 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sci.news"
+      },
+      "author": "Enrico de Lazaro",
+      "title": "Fossil Skull from Peru Reveals Pygmy Sperm Whale with Record-Breaking Facial Asymmetry - Sci.News",
+      "description": "Some six million years ago (Late Miocene epoch), a pygmy sperm whale with a face unlike anything in today’s oceans may have swept its downturned snout along the shallow seabed off what is now southern Peru.",
+      "url": "https://www.sci.news/paleontology/scaphokogia-huachafo-15184.html",
+      "urlToImage": "https://cdn.sci.news/images/2026/11/image_15184f-Scaphokogia-huachafo.jpg",
+      "publishedAt": "2026-11-09T22:02:24Z",
+      "content": "Some six million years ago (Late Miocene epoch), a pygmy sperm whale with a face unlike anything in todays oceans may have swept its downturned snout along the shallow seabed off what is now southern… [+3667 chars]"
     },
     {
       "source": {
@@ -272,15 +389,15 @@
     {
       "source": {
         "id": null,
-        "name": "Phys.Org"
+        "name": "CNET"
       },
-      "author": null,
-      "title": "3-million-year-old Taung Child once again shakes up our human family tree - Phys.org",
-      "description": "A century after the Taung Child permanently altered our view of human origins, a new study published in npj Palaeoecosystems dates the famous fossil to between 2.96 and 3.03 million years old. Led by professor Gabriele Macho of the Archaeology, Environmental …",
-      "url": "https://phys.org/news/2026-11-million-year-taung-child-human.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/3-million-year-old-tau.jpg",
-      "publishedAt": "2026-11-09T20:50:06Z",
-      "content": "A century after the Taung Child permanently altered our view of human origins, a new study published in npj Palaeoecosystems dates the famous fossil to between 2.96 and 3.03 million years old. Led by… [+3117 chars]"
+      "author": "Joe Hindy",
+      "title": "NASA’s Voyager 1 to Cross Historic One Light-Day Milestone on Nov. 18 - CNET",
+      "description": "Traveling one light-day took the space probe 49 years. it would take a human 612,015 years to walk that distance.",
+      "url": "https://www.cnet.com/science/space/voyager-1-passes-one-light-day/",
+      "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/Voyager-1.jpg",
+      "publishedAt": "2026-11-09T20:33:49Z",
+      "content": "NASA’s Voyager 1 spacecraft is on track to set another historic record as its mission approaches the half-century mark. On Nov. 18 at 5:16 a.m. ET, the probe will reach a distance of one light-day fr… [+4239 chars]"
     },
     {
       "source": {
@@ -294,19 +411,6 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2026/11/microbes-1200x675.jpg",
       "publishedAt": "2026-11-09T20:20:48Z",
       "content": "Definitive evidence of past or present extraterrestrial life, including Martians, has been annoyingly elusive. Some researchers, however, are tackling the alien question from a different perspective:… [+3155 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "Our sun's undiscovered stellar nemesis is still out there, says physicist - Phys.org",
-      "description": "Long-period, high-inclination comets of the sort that can cause extinction-level impacts here on Earth have long been thought to originate from a theoretical Oort cloud. That is, a roughly spherical cloud of icy cometary objects that number in the trillions a…",
-      "url": "https://phys.org/news/2026-11-sun-undiscovered-stellar-nemesis-physicist.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/our-suns-undiscovered.jpg",
-      "publishedAt": "2026-11-09T20:20:11Z",
-      "content": "Long-period, high-inclination comets of the sort that can cause extinction-level impacts here on Earth have long been thought to originate from a theoretical Oort cloud. That is, a roughly spherical … [+5368 chars]"
     },
     {
       "source": {
@@ -333,19 +437,6 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/tiny-beetle-trapped-in.jpg",
       "publishedAt": "2026-11-09T20:04:16Z",
       "content": "Preserved in amber for about 53 million years, a beetle has been described as a new species by researchers in Spain and France. Named Cnopus twentyonepilotorum, it is the first puppet beetle (family … [+4042 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "Extreme cranial asymmetry in extinct benthic feeding sperm whales | Communications Biology - Nature",
-      "description": "A new Miocene pygmy sperm whale from Peru exhibits unparalleled cranial asymmetry and specialized benthic-feeding adaptations, greatly expanding the diversity of cetacean skull architecture.",
-      "url": "https://www.nature.com/articles/s42003-026-11074-2",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42003-026-11074-2/MediaObjects/42003_2026_11074_Fig1_HTML.png",
-      "publishedAt": "2026-11-09T19:03:58Z",
-      "content": "<li>Captier, G. et al. Plagiocephaly: morphometry of skull base asymmetry. Surg. Radiol. Anat.25, 226233 (2003).\r\nArticle \r\n CAS \r\n PubMed \r\nGoogle Scholar \r\n</li><li>Netherway, D. J. et al. Three-di… [+11262 chars]"
     },
     {
       "source": {
@@ -453,19 +544,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Thetimes.com"
-      },
-      "author": "Dr Mark Porter",
-      "title": "Shoulder injuries are a common problem. I did mine playing padel - The Times",
-      "description": "Two of the leading complaints in middle age are frozen shoulder and problems with the rotator cuff muscles and their tendons. And the cause is not always as obvious as mine was",
-      "url": "https://www.thetimes.com/life-style/health-fitness/article/shoulder-injuries-are-a-common-problem-i-did-mine-playing-padel-9kpxxm6dc",
-      "urlToImage": "https://www.thetimes.com/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fe9087243-6b3c-4f9f-9cfb-40a82ccb4a10.png?strip=all&format=webp&crop=1500px%2C844px%2C0px%2C59px&resize=1200",
-      "publishedAt": "2026-11-09T17:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -502,6 +580,19 @@
       "urlToImage": "https://s.w-x.co/wxnext/img/taurid_meteors_1_110326-0cea1e.jpg",
       "publishedAt": "2026-11-09T16:00:00Z",
       "content": "Taurid meteor shower peaks with November fireballs\r\nThe Taurid meteor shower is here, and you could describe the show as a high-risk, high-reward skywatching activity where catching a fireball is the… [+2891 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DOGOnews"
+      },
+      "author": "Kavi  Dolasia",
+      "title": "NASA's Swift Space Observatory Falls Back To Earth - DOGO News",
+      "description": "NASA's Swift Space Observatory Falls Back To Earth has 13 comments.",
+      "url": "https://www.dogonews.com/2026/11/9/nasas-swift-space-observatory-falls-back-to-earth",
+      "urlToImage": "https://cdn4.dogonews.com/images/f0beefc5-0df2-4765-82dc-d57f78682693/untitled-design-12.jpg",
+      "publishedAt": "2026-11-09T15:28:04Z",
+      "content": "An artist's illustration of the Swift telescope in space (Credit: NASA)\r\nThe Swift Space Observatory's 22-year mission has ended. On November 4, 2026, the 3,200-pound (1,450 kg) observatory reentered… [+2235 chars]"
     },
     {
       "source": {
@@ -626,25 +717,12 @@
         "name": "ScienceAlert"
       },
       "author": "Michelle Starr",
-      "title": "Scientists Reach a Record Temperature: 280 Billion Times Colder Than The Universe - Yahoo Tech",
-      "description": "Pack your thermals...",
+      "title": "Scientists Reach a Record Temperature: 280 Billion Times Colder Than The Universe - ScienceAlert",
+      "description": "Even the seemingly empty vacuum of space isn't completely cold.",
       "url": "https://www.sciencealert.com/scientists-reach-a-record-temperature-280-billion-times-colder-than-the-universe",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/1b1b3d04aee11d6d2e650d4acd703c7cce6dd01ccb2f3f82a068bddba76ae36b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsciencealert_160%2F285219ffe4f2604523e8fd98f4ae5ee7.png",
-      "publishedAt": "2026-11-09T12:00:00Z",
-      "content": "Even the seemingly empty vacuum of space isn't completely cold.\r\nThe Universe was born some 13.8 billion years ago in a state so hot and dense that the leftover radiation still permeates every one of… [+6832 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Discoverwildlife.com"
-      },
-      "author": "Hannah Bourne-Taylor",
-      "title": "“I’ve got a lost baby swift – I’m going to put it in our bedroom!” What happened next is remarkable - BBC Wildlife Magazine",
-      "description": "When a baby swift falls from the nest, it’s the start of an extraordinary journey for both bird and rescuer",
-      "url": "https://www.discoverwildlife.com/animal-facts/birds/baby-swift-recovery",
-      "urlToImage": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/f02beb28-046c-4ecb-b8e0-ad204aec292b/thumbnails/d98e621e-03c3-4580-b993-e96e8964f5e3.jpg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&platform=WEB&w=1200",
-      "publishedAt": "2026-11-09T11:24:16Z",
-      "content": "Across the fields, the church bells chime midnight. Its a hot July night and I havent moved for hours. Staring at the sky, Im full of hope and awe, for out there is a beating heart that I know. One s… [+10232 chars]"
+      "urlToImage": "https://www.sciencealert.com/images/2026/11/bec.png",
+      "publishedAt": "2026-11-09T12:04:21Z",
+      "content": "Even the seemingly empty vacuum of space isn't completely cold.\r\nThe Universe was born some 13.8 billion years ago in a state so hot and dense that the leftover radiation still permeates every one of… [+6872 chars]"
     },
     {
       "source": {
@@ -674,19 +752,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "Caltech robot makes history by building a structure in space - Science Daily",
-      "description": "For the first time, a robot has autonomously built part of a structure in space, demonstrating a breakthrough that could fundamentally change space exploration. The technology could one day allow scientists to construct enormous telescopes, communications ant…",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261108233043.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/darpa-nom4d-caltech-robotic-space-demo.webp",
-      "publishedAt": "2026-11-09T10:35:01Z",
-      "content": "For the first time, a robot has successfully assembled part of a structure in space without astronauts, demonstrating a technology that could dramatically change how large spacecraft and scientific i… [+12449 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -697,6 +762,19 @@
       "urlToImage": null,
       "publishedAt": "2026-11-09T06:21:38Z",
       "content": "An injured five-month-old walrus was found huddled next to carcasses in remote Alaska after it became separated from its mother. Its rescue took days and lots of patience."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "The giant pre-historic insect found by miners - BBC",
+      "description": "Griffinflies, a dragonfly-type insect, ruled the skies millions of years before the dinosaurs.",
+      "url": "https://www.bbc.com/news/articles/cqglw777xyk6o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/73f2/live/312cae10-d90d-11f1-94c6-3f8050561bf5.jpg",
+      "publishedAt": "2026-11-09T05:56:26Z",
+      "content": "The only known remains of whalleyala bolsoveri, with a 17.4cm wingspan, and Arctotypus diluculum, believed to have had a wingspan of about 50cm, were discovered and are now housed at London's Natural… [+15 chars]"
     },
     {
       "source": {
@@ -830,19 +908,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "A nuclear blast could save Earth from an asteroid, but there's a catch - Science Daily",
-      "description": "A nuclear explosion might save Earth from a deadly asteroid, but new research suggests that hitting the wrong side could make the difference between success and disaster. Scientists found that an asteroid&apos;s irregular shape can dramatically affect how it …",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261106174532.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/asteroid-explosion-above-earth.webp",
-      "publishedAt": "2026-11-08T10:12:58Z",
-      "content": "A nuclear explosion could potentially protect Earth from an incoming asteroid by releasing powerful X-rays that heat its surface and push it onto a safer trajectory. However, new research suggests th… [+7334 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -879,19 +944,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/03/multimedia/03SCI-DINOSAUR-BLOOD-01-vmtq/03SCI-DINOSAUR-BLOOD-01-vmtq-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-08T10:01:05Z",
       "content": "Mineralized “structures” discovered in the bone were the fossilized remains of red blood cells, according to a recent study. Other experts aren’t so sure."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Michael Irving",
-      "title": "Meet The 'Hell Chicken', a Dinosaur With an Extremely Rare Type of Diet - ScienceAlert",
-      "description": "Discerning dinosaur lovers have a new name to drop when asked about their favorite dino.",
-      "url": "https://www.sciencealert.com/meet-the-hell-chicken-a-dinosaur-with-an-extremely-rare-type-of-diet",
-      "urlToImage": "https://www.sciencealert.com/images/2026/11/hell-chicken-1200x675.png",
-      "publishedAt": "2026-11-08T09:03:11Z",
-      "content": "Discerning dinosaur lovers have a new name to drop when asked about their favorite dino.\r\nMeet Infernogallus jamesi the 'hell chicken' that lived alongside icons like Tyrannosaurus rex and Triceratop… [+5296 chars]"
     },
     {
       "source": {
@@ -970,32 +1022,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/hdXEWy2dVNKmQrF4BoLQZW-1920-80.png",
       "publishedAt": "2026-11-07T11:00:00Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nautil.us"
-      },
-      "author": "jschollmeyer",
-      "title": "Earth's Rocks Have a Missing Layer Spanning Up to a Billion Years - Yahoo",
-      "description": "Imagine opening a history book and finding several chapters torn out. This was what geologists looking into the rock records of Earth's past discovered on se...",
-      "url": "https://nautil.us/earths-rocks-have-a-missing-layer-spanning-up-to-a-billion-years-1286417/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/3db80db3e764f07fd8ee5ab6efcca7b691e7be77be05f2893b9b38d09b6bbe2c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnautilus_articles_455%2F12413bc9b364bacbb314f6ba943b1bae.jpg",
-      "publishedAt": "2026-11-07T03:00:00Z",
-      "content": "Imagine opening a history book and finding several chapters torn out. This was what geologists looking into the rock records of Earth's past discovered on several continents in the 1870s.\r\nThey dubbe… [+5524 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SlashGear"
-      },
-      "author": "Jonathan H. Kantor",
-      "title": "Climate Scientists Found A Surprise Hiding Under A Cold War Military Base - SlashGear",
-      "description": "Camp Century was built in Greenland during the Cold War. More than 60 years later, climate scientists have discovered materials to research there.",
-      "url": "https://www.slashgear.com/2304102/climate-scientists-cold-war-military-base-samples/",
-      "urlToImage": "https://www.slashgear.com/img/gallery/climate-scientists-found-a-surprise-hiding-under-a-cold-war-military-base/l-intro-1793638363.jpg",
-      "publishedAt": "2026-11-07T02:45:00Z",
-      "content": "Today, Greenland's ice sheet is nearly two miles thick in parts, and around three times the size of Texas. However, the sediment samples from beneath Camp Century reveal that it was a very different … [+1381 chars]"
     },
     {
       "source": {
@@ -1142,29 +1168,16 @@
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
+        "id": "cnn",
+        "name": "CNN"
       },
-      "author": "Randi Hutter Epstein",
-      "title": "Beverly Whipple Has Died. She Introduced the G-Spot to the Mainstream.",
-      "description": "Dr. Whipple studied the female erogenous zone and, with collaborators, wrote a best seller about women’s sexuality. She was 85.",
-      "url": "https://www.nytimes.com/2026/11/04/science/beverly-whipple-g-spot-dead.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/07/obituaries/04whipple_top-print1/04whipple_top-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-04T23:03:06Z",
-      "content": "Dr. Whipple studied the female erogenous zone and, with collaborators, wrote a best seller about women’s sexuality. She was 85."
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "Marcia Dunn",
-      "title": "NASA space telescope plunges to Earth after two decades studying cosmic explosions - AP News",
-      "description": "One of NASA's premier space telescopes has plunged to Earth, ending its 22-year investigation of the universe's biggest explosions. The Swift Observatory's demise on Wednesday came less than three months after a long-shot rescue mission failed. The U.S. Space…",
-      "url": "https://apnews.com/article/swift-observatory-telescope-hubble-5c19afdd7867dc88d68ea61dba1fbaee",
-      "urlToImage": "https://dims.apnews.com/dims4/default/f0c46d0/2147483647/strip/true/crop/3008x2000+0+0/resize/1200x798!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7f%2F19%2Ffc86deaed4a846edbd4945ffe82a%2F5f317232886346b2be17e35945218adc",
-      "publishedAt": "2026-11-04T19:41:00Z",
-      "content": "CAPE CANAVERAL, Fla. (AP) One of NASAs premier space telescopes plunged to Earth on Wednesday, ending its 22-year investigation of the universes biggest explosions.\r\nThe Swift Observatorys demise cam… [+1997 chars]"
+      "author": "Jackie Wattles, Ashley Strickland",
+      "title": "A 3,200-pound telescope plunged out of orbit. How it unfolded - CNN",
+      "description": "NASA’s Neil Gehrels Swift Observatory fell to a fiery end early Wednesday nearly 22 years after it launched.",
+      "url": "https://www.cnn.com/2026/11/04/science/nasa-swift-observatory-reentry-deorbit",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/swift-in-space-12.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-11-04T05:03:42Z",
+      "content": "NASAs Neil Gehrels Swift Observatory met a fiery end on Wednesday morning, nearly 22 years after it launched to study the most powerful explosions in the universe.\r\nData from the US Space Force estim… [+4468 chars]"
     }
   ]
 }
