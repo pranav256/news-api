@@ -6,20 +6,111 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-12T04:26:45.491577+00:00",
-  "articles_count": 54,
+  "fetched_at": "2026-11-12T14:01:06.445447+00:00",
+  "articles_count": 55,
   "articles": [
     {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
+      "author": "Kim Severson",
+      "title": "$150 for a Thanksgiving Pie? A Humble Dessert Staple Gets Pricey.",
+      "description": "This season, bakers are charging three figures for luxury versions that combine elaborate prep and premium ingredients. Not everyone is biting.",
+      "url": "https://www.nytimes.com/2026/11/11/dining/thanksgiving-pies-prices-expensive-dessert.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/11/multimedia/11FD-pricey-pies-promo1-vblz/11FD-pricey-pies-promo1-vblz-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-12T13:36:51Z",
+      "content": "This season, bakers are charging three figures for luxury versions that combine elaborate prep and premium ingredients. Not everyone is biting."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe, Sri Muppidi and Ian Mount",
+      "title": "Wall Street Sees the Writing on the Wall for Jensen Huang",
+      "description": "The company’s board is weighing the fate of its chief executive. Silicon Valley and Washington are steeling themselves for life without him.",
+      "url": "https://www.nytimes.com/2026/11/12/business/dealbook/wall-street-nvidia-huang-spy.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/12/multimedia/12db-huang-bmgj/12db-huang-bmgj-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-12T13:14:39Z",
+      "content": "The company’s board is weighing the fate of its chief executive. Silicon Valley and Washington are steeling themselves for life without him."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Eshe Nelson and Jason Karaian",
+      "title": "Nvidia Shares Plummet as Board Considers Jensen Huang’s Future as CEO",
+      "description": "News that the chipmaker’s board was considering the future of its chief executive, Jensen Huang, drove Nvidia’s stock down and reverberated across global markets.",
+      "url": "https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html",
+      "urlToImage": null,
+      "publishedAt": "2026-11-12T13:07:38Z",
+      "content": "News that the chipmaker’s board was considering the future of its chief executive, Jensen Huang, drove Nvidia’s stock down and reverberated across global markets."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Karen Weise",
+      "title": "Data Centers Will Continue to Be Built, Despite Midterm Elections",
+      "description": "Big technology companies saw the tide turn against their giant A.I. projects, but they have the means to weather delays.",
+      "url": "https://www.nytimes.com/2026/11/12/technology/voters-data-centers-construction.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/12/business/12data-center-slowdown-B1/00data-center-slowdown-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-12T10:03:40Z",
+      "content": "Big technology companies saw the tide turn against their giant A.I. projects, but they have the means to weather delays."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Seth Kugel",
+      "title": "Help! A Broken Toilet Grounded My Plane, and the Airline Won’t Cover a Hotel.",
+      "description": "Turkish Airlines tried to wiggle out of paying for a passenger’s $512 overnight stay after a stomach-churning malfunction forced it to cancel a flight in Denver.",
+      "url": "https://www.nytimes.com/2026/11/12/travel/turkish-airlines-flight-delay-hotel-refund.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/11/travel/1112TrippedUp-illo/1112TrippedUp-illo-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-12T10:02:35Z",
+      "content": "Turkish Airlines tried to wiggle out of paying for a passenger’s $512 overnight stay after a stomach-churning malfunction forced it to cancel a flight in Denver."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Sharon LaFraniere, David Yaffe-Bellany and Lauren McCarthy",
+      "title": "Want to Short a Stock? Kalshi and C.T.F.C. Allow It as ‘Perpetual Trades.’",
+      "description": "After a federal regulator allowed wagering on stocks and cryptocurrencies, two powerful trading clearinghouses filed lawsuits saying traders would not be properly protected.",
+      "url": "https://www.nytimes.com/2026/11/12/us/politics/kalshi-commodity-futures-stocks.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/09/multimedia/dc-predict-stocks-hwvb/dc-predict-stocks-hwvb-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-12T10:02:29Z",
+      "content": "After a federal regulator allowed wagering on stocks and cryptocurrencies, two powerful trading clearinghouses filed lawsuits saying traders would not be properly protected."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "James Paton",
+      "title": "Tech Giants Invest in German Robotics Start-Up at $8.5 Billion Valuation",
+      "description": "Agile Robots plans to expand in the United States and increase production in Europe after raising funds in a round led by SoftBank.",
+      "url": "https://www.nytimes.com/2026/11/12/business/softbank-nvidia-agile-robots.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-robots-europe-01-fgpt/12biz-robots-europe-01-fgpt-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-12T05:45:05Z",
+      "content": "Agile Robots plans to expand in the United States and increase production in Europe after raising funds in a round led by SoftBank."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
       "author": "Michael Corkery and Jason Karaian",
-      "title": "Nvidia’s Stock Price Plummets as Board Is Said to Consider Jensen Huang, CEO’s, Future",
+      "title": "Nvidia’s Stock Price Plummets as Board Is Said to Consider Jensen Huang’s Future as CEO",
       "description": "News of the board’s deliberations about Jensen Huang’s job drove Nvidia’s stock down more than 8 percent in after-hours trading.",
       "url": "https://www.nytimes.com/2026/11/11/business/nvidia-stock-jensen-huang-ceo.html",
       "urlToImage": null,
-      "publishedAt": "2026-11-12T02:40:15Z",
+      "publishedAt": "2026-11-12T02:40:16Z",
       "content": "News of the board’s deliberations about Jensen Huang’s job drove Nvidia’s stock down more than 8 percent in after-hours trading."
     },
     {
@@ -122,7 +213,7 @@
       "title": "Hospitals Brace for Medicaid Work Rules and Deep Funding Cuts",
       "description": "Health systems are racing to guide millions of patients through new eligibility hoops, slated to go into effect Jan. 1.",
       "url": "https://www.nytimes.com/2026/11/11/business/hospitals-medicaid-cuts.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-medicaid-01-zkhw/10biz-medicaid-01-zkhw-mediumSquareAt3X.jpg",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-medicaid-01-zkhw/10biz-medicaid-01-zkhw-mediumSquareAt3X-v2.jpg",
       "publishedAt": "2026-11-11T16:23:31Z",
       "content": "Health systems are racing to guide millions of patients through new eligibility hoops, slated to go into effect Jan. 1."
     },
@@ -164,19 +255,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/11/multimedia/11db-ro-fvpl/11db-ro-fvpl-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-11T14:06:50Z",
       "content": "The telehealth company said that its annualized revenue had grown nearly tenfold since it revamped its business and embraced weight-loss treatments."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Kim Severson",
-      "title": "$150 for a Thanksgiving Pie? A Humble Dessert Staple Gets Pricey.",
-      "description": "This season, bakers are charging three figures for luxury versions that combine elaborate prep and premium ingredients. Not everyone is biting.",
-      "url": "https://www.nytimes.com/2026/11/11/dining/thanksgiving-pies-prices-expensive-dessert.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/11/multimedia/11FD-pricey-pies-promo1-vblz/11FD-pricey-pies-promo1-vblz-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-11T14:03:47Z",
-      "content": "This season, bakers are charging three figures for luxury versions that combine elaborate prep and premium ingredients. Not everyone is biting."
     },
     {
       "source": {
@@ -486,7 +564,7 @@
       "title": "Haaretz Expands US Presence Amid Israel’s Move to the Right",
       "description": "Haaretz has more than doubled the size of its American bureau, including hiring correspondents to cover beats like national politics and young American Jews.",
       "url": "https://www.nytimes.com/2026/11/10/business/media/haaretz-us-expansion.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/06/multimedia/06biz-Haaretz-expansion-06-hzfb/06biz-Haaretz-expansion-06-hzfb-mediumSquareAt3X.jpg",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/06/multimedia/06biz-Haaretz-expansion-06-hzfb/06biz-Haaretz-expansion-06-hzfb-mediumSquareAt3X-v3.jpg",
       "publishedAt": "2026-11-10T10:01:09Z",
       "content": "Haaretz has more than doubled the size of its American bureau, including hiring correspondents to cover beats like national politics and young American Jews."
     },
@@ -573,32 +651,6 @@
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Joe Rennison and Jason Karaian",
-      "title": "Nvidia’s Stock Price Drops After Investigation Into CEO Jensen Huang",
-      "description": "The chip maker’s shares fell sharply after its C.E.O., Jensen Huang, admitted to a relationship with a businesswoman suspected of spying for China.",
-      "url": "https://www.nytimes.com/2026/11/09/business/nvidia-stock-price-jensen-huang-ceo.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/09/multimedia/nvidia-stock-promo-bgjq/nvidia-stock-promo-bgjq-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-09T21:23:34Z",
-      "content": "The chip maker’s shares fell sharply after its C.E.O., Jensen Huang, admitted to a relationship with a businesswoman suspected of spying for China."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Adam Satariano",
-      "title": "China Rejects Espionage Claims Involving Nvidia C.E.O. Jensen Huang",
-      "description": "The controversy has intensified scrutiny of Mr. Huang’s ties to Beijing and sparked mixed reactions across Asia, where he is widely popular.",
-      "url": "https://www.nytimes.com/2026/11/09/business/jensen-huang-china-spying.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/08/multimedia/08biz-jensen-bqpz/08biz-jensen-bqpz-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-09T20:18:47Z",
-      "content": "The controversy has intensified scrutiny of Mr. Huang’s ties to Beijing and sparked mixed reactions across Asia, where he is widely popular."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "Niraj Chokshi",
       "title": "Boeing Will Cut 5% of Commercial Plane Employees",
       "description": "The company said it needed fewer workers because production was increasing more slowly than previously expected.",
@@ -606,45 +658,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/09/multimedia/09biz-boeing-layoffs-jlzb/09biz-boeing-layoffs-jlzb-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-09T20:00:31Z",
       "content": "The company said it needed fewer workers because production was increasing more slowly than previously expected."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Ivan Penn",
-      "title": "Giant Merger of NextEra and Dominion Could Fail Amid Anger Over Electricity Bills",
-      "description": "State leaders and residents in Virginia have opposed NextEra’s acquisition of Dominion Energy, fearing that it will accelerate rate increases.",
-      "url": "https://www.nytimes.com/2026/11/09/business/energy-environment/nextera-dominon-energy-virginia.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/06/multimedia/06biz-nextera-dominion-01-vpbk/06biz-nextera-dominion-01-vpbk-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-09T15:18:30Z",
-      "content": "State leaders and residents in Virginia have opposed NextEra’s acquisition of Dominion Energy, fearing that it will accelerate rate increases."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Sri Muppidi",
-      "title": "How Indispensable Is Jensen Huang?",
-      "description": "The fate of Nvidia’s chief executive, who was romantically involved with a suspected Chinese spy, has wide implications for Silicon Valley, Washington and beyond.",
-      "url": "https://www.nytimes.com/2026/11/09/business/dealbook/nvidia-huang-spy.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/09/multimedia/09db-huang-pwkv/09db-huang-pwkv-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-09T13:33:08Z",
-      "content": "The fate of Nvidia’s chief executive, who was romantically involved with a suspected Chinese spy, has wide implications for Silicon Valley, Washington and beyond."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Natasha Singer and Dana Goldstein",
-      "title": "Senator Tells Google to Let Schools Disable A.I. Features in Search",
-      "description": "The request came from Senator Edward J. Markey of Massachusetts, after Google said it would not turn off artificial intelligence tools for students using its search engine.",
-      "url": "https://www.nytimes.com/2026/11/09/business/google-ai-school-features.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/07/23/multimedia/09biz-google-schools1/09biz-google-schools1-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-09T10:04:01Z",
-      "content": "The request came from Senator Edward J. Markey of Massachusetts, after Google said it would not turn off artificial intelligence tools for students using its search engine."
     },
     {
       "source": {

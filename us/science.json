@@ -1,7 +1,33 @@
 {
   "status": "ok",
-  "totalResults": 90,
+  "totalResults": 92,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Chico Harlan, Golden Matonga and Joao Silva",
+      "title": "Malawi Lacks Money to Fund its El Niño Plans",
+      "description": "The question is being asked across the developing world, where hunger risk is high from the extreme weather El Niño is expected to bring. Malawi has a big plan, but little money.",
+      "url": "https://www.nytimes.com/2026/11/12/climate/el-nino-malawi-farmer-drought.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/30/multimedia/00CLI-PREPPING-FOR-EL-NINO-stillpromo/00CLI-PREPPING-FOR-EL-NINO-01-phqc-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-12T11:57:04Z",
+      "content": "The question is being asked across the developing world, where hunger risk is high from the extreme weather El Niño is expected to bring. Malawi has a big plan, but little money."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Taylor Mitchell Brown",
+      "title": "These Killer Female Apes Challenge the ‘Man the Hunter’ Origin Story",
+      "description": "Bonobos are as closely related to humans as chimps. New evidence that female bonobos are the primary hunters could radically alter our understanding of early human societies.",
+      "url": "https://www.nytimes.com/2026/11/12/science/these-killer-female-apes-challenge-the-man-the-hunter-origin-story.html",
+      "urlToImage": null,
+      "publishedAt": "2026-11-12T10:02:09Z",
+      "content": "Bonobos are as closely related to humans as chimps. New evidence that female bonobos are the primary hunters could radically alter our understanding of early human societies."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -40,6 +66,58 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/11/multimedia/11CLI-COP-LEADERS-jvcq/11CLI-COP-LEADERS-jvcq-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-11T17:27:55Z",
       "content": "The United Nations secretary general, António Guterres, spoke at COP31, a meeting aimed at reducing emissions, amid a sharp drop in attendance by world leaders."
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Taylor Nicioli",
+      "title": "How did the universe take shape? A new simulation offer clues - CNN",
+      "description": "A massive new simulation re-creates the universe’s first 2 billion years, offering scientists a closer look at how the earliest galaxies formed and evolved.",
+      "url": "https://www.cnn.com/2026/11/11/science/early-universe-simulation-lumina",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/lumina-200cmpc-vpeak3-dmdens-gasvel-heiii.png?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-11-11T13:30:15Z",
+      "content": "Powerful observatories such as NASAs James Webb Space Telescope offer glimpses of galaxies that formed when the universe was still young, but new supercomputer simulations are helping fill the gaps i… [+5434 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Michelle Starr",
+      "title": "Gravity May Protect The Universe From Time Travel Paradoxes, But There's a Catch - ScienceAlert",
+      "description": "We all know the rules.",
+      "url": "https://www.sciencealert.com/gravity-may-protect-the-universe-from-time-travel-paradoxes-but-theres-a-catch",
+      "urlToImage": "https://www.sciencealert.com/images/2026/11/recursive-clocks-1200x675.png",
+      "publishedAt": "2026-11-11T03:04:03Z",
+      "content": "We all know the rules.\r\nIf, for whatever reason, by whatever means, you travel back in time, you absolutely must not find and kill your own grandfather before he has had a chance to procreate.\r\nDoing… [+5372 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "David Nield",
+      "title": "Here's Why The Dire Wolf Really Wasn't Brought Back From Extinction, Scientists Argue - ScienceAlert",
+      "description": "When is a de-extinction not a de-extinction? Some headline-grabbing methods for bringing extinct species back to life fall short of such grand claims, according to a new argument published in Biology Letters.",
+      "url": "https://www.sciencealert.com/heres-why-the-dire-wolf-really-wasnt-brought-back-from-extinction-scientists-argue",
+      "urlToImage": "https://www.sciencealert.com/images/2026/11/GreyWolf-1200x675.jpg",
+      "publishedAt": "2026-11-11T01:24:03Z",
+      "content": "When is a de-extinction not a de-extinction? Some headline-grabbing methods for bringing extinct species back to life fall short of such grand claims, according to a new argument published in Biology… [+4458 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Ancient rocks reveal when Earth's tectonic engine 'switched on' - Phys.org",
+      "description": "Scientists have identified a major turning point in Earth's geological history, when the processes shaping the planet's crust changed dramatically and began to resemble the plate tectonics we see today—about 2.5 billion years ago.",
+      "url": "https://phys.org/news/2026-11-ancient-reveal-earth-tectonic.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/ancient-rocks-reveal-w.jpg",
+      "publishedAt": "2026-11-11T00:10:08Z",
+      "content": "Scientists have identified a major turning point in Earth's geological history, when the processes shaping the planet's crust changed dramatically and began to resemble the plate tectonics we see tod… [+3447 chars]"
     },
     {
       "source": {
@@ -86,25 +164,25 @@
         "name": "Phys.Org"
       },
       "author": null,
+      "title": "By carefully arranging molecules, scientists can control how a material responds to light, heat and physical force - Phys.org",
+      "description": "University of Missouri researchers have created a single solid material that responds differently depending on what it's exposed to. Shine light on it, and it changes from yellow to white, an indication of a chemical reaction. Heat it, and it undergoes a diff…",
+      "url": "https://phys.org/news/2026-11-molecules-scientists-material-physical.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/one-material-three-res.jpg",
+      "publishedAt": "2026-11-10T22:10:06Z",
+      "content": "University of Missouri researchers have created a single solid material that responds differently depending on what it's exposed to. Shine light on it, and it changes from yellow to white, an indicat… [+3688 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
       "title": "Webb's controversial 'little red dots' may finally have an explanation - Phys.org",
       "description": "Astronomers may have solved one of the biggest mysteries uncovered by NASA's James Webb Space Telescope (JWST), using sophisticated simulations to show that enigmatic objects known as \"little red dots\" (LRDs) are likely the birthplaces of the first supermassi…",
       "url": "https://phys.org/news/2026-11-webb-controversial-red-dots-explanation.html",
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/little-red-dots-image.jpg",
       "publishedAt": "2026-11-10T20:40:05Z",
       "content": "Astronomers may have solved one of the biggest mysteries uncovered by NASA's James Webb Space Telescope (JWST), using sophisticated simulations to show that enigmatic objects known as \"little red dot… [+3646 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "East Idaho News"
-      },
-      "author": "EastIdahoNews.com Staff",
-      "title": "‘Brilliant fireballs:’ meteors to shoot across Idaho night sky. Here’s when to watch - East Idaho News",
-      "description": "BOISE (Idaho Statesman) — Make a wish, Boise. The Northern Taurid meteor shower will soon light up the Idaho night sky. Here’s when to watch for shooting stars: When does Taurid meteor shower peak in Idaho? The Northern Taurid meteor shower will bring “slow-m…",
-      "url": "https://www.eastidahonews.com/2026/11/brilliant-fireballs-meteors-to-shoot-across-idaho-night-sky-heres-when-to-watch/",
-      "urlToImage": "https://s3.us-west-2.amazonaws.com/assets.eastidahonews.com/wp-content/uploads/2026/11/meteor.jpg",
-      "publishedAt": "2026-11-10T20:30:00Z",
-      "content": null
     },
     {
       "source": {
@@ -135,6 +213,19 @@
     {
       "source": {
         "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Gravitational waves hint at black holes born from failed supernovae - Phys.org",
+      "description": "When the most massive stars in the universe die, they often detonate in fiery supernovae, dramatically blasting most of their matter into space. The remaining stellar cores collapse into neutron stars and, sometimes, black holes. However, theories suggest tha…",
+      "url": "https://phys.org/news/2026-11-gravitational-hint-black-holes-born.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/a-star-on-the-left-see.jpg",
+      "publishedAt": "2026-11-10T20:10:01Z",
+      "content": "When the most massive stars in the universe die, they often detonate in fiery supernovae, dramatically blasting most of their matter into space. The remaining stellar cores collapse into neutron star… [+4888 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "New York Post"
       },
       "author": "Bianca Zalben",
@@ -157,6 +248,19 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/gCe3HgVGkFyfUnHAqednfk-2000-80.png",
       "publishedAt": "2026-11-10T19:00:00Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Passant Rabie",
+      "title": "Japan's Hayabusa Is Racing Toward a Mysterious Object in Space - Gizmodo",
+      "description": "The spacecraft is scheduled for a touchdown on the object in 2031 — if it can catch up.",
+      "url": "https://gizmodo.com/a-japanese-spacecraft-is-chasing-a-space-rock-that-defies-gravity-the-best-explanation-just-took-a-hit-2000837742",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/09/hayabusa2-touchdown-1200x675.jpg",
+      "publishedAt": "2026-11-10T18:20:40Z",
+      "content": "On December 6, 2020, Japans Hayabusa2 probe dropped a capsule of precious samples from asteroid Ryugu into the Australian outback, then set off on an extended mission that will end at a much smaller … [+4048 chars]"
     },
     {
       "source": {
@@ -200,6 +304,19 @@
     {
       "source": {
         "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "Paul Arnold",
+      "title": "What a 99-million-year-old feather is telling us about the evolution of flight - Phys.org",
+      "description": "Long before birds took to the skies, dinosaurs were already sporting feathers. But exactly how they evolved into the sophisticated structures that allow birds to fly remains something of a mystery. Now, the discovery of the longest feather ever found preserve…",
+      "url": "https://phys.org/news/2026-11-million-year-feather-evolution-flight.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/what-a-99-million-year.jpg",
+      "publishedAt": "2026-11-10T17:30:01Z",
+      "content": "Long before birds took to the skies, dinosaurs were already sporting feathers. But exactly how they evolved into the sophisticated structures that allow birds to fly remains something of a mystery. N… [+3465 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Financial Times"
       },
       "author": null,
@@ -209,6 +326,19 @@
       "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe8aa60f6-c72a-46a1-9169-f48ff81e4240.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
       "publishedAt": "2026-11-10T17:29:42Z",
       "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "IFLScience"
+      },
+      "author": "Tom Hale",
+      "title": "The Taung Child, The First Hard Proof Humans Originated In Africa, Is Even Older Than We Thought - IFLScience",
+      "description": "This prehistoric whippersnapper may have died a very unusual, very grim death.",
+      "url": "https://www.iflscience.com/the-taung-child-the-first-hard-proof-humans-originated-in-africa-is-even-older-than-we-thought-85154",
+      "urlToImage": "https://assets.iflscience.com/assets/articleNo/85154/aImg/93509/taung-child-meta.png",
+      "publishedAt": "2026-11-10T17:17:32Z",
+      "content": "The Taung Child changed our understanding of the human story by providing some of the first hard evidence that our evolutionary line first sprang up in Africa. Now, over a century later, this little … [+4090 chars]"
     },
     {
       "source": {
@@ -226,19 +356,6 @@
     {
       "source": {
         "id": null,
-        "name": "Space.com"
-      },
-      "author": "Elizabeth Howell",
-      "title": "A robot just built a structure autonomously in space for the 1st time ever - Space",
-      "description": "\"This work could be useful not only for astronomy and astrophysics, but also for communications and other areas.\"",
-      "url": "https://www.space.com/technology/a-robot-just-built-a-structure-autonomously-in-space-for-the-1st-time-ever",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/B4UQ62ei7LkPj3KWJ8TYTP-2560-80.jpg",
-      "publishedAt": "2026-11-10T16:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Quanta Magazine"
       },
       "author": null,
@@ -248,6 +365,32 @@
       "urlToImage": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Lipid-First-cr.Mark-Belan-Social.jpg",
       "publishedAt": "2026-11-10T15:12:08Z",
       "content": "At its core, every cell is just a bubble of chemistry sealed inside a membrane. In modern cells, that chemistry is extraordinarily complex, orchestrating some 1 billion reactions per second. Likewise… [+6633 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Robert Lea",
+      "title": "Curiosity Mars rover sizes up new 'Nazca' dig site photo of the day for Nov. 10, 2026 - Space",
+      "description": "The Curiosity team will characterize the surface composition of Nazca as thoroughly as possible before drilling.",
+      "url": "https://www.space.com/astronomy/mars/curiosity-mars-rover-sizes-up-new-nazca-dig-site-space-photo-of-the-day-for-nov-10-2026",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/wcsTkUpNtb47uRXiF26nLG-2000-80.png",
+      "publishedAt": "2026-11-10T15:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thedebrief.org"
+      },
+      "author": "Micah Hanks, Micah Hanks",
+      "title": "A Controversial New Theory Claims the Universe Could Be Twice as Old as Once Thought—and It Just Passed Several Key Tests - The Debrief",
+      "description": "A controversial new theory that suggests our universe could be vastly older than once thought has just passed the first round of observational testing.",
+      "url": "https://thedebrief.org/a-controversial-new-theory-claims-the-universe-could-be-twice-as-old-as-once-thought-and-it-just-passed-several-key-tests/",
+      "urlToImage": "https://thedebrief.b-cdn.net/wp-content/uploads/2026/11/Andromeda-Galaxy.jpg",
+      "publishedAt": "2026-11-10T14:51:06Z",
+      "content": "In the latest shakeup to modern cosmological research, a controversial new theory that suggests our universe could be vastly older than once thoughtperhaps nearly double its currently accepted agehas… [+3592 chars]"
     },
     {
       "source": {
@@ -277,6 +420,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Popular Mechanics"
+      },
+      "author": "Elizabeth Rayne",
+      "title": "Blood Rain Has Terrified People for Thousands of Years. The Culprit Might Be Growing on Lamp Posts. - Yahoo",
+      "description": "From Tennessee's 1841 flesh shower to Kerala’s crimson monsoon, the sky has some explaining to do—unless the source isn’t coming from on high.",
+      "url": "https://www.popularmechanics.com/science/a74371149/blood-rain/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/e00bbd6435348568a01a538aa2ec4386bed5a19d78547ad25057ecbadb741e64/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpopular_mechanics_642%2F7039a6179c71a48573d46204aef30e76.jpg",
+      "publishedAt": "2026-11-10T14:30:00Z",
+      "content": "On an August afternoon in 1841, something ominous fell from the sky near Lebanon, Tennessee. Two enslaved people working in a tobacco field were horrified when they heard a pattering on the leaves ar… [+5523 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -300,6 +456,58 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/worlds-most-sensitive.jpg",
       "publishedAt": "2026-11-10T13:40:01Z",
       "content": "Physicists at the ALPS II collaboration have reported the first results from the Any-Light-Particle-Search (ALPS) II experiment: the most sensitive instrument of its kind in the search for hypothetic… [+6681 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "A mysterious 93-billion-mile cosmic structure may be the wreckage of colliding worlds - Science Daily",
+      "description": "NASA&apos;s Hubble Space Telescope has revealed surprising new details about a mysterious, 93-billion-mile-long cloud of dark, fluffy dust that may have formed when massive planetary bodies collided. The discovery challenges previous assumptions about the str…",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261105224555.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/beta-pictoris-debris-disk.webp",
+      "publishedAt": "2026-11-10T12:32:08Z",
+      "content": "A mysterious structure stretching roughly 93 billion miles across space is giving astronomers new clues about the violent events that shape young planetary systems. Known as the \"Cat's Tail,\" this en… [+8964 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Paleontologists discover “one-in-a-million” fossil with 450-million-year-old soft tissue - Science Daily",
+      "description": "Scientists have discovered a remarkably preserved 450-million-year-old fossil containing soft tissues from an ancient starfish relative, revealing unexpected details about marine life more than 200 million years before dinosaurs existed. Found in a museum col…",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261105085201.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/crinoid-soft-tissue-fossil.webp",
+      "publishedAt": "2026-11-10T12:18:08Z",
+      "content": "A fossil dating back more than 450 million years has revealed something scientists almost never find: delicate soft tissues from an animal that lived hundreds of millions of years before dinosaurs ap… [+9460 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Geekspin.co"
+      },
+      "author": "Christian Saclao",
+      "title": "NASA is paying $164,000 for people to live on the Moon - Yahoo Tech",
+      "description": "Want to work on the Moon? NASA is recruiting applicants for $164,395 a year, but candidates must meet strict standards to qualify.",
+      "url": "https://geekspin.co/nasa-paying-new-moon-astronauts-164000/",
+      "urlToImage": "https://geekspin.co/wp-content/uploads/2026/11/NASA-Astronauts-2.jpg",
+      "publishedAt": "2026-11-10T12:00:04Z",
+      "content": "Ever dreamed of ditching your 9-to-5 desk job for a commute off the planet? NASA is officially accepting applications for a position that pays around $164,000 to live and work on the Moon. But before… [+6028 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Colorado Sun"
+      },
+      "author": "Dan England",
+      "title": "This state park is Colorado’s first Urban Night Sky Place. Here is what it means. - The Colorado Sun",
+      "description": "Golden Gate State Park battled “light trespass” from Denver to join Jackson Lake State Park in earning notice from DarkSky International — and from stargazers",
+      "url": "https://coloradosun.com/2026/11/10/urban-night-sky-place-darksky-golden-gate-jackson-state-colorado-parks/",
+      "urlToImage": "https://newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/09/unnamed-17.jpg",
+      "publishedAt": "2026-11-10T11:10:00Z",
+      "content": "More below: Where to take advantage of the darkest skies in Colorado\r\nCarolyn Collins Petersen takes a special joy from sitting on her deck at night and seeing the Milky Way. It reminds her of her ch… [+11083 chars]"
     },
     {
       "source": {
@@ -356,6 +564,19 @@
     {
       "source": {
         "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Ice core records uncover widespread air pollution from early 20th-century copper production - Phys.org",
+      "description": "About a century ago, the Anaconda Copper Mine complex near Butte, Montana, was emitting vast amounts of air pollution into the atmosphere. As small particles of arsenic and other heavy metals were carried by winds over the Arctic, storms eventually helped pul…",
+      "url": "https://phys.org/news/2026-11-ice-core-uncover-widespread-air.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/ice-core-records-uncov-1.jpg",
+      "publishedAt": "2026-11-10T10:00:06Z",
+      "content": "About a century ago, the Anaconda Copper Mine complex near Butte, Montana, was emitting vast amounts of air pollution into the atmosphere. As small particles of arsenic and other heavy metals were ca… [+10254 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Big Think"
       },
       "author": null,
@@ -408,19 +629,6 @@
     {
       "source": {
         "id": null,
-        "name": "Sci.news"
-      },
-      "author": "Enrico de Lazaro",
-      "title": "Century after Its Discovery, Taung Child Still Puzzles Paleoanthropologists - Sci.News",
-      "description": "A century after a small fossil skull from a South African limestone quarry changed ideas about human origins, it remains the only specimen that can be called, without dispute, Australopithecus africanus.",
-      "url": "https://www.sci.news/othersciences/anthropology/taung-child-15185.html",
-      "urlToImage": "https://cdn.sci.news/images/2015/01/image_2428-Australopithecus-africanus.jpg",
-      "publishedAt": "2026-11-10T00:37:32Z",
-      "content": "A century after a small fossil skull from a South African limestone quarry changed ideas about human origins, it remains the only specimen that can be called, without dispute, Australopithecus africa… [+3082 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Phys.Org"
       },
       "author": null,
@@ -430,6 +638,19 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/a-molybdenite-mos2-min.jpg",
       "publishedAt": "2026-11-10T00:30:06Z",
       "content": "Researchers at the University of Rochester and TechnionIsrael Institute of Technology accidentally discovered a new way to rearrange the internal structure of molybdenuman extremely heat-resistant me… [+4720 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Methane-eating microbes grown on electrodes build electrically conductive nanowires - Phys.org",
+      "description": "Certain microorganisms (anaerobic methanotrophic archaea, or ANME) consume methane and convert it into electricity, as research conducted four years ago by microbiologist Cornelia Welte of Radboud University revealed. New research by Welte and her colleagues …",
+      "url": "https://phys.org/news/2026-11-methane-microbes-grown-electrodes-electrically.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/nanodraadje-afbeelding.jpg",
+      "publishedAt": "2026-11-10T00:10:14Z",
+      "content": "Certain microorganisms (anaerobic methanotrophic archaea, or ANME) consume methane and convert it into electricity, as research conducted four years ago by microbiologist Cornelia Welte of Radboud Un… [+3435 chars]"
     },
     {
       "source": {
@@ -511,19 +732,6 @@
     },
     {
       "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Aimee  Picchi",
-      "title": "NASA is hiring astronaut candidates. Some could \"live and work\" on the moon. - CBS News",
-      "description": "The space agency is recruiting its next class of astronauts as the U.S. plans a new mission to the moon. Here's the kind of person NASA is looking for.",
-      "url": "https://www.cbsnews.com/news/nasa-hiring-astronaut-applications-requirements-moon/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2021/05/08/bd6dbd3c-fc2b-48f9-a491-19318ed3cc20/thumbnail/1200x630/da67764a1d95a05f9077d55cc0fb6c14/GettyImages-903955770.jpg",
-      "publishedAt": "2026-11-09T18:56:00Z",
-      "content": "NASA is recruiting its next class of astronauts, inviting U.S. citizens to apply before midnight ET on Dec. 3 for the chance to \"live and work\" on the moon.\r\nThe space agency's application portal sta… [+3674 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "KVUE.com"
       },
@@ -577,41 +785,15 @@
     {
       "source": {
         "id": null,
-        "name": "Space.com"
+        "name": "Newser"
       },
-      "author": "Mike Wall",
-      "title": "Starfish Space loses contact with 1st 'Otter' servicing spacecraft, ending NASA tech-demo mission - Space",
-      "description": "\"Starfish, NASA, and Astro Digital have concluded that Otter 24C is not recoverable.\"",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/starfish-space-loses-contact-with-1st-otter-servicing-spacecraft-ending-nasa-tech-demo-mission",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/EPxAVj6mJ5xND94v4YiYXA-2560-80.jpg",
-      "publishedAt": "2026-11-09T18:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": "Krystal Kasal",
-      "title": "The fastest levitated spinning magnet ever made might help physicists search for dark matter - Phys.org",
-      "description": "Tiny levitated magnets are able to avoid contact friction, making them useful for detecting extremely weak forces and magnetic fields and acting as ultralow-noise quantum sensors and precision measurement tools. Combining levitation with extreme cold further …",
-      "url": "https://phys.org/news/2026-11-fastest-levitated-magnet-physicists-dark.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/the-fastest-levitated.jpg",
-      "publishedAt": "2026-11-09T17:30:01Z",
-      "content": "Tiny levitated magnets are able to avoid contact friction, making them useful for detecting extremely weak forces and magnetic fields and acting as ultralow-noise quantum sensors and precision measur… [+5539 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Chelsea Gohd",
-      "title": "NASA just unveiled $1 million in prizes for students that solve future moon base problems - Space",
-      "description": "\"We have an awful lot of problems that need to be solved.\"",
-      "url": "https://www.space.com/space-exploration/nasa-just-launched-a-usd1-million-moon-base-student-challenge-to-award-cash-prizes-to-students-that-solve-lunar-base-problems",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/q7vCqn7LxFksz2NwjJGvRm-1920-80.jpg",
-      "publishedAt": "2026-11-09T17:00:00Z",
-      "content": null
+      "author": "Rob Quinn",
+      "title": "Fossil Teeth Reveal Biggest Asian Rodent - Newser",
+      "description": "Newly discovered species of unusual size could rewrite theories of rodent evolution",
+      "url": "https://www.newser.com/story/399687/fossil-teeth-reveal-66-pound-giant-rodent-in-thailand.html",
+      "urlToImage": "https://cdn.newser.com/image/1723368-12-20261109122005.jpeg",
+      "publishedAt": "2026-11-09T17:50:00Z",
+      "content": "A Thai geologist's hunch about a strange cream-colored fragment in a coal seam has turned out to belong to a 66-pound rodent of unusual size. Researchers from Thailand, France, and Canada say two tee… [+1374 chars]"
     },
     {
       "source": {
@@ -625,32 +807,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/27/multimedia/00SCI-ADA-CONTROVERSY-01-stillpromo/00SCI-ADA-CONTROVERSY-01-stillpromo-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-09T16:41:41Z",
       "content": "It began with a protest at an American Diabetes Association conference. Now a resulting boycott has caused a scientific slowdown, with no end in sight."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Futurism"
-      },
-      "author": "Victor Tangermann",
-      "title": "Scientists Stumped by Why Mysterious Object Is Accelerating as a Japanese Spacecraft Rushes to Catch It - Futurism",
-      "description": "There's something off about 1998 KY26, a mysterious object that the Japanese space agency's Hayabusa2 spacecraft is on its way to visit.",
-      "url": "https://futurism.com/space/mysterious-object-accelerating-space",
-      "urlToImage": "https://futurism.com/wp-content/uploads/2026/11/mysterious-object-accelerating-space.jpg?w=1200",
-      "publishedAt": "2026-11-09T16:40:02Z",
-      "content": "Can’t-miss innovations from the bleeding edge of science and tech\r\nThere’s something puzzling about 1998 KY26, a mysterious object that the Japanese space agency’s Hayabusa2 spacecraft is on its way … [+2245 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "DOGOnews"
-      },
-      "author": "Kavi  Dolasia",
-      "title": "NASA's Swift Space Observatory Falls Back To Earth - DOGO News",
-      "description": "NASA's Swift Space Observatory Falls Back To Earth has 13 comments.",
-      "url": "https://www.dogonews.com/2026/11/9/nasas-swift-space-observatory-falls-back-to-earth",
-      "urlToImage": "https://cdn4.dogonews.com/images/f0beefc5-0df2-4765-82dc-d57f78682693/untitled-design-12.jpg",
-      "publishedAt": "2026-11-09T15:28:04Z",
-      "content": "An artist's illustration of the Swift telescope in space (Credit: NASA)\r\nThe Swift Space Observatory's 22-year mission has ended. On November 4, 2026, the 3,200-pound (1,450 kg) observatory reentered… [+2235 chars]"
     },
     {
       "source": {
@@ -681,19 +837,6 @@
     {
       "source": {
         "id": null,
-        "name": "Chemistry World"
-      },
-      "author": "Andryj Borys",
-      "title": "Nitrogen radical cations overturn assumptions by mimicking Lewis acid catalysts - Chemistry World",
-      "description": "Familiar oxidant reveals a hidden talent for driving transformations usually promoted by entirely different catalysts",
-      "url": "https://www.chemistryworld.com/news/nitrogen-radical-cations-overturn-assumptions-by-mimicking-lewis-acid-catalysts/4024486.article",
-      "urlToImage": "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/4/0/5/552405_d6sc07058bga_48115.png",
-      "publishedAt": "2026-11-09T14:48:04Z",
-      "content": "Nitrogen radical cations can catalyse hydrosilylations, aldol reactions, DielsAlder cycloadditions, olefin dimerisations and other transformations typically associated with Lewis acids, new research … [+3491 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Vintageaviationnews.com"
       },
       "author": null,
@@ -703,19 +846,6 @@
       "urlToImage": "https://vintageaviationnews.com/wp-content/uploads/1280px-aerial-view-of-apollo-4-rollout.jpg",
       "publishedAt": "2026-11-09T14:03:15Z",
       "content": "Welcome to VAN’s Today in Aviation History (Image credit: VAN)\r\nOn this day in aviation history, 59 years ago (November 9, 1967), NASA launched Apollo 4, the first flight of the mighty Saturn V rocke… [+1926 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Keith Cooper",
-      "title": "Meteorite that landed in Cape Cod was a 'lone wolf' from the outer solar system, scientists find - Space",
-      "description": "\"We cannot determine its exact history, but we found no association with any known meteor shower.\"",
-      "url": "https://www.space.com/stargazing/meteor-showers/meteorite-that-landed-in-cape-cod-was-a-lone-wolf-from-beyond-jupiter-scientists-find",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/EDSLPgQe5gCsFs72XukEyF-1920-80.jpg",
-      "publishedAt": "2026-11-09T14:00:00Z",
-      "content": null
     },
     {
       "source": {
@@ -784,19 +914,6 @@
     },
     {
       "source": {
-        "id": "wired",
-        "name": "Wired"
-      },
-      "author": "Jacklin Kwan",
-      "title": "Scientists May Have Discovered a Massive Starless Galaxy - WIRED",
-      "description": "The promising candidate contains roughly 2 billion times the sun’s mass in hydrogen, yet appears to have no stars. Studying it could help answer questions that have vexed astronomers for years.",
-      "url": "https://www.wired.com/story/scientists-discover-massive-starless-galaxy/",
-      "urlToImage": "https://media.wired.com/photos/6ae4b0b9fafa122d7f6143a0/191:100/w_1280,c_limit/103016-Starless%20Galaxy.jpg",
-      "publishedAt": "2026-11-09T11:15:00Z",
-      "content": "Some galaxies appear to contain all the ingredients needed to make stars, yet have failed to produce almost any.\r\nScientists have puzzled over why for years. Recent findings suggest that these dark g… [+2309 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -807,45 +924,6 @@
       "urlToImage": null,
       "publishedAt": "2026-11-09T06:21:38Z",
       "content": "An injured five-month-old walrus was found huddled next to carcasses in remote Alaska after it became separated from its mother. Its rescue took days and lots of patience."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "The giant pre-historic insect found by miners - BBC",
-      "description": "Griffinflies, a dragonfly-type insect, ruled the skies millions of years before the dinosaurs.",
-      "url": "https://www.bbc.com/news/articles/cqglw777xyk6o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/73f2/live/312cae10-d90d-11f1-94c6-3f8050561bf5.jpg",
-      "publishedAt": "2026-11-09T05:56:26Z",
-      "content": "The only known remains of whalleyala bolsoveri, with a 17.4cm wingspan, and Arctotypus diluculum, believed to have had a wingspan of about 50cm, were discovered and are now housed at London's Natural… [+15 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "KSBY San Luis Obispo News"
-      },
-      "author": "Evelyn Santa Rosa",
-      "title": "SpaceX Falcon 9 launch planned for Tuesday evening out of Vandenberg SFB - KSBY News",
-      "description": "SpaceX is planning to launch a Falcon 9 rocket out of Vandenberg Space Force Base. The launch window is expected to open shortly before 7 p.m. on Tuesday, November 10, carrying the USSF-627 mission.",
-      "url": "https://www.ksby.com/news/launch-tracker/spacex-falcon-9-launch-planned-for-monday-evening-out-of-vandenberg-sfb",
-      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/3523130/2147483647/strip/true/crop/982x516+0+23/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F3e%2F03%2F8f6217a1445083ac0432c0f09886%2Ffalcon-9.JPG",
-      "publishedAt": "2026-11-09T02:33:44Z",
-      "content": "UPDATE (3:30 p.m.) - The launch has been pushed to Tuesday with the four-hour launch window opening shortly before 7 p.m.\r\nORIGINAL STORY: SpaceX is planning to launch a Falcon 9 rocket out of Vanden… [+419 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SciTechDaily"
-      },
-      "author": null,
-      "title": "Scientists Discover Climate Change May Have Stopped Earth’s Next Ice Age - SciTechDaily",
-      "description": "A new glacial period may have been taking shape in the Arctic until global warming brought its slow advance to a halt.",
-      "url": "https://scitechdaily.com/scientists-discover-climate-change-may-have-stopped-earths-next-ice-age/",
-      "urlToImage": null,
-      "publishedAt": "2026-11-08T23:25:09Z",
-      "content": "Scientists have uncovered evidence that Earth may have been entering a new glacial period thousands of years ago before rising temperatures abruptly reversed the process. Credit: SciTechDaily.com\r\nA … [+5853 chars]"
     },
     {
       "source": {
@@ -863,19 +941,6 @@
     {
       "source": {
         "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Esra Öz",
-      "title": "Amyloid Fibers Have an Unexpected Role in Sperm, Scientists Discover - ScienceAlert",
-      "description": "A sperm cell's cargo includes more than a father's DNA.",
-      "url": "https://www.sciencealert.com/amyloid-fibers-have-an-unexpected-role-in-sperm-scientists-discover",
-      "urlToImage": "https://www.sciencealert.com/images/2026/11/SciencePhotoLibrarySEMOfSpermCellInFallopianTube-1200x675.png",
-      "publishedAt": "2026-11-08T21:04:11Z",
-      "content": "A sperm cell's cargo includes more than a father's DNA. RNA molecules that can contribute to early embryonic development also make the journey. Some of those molecules begin their trip outside the sp… [+5767 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "BGR"
       },
       "author": "Trevor Mogg",
@@ -885,19 +950,6 @@
       "urlToImage": "https://s.yimg.com/lo/mysterio/api/4fb737c99883611cdb35a0512ca4e2eabc17be4f751940fa14fdee404e981dce/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbgr_ecomm_183%2F5d4f16e6d67ff3b320f4ddb9b7102919.jpg",
       "publishedAt": "2026-11-08T14:47:00Z",
       "content": "SpaceX deployed its first batch of Starlink internet satellites in 2019, and since then has put more than 10,000 into low-Earth orbit. The satellites are part of a growing constellation that provides… [+5542 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": "Sam Jarman",
-      "title": "'Stupendously large' primordial black holes ruled out as a dark matter source - Phys.org",
-      "description": "Primordial black holes are hypothetical objects that could have formed directly from dense clumps of matter in the very early universe. If they exist, their dramatic origins would set them apart from the black holes we see today, which form when massive stars…",
-      "url": "https://phys.org/news/2026-11-stupendously-large-primordial-black-holes.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/stupendously-large-pri.jpg",
-      "publishedAt": "2026-11-08T14:40:01Z",
-      "content": "Primordial black holes are hypothetical objects that could have formed directly from dense clumps of matter in the very early universe. If they exist, their dramatic origins would set them apart from… [+4326 chars]"
     },
     {
       "source": {
@@ -911,19 +963,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/07Sci-heart-drugs-01b-kqzj/07Sci-heart-drugs-01b-kqzj-mediumSquareAt3X-v2.jpg",
       "publishedAt": "2026-11-08T14:14:56Z",
       "content": "By every measure, the drugs were no better than placebos, full data revealed on Saturday. Was it the fault of the design of the studies, or our very hypotheses about heart disease?"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Jacek Krywko",
-      "title": "Physicists listened to electrical noise to crack a superconductor mystery - Ars Technica",
-      "description": "Tuning in to electronic noise can tell us whether electrons have paired up or not.",
-      "url": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-90737843-884x648.jpg",
-      "publishedAt": "2026-11-08T12:15:31Z",
-      "content": null
     },
     {
       "source": {
@@ -980,15 +1019,15 @@
     {
       "source": {
         "id": null,
-        "name": "Space.com"
+        "name": "ScienceAlert"
       },
-      "author": "Elizabeth Howell",
-      "title": "Send your name to Saturn's moon Titan with NASA's upcoming Dragonfly mission - Space",
-      "description": "NASA is asking the public to send their names to Titan for an ambitious mission that will see a flying craft explore the Saturn moon in 2034, if all goes according to plan.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/send-your-name-to-saturns-moon-titan-with-nasas-upcoming-dragonfly-mission",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/4TsvmNPsG8o4nXmHcQLzbX-1920-80.jpg",
-      "publishedAt": "2026-11-07T15:00:00Z",
-      "content": null
+      "author": "David Nield",
+      "title": "Scientists Discover Two Enormous Tears in a Tectonic Plate Beneath Iran - ScienceAlert",
+      "description": "On the scale of human generations, the tectonic plates that form Earth's crust and upper mantle are moving incredibly slowly.",
+      "url": "https://www.sciencealert.com/scientists-discover-two-enormous-tears-in-a-tectonic-plate-beneath-iran",
+      "urlToImage": "https://www.sciencealert.com/images/2026/11/ZagrosMountains-1200x675.jpg",
+      "publishedAt": "2026-11-07T19:04:12Z",
+      "content": "On the scale of human generations, the tectonic plates that form Earth's crust and upper mantle are moving incredibly slowly.\r\nThey are constantly moving, though, and across millions of years, that m… [+4294 chars]"
     },
     {
       "source": {
@@ -1018,19 +1057,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "Theory predicting an older universe without dark matter or dark energy passes key cosmological tests - Phys.org",
-      "description": "An alternative model in which the universe is 26.7 billion years old and needs neither dark matter nor dark energy has held up against several major cosmology tests, according to a new University of Ottawa study. The research, titled \"A Big Bang Nucleosynthes…",
-      "url": "https://phys.org/news/2026-11-theory-older-universe-dark-energy.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/theory-predicting-an-o-2.jpg",
-      "publishedAt": "2026-11-07T14:00:02Z",
-      "content": "An alternative model in which the universe is 26.7 billion years old and needs neither dark matter nor dark energy has held up against several major cosmology tests, according to a new University of … [+4580 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1054,6 +1080,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/06/science/06sci-politician-scientists/06sci-politician-scientists-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-06T19:50:43Z",
       "content": "Among those elected to Congress on Tuesday are a mathematician, a microbiologist and a chemical engineer. They plan to take on a White House that has threatened funding cuts to research."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Spacex.com"
+      },
+      "author": null,
+      "title": "Go For Orbit - SpaceX",
+      "description": "SpaceX designs, manufactures and launches advanced rockets and spacecraft.",
+      "url": "https://www.spacex.com/content/starship/go-for-orbit",
+      "urlToImage": "https://www.spacex.com/assets/images/share.jpg",
+      "publishedAt": "2026-11-06T17:53:07Z",
+      "content": null
     },
     {
       "source": {
@@ -1135,42 +1174,29 @@
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
+        "id": null,
+        "name": "Nature.com"
       },
-      "author": "Franz Lidz",
-      "title": "Tiny Chihuahuas Hold a Big Surprise: A Sliver of Coyote DNA",
-      "description": "The breed is descended from indigenous canines, which may have been intentionally mixed with wild coyotes long before Europeans arrived in the Americas.",
-      "url": "https://www.nytimes.com/2026/11/05/science/chihuahuas-coyote-dna.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/04/science/04SCI-CHIHUAHUA-DNA-01/04SCI-CHIHUAHUA-DNA-01-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-05T10:02:53Z",
-      "content": "The breed is descended from indigenous canines, which may have been intentionally mixed with wild coyotes long before Europeans arrived in the Americas."
+      "author": null,
+      "title": "An AI-native experimental laboratory for autonomous biomolecular operations - Nature",
+      "description": "AutoDNA is an artificial intelligence (AI)-native autonomous biomolecular engineering laboratory targeting multi-objective experiments across diverse instruments, realizing the co-evolution of AI and the automation system within an end-to-end multi-user frame…",
+      "url": "https://www.nature.com/articles/s41586-026-11228-6",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11228-6/MediaObjects/41586_2026_11228_Fig1_HTML.png",
+      "publishedAt": "2026-11-04T22:28:14Z",
+      "content": "<li>Burger, B. et al. A mobile robotic chemist. Nature583, 237241 (2020).\r\nArticle \r\n CAS \r\n PubMed \r\nGoogle Scholar \r\n</li><li>Boiko, D. A., MacKnight, R., Kline, B. &amp; Gomes, G. Autonomous chemi… [+9687 chars]"
     },
     {
       "source": {
-        "id": "usa-today",
-        "name": "USA Today"
+        "id": "associated-press",
+        "name": "Associated Press"
       },
-      "author": "Kyley Warren",
-      "title": "Fireballs could light up the sky tonight as the Southern Taurids peak - USA TODAY 10BEST",
-      "description": "The Southern Taurid meteor shower peaks Nov. 4-5, 2026. Find out when to watch for shooting stars and bright 'Halloween fireballs.'",
-      "url": "https://10best.usatoday.com/lifestyle/southern-taurids-meteor-shower-november-2026/",
-      "urlToImage": "https://img2.10bestmedia.com/Images/Photos/437250/71423220007-1234617956_54_990x660.jpg",
-      "publishedAt": "2026-11-05T06:09:03Z",
-      "content": "The Southern Taurids meteor shower peaks Nov. 4-5, 2026. Find out when to watch for shooting stars and bright Halloween fireballs. – Photo courtesy of Bill Ingalls/ NASA via Getty Images\r\nCould blazi… [+2928 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Jackie Wattles, Ashley Strickland",
-      "title": "A 3,200-pound telescope plunged out of orbit. How it unfolded - CNN",
-      "description": "NASA’s Neil Gehrels Swift Observatory fell to a fiery end early Wednesday nearly 22 years after it launched.",
-      "url": "https://www.cnn.com/2026/11/04/science/nasa-swift-observatory-reentry-deorbit",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/swift-in-space-12.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-11-04T05:03:42Z",
-      "content": "NASAs Neil Gehrels Swift Observatory met a fiery end on Wednesday morning, nearly 22 years after it launched to study the most powerful explosions in the universe.\r\nData from the US Space Force estim… [+4468 chars]"
+      "author": "Marcia Dunn",
+      "title": "NASA space telescope plunges to Earth after two decades studying cosmic explosions - AP News",
+      "description": "One of NASA's premier space telescopes has plunged to Earth, ending its 22-year investigation of the universe's biggest explosions. The Swift Observatory's demise on Wednesday came less than three months after a long-shot rescue mission failed. The U.S. Space…",
+      "url": "https://apnews.com/article/swift-observatory-telescope-hubble-5c19afdd7867dc88d68ea61dba1fbaee",
+      "urlToImage": "https://dims.apnews.com/dims4/default/f0c46d0/2147483647/strip/true/crop/3008x2000+0+0/resize/1200x798!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7f%2F19%2Ffc86deaed4a846edbd4945ffe82a%2F5f317232886346b2be17e35945218adc",
+      "publishedAt": "2026-11-04T19:41:00Z",
+      "content": "CAPE CANAVERAL, Fla. (AP) One of NASAs premier space telescopes plunged to Earth on Wednesday, ending its 22-year investigation of the universes biggest explosions.\r\nThe Swift Observatorys demise cam… [+1997 chars]"
     }
   ]
 }
