@@ -1,136 +1,201 @@
 {
   "status": "ok",
-  "totalResults": 51,
+  "totalResults": 55,
   "articles": [
     {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Tripp Mickle and Maggie Haberman",
-      "title": "Here’s the latest.",
-      "description": "The chief executive has been under scrutiny for an affair with a woman said to be a Chinese spy, as well as for a relationship with a subordinate at his A.I. chip company. Nvidia’s finance chief, Colette Kress, was named interim leader.",
-      "url": "https://www.nytimes.com/live/2026/11/12/business/nvidia-jensen-huang-resigns/nvidia-jensen-huang",
+      "author": "Maia Coleman",
+      "title": "What to Know About the Deadly Building Collapse in Brooklyn",
+      "description": "At least eight people were killed and more than a dozen others injured when a three-story building in Flatbush collapsed on Wednesday, officials said.",
+      "url": "https://www.nytimes.com/2026/11/12/nyregion/building-collapse-brooklyn-deaths-flatbush-nyc.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/12/11/multimedia/11met-building-wtk-pjgk/11met-building-wtk-pjgk-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-12T21:45:05Z",
+      "content": "At least eight people were killed and more than a dozen others injured when a three-story building in Flatbush collapsed on Wednesday, officials said."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Sopan Deb and Reid J. Epstein",
+      "title": "The Concession Call to an Election Winner Is No Longer a Given",
+      "description": "In a hyperpartisan era when norms and traditions cannot be counted on, some politicians are left waiting by the phone.",
+      "url": "https://www.nytimes.com/2026/11/12/us/politics/concession-calls-elections-midterms.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/12/multimedia/12xp-concessions-promo/12xp-concessions-promo-mediumSquareAt3X.png",
+      "publishedAt": "2026-11-12T21:39:56Z",
+      "content": "In a hyperpartisan era when norms and traditions cannot be counted on, some politicians are left waiting by the phone."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Katherine Rosman",
+      "title": "Farewell to Stanley Zabar, the ‘Mayor’ of the Upper West Side",
+      "description": "For decades he helped steer Zabar’s, a food institution. He lived for “the store,” his family and his Manhattan neighborhood.",
+      "url": "https://www.nytimes.com/2026/11/12/nyregion/stanley-zabar-upper-west-side.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/12/multimedia/12met-stanleyzabar-01-wmzb/12met-stanleyzabar-01-wmzb-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-12T21:36:54Z",
+      "content": "For decades he helped steer Zabar’s, a food institution. He lived for “the store,” his family and his Manhattan neighborhood."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Greg Jaffe",
+      "title": "Pete Hegseth, a Soldier’s Scolding and a Lesson at the Tomb of Unknowns",
+      "description": "Defense Secretary Pete Hegseth’s highly cultivated brand took a hit during an encounter with an Army sentinel at Arlington Cemetery.",
+      "url": "https://www.nytimes.com/2026/11/12/us/politics/pete-hegseth-warrior-image.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-tomb-jmqc/12dc-tomb-jmqc-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-12T21:31:33Z",
+      "content": "Defense Secretary Pete Hegseth’s highly cultivated brand took a hit during an encounter with an Army sentinel at Arlington Cemetery."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Aruni Soni, Eshe Nelson and Jason Karaian",
+      "title": "Nvidia Stock Tumbles After Jensen Huang Resigns as CEO",
+      "description": "News that the chipmaker’s chief executive, Jensen Huang, resigned drove Nvidia’s stock down, though the broader market rose slightly.",
+      "url": "https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-nvidia-stock1-bqgj/12biz-nvidia-stock1-bqgj-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-12T21:15:17Z",
+      "content": "News that the chipmaker’s chief executive, Jensen Huang, resigned drove Nvidia’s stock down, though the broader market rose slightly."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Ben Casselman",
+      "title": "Jensen Huang, Nvidia’s Ousted CEO, Was the Face of the A.I. Boom Powering the U.S. Economy",
+      "description": "Nvidia’s ousted leader was a unique rhetorical and financial booster for investments that are driving economic growth.",
+      "url": "https://www.nytimes.com/2026/11/12/business/economy/jensen-huang-economy-nvidia-ai.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-nvidia-live-economy-mktc/12biz-nvidia-live-economy-mktc-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-12T21:05:50Z",
+      "content": "Nvidia’s ousted leader was a unique rhetorical and financial booster for investments that are driving economic growth."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Caroline Soler, Ruth Igielnik and Jillian Vordick",
+      "title": "Why 2026 Midterm Polls Underestimated Democratic Support",
+      "description": "Democratic gains were expected, but surveys almost uniformly underestimated how well the left would do. Many pollsters seem to have made similar mistakes.",
+      "url": "https://www.nytimes.com/2026/11/12/us/politics/poll-error-democrats-midterms.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/06/multimedia/2026-11-05-poll-error-index/2026-11-05-poll-error-index-mediumSquareAt3X-v10.png",
+      "publishedAt": "2026-11-12T20:29:06Z",
+      "content": "Democratic gains were expected, but surveys almost uniformly underestimated how well the left would do. Many pollsters seem to have made similar mistakes."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Adam Liptak",
+      "title": "Will the Supreme Court Thwart Congressional Investigations?",
+      "description": "Lawmakers must dodge rulings on immunity, standing and “valid legislative purpose.”",
+      "url": "https://www.nytimes.com/2026/11/12/us/politics/the-docket-supreme-court-congressional-investigations.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/12/multimedia/12thedocket-nl-1-bpzt/12thedocket-nl-1-bpzt-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-12T20:27:03Z",
+      "content": "Lawmakers must dodge rulings on immunity, standing and “valid legislative purpose.”"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Andy Newman, Ashley Southall and Chelsia Rose Marcius",
+      "title": "What We Know About the Victims of the Brooklyn Building Collapse",
+      "description": "At least eight people were killed when a three-story building fell into a neighboring construction site Wednesday afternoon. The search for survivors continued into the next day.",
+      "url": "https://www.nytimes.com/2026/11/12/nyregion/brooklyn-building-collapse-victims.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/12/multimedia/12met-building-collapse-live-victims-topart-gmzb/12met-building-collapse-live-victims-topart-gmzb-mediumSquareAt3X-v2.jpg",
+      "publishedAt": "2026-11-12T20:17:58Z",
+      "content": "At least eight people were killed when a three-story building fell into a neighboring construction site Wednesday afternoon. The search for survivors continued into the next day."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Maggie Jones",
+      "title": "When Bernice Gottlieb Visited a Community of People With Leprosy",
+      "description": "By embracing Korean children stigmatized by the disease, she was a leader in the international adoption movement. She has died at 95.",
+      "url": "https://www.nytimes.com/2026/11/12/obituaries/bernice-gottlieb-dead.html",
       "urlToImage": null,
-      "publishedAt": "2026-11-12T13:59:04Z",
-      "content": "The chief executive has been under scrutiny for an affair with a woman said to be a Chinese spy, as well as for a relationship with a subordinate at his A.I. chip company. Nvidia’s finance chief, Colette Kress, was named interim leader."
+      "publishedAt": "2026-11-12T20:15:33Z",
+      "content": "By embracing Korean children stigmatized by the disease, she was a leader in the international adoption movement. She has died at 95."
     },
     {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "The Editorial Board",
-      "title": "The First Thing Democrats Should Do to Show They’re Serious on Affordability",
-      "description": "A party that just won an election on affordability should not pass up a chance to deliver immediately.",
-      "url": "https://www.nytimes.com/2026/11/12/opinion/democrats-congress-affordability-reform.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/12/opinion/12climate-editorial-image/12climate-editorial-image-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-12T13:53:43Z",
-      "content": "A party that just won an election on affordability should not pass up a chance to deliver immediately."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Abu Bakr Bashir and Ephrat Livni",
-      "title": "Strike on Gaza Hospital Kills at Least 6 and Injures 20, Rescuers Say",
-      "description": "The Israeli authorities said that Hamas had established a command center at the hospital complex. Hamas said the attack was “a heinous crime targeting a civilian medical facility.”",
-      "url": "https://www.nytimes.com/2026/11/11/world/middleeast/nasser-hospital-gaza-strike-israel.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/12/11/multimedia/11int-Gaza-Hospital-ktgm/11int-Gaza-Hospital-ktgm-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-12T13:07:57Z",
-      "content": "The Israeli authorities said that Hamas had established a command center at the hospital complex. Hamas said the attack was “a heinous crime targeting a civilian medical facility.”"
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Sam Sifton",
-      "title": "Flight Risks",
-      "description": "As we head into the holiday travel season, we’ll answer a question: Is air travel getting less safe?",
-      "url": "https://www.nytimes.com/2026/11/12/briefing/flight-risks.html",
+      "author": "John McWhorter",
+      "title": "What Are Those Strange Noises Trump Makes?",
+      "description": "These are erratic executive eruptions.",
+      "url": "https://www.nytimes.com/2026/11/12/opinion/trump-speech-midterms.html",
       "urlToImage": null,
-      "publishedAt": "2026-11-12T12:14:37Z",
-      "content": "As we head into the holiday travel season, we’ll answer a question: Is air travel getting less safe?"
+      "publishedAt": "2026-11-12T20:00:12Z",
+      "content": "These are erratic executive eruptions."
     },
     {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Nina Agrawal",
-      "title": "What to Know About New Prostate Cancer Screening Recommendations",
-      "description": "Universal screening for the disease has long been a subject of controversy.",
-      "url": "https://www.nytimes.com/2026/11/12/well/prostate-cancer-screening-guideline.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/12/well/12WELL-ACS-PROSTATE2/12WELL-ACS-PROSTATE2-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-12T12:00:05Z",
-      "content": "Universal screening for the disease has long been a subject of controversy."
+      "author": "Taliesin Black-Brown and Hank Lentfer",
+      "title": "Dementia Stole His Mother’s Memories. Can Sound Help?",
+      "description": "In the Alaskan wilderness, a deeper truth awaits those who stop to listen.",
+      "url": "https://www.nytimes.com/2026/11/12/opinion/dementia-memory-alaska-wilderness-sounds.html",
+      "urlToImage": null,
+      "publishedAt": "2026-11-12T20:00:06Z",
+      "content": "In the Alaskan wilderness, a deeper truth awaits those who stop to listen."
     },
     {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Victoria Kim and Matthew Abbott",
-      "title": "Tourists Brave a Muddy Jungle Trek to See a Famed World War II Wreck",
-      "description": "Seven Chinese tourists, a dozen villagers and a couple of journalists forded streams and bushwhacked to the downed plane of Isoroku Yamamoto, the Japanese admiral. Machetes proved handy.",
-      "url": "https://www.nytimes.com/2026/11/12/world/asia/yamamoto-pearl-harbor-plane-bougainville-tourism.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/19/multimedia/00int-yamamoto-plane-still-promo-hgkc/00int-yamamoto-plane-still-promo-hgkc-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-12T11:55:23Z",
-      "content": "Seven Chinese tourists, a dozen villagers and a couple of journalists forded streams and bushwhacked to the downed plane of Isoroku Yamamoto, the Japanese admiral. Machetes proved handy."
+      "author": "John Yoon",
+      "title": "Paul LePage, Ex-Governor of Maine, Flips House Seat to Republicans",
+      "description": "Paul LePage defeated a progressive Democrat, Matt Dunlap, in the state’s rural Second Congressional District.",
+      "url": "https://www.nytimes.com/2026/11/12/sports/paul-lepage-maine-house-race.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/09/multimedia/00hfo-lepage-01-vflq/00hfo-lepage-01-vflq-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-12T19:49:08Z",
+      "content": "Paul LePage defeated a progressive Democrat, Matt Dunlap, in the state’s rural Second Congressional District."
     },
     {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Tracy Mumford, Will Jarvis, Margaret Kadifa, Jake Lucas, Ian Stewart, Ryan Mac and Valerie Hopkins",
-      "title": "A Second Affair Revelation Rocks Nvidia, and a Democrat Wins Mississippi in a Major Senate Upset",
-      "description": "Plus, the downfall of Russia’s most daring newspaper.",
-      "url": "https://www.nytimes.com/2026/11/12/podcasts/the-headlines/jensen-huang-nvidia-scott-colom-mississippi-senate.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/12/multimedia/12headlines-Huang-spy-lmbf/12headlines-Huang-spy-lmbf-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-12T11:00:15Z",
-      "content": "Plus, the downfall of Russia’s most daring newspaper."
+      "author": "Ana Ley and Dave Sanders",
+      "title": "A Frantic Search for Survivors in the Brooklyn Building Collapse",
+      "description": "At one moment, an apartment building was standing. At another, it had tumbled into a hole. Ruin, and death, followed.",
+      "url": "https://www.nytimes.com/2026/11/12/nyregion/brooklyn-building-collapse-aftermath.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/12/lens/BUILDING-IN-ONE-IMAGE-promo/BUILDING-IN-ONE-IMAGE-promo-mediumSquareAt3X.png",
+      "publishedAt": "2026-11-12T19:43:09Z",
+      "content": "At one moment, an apartment building was standing. At another, it had tumbled into a hole. Ruin, and death, followed."
     },
     {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Adam Rasgon and Natan Odenheimer",
-      "title": "Israel’s Arrest of Journalist Abed Abu Shehadeh Raises Concerns",
-      "description": "Abed Abu Shehadeh, a Palestinian citizen of Israel, was detained without being charged with a crime, raising concerns that the domestic security service is overstepping its authority.",
-      "url": "https://www.nytimes.com/2026/11/12/world/middleeast/israel-shin-bet-shehadeh-netanyahu.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/12/world/12int-israel-arab-journalist-afnai/12int-israel-arab-journalist-afnai-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-12T10:59:13Z",
-      "content": "Abed Abu Shehadeh, a Palestinian citizen of Israel, was detained without being charged with a crime, raising concerns that the domestic security service is overstepping its authority."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Christine Rosen and Sophia Muniz",
-      "title": "Democrats Have Power Now. They Shouldn’t Waste It on Woke.",
-      "description": "This leftist thinker is skeptical that they can govern without lecturing the country.",
-      "url": "https://www.nytimes.com/2026/11/12/opinion/interesting-times-christine-rosen-catherine-liu.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/12/opinion/12itpod-liu/12itpod-liu-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-12T10:50:34Z",
-      "content": "This leftist thinker is skeptical that they can govern without lecturing the country."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Emily Cochrane and Jennifer Medina",
-      "title": "In Mississippi, Scott Colom Supporters Celebrate Historic Senate Win",
-      "description": "At Tougaloo College, supporters danced and wept and over Scott Colom’s victory. He will be Mississippi’s first Black U.S. senator since the Reconstruction era.",
-      "url": "https://www.nytimes.com/2026/11/12/us/elections/mississippi-colom-senate-race-black-voters.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/12/multimedia/12pol-Black-voters-rejoice-hjvw/12pol-Black-voters-rejoice-hjvw-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-12T10:19:10Z",
-      "content": "At Tougaloo College, supporters danced and wept and over Scott Colom’s victory. He will be Mississippi’s first Black U.S. senator since the Reconstruction era."
+      "author": "Luke Broadwater",
+      "title": "Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign",
+      "description": "The announcement on social media deepened questions about what the president’s plan is to end the war. “We don’t need a deal with Iran,” he wrote.",
+      "url": "https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-trump-vance-top-kgmw/12dc-trump-vance-top-kgmw-mediumSquareAt3X-v2.jpg",
+      "publishedAt": "2026-11-12T19:38:36Z",
+      "content": "The announcement on social media deepened questions about what the president’s plan is to end the war. “We don’t need a deal with Iran,” he wrote."
     },
     {
       "source": {
@@ -142,8 +207,99 @@
       "description": "How alarmed should we be about the state of air travel?",
       "url": "https://www.nytimes.com/2026/11/12/magazine/safety-air-travel-takeaways.html",
       "urlToImage": null,
-      "publishedAt": "2026-11-12T10:03:52Z",
+      "publishedAt": "2026-11-12T19:31:08Z",
       "content": "How alarmed should we be about the state of air travel?"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Paul Mozur",
+      "title": "Singapore Says US Not Helpful on Investigation Into Alice Huang and Megaspeed",
+      "description": "In a statement, Singapore said it held Alice Huang’s passport months after President Trump was briefed that she was a spy.",
+      "url": "https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-Singapore-Alice-fmtb/12biz-Singapore-Alice-fmtb-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-12T19:19:40Z",
+      "content": "In a statement, Singapore said it held Alice Huang’s passport months after President Trump was briefed that she was a spy."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Sheryl Gay Stolberg",
+      "title": "Kennedy’s Future: Will Democrats Try to Impeach Him, or Actually Work With Him?",
+      "description": "Most Democrats abhor the health secretary’s stance on vaccines, but some see an opportunity to win voters from his MAHA movement by joining with him on food and environmental issues.",
+      "url": "https://www.nytimes.com/2026/11/12/us/politics/rfk-jr-democrats-impeach.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/12/07/multimedia/07DC-RFK-FUTURE-top-mgkj/07DC-RFK-FUTURE-top-mgkj-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-12T18:18:11Z",
+      "content": "Most Democrats abhor the health secretary’s stance on vaccines, but some see an opportunity to win voters from his MAHA movement by joining with him on food and environmental issues."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Catie Edmondson",
+      "title": "Democrats Unite on Economic Populism After Midterm Victories",
+      "description": "Moderate Democrats and progressives have long feuded over who should drive their party’s economic agenda. But many newly elected members say they share the same big goals.",
+      "url": "https://www.nytimes.com/2026/11/12/us/politics/democrats-majorities-economic-populism.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/12/multimedia/12dc-dems-populism-hzwp/12dc-dems-populism-hzwp-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-12T18:00:19Z",
+      "content": "Moderate Democrats and progressives have long feuded over who should drive their party’s economic agenda. But many newly elected members say they share the same big goals."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Billy Witz, Aishvarya Kavi, Madison Malone Kircher and Christine Hauser",
+      "title": "One Dead and Four Wounded in Shooting Around Washington D.C. Condo Building",
+      "description": "The shooting in a busy neighborhood took place at a gym and two nearby locations. A suspect was found with a fatal gunshot wound after barricading in a building, the police said.",
+      "url": "https://www.nytimes.com/2026/11/12/us/shooting-washington-dc.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/12/multimedia/12xp-DC-topart-01-bvck/12xp-DC-topart-01-bvck-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-12T17:42:19Z",
+      "content": "The shooting in a busy neighborhood took place at a gym and two nearby locations. A suspect was found with a fatal gunshot wound after barricading in a building, the police said."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Stuart A. Thompson",
+      "title": "We Were Warned of Deceptive A.I. Fakes. We Got Memes.",
+      "description": "The surge of A.I. fakes that emerged this election season was different than what researchers had feared. The results are also a reckoning.",
+      "url": "https://www.nytimes.com/2026/11/12/technology/artifical-intelligence-fakes-midterm-memes.html",
+      "urlToImage": null,
+      "publishedAt": "2026-11-12T17:13:29Z",
+      "content": "The surge of A.I. fakes that emerged this election season was different than what researchers had feared. The results are also a reckoning."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Karen Weise",
+      "title": "Data Centers Will Continue to Be Built, Despite Midterm Elections",
+      "description": "Big technology companies saw the tide turn against their giant A.I. projects, but they have the means to weather delays.",
+      "url": "https://www.nytimes.com/2026/11/12/technology/voters-data-centers-construction.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/12/business/12data-center-slowdown-B1/00data-center-slowdown-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-12T14:42:23Z",
+      "content": "Big technology companies saw the tide turn against their giant A.I. projects, but they have the means to weather delays."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Nitsuh Abebe",
+      "title": "What the Retail Greeting ‘Welcome in’ Says About What Customers Really Want",
+      "description": "The phrase has started showing up everywhere. It reveals a lot about our discomforts with both human and robotic interactions.",
+      "url": "https://www.nytimes.com/2026/11/12/magazine/welcome-in-retail.html",
+      "urlToImage": null,
+      "publishedAt": "2026-11-12T10:03:01Z",
+      "content": "The phrase has started showing up everywhere. It reveals a lot about our discomforts with both human and robotic interactions."
     },
     {
       "source": {
@@ -160,107 +316,315 @@
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
+        "id": null,
+        "name": "WABC-TV"
       },
-      "author": "Edgar Sandoval",
-      "title": "San Antonio Fights Plan to Turn Warehouse Into ICE Detention Center",
-      "description": "The city’s lawsuit is part of a wave of legal challenges slowing the Trump administration’s effort to build immigration detention centers across the country.",
-      "url": "https://www.nytimes.com/2026/11/12/us/ice-detention-center-san-antonio.html",
-      "urlToImage": null,
-      "publishedAt": "2026-11-12T10:00:24Z",
-      "content": "The city’s lawsuit is part of a wave of legal challenges slowing the Trump administration’s effort to build immigration detention centers across the country."
+      "author": null,
+      "title": "Brooklyn building collapse: 1 dead, at least 9 injured as rescue continues - ABC7 New York",
+      "description": "A partial building collapse in Flatbush has left at least one person dead, and at least 10 injured as firefighters continue efforts to search for others who may be trapped.",
+      "url": "https://abc7ny.com/post/flatbush-partial-building-collapse-brooklyn-reported-people-trapped/20033903/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/20034107_111126-wabc-ap-bk-building-collapse-img.jpg?w=1600",
+      "publishedAt": "2026-11-11T22:30:00Z",
+      "content": "FLATBUSH, Brooklyn (WABC) -- A partial building collapse in Flatbush, Brooklyn has left at least one person dead, and at least 10 others injured as firefighters continue efforts to search and remove … [+1492 chars]"
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
+        "id": "cbs-news",
+        "name": "CBS News"
       },
-      "author": "Emily Cochrane",
-      "title": "Scott Colom, a Democrat, Wins Mississippi Senate Election",
-      "description": "Mr. Colom, a prosecutor, will be the first Black senator elected from Mississippi since the post-Civil War Reconstruction period.",
-      "url": "https://www.nytimes.com/2026/11/11/us/elections/mississippi-senate-colom-hyde-smith.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/11/multimedia/11pol-ms-senate/11midterms-02-jgqm-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-12T09:11:08Z",
-      "content": "Mr. Colom, a prosecutor, will be the first Black senator elected from Mississippi since the post-Civil War Reconstruction period."
+      "author": "Megan  Cerullo",
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers - CBS News",
+      "description": "Using an artificial intelligence agent to make flight reservations poses security risks and could violate federal rules, according to United.",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/11/abfecdbe-5571-42df-95f8-6c22131067aa/thumbnail/1200x630/526b47f241e8e11c31cb47bc82f1f68c/gettyimages-2296986024-1.jpg",
+      "publishedAt": "2026-11-11T22:22:06Z",
+      "content": "United Airlines said on Wednesday that it is banning artificial intelligence agents from making flight reservations on behalf of travelers, citing security risks and the possibility that such actions… [+2337 chars]"
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
+        "id": null,
+        "name": "WPVI-TV"
       },
-      "author": "Trish Bendix",
-      "title": "Desi Lydic Chides Democrats Who Missed Hegseth’s Impeachment Vote",
-      "description": "“This is huge, someone actually going after Pete Hegseth, and not just for child support!” said “The Daily Show” host.",
-      "url": "https://www.nytimes.com/2026/11/12/arts/television/desi-lydic-democrats-miss-pete-hegseth-impeachment-vote.html",
-      "urlToImage": null,
-      "publishedAt": "2026-11-12T08:14:03Z",
-      "content": "“This is huge, someone actually going after Pete Hegseth, and not just for child support!” said “The Daily Show” host."
+      "author": "6abc Digital Staff",
+      "title": "SS United States live updates: How to watch intentional sinking of historic vessel off Florida coast - 6abc Philadelphia",
+      "description": "SINKING AN ICON: The SS United States is embarking on its final voyage Wednesday as the historic ocean liner heads to its final home on the floor of the Gulf, off Florida's Panhandle coast.",
+      "url": "https://6abc.com/live-updates/ss-united-states-live-stream-historic-vessel-sunk-become-worlds-largest-artificial-reef-off-florida-coast/20033077/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/20033605_111126-wpvi-ss-united-states-before-sinking-img.jpg?w=1600",
+      "publishedAt": "2026-11-11T22:17:00Z",
+      "content": "The SS United States, an ocean liner that was once the fastest on the seas, will soon hold a new title, becoming the world's largest artificial reef off the coast of Florida's panhandle.\r\nIt will be … [+865 chars]"
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
+        "id": "nbc-news",
+        "name": "NBC News"
       },
-      "author": "Ryan Mac, Tripp Mickle and Georgia Gee",
-      "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
-      "description": "Mr. Huang, Nvidia’s chief executive, is already facing scrutiny over an affair with a Chinese businesswoman who U.S. intelligence determined was a Chinese spy.",
-      "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/11/multimedia/00Biz-Huang-Relationship-wlgb/00Biz-Huang-Relationship-wlgb-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-12T01:57:34Z",
-      "content": "Mr. Huang, Nvidia’s chief executive, is already facing scrutiny over an affair with a Chinese businesswoman who U.S. intelligence determined was a Chinese spy."
+      "author": "Eleanor Skelly, Mosheh Gains, Courtney Kube, Raquel Coronell Uribe",
+      "title": "Pete Hegseth and others reprimanded by guard at the Tomb of the Unknown Soldier - NBC News",
+      "description": "Defense Secretary Pete Hegseth was reprimanded Wednesday by an Army sentinel guarding the Tomb of the Unknown Soldier who asked him and his guests to maintain “atmospheric silence and respect.”",
+      "url": "https://www.nbcnews.com/politics/trump-administration/hegseth-reprimanded-arlington-cemetery-veterans-tomb-unknown-soldier-rcna608869",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261111-Hegseth-ch-1553-019913.jpg",
+      "publishedAt": "2026-11-11T22:15:34Z",
+      "content": "Defense Secretary Pete Hegseth was reprimanded Wednesday by an Army sentinel guarding the Tomb of the Unknown Soldier who asked him and his guests to maintain atmospheric silence and respect. \r\nHegse… [+1839 chars]"
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
+        "id": "cnn",
+        "name": "CNN"
       },
-      "author": "Alan Blinder",
-      "title": "Bruce Giudici Is on the Cusp of Victory in This California Election. He Died Months Ago.",
-      "description": "In a race for a board of supervisors seat in California, a dead candidate holds a huge lead.",
-      "url": "https://www.nytimes.com/2026/11/11/us/california-election-dead-candidate.html",
-      "urlToImage": null,
-      "publishedAt": "2026-11-12T00:52:41Z",
-      "content": "In a race for a board of supervisors seat in California, a dead candidate holds a huge lead."
+      "author": "Tori B. Powell, Alison Main, Manu Raju, Casey Riddle, Caitlin McCormack, Jordan Budney, Morgan Rimmer, Zachary B. Wolf, Byron Manley, Austin Culpepper, Alejandra Jaramillo, Catherine Nicholls, Michael Williams, Katherine Koretski, Annie Grayer, Lauren Fox, Bruna Horvath, Ethan Cohen, Sarah Ferris, Eric Bradner, Jedd Rosche, Becky Pinnington, Curt Merrill, Ellis Kim, Ted  Barrett, Casey Tolan, Fredreka Schouten",
+      "title": "Live updates: Democrat Scott Colom will win a US Senate seat in deep-red Mississippi, CNN projects - CNN",
+      "description": "Colom will unseat GOP incumbent Cindy Hyde-Smith, becoming the first Black person elected to statewide office in Mississippi since the Reconstruction era. Follow for the latest.",
+      "url": "https://www.cnn.com/2026/11/11/politics/live-news/hegseth-impeachment-congress",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/scott-colom-lcl-111026.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-11-11T22:05:07Z",
+      "content": "Democrats expected to lead powerful committees investigating the Trump administration in the new Congress rejected the White Houses warning of legal action, vowing to be aggressive in their agenda to… [+1701 chars]"
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
+        "id": "the-washington-post",
+        "name": "The Washington Post"
       },
-      "author": "Robert Jimison",
-      "title": "Democrats Face Backlash After Missing Hegseth Impeachment Vote",
-      "description": "Eleven Democrats were absent, helping Republicans shelve the charges against the defense secretary. It drew sharp criticism a week after the party’s sweeping election victories.",
-      "url": "https://www.nytimes.com/2026/11/11/us/politics/democrats-backlash-missing-hegseth-impeachment-vote.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/11/multimedia/11dc-democrats-zjvh/11dc-democrats-zjvh-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-12T00:21:37Z",
-      "content": "Eleven Democrats were absent, helping Republicans shelve the charges against the defense secretary. It drew sharp criticism a week after the party’s sweeping election victories."
+      "author": "Dan Diamond",
+      "title": "How Trump maneuvered to the brink of building his 250-foot triumphal arch - The Washington Post",
+      "description": "The president’s proposal for the massive monument won final approval from review panels, but it faces a lawsuit that may head to the Supreme Court.",
+      "url": "https://www.washingtonpost.com/politics/2026/11/11/trump-massive-proposed-arch-faces-scrutiny-congress-courts/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/OIOSVWTBBNCSRPJ5EUWPHONADQ.JPG&w=1440",
+      "publishedAt": "2026-11-11T21:25:09Z",
+      "content": "President Donald Trump is poised to begin building a 250-foot-tall arch the moment a federal court lifts an order pausing its construction.\r\nTrump continues to want the arch, potentially emblazoned w… [+389 chars]"
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
+        "id": null,
+        "name": "KCCI Des Moines"
       },
-      "author": "Glenn Thrush and Alan Feuer",
-      "title": "A Diminished Justice Dept. Braces for Fresh Fights After Midterm Loss",
-      "description": "The upheaval points to a broader dilemma spurred by the election: whether the department can carry out President Trump’s priorities as career officials eye the exits and senior department officials resign.",
-      "url": "https://www.nytimes.com/2026/11/11/us/politics/doj-trump-blanche-trump-midterms.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/00dc-justice-jbhl/00dc-justice-jbhl-mediumSquareAt3X-v3.jpg",
-      "publishedAt": "2026-11-11T21:59:02Z",
-      "content": "The upheaval points to a broader dilemma spurred by the election: whether the department can carry out President Trump’s priorities as career officials eye the exits and senior department officials resign."
+      "author": null,
+      "title": "New measles case confirmed in central Iowa; potential exposure locations in Ankeny, Des Moines - KCCI",
+      "description": "Central Iowa health officials have confirmed another case of measles in a child.",
+      "url": "https://www.kcci.com/article/measles-in-iowa-cases-exposure-locations-ankeny-des-moines/74402453",
+      "urlToImage": "https://kubrick.htvapps.com/vidthumb/b1bfd656-64a1-4481-8141-f608a1a2aeea/d7624cae-88ee-4caa-8fa3-646f5d262626.jpg?crop=0.798xw%3A0.798xh%3B0%2C0&resize=1200%3A*",
+      "publishedAt": "2026-11-11T20:38:00Z",
+      "content": "DES MOINES, IowaCentral Iowa health officials have confirmed another case of measles in a child.\r\nPrevious video above: UnityPoint Health urges vaccinations as measles surge spreads nationwide and in… [+1512 chars]"
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
+        "id": "usa-today",
+        "name": "USA Today"
       },
-      "author": "Christopher Rowland",
-      "title": "Hospitals Brace for Medicaid Work Rules and Deep Funding Cuts",
-      "description": "Health systems are racing to guide millions of patients through new eligibility hoops, slated to go into effect Jan. 1.",
-      "url": "https://www.nytimes.com/2026/11/11/business/hospitals-medicaid-cuts.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-medicaid-01-zkhw/10biz-medicaid-01-zkhw-mediumSquareAt3X-v2.jpg",
-      "publishedAt": "2026-11-11T16:23:31Z",
-      "content": "Health systems are racing to guide millions of patients through new eligibility hoops, slated to go into effect Jan. 1."
+      "author": "Blake Toppmeyer, John Brice",
+      "title": "What the CFP rankings got wrong about Indiana, Miami - USA Today",
+      "description": "The CFP commitee has spoken for a second time. Do we like what these rankings have to say?",
+      "url": "https://www.usatoday.com/story/sports/ncaaf/2026/11/11/cfp-rankings-indiana-overrated-alabama-miami-college-football/92724972007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/11/USAT/92719085007-20261031-t-200328-z-476997045-mt-1-usatoday-30238133-rtrmadp-3-ncaafootballminnesotaatindiana.JPG?crop=7304,4110,x0,y282&width=3200&height=1801&format=pjpg&auto=webp",
+      "publishedAt": "2026-11-11T20:21:00Z",
+      "content": "<ul><li>Indiana dropped five spots in CFP rankings. It could've dropped more.</li><li>There's a case that Miami is overrated. Hurricanes need Malachi Toney back.</li><li>Committee is asleep on Group … [+3821 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NBCSports.com"
+      },
+      "author": "Josh Alper",
+      "title": "Kevin O’Connell: Too early to commit wholeheartedly to Kirk Cousins starting Sunday - NBC Sports",
+      "description": "The Vikings traded a third-round pick for Kirk Cousins on Tuesday because they need to improve their quarterback play, but head coach Kevin O'Connell stopped short of saying that Cousins will jump immediately into the lineup this week.",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/kevin-oconnell-too-early-to-commit-wholeheartedly-to-kirk-cousins-starting-sunday",
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/9242271/2147483647/strip/true/crop/6000x3375+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fde%2F3b%2Ff29a34b44adc99622de6a4f442df%2F2304344715.jpg",
+      "publishedAt": "2026-11-11T20:17:33Z",
+      "content": "The Vikings traded a third-round pick for Kirk Cousins on Tuesday because they need to improve their quarterback play, but head coach Kevin OConnell stopped short of saying that Cousins will jump imm… [+960 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": null,
+      "title": "Validation of clinical and preclinical obesity across global cohorts - Nature",
+      "description": "A large-scale data analysis assesses the Lancet Commission’s proposed diagnostic framework for obesity, finding that this framework, in which BMI is combined with other criteria, such as waist circumference&nbsp;and organ function, is more useful than classif…",
+      "url": "https://www.nature.com/articles/s41586-026-11237-5",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11237-5/MediaObjects/41586_2026_11237_Fig1_HTML.png",
+      "publishedAt": "2026-11-11T19:41:15Z",
+      "content": "To our knowledge, this is the first large-scale, multinational study to comprehensively evaluate the Lancet Commission diagnostic framework1 against the widely used BMI-based classification. Previous… [+13557 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Pitchfork"
+      },
+      "author": "Walden Green, Alex Suskind, Jazz Monroe, Nina Corcoran, Kiana Mickles",
+      "title": "7 Takeaways From the Coachella 2027 Lineup - Pitchfork",
+      "description": "Madonna is down low, Pinegrove is up high, and rappers are almost nowhere to be found",
+      "url": "https://pitchfork.com/story/7-takeaways-from-the-coachella-2027-lineup/",
+      "urlToImage": "https://media.pitchfork.com/photos/6af4af014d1a33729b8cbd5e/16:9/w_1280,c_limit/P4K26_Coachella%20Takeaways.jpg",
+      "publishedAt": "2026-11-11T19:23:40Z",
+      "content": "Its that time of year again where we all gather around our screens to yell about various inconsistencies in artist placement on a festival lineup poster. Put another way: Coachella just announced its… [+1773 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Minyvonne Burke, Maya Rosenberg",
+      "title": "Former New York Jets coach Rex Ryan charged after allegedly running over feet of two pedestrians with truck - NBC News",
+      "description": "Former NFL head coach Rex Ryan, who led the New York Jets and Buffalo Bills, is accused of striking two pedestrians with his pickup truck last week in Nashville.",
+      "url": "https://www.nbcnews.com/news/us-news/rex-ryan-charged-striking-pedestrians-truck-rcna608813",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/141229-jets-rex-ryan-855a-c68e95.jpg",
+      "publishedAt": "2026-11-11T19:10:48Z",
+      "content": "Former NFL head coach Rex Ryan, who led the New York Jets and Buffalo Bills, is accused of striking two pedestrians with his pickup truck last week in Nashville.\r\nThe incident happened shortly before… [+949 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Variety"
+      },
+      "author": "Joe Otterson",
+      "title": "‘Adults’ Renewed for Season 3 at FX - Variety",
+      "description": "\"Adults\" has been renewed for Season 3 at FX, Variety has learned.",
+      "url": "https://variety.com/2026/tv/news/adults-renewed-season-3-fx-1236945319/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2026/09/TCDADUL_FX028.jpg?w=1000&h=563&crop=1",
+      "publishedAt": "2026-11-11T19:04:00Z",
+      "content": "“Adults” has been renewed for Season 3 at FX and Hulu, Variety has learned. \r\nThe third season of the ensemble comedy will consist of 16 episodes, which is double the eight episodes the show aired fo… [+2364 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DW (English)"
+      },
+      "author": "Elizabeth Schumacher, Nicole Ris",
+      "title": "Spain: Housing crisis prompts first general strike in 14 years - DW.com",
+      "description": "Workers across nearly all industries have taken to the picket lines as rents soar and the housing crunch worsens. The crisis is the main political debate ahead of Spain's November 29 elections.",
+      "url": "https://www.dw.com/en/spain-housing-crisis-prompts-general-strike/a-79915208",
+      "urlToImage": "https://static.dw.com/image/79915875_6.jpg",
+      "publishedAt": "2026-11-11T18:45:00Z",
+      "content": "Workers across Spain gathered en mass on Wednesday, marching and setting up picket lines despite stormy weather in many areas of the country.\r\nThis is the first general strike in Spain in 14 years, a… [+4026 chars]"
+    },
+    {
+      "source": {
+        "id": "espn",
+        "name": "ESPN"
+      },
+      "author": "Jeff Carlisle",
+      "title": "Pochettino expected to coach USMNT games vs. Haiti amid Man United talks - source - ESPN",
+      "description": "Mauricio Pochettino is expected to stay at the helm of the USMNT for two upcoming Concacaf Nations League quarterfinal matches against Haiti, sources said.",
+      "url": "https://www.espn.com/soccer/story/_/id/50454123/pochettino-due-coach-usmnt-games-haiti-man-united-source",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1111%2Fr1744478_1296x729_16%2D9.jpg",
+      "publishedAt": "2026-11-11T18:30:00Z",
+      "content": "Mauricio Pochettino is expected to remain at the helm of the United States men's national team for the two upcoming Concacaf Nations League quarterfinal matches against Haiti, amid contract talks wit… [+3474 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Kyle Orland",
+      "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning. - Ars Technica",
+      "description": "Any amount of AI coding is too much for many Indie Game Festival judges.",
+      "url": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/bigwalkdebate-1152x648.png",
+      "publishedAt": "2026-11-11T17:37:32Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZDNet"
+      },
+      "author": "Jada Jones",
+      "title": "Pixel users are getting a major Android Auto update – and it rivals Siri AI - ZDNET",
+      "description": "More phones are getting Gemini Intelligence, but only Pixel users can access it in a new way.",
+      "url": "https://www.zdnet.com/tech/android-auto-gemini-intelligence-update/",
+      "urlToImage": "https://www.zdnet.com/wp-content/uploads/sites/3/38545acc-df59-4d4a-b19d-d4057d0b306e.jpg",
+      "publishedAt": "2026-11-11T17:11:19Z",
+      "content": "<ul><li>Google announced that more phones will receive Gemini Intelligence.</li><li>Motorola, Samsung, and Google smartphones have intelligent AI features.</li><li>Gemini Intelligence in Android Auto… [+3061 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Scharon Harding",
+      "title": "Apple is shuttering its 28-year-old online community forum - Ars Technica",
+      "description": "Apple has already made the forum read-only.",
+      "url": "https://arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1560398364-966x648.jpg",
+      "publishedAt": "2026-11-11T17:04:26Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Quartz India"
+      },
+      "author": "Cris Tolomia",
+      "title": "Anthropic's IPO is said to be multiple times oversubscribed as roadshow gets under way - Quartz",
+      "description": "The Claude chatbot maker is seeking to raise as much as $90.4 billion through its IPO and a private placement",
+      "url": "https://qz.com/anthropic-ipo-oversubscribed-roadshow-demand-111126",
+      "urlToImage": "https://qz.com/cdn-cgi/image/width=1200,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2262786507-300x200.jpg",
+      "publishedAt": "2026-11-11T16:18:05Z",
+      "content": "Global business news for a smarter world\r\n© 2026 Quartz Media, Inc. All rights reserved.\r\nThe Claude chatbot maker is seeking to raise as much as $90.4 billion through its IPO and a private placement… [+2372 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Ed Cara",
+      "title": "Scientists Discovered a Mushroom That's Both Toxic and Trippy - Gizmodo",
+      "description": "Found in Florida, the “dark magic mushroom” is the first species known to have both toxic and psychedelic properties.",
+      "url": "https://gizmodo.com/mushrooms-tend-to-be-deadly-or-trippy-this-one-is-both-2000838289",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/11/Galerina-indica-1200x675.jpg",
+      "publishedAt": "2026-11-11T16:10:48Z",
+      "content": "In the swamps of Florida, there exists a tiny brown mushroom quite unlike anything humans have seen before: one that’s toxic and trippy at the same time.\r\nIn a study out today, researchers at the Uni… [+4757 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hollywood Reporter"
+      },
+      "author": "Daniel Fienberg",
+      "title": "'The Good Daughter' Review: Rose Byrne & Meghann Fahy in Peacock Drama - The Hollywood Reporter",
+      "description": "Karin Slaughter adapts her own Georgia-set novel, in which a trauma from the past intersects with a mystery in the present.",
+      "url": "http://www.hollywoodreporter.com/tv/tv-reviews/the-good-daughter-review-rose-byrne-meghann-fahy-peacock-1236750733/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/NUP_207240_04111_RF.jpg?w=1296&h=730&crop=1",
+      "publishedAt": "2026-11-11T16:01:16Z",
+      "content": "We all have our television pet peeves and, for me, red flags abound in Peacock‘s new limited series, The Good Daughter.\r\nAdapted by Karin Slaughter from her book of the same name, The Good Daughter i… [+6837 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough - BBC",
+      "description": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
+      "url": "https://www.bbc.com/news/articles/ck792we7zrz4o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8cf0/live/2eb174e0-ddef-11f1-b441-2b33b063138f.jpg",
+      "publishedAt": "2026-11-11T15:05:11Z",
+      "content": "Any agreement on a peacetime security framework, however, is contingent on the war ending, Kushner noted. But that cannot occur \"until there's an agreement on territory and on all other bilateral iss… [+14 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": "Calen Razor",
+      "title": "Capitol agenda: The left looks to Van Hollen for a shake-up - Politico",
+      "description": "The 67-year-old Maryland lawmaker has caught the attention of a handful of increasingly vocal progressive lawmakers and activists who say it’s time for Chuck Schumer to step aside.",
+      "url": "https://www.politico.com/live-updates/2026/11/11/congress/left-looks-van-hollen-shake-up-01160633",
+      "urlToImage": "https://www.politico.com/dims4/default/8c2392b/2147483647/resize/1200x/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fe9%2Ff3%2F7a9046ab44e082ecac53e17d2bb3%2Fu-s-congress-77819.jpg",
+      "publishedAt": "2026-11-11T14:53:17Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TVInsider"
+      },
+      "author": "Alyssa Norwin",
+      "title": "‘Dancing With the Stars’: Jenna Dewan Addresses ‘Online Noise’ After Elimination - TV Insider",
+      "description": "'The Rookie' star weighed in after she and Val Chmerkovskiy were sent home on Grammy Night.",
+      "url": "https://www.tvinsider.com/1302945/jenna-dewan-dancing-with-the-stars-elimination-online-noise-val-chmerkovskiy/",
+      "urlToImage": "https://www.tvinsider.com/wp-content/uploads/2026/11/jenna-dewan-dancingw-ith-the-stars-elimination-1420x798.jpg",
+      "publishedAt": "2026-11-11T14:51:00Z",
+      "content": "What To Know\r\n<ul><li>Jenna Dewan and Val Chmerkovskiy reacted to their elimination from Dancing With the Stars after the show.</li><li>The Rookie actress addressed the social media buzz surrounding … [+2176 chars]"
     },
     {
       "source": {
@@ -277,367 +641,68 @@
     },
     {
       "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
+        "id": null,
+        "name": "Theregister.com"
       },
-      "author": "Emily Mae  Czachor",
-      "title": "Baby found \"clinging to life\" after being buried in dog crate for 24 hours, South Carolina authorities say - CBS News",
-      "description": "An infant was found alive after apparently being buried in a dog crate for about 24 hours, authorities in South Carolina said.",
-      "url": "https://www.cbsnews.com/news/baby-found-alive-buried-dog-crate-24-hours-south-carolina/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/11/f0bf97e3-c6d7-4e1a-bcb5-f84159624ec4/thumbnail/1200x630g2/65151656797bb23524731e8fbf2e8fd6/missing-baby-south-carolina.png",
-      "publishedAt": "2026-11-11T13:57:46Z",
-      "content": "A baby was found alive in South Carolina, after apparently being buried in a dog crate for about 24 hours, authorities said Tuesday.\r\nEleven-month-old Koah Sharpe had been missing since Monday, when … [+1853 chars]"
+      "author": "Richard Speed",
+      "title": "NASA asks Earthlings to wave as Voyager 1 reaches a light-day away - The Register",
+      "description": "Flash VGR in Morse code on November 17 to salute the veteran probe – just don't expect it to see you",
+      "url": "https://www.theregister.com/offbeat/2026/11/11/nasa-asks-earthlings-to-wave-as-voyager-1-reaches-a-light-day-away/5309127",
+      "urlToImage": "https://image.theregister.com/249462.jpg?imageId=249462&x=0&y=11.82&cropw=100&croph=63.55&panox=0&panoy=11.82&panow=100&panoh=63.55&width=1200&height=683",
+      "publishedAt": "2026-11-11T14:13:20Z",
+      "content": "Voyager 1 will become the first human-made object to reach one light-day from Earth next week, and NASA wants us to mark the occasion by flashing our lights at the sky.\r\nThe spacecraft, which suffere… [+1758 chars]"
     },
     {
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
+        "id": "nbc-news",
+        "name": "NBC News"
       },
-      "author": "Noah White, Rick Maese",
-      "title": "Flying by pricey military jet, Rubio rarely misses a Florida football game - The Washington Post",
-      "description": "The secretary of state, who is required to travel by government plane, defended his trips to his alma mater to see his son play.",
-      "url": "https://www.washingtonpost.com/politics/2026/11/11/flying-by-pricey-military-jet-marco-rubio-never-misses-florida-game/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3CPH3OFWCXAPW5UN32N6YKIXRI_size-normalized.JPG&w=1440",
-      "publishedAt": "2026-11-11T13:02:44Z",
-      "content": "GAINESVILLE, Fla. College football here comes with its rituals: Orange and blue pour through the streets. Fans stream toward the University of Floridas stadium, nicknamed The Swamp, hours before kick… [+114 chars]"
+      "author": "Reuters",
+      "title": "Thousands of hoax bomb alerts sent to schools in Italy, U.K. and Ireland - NBC News",
+      "description": "Schools across Italy were evacuated on Wednesday ⁠after around 6,300 of them received bomb warnings, the latest in a series of threats and cyberattacks around Europe against supermarkets, blood banks, air traffic and broadcasters.",
+      "url": "https://www.nbcnews.com/world/italy/italy-schools-evacuated-identical-bomb-threat-russia-iran-rcna608717",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261111-police-ita-rs-314f76.jpg",
+      "publishedAt": "2026-11-11T14:04:39Z",
+      "content": "Schools across Italy were evacuated on Wednesday after around 6,300 of them received bomb warnings, the latest in a series of threats and cyberattacks around Europe against supermarkets, blood banks,… [+2659 chars]"
     },
     {
       "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "John Higgins",
-      "title": "Are your TVs spying on you? We asked their makers - The Verge",
-      "description": "After LG was accused of spying through its TVs, I wanted to see how other TV companies were collecting and protecting our data.﻿",
-      "url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268797_What_data_are_your_TVs_collecting_and_is_it_protected__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2026-11-11T13:00:00Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nAfter LG was accused of spying through its TVs, I wanted to see how other TV companies were collecting and protecting our data.\r\nby\r\nJohn HigginsClose\r\nSenior Re… [+38194 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "Phil McNulty",
-      "title": "Man Utd manager: Mauricio Pochettino appointment a decade in the making - BBC",
-      "description": "Mauricio Pochettino looks set to turn a decade-long courtship with Manchester United into a full-blown relationship, says chief football writer Phil McNulty.",
-      "url": "https://www.bbc.com/sport/football/articles/cwzd9pvjy426o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7299/live/2b5bc490-ddcb-11f1-9053-236ccb99630c.jpg",
-      "publishedAt": "2026-11-11T12:58:17Z",
-      "content": "Pochettino's driven, competitive nature means that is an itch he will want to scratch when his United appointment is confirmed.\r\nWhile Spurs have always appeared to be his first love, there is also n… [+2847 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Duarte  Dias",
-      "title": "Iran War Updates: Iran vows not to part with \"single particle of enriched nuclear material\" as standoff continues - CBS News",
-      "description": "President Trump has repeatedly cited Iran's nuclear program as the core reason for going to war, but Tehran says it will not hand over any of its enriched uranium.",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-strait-of-hormuz/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/11/f9c8db49-c1ee-4c5b-91ae-0b896c95a089/thumbnail/1200x630/9e316495b141e26b462e3a0a7f9a36cd/gettyimages-2304010876.jpg",
-      "publishedAt": "2026-11-11T12:50:00Z",
-      "content": "The U.S.-Iran war will cost Gulf countries more than $200 billion in damage and economic losses could reach nearly four times that amount by 2030, insurer Allianz Trade said on Wednesday.\r\nGulf count… [+1033 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "DW (English)"
-      },
-      "author": "Elizabeth Schumacher, Nicole Ris",
-      "title": "Spain: Housing crisis prompts first general strike in 14 years - DW.com",
-      "description": "Workers across nearly all industries have taken to the picket lines as rents soar and the housing crunch worsens. The crisis is the main political debate ahead of Spain's November 29 elections.",
-      "url": "https://www.dw.com/en/spain-housing-crisis-prompts-general-strike/a-79915208",
-      "urlToImage": "https://static.dw.com/image/79915875_6.jpg",
-      "publishedAt": "2026-11-11T12:41:49Z",
-      "content": "Workers across Spain gathered en mass on Wednesday, marching and setting up picket lines despite stormy weather in many areas of the country.\r\nThis is the first general strike in Spain in 14 years, a… [+3705 chars]"
+      "author": "Jess Weatherbed",
+      "title": "Adobe’s AI experiments let you walk around in photos and interview your characters - The Verge",
+      "description": "Adobe’s sneaks can transform images into explorable 3D scenes, design AI characters by talking to them, and turn photo editing into a copy/paste process.",
+      "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Adobe-Project-Screen-Test.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2026-11-11T14:00:00Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nHere are some of the experimental sneaks being showcased at Adobe Max.\r\nHere are some of the experimental sneaks being showcased at Adobe Max.\r\nby\r\nJess Weatherb… [+6803 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "NPR"
       },
-      "author": "Brittney Melton",
-      "title": "House effectively ends Hegseth impeachment. And, 3 men accused of plotting U.K. attacks - NPR",
-      "description": "Defense Secretary Pete Hegseth has been spared from the House's impeachment effort, at least for now. And, federal prosecutors arrested three men accused of being Iran-backed operatives.",
-      "url": "https://www.npr.org/2026/11/11/g-s1-152949/up-first-newsletter-pete-hegseth-jim-jordan-iran-backed-trio-us-bases",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4540x2554+0+237/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2F9c%2Fbdb05510423c89d73daa68e6f0e4%2Fgettyimages-2304464392.jpg",
-      "publishedAt": "2026-11-11T12:21:59Z",
-      "content": "Good morning. You're reading the Up First newsletter. Subscribe here to get it delivered to your inbox, and listen to the Up First podcast for all the news you need to start your day.\r\nToday's top st… [+8108 chars]"
+      "author": "The Associated Press",
+      "title": "Ebola tops 11,000 cases in Congo's deadliest outbreak - NPR",
+      "description": "Congo's Ebola outbreak has topped 11,000 cases, the government said Wednesday, a stark figure that underscores the severity of the situation as the country grapples with the relentless spread of the disease.",
+      "url": "https://www.npr.org/2026/11/11/nx-s1-6037304/ebola-congo-outbreak",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5760x3240+0+300/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7b%2Fa1%2Fcf45518d4850a897eda36ba25615%2Fap26306677630425.jpg",
+      "publishedAt": "2026-11-11T09:16:01Z",
+      "content": "BUNIA, Congo Congo's Ebola outbreak has topped 11,000 cases, the government said Wednesday, a stark figure that underscores the severity of the situation as the country grapples with the relentless s… [+1585 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "POLITICO.eu"
+        "name": "ScienceAlert"
       },
-      "author": "Tim Ross",
-      "title": "US to seek Putin’s ‘blessing’ for Europe to join Ukraine talks - POLITICO.eu",
-      "description": "After two days of talks in Abu Dhabi, Russia and Ukraine have agreed a major prisoner swap, with final numbers to be confirmed, U.S. officials say.",
-      "url": "https://www.politico.eu/article/u-s-to-seek-putins-blessing-for-europe-to-join-ukraine-talks/",
-      "urlToImage": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/11/GettyImages-2303993674-scaled.jpg",
-      "publishedAt": "2026-11-11T12:18:00Z",
-      "content": "ABU DHABI U.S. officials will head to Moscow in person on Thursday to ask Russia’s Vladimir Putin to give his “blessing” to allowing European representatives to join future peace talks for Ukraine.\r\n… [+602 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": null,
-      "title": "Ebola tops 11,000 cases in Congo’s deadliest outbreak - AP News",
-      "description": "Congo's Ebola outbreak has topped 11,000 cases, highlighting the severity of the situation. The health ministry reported on Wednesday 11,042 infections and 5,387 deaths, making it Congo's deadliest outbreak. The crisis began in mid-May, and authorities have s…",
-      "url": "https://apnews.com/article/congo-ebola-outbreak-cae4cef6e48c1d2210a59c72676bff29",
-      "urlToImage": "https://dims.apnews.com/dims4/default/5f943a2/2147483647/strip/true/crop/5760x3840+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7d%2Fb9%2Ffa4d3b90a22667fdf5f88d5e8129%2Fb65ffd8607e84373bd39315c520bc508",
-      "publishedAt": "2026-11-11T12:06:57Z",
-      "content": "BUNIA, Congo (AP) Congos Ebola outbreak has topped 11,000 cases, the government said Wednesday, a stark figure that underscores the severity of the situation as the country grapples with the spread o… [+2213 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Mary  Cunningham",
-      "title": "What stores are open and closed for Veterans Day 2026? Here's what to know for today's holiday - CBS News",
-      "description": "See which businesses are operating and the deals they are offering veterans and active military members for their service.",
-      "url": "https://www.cbsnews.com/news/veterans-day-2026-store-hours-open-closed/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/10/0623c59f-6101-414e-8a8b-4e8e05eb1d2c/thumbnail/1200x630/3792a3450f962da032d92a54ef233836/gettyimages-2303890833.jpg",
-      "publishedAt": "2026-11-11T12:00:00Z",
-      "content": "Veterans Day, observed annually on November 11, honors Americans who have served in the U.S. military. Formerly known as \"Armistice Day,\" the holiday was celebrated nationally for the first time in 1… [+3479 chars]"
-    },
-    {
-      "source": {
-        "id": "axios",
-        "name": "Axios"
-      },
-      "author": "Maria Curi, Marc Caputo",
-      "title": "Scoop: Commerce Department received national security warning on Nvidia CEO affair - Axios",
-      "description": "The agency cleared advanced AI chip sales in May.",
-      "url": "https://www.axios.com/2026/11/10/lutnick-nvidia-jensen-huang-china-memo",
-      "urlToImage": "https://images.axios.com/QdGvTen2GCBvveTn-c0W9R2D7XY=/0x0:4000x2250/1366x768/2026/11/10/1794352029848.jpeg",
-      "publishedAt": "2026-11-11T11:47:35Z",
-      "content": "Driving the news: Secretary of State Marco Rubio oversaw the drafting of the memo detailing Huang's relationship with Alice Huang, who U.S. intelligence officials believe is a Chinese intelligence ag… [+2465 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Margaret Hetherman",
-      "title": "What to do if you, or someone around you, might be having a heart attack - The Washington Post",
-      "description": "Heart attacks are more common in the winter months. Here's how to recognize the symptoms, and the best ways to respond.",
-      "url": "https://www.washingtonpost.com/health/2026/11/11/what-do-if-you-or-someone-around-you-might-be-having-heart-attack/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/BOGWQN7R7Z3AZN6UG3QBYVUMHE.jpg&w=1440",
-      "publishedAt": "2026-11-11T11:32:52Z",
-      "content": "In the United States, someone has a heart attack every 40 seconds, according to the Centers for Disease Control and Prevention. And while far fewer people die of heart attacks than they once did, as … [+370 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Abcnews.com"
-      },
-      "author": "ABC News - Breaking News, Latest News and Videos",
-      "title": "3 dead after SUV crashes into pedestrians in Los Angeles - ABC News - Breaking News, Latest News and Videos",
-      "description": null,
-      "url": "https://abcnews.com/US/3-dead-after-suv-crashes-pedestrians-los-angeles/story?id\\\\u003d138035600",
-      "urlToImage": null,
-      "publishedAt": "2026-11-11T11:12:47Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hollywood Reporter"
-      },
-      "author": "Abid Rahman",
-      "title": "David Leitch’s ‘How to Rob a Bank’: First Reactions - The Hollywood Reporter",
-      "description": "The film, starring Nicholas Hoult, Zoë Kravitz, Anna Sawai, Rhenzy Feliz, Pete Davidson, and John C. Reilly, hits theaters on Nov. 13.",
-      "url": "http://www.hollywoodreporter.com/movies/movie-news/david-leitch-how-to-rob-a-bank-first-reactions-1236752753/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/how-to-rob-a-bank-HTRB-05783_R2_rgb-H-2026.jpg?w=1296&h=730&crop=1",
-      "publishedAt": "2026-11-11T11:12:23Z",
-      "content": "It’s all content! \r\nDavid Leitch‘s How to Rob a Bank held a series of press screenings this week and the first reactions to the Amazon MGM Studios comedy heist hit social media on Tuesday night. \r\nFu… [+7031 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "John Hanna, Stephen Smith",
-      "title": "This ocean liner was the world’s fastest. It’s being sunk to make the largest artificial reef - AP News",
-      "description": "An ocean liner that once was the fastest on the seas is headed to its final home on the floor of the Gulf of Mexico as the world’s largest artificial reef. Officials on Florida’s panhandle coast plan to scuttle the SS United States on Wednesday about 25 miles…",
-      "url": "https://apnews.com/article/ss-united-states-ocean-liner-artificial-reef-88773c4030b0e2e12f3d63f5426ad285",
-      "urlToImage": "https://dims.apnews.com/dims4/default/813e45c/2147483647/strip/true/crop/1281x854+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0c%2F94%2Fcbc970464ba8bfbc6042dd7cdd78%2Fthe-ap-default-image-2026.png",
-      "publishedAt": "2026-11-11T11:07:00Z",
-      "content": "DESTIN, Fla. (AP) An ocean liner that is longer than the Titanic and was once the fastest on the seas is headed to a final home on the floor of the Gulf of Mexico as the worlds largest artificial ree… [+4077 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Jared Blikre",
-      "title": "What 400 years of hot IPOs say about buying Anthropic on day one: Chart of the Day - Yahoo Finance",
-      "description": "From the Dutch East India Company to Cerebras, IPO buyers have usually been rewarded for patience, not speed.",
-      "url": "https://finance.yahoo.com/markets/article/what-400-years-of-hot-ipos-say-about-buying-anthropic-on-day-one-chart-of-the-day-110000377.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/8960cc61bfe65884f63f01875de250335727e498c718b2cd8ff5187a552cb32b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F9f8d638a-5385-466f-a579-7665d5bc0d47",
-      "publishedAt": "2026-11-11T11:00:00Z",
-      "content": "Anthropic's roadshow is selling the future of AI. Four centuries of hot IPOs say the first trade is rarely the best one.\r\nThe AI lab is asking for as much as $1.4 trillion at the top of its $70-to-$7… [+3153 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Pitchfork"
-      },
-      "author": "Walden Green, Alex Suskind, Jazz Monroe",
-      "title": "Coachella 2027 Lineup: Tame Impala, SZA, and Dua Lipa - Pitchfork",
-      "description": "Madonna and Phoebe Bridgers are also on the bill, with Daddy Yankee in the fourth headliner spot",
-      "url": "https://pitchfork.com/story/coachella-2027-lineup-tame-impala-sza-and-dua-lipa/",
-      "urlToImage": "https://media.pitchfork.com/photos/6ae4a6e3fa58715f035c21b6/16:9/w_1280,c_limit/coachella-2027-headliners.jpg",
-      "publishedAt": "2026-11-11T10:43:27Z",
-      "content": "Following weeks of speculation and some SZA-related leaks, the Coachella 2027 lineup is finally, officially here. The S.O.S. singer is set to headline, as she more or less confirmed already, alongsid… [+2136 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": null,
-      "title": "Stacy Keach, star of \"Mike Hammer\" TV series and stage, dies at 85 - CBS News",
-      "description": "Stacy Keach, one of America's finest stage actors who became best known for playing scruffy private eye Mike Hammer on TV, HAS DIED. hE WAS 85.",
-      "url": "https://www.cbsnews.com/news/stacy-keach-mike-hammer-stage-dies-85/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/11/009e7e65-a233-44a0-b0de-50d398399d8b/thumbnail/1200x630/cad3a55081adbe1c416f56898169fe18/gettyimages-86278411.jpg",
-      "publishedAt": "2026-11-11T10:37:00Z",
-      "content": "Stacy Keach, one of America's finest stage actors who became best known for playing scruffy private eye Mike Hammer on TV and whose career was nearly derailed after he was imprisoned in 1984 for tryi… [+6995 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Barron's"
-      },
-      "author": "Adam Levine",
-      "title": "CoreWeave Earnings Beat Expectations, Assuaging Market Nervousness - Barron's",
-      "description": "CoreWeave’s rapid expansion is paying off as the company handily beats analysts’ expectations.",
-      "url": "https://www.barrons.com/articles/coreweave-earnings-stock-price-7c0a24d8",
-      "urlToImage": "https://images.barrons.com/im-07864628/social",
-      "publishedAt": "2026-11-11T10:35:00Z",
-      "content": "Market fears are subsiding ahead of Fridays planned test of Starship, SpaceXs huge, fully reusable rocket."
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Dan Diamond",
-      "title": "Kennedy family sues to stop Trump’s arch, citing shadow on JFK’s grave - The Washington Post",
-      "description": "The planned 250-foot-tall arch would cast a shadow on both the former president’s eternal flame and his memorial, an analysis by The Post found.",
-      "url": "https://www.washingtonpost.com/politics/2026/11/10/kennedy-family-sues-stop-trumps-arch-citing-shadow-jfk-grave/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QVNDKSXOMAXJ2ZNNA7PE33DJZQ_size-normalized.jpg&w=1440",
-      "publishedAt": "2026-11-11T05:12:00Z",
-      "content": "Nine members of the Kennedy family sued on Tuesday to block President Donald Trumps triumphal arch, saying that the planned 250-foot-tall structure would wrongly cast a shadow on John F. Kennedys gra… [+55 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Deadline"
-      },
-      "author": "Katie Campione",
-      "title": "‘Dancing With The Stars’ Recap: Dance Offs On Grammy Night Bring Tough Competition To Quarterfinals - Deadline",
-      "description": "It's the quarterfinals on 'Dancing with the Stars' Season 35, and the remaining contestants are competing to Grammy winning hits.",
-      "url": "http://deadline.com/2026/11/dancing-with-the-stars-season-35-recap-grammy-night-1237218651/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2026/11/183938_SB105287.jpg?w=1000",
-      "publishedAt": "2026-11-11T03:00:00Z",
-      "content": "SPOILER ALERT! This post contains details from the Season 35 Dancing with the Starsquarterfinals.\r\nIt’s hard to believe Dancing with the Stars Season 35 is nearly over, but we’ve officially reached t… [+3674 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "In Mississippi, voters await cliffhanger Senate result with hope and frustration - BBC",
-      "description": "Democratic voters tell the BBC their candidate is on the brink of history, while Republicans vent disappointment.",
-      "url": "https://www.bbc.com/news/articles/c6ly0y8r54pqo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c366/live/d44e49e0-dd87-11f1-8946-433dc38d6a72.jpg",
-      "publishedAt": "2026-11-11T02:53:57Z",
-      "content": "Scott Colom, the Democrat, holds a lead of about 2,500 ballots - less than 1% - over his Republican opponent, the incumbent Cindy Hyde-Smith, according to the latest tally."
-    },
-    {
-      "source": {
-        "id": "espn",
-        "name": "ESPN"
-      },
-      "author": "Heather Dinich",
-      "title": "College Football Playoff Bubble Watch after second ranking - ESPN",
-      "description": "A conference-by-conference look at which teams are contending for the playoff, who's close, and who's out.",
-      "url": "https://www.espn.com/college-football/story/_/id/50422353/cfp-playoff-2026-bubble-watch-week-10",
-      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1110%2FWeek11_16x9.png",
-      "publishedAt": "2026-11-11T02:45:00Z",
-      "content": "The Big Ten, which was the driving force behind the push for a 24-team College Football Playoff, could use that expanded bracket now.\r\nWith Ohio State's convincing home loss to Oregon, the Big Ten is… [+11196 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Chris Bumbaca",
-      "title": "Fernando Mendoza gets 3-word message from Kirk Cousins after Raiders trade - USA Today",
-      "description": "After Kirk Cousins was traded to the Minnesota Vikings by the Las Vegas Raiders, Fernando Mendoza is expected to take over at \"QB1\" for the Raiders.",
-      "url": "https://www.usatoday.com/story/sports/nfl/raiders/2026/11/10/fernando-mendoza-kirk-cousins-trade-raiders/92712121007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/10/USAT/92712267007-mendoza-starting.JPG?crop=4314,2424,x2,y127&width=3200&height=1799&format=pjpg&auto=webp",
-      "publishedAt": "2026-11-11T02:14:00Z",
-      "content": "Fernandomania has officially begun in the desert.\r\nWith the Las Vegas Raiders trading quarterback Kirk Cousins to the Minnesota Vikings before Tuesdays NFL trade deadline, Las Vegas is expected to tu… [+4816 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Juli Clover",
-      "title": "Apple's Claris Testing 'Harbor' App for Local AI on Macs - MacRumors",
-      "description": "Apple's Claris subsidiary is testing an app called Harbor, which turns Apple silicon Macs into a private AI server.   Harbor works with a single...",
-      "url": "https://www.macrumors.com/2026/11/10/apple-claris-harbor-app/",
-      "urlToImage": "https://images.macrumors.com/t/9wUV-qYkqqosjBGhmAOYPyY-q5k=/1600x/article-new/2026/11/claris-harbor-2.jpg",
-      "publishedAt": "2026-11-10T23:34:45Z",
-      "content": "Apple's Claris subsidiary is testing an app called Harbor, which turns Apple silicon Macs into a private AI server.\r\nHarbor works with a single Apple silicon Mac, but it also supports connecting mult… [+2014 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Ryan Whitwam",
-      "title": "Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop - Ars Technica",
-      "description": "Spruce up your home screen with expanded custom icons and AI-generated widgets.",
-      "url": "https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Pixel-11-series-6-1152x648.jpg",
-      "publishedAt": "2026-11-10T19:00:26Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thedebrief.org"
-      },
-      "author": "Micah Hanks, Micah Hanks",
-      "title": "A Controversial New Theory Claims the Universe Could Be Twice as Old as Once Thought—and It Just Passed Several Key Tests - The Debrief",
-      "description": "A controversial new theory that suggests our universe could be vastly older than once thought has just passed the first round of observational testing.",
-      "url": "https://thedebrief.org/a-controversial-new-theory-claims-the-universe-could-be-twice-as-old-as-once-thought-and-it-just-passed-several-key-tests/",
-      "urlToImage": "https://thedebrief.b-cdn.net/wp-content/uploads/2026/11/Andromeda-Galaxy.jpg",
-      "publishedAt": "2026-11-10T14:51:06Z",
-      "content": "In the latest shakeup to modern cosmological research, a controversial new theory that suggests our universe could be vastly older than once thoughtperhaps nearly double its currently accepted agehas… [+3592 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Ivan Mehta",
-      "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly - TechCrunch",
-      "description": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
-      "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/11/FF-AIA-PlanMode-No-Logo-4.jpg?resize=1200,675",
-      "publishedAt": "2026-11-10T14:05:10Z",
-      "content": "Adobe is pouring more AI into its products, including Photoshop, Premiere, Illustrator, and InDesign, in a major product feature announcement at its MAX event in Miami. The company is also expanding … [+2812 chars]"
+      "author": "David Nield",
+      "title": "Here's Why The Dire Wolf Really Wasn't Brought Back From Extinction, Scientists Argue - ScienceAlert",
+      "description": "When is a de-extinction not a de-extinction? Some headline-grabbing methods for bringing extinct species back to life fall short of such grand claims, according to a new argument published in Biology Letters.",
+      "url": "https://www.sciencealert.com/heres-why-the-dire-wolf-really-wasnt-brought-back-from-extinction-scientists-argue",
+      "urlToImage": "https://www.sciencealert.com/images/2026/11/GreyWolf-1200x675.jpg",
+      "publishedAt": "2026-11-11T01:24:03Z",
+      "content": "When is a de-extinction not a de-extinction? Some headline-grabbing methods for bringing extinct species back to life fall short of such grand claims, according to a new argument published in Biology… [+4458 chars]"
     },
     {
       "source": {
@@ -651,19 +716,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/4YuqmLiXJ7u7ppndMEZUtX-1920-80.jpg",
       "publishedAt": "2026-11-10T11:00:00Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "mindbodygreen.com"
-      },
-      "author": "Sela Breen",
-      "title": "Could This Be The Real Reason Women Struggle More With Migraines? - MindBodyGreen",
-      "description": "Women carry the burden of migraine disease risk globally, but the reason why is still unclear.",
-      "url": "https://www.mindbodygreen.com/articles/could-this-be-real-reason-women-struggle-more-with-migraines-how-women-can-take-back-control",
-      "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/sxtboae3bjpsiydr7.jpg",
-      "publishedAt": "2026-11-07T08:00:00Z",
-      "content": "I started struggling with migraines in the beginning of college, which was about the same time I was diagnosed with PMOS (recently renamed from PCOS). I had never had a consistent menstrual cycle, so… [+8711 chars]"
     }
   ]
 }

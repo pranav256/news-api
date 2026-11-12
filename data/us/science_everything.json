@@ -6,9 +6,35 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-12T14:01:06.445447+00:00",
+  "fetched_at": "2026-11-12T21:56:04.835627+00:00",
   "articles_count": 30,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "David Gelles",
+      "title": "A Key Paris Agreement Goal Is Dead. What Now?",
+      "description": "Leaders at COP31 are confronting a new reality as global warming enters the “unsafe zone.”",
+      "url": "https://www.nytimes.com/2026/11/12/climate/a-key-paris-agreement-goal-is-dead-what-now.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/12/multimedia/12cli-newsletter-cop-03-gfpt/12cli-newsletter-cop-03-gfpt-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-12T20:15:04Z",
+      "content": "Leaders at COP31 are confronting a new reality as global warming enters the “unsafe zone.”"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Evan Halper",
+      "title": "Democrats Put Targets on Notice as Trump Oversight Takes Shape",
+      "description": "Letters sent by two key House committees tell companies and officials not to destroy documents.",
+      "url": "https://www.nytimes.com/2026/11/12/climate/democrats-oversight-committees-letters.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/12/multimedia/12cli-letters-02b-bhpw/12cli-letters-02b-bhpw-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-12T18:07:23Z",
+      "content": "Letters sent by two key House committees tell companies and officials not to destroy documents."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -372,32 +398,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/06/multimedia/06SCI-BLUE-SCIENCE-01-fqwp/06SCI-BLUE-SCIENCE-01-fqwp-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-06T16:05:48Z",
       "content": "The Trump administration has sought to reshape the nation’s research infrastructure. Democratic lawmakers, newly empowered, are preparing to push back."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Scott Dance",
-      "title": "Environmental Ballot Wins",
-      "description": "Voters around the country approved measures on conservation, water and data centers on Tuesday.",
-      "url": "https://www.nytimes.com/2026/11/05/climate/climate-environment-ballot-meaures-midterms.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/05/multimedia/05cli-newsletter-ballot-measures-zmwl/05cli-newsletter-ballot-measures-zmwl-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-05T21:19:39Z",
-      "content": "Voters around the country approved measures on conservation, water and data centers on Tuesday."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Annie Roth",
-      "title": "Were These Ancient Siberian Nomads the First Stoners?",
-      "description": "Scientists ran a drug test on hair found in a 2,800-year-old burial mound. It came back positive for pot, the earliest known evidence of psychoactive cannabis use.",
-      "url": "https://www.nytimes.com/2026/11/05/science/ancient-siberia-scythians-first-marijuanna-cannabis-use.html",
-      "urlToImage": null,
-      "publishedAt": "2026-11-05T19:07:18Z",
-      "content": "Scientists ran a drug test on hair found in a 2,800-year-old burial mound. It came back positive for pot, the earliest known evidence of psychoactive cannabis use."
     }
   ],
   "query": "science research discovery space"

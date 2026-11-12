@@ -6,9 +6,22 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-12T14:01:06.445447+00:00",
+  "fetched_at": "2026-11-12T21:56:04.835627+00:00",
   "articles_count": 34,
   "articles": [
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "BBC Inside Science",
+      "description": "A weekly programme looking at the science that's changing our world.",
+      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg",
+      "publishedAt": "2026-11-12T21:00:00Z",
+      "content": "A weekly programme looking at the science that's changing our world."
+    },
     {
       "source": {
         "id": "bbc-news",
@@ -359,19 +372,6 @@
       "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f0e/live/0a4e2af0-cbff-11f1-bc2e-018d645d8d21.jpg",
       "publishedAt": "2026-10-19T19:45:46Z",
       "content": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth."
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "BBC Inside Science",
-      "description": "How can we to compete against a natural force with the power of 25 atomic bombs?",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct9789?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg",
-      "publishedAt": "2026-10-15T20:00:00Z",
-      "content": "How can we to compete against a natural force with the power of 25 atomic bombs?"
     },
     {
       "source": {
