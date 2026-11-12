@@ -6,9 +6,35 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-11T23:44:15.450497+00:00",
+  "fetched_at": "2026-11-12T04:26:45.491577+00:00",
   "articles_count": 100,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Michael Corkery and Jason Karaian",
+      "title": "Nvidia’s Stock Price Plummets as Board Is Said to Consider Jensen Huang, CEO’s, Future",
+      "description": "News of the board’s deliberations about Jensen Huang’s job drove Nvidia’s stock down more than 8 percent in after-hours trading.",
+      "url": "https://www.nytimes.com/2026/11/11/business/nvidia-stock-jensen-huang-ceo.html",
+      "urlToImage": null,
+      "publishedAt": "2026-11-12T02:40:15Z",
+      "content": "News of the board’s deliberations about Jensen Huang’s job drove Nvidia’s stock down more than 8 percent in after-hours trading."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Ryan Mac, Tripp Mickle and Georgia Gee",
+      "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
+      "description": "Mr. Huang, Nvidia’s chief executive, is already facing scrutiny over an affair with a Chinese businesswoman who U.S. intelligence determined was a Chinese spy.",
+      "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/11/multimedia/00Biz-Huang-Relationship-wlgb/00Biz-Huang-Relationship-wlgb-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-12T01:57:34Z",
+      "content": "Mr. Huang, Nvidia’s chief executive, is already facing scrutiny over an affair with a Chinese businesswoman who U.S. intelligence determined was a Chinese spy."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -21,19 +47,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/11/multimedia/11xp-ai-united-mpzg/11xp-ai-united-mpzg-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-11T23:15:31Z",
       "content": "The carrier said that to protect customers’ information and comply with regulations, it was barring the digital assistants from logging into accounts and managing reservations."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Ryan Mac, Tripp Mickle and Georgia Gee",
-      "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
-      "description": "Mr. Huang, Nvidia’s chief executive, is already facing scrutiny over an affair with a Chinese businesswoman who U.S. intelligence determined was a Chinese spy.",
-      "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/11/multimedia/00Biz-Huang-Relationship-wlgb/00Biz-Huang-Relationship-wlgb-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-11T22:27:54Z",
-      "content": "Mr. Huang, Nvidia’s chief executive, is already facing scrutiny over an affair with a Chinese businesswoman who U.S. intelligence determined was a Chinese spy."
     },
     {
       "source": {
@@ -201,7 +214,7 @@
       "description": "The Federal Reserve’s gradual approach to raising rates is being tested by intensifying price pressures.",
       "url": "https://www.nytimes.com/2026/11/11/business/fed-interest-rates-inflation.html",
       "urlToImage": "https://static01.nyt.com/images/2026/11/11/multimedia/11dc-fed-gbfm/11dc-fed-gbfm-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-11T13:40:22Z",
+      "publishedAt": "2026-11-11T13:40:23Z",
       "content": "The Federal Reserve’s gradual approach to raising rates is being tested by intensifying price pressures."
     },
     {
@@ -245,6 +258,58 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": null,
+      "title": "Futures Rise, CoreWeave Jumps In Good News For AI - Investor's Business Daily",
+      "description": "A rally attempt is underway, but it's not time to be taking big risks.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-treasury-yields-nvidia-coreweave/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2022/06/Stock-cliffjump-02-adobe.jpg",
+      "publishedAt": "2026-11-11T01:25:00Z",
+      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Joshua Yang, Cate Cadell",
+      "title": "The phantom life of Alice Huang, alleged Chinese spy who had affair with Nvidia CEO - The Washington Post",
+      "description": "Even basic details remain murky about the background of the Chinese executive, whose affair with Jensen Huang has rocked the global tech industry.",
+      "url": "https://www.washingtonpost.com/world/2026/11/10/phantom-life-alice-huang-alleged-chinese-spy-who-had-an-affair-with-nvidia-ceo/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/M74BLF7AMJS567OGB5XYBP53IQ.JPG&w=1440",
+      "publishedAt": "2026-11-11T01:15:22Z",
+      "content": "Alice Huang, the Chinese business executive and alleged Chinese spy whose affair with Nvidia CEO Jensen Huang has rocked the global technology industry and set off a swirl of questions from Beijing t… [+39 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Financial Times"
+      },
+      "author": null,
+      "title": "Anthropic bankers prepare to increase IPO valuation to $1.5tn or more - Financial Times",
+      "description": "Claude maker’s listing price expected to rise after strong demand from investors",
+      "url": "https://www.ft.com/content/68bcba57-0575-44ee-80f4-2e5ea23a431e?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6eda46fd-c331-430a-b4ed-bec84714d6ff.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "publishedAt": "2026-11-11T00:30:25Z",
+      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Stephen Clark",
+      "title": "The US military seems to be getting nervous about the launch supply crunch - Ars Technica",
+      "description": "Launch is extremely constrained and that is exactly the situation we predicted.\"",
+      "url": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/1793382176191-1152x648.jpg",
+      "publishedAt": "2026-11-10T23:02:39Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -255,6 +320,45 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-toyota-kei-truck-01-gpvw/10biz-toyota-kei-truck-01-gpvw-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-10T22:58:31Z",
       "content": "The automaker plans to sell Americans “Kei” pickup trucks, which are very popular in Japan and with U.S. auto enthusiasts. Even President Trump is a fan."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Texas Tribune"
+      },
+      "author": "Berenice Garcia",
+      "title": "SpaceX plans $24 billion data center project in Starbase - The Texas Tribune",
+      "description": "The city of Starbase has scheduled a public hearing on a possible tax abatement agreement for the data center and power plant project.",
+      "url": "https://www.texastribune.org/2026/11/10/texas-spacex-data-center-power-plant/",
+      "urlToImage": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/11/0229-Biden-Brownsville-EH-01.jpg?fit=2560%2C1707&ssl=1&quality=100&w=1200&h=630",
+      "publishedAt": "2026-11-10T22:55:46Z",
+      "content": "Subscribe to The Yall a weekly dispatch about the people, places and policies defining Texas, produced by Texas Tribune journalists living in communities across the state.\r\nAudio recording is automat… [+6833 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Jeremy Hsu",
+      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot - Ars Technica",
+      "description": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
+      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ring-Drone-1152x648.jpeg",
+      "publishedAt": "2026-11-10T22:35:01Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Eric Revell",
+      "title": "Gas prices fall below $4 a gallon for first time since July - Fox Business",
+      "description": "AAA data shows the national average gas price dropped below $4 a gallon for the first time in months as winter blend fuel and lower demand ease costs.",
+      "url": "https://www.foxbusiness.com/economy/gas-prices-fall-below-4-gallon-first-time-since-july",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/04/0/0/gas-pump-prices-iran-conflict.png?ve=1&tl=1",
+      "publishedAt": "2026-11-10T22:12:00Z",
+      "content": "Gasoline prices fell to their lowest level since July on Tuesday, with the national average price slipping below $4 a gallon for the first time in months.\r\nData from AAA showed that the national aver… [+2256 chars]"
     },
     {
       "source": {
@@ -272,19 +376,6 @@
     {
       "source": {
         "id": null,
-        "name": "Investor's Business Daily"
-      },
-      "author": null,
-      "title": "Stock Market Today: Dow Dips As Yields Soar; Nvidia Dives; Anthropic Seeks This IPO Price - Investor's Business Daily",
-      "description": "Stock Market Today: The Dow Jones index falls Tuesday on a hot inflation report. Anthropic prices its IPO range. Nvidia sells off.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-cpi-inflation-report-anthropic-ipo/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2026/07/Stock-Anthropic-Ap4-adobe.jpg",
-      "publishedAt": "2026-11-10T21:49:00Z",
-      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Barron's"
       },
       "author": "Adam Levine",
@@ -294,6 +385,45 @@
       "urlToImage": "https://images.barrons.com/im-07864628/social",
       "publishedAt": "2026-11-10T21:47:00Z",
       "content": "Neocloud CoreWeave reported solid third-quarter earnings results on Tuesday afternoon. Its shares were up around 2% in after-hours trading, after falling 0.5% in regular hours.\r\nCopyright ©2026Dow Jo… [+76 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Julianna Bragg",
+      "title": "Credit card debt hits record high as Americans struggle with cost-of-living - Axios",
+      "description": "The divide between rich and poor neighborhoods is growing.",
+      "url": "https://www.axios.com/2026/11/10/credit-card-debt-record-2026-delinquency-income-gap",
+      "urlToImage": "https://images.axios.com/AEKNatmcW03QhXAmUMhv9gas5cI=/0x0:1600x900/1366x768/2026/11/10/1794339310729.png",
+      "publishedAt": "2026-11-10T21:36:05Z",
+      "content": "By the numbers: Consumer credit card balances rose by $22 billion in the third quarter, an increase of 1.7%. That's $52 billion higher than a year earlier.\r\n<ul><li>The figures aren't adjusted for in… [+1715 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Edward Bolingbroke",
+      "title": "Traders Who Rushed to Safety of Bonds Get Rattled in Reversal - Bloomberg.com",
+      "description": "A recent influx of bullish positioning across the US bond market just got smacked, as comments from a pair of Federal Reserve officials and fresh evidence of sticky inflation increased the odds of interest-rate hikes, sending Treasuries into a tailspin.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-10/traders-who-rushed-to-safety-of-bonds-get-rattled-in-reversal",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOoL.y.Id7LE/v1/1200x800.jpg",
+      "publishedAt": "2026-11-10T21:30:31Z",
+      "content": "A recent influx of bullish positioning across the US bond market just got smacked, as comments from a pair of Federal Reserve officials and fresh evidence of sticky inflation increased the odds of in… [+455 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": null,
+      "title": "Taiwan Semiconductor Sales Jump 60% In October As AI Boom Continues - Investor's Business Daily",
+      "description": "Taiwan Semiconductor sales surged 59.7% year over year in local currency.",
+      "url": "https://www.investors.com/news/technology/tsm-stock-taiwan-semiconductor-october-2026-sales/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/01/Stock-TSMC-receptiondesk-02-company.jpg",
+      "publishedAt": "2026-11-10T21:18:00Z",
+      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
     },
     {
       "source": {
@@ -323,6 +453,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "The Information"
+      },
+      "author": "Valida Pau, Jemima McEvoy",
+      "title": "OpenAI Revenue Jumps to $10 Billion in Third Quarter Amid Growing Losses - The Information",
+      "description": "OpenAI has told investors that revenue jumped nearly 50% to $10 billion in the third quarter, rebounding from a period of slower growth as demand for its more recent models and enterprise products picked up, according to a person familiar with the matter. How…",
+      "url": "https://www.theinformation.com/articles/openai-revenue-jumps-10-billion-third-quarter",
+      "urlToImage": "https://tii.imgix.net/production/articles/18142/59cee253-eac3-492f-901c-01117a0a581e.jpg?fm=jpg&auto=compress&w=1200&frame=0",
+      "publishedAt": "2026-11-10T21:07:00Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -336,29 +479,29 @@
     },
     {
       "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Jessica Guynn",
-      "title": "They had jobs, homes and cars. Now they're in line at the food bank - USA Today",
-      "description": "\"It's been a godsend.\" Why households that never expected to need help say they are part of a quiet surge in food bank visits.",
-      "url": "https://www.usatoday.com/story/money/2026/11/10/why-americans-never-needed-help-visit-food-banks/92589261007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/04/USAT/92614899007-20260907-t-065357-z-1975920291-mt-1-usatoday-29760397-rtrmadp-3-randywilkersonthedirectorofvolunteersandcommunity.JPG?crop=5680,3195,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
-      "publishedAt": "2026-11-10T20:44:00Z",
-      "content": "For years, Dave Poniatowski had no trouble managing his household budget. Then came a devastating triple whammy: two years without steady full-time work, soaring living costs and mounting debt. \r\nSud… [+10796 chars]"
-    },
-    {
-      "source": {
         "id": "the-wall-street-journal",
         "name": "The Wall Street Journal"
       },
-      "author": "WSJ",
+      "author": "Robbie Whelan, Rolfe Winkler, Vicky Ge Huang, Patrick Thomas, Matt Grossman, Krystal Hur, Jesse Newman, Sam Goldfarb, Terell Wright, Nick Timiraos, WSJ Staff, Nick Timiraos, Rebecca Feng, Berber Jin, Corrie Driebusch, Ben Dummett, Theo Francis",
       "title": "Stock Market Today: Yields Jump as Inflation Comes in Hotter Than Expected — Live Updates - WSJ",
-      "description": null,
+      "description": "Nvidia stock slides again; CoreWeave stock gains afterhours",
       "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-11-10-2026",
-      "urlToImage": null,
+      "urlToImage": "https://images.wsj.net/im-937522/social",
       "publishedAt": "2026-11-10T20:31:00Z",
-      "content": null
+      "content": "Inflation in October overshot expectations, sending Treasury yields higher and stocks lower.\r\nThe data could strengthen the case for Fed interest-rate hikes. Fed governor Christopher Waller and Dalla… [+1150 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Block Club Chicago"
+      },
+      "author": "Kade Heather",
+      "title": "Illinois Delays Hemp THC Ban For 250 Businesses That Sued Over It - Block Club Chicago",
+      "description": "The state agreed to hold off on enforcing the Illinois Hemp Act, set to take effect Thursday, until a federal judge hears arguments Nov. 19 in the businesses' lawsuit.",
+      "url": "https://blockclubchicago.org/2026/11/10/illinois-delays-hemp-thc-ban-for-250-businesses-that-sued-over-it/",
+      "urlToImage": "https://bcc-newspack.s3.amazonaws.com/uploads/2025/12/120925-THC-Beverage-Colin-Boyle-6039.jpg",
+      "publishedAt": "2026-11-10T20:12:51Z",
+      "content": "CHICAGO Illinois officials have agreed to temporarily hold off on enforcing the states sweeping new restrictions on hemp-derived THC products against roughly 250 businesses involved in a lawsuit chal… [+1816 chars]"
     },
     {
       "source": {
@@ -376,28 +519,15 @@
     {
       "source": {
         "id": null,
-        "name": "BBC News"
+        "name": "Space.com"
       },
-      "author": null,
-      "title": "Nvidia hires major New York law firm to investigate Huang affair - BBC",
-      "description": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-      "url": "https://www.bbc.com/news/articles/ck1wvwwl3x0go",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3676/live/532a9840-dd3d-11f1-9ac0-6b8f7fc58221.jpg",
-      "publishedAt": "2026-11-10T20:03:41Z",
-      "content": "Jensen Huang, who co-founded the tech company, has admitted to having a romantic relationship outside of his marriage. The woman, Alice Huang, is alleged to be a spy for Beijing."
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Julie Bort",
-      "title": "All 7 Anthropic founders will each cash out about $250M in IPO - TechCrunch",
-      "description": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
-      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/04/Jared-Kaplan_headshot2.jpg?resize=900,1200",
-      "publishedAt": "2026-11-10T19:57:52Z",
-      "content": "As Anthropic barrels toward an enormous IPO that could value it at $1.4 trillion, the company has disclosed a tidbit in its new S-1 filing about how many shares each of its seven co-founders plan to … [+2277 chars]"
+      "author": "https://www.space.com/author/tariq-malik, https://www.space.com/author/josh-dinner, https://www.space.com/author/mike-wall",
+      "title": "SpaceX Starship Flight 15 live updates: Super Heavy rocket moved to launch pad for 1st Starship double landing test - Space",
+      "description": "SpaceX could make history with the world's first full recovery of an orbital rocket and spacecraft on Starship Flight 15.",
+      "url": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-10-2026-starship-first-double-landing-attempt",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/bdHKBGYDk9vQ58gCeTzvgW-2318-80.jpg",
+      "publishedAt": "2026-11-10T19:46:21Z",
+      "content": "SpaceX sets Nov. 13 launch date for Starship Flight 15\r\nArtist's illustration of SpaceX catching the upper stage of its Starship megarocket, something the company expects to do on the vehicle's 15th … [+1434 chars]"
     },
     {
       "source": {
@@ -453,19 +583,6 @@
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Lucas Ropek",
-      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google - TechCrunch",
-      "description": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
-      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-10-at-8.46.19-AM.png?resize=1200,677",
-      "publishedAt": "2026-11-10T18:49:52Z",
-      "content": "In an effort to make ChatGPT an even better consumer discovery engine, OpenAI is launching a host of new features designed to help companies control how users interact with their businesses.\r\nOn Tues… [+2373 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "BBC News"
       },
@@ -480,15 +597,15 @@
     {
       "source": {
         "id": null,
-        "name": "Fox Business"
+        "name": "Forbes"
       },
-      "author": "Louis Casiano",
-      "title": "Amazon's Ring launches flying security drones, patrol robots to guard homes, businesses - Fox Business",
-      "description": "Ring expands beyond fixed cameras with a new flying indoor drone and autonomous business robot built to patrol, investigate and eliminate blind spots.",
-      "url": "https://www.foxbusiness.com/technology/amazon-ring-launches-flying-security-drones-patrol-robots-guard-homes-businesses",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/amazon-ring.jpg?ve=1&tl=1",
-      "publishedAt": "2026-11-10T18:41:47Z",
-      "content": "Amazon introduced an indoor security drone made by Ring, offering a flying camera to monitor areas stationary devices cannot reach, the company announced Tuesday.\r\nThe company also unveiled the Ring … [+2459 chars]"
+      "author": "Forbes",
+      "title": "‘Forever’ Cruise Ship Seized In Singapore—And Reportedly Owes $500,000 In Unpaid Fuel Debt As Prices Soar - Forbes",
+      "description": null,
+      "url": "https://www.forbes.com/sites/maryroeloffs/2026/11/10/forever-cruise-ship-seized-in-singapore-and-reportedly-owes-500000-in-unpaid-fuel-debt-as-prices-soar/",
+      "urlToImage": null,
+      "publishedAt": "2026-11-10T18:34:13Z",
+      "content": null
     },
     {
       "source": {
@@ -518,6 +635,32 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Mitchel Broussard",
+      "title": "Amazon Begins Early Black Friday Sale, Featuring Sitewide Discounts on Tech and Decor - MacRumors",
+      "description": "Amazon has joined in on early Black Friday deals this week, with sitewide savings across TVs, headphones, Amazon devices, Apple products, and much...",
+      "url": "https://www.macrumors.com/2026/11/10/amazon-early-black-friday/",
+      "urlToImage": "https://images.macrumors.com/t/-ie79HsmoSNXG0X6ubNKxKFPeT0=/2500x/article-new/2026/11/fire-tablet-black-friday.jpeg",
+      "publishedAt": "2026-11-10T17:50:00Z",
+      "content": "Amazon has joined in on early Black Friday deals this week, with sitewide savings across TVs, headphones, Amazon devices, Apple products, and much more. Another retailer offering a major early Black … [+2194 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Conchovalleyhomepage.com"
+      },
+      "author": "ConchoValleyHomepage.com",
+      "title": "IRS reveals new tax brackets and standard deductions for 2027 - ConchoValleyHomepage.com",
+      "description": null,
+      "url": "https://www.conchovalleyhomepage.com/news/national-news/irs-reveals-new-tax-brackets-and-standard-deductions-for-2027/",
+      "urlToImage": null,
+      "publishedAt": "2026-11-10T17:34:43Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -544,16 +687,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "author": "Brian Sozzi",
-      "title": "Micron stock is a screaming buy at current valuation levels: Goldman Sachs - Yahoo Finance",
-      "description": "Micron's valuation has reached a level where it's simply too cheap to ignore given its fundamentals, says Goldman Sachs analyst James Schneider.",
-      "url": "https://finance.yahoo.com/markets/stocks/article/micron-stock-is-a-screaming-buy-at-current-valuation-levels-goldman-sachs-172852076.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/ad6a00e90ec68ea03076f76c3488550e2e0f0a8a220c980988440b88f56a2c58/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2F2837ca50-33ca-11ef-9f4f-67e9f9485266_c20fcfb8d9cbb58c1453ac7d236a0d54e8bebb6652939cbb60055968eff429e8.jpg",
-      "publishedAt": "2026-11-10T17:28:52Z",
-      "content": "Micron's (MU) valuation has reached a level where it's simply too cheap to ignore given its fundamentals, says Goldman Sachs analyst James Schneider.\r\nSchneider reiterated his $1,250 price target on … [+1508 chars]"
+      "author": "Aisha Malik",
+      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks - TechCrunch",
+      "description": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/11/Claude-Meetings.png?resize=1200,675",
+      "publishedAt": "2026-11-10T17:30:00Z",
+      "content": "Anthropic announced new workplace features on Tuesday, including Claude Meetings, which brings Claude into video calls to begin working on tasks while participants are still talking. The company also… [+3858 chars]"
     },
     {
       "source": {
@@ -583,29 +726,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Jessica Dickler",
-      "title": "Credit card debt climbs to a record $1.29 trillion, New York Fed research finds - CNBC",
-      "description": "As high prices continue to strain household budgets, many consumers have turned to credit cards to help make ends meet.",
-      "url": "https://www.cnbc.com/2026/11/10/credit-card-debt-record.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108253695-1768588966424-gettyimages-2153961867-dsc07236.jpeg?v=1774894550&w=1920&h=1080",
-      "publishedAt": "2026-11-10T17:16:18Z",
-      "content": "Americans are increasingly turning to credit cards as financial pressures mount, new reports show.\r\nCollectively, credit card balances climbed by $22 billion in the third quarter to a record $1.29 tr… [+3089 chars]"
-    },
-    {
-      "source": {
         "id": "business-insider",
         "name": "Business Insider"
       },
-      "author": "Michelle Clardie",
-      "title": "We moved to Sweden for my husband's job 4 years ago. Now, we're struggling to keep the life we worked so hard to build. - Business Insider",
-      "description": "Our American family moved to Sweden for my husband's job. We built a life we love and bought a home, but we're now fighting to stay on a work visa.",
-      "url": "https://www.businessinsider.com/american-family-moved-to-sweden-for-job-not-going-well-2026-11#article",
-      "urlToImage": "https://i.insider.com/6ae9f9ad4b5ca383fe7cf0ca?width=1200&format=jpeg",
-      "publishedAt": "2026-11-10T16:46:00Z",
-      "content": "I've never had a problem with commitment.\r\nI got married at 18, and our relationship is still going strong 23 years later. Ten years ago, I started my own business and never looked back.\r\nWhen someth… [+5774 chars]"
+      "author": "Pete Syme",
+      "title": "Read the memo Boeing sent staff announcing 2,500 job cuts in its airliner business - Business Insider",
+      "description": "Stephanie Pope, head of Boeing's commercial division, said the layoffs were due to being \"overstaffed\" after production increases stalled.",
+      "url": "https://www.businessinsider.com/boeing-layoffs-cut-2500-staff-read-the-memo-2026-11#article",
+      "urlToImage": "https://i.insider.com/6af33d868a8cac0989cbfe5b?width=1200&format=jpeg",
+      "publishedAt": "2026-11-10T17:09:00Z",
+      "content": "Boeing announced Monday that it will cut 5% of staff in its commercial division, which makes the 737 and other airplanes used by millions of travelers worldwide.\r\nThe layoffs stem from Boeing's inabi… [+3858 chars]"
     },
     {
       "source": {
@@ -619,32 +749,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/10Daily-Nvidia-tgbc/10Daily-Nvidia-tgbc-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-10T16:36:29Z",
       "content": "Despite knowing about the relationship between one of the president’s closest allies and a woman later identified by U.S. officials as a Chinese spy, the Trump administration took no action."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Deena Zaidi",
-      "title": "U.S. gas prices fall below $4 for the first time since July - CNBC",
-      "description": "Americans may finally find some relief at the pump.",
-      "url": "https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108326995-1794328314979-Gas_Prices_Continue_Steady_Drop_As_Ship_Traffic_In-2283298117-Getty.jpg?v=1794328392&w=1920&h=1080",
-      "publishedAt": "2026-11-10T16:20:21Z",
-      "content": "A person pumps gas at a Mobil gas station on June 25, 2026 in Austin, Texas.\r\nAmericans may finally find some relief at the pump.\r\nThe national average price of regular gasoline fell below $4 a gallo… [+2043 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Kevin Crowley",
-      "title": "ExxonMobil Signs Deal in Step Toward Re-Entering Venezuela - Bloomberg.com",
-      "description": "ExxonMobil Holdings Corp. took a step toward potentially returning to Venezuela almost two decades after its exit from the country as it formalized negotiations with the government about operating one or more oil fields.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-10/exxonmobil-signs-deal-in-step-toward-re-entering-venezuela",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i55T29zj01Ug/v0/1200x800.jpg",
-      "publishedAt": "2026-11-10T16:20:12Z",
-      "content": "ExxonMobil Holdings Corp. took a step toward potentially returning to Venezuela almost two decades after its exit from the country as it formalized negotiations with the government about operating on… [+259 chars]"
     },
     {
       "source": {
@@ -684,19 +788,6 @@
       "urlToImage": null,
       "publishedAt": "2026-11-10T15:59:29Z",
       "content": "The global benchmark price is down more than $20 a barrel since late October, when it traded for around $113."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Investor's Business Daily"
-      },
-      "author": null,
-      "title": "SpaceX Sets Date For Critical Starship Flight 15, Plans Tower Catches - Investor's Business Daily",
-      "description": "SpaceX announces date for Starship Flight 15. The mission is key for Elon Musk's future plans as SpaceX plans to attempt a tower catch.",
-      "url": "https://www.investors.com/news/spacex-starship-flight-15-date-tower-catch-super-heavy-elon-musk-spcx-stock/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2019/09/stock-SpaceX-starshipBuild-01-company.jpg",
-      "publishedAt": "2026-11-10T15:25:00Z",
-      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
     },
     {
       "source": {
@@ -753,15 +844,28 @@
     {
       "source": {
         "id": null,
-        "name": "Financial Times"
+        "name": "Investor's Business Daily"
       },
       "author": null,
-      "title": "Monthly US prices rose 0.4% in October - Financial Times",
-      "description": "Two-year government bond yields soar most since 2024 as October consumer price growth tops forecasts",
-      "url": "https://www.ft.com/content/8b564134-dea6-4272-8ede-e0b12ef5aebd?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe651a069-eb0f-43c5-a146-b0ac5e828b25.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "publishedAt": "2026-11-10T13:31:10Z",
-      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+      "title": "D-Wave Quantum Earnings Miss As Bookings Boom - Investor's Business Daily",
+      "description": "The quantum computing play reported a bigger-than-expected Q3-quarter loss.",
+      "url": "https://www.investors.com/news/technology/d-wave-quantum-stock-q32026-earnings-qbts/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2026/01/stock-quantum-computer-adobe.jpg",
+      "publishedAt": "2026-11-10T14:57:00Z",
+      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jess Weatherbed",
+      "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things - The Verge",
+      "description": "Adobe is expanding its Creative Cloud apps and Firefly platform with new capabilities that aim to make design and editing projects faster and less complicated.",
+      "url": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/PS-Remove-No-Logo-2.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2026-11-10T14:00:00Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nHere are the new editing and design tools coming to Creative Cloud apps and Adobes Firefly suite.\r\nHere are the new editing and design tools coming to Creative C… [+4618 chars]"
     },
     {
       "source": {
@@ -820,25 +924,12 @@
         "id": "the-wall-street-journal",
         "name": "The Wall Street Journal"
       },
-      "author": "WSJ",
+      "author": "Kosaku Narioka, Eliot Brown",
       "title": "SoftBank Posts $7 Billion Loss as AI Trade Falters - WSJ",
-      "description": null,
+      "description": "The company took a hit on the value of power-generating equipment meant for AI data centers. Its stock has more than halved from its June peak.",
       "url": "https://www.wsj.com/business/earnings/softbank-group-posts-quarterly-loss-on-special-losses-linked-to-u-s-data-center-projects-23b37a41",
-      "urlToImage": null,
+      "urlToImage": "https://images.wsj.net/im-75589209/social",
       "publishedAt": "2026-11-10T11:53:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Business Wire"
-      },
-      "author": "Business Wire",
-      "title": "Bilt Introduces the Operating System for Neighborhoods, Bilt Neighborhood OS - Business Wire",
-      "description": null,
-      "url": "https://www.businesswire.com/news/home/20261110538915/en/Bilt-Introduces-the-Operating-System-for-Neighborhoods-Bilt-Neighborhood-OS-Connecting-Businesses-and-Communities-to-Power-Local-Commerce",
-      "urlToImage": null,
-      "publishedAt": "2026-11-10T11:30:00Z",
       "content": null
     },
     {
@@ -947,6 +1038,19 @@
     },
     {
       "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Alice Tecotzky",
+      "title": "6 new Goldman partners share how they celebrated their promotions — and the biggest challenges getting there - Business Insider",
+      "description": "Business Insider caught up with six new members of Goldman's partner class about how they celebrated and what got them to this point.",
+      "url": "https://www.businessinsider.com/goldman-sachs-partner-promotions-david-solomon-promotions-2026-11#article",
+      "urlToImage": "https://i.insider.com/6af040b5eaa5e46dca227fba?width=1200&format=jpeg",
+      "publishedAt": "2026-11-10T09:45:00Z",
+      "content": "Where were you when you found out? Who was the first person you told?\r\nI was at my desk in the middle of the most volatile trading session of the year when David Solomon's name flashed across my phon… [+2367 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -957,32 +1061,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-China-trade-wmht/10biz-China-trade-wmht-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-10T09:00:49Z",
       "content": "China’s factories are finding eager buyers worldwide, but the export boom is raising concerns about its impact on trading partner nations."
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Texas governor-elect's plan to freeze electricity prices raises questions over legal authority - Fox News",
-      "description": "Texas Democratic Governor-elect Gina Hinojosa plans to freeze electricity rates on Day One, but experts warn the move could trigger energy shortages.",
-      "url": "https://www.foxnews.com/politics/texas-governor-elect-plan-freeze-electricity-prices-raises-questions-legal-authority",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/hinojosa-day-one-event.jpg",
-      "publishedAt": "2026-11-10T09:00:22Z",
-      "content": "On her first day in office, Texas Democratic Gov.-elect Gina Hinojosa plans to freeze residential electricity rates in response to what she described as an affordability crisis.\r\n\"On Day One as gover… [+4034 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Jeff Cox",
-      "title": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase - CNBC",
-      "description": "The policymaker said he \"is leaning toward\" a rate increase in December and could support a half-point hike depending on inflation data.",
-      "url": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108213026-1760627921721-gettyimages-2240983942-WALLER_FED.jpeg?v=1760627950&w=1920&h=1080",
-      "publishedAt": "2026-11-10T09:00:01Z",
-      "content": "Federal Reserve Governor Christopher Waller said Tuesday the central bank needs to follow through on expectations for additional interest rate hikes or risk its credibility, even suggesting that a la… [+3164 chars]"
     },
     {
       "source": {
@@ -1012,32 +1090,6 @@
     },
     {
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Susan Svrluga",
-      "title": "Vanderbilt University shuts down devices after cyber attack - The Washington Post",
-      "description": "A ransomware group claimed to have accessed Social Security numbers and other records.",
-      "url": "https://www.washingtonpost.com/education/2026/11/09/vanderbilt-university-shuts-down-devices-after-cyber-attack/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LWAFAGJZKSBK442XKV2FM265WI_size-normalized.jpg&w=1440",
-      "publishedAt": "2026-11-10T06:16:38Z",
-      "content": "Vanderbilt University officials urged people to shut down university devices, disconnect from school WiFi and remain extremely vigilant Monday as they investigated an active cybersecurity incident.\r\n… [+121 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Food & Wine"
-      },
-      "author": "https://www.facebook.com/foodandwine",
-      "title": "Beat the Black Friday Rush — Amazon’s Already Running Deals on Le Creuset, OXO, and More, From $5 - Food & Wine",
-      "description": "Amazon just announced the dates of its Black Friday 2026 sale, but the retailer is already clearing inventory on OXO, Le Creuset, All-Clad, Yeti, and more of our favorite kitchen brands, up to 78% off.",
-      "url": "https://www.foodandwine.com/amazon-black-friday-sale-announcement-early-deals-2026-12245322",
-      "urlToImage": "https://www.foodandwine.com/thmb/vhWV_xZwN_esCvTicD8Cb7N2w1k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/faw-t5-bf-announcement-2026-rkilgore-236f3f6dc34a4e7bb8a56bd3f1132787.jpg",
-      "publishedAt": "2026-11-10T06:10:00Z",
-      "content": "Amazon just announced its Black Friday 2026 dates, and were convinced its going to be the best sale yet. Expect mind-blowing discounts on your favorite brands from Thursday, November 19 to Monday, No… [+9794 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1051,42 +1103,16 @@
     },
     {
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
+        "id": "associated-press",
+        "name": "Associated Press"
       },
-      "author": "Ellen Francis",
-      "title": "Iran hacked hundreds of French supermarket refrigerators, France says - The Washington Post",
-      "description": "France’s foreign minister blamed Iran for an “an attack of unprecedented scope and aggressiveness,” affecting nearly 700 sites.",
-      "url": "https://www.washingtonpost.com/world/2026/11/09/iran-hacked-hundreds-french-supermarket-refrigerators-france-says/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/57SG465V4F5HRDC7VHYEAMD2RU.JPG&w=1440",
-      "publishedAt": "2026-11-10T04:11:08Z",
-      "content": "France has found Iran responsible for a cyberattack on supermarket refrigerators across the country, the French foreign minister said Monday.\r\nNearly 700 food-distribution sites were targeted across … [+248 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": null,
-      "title": "China set for record trade surplus as AI boom pushes it past $1 trillion in just 10 months - CNN",
-      "description": "China’s trade surplus surged past $1 trillion in the first 10 months as a global race to build AI infrastructure buoyed sales of high-tech products and helped offset weak domestic demand, a dynamic likely to sharpen tensions with major trading partners.",
-      "url": "https://www.cnn.com/2026/11/09/business/china-trade-surplus-1-trillion-intl-hnk",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2304359162.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-11-10T04:10:00Z",
-      "content": "Chinas trade surplus surged past $1 trillion in the first 10 months as a global race to build AI infrastructure buoyed sales of high-tech products and helped offset weak domestic demand, a dynamic li… [+3086 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Investor's Business Daily"
-      },
-      "author": null,
-      "title": "Dow Jones Soars 1,132 Points As Amazon, Tesla Rally But Nvidia Dives; CPI Inflation Report Next - Investor's Business Daily",
-      "description": "Dow Jones futures were in focus after soaring 1,132 points ahead of the CPI inflation report. Amazon and Tesla rallied, but Nvidia dived.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-amazon-tesla-nvidia-cpi-inflation-report/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/07/Stock-wallstreet-multiflag-01-adobe.jpg",
-      "publishedAt": "2026-11-10T03:06:00Z",
-      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
+      "author": "Chan Ho-him",
+      "title": "China’s trade surplus surpasses $1 trillion for a 2nd straight year, as exports surge 35% - AP News",
+      "description": "China says its trade surplus exceeded $1 trillion for a 2nd straight year. Customs figures released Tuesday showed exports in October surged 35% from a year earlier, driven by strong demand for high-tech goods like computer chips and autos. Imports also rose …",
+      "url": "https://apnews.com/article/china-trade-economy-trump-surplus-0fc56d7bd8bbff86ce6672bb67691f22",
+      "urlToImage": "https://dims.apnews.com/dims4/default/7bb0026/2147483647/strip/true/crop/3710x2473+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd4%2Fa2%2F97af70a0bb68e942920b02d6bd56%2Fc454b0dc0f904d7daea415c05e64d437",
+      "publishedAt": "2026-11-10T03:20:51Z",
+      "content": "HONG KONG (AP) Chinas trade surplus exceeded $1 trillion for a second straight year, according to official data released Tuesday, as pressure mounts for greater balance in trade with Beijing. \r\nExpor… [+3836 chars]"
     },
     {
       "source": {
@@ -1116,6 +1142,19 @@
     },
     {
       "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Herb Scribner",
+      "title": "Vanderbilt urges campus to shut down computers amid cyberattack - Axios",
+      "description": "The school is asking everyone in the school \"to shut down university devices.\"",
+      "url": "https://www.axios.com/2026/11/09/vanderbilt-university-attack-phone-devices-computer",
+      "urlToImage": "https://images.axios.com/RSjxF7m-gM4Clmo_uHyYnfGG1hI=/0x562:6387x4155/1366x768/2026/11/09/1794255796070.jpeg",
+      "publishedAt": "2026-11-09T23:51:32Z",
+      "content": "Driving the news: Vanderbilt said its IT team is \"actively investigating and working to contain the situation.\" Classes are proceeding as normal, Julia Jordan, assistant director of media relations, … [+1531 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1129,55 +1168,16 @@
     },
     {
       "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
-      "author": "Steve Kopack",
-      "title": "Trump Media cashes in on high-speed access to social media posts - NBC News",
-      "description": "The firm’s revenue jumped more than 200% after it started selling a direct feed of posts from Truth Social, whose most prominent user is President Trump.",
-      "url": "https://www.nbcnews.com/business/media/trump-media-revenue-surges-truth-social-rcna608428",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260804-trump-cellphone-mb-1159-3a7eaf.jpg",
-      "publishedAt": "2026-11-09T23:11:01Z",
-      "content": "Trump Media and Technology Group reported Monday that revenue surged 205% in the third quarter, which it says was primarily driven by selling a high-speed feed of posts on Truth Social.\r\nThe Truth AP… [+3042 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Marissa  Perlman",
-      "title": "Illinois ban on hemp-derived THC drinks paused for businesses part of federal lawsuit - CBS News",
-      "description": "The state has agreed to temporarily hold off on enforcement against those covered by the lawsuit for another week.",
-      "url": "https://www.cbsnews.com/chicago/news/illinois-pauses-ban-on-hemp-derived-thc-drinks-some-businesses/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/09/21d44de1-ce62-4afe-968c-ca2bb02bc593/thumbnail/1200x630/ec0fbeac5a375e948733557881f3fe8f/snapshot-2026-11-09t164431-801.jpg",
-      "publishedAt": "2026-11-09T22:49:00Z",
-      "content": "A new Illinois law was set to take effect this week, threatening to pull most hemp-derived THC drinks from traditional retail shelves. \r\nHowever, just days before that deadline, several hemp business… [+2516 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Megan  Cerullo",
-      "title": "Trump administration proposes stricter work search rules to qualify for unemployment benefits - CBS News",
-      "description": "Under a proposed federal rule, Americans seeking unemployment aid would have to conduct more job searches each week.",
-      "url": "https://www.cbsnews.com/news/trump-work-search-rules-unemployment-benefits/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/21/92c030d7-07b4-4d13-ab43-201d163e130c/thumbnail/1200x630/ff92c3d63b0f8baa22045a9d58cdc22b/gettyimages-179125086.jpg",
-      "publishedAt": "2026-11-09T22:40:00Z",
-      "content": "The Trump administration on Monday proposed stiffer rules for Americans seeking unemployment benefits that, if adopted, would require them to conduct more weekly job searches.  \r\nThe proposed Departm… [+3983 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "KTLA Los Angeles"
-      },
-      "author": "Jocelyn Fiset",
-      "title": "Air France, American Airlines jets nearly collide after wrong turn in midair over LAX - KTLA",
-      "description": "The FAA is investigating after two passenger jets narrowly avoided a midair collision shortly after taking off from Los Angeles International Airport when one aircraft reportedly made an unauthorized turn into the other’s flight path. The close call occurred …",
-      "url": "https://ktla.com/news/local-news/lax-planes-midair-close-call/",
-      "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2026/11/LAX-e1794268864887.jpg?w=1280",
-      "publishedAt": "2026-11-09T22:26:56Z",
-      "content": "The FAA is investigating after two passenger jets narrowly avoided a midair collision shortly after taking off from Los Angeles International Airport when one aircraft reportedly made an unauthorized… [+3835 chars]"
+      "author": "WSJ",
+      "title": "New Type of Blood Thinner Approved to Prevent Repeat Strokes - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/health/pharma/new-type-of-blood-thinner-approved-to-prevent-repeat-strokes-79b4b6b9",
+      "urlToImage": null,
+      "publishedAt": "2026-11-09T22:50:00Z",
+      "content": null
     },
     {
       "source": {
@@ -1191,6 +1191,19 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2285925652.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2026-11-09T22:23:25Z",
       "content": "Skydance will start selling HBO Max and Paramount+ together in a streaming bundle early next year, the company said Monday.\r\nIts part of an industrywide trend toward bundling and a prelude to further… [+2243 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ",
+      "title": "Trump Media & Technology Group Swings to Profit Ahead of TAE Technologies Merger - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/business/earnings/trump-media-technology-group-swings-to-profit-ahead-of-tae-technologies-merger-398ab40c",
+      "urlToImage": null,
+      "publishedAt": "2026-11-09T21:43:00Z",
+      "content": null
     },
     {
       "source": {
@@ -1210,19 +1223,6 @@
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Adam B. Ellick and Laurence Blair",
-      "title": "A Country’s President Led to a Bank’s Stunning Rise, and Its Fall",
-      "description": "Prosecutors accused President Santiago Peña of Paraguay of funneling nearly a billion dollars of government funds to the Ueno bank as its executives made reckless insider loans.",
-      "url": "https://www.nytimes.com/2026/11/09/world/americas/paraguay-bank-president-ueno.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-paraguay-zjft/08int-paraguay-zjft-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-09T21:26:15Z",
-      "content": "Prosecutors accused President Santiago Peña of Paraguay of funneling nearly a billion dollars of government funds to the Ueno bank as its executives made reckless insider loans."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "Joe Rennison and Jason Karaian",
       "title": "Nvidia’s Stock Price Drops After Investigation Into CEO Jensen Huang",
       "description": "The chip maker’s shares fell sharply after its C.E.O., Jensen Huang, admitted to a relationship with a businesswoman suspected of spying for China.",
@@ -1230,6 +1230,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/09/multimedia/nvidia-stock-promo-bgjq/nvidia-stock-promo-bgjq-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-09T21:23:34Z",
       "content": "The chip maker’s shares fell sharply after its C.E.O., Jensen Huang, admitted to a relationship with a businesswoman suspected of spying for China."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Forbes",
+      "title": "How To Reduce Taxable Income: 7 Year-End Tax Moves For High Earners - Forbes",
+      "description": null,
+      "url": "https://www.forbes.com/sites/kristinmckenna/2026/11/09/how-to-reduce-taxable-income-7-year-end-tax-moves-for-high-earners/",
+      "urlToImage": null,
+      "publishedAt": "2026-11-09T20:31:15Z",
+      "content": null
     },
     {
       "source": {
@@ -1273,15 +1286,15 @@
     {
       "source": {
         "id": null,
-        "name": "10TV"
+        "name": "CNBC"
       },
-      "author": "10TV",
-      "title": "Honda announces new $3 billion auto plant coming to central Ohio - 10TV",
-      "description": null,
-      "url": "https://www.10tv.com/article/news/local/boomtown-ohio/honda-announces-new-auto-plant-central-ohio/530-b3ec7c6f-cc5c-4f78-b806-ef5b53f18cc2",
-      "urlToImage": null,
-      "publishedAt": "2026-11-09T16:36:00Z",
-      "content": null
+      "author": "Michael Wayland",
+      "title": "Honda to invest $3 billion in new vehicle assembly plant in Ohio - CNBC",
+      "description": "The Japanese automaker said the plant will focus on hybrid vehicles and is expected to begin production in 2029.",
+      "url": "https://www.cnbc.com/2026/11/09/honda-to-invest-3-billion-in-new-vehicle-assembly-plant-in-ohio.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108095724-1738345729872-IMG_3109.jpeg?v=1738346588&w=1920&h=1080",
+      "publishedAt": "2026-11-09T16:10:33Z",
+      "content": "MARYSVILLE, Ohio Honda Motor plans to invest $3 billion to build a new vehicle assembly plant in Ohio, the automaker announced Monday.\r\nHonda said the new plant, which will be near its other faciliti… [+3327 chars]"
     },
     {
       "source": {
@@ -1295,19 +1308,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/06/multimedia/06biz-nextera-dominion-01-vpbk/06biz-nextera-dominion-01-vpbk-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-09T15:18:30Z",
       "content": "State leaders and residents in Virginia have opposed NextEra’s acquisition of Dominion Energy, fearing that it will accelerate rate increases."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Sri Muppidi",
-      "title": "How Indispensable Is Jensen Huang?",
-      "description": "The fate of Nvidia’s chief executive, who was romantically involved with a suspected Chinese spy, has wide implications for Silicon Valley, Washington and beyond.",
-      "url": "https://www.nytimes.com/2026/11/09/business/dealbook/nvidia-huang-spy.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/09/multimedia/09db-huang-pwkv/09db-huang-pwkv-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-09T13:33:08Z",
-      "content": "The fate of Nvidia’s chief executive, who was romantically involved with a suspected Chinese spy, has wide implications for Silicon Valley, Washington and beyond."
     }
   ]
 }
