@@ -6,9 +6,22 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-13T02:13:53.781211+00:00",
-  "articles_count": 30,
+  "fetched_at": "2026-11-13T11:38:28.059106+00:00",
+  "articles_count": 27,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Fanni Daniella Szakál",
+      "title": "These Male Dolphins Do Something Rare: Day Care",
+      "description": "Male Franciscana dolphins are exceptional babysitters. Scientists are trying to figure out if they are thoughtful fathers or just hope to be.",
+      "url": "https://www.nytimes.com/2026/11/13/science/babysitting-daycare-franciscana-dolphins-toninha-laplata.html",
+      "urlToImage": null,
+      "publishedAt": "2026-11-13T10:00:41Z",
+      "content": "Male Franciscana dolphins are exceptional babysitters. Scientists are trying to figure out if they are thoughtful fathers or just hope to be."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -125,19 +138,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-measles-whjg/10dc-measles-whjg-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-10T23:00:42Z",
       "content": "An international panel of scientific experts will convene on Tuesday to evaluate the status, but genetic data already shows the virus is once again entrenched in the United States."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Cade Metz",
-      "title": "How A.I. Just Blew Up a Key Tenet of Computer Science",
-      "description": "A longstanding hypothesis held that some problems would always be hard for computers to solve quickly. But OpenAI disproved it — raising the possibility of radical new efficiencies.",
-      "url": "https://www.nytimes.com/2026/11/06/science/ai-exponential-time-hypothesis.html",
-      "urlToImage": null,
-      "publishedAt": "2026-11-10T22:36:11Z",
-      "content": "A longstanding hypothesis held that some problems would always be hard for computers to solve quickly. But OpenAI disproved it — raising the possibility of radical new efficiencies."
     },
     {
       "source": {
@@ -261,19 +261,6 @@
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Scott Dance",
-      "title": "Disaster-Prone Communities Face Cuts and Slowdowns in Federal Help",
-      "description": "The Trump administration is scaling back or stalling investments that help vulnerable places harden themselves to rising flood and fire threats.",
-      "url": "https://www.nytimes.com/2026/11/06/climate/fema-grants-cuts-resilience.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/29/multimedia/00cli-climate-grants-01-fkhw/00cli-climate-grants-01-fkhw-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-08T21:06:54Z",
-      "content": "The Trump administration is scaling back or stalling investments that help vulnerable places harden themselves to rising flood and fire threats."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "Gina Kolata",
       "title": "Doctors Absorb the Stunning Failure of Two High-Profile Heart Drugs",
       "description": "By every measure, the drugs were no better than placebos, full data revealed on Saturday. Was it the fault of the design of the studies, or our very hypotheses about heart disease?",
@@ -372,32 +359,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/05/science/05SCI-PHAGE-01/05SCI-PHAGE-01-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-06T21:52:00Z",
       "content": "Radical Numerics turned heads with its announcement about a novel treatment. Now a former partner, Tabula Bioscience, says it performed much of the research."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Alexander Nazaryan",
-      "title": "These Newly Elected Lawmakers Know Something Trump Doesn’t: Science",
-      "description": "Among those elected to Congress on Tuesday are a mathematician, a microbiologist and a chemical engineer. They plan to take on a White House that has threatened funding cuts to research.",
-      "url": "https://www.nytimes.com/2026/11/06/science/scientists-election-congress.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/06/science/06sci-politician-scientists/06sci-politician-scientists-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-06T19:50:43Z",
-      "content": "Among those elected to Congress on Tuesday are a mathematician, a microbiologist and a chemical engineer. They plan to take on a White House that has threatened funding cuts to research."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Benjamin Mueller, Carolyn Y. Johnson, Cade Metz and Kenneth Chang",
-      "title": "What a Democratic Congress Could Mean for Science",
-      "description": "The Trump administration has sought to reshape the nation’s research infrastructure. Democratic lawmakers, newly empowered, are preparing to push back.",
-      "url": "https://www.nytimes.com/2026/11/06/science/science-democrats-congress-election.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/06/multimedia/06SCI-BLUE-SCIENCE-01-fqwp/06SCI-BLUE-SCIENCE-01-fqwp-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-06T16:05:48Z",
-      "content": "The Trump administration has sought to reshape the nation’s research infrastructure. Democratic lawmakers, newly empowered, are preparing to push back."
     }
   ],
   "query": "science research discovery space"

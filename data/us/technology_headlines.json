@@ -6,21 +6,34 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-13T02:13:53.781211+00:00",
-  "articles_count": 97,
+  "fetched_at": "2026-11-13T11:38:28.059106+00:00",
+  "articles_count": 93,
   "articles": [
     {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Adeel Hassan",
+      "author": "Adeel Hassan, Ishani Desai and Isabella Kwai",
       "title": "Outlook, Teams and More Microsoft Programs Disrupted by Outage",
-      "description": "The company said that some of its servers were unexpectedly unavailable, straining the remaining infrastructure, and that it was working to bring users back online.",
+      "description": "The company said Friday that its services were improving amid a software outage that has left millions of users without email or other tools.",
       "url": "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html",
       "urlToImage": "https://static01.nyt.com/images/2026/11/12/multimedia/12xp-outlook-wtfb/12xp-outlook-wtfb-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-13T01:48:06Z",
-      "content": "The company said that some of its servers were unexpectedly unavailable, straining the remaining infrastructure, and that it was working to bring users back online."
+      "publishedAt": "2026-11-13T11:23:56Z",
+      "content": "The company said Friday that its services were improving amid a software outage that has left millions of users without email or other tools."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Steve Lohr",
+      "title": "Nvidia Lost Its Founding C.E.O. Can It Keep Its Momentum?",
+      "description": "Throughout the years, tech giants have had mixed records after losing visionary founders who propelled their success. Successors with tech expertise helps.",
+      "url": "https://www.nytimes.com/2026/11/13/technology/nvidia-lost-its-founding-ceo-can-it-keep-its-momentum.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/13/business/13biz-founder-loss1/13biz-founder-loss1-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-13T10:04:17Z",
+      "content": "Throughout the years, tech giants have had mixed records after losing visionary founders who propelled their success. Successors with tech expertise helps."
     },
     {
       "source": {
@@ -58,7 +71,7 @@
       "description": "In a shocking turn of events, Nvidia’s co-founder resigns amid multiple scandals.",
       "url": "https://www.nytimes.com/2026/11/12/podcasts/hardfork-jensen-huang-resigns.html",
       "urlToImage": "https://static01.nyt.com/images/2026/11/12/podcasts/12hardfork-jensen-resign/12hardfork-jensen-resign-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-12T23:07:17Z",
+      "publishedAt": "2026-11-12T23:07:18Z",
       "content": "In a shocking turn of events, Nvidia’s co-founder resigns amid multiple scandals."
     },
     {
@@ -84,7 +97,7 @@
       "description": "The revelations surrounding Jensen Huang, who resigned from Nvidia over extramarital affairs, inspired social media posts using the very technology his company helped develop.",
       "url": "https://www.nytimes.com/2026/11/12/world/asia/nvidia-ceo-huang-ai-memes.html",
       "urlToImage": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-nvidia-memes-1-hwzb/12int-nvidia-memes-1-hwzb-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-12T22:54:19Z",
+      "publishedAt": "2026-11-12T22:54:20Z",
       "content": "The revelations surrounding Jensen Huang, who resigned from Nvidia over extramarital affairs, inspired social media posts using the very technology his company helped develop."
     },
     {
@@ -183,13 +196,52 @@
         "id": null,
         "name": "BleepingComputer"
       },
-      "author": "Lawrence Abrams",
-      "title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations - BleepingComputer",
-      "description": "ConnectWise is investigating an active malware campaign targeting managed service providers (MSPs) that uses compromised ScreenConnect environments to deploy rogue remote-access clients to customer devices.",
-      "url": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/09/16/ScreenConnect.jpg",
-      "publishedAt": "2026-11-12T02:06:55Z",
-      "content": "Update 11/11/26: Added additional information from ConnectWise and Huntress.\r\nConnectWise is investigating an active malware campaign targeting managed service providers (MSPs) that uses compromised … [+8927 chars]"
+      "author": "Sergiu Gatlan",
+      "title": "Microsoft confirms Windows security updates installation issues - BleepingComputer",
+      "description": "Microsoft has confirmed reports that the November 2026 security updates are failing to install on Windows 11 systems with the October preview update.",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/11/12/Windows-11.jpg",
+      "publishedAt": "2026-11-12T10:24:07Z",
+      "content": "Microsoft has confirmed reports that the November 2026 security updates are failing to install on Windows 11 systems with the October preview update.\r\nThis follows widespread reports that the KB51320… [+2192 chars]"
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Olivia Tauber",
+      "title": "GTA 6 preorders top $1 billion as Hollywood eyes record launch weekend - Mashable",
+      "description": "Sony and Microsoft say it's already the most preordered game in the history of their digital stores.",
+      "url": "https://mashable.com/tech/gta-6-preorders-1-billion-hollywood",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/04ksT9yZqVyXuoXxUeAUrsO/hero-image.fill.size_1200x675.v1794432763.jpg",
+      "publishedAt": "2026-11-12T10:16:05Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Ollie Barder",
+      "title": "The ‘Zelda: Ocarina Of Time’ Remake Sold Over 5 Million Copies In 4 Days - Forbes",
+      "description": "The recently released and thoroughly excellent remake of 'Zelda: Ocarina of Time' has managed to sell over 5 million units in its first 4 days on sale.",
+      "url": "https://www.forbes.com/sites/olliebarder/2026/11/11/the-zelda-ocarina-of-time-remake-sold-over-5-million-copies-in-4-days/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6aea856746bd6f7f3553987e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2026-11-12T03:38:18Z",
+      "content": "'Zelda: Ocarina of Time' is one of the prettiest games of recent years.\r\nNintendo\r\nThe recently released and thoroughly excellent remake of Zelda: Ocarina of Time has managed to sell over 5 million u… [+2911 chars]"
+    },
+    {
+      "source": {
+        "id": "buzzfeed",
+        "name": "Buzzfeed"
+      },
+      "author": "Kristen Harris",
+      "title": "45 \"Boomer\" Life Hacks That Every Young Person Should Keep In Their Notes App - BuzzFeed",
+      "description": "\"I keep one in the closet and soccer it around the main level as needed.\"",
+      "url": "https://www.buzzfeed.com/kristenharris1/boomer-life-hacks",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/09/19/thumb/rh2EuAs1r.jpg?crop=1250:654;0,41%26downsize=1250:*",
+      "publishedAt": "2026-11-12T02:31:02Z",
+      "content": "\"For the last few years, I have been making a lunch smoothie that has yogurt, cucumbers, and this powder that's supposed to have healthy grains. I eat whatever I want for dinner. It's not always heal… [+288 chars]"
     },
     {
       "source": {
@@ -207,15 +259,28 @@
     {
       "source": {
         "id": null,
-        "name": "BBC News"
+        "name": "BGR"
       },
-      "author": null,
-      "title": "Trying Tourette's device was the best day of my life - BBC",
-      "description": "Katie is one of many that say a device developed by researchers in Nottingham helped calm her symptoms.",
-      "url": "https://www.bbc.com/news/articles/cmp3g3e5q4zxo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8c24/live/cdba35d0-ddc3-11f1-a50f-85eebf9e50e5.jpg",
-      "publishedAt": "2026-11-12T01:07:47Z",
-      "content": "According to the Tourettes Action charity, there are two versions of the device: Neupulse-C - which is available as a consumer wellness device - and Neupulse-M, which is intended to be marketed as a … [+143 chars]"
+      "author": "Joshua Hawkins",
+      "title": "5 Cool New Features Your Google Pixel Is Getting In November 2026 - BGR",
+      "description": "Google Pixel owners have multiple new features to look forward to this month, as the company rolls out its latest Google Pixel Drop software update.",
+      "url": "https://www.bgr.com/2314333/google-pixel-cool-new-features-november-2026/",
+      "urlToImage": "https://www.bgr.com/img/gallery/5-cool-new-features-your-google-pixel-is-getting-in-november-2026/l-intro-1794436050.jpg",
+      "publishedAt": "2026-11-12T00:17:00Z",
+      "content": "Of course, the biggest part of this month's Pixel Drop is the arrival of Gemini Intelligence on last year's devices. The Pixel 10, Pixel 10 Pro, Pixel 10 Pro XL, and Pixel 10 Pro Fold will all finall… [+1345 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Cade Onder",
+      "title": "Marvel 1943: Rise of Hydra Is Reportedly 'Close to Done,' Though at the Cost of Cutting Back on Content and Length - IGN",
+      "description": "Marvel 1943: Rise of Hydra, Amy Hennig's Captain America/Black Panther game, is reportedly close to being finished, but it sounds like it may be extremely compromised.",
+      "url": "https://www.ign.com/articles/marvel-1943-rise-of-hydra-is-reportedly-close-to-done-though-at-the-cost-of-cutting-back-on-content-and-length",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/06/04/marvel-1780614544087.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2026-11-11T23:27:26Z",
+      "content": "Marvel 1943: Rise of Hydra, Amy Hennig's Captain America/Black Panther game, is reportedly close to being finished, but it could be extremely compromised.\r\nAccording to a new report from Kotaku, Marv… [+2525 chars]"
     },
     {
       "source": {
@@ -232,19 +297,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Rebekah Valentine",
-      "title": "Hey, Nintendo, What’s Going On With Zelda: Ocarina Of Time’ s Most Insufferable Couple? - Kotaku",
-      "description": "We'll create...a constellation...of our very own...",
-      "url": "https://kotaku.com/hey-nintendo-whats-going-on-with-zelda-ocarina-of-times-most-insufferable-couple-2000755954",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/11/honeyanddarling.jpg",
-      "publishedAt": "2026-11-11T23:00:59Z",
-      "content": "I’ve been gushing for a few days now about some of the smaller details added to Hyrule in the Legend of Zelda: Ocarina of Time remake, like this new dialogue in Castle Town and new clarity on the fat… [+4349 chars]"
-    },
-    {
-      "source": {
         "id": "polygon",
         "name": "Polygon"
       },
@@ -255,19 +307,6 @@
       "urlToImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jason_lucia_rooftop_landscape.jpg?w=1600&h=900&fit=crop",
       "publishedAt": "2026-11-11T22:39:52Z",
       "content": "With only a week left before the release of Grand Theft Auto 6, there's little in Rockstar Games' marketing that players haven't seen before. That familiarity is true of new GTA 6 features, at least.… [+2443 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Rebekah Valentine",
-      "title": "Marvel 1943 'Has Not Been Canceled,' Says Skydance Leadership, Despite Development Struggles - Kotaku",
-      "description": "Skydance producers are reassuring the team that all is well, despite rumors to the contrary",
-      "url": "https://kotaku.com/marvel-1943-has-not-been-canceled-despite-development-struggles-2000756025",
-      "urlToImage": "https://kotaku.com/app/uploads/2024/03/8e222a1ffe01d783603d3ca4a3c0b240.jpg",
-      "publishedAt": "2026-11-11T22:06:26Z",
-      "content": "Today, a rumor began to spread that Marvel 1943: Rise of Hydra was about to be canceled. But according to a source on the project, developers are being reassured that it is not, in fact, canceled, de… [+2246 chars]"
     },
     {
       "source": {
@@ -285,15 +324,41 @@
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
+        "name": "GSMArena.com"
       },
-      "author": "Ash Parrish",
-      "title": "One Company Is Giving All Of Its 7,000 Employees The Day Off To Play GTA 6 - Kotaku",
-      "description": "Everybody will get to clock-out on November 19th",
-      "url": "https://kotaku.com/logitech-gta-6-release-day-off-logi-game-day-2000755995",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/10/gta-burning.jpg",
-      "publishedAt": "2026-11-11T21:30:08Z",
-      "content": "Logitech, rather than processing the no-doubt massive load of time-off requests that would all mysteriously happen to fall on the same day, is just declaring November 19th its Logi Game Day and letti… [+1334 chars]"
+      "author": "Vlad",
+      "title": "Samsung and Apple are both working on bigger wide foldables, new rumor claims - GSMArena.com news - GSMArena.com",
+      "description": "Samsung Galaxy Z Fold9 Plus, meet the iPhone Duo 2 Plus. Samsung and Apple both already have wide foldables on the market in the Galaxy Z Fold8 and the...",
+      "url": "https://www.gsmarena.com/samsung_and_apple_are_both_working_on_bigger_wide_foldables_new_rumor_claims-news-75446.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/26/11/samsung-apple-developing-bigger-wide-foldables-rumor/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2026-11-11T21:33:02Z",
+      "content": "Samsung and Apple both already have wide foldables on the market in the Galaxy Z Fold8 and the iPhone Duo. However, a new rumor today claims that both companies are actively working on developing big… [+989 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SlashGear"
+      },
+      "author": "Sumukh Rao",
+      "title": "10 Tech Gifts Under $50 That Punch Above Their Price Point - SlashGear",
+      "description": "Some gadgets cost a fortune, while others feel like they should, offering features seemingly beyond their remit.",
+      "url": "https://www.slashgear.com/2313051/tech-gifts-under-50-dollars-punch-above-price-point/",
+      "urlToImage": "https://www.slashgear.com/img/gallery/10-tech-gifts-under-50-that-punch-above-their-price-point/l-intro-1794339103.jpg",
+      "publishedAt": "2026-11-11T21:30:00Z",
+      "content": "We may receive a commission on purchases made from links.\r\nGifting season is right around the corner, which means you're probably looking for some nifty items for your close ones. It's always best to… [+981 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Pure Xbox"
+      },
+      "author": "Fraser Gilbert",
+      "title": "Xbox Brings Its Free Tier Of Cloud Gaming To Loads More Players Today - Pure Xbox",
+      "description": "Could prove popular for GTA 6?",
+      "url": "https://www.purexbox.com/news/2026/11/xbox-brings-its-free-tier-of-cloud-gaming-to-loads-more-players-today",
+      "urlToImage": "https://images.purexbox.com/6003244045ef3/1280x720.jpg",
+      "publishedAt": "2026-11-11T21:00:00Z",
+      "content": "You may recall that back in July, Xbox announced a new free version of Xbox Cloud Gaming that would allow you to play games at no charge, but you'd be forced to deal with ads as a compromise.\r\nThat t… [+2521 chars]"
     },
     {
       "source": {
@@ -337,15 +402,15 @@
     {
       "source": {
         "id": null,
-        "name": "9to5Mac"
+        "name": "CNBC"
       },
-      "author": "Ryan Christoffel",
-      "title": "iCloud+ has new perk in iOS 27 if you pay for more storage - 9to5Mac",
-      "description": "In iOS 27, iCloud+ has a new benefit for its highest storage tiers: Apple Intelligence features for HomeKit cameras.",
-      "url": "https://9to5mac.com/2026/11/11/icloud-has-new-perk-in-ios-27-if-you-pay-for-more-storage/",
-      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/icloud-ios-27-blue.jpg?quality=82&strip=all&resize=1200,628",
-      "publishedAt": "2026-11-11T19:32:00Z",
-      "content": "The tentpole feature of iCloud+ is cloud storage, but Apple keeps improving and expanding the service to include other perks too. And in iOS 27, iCloud+ has a new benefit for high-storage tiers: AI f… [+1535 chars]"
+      "author": "Renée Onque",
+      "title": "Don't believe these 3 longevity myths, doctors say: The most important factors 'don't cost anything' - CNBC",
+      "description": "With the wellness economy growing, experts break down three of modern America's commonly believed longevity myths — and what you should know instead.",
+      "url": "https://www.cnbc.com/make-it/2026/11/11/longevity-myths-doctors-aging.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108549240-1794422333695-gettyimages-2210374494-pi-3224074.jpeg?v=1794422461&w=1920&h=1080",
+      "publishedAt": "2026-11-11T19:06:41Z",
+      "content": "Eat more blueberries. Work out more than you think you need. Buy that new wearable device, which tracks your sleep better than the last one did.\r\nThese are just a few of the various longevity tips yo… [+6944 chars]"
     },
     {
       "source": {
@@ -362,29 +427,29 @@
     },
     {
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
+        "id": null,
+        "name": "9to5google.com"
       },
-      "author": "Gene Park",
-      "title": "‘Grand Theft Auto VI′ reportedly passes $1B in sales a week before release - The Washington Post",
-      "description": "Sensor Tower’s sales tracker estimates more than 10 million copies of the game are preordered across PlayStation 5 and Xbox platforms, putting revenue above $1 billion net of returns.",
-      "url": "https://www.washingtonpost.com/entertainment/video-games/2026/11/11/grand-theft-auto-vi-reportedly-passes-1b-sales-week-before-release/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https%3A%2F%2Farc-anglerfish-washpost-prod-washpost.s3.amazonaws.com%2Fpublic%2FXDVB6GBF3H4IGJHGB3AVDEL7VI_size-normalized.jpg&w=1200",
-      "publishedAt": "2026-11-11T18:15:22Z",
-      "content": "The United States intends to achieve a total victory over Iran, not 93 percent victory, President Donald Trump said Wednesday, using a Veterans Day appearance at Arlington National Cemetery to defend… [+1465 chars]"
+      "author": "Abner Li",
+      "title": "Google Wallet rolling out digital Google Home keys with supported locks on Android - 9to5Google",
+      "description": "Google Wallet for Android is rolling out support for digital home keys if you have a compatible smart lock in Google Home.",
+      "url": "http://9to5google.com/2026/11/11/google-wallet-home-key/",
+      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Google-Wallet-Home-key.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-11-11T18:58:00Z",
+      "content": "Google Wallet for Android is rolling out support for digital home keys if you have a compatible smart lock in Google Home.\r\nAfter adding a home key to Google Wallet, you can Tap to Unlock with your p… [+1503 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "9to5google.com"
+        "name": "Gizmodo.com"
       },
-      "author": "Ben Schoon",
-      "title": "Google Pixel Tag is only available in 8 countries, and excludes Europe - 9to5Google",
-      "description": "With Google’s Pixel Tag now offiically available, Google has also confirmed where the Android Find Hub tracker will be on...",
-      "url": "http://9to5google.com/2026/11/11/google-pixel-tag-launch-countries/",
-      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/google-pixel-tag-1_232188.jpg?quality=82&strip=all&resize=1200,628",
-      "publishedAt": "2026-11-11T18:00:00Z",
-      "content": "With Google’s Pixel Tag now offiically available, Google has also confirmed where the Android Find Hub tracker will be on sale, and it’s a limited list.\r\nCompared to the two dozen countries where Pix… [+1274 chars]"
+      "author": "Kyle Barr",
+      "title": "Intel’s Gonna Have a Hard Time Beating AMD’s Next-Gen Gaming CPUs - Gizmodo",
+      "description": "Desktop chips are getting pretty darn good, but AMD’s Zen 6 may have more in store.",
+      "url": "https://gizmodo.com/amd-zen-6-processors-2000838387",
+      "urlToImage": "https://gizmodo.com/app/uploads/2025/12/AMD-Ryzen-7-9800X3D-1200x675.jpg",
+      "publishedAt": "2026-11-11T18:40:00Z",
+      "content": "Want to know whats coming next for your AMD-based desktop PC? We can glean an inkling of whats coming next from AMD through its latest Zen 6 EPYC enterprise-grade processors. These are server-level c… [+3098 chars]"
     },
     {
       "source": {
@@ -427,19 +492,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "ZDNet"
-      },
-      "author": "Jada Jones",
-      "title": "Pixel users are getting a major Android Auto update – and it rivals Siri AI - ZDNET",
-      "description": "More phones are getting Gemini Intelligence, but only Pixel users can access it in a new way.",
-      "url": "https://www.zdnet.com/tech/android-auto-gemini-intelligence-update/",
-      "urlToImage": "https://www.zdnet.com/wp-content/uploads/sites/3/38545acc-df59-4d4a-b19d-d4057d0b306e.jpg",
-      "publishedAt": "2026-11-11T17:11:19Z",
-      "content": "<ul><li>Google announced that more phones will receive Gemini Intelligence.</li><li>Motorola, Samsung, and Google smartphones have intelligent AI features.</li><li>Gemini Intelligence in Android Auto… [+3061 chars]"
-    },
-    {
-      "source": {
         "id": "ars-technica",
         "name": "Ars Technica"
       },
@@ -454,41 +506,54 @@
     {
       "source": {
         "id": null,
-        "name": "Gamingbible.com"
+        "name": "Push Square"
       },
-      "author": "Kate Harrold",
-      "title": "Skyrim confirms unexpected remaster on 15th anniversary of Bethesda game - GAMINGbible",
-      "description": "Revisit Skyrim in 2027 ... again 🫠",
-      "url": "https://www.gamingbible.com/news/skyrim-unexpected-remaster-15th-anniversary-bethesda-game-120844-20261111",
-      "urlToImage": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/blt4a186169e53e9b1b/6af4940bbf1b61089b52f4f4/thomas-busque-stefanka-theelderscrollsvskyrim-shout.webp",
-      "publishedAt": "2026-11-11T16:32:16Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Jacqueline Thomas",
-      "title": "Blizzard Has Changed the Way Gold is Earned in WoW Forever and Players Are Loving It (So Far) - IGN",
-      "description": "For the longest time in World of Warcraft, when you finished a quest at max level, the experience you would earn would get converted to gold. But in WoW Forever, Blizzard killed off that conversion, and has now added a fix.",
-      "url": "https://www.ign.com/articles/blizzard-changes-gold-rewards-for-high-level-quests-and-players-are-celebrating",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/11/03/mxr-wowforever-promofi-1793722551273.png?width=1280&format=jpg&auto=webp&quality=80",
-      "publishedAt": "2026-11-11T16:18:11Z",
-      "content": "For the longest time in World of Warcraft, when you finished a quest at max level, the experience you would earn would get converted to gold. But in WoW Forever, Blizzard killed off that conversion, … [+4178 chars]"
+      "author": "Stephen Tailby",
+      "title": "GTA 6 Preloading Is Causing Major Download Traffic Spikes in Europe - Push Square",
+      "description": "ISPs are reporting big surges",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6-preloading-is-causing-major-download-traffic-spikes-in-europe",
+      "urlToImage": "https://images.pushsquare.com/860514e821a93/1280x720.jpg",
+      "publishedAt": "2026-11-11T16:45:00Z",
+      "content": "Image: Push Square\r\nIf you needed another clue as to how big GTA 6 is going to be, internet service providers in a number of countries are reporting inflated traffic figures in the wake of preload ac… [+1664 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Eurogamer.net"
+        "name": "9to5Mac"
       },
-      "author": "Sherif Saed",
-      "title": "Hell Let Loose's original developers' Napoleonic-era extraction game, Hunger, gets December early access release, and an open beta this month - Eurogamer.net",
-      "description": "Hunger, the ambitious, alternate history Napoleonic-era extraction shooter-melee hybrid, enters Steam early access this December.",
-      "url": "https://www.eurogamer.net/hunger-extraction-napoleonic-era-early-access-date",
-      "urlToImage": "https://assetsio.gnwcdn.com/hunger-early-access-screen-2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2026-11-11T15:41:50Z",
-      "content": "Good Fun Corp, the studio made up of the original developers behind Hell Let Loose, has finally announced a release date for its anticipated next project: Hunger. The extraction shooter-slasher game … [+1581 chars]"
+      "author": "Ryan Christoffel",
+      "title": "watchOS 27.3: Three new features coming soon to Apple Watch - 9to5Mac",
+      "description": "watchOS 27.3 is now in beta and will launch to all users next month, here are three new Apple Watch features it introduces.",
+      "url": "https://9to5mac.com/2026/11/11/watchos-27-3-three-new-features-coming-soon-to-apple-watch/",
+      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-watch-series-12-watchos-27-2-music.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-11-11T16:33:00Z",
+      "content": "watchOS 27.3 will launch to all users next month and introduce these three new Apple Watch features.\r\nSiri AI keeps getting new features and also expanding to more languages. And in watchOS 27.3, the… [+1982 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jess Weatherbed",
+      "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps - The Verge",
+      "description": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends.﻿",
+      "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Google-Labs-Tabletop.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2026-11-11T16:00:00Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nTabletop provides customizable, collaborative spaces for all your personal planning needs.\r\nTabletop provides customizable, collaborative spaces for all your per… [+2365 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Mitchel Broussard",
+      "title": "Samsung Early Black Friday Event Brings Major Sales to Frame TVs and More - MacRumors",
+      "description": "Samsung recently kicked off its own early Black Friday sale, offering big sitewide discounts on TVs, monitors, storage accessories, Galaxy...",
+      "url": "https://www.macrumors.com/2026/11/11/samsung-early-black-friday/",
+      "urlToImage": "https://images.macrumors.com/t/rsj4wAfd5Jyc25Ozw_11Z6Hsdl0=/2000x/article-new/2024/12/samsung-best-holiday.jpg",
+      "publishedAt": "2026-11-11T15:37:46Z",
+      "content": "Samsung recently kicked off its own early Black Friday sale, offering big sitewide discounts on TVs, monitors, storage accessories, Galaxy smartphones and watches, home appliances, and more. \r\nNote: … [+2165 chars]"
     },
     {
       "source": {
@@ -505,6 +570,32 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Gamingbible.com"
+      },
+      "author": "Richard Breslin",
+      "title": "Xbox Game Pass celebrates 25th anniversary with 35% off as Halo, Gears of War, and Fable added to the lineup - GAMINGbible",
+      "description": "25 years of Xbox, and our backlogs are still growing. At least Game Pass is 35% cheaper! 🎮💚",
+      "url": "https://www.gamingbible.com/news/platform/xbox/xbox-game-pass-ultimate-35-percent-off-amazon-deal-572818-20261111",
+      "urlToImage": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/blt5c49fddd976e98b3/6af46f94e4ecb447410c0401/Xbox_Game_Pass_Ultimate_drops_35_for_25th_anniversary_with_(3).png",
+      "publishedAt": "2026-11-11T15:10:35Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jay Peters",
+      "title": "Ocarina of Time is even better if you use a smartphone app - The Verge",
+      "description": "Nintendo’s Zelda Notes app for Ocarina of Time has maps and tips that make tracking down Golden Skulltulas a whole lot easier.",
+      "url": "https://www.theverge.com/games/1031321/the-legend-of-zelda-ocarina-of-time-notes-app-gold-skulltula",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/20261110-01M74FRERRH793DQ734KTJM2FA-061DB0ED-ACA3-47E5-8CA3-6B3B776C2354.jpeg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+      "publishedAt": "2026-11-11T15:00:00Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nFinding Ocarina of Times hidden collectibles is a lot easier with the help of Zelda Notes.\r\nFinding Ocarina of Times hidden collectibles is a lot easier with the… [+4511 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -515,6 +606,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/jensen-wife-jwtz/jensen-wife-jwtz-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-11T14:46:43Z",
       "content": "Lori Huang, who has been married to the Nvidia chief executive for more than 40 years, stands out among tech titan spouses for how private she has been."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PlayStation LifeStyle"
+      },
+      "author": "Zarmena Khan",
+      "title": "PS Plus Users Shouldn’t Claim New PS5 Action Game Right Away - PlayStation LifeStyle",
+      "description": "PS Plus Extra and Premium users are warned not to download a November 2026 game without checking their PS5 libraries first.",
+      "url": "https://www.playstationlifestyle.net/2026/11/11/ps-plus-game-hell-let-loose-license-warning",
+      "urlToImage": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2026/11/ps-plus-game-hell-let-loose-1.jpg?resize=1200,630",
+      "publishedAt": "2026-11-11T14:45:12Z",
+      "content": "PS Plus Extra and Premium users are warned not to download an August 2026 game without checking their PS5 libraries first. Team17s multiplayer action shooter Hell Let Loose is joining the catalog tod… [+1095 chars]"
     },
     {
       "source": {
@@ -544,29 +648,42 @@
     },
     {
       "source": {
-        "id": "mashable",
-        "name": "Mashable"
-      },
-      "author": "Matt Binder",
-      "title": "Samsung Galaxy S27 and S27 Ultra camera specs reportedly leaked - Mashable",
-      "description": "Samsung Galaxy fans may not be happy about all the changes, or lack thereof.",
-      "url": "https://mashable.com/tech/samsung-galaxy-s27-camera-specs-leak",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/02qbXqgm6gaJN8ChWS6XSyy/hero-image.fill.size_1200x675.v1794347995.jpg",
-      "publishedAt": "2026-11-11T13:07:31Z",
-      "content": "access blocked\r\nFrisco Independent School District\r\nYour access to the internet has been suspended for minutes for repeatedly attempting to visit blocked websites.\r\nYou are logged in as (IP Address: … [+7010 chars]"
-    },
-    {
-      "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "John Higgins",
-      "title": "Are your TVs spying on you? We asked their makers - The Verge",
-      "description": "After LG was accused of spying through its TVs, I wanted to see how other TV companies were collecting and protecting our data.﻿",
-      "url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268797_What_data_are_your_TVs_collecting_and_is_it_protected__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2026-11-11T13:00:00Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nAfter LG was accused of spying through its TVs, I wanted to see how other TV companies were collecting and protecting our data.\r\nby\r\nJohn HigginsClose\r\nSenior Re… [+38194 chars]"
+      "author": "Jess Weatherbed",
+      "title": "Adobe’s AI experiments let you walk around in photos and interview your characters - The Verge",
+      "description": "Adobe’s sneaks can transform images into explorable 3D scenes, design AI characters by talking to them, and turn photo editing into a copy/paste process.",
+      "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Adobe-Project-Screen-Test.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2026-11-11T14:00:00Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nHere are some of the experimental sneaks being showcased at Adobe Max.\r\nHere are some of the experimental sneaks being showcased at Adobe Max.\r\nby\r\nJess Weatherb… [+6803 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "A standard shortcut, used since the 1970s, hides a magneto-optic effect in ordinary glass fiber - Phys.org",
+      "description": "For more than 50 years, engineers have described light in optical fiber using a convenient shortcut, one that works so well it is rarely questioned. Engineers at the University of the Witwatersrand (Wits University) in Johannesburg, South Africa, have now sho…",
+      "url": "https://phys.org/news/2026-11-standard-shortcut-1970s-magneto-optic.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/the-magnetic-effect-lo.jpg",
+      "publishedAt": "2026-11-11T13:40:04Z",
+      "content": "For more than 50 years, engineers have described light in optical fiber using a convenient shortcut, one that works so well it is rarely questioned. Engineers at the University of the Witwatersrand (… [+7745 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wccftech"
+      },
+      "author": "Sarfraz Khan",
+      "title": "AMD Radeon SSD Write Bug Gets A Fix From ‘necanditool’, Whose Open-Source Tool Stops atieclxx.exe Copying Itself Every Second - Wccftech",
+      "description": "A modder's Radeon-atieclxx-SSD-Fix tool stops AMD's driver from causing up to 13 TB of SSD writes monthly without disabling the External Events Utility",
+      "url": "https://wccftech.com/amd-radeon-ssd-write-bug-gets-a-fix-from-necanditool/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Radeon-atieclxx-ssd-fix.jpg",
+      "publishedAt": "2026-11-11T13:17:21Z",
+      "content": "Even though AMD has acknowledged the driver issue and is currently working on it, a modder has prepared a tool that fixes it without stopping AMD's External Events Utility.\r\nWe recently reported that… [+1897 chars]"
     },
     {
       "source": {
@@ -584,6 +701,19 @@
     {
       "source": {
         "id": null,
+        "name": "TrustedReviews"
+      },
+      "author": "Lewis Painter",
+      "title": "Samsung Galaxy Tab S12 Plus Review: The sweet spot - Trusted Reviews",
+      "description": "The Galaxy Tab S12 Plus pairs a 12.6-inch AMOLED screen and a bundled S Pen with 7 years of updates, but a year-old chipset holds it back.",
+      "url": "https://www.trustedreviews.com/reviews/samsung-galaxy-tab-s12-plus",
+      "urlToImage": "https://www.trustedreviews.com/wp-content/uploads/sites/7/2026/11/Samsung-Galaxy-Tab-S12-Plus-2.jpg",
+      "publishedAt": "2026-11-11T12:25:37Z",
+      "content": "Verdict\r\nThe Samsung Galaxy Tab S12 Plus hits the sweet spot in Samsungs tablet range, pairing a gorgeous 12.6-inch AMOLED screen with a bundled S Pen, useful DeX multitasking and seven years of upda… [+18338 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Eurogamer.net"
       },
       "author": "Connor Makar",
@@ -593,6 +723,19 @@
       "urlToImage": "https://assetsio.gnwcdn.com/WoW_Forever_SCENIC_Announce_Skyborne_Customization_061.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "publishedAt": "2026-11-11T12:15:50Z",
       "content": "World of Warcraft secret hunters are a noble breed, known for scouring the MMO for years for hidden trinkets and treasures. With World of Warcraft: Forever's launch, they've uncovered a quest chain f… [+2755 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AL.com"
+      },
+      "author": "AL.com",
+      "title": "Google’s Gmail users warned of new hacking threat - AL.com",
+      "description": null,
+      "url": "https://www.al.com/news/2026/11/gmail-users-warned-of-new-hacking-threat.html",
+      "urlToImage": null,
+      "publishedAt": "2026-11-11T12:12:00Z",
+      "content": null
     },
     {
       "source": {
@@ -610,6 +753,19 @@
     {
       "source": {
         "id": null,
+        "name": "PhoneArena"
+      },
+      "author": "PhoneArena",
+      "title": "These Samsung Galaxy S27 dummy units show an enormous design change – and fans are not pleased - PhoneArena",
+      "description": null,
+      "url": "https://www.phonearena.com/news/galaxy-s27-dummy-enormous-design-change_id184722",
+      "urlToImage": null,
+      "publishedAt": "2026-11-11T11:25:12Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
         "name": "PCMag.com"
       },
       "author": "James Peckham",
@@ -619,19 +775,6 @@
       "urlToImage": "https://i.pcmag.com/imagery/articles/06LT6kUI6hocpoVJOyNph8o-1.fit_lim.size_1200x630.v1794391991.jpg",
       "publishedAt": "2026-11-11T10:46:10Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GamesIndustry.biz"
-      },
-      "author": "Sophie McEvoy",
-      "title": "PlayStation cancels live-service shooter Fairgames - GamesIndustry.biz",
-      "description": "Haven Games to \"shift focus to collaborating with other development teams across PlayStation\"",
-      "url": "https://www.gamesindustry.biz/playstation-cancels-live-service-shooter-fairgames",
-      "urlToImage": "https://assetsio.gnwcdn.com/Fairgames-Cancelled_11-10-26.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2026-11-11T10:40:00Z",
-      "content": "PlayStation has cancelled Fairgames, the live-service shooter previously in development at its Montreal-based subsidiary Haven Studios.\r\nIn a statement to Bloomberg, PlayStation said Haven Studios wi… [+2811 chars]"
     },
     {
       "source": {
@@ -662,19 +805,6 @@
     {
       "source": {
         "id": null,
-        "name": "Cybersecuritynews.com"
-      },
-      "author": "Guru Baran",
-      "title": "Google Chrome 0-Day Vulnerability in the Wild to Execute Malicious Code Remotely - CyberSecurityNews",
-      "description": "Google has fixed a Chrome zero-day that attackers are already using. The flaw is tracked as CVE-2026-125350, and it lets a remote attacker run malicious code in the browser. Google's Stable channel update moves Chrome to version 157.0.8103.50/.51 for Windows …",
-      "url": "https://cybersecuritynews.com/google-chrome-0-day-exploited/",
-      "urlToImage": "http://cybersecuritynews.com/wp-content/uploads/2026/11/Google-Chrome-0-Day-Exploited.webp",
-      "publishedAt": "2026-11-11T09:04:18Z",
-      "content": "Google has fixed a Chrome zero-day that attackers are already using. The flaw is tracked as CVE-2026-125350, and it lets a remote attacker run malicious code in the browser.\r\nGoogle’s Stable channel … [+3961 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Internet"
       },
       "author": "The Hacker News",
@@ -697,6 +827,19 @@
       "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3GT7PJRzHrU1jqZ7Qt0MYIOeL97NYpY4E-aY-Jh9WrLRSLpjaLEIjeAdOagTcUfo7MU9yXmk7HPgPHuGKkEidZkw-2Ojtty9z1PX2Qmmj-h0Kk3X-3VsIg6Lggpoblf-1SE5GHU9LB-P6WeOrfNVgIl1e7q0FxS6obF07BEd8HVcXgSyd_7ZSV8hB01E/s1600/ms-ai-backdoor.jpg",
       "publishedAt": "2026-11-11T07:21:00Z",
       "content": "An AI model can be given a hidden backdoor by editing fewer than 10 of its rarely used neurons, without retraining the model, Microsoft researchers have shown.\r\nWhen a chosen trigger appears, the mod… [+6287 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Cecilia D'Anastasio, Vignesh Radhakrishnan",
+      "title": "US Loses Grip on $121 Billion Mobile Gaming Sector to China - Bloomberg.com",
+      "description": "American studios are losing ground to Chinese rivals that can make games quicker, cheaper and more profitably.",
+      "url": "https://www.bloomberg.com/news/features/2026-11-10/honor-of-kings-whiteout-survival-help-china-seize-mobile-gaming-crown-from-us",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7EZDCiB6JqY/v2/1200x797.jpg",
+      "publishedAt": "2026-11-11T04:37:00Z",
+      "content": "Yang Lius parents planted roots in suburban Michigan hoping their son, who was born in China, would find success in the worlds biggest economy. In early 2020, they got their wish: End Game Interactiv… [+587 chars]"
     },
     {
       "source": {
@@ -726,32 +869,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Nicholas Sutrich",
-      "title": "Nintendo will soon discontinue Google and Apple sign-ins - 9to5Google",
-      "description": "The Nintendo Switch app is moving to passkeys as its preferred method of sign-in, deprecating the existing 3rd-party link options.",
-      "url": "http://9to5google.com/2026/11/10/nintendo-will-soon-discontinue-google-and-apple-sign-ins/",
-      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/nitendo-switch-app.jpg?quality=82&strip=all&resize=1200,628",
-      "publishedAt": "2026-11-10T23:06:00Z",
-      "content": "Nintendo Switch users have until January 25 to change how they sign in to the Nintendo Switch app on their smartphones.\r\nNintendo is going all-in on passkeys in a scheduled update to the Nintendo Swi… [+1549 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Ash Parrish",
-      "title": "Student Game Development Competition Shut Down Because Kids Kept Submitting AI Slop - Kotaku",
-      "description": "The kids are usually alright, but they messed this one up",
-      "url": "https://kotaku.com/student-game-development-competition-shut-down-because-kids-kept-submitting-ai-slop-games-2000755605",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/11/GettyImages-2218779363.jpg",
-      "publishedAt": "2026-11-10T23:00:35Z",
-      "content": "This will be the last year for the Australian STEM Videogame Challenge, a competition for young people, as the entries have grown overrun with AI-generated slop. According to a report in PC Gamer the… [+2214 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -762,6 +879,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-toyota-kei-truck-01-gpvw/10biz-toyota-kei-truck-01-gpvw-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-10T22:58:31Z",
       "content": "The automaker plans to sell Americans “Kei” pickup trucks, which are very popular in Japan and with U.S. auto enthusiasts. Even President Trump is a fan."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Guildwars2.com"
+      },
+      "author": null,
+      "title": "Champion a Noble Cause with the Extra Life 2026 Donation Bundle - Guild Wars 2",
+      "description": "The Black Lion Chests have been updated with new items, and don't miss out on our weekly discounts!",
+      "url": "https://www.guildwars2.com/en/news/champion-a-noble-cause-with-the-extra-life-2026-donation-bundle/",
+      "urlToImage": "https://guildwars2.staticwars.com/wp-content/themes/guildwars2.com-live/img/og-img.f6214476.jpg",
+      "publishedAt": "2026-11-10T22:00:50Z",
+      "content": "2026 Extra Life Donation Bundle\r\nArenaNet is back to the Extra Life campaign this year with a new bundle! The 2026 Extra Life Donation Bundle can be bought for 800 gems and will be available until De… [+2444 chars]"
     },
     {
       "source": {
@@ -817,55 +947,16 @@
     },
     {
       "source": {
-        "id": "ign",
-        "name": "IGN"
+        "id": null,
+        "name": "Lifehacker.com"
       },
-      "author": "Virginia Glaze",
-      "title": "PlayStation Plus Monthly Games for November 2026 Announced - IGN",
-      "description": "November’s lineup of games on PlayStation Plus has been revealed by Sony.",
-      "url": "https://www.ign.com/articles/playstation-plus-monthly-games-for-november-2026-announced",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/03/29/ds2-1774799779690.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "publishedAt": "2026-11-10T19:33:06Z",
-      "content": "Novembers lineup of games on PlayStation Plus has been revealed by Sony.\r\nAhead of the holiday season, PlayStation Plus members are getting a wide variety of free games that they can try out on the s… [+2073 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Ryan Whitwam",
-      "title": "Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop - Ars Technica",
-      "description": "Spruce up your home screen with expanded custom icons and AI-generated widgets.",
-      "url": "https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Pixel-11-series-6-1152x648.jpg",
-      "publishedAt": "2026-11-10T19:00:26Z",
+      "author": "Jake Peterson",
+      "title": "This Actively Exploited Chrome Vulnerability Is Putting Your Browser at Risk - Lifehacker",
+      "description": "Luckily, Google already put out a patch for this Chrome flaw.",
+      "url": "https://lifehacker.com/tech/this-actively-exploited-security-vulnerability-is-putting-your-chrome-browser",
+      "urlToImage": "https://lifehacker.com/imagery/articles/01M73DS1B5VF1E6XRWH67TK3BS/hero-image.fill.size_1200x675.jpg",
+      "publishedAt": "2026-11-10T20:00:00Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Xbox.com"
-      },
-      "author": "Danielle Partis, XBOX Wire Editor",
-      "title": "Side Effects Guaranteed in the First DLC For The Outer Worlds 2, Coming December 2 - XBOX Wire",
-      "description": "A distress signal beckons you and your crew of the Incognito to a derelict ship, where you discover the ship’s crew in suspended animation. All signs Side Effects Guaranteed is part one of a two-part narrative expansion heading to The Outer Worlds 2, introduc…",
-      "url": "https://news.xbox.com/en-us/2026/11/10/side-effects-guaranteed-the-outer-worlds-2-dlc/",
-      "urlToImage": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/XBOX_TOW-Expansion_KeyArt_Horizontal-3ff701b040bc3de8c709.jpg",
-      "publishedAt": "2026-11-10T18:03:42Z",
-      "content": "A distress signal beckons you and your crew of the Incognito to a derelict ship, where you discover the ships crew in suspended animation. All signs point to foul play, especially the puddle of what … [+3884 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gear Patrol"
-      },
-      "author": "Johnny Brayson",
-      "title": "Vacheron Constantin Gives a Sleek Update to Its Entry-Level Everyday Watch - Gear Patrol",
-      "description": "Vacheron Constantin adds to its entry-level Fiftysix collection with a pair of steel models featuring new two-tone gradient sector dials.",
-      "url": "https://www.gearpatrol.com/watches/vacheron-constantin-fiftysix-gray/",
-      "urlToImage": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/11/vacheron-FIFTYSIX-SELFWINDING-AND-FIFTYSIX-COMPLETE-CALENDAR-16x9-Lead-1.webp",
-      "publishedAt": "2026-11-10T17:45:58Z",
-      "content": "The Richemont-owned brand is considered one of the “Holy Trinity” of Swiss watchmakers alongside Patek Philippe and Audemars Piguet. It ranks as the oldest continually operating watch brand in the wo… [+1028 chars]"
     },
     {
       "source": {
@@ -908,71 +999,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Tobias Mann",
-      "title": "AMD winds up Zen 6 cores for faster clock speeds - The Register",
-      "description": "Chips boast up to 256 cores, clocks up to 5.3 GHz, and IPC gains of 20 to 31 percent, just not all on the same SKU",
-      "url": "https://www.theregister.com/systems/2026/11/10/amd-winds-up-zen-6-cores-for-faster-clock-speeds/5308603",
-      "urlToImage": "https://image.theregister.com/5308611.jpg?imageId=5308611&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "publishedAt": "2026-11-10T17:20:00Z",
-      "content": "After teasing its 256-core Epycs for more than a year, AMD is finally ready to talk about architectural changes to the Zen core that not only make it possible, but will eventually power its next gene… [+6840 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Nicholas Sutrich",
-      "title": "Nintendo Switch 2 emulation on Android already has The Legend of Zelda: Ocarina of Time remake up and running - 9to5Google",
-      "description": "Gamers are already playing The Legend of Zelda: Ocarina of Time remake on Android phones, and the performance just keeps getting better",
-      "url": "http://9to5google.com/2026/11/10/nintendo-switch-2-emulation-on-android-already-has-the-legend-of-zelda-ocarina-of-time-remake-up-and-running/",
-      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/redmagic-12-pro-zelda-ocarina-of-time-remake.jpg?quality=82&strip=all&resize=1200,628",
-      "publishedAt": "2026-11-10T16:59:00Z",
-      "content": "The Legend of Zelda: Ocarina of Time remake now runs surprisingly well on phones after just a week of additional emulator development.\r\nLegend of Zelda fans all over the world have been marveling at … [+1709 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Robert Hart",
-      "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature - The Verge",
-      "description": "It ‘pushes the frontier even further’ than its last release, Argon.﻿",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Gemini-4-Carbon-Key-Art.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2026-11-10T16:00:00Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nIt pushes the frontier even further than its last release, Argon.\r\nIt pushes the frontier even further than its last release, Argon.\r\nby\r\nRobert HartClose\r\nPosts… [+3453 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Apple TV makes sign language interpretation a built-in accessibility feature - TechCrunch",
-      "description": "Apple TV's new accessibility feature lets viewers turn on sign language interpretation within supported titles.",
-      "url": "https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/11/Apple-TV-ASL-Sign-Language-interpretation.jpg?resize=1200,800",
-      "publishedAt": "2026-11-10T16:00:00Z",
-      "content": "Apple TV is making its content more accessible to Deaf audiences with the launch of a new Sign Language Interpretation feature, the company announced on Tuesday. The feature will initially be availab… [+2794 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GameSpot"
-      },
-      "author": "Eddie Makuch",
-      "title": "GTA Releases Could Speed Up, Take-Two Boss Says - GameSpot",
-      "description": "The \"nature and velocity\" of releases from the GTA series will look \"dramatically different\" in the next 10 years.",
-      "url": "https://www.gamespot.com/articles/gta-releases-could-speed-up-take-two-boss-says/",
-      "urlToImage": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA6NewScreen-Large.jpeg",
-      "publishedAt": "2026-11-10T15:42:03Z",
-      "content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links.\r\nAccording to Take-Two boss Strauss Zelnick, the “nature and veloci… [+1427 chars]"
-    },
-    {
-      "source": {
         "id": "techcrunch",
         "name": "TechCrunch"
       },
@@ -983,19 +1009,6 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/11/MuseCharm.png?w=1200",
       "publishedAt": "2026-11-10T15:29:30Z",
       "content": "Meta is bringing its Muse AI agent to the Apple Watch and Android’s Wear OS, the company announced on Monday. With the launch, users can now interact with Metas AI assistant through voice calls, text… [+2064 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Outside"
-      },
-      "author": "Josh Ross",
-      "title": "You Can Now Run 55mm Gravel Tires on Your Zipp Road Wheels - Outside Magazine",
-      "description": "An update to the 353 NSW, 303 SW, and 202 NSW means your premium road wheels are officially gravel-ready. Nothing changed but everything changed.",
-      "url": "https://velo.outsideonline.com/gravel/gravel-gear/zipp-expands-tire-clearance/#article",
-      "urlToImage": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/11/DSC_4982-Edit.jpg",
-      "publishedAt": "2026-11-10T15:07:39Z",
-      "content": "Published November 10, 2026 08:00AM\r\nToday, Zipp announced expanded tire compatibility for three of the brands premium wheelsets. The wheels affected include the Zipp 353 NSW, 303 SW, and 202 NSW, wh… [+3769 chars]"
     },
     {
       "source": {
@@ -1028,19 +1041,6 @@
         "id": "techcrunch",
         "name": "TechCrunch"
       },
-      "author": "Ivan Mehta",
-      "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly - TechCrunch",
-      "description": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
-      "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/11/FF-AIA-PlanMode-No-Logo-4.jpg?resize=1200,675",
-      "publishedAt": "2026-11-10T14:05:10Z",
-      "content": "Adobe is pouring more AI into its products, including Photoshop, Premiere, Illustrator, and InDesign, in a major product feature announcement at its MAX event in Miami. The company is also expanding … [+2812 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
       "author": "Sarah Perez",
       "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter - TechCrunch",
       "description": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
@@ -1048,6 +1048,19 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/05/Spotify-AI-DJ-Header.jpg?w=978",
       "publishedAt": "2026-11-10T14:00:00Z",
       "content": "Spotify’s AI DJ, one of the company’s earlier efforts in embracing AI technology to connect people with their favorite music, is getting an upgrade. On Tuesday, the streamer announced that users will… [+3051 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Mark Travers",
+      "title": "The No. 1 ‘Unspoken Rule’ Of A Happy Relationship, By A Psychologist - Forbes",
+      "description": "The unspoken rule of a happy relationship is giving your partner the benefit of the doubt, and a psychologist explains why long-term couples can lose it.",
+      "url": "https://www.forbes.com/sites/traversmark/2026/11/10/the-no-1-unspoken-rule-of-a-happy-relationship-by-a-psychologist/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6af2c4435ee9aa0d6cb24ce0/0x0.jpg?format=jpg&crop=2143,1206,x0,y96,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2026-11-10T13:30:14Z",
+      "content": "Happy couples rarely talk about this rule, but most of them follow it: they give each other the benefit of the doubt.\r\ngetty\r\nMost of us assume a happy relationship comes down to communication, to be… [+5619 chars]"
     },
     {
       "source": {
@@ -1087,32 +1100,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/10/podcasts/10hardfork-jensen-huang-spy/10hardfork-jensen-huang-spy-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-10T11:00:17Z",
       "content": "Nvidia’s C.E.O., Jensen Huang, admitted to having an affair with a suspected Chinese corporate spy. Everything that means for him and the A.I. industry, and what happens next."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gematsu"
-      },
-      "author": "Sal Romano",
-      "title": "Dragon Quest RPG: The Cursed Tree and the Chosen Isle unveiled - Gematsu",
-      "description": "Publisher Square Enix and developer WFS have officially unveiled Dragon Quest RPG: The Cursed Tree and the Chosen Isle, a “classic Dragon Quest adventure” and turn-based RPG coming to i…",
-      "url": "https://www.gematsu.com/2026/11/dragon-quest-rpg-the-cursed-tree-and-the-chosen-isle-unveiled",
-      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/11/DQ-RPG-Ann_11-10-26.jpg",
-      "publishedAt": "2026-11-10T11:00:11Z",
-      "content": "About\r\nExplore, battle, and grow stronger. A classic Dragon Quest adventure, designed for your smartphone.\r\nWander far and wide, take on the monsters in your path and put your tactics to the test in … [+1593 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Cdm.link"
-      },
-      "author": "Peter Kirn",
-      "title": "Ableton Live 13 hands-on: ARA 2, Drum Synth, new effects, more - CDM Create Digital Music",
-      "description": "Ableton Live 13 is now in public beta. That includes a lot of what you've asked for, like multi-band Racks, overhauled preset navigation, and ARA 2 support for tools like Melodyne. And it's packed with new goodies: a very Ableton step sequencer, a multi-engin…",
-      "url": "https://cdm.link/ableton-live-13-hands-on-whats-new/",
-      "urlToImage": "https://cdm.link/app/uploads/2026/11/live13-1.jpg",
-      "publishedAt": "2026-11-10T10:52:12Z",
-      "content": "Ableton Live 13 is now in limited public beta. That includes a lot of what you’ve asked for, like multi-band Racks, overhauled preset navigation, and ARA 2 support for tools like Melodyne. And it’s p… [+11738 chars]"
     },
     {
       "source": {
@@ -1230,45 +1217,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/06/multimedia/06xp-floppy-qlvb/06xp-floppy-qlvb-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-06T20:45:56Z",
       "content": "Decades after the computer industry moved on, federal officials plan to finally ground the once-vaunted tech relic at the nation’s air traffic control centers."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Max Read, Erin Griffith, Whitney Jones, Sawyer Roque, Vjeran Pavic, Alyssa Moxley, Dan Powell, Elisheba Ittoop, Marion Lozano and Diane Wong",
-      "title": "Why the Tech Right Lost Big This Week",
-      "description": "“This felt like a decidedly anti-tech election.”",
-      "url": "https://www.nytimes.com/2026/11/06/podcasts/hardfork-midterms-tech-right.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/06/podcasts/06hardfork-tech-midterms-video/06hardfork-tech-midterms-video-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-06T18:26:52Z",
-      "content": "“This felt like a decidedly anti-tech election.”"
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Emmy Martin",
-      "title": "Microsoft’s Buyout Offer Sets Its Workforce on Edge",
-      "description": "As Microsoft pours billions into artificial intelligence, the company has offered buyouts to about 60,000 employees. The work force was already on edge.",
-      "url": "https://www.nytimes.com/2026/11/06/technology/microsoft-buyouts.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/07/business/06biz-microsoft-employees-SUB/06biz-microsoft-employees-SUB-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-06T12:23:09Z",
-      "content": "As Microsoft pours billions into artificial intelligence, the company has offered buyouts to about 60,000 employees. The work force was already on edge."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Victor Mather",
-      "title": "Tired of Slow TikToks? This Content Creator Gives You the Ending",
-      "description": "Videos on social media often save key details for the end. One content creator, who goes by Heyitsyoon, skips the filler so viewers don’t have to wait.",
-      "url": "https://www.nytimes.com/2026/11/06/technology/tiktok-time-saved-videos-heyitsyoon.html",
-      "urlToImage": null,
-      "publishedAt": "2026-11-06T10:00:58Z",
-      "content": "Videos on social media often save key details for the end. One content creator, who goes by Heyitsyoon, skips the filler so viewers don’t have to wait."
     }
   ]
 }

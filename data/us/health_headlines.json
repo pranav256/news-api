@@ -6,8 +6,8 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-13T02:13:53.781211+00:00",
-  "articles_count": 76,
+  "fetched_at": "2026-11-13T11:38:28.059106+00:00",
+  "articles_count": 77,
   "articles": [
     {
       "source": {
@@ -50,16 +50,55 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "KCCI Des Moines"
+        "id": "cnn",
+        "name": "CNN"
       },
-      "author": "Kelby Wingert",
-      "title": "Map shows central Iowa locations where you may have been exposed to measles - KCCI",
-      "description": "Our map shows the locations where you may have been exposed to measles in central Iowa.",
-      "url": "https://www.kcci.com/article/iowa-measles-exposure-central-iowa-ankeny-des-moines-map/74403050",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/0170236d-c943-4a61-a293-9319d6add5f9.jpg?crop=1.00xw%3A0.844xh%3B0%2C0&resize=1200%3A*",
-      "publishedAt": "2026-11-12T00:20:00Z",
-      "content": "DES MOINES, IowaThe Polk County Health Department has confirmed a measles case in a child who visited locations in Ankeny and Des Moines while contagious. The department has identified those location… [+1908 chars]"
+      "author": "Jacqueline Howard",
+      "title": "A ‘clear recommendation’ for men: Get screened for prostate cancer - CNN",
+      "description": "One of the leading cancer organizations in the United States is raising the alarm over prostate cancer and directly urging men to get screened.",
+      "url": "https://www.cnn.com/2026/11/12/health/new-prostate-cancer-screening-guideline-wellness",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1376569576.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-11-12T12:00:15Z",
+      "content": "One of the leading cancer organizations in the United States is raising the alarm over prostate cancer and directly urging men to get screened.\r\nThe American Cancer Society has updated its screening … [+14072 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Ariana Eunjung Cha",
+      "title": "Why ‘brainier’ sports may be better for people with ADHD - The Washington Post",
+      "description": "Researchers found differences in the effects of running, martial arts and more.",
+      "url": "https://www.washingtonpost.com/health/2026/11/12/why-brainier-sports-may-be-better-people-with-adhd/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/EYWDMUHSUJDDVGCEKV4AOWC2AI.jpg&w=1440",
+      "publishedAt": "2026-11-12T11:32:39Z",
+      "content": "Theres a bit of folk wisdom among mothers of kids with ADHD: Want your kid to sit still and focus at school? Get them to run around outside first.\r\nThe assumption has long been that kids simply need … [+421 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Viral olive oil shots could lead to weight gain, health expert warns - Fox News",
+      "description": "Celebrities and social media users swear by daily olive oil and lemon juice shots, but a science consultant warns of weight gain and other health risks.",
+      "url": "https://www.foxnews.com/food-drink/viral-olive-oil-shots-could-lead-weight-gain-health-expert-warns",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/olive-oil-shot-every-morning-trend-does-it-work-expert-weighs-in-2.jpg",
+      "publishedAt": "2026-11-12T11:00:37Z",
+      "content": "Taking shots of olive oil has become a popular trend on social media, with celebrities like Kourtney Kardashian and Hailey Bieber touting the practice for its supposed health benefits.\r\nHowever, some… [+3105 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Scientists discover a common sugar may help cancer cells break free and spread - Science Daily",
+      "description": "Scientists have uncovered a surprising way that fructose, a sugar commonly found in sweetened foods and drinks, may help aggressive ovarian cancer spread. Researchers discovered that cancer cells surviving chemotherapy release fructose that weakens the bonds …",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261111221501.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/cancer-cell-infecting-healthy-tissue.webp",
+      "publishedAt": "2026-11-12T04:40:22Z",
+      "content": "A common sugar found in many foods and sweetened drinks may play an unexpected role in helping aggressive ovarian cancer spread. Researchers at The Wistar Institute have discovered that cancer cells … [+8550 chars]"
     },
     {
       "source": {
@@ -77,15 +116,15 @@
     {
       "source": {
         "id": null,
-        "name": "fox8.com"
+        "name": "Nature.com"
       },
-      "author": "FOX 8 News",
-      "title": "Measles exposure reported at several locations and events in Lake and Geauga counties - FOX 8 News",
-      "description": null,
-      "url": "https://fox8.com/news/measles-exposure-at-several-locations-and-events-in-lake-and-geauga-counties/",
-      "urlToImage": null,
-      "publishedAt": "2026-11-11T22:36:44Z",
-      "content": null
+      "author": null,
+      "title": "Epigenetic heterogeneity in breast tumours informs diagnosis and prognosis - Nature",
+      "description": "Single-cell epigenetic analyses reveal a conserved epigenetic signature across patients that may help identify those at increased risk for disease relapse in breast cancer.",
+      "url": "https://www.nature.com/articles/s41586-026-11230-y",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11230-y/MediaObjects/41586_2026_11230_Fig1_HTML.png",
+      "publishedAt": "2026-11-11T22:16:41Z",
+      "content": "Human participants\r\nCollection and analyses of breast cancer tissue samples and matching blood samples were approved by the Israeli Ministry of Health Ethics Committees (Helsinki applications KMC-002… [+64053 chars]"
     },
     {
       "source": {
@@ -103,28 +142,15 @@
     {
       "source": {
         "id": null,
-        "name": "KTLA Los Angeles"
-      },
-      "author": "Jocelyn Fiset",
-      "title": "Death reported from E. coli outbreak tied to California pumpkin farm - KTLA",
-      "description": "Health officials in California reported on Tuesday that a person has died in connection with an E. coli outbreak that sickened people who all visited the same San Luis Obispo pumpkin farm in October. The San Luis Obispo County Public Health Department confirm…",
-      "url": "https://ktla.com/news/california/san-luis-obispo-pumpkin-farm-ecoli-outbreak-death/",
-      "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2026/09/2026-pumpkin-picking-tips.png?w=1280",
-      "publishedAt": "2026-11-11T22:12:04Z",
-      "content": "Health officials in California reported on Tuesday that a person has died in connection with an E. coli outbreak that sickened people who all visited the same San Luis Obispo pumpkin farm in October.… [+3945 chars]"
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
+        "name": "KCCI Des Moines"
       },
       "author": null,
-      "title": "Ebola tops 11,000 cases in Congo’s deadliest outbreak - AP News",
-      "description": "Congo's Ebola outbreak has topped 11,000 cases, highlighting the severity of the situation. The health ministry reported on Wednesday 11,042 infections and 5,387 deaths, making it Congo's deadliest outbreak. The crisis began in mid-May, and authorities have s…",
-      "url": "https://apnews.com/article/congo-ebola-outbreak-cae4cef6e48c1d2210a59c72676bff29",
-      "urlToImage": "https://dims.apnews.com/dims4/default/5f943a2/2147483647/strip/true/crop/5760x3840+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7d%2Fb9%2Ffa4d3b90a22667fdf5f88d5e8129%2Fb65ffd8607e84373bd39315c520bc508",
-      "publishedAt": "2026-11-11T22:10:27Z",
-      "content": "BUNIA, Congo (AP) Congos Ebola outbreak has topped 11,000 cases, the government said Wednesday, a stark figure that underscores the severity of the situation as the country grapples with the spread o… [+2720 chars]"
+      "title": "New measles case confirmed in central Iowa; potential exposure locations in Ankeny, Des Moines - KCCI",
+      "description": "Central Iowa health officials have confirmed another case of measles in a child.",
+      "url": "https://www.kcci.com/article/measles-in-iowa-cases-exposure-locations-ankeny-des-moines/74402453",
+      "urlToImage": "https://kubrick.htvapps.com/vidthumb/b1bfd656-64a1-4481-8141-f608a1a2aeea/d7624cae-88ee-4caa-8fa3-646f5d262626.jpg?crop=0.798xw%3A0.798xh%3B0%2C0&resize=1200%3A*",
+      "publishedAt": "2026-11-11T22:07:00Z",
+      "content": "DES MOINES, IowaCentral Iowa health officials have confirmed another case of measles in a child.\r\nPrevious video above: UnityPoint Health urges vaccinations as measles surge spreads nationwide and in… [+1512 chars]"
     },
     {
       "source": {
@@ -142,15 +168,41 @@
     {
       "source": {
         "id": null,
-        "name": "New York Post"
+        "name": "WKYC.com"
       },
-      "author": "Allie Yang",
-      "title": "The ‘dessert flip’ can help you eat healthier — while still getting a sweet treat - New York Post",
-      "description": "It’ll keep your favorite dessert on the menu while lowering the fat and sugar and boosting whole-food nutrients and fiber. No artificial sugar, cream or butter substitutes required.",
-      "url": "https://nypost.com/2026/11/11/health/dessert-flip-keeps-favorite-sweet-treat-for-healthier-benefits/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/crop-41791452_56db40.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-11-11T21:28:00Z",
-      "content": "Do you have a terrible sweet tooth? Researchers have figured out a better way to satisfy it.\r\nIt’ll keep your favorite dessert on the menu while lowering the fat and sugar and boosting whole-food nut… [+3695 chars]"
+      "author": "WKYC",
+      "title": "Measles exposure reported at 7 locations in Geauga, Lake counties - WKYC",
+      "description": null,
+      "url": "https://www.wkyc.com/article/news/health/measles-geauga-lake-counties-exposure-public-health-berkshire-kent-state-virus/95-6489a533-b341-4850-9587-bb726df35181",
+      "urlToImage": null,
+      "publishedAt": "2026-11-11T21:42:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "The Associated Press",
+      "title": "Ebola tops 11,000 cases in Congo’s deadliest outbreak - NBC News",
+      "description": "According to the latest health ministry data, 11,042 people have been infected with the deadly virus that has now killed 5,387.",
+      "url": "https://www.nbcnews.com/world/africa/ebola-tops-11000-cases-congos-deadliest-outbreak-rcna608872",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261111-congo-ebola-vsb-1610-9e490f.jpg",
+      "publishedAt": "2026-11-11T21:23:28Z",
+      "content": "BUNIA, Congo The Democratic Republic of the Congos Ebola outbreak has topped 11,000 cases, the government said Wednesday, a stark figure that underscores the severity of the situation as the country … [+2872 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KING5.com"
+      },
+      "author": "king5.com",
+      "title": "Bird flu in Washington dairy cows: Union warns of undetected cases after worker’s death - king5.com",
+      "description": null,
+      "url": "https://www.king5.com/article/news/health/bird-flu-at-washington-dairy-farms-farmworkers-union-warns-of-undetected-cases-amid-one-death/281-8c6dcfd0-3b3c-496b-87af-ec45f94ee634",
+      "urlToImage": null,
+      "publishedAt": "2026-11-11T21:19:00Z",
+      "content": null
     },
     {
       "source": {
@@ -181,15 +233,15 @@
     {
       "source": {
         "id": null,
-        "name": "Nature.com"
+        "name": "Women's Health"
       },
-      "author": null,
-      "title": "UNC13A splice correction rescues synaptic dysfunction induced by TDP-43 loss - Nature",
-      "description": "TDP-43 loss induces a predegenerative state in which neurons remain structurally intact and suffer a substantial breakdown in synaptic communication; a therapeutic strategy is found that corrects UNC13A cryptic splicing by using splice-switching antisense oli…",
-      "url": "https://www.nature.com/articles/s41586-026-11256-2",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11256-2/MediaObjects/41586_2026_11256_Fig1_HTML.png",
-      "publishedAt": "2026-11-11T19:52:30Z",
-      "content": "Cell culture (University College London)\r\nKey reagents can be found in Supplementary Table 1. SH-SY5Y cells (American Type Culture Collection (ATCC)) and SK-N-BE(2) (ATCC) with stable doxycycline-ind… [+54973 chars]"
+      "author": "Bridie Wilkins",
+      "title": "Metabolic walking builds lean muscle and promotes weight loss – try this simple workout - Women's Health",
+      "description": "Metabolic walking is a low-impact exercise routine that elevates traditional walks by adding speed intervals, inclines, or resistance. Here's how to do it.",
+      "url": "https://www.womenshealthmag.com/uk/fitness/workouts/a74398469/metabolic-walking/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/3b051a0f-141d-425d-bc9e-45f1f31713ad.jpg?crop=1.00xw:0.752xh;0,0.248xh&resize=1200:*",
+      "publishedAt": "2026-11-11T20:02:37Z",
+      "content": "Between Japanese interval walking, the viral 12-3-30 treadmill walk and soft hiking, walking has evolved from a basic daily habit into something you can tailor to target specific benefits. You can us… [+6124 chars]"
     },
     {
       "source": {
@@ -207,54 +259,41 @@
     {
       "source": {
         "id": null,
-        "name": "Nature.com"
+        "name": "Futurity: Research News"
       },
-      "author": null,
-      "title": "Epigenetic heterogeneity in breast tumours informs diagnosis and prognosis - Nature",
-      "description": "Single-cell epigenetic analyses reveal a conserved epigenetic signature across patients that may help identify those at increased risk for disease relapse in breast cancer.",
-      "url": "https://www.nature.com/articles/s41586-026-11230-y",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11230-y/MediaObjects/41586_2026_11230_Fig1_HTML.png",
-      "publishedAt": "2026-11-11T19:41:15Z",
-      "content": "Human participants\r\nCollection and analyses of breast cancer tissue samples and matching blood samples were approved by the Israeli Ministry of Health Ethics Committees (Helsinki applications KMC-002… [+64053 chars]"
+      "author": "U. Copenhagen",
+      "title": "Regular coffee drinking appears to change how your gut works - Futurity",
+      "description": "If you drink coffee regularly, it appears to alter not only your gut bacteria but also the physiology of the gut itself.",
+      "url": "https://www.futurity.org/coffee-gut-function-changes-3352622/",
+      "urlToImage": "https://www.futurity.org/wp/wp-content/uploads/2026/11/coffee-gut-function-changes-1600.jpg",
+      "publishedAt": "2026-11-11T19:01:22Z",
+      "content": "If you drink coffee regularly, it appears to alter not only your gut bacteria but also the physiology of the gut itself.\r\nThat’s the conclusion of a study from the University of Copenhagen, which may… [+3690 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Mary Walrath-Holdridge",
+      "title": "More newborns are bleeding. Why they need vitamin K shots - USA Today",
+      "description": "Two new studies found an accelerating trend of parents refusing vitamin K shots at birth and, at the same time, more reports of babies bleeding.",
+      "url": "https://www.usatoday.com/story/news/health/2026/11/10/more-parents-rejecting-newborn-vitamin-k-shots/92710769007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/10/USAT/92713369007-getty-images-2226556998.jpg?crop=2120,1193,x0,y0&width=2120&height=1193&format=pjpg&auto=webp",
+      "publishedAt": "2026-11-11T17:59:00Z",
+      "content": "More babies are suffering life-threatening bleeding as a rising number of parents in the United States refuse a shot typically given to reduce that risk, according to two new studies.\r\nThe studies, b… [+7489 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Eatingwell.com"
+        "name": "FOX 4 News"
       },
-      "author": "https://www.facebook.com/EatingWell/",
-      "title": "16 High-Protein Vegetarian Breakfasts That Aren’t Eggs - EatingWell",
-      "description": "Eggs aren’t the only way to start your day! These breakfast recipes feature a variety of options that make your morning delicious and nutritious.",
-      "url": "https://www.eatingwell.com/high-protein-vegetarian-breakfasts-that-aren-t-eggs-12247060",
-      "urlToImage": "https://www.eatingwell.com/thmb/f_TO3WMpPZe71aTuSc37kksLjjE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Eating-Well-April-High-Protein-Black-Bean-Breakfast-Bowl-Beauty-Overhead-1x1-7450f70c861444a8afa840ea3e217a53.jpg",
-      "publishedAt": "2026-11-11T17:30:00Z",
-      "content": "Photographer: Victor Protasio, Food Stylist: Julian Hensarling, Prop Stylist: Christina Daley.\r\nThese Biscoff overnight oats turn the flavors of the popular spiced cookie into an easy make-ahead brea… [+5571 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Medical Xpress"
-      },
-      "author": null,
-      "title": "New review of the first oral PCSK9 drug, a needle-free option for high cholesterol - Medical Xpress",
-      "description": "A new review from Binghamton University School of Pharmacy and Pharmaceutical Science explores how Lipfendra (enlicitide) can be beneficial for those who have intolerances to injectable medications. The review was recently published in Annals of Pharmacothera…",
-      "url": "https://medicalxpress.com/news/2026-11-oral-pcsk9-drug-needle-free.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/new-review-of-the-firs.jpg",
-      "publishedAt": "2026-11-11T17:20:01Z",
-      "content": "A new review from Binghamton University School of Pharmacy and Pharmaceutical Science explores how Lipfendra (enlicitide) can be beneficial for those who have intolerances to injectable medications. … [+2078 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Sheetal Banchariya",
-      "title": "Another outbreak of E. coli rocks California as nine kids struck and popular beach shut down - New York Post",
-      "description": "Nine children have been sickened by another E. coli outbreak in California as a popular beach was shut down.",
-      "url": "https://nypost.com/2026/11/11/us-news/santa-cruz-county-beach-closed-after-children-sickened-with-e-coli/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/beach.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-11-11T17:04:00Z",
-      "content": "Nine children have been sickened by another E. coli outbreak in California as a popular beach was shut down.\r\nThe County of Santa Cruz and the City of Capitola announced Tuesday that Capitola Beach i… [+2454 chars]"
+      "author": "Tracy DeLatte",
+      "title": "Dallas County child dies from the flu - FOX 4 News Dallas-Fort Worth",
+      "description": "Dallas County health officials have reported the area's first pediatric flu death since 2022.",
+      "url": "https://www.fox4news.com/news/dallas-county-child-dies-from-flu",
+      "urlToImage": "https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2026/11/1200/630/v-north-texas-pediatric-flu-cases-4a_kdfw2be1_146__00.00.06.50.jpg?ve=1&tl=1",
+      "publishedAt": "2026-11-11T17:05:43Z",
+      "content": "DALLAS - Dallas County is reporting its first pediatric flu death since 2022.\r\nIt's another sign that the flu season is hitting earlier and more aggressively than in previous years.\r\nWhat we know:\r\nC… [+1641 chars]"
     },
     {
       "source": {
@@ -272,28 +311,15 @@
     {
       "source": {
         "id": null,
-        "name": "New York Post"
+        "name": "Nature.com"
       },
-      "author": "Allie Yang",
-      "title": "Some GLP-1 patients suffer hallucinations, other psychotic symptoms after stopping drugs - New York Post",
-      "description": "Stop taking GLP-1s, and the weight will likely come back fast — and new reports warn your mental health can suffer too.",
-      "url": "https://nypost.com/2026/11/11/health/hallucination-other-psychotic-symptoms-after-stopping-glp-1s-report/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/newspress-collage-qiec23fv0-1794408069550.jpg?quality=75&strip=all&1794390242&w=1200",
-      "publishedAt": "2026-11-11T15:11:00Z",
-      "content": "By the end of their first year on GLP-1s, more than half of patients stop taking the medication.\r\nThere are a number of reasons for this, including high costs, unpleasant side effects and satisfactio… [+4177 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Scrippsnews.com"
-      },
-      "author": "Lori Jane Gliha, Brittany Freeman",
-      "title": "Patients scramble to reverse surgeries after learning rabies killed their tissue donor - Scripps News",
-      "description": "A donor’s undetected rabies infection led to a fatal organ transplant and exposed cornea recipients, raising questions about transplant screening.",
-      "url": "https://www.scrippsnews.com/investigations/rabies/patients-scramble-to-reverse-surgeries-after-learning-rabies-killed-their-tissue-donor",
-      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/566ee2d/2147483647/strip/true/crop/1619x850+0+30/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F80%2F3d%2F263e3d8448e78ecd50cc85447326%2Frabies.png",
-      "publishedAt": "2026-11-11T14:08:37Z",
-      "content": "On his Sunday away from work as an eye surgeon, Dr. Huck Holz had planned an exciting backcountry ski trip in February 2025.\r\nPAST REPORTING: \r\nHe and a friend decided to hike the massive, snow-fille… [+15607 chars]"
+      "author": null,
+      "title": "Saturation genome editing of BRCA1 across cell types improves interpretation of variant pathogenicity - Nature",
+      "description": "Saturation genome editing maps the functional effects of thousands of BRCA1 variants across two complementary cell models. Discordantly scored variants reflect the importance of context and provide insights for improving BRCA1 variant interpretation.",
+      "url": "https://www.nature.com/articles/s41588-026-02832-3",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41588-026-02832-3/MediaObjects/41588_2026_2832_Fig1_HTML.png",
+      "publishedAt": "2026-11-11T14:25:11Z",
+      "content": "This study complies with all relevant ethical regulations. Ethical oversight is maintained for both UK Biobank and BRIDGES. UK Biobank data were accessed under application 102655, and access to BRIDG… [+24751 chars]"
     },
     {
       "source": {
@@ -307,6 +333,19 @@
       "urlToImage": "https://www.sciencealert.com/images/2026/11/old-man-water.jpg",
       "publishedAt": "2026-11-11T14:04:13Z",
       "content": "Fluoride does a world of good for your teeth, but its inclusion in drinking water is not without controversy.\r\nWhile there's little doubt about its ability to help prevent tooth decay, public concern… [+3768 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Energy drinks linked to 11 times more reports of cardiac arrest - Science Daily",
+      "description": "A new study found that energy drinks and stimulant supplements were linked to disproportionately frequent reports of serious heart problems, including 11 times more reports of cardiac arrest and 4.5 times more reports of heart attacks. Young adults accounted …",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261110042543.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/cybersport-gamer-drinking-energy-drink.webp",
+      "publishedAt": "2026-11-11T13:13:22Z",
+      "content": "Energy drinks and stimulant supplements are raising new concerns about heart health after researchers discovered a striking pattern in reports of serious cardiovascular emergencies. Products containi… [+9816 chars]"
     },
     {
       "source": {
@@ -362,19 +401,6 @@
     },
     {
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Margaret Hetherman",
-      "title": "What to do if you, or someone around you, might be having a heart attack - The Washington Post",
-      "description": "Heart attacks are more common in the winter months. Here's how to recognize the symptoms, and the best ways to respond.",
-      "url": "https://www.washingtonpost.com/health/2026/11/11/what-do-if-you-or-someone-around-you-might-be-having-heart-attack/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/BOGWQN7R7Z3AZN6UG3QBYVUMHE.jpg&w=1440",
-      "publishedAt": "2026-11-11T11:32:52Z",
-      "content": "In the United States, someone has a heart attack every 40 seconds, according to the Centers for Disease Control and Prevention. And while far fewer people die of heart attacks than they once did, as … [+370 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Abcnews.com"
       },
@@ -401,16 +427,16 @@
     },
     {
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
+        "id": "newsweek",
+        "name": "Newsweek"
       },
-      "author": "Erica Sloan",
-      "title": "New study suggests bedroom air purifier may support healthy blood sugar - The Washington Post",
-      "description": "In preliminary research, people with prediabetes who used a HEPA air purifier overnight for a month experienced modest improvements in blood sugar stability.",
-      "url": "https://www.washingtonpost.com/wellness/2026/11/11/new-study-suggests-bedroom-air-purifier-may-support-healthy-blood-sugar/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7CQSWVZPOEIEIQ6QLGS3P5FJAU_size-normalized.jpg&w=1440",
-      "publishedAt": "2026-11-11T10:07:43Z",
-      "content": "How much you move and the foods you eat arent the only lifestyle factors that can influence your blood sugar: the air you breathe could play a role, too.\r\nA new study suggests that, if you have predi… [+80 chars]"
+      "author": "Melissa Fleur Afshar",
+      "title": "Scientists Wipe Out Deadly Childhood Brain Tumors in Every Mouse Tested - Newsweek",
+      "description": "Researchers found a way to switch cancer-fighting immune cells on inside the brain, with striking early results.",
+      "url": "https://www.newsweek.com/scientists-wipe-out-deadly-childhood-brain-tumors-in-every-mouse-tested-12694843",
+      "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2026/11/GettyImages-2226756753.jpg?w=1200&crop=1",
+      "publishedAt": "2026-11-11T09:02:00Z",
+      "content": "Scientists have eliminated an aggressive childhood brain cancer in every mouse tested using an experimental immune-cell therapy designed to switch on only after it enters the brain.\r\nThe findings cou… [+4312 chars]"
     },
     {
       "source": {
@@ -437,6 +463,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/09/well/WELL-DEPRESSION-MEDS1/WELL-DEPRESSION-MEDS1-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-10T23:30:23Z",
       "content": "In the meta-analysis, a few drugs stood out for offering greater effectiveness over time."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Medical Xpress"
+      },
+      "author": null,
+      "title": "Study identifies antidepressants that get patients well and keep them well - Medical Xpress",
+      "description": "Worldwide, nearly 6% of people experience depression. Many of them continue taking antidepressants after achieving symptomatic improvement, among other reasons to prevent a relapse of depression. An international team of researchers investigated which antidep…",
+      "url": "https://medicalxpress.com/news/2026-11-antidepressants-patients.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/content-person.jpg",
+      "publishedAt": "2026-11-10T23:30:22Z",
+      "content": "Worldwide, nearly 6% of people experience depression. Many of them continue taking antidepressants after achieving symptomatic improvement, among other reasons to prevent a relapse of depression. An … [+2938 chars]"
     },
     {
       "source": {
@@ -479,6 +518,19 @@
     },
     {
       "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Dan  Raby",
+      "title": "Health officials confirm additional measles infections connected with case in Macon County - CBS News",
+      "description": "Officials believe the original infection in Georgia's Macon County was connected with a confirmed measles case in Pennsylvania.",
+      "url": "https://www.cbsnews.com/atlanta/news/health-officials-confirm-additional-measles-infections-connected-with-case-in-macon-county/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/10/dd1801f0-252f-438f-b240-868b2a0ddf24/thumbnail/1200x630/ba761064cb579adbf03c11850f783042/gettyimages-2216873572.jpg",
+      "publishedAt": "2026-11-10T21:59:01Z",
+      "content": "Georgia health officials say they have confirmed three new cases of measles connected to an outbreak in Macon County.\r\nAccording to the Georgia Department of Public Health, all three new cases were c… [+2015 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "Gothamist"
       },
@@ -489,19 +541,6 @@
       "urlToImage": "https://api-prod.gothamist.com/images/362416/fill-1200x650|format-webp|webpquality-85/",
       "publishedAt": "2026-11-10T20:14:00Z",
       "content": "People killed surfing on top of New York City subway trains tend to be teen boys diagnosed with ADHD, according to a new study published this week.\r\nThe trend of young people subway surfing has persi… [+3082 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Abcnews.com"
-      },
-      "author": "ABC News - Breaking News, Latest News and Videos",
-      "title": "Measles cases grow among pregnant women in Pennsylvania: What to know about risks - ABC News - Breaking News, Latest News and Videos",
-      "description": null,
-      "url": "https://abcnews.com/Health/measles-cases-grow-pregnant-women-pennsylvania-risks/story?id\\\\u003d137986608",
-      "urlToImage": null,
-      "publishedAt": "2026-11-10T19:25:34Z",
-      "content": null
     },
     {
       "source": {
@@ -557,42 +596,29 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Futurism"
+        "id": "fox-news",
+        "name": "Fox News"
       },
-      "author": "Joe Wilkins",
-      "title": "Energy Drinks Loaded With Bizarre Chemicals Are Causing Heart Attacks in Healthy Young People - Futurism",
-      "description": "A new study by the American Heart Association is shedding some light on the horrible toll energy drinks take on the human heart.",
-      "url": "https://futurism.com/health-medicine/energy-drinks-heart-attack-chemicals-research",
-      "urlToImage": "https://futurism.com/wp-content/uploads/2026/11/energy-drinks-chemicals-heart-attacks.jpg?w=1200",
-      "publishedAt": "2026-11-10T16:46:50Z",
-      "content": "Can’t-miss innovations from the bleeding edge of science and tech\r\nWho’d have thought that pumping cans of cheap and colorful caffeine bombs into every gas station in the country could be bad for pub… [+2371 chars]"
+      "author": "Fox News",
+      "title": "Aggressive cancer type linked to common chemical exposure in new study - New York Post",
+      "description": "NIH researchers found women with high exposure to two “forever chemicals” had up to a 93% higher rate of aggressive ER-negative breast cancer.",
+      "url": "https://www.foxnews.com/health/aggressive-cancer-type-linked-common-chemical-exposure-new-study",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/148225444.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-11-10T16:21:00Z",
+      "content": "Two “forever chemicals” have been associated with a higher risk of aggressive breast cancer, according to research from the National Institutes of Health (NIH).\r\nForever chemicals, known as PFAS, are… [+6102 chars]"
     },
     {
       "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
+        "id": "fox-news",
+        "name": "Fox News"
       },
-      "author": "Daniella Gray",
-      "title": "Popular GLP-1 Weight Loss Drugs Linked to Potential Effects on Brain Health - Newsweek",
-      "description": "The study author told Newsweek the Alzheimer's results sharpen the question of how to make GLP-1 effects stronger, and in whom.",
-      "url": "https://www.newsweek.com/popular-glp-1-weight-loss-drugs-linked-to-potential-effects-on-brain-health-12693646",
-      "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2026/11/GLP-1s-Could-Protect-the-Brain.png?w=1200&crop=1",
-      "publishedAt": "2026-11-10T16:27:00Z",
-      "content": "Ground-breaking obesity drugs have transformed weight-loss treatment, and scientists are now investigating whether their effects could extend much further, potentially helping to protect the brain. \r… [+4209 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "News-Medical.Net"
-      },
-      "author": null,
-      "title": "Regular coffee consumption alters gut bacteria and digestive physiology - News-Medical",
-      "description": "If you drink coffee regularly, it appears to alter not only your gut bacteria but also the physiology of the gut itself. That is the conclusion of a study from the University of Copenhagen, which may help point the way towards better treatments for constipati…",
-      "url": "https://www.news-medical.net/news/20261110/Regular-coffee-consumption-alters-gut-bacteria-and-digestive-physiology.aspx",
-      "urlToImage": "https://www.news-medical.net/image-handler/picture/2016/3/Coffee_-_AlikeYou_0a52615397d94b71b0bcee5906adb28f-620x480.jpg",
-      "publishedAt": "2026-11-10T16:11:00Z",
-      "content": "If you drink coffee regularly, it appears to alter not only your gut bacteria but also the physiology of the gut itself. That is the conclusion of a study from the University of Copenhagen, which may… [+3988 chars]"
+      "author": "Fox News",
+      "title": "Why you’re cooking broccoli the wrong way — and stripping away its health benefits - New York Post",
+      "description": "Boiling broccoli leaches key nutrients like vitamin C. Experts recommend steaming or chopping florets 40 minutes before cooking to retain benefits.",
+      "url": "https://www.foxnews.com/food-drink/popular-cooking-methods-may-destroy-key-health-benefits-broccoli-experts-warn",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/crop-41767303.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-11-10T16:19:00Z",
+      "content": "Not all methods of cooking broccoli are created equal, and some simple tips can ensure you get the most nutrients out of it.\r\nWhether it’s steamed, roasted or added to a stir-fry, broccoli is a healt… [+4706 chars]"
     },
     {
       "source": {
@@ -622,55 +648,29 @@
     },
     {
       "source": {
-        "id": "fox-news",
-        "name": "Fox News"
+        "id": null,
+        "name": "NPR"
       },
-      "author": null,
-      "title": "Aggressive cancer type linked to common chemical exposure in new study - Fox News",
-      "description": "A new NIH study links PFOA and PFOS forever chemicals to a 67% and 93% higher rate of ER-negative breast cancer, raising urgent questions. Experts weigh in.",
-      "url": "https://www.foxnews.com/health/aggressive-cancer-type-linked-common-chemical-exposure-new-study",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/woman-pouring-tap-water.jpg",
-      "publishedAt": "2026-11-10T12:00:00Z",
-      "content": "Two \"forever chemicals\" have been associated with a higher risk of aggressive breast cancer, according to research from the National Institutes of Health (NIH).\r\nForever chemicals, known as PFAS, are… [+5648 chars]"
+      "author": "Maria Godoy",
+      "title": "How word of mouth is helping an Amish community's fight against measles - NPR",
+      "description": "In Pennsylvania, health officials use a quiet vaccination campaign designed to win the trust of the state's Amish community, which has been hit hard by the measles outbreak.",
+      "url": "https://www.npr.org/2026/11/10/nx-s1-6021511/pennsylvania-amish-measles-vaccine-trust",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+0/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbd%2Fa6%2Fcc5e1ac9447eb4899a9f7bb3319a%2F20261028-npr-measlesvaccinepa-vasta-137-horz.jpg",
+      "publishedAt": "2026-11-10T10:00:00Z",
+      "content": "Measles spreads incredibly fast. For the last few months, so has Dale Weiser's phone number.\r\nWeiser is the clinical services supervisor for the Chester County Health Department in south-central Penn… [+8436 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Science Daily"
+        "name": "WZTV"
       },
-      "author": null,
-      "title": "Why heart attacks can still happen even when bad cholesterol is low - Science Daily",
-      "description": "Even when bad cholesterol is brought down to healthy levels, some people remain at risk of heart attacks, and scientists may have discovered why. Researchers identified two types of fat-carrying particles that appear to promote inflammation and damage blood v…",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261109205415.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/male-anatomy-heart-attack-ecg-graph-cardiology.webp",
-      "publishedAt": "2026-11-10T11:58:08Z",
-      "content": "Researchers at Chalmers University of Technology in Sweden have uncovered new clues about why some people develop heart disease even after lowering their bad cholesterol to recommended levels. Their … [+10251 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Popular cooking methods may destroy key health benefits of broccoli, experts warn - Fox News",
-      "description": "Boiling broccoli drains vitamin C and glucoraphanin, but chopping florets 30 to 40 minutes before cooking may help preserve cancer-fighting compounds.",
-      "url": "https://www.foxnews.com/food-drink/popular-cooking-methods-may-destroy-key-health-benefits-broccoli-experts-warn",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/broccoli-in-hand.jpg",
-      "publishedAt": "2026-11-10T11:00:09Z",
-      "content": "Not all methods of cooking broccoli are created equal, and some simple tips can ensure you get the most nutrients out of it.\r\nWhether it's steamed, roasted or added to a stir-fry, broccoli is a healt… [+4105 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": null,
-      "title": "An 11-day-old baby couldn’t stop bleeding. For hours, the ER didn’t provide a critical vitamin shot. - CNN",
-      "description": "When Baby Gwen was born, her parents decided not to have her receive a vitamin K injection, though it’s been standard practice for decades, and gave her drops instead. The emergency room doctor who first treated Gwen tried seven methods to stop the bleeding f…",
-      "url": "https://www.cnn.com/2026/11/10/health/vitamin-k-infant-bleeding",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20260810-bazan-vitamink-018.JPG?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-11-10T10:00:16Z",
-      "content": "This story was originally published by ProPublica, a nonprofit newsroom that investigates abuses of power. Sign up for Dispatches, a newsletter that spotlights wrongdoing around the country, to recei… [+29168 chars]"
+      "author": "Dennis Ferrier",
+      "title": "Mysterious tick disease affecting a new Tennessean every day - WZTV",
+      "description": "A single tick bite can trigger a potentially life-threatening allergy to red meat. Now, for the first time, Tennessee is tracking the condition, and the numbers",
+      "url": "https://fox17.com/fox-17-investigates/mysterious-tick-disease-effecting-a-new-tennessean-every-day",
+      "urlToImage": "https://fox17.com/resources/media2/16x9/988/1320/0x1/90/cd280d4e-6ccb-4797-87ad-1a8c06927546-Screenshot20261109192632.png",
+      "publishedAt": "2026-11-10T01:45:55Z",
+      "content": "NASHVILLE, Tenn. (WZTV) A single tick bite can trigger a potentially life-threatening allergy to red meat. Now, for the first time, Tennessee is tracking the condition, and the numbers are raising co… [+7385 chars]"
     },
     {
       "source": {
@@ -684,6 +684,19 @@
       "urlToImage": "https://www.cidrap.umn.edu/sites/default/files/styles/layout_large/public/article/Tired%20woman%20sitting%20on%20a%20sofa.jpg?itok=acSkVZGb",
       "publishedAt": "2026-11-09T21:22:35Z",
       "content": "A new study links COVID-19 infection to substantially fewer long-term health problems than previous research suggests. \r\nFor the analysis, published in PNAS, researchers led by a team at Stanford Uni… [+2747 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Medical Xpress"
+      },
+      "author": null,
+      "title": "Blood pressure medication combo linked to fewer irregular heart rhythms after ablation - Medical Xpress",
+      "description": "Among older adults with high blood pressure and atrial fibrillation, treatment with a combination of two blood pressure medications was associated with fewer recurring irregular heart rhythms after an ablation procedure compared with only one of the medicatio…",
+      "url": "https://medicalxpress.com/news/2026-11-blood-pressure-medication-combo-linked.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/blood-pressure-medicat-2.jpg",
+      "publishedAt": "2026-11-09T20:40:25Z",
+      "content": "Among older adults with high blood pressure and atrial fibrillation, treatment with a combination of two blood pressure medications was associated with fewer recurring irregular heart rhythms after a… [+6025 chars]"
     },
     {
       "source": {
@@ -713,19 +726,6 @@
     },
     {
       "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Men and women who smoke marijuana may experience different effects, study suggests - Fox News",
-      "description": "UCLA researchers found occasional male cannabis users reported stronger effects like anxiety and elevated heart rate than women with similar THC levels.",
-      "url": "https://www.foxnews.com/health/men-women-smoke-marijuana-may-experience-different-effects-study-suggests",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/man-lighting-joint.jpg",
-      "publishedAt": "2026-11-09T16:55:22Z",
-      "content": "Men who use cannabis occasionally may feel stronger effects from the drug than women with similar use habits, new research suggests.\r\nThe UCLA Health study, published in the journal Neuropsychopharma… [+3644 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -736,19 +736,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/27/multimedia/00SCI-ADA-CONTROVERSY-01-stillpromo/00SCI-ADA-CONTROVERSY-01-stillpromo-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-09T16:41:41Z",
       "content": "It began with a protest at an American Diabetes Association conference. Now a resulting boycott has caused a scientific slowdown, with no end in sight."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eatingwell.com"
-      },
-      "author": "https://www.facebook.com/EatingWell/",
-      "title": "4 Early Cancer Symptoms Doctors Say You Shouldn’t Ignore - EatingWell",
-      "description": "Early general cancer symptoms like lingering cough and unexplained weight loss could be warning signs. Learn when to seek medical advice here.",
-      "url": "https://www.eatingwell.com/early-general-cancer-symptoms-you-shouldnt-ignore-12238470",
-      "urlToImage": "https://www.eatingwell.com/thmb/LjJSlu7upneIcd-1VjVdutMNtHQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4-Early-General-Cancer-Symptoms-You-Should-Not-Ignore-21dd1cff620b41d9aade1a1445fb0f98.jpg",
-      "publishedAt": "2026-11-09T13:00:00Z",
-      "content": "When life gets busy (thats all the time, right?), its easy to brush aside seemingly minor symptoms like a cough that lasts for almost a month or weight loss that you werent expecting. But symptoms li… [+4289 chars]"
     },
     {
       "source": {
@@ -801,6 +788,19 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3377x1900+0+0/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6b%2F85%2F9d06ecf54cf2ac215537c97c83dd%2Fcafacbd0-ee7e-48d5-b8ae-fb2c8ab790e6.jpeg",
       "publishedAt": "2026-11-09T08:00:00Z",
       "content": "The explosion of GLP-1 drugs has created a gray zone for pregnancy. That recently prompted the American College of Obstetricians and Gynecologists to issue its first ever guidance on the topic. In a … [+927 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Erica Sloan",
+      "title": "Why you end up coughing for weeks after a cold — and what to do about it - The Washington Post",
+      "description": "Experts share the habits and triggers to avoid, plus the remedies that could help alleviate a persistent hack following a respiratory infection.",
+      "url": "https://www.washingtonpost.com/wellness/2026/11/08/why-you-keep-coughing-weeks-after-cold-how-help-soothe-it/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2GLT6L2VJALDZ4BLUSXGZOVIVY_size-normalized.jpg&w=1440",
+      "publishedAt": "2026-11-08T19:00:00Z",
+      "content": "Getting over a cold is one thing, but sometimes, it can feel like shaking that nagging cough is another.\r\nMost respiratory infections, such as the common cold, flu, covid-19 and RSV are caused by vir… [+100 chars]"
     },
     {
       "source": {
@@ -869,6 +869,32 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Parade"
+      },
+      "author": "Jessica Sager",
+      "title": "Flu Alert: Get Tested for Fever and Body Aches This November 2026 - AOL.com",
+      "description": "Plus, tips for how to stay healthy to start your holiday season safely.",
+      "url": "https://parade.com/health/flu-symptoms-november-2026",
+      "urlToImage": "https://hermes.media.static.aol.com/media/2026/11/06/524c465a-de2f-34a0-9bf2-ec718f6be231/e69d2047-19ef-4faa-8a10-a91741592047.jpg",
+      "publishedAt": "2026-11-06T19:25:00Z",
+      "content": "Guys, getting the flu sucks whenever you catch itbut is there anything worse than feeling like crap near Thanksgiving, when you should just be happy, bloated and full?\r\nWhile getting an annual flu va… [+8726 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "News-Medical.Net"
+      },
+      "author": null,
+      "title": "Occasional male cannabis users experience stronger effects than women - News-Medical",
+      "description": "Men who use cannabis occasionally reacted more strongly to smoked cannabis than women with similar use habits, even though the amount of THC in their blood was about the same, according to a new study from UCLA Health.",
+      "url": "https://www.news-medical.net/news/20261106/Occasional-male-cannabis-users-experience-stronger-effects-than-women.aspx",
+      "urlToImage": "https://www.news-medical.net/image-handler/picture/2014/7/Cannabis-620x480.jpg",
+      "publishedAt": "2026-11-06T16:33:00Z",
+      "content": "Men who use cannabis occasionally reacted more strongly to smoked cannabis than women with similar use habits, even though the amount of THC in their blood was about the same, according to a new stud… [+3092 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -918,19 +944,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/04/multimedia/04dc-arbitators-jwgf/04dc-arbitators-jwgf-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-05T20:34:26Z",
       "content": "The two companies settled billing disputes between doctors and insurers, keeping patients out of the middle. One let doctors win 96 percent of the time."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "David Nield",
-      "title": "Breakthrough: FDA Approves First Drug Offering a 'Functional Cure' For Chronic Hepatitis B - Yahoo",
-      "description": "'The start of a new era.'",
-      "url": "https://www.sciencealert.com/breakthrough-fda-approves-first-drug-offering-a-functional-cure-for-chronic-hepatitis-b",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/7e817a1bf3b5afbde7a368a785b2bce4a36634f9bd2c2d2c777791364bcc9bc1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsciencealert_160%2F9adb92a49558fbf7f6fc61f875c62473.jpg",
-      "publishedAt": "2026-11-05T03:00:00Z",
-      "content": "There's new hope for the millions of people affected by chronic hepatitis B (CHB), a liver condition that can lead to cancer, scarring, or organ failure, and which is responsible for over a million d… [+4156 chars]"
     },
     {
       "source": {
