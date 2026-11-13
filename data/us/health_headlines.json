@@ -6,8 +6,8 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-13T11:38:28.059106+00:00",
-  "articles_count": 77,
+  "fetched_at": "2026-11-13T18:48:59.851714+00:00",
+  "articles_count": 75,
   "articles": [
     {
       "source": {
@@ -19,7 +19,7 @@
       "description": "Most Democrats abhor the health secretary’s stance on vaccines, but some see an opportunity to win voters from his MAHA movement by joining with him on food and environmental issues.",
       "url": "https://www.nytimes.com/2026/11/12/us/politics/rfk-jr-democrats-impeach.html",
       "urlToImage": "https://static01.nyt.com/images/2026/12/07/multimedia/07DC-RFK-FUTURE-top-mgkj/07DC-RFK-FUTURE-top-mgkj-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-12T18:18:11Z",
+      "publishedAt": "2026-11-13T14:38:11Z",
       "content": "Most Democrats abhor the health secretary’s stance on vaccines, but some see an opportunity to win voters from his MAHA movement by joining with him on food and environmental issues."
     },
     {
@@ -50,16 +50,55 @@
     },
     {
       "source": {
-        "id": "cnn",
-        "name": "CNN"
+        "id": "nbc-news",
+        "name": "NBC News"
       },
-      "author": "Jacqueline Howard",
-      "title": "A ‘clear recommendation’ for men: Get screened for prostate cancer - CNN",
-      "description": "One of the leading cancer organizations in the United States is raising the alarm over prostate cancer and directly urging men to get screened.",
-      "url": "https://www.cnn.com/2026/11/12/health/new-prostate-cancer-screening-guideline-wellness",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1376569576.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-11-12T12:00:15Z",
-      "content": "One of the leading cancer organizations in the United States is raising the alarm over prostate cancer and directly urging men to get screened.\r\nThe American Cancer Society has updated its screening … [+14072 chars]"
+      "author": "David Cox",
+      "title": "For alpha-gal patients, allergy drug could cut the severity of reactions to red meat - NBC News",
+      "description": "There’s emerging evidence that the allergy drug omalizumab may reduce severe allergic reactions for alpha-gal syndrome, a red meat allergy triggered by a tick bite.",
+      "url": "https://www.nbcnews.com/health/health-news/alpha-gal-patients-allergy-drug-cut-severity-reactions-red-meat-rcna608856",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261111-lone-star-tick-ww-1201-4d5974.jpg",
+      "publishedAt": "2026-11-12T15:00:59Z",
+      "content": "Theres emerging evidence that the allergy drug omalizumab may reduce severe allergic reactions for alpha-gal syndrome, a red meat allergy triggered by a tick bite. \r\nIn a study presented Thursday at … [+7222 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Caitlin Carlson",
+      "title": "Food allergy treatment can be life-changing. Here’s what to know. - The Washington Post",
+      "description": "Some therapies can dramatically raise the amount of an allergen a person can tolerate, but they aren’t a cure.",
+      "url": "https://www.washingtonpost.com/wellness/2026/11/12/food-allergy-treatment-can-be-life-changing-heres-what-know/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Z52S6CMWDVJXC7QDBGUBJVAXOM_size-normalized.jpg&w=1440",
+      "publishedAt": "2026-11-12T14:46:47Z",
+      "content": "Erin Fenton, 33, doesnt remember a time when she wasnt allergic to peanuts. It all started with a fateful bite of a cookie when she was 11 months old that caused her to break out in hives and a cough… [+28 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Ebola in DR Congo: Millions of dollars going missing as virus spreads, MSF warns - BBC",
+      "description": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
+      "url": "https://www.bbc.com/news/articles/cx98757ymm6zo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4358/live/fa767be0-de8d-11f1-9afe-1f03bfe02283.jpg",
+      "publishedAt": "2026-11-12T13:02:37Z",
+      "content": "This means \"ensuring response personnel are properly trained, paid, equipped, and supported, and directing resources towards areas where needs are greatest,\" it said."
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Ozempic and Zepbound users face 6 rebound risks after stopping, doctor warns - Fox News",
+      "description": "Thinking of quitting a GLP-1? A physician outlines six risks, from weight regain and muscle loss to worsening biomarkers and mental health consequences.",
+      "url": "https://www.foxnews.com/health/ozempic-zepbound-users-face-6-rebound-risks-stopping-doctor-warns",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/woman-in-front-of-fridge.jpg",
+      "publishedAt": "2026-11-12T13:00:40Z",
+      "content": "While GLP-1 medications like Ozempic, Wegovy and Zepbound have reshaped weight management and diabetes control, research shows that many patients stop taking them within a year.\r\nResearch has found t… [+7854 chars]"
     },
     {
       "source": {
@@ -73,6 +112,32 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/EYWDMUHSUJDDVGCEKV4AOWC2AI.jpg&w=1440",
       "publishedAt": "2026-11-12T11:32:39Z",
       "content": "Theres a bit of folk wisdom among mothers of kids with ADHD: Want your kid to sit still and focus at school? Get them to run around outside first.\r\nThe assumption has long been that kids simply need … [+421 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Boston Globe"
+      },
+      "author": null,
+      "title": "Watchman device controversy: Did marketing outpace the science? - The Boston Globe",
+      "description": "Boston Scientific turned the Watchman heart implant for A-fib into a $2 billion blockbuster. But many doctors have decided the science is far less clear.",
+      "url": "https://apps.bostonglobe.com/2026/11/spotlight/watchman-device-boston-scientific-afib",
+      "urlToImage": "https://apps.bostonglobe.com/2026/11/spotlight/watchman-device-boston-scientific-afib/static/2ca4575bee911252ad285c4d09f461a0/47498/BG5LZUW73JDHNCI34UDE2235XQ.jpg",
+      "publishedAt": "2026-11-12T11:12:09Z",
+      "content": "Your browser does not support embedded video.\r\nYour browser does not support embedded video.\r\nFederal regulators approved the Watchman heart implant for a limited group of patients.\r\nBut that didnt s… [+33945 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Michelle Starr",
+      "title": "Scientists Find Out-of-Body Experiences May Occur Between Sleep And Waking - ScienceAlert",
+      "description": "The liminal space between sleeping and waking could be where the human brain conjures the uncanny.",
+      "url": "https://www.sciencealert.com/scientists-find-out-of-body-experiences-may-occur-between-sleep-and-waking",
+      "urlToImage": "https://www.sciencealert.com/images/2026/11/drifting-1200x675.png",
+      "publishedAt": "2026-11-12T11:03:45Z",
+      "content": "The liminal space between sleeping and waking could be where the human brain conjures the uncanny.\r\nIt's there, in a state that is somehow both or neither, that the sleeping brain may extend tendrils… [+6663 chars]"
     },
     {
       "source": {
@@ -90,6 +155,32 @@
     {
       "source": {
         "id": null,
+        "name": "San Francisco Chronicle"
+      },
+      "author": "Erin Allday",
+      "title": "‘Stop obsessing over eight hours’: New study says another sleep goal is just as key - San Francisco Chronicle",
+      "description": "UC study links irregular sleep schedules with higher rates of depression, anxiety and loneliness",
+      "url": "https://www.sfchronicle.com/health/article/sleep-schedule-mental-health-depression-22522117.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/67/72/13/31433470/3/rawImage.jpg",
+      "publishedAt": "2026-11-12T10:04:16Z",
+      "content": "A new UC study found an association between irregular sleep schedules and higher rates of self-reported depression, anxiety and loneliness.\r\nProstock-Studio/Getty Images\r\nFalling asleep and waking up… [+5583 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Common forever chemicals linked to nearly double the rate of aggressive breast cancer - Science Daily",
+      "description": "An NIH study found that women with high levels of two common “forever chemicals” had up to 93% higher rates of an aggressive form of breast cancer. The discovery raises concerns about the potential health effects of persistent chemicals found in everyday prod…",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112025527.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/female-breast-cancer-anatomy.webp",
+      "publishedAt": "2026-11-12T09:37:26Z",
+      "content": "Women with higher blood levels of two common \"forever chemicals\" may face an increased risk of developing a particularly aggressive form of breast cancer, according to new research from the National … [+6339 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Science Daily"
       },
       "author": null,
@@ -99,6 +190,45 @@
       "urlToImage": "https://www.sciencedaily.com/images/1920/cancer-cell-infecting-healthy-tissue.webp",
       "publishedAt": "2026-11-12T04:40:22Z",
       "content": "A common sugar found in many foods and sweetened drinks may play an unexpected role in helping aggressive ovarian cancer spread. Researchers at The Wistar Institute have discovered that cancer cells … [+8550 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KSBW The Central Coast"
+      },
+      "author": "Felix Cortez",
+      "title": "Capitola Beach closed after E. coli outbreak may have exposed at least 9 children - KSBW",
+      "description": "An E. coli outbreak has forced the closure of Capitola Beach after health leaders said nine children from Santa Cruz County and the Bay Area were exposed at the beach or in nearby waterways.",
+      "url": "https://www.ksbw.com/article/capitola-beach-closed-e-coli-children/74406017",
+      "urlToImage": "https://kubrick.htvapps.com/vidthumb/0d735f48-fbf7-4de8-88f5-8bc6d765ab57/6c7f087d-13fa-426e-9d5d-1b846a5c1d99.jpg?crop=0.810xw%3A0.811xh%3B0.0327xw%2C0&resize=1200%3A*",
+      "publishedAt": "2026-11-12T02:07:00Z",
+      "content": "CAPITOLA, Calif.An E. coli outbreak has forced the closure of Capitola Beach after health leaders said nine children from Santa Cruz County and the Bay Area were exposed at the beach or in nearby wat… [+1746 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Trying Tourette's device was the best day of my life - BBC",
+      "description": "Katie is one of many that say a device developed by researchers in Nottingham helped calm her symptoms.",
+      "url": "https://www.bbc.com/news/articles/cmp3g3e5q4zxo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8c24/live/cdba35d0-ddc3-11f1-a50f-85eebf9e50e5.jpg",
+      "publishedAt": "2026-11-12T01:07:47Z",
+      "content": "According to the Tourettes Action charity, there are two versions of the device: Neupulse-C - which is available as a consumer wellness device - and Neupulse-M, which is intended to be marketed as a … [+143 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Whec.com"
+      },
+      "author": "Evan Bourtis",
+      "title": "DEC adds new requirements after chronic wasting disease found in Livingston County deer - WHEC.com",
+      "description": "The Department of Environmental Conservation is ramping up its deer testing after a Livingston County deer tested positive for chronic wasting disease.",
+      "url": "https://www.whec.com/top-news/dec-adds-new-requirements-after-chronic-wasting-disease-found-in-livingston-county-deer/",
+      "urlToImage": "https://www.whec.com/wp-content/uploads/2026/11/Deer-file-photo.png",
+      "publishedAt": "2026-11-12T01:00:33Z",
+      "content": "LIVINGSTON COUNTY, N.Y. The Department of Environmental Conservation is ramping up its deer testing after a Livingston County deer tested positive for chronic wasting disease. \r\nIt’s the state’s firs… [+1469 chars]"
     },
     {
       "source": {
@@ -112,6 +242,19 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261111-midwife-penn-ch-0950-2babaf.jpg",
       "publishedAt": "2026-11-12T00:17:00Z",
       "content": "Babies gasping for air, children needing oxygen and respiratory support, patients on ventilators. We see babies and children coming in with infections of organs within the abdomen, their liver, dehyd… [+2652 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": null,
+      "title": "Bistable regulation of adipocyte heterogeneity governs thermogenesis - Nature",
+      "description": "IL-1β from neutrophils and macrophages stabilizes nearby brown adipocytes in a low-UCP1 state; cold temperature reduces IL-1β&nbsp;via sympathetic nerves, leading to transition to a high-UCP1&nbsp;state and increased thermogenesis, while higher temperatures h…",
+      "url": "https://www.nature.com/articles/s41586-026-11308-7",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11308-7/MediaObjects/41586_2026_11308_Fig1_HTML.png",
+      "publishedAt": "2026-11-11T23:27:36Z",
+      "content": "Mouse lines\r\nAll animal experiments were approved by the Institutional Animal Care and Use Committees of City of Hope (protocol 17014). Mice were maintained under a 12h12h darklight cycle in a temper… [+34385 chars]"
     },
     {
       "source": {
@@ -177,19 +320,6 @@
       "urlToImage": null,
       "publishedAt": "2026-11-11T21:42:00Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "The Associated Press",
-      "title": "Ebola tops 11,000 cases in Congo’s deadliest outbreak - NBC News",
-      "description": "According to the latest health ministry data, 11,042 people have been infected with the deadly virus that has now killed 5,387.",
-      "url": "https://www.nbcnews.com/world/africa/ebola-tops-11000-cases-congos-deadliest-outbreak-rcna608872",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261111-congo-ebola-vsb-1610-9e490f.jpg",
-      "publishedAt": "2026-11-11T21:23:28Z",
-      "content": "BUNIA, Congo The Democratic Republic of the Congos Ebola outbreak has topped 11,000 cases, the government said Wednesday, a stark figure that underscores the severity of the situation as the country … [+2872 chars]"
     },
     {
       "source": {
@@ -298,6 +428,19 @@
     {
       "source": {
         "id": null,
+        "name": "Health.com"
+      },
+      "author": "https://www.facebook.com/Health/",
+      "title": "6 Foods That Lower Blood Pressure Better Than Pomegranate Juice - Health.com",
+      "description": "Pomegranate juice is known to help with hypertension, a condition affecting about half of adults in the U.S. These everyday foods can help too.",
+      "url": "https://www.health.com/foods-to-lower-blood-pressure-better-than-pomegranate-juice-12188950",
+      "urlToImage": "https://www.health.com/thmb/oKwd8BY65btt_0GtY5ST9ks6MYg=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-GettyImages-1357023299-26ab6bda53ed4355aa4012b429081b41.jpg",
+      "publishedAt": "2026-11-11T17:00:00Z",
+      "content": "Pomegranate juice isnt the only food worth adding to your routine when blood pressure is on your radar. Several foods offer nutrients that can help keep your blood pressure in a healthy range and mai… [+4535 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "9News.com KUSA"
       },
       "author": "9News",
@@ -307,6 +450,19 @@
       "urlToImage": null,
       "publishedAt": "2026-11-11T16:21:00Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Fox News",
+      "title": "Popular heart medication for older patients faces scrutiny as new study evaluates risks - New York Post",
+      "description": "A study of 1,880 adults 70 and older found stopping statins raised the risk of heart attack, stroke, or death to 13%, compared to 9% who continued.",
+      "url": "https://www.foxnews.com/health/common-heart-pill-scrutiny-older-patients-study-weighs-risks-stopping",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/crop-41789562.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-11-11T15:59:00Z",
+      "content": "Some older adults may be able to stop taking statins with little added risk over two years, but a new study raises concerns about longer-term safety.\r\nThats according to a randomized clinical trial t… [+5062 chars]"
     },
     {
       "source": {
@@ -320,19 +476,6 @@
       "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41588-026-02832-3/MediaObjects/41588_2026_2832_Fig1_HTML.png",
       "publishedAt": "2026-11-11T14:25:11Z",
       "content": "This study complies with all relevant ethical regulations. Ethical oversight is maintained for both UK Biobank and BRIDGES. UK Biobank data were accessed under application 102655, and access to BRIDG… [+24751 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Peter Dockrill",
-      "title": "Study Reveals What a Lifetime of Exposure to Fluoride in Drinking Water Does to Cognition - ScienceAlert",
-      "description": "Fluoride does a world of good for your teeth, but its inclusion in drinking water is not without controversy.",
-      "url": "https://www.sciencealert.com/study-reveals-what-a-lifetime-of-exposure-to-fluoride-in-drinking-water-does-to-cognition",
-      "urlToImage": "https://www.sciencealert.com/images/2026/11/old-man-water.jpg",
-      "publishedAt": "2026-11-11T14:04:13Z",
-      "content": "Fluoride does a world of good for your teeth, but its inclusion in drinking water is not without controversy.\r\nWhile there's little doubt about its ability to help prevent tooth decay, public concern… [+3768 chars]"
     },
     {
       "source": {
@@ -375,19 +518,6 @@
     },
     {
       "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Common heart pill under scrutiny for older patients as study weighs risks of stopping - Fox News",
-      "description": "A new clinical trial found 13% of older adults who stopped statins had a heart attack, stroke or died, compared with 9% who continued treatment.",
-      "url": "https://www.foxnews.com/health/common-heart-pill-scrutiny-older-patients-study-weighs-risks-stopping",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/woman-taking-statins.jpg",
-      "publishedAt": "2026-11-11T12:00:29Z",
-      "content": "Some older adults may be able to stop taking statins with little added risk over two years, but a new study raises concerns about longer-term safety.\r\nThats according to a randomized clinical trial t… [+4930 chars]"
-    },
-    {
-      "source": {
         "id": "cbs-news",
         "name": "CBS News"
       },
@@ -415,41 +545,28 @@
     {
       "source": {
         "id": null,
-        "name": "Women's Health"
+        "name": "WLS-TV"
       },
-      "author": "Korin Miller",
-      "title": "New Research Suggests This Common Supplement May Be the Key to Healthier Knees and Joints - Women's Health",
-      "description": "A clinical trial found that adding a simple fiber could help reduce knee pain, help build muscle, and more. Here's what experts say about the research.",
-      "url": "https://www.womenshealthmag.com/health/a74389725/fiber-knee-arthritis-study/",
-      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/4956513b-8650-4dfa-8669-351c860f95b7.jpg?crop=1xw:0.75xh;0xw,0.183xh&resize=1200:*",
-      "publishedAt": "2026-11-11T11:00:00Z",
-      "content": "Knee osteoarthritis can be a debilitating condition due to the joint pain, stiffness, and swelling it causes. Unfortunately, it's a reality for an estimated 14 million \r\nAmericans. There are a range … [+6777 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Melissa Fleur Afshar",
-      "title": "Scientists Wipe Out Deadly Childhood Brain Tumors in Every Mouse Tested - Newsweek",
-      "description": "Researchers found a way to switch cancer-fighting immune cells on inside the brain, with striking early results.",
-      "url": "https://www.newsweek.com/scientists-wipe-out-deadly-childhood-brain-tumors-in-every-mouse-tested-12694843",
-      "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2026/11/GettyImages-2226756753.jpg?w=1200&crop=1",
-      "publishedAt": "2026-11-11T09:02:00Z",
-      "content": "Scientists have eliminated an aggressive childhood brain cancer in every mouse tested using an experimental immune-cell therapy designed to switch on only after it enters the brain.\r\nThe findings cou… [+4312 chars]"
+      "author": "Jason Knowles",
+      "title": "New testing finds Legionella and chlorine concerns in Beaverville, Illinois water investigation - ABC7 Chicago",
+      "description": "1 resident said her mother-in-law died from pneumonia",
+      "url": "https://abc7chicago.com/post/new-testing-finds-legionella-chlorine-concerns-beaverville-illinois-water-investigation/20031306/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/20031476_111026-wls-iteam-water-jason-430p-vid.jpg?w=1600",
+      "publishedAt": "2026-11-11T00:17:53Z",
+      "content": "BEAVERVILLE, Ill. (WLS) -- New testing by a nationally recognized water expert has found Legionella bacteria in one Illinois home's plumbing system and raised new concerns about chlorine levels in th… [+2995 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Science Daily"
+        "name": "BBC News"
       },
       "author": null,
-      "title": "Cancer-fighting chewing gum slashes HPV levels by up to 93% - Science Daily",
-      "description": "A surprising new weapon against microbes linked to head and neck cancer could be as simple as chewing gum. Scientists developed a bioengineered gum that reduced HPV levels by up to 93% in oral samples from cancer patients and nearly eliminated two harmful bac…",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261108203832.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/young-woman-biting-chewing-gum.webp",
-      "publishedAt": "2026-11-11T04:29:14Z",
-      "content": "A specially engineered chewing gum could offer an unexpected new weapon against viruses and bacteria linked to head and neck cancer. In laboratory tests using samples from cancer patients, researcher… [+7592 chars]"
+      "title": "Antidepressant escitalopram more effective at preventing relapse, analysis finds - BBC",
+      "description": "Three pills came top and outperformed Prozac for preventing relapse in a large number of patients.",
+      "url": "https://www.bbc.com/news/articles/cv62yyng00jyo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ea69/live/913e2170-dda0-11f1-93e1-3b657b665bcf.jpg",
+      "publishedAt": "2026-11-11T00:17:42Z",
+      "content": "\"Nevertheless, our study can help inform the decisions that prescribers and patients make together: if you start an antidepressant, choose one that not only helps you to get well, but also keeps you … [+5 chars]"
     },
     {
       "source": {
@@ -463,19 +580,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/09/well/WELL-DEPRESSION-MEDS1/WELL-DEPRESSION-MEDS1-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-10T23:30:23Z",
       "content": "In the meta-analysis, a few drugs stood out for offering greater effectiveness over time."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Medical Xpress"
-      },
-      "author": null,
-      "title": "Study identifies antidepressants that get patients well and keep them well - Medical Xpress",
-      "description": "Worldwide, nearly 6% of people experience depression. Many of them continue taking antidepressants after achieving symptomatic improvement, among other reasons to prevent a relapse of depression. An international team of researchers investigated which antidep…",
-      "url": "https://medicalxpress.com/news/2026-11-antidepressants-patients.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/content-person.jpg",
-      "publishedAt": "2026-11-10T23:30:22Z",
-      "content": "Worldwide, nearly 6% of people experience depression. Many of them continue taking antidepressants after achieving symptomatic improvement, among other reasons to prevent a relapse of depression. An … [+2938 chars]"
     },
     {
       "source": {
@@ -532,15 +636,15 @@
     {
       "source": {
         "id": null,
-        "name": "Gothamist"
+        "name": "New York Post"
       },
-      "author": "https://gothamist.com/staff/ramsey-khalifeh, https://gothamist.com/staff/stephen-nessen",
-      "title": "Study links ADHD to NYC’s deadly subway surfing trend - Gothamist",
-      "description": "Researchers found 60% of subway surfers they surveyed were diagnosed with ADHD.",
-      "url": "https://gothamist.com/news/study-links-adhd-to-nycs-deadly-subway-surfing-trend",
-      "urlToImage": "https://api-prod.gothamist.com/images/362416/fill-1200x650|format-webp|webpquality-85/",
-      "publishedAt": "2026-11-10T20:14:00Z",
-      "content": "People killed surfing on top of New York City subway trains tend to be teen boys diagnosed with ADHD, according to a new study published this week.\r\nThe trend of young people subway surfing has persi… [+3082 chars]"
+      "author": "Rachel Sacks",
+      "title": "Device inspired by Disney’s ‘Tangled’ could help battle hair loss even better than Rogaine - New York Post",
+      "description": "Not only does the treatment look like an everyday item, it could work even better than a typical treatment of over-the-counter Rogaine.",
+      "url": "https://nypost.com/2026/11/10/health/tangled-inspired-device-could-help-battle-hair-loss/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/newspress-collage-0ric3nm0c-1794338623252.jpg?quality=75&strip=all&1794320681&w=1200",
+      "publishedAt": "2026-11-10T19:25:00Z",
+      "content": "No need to get knotted up over hair loss.\r\nAn innovative device currently in development could be a breakthrough solution for the roughly 50 million men and 30 million women who experience some form … [+2745 chars]"
     },
     {
       "source": {
@@ -558,19 +662,6 @@
     {
       "source": {
         "id": null,
-        "name": "Phys.Org"
-      },
-      "author": "Krystal Kasal",
-      "title": "Purple bacteria turn CO₂ and other industrial waste products into valuable supplement ingredients - Phys.org",
-      "description": "Scientists are always on the lookout for more efficient ways to make useful products and ingredients. Now, researchers from the University of Valladolid in Spain have successfully used a type of purple bacteria to make CoQ10 and carotenoid pigments from CO₂ a…",
-      "url": "https://phys.org/news/2026-11-purple-bacteria-industrial-products-valuable.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/purple-bacteria-turn-c.jpg",
-      "publishedAt": "2026-11-10T18:50:06Z",
-      "content": "Scientists are always on the lookout for more efficient ways to make useful products and ingredients. Now, researchers from the University of Valladolid in Spain have successfully used a type of purp… [+6177 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Nature.com"
       },
       "author": null,
@@ -580,45 +671,6 @@
       "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03625-8/d41586-026-03625-8_53948938.jpg",
       "publishedAt": "2026-11-10T18:44:20Z",
       "content": "The ravages of age touch us all some more lightly than others. Geneticist Henne Holstege wanted to study people with a particular superpower: those resistant to neurodegeneration, despite their age o… [+9232 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "A balding man.",
-      "title": "An Experimental Electric Comb May Stave Off Baldness - Gizmodo",
-      "description": "The Detangle comb system appears to be more effective than conventional hair loss treatments, but further research is needed.",
-      "url": "https://gizmodo.com/an-experimental-electric-comb-just-beat-rogaine-in-early-hair-loss-tests-2000837758",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/11/Balding-man-1200x675.jpg",
-      "publishedAt": "2026-11-10T17:50:40Z",
-      "content": "The future of hair loss treatment might be a bit more shocking than expected. Recent research showcases an experimental electrical comb that seems especially effective at combating baldnessat least i… [+3721 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Fox News",
-      "title": "Aggressive cancer type linked to common chemical exposure in new study - New York Post",
-      "description": "NIH researchers found women with high exposure to two “forever chemicals” had up to a 93% higher rate of aggressive ER-negative breast cancer.",
-      "url": "https://www.foxnews.com/health/aggressive-cancer-type-linked-common-chemical-exposure-new-study",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/148225444.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-11-10T16:21:00Z",
-      "content": "Two “forever chemicals” have been associated with a higher risk of aggressive breast cancer, according to research from the National Institutes of Health (NIH).\r\nForever chemicals, known as PFAS, are… [+6102 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Fox News",
-      "title": "Why you’re cooking broccoli the wrong way — and stripping away its health benefits - New York Post",
-      "description": "Boiling broccoli leaches key nutrients like vitamin C. Experts recommend steaming or chopping florets 40 minutes before cooking to retain benefits.",
-      "url": "https://www.foxnews.com/food-drink/popular-cooking-methods-may-destroy-key-health-benefits-broccoli-experts-warn",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/crop-41767303.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-11-10T16:19:00Z",
-      "content": "Not all methods of cooking broccoli are created equal, and some simple tips can ensure you get the most nutrients out of it.\r\nWhether it’s steamed, roasted or added to a stir-fry, broccoli is a healt… [+4706 chars]"
     },
     {
       "source": {
@@ -662,19 +714,6 @@
     {
       "source": {
         "id": null,
-        "name": "WZTV"
-      },
-      "author": "Dennis Ferrier",
-      "title": "Mysterious tick disease affecting a new Tennessean every day - WZTV",
-      "description": "A single tick bite can trigger a potentially life-threatening allergy to red meat. Now, for the first time, Tennessee is tracking the condition, and the numbers",
-      "url": "https://fox17.com/fox-17-investigates/mysterious-tick-disease-effecting-a-new-tennessean-every-day",
-      "urlToImage": "https://fox17.com/resources/media2/16x9/988/1320/0x1/90/cd280d4e-6ccb-4797-87ad-1a8c06927546-Screenshot20261109192632.png",
-      "publishedAt": "2026-11-10T01:45:55Z",
-      "content": "NASHVILLE, Tenn. (WZTV) A single tick bite can trigger a potentially life-threatening allergy to red meat. Now, for the first time, Tennessee is tracking the condition, and the numbers are raising co… [+7385 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Umn.edu"
       },
       "author": null,
@@ -684,19 +723,6 @@
       "urlToImage": "https://www.cidrap.umn.edu/sites/default/files/styles/layout_large/public/article/Tired%20woman%20sitting%20on%20a%20sofa.jpg?itok=acSkVZGb",
       "publishedAt": "2026-11-09T21:22:35Z",
       "content": "A new study links COVID-19 infection to substantially fewer long-term health problems than previous research suggests. \r\nFor the analysis, published in PNAS, researchers led by a team at Stanford Uni… [+2747 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Medical Xpress"
-      },
-      "author": null,
-      "title": "Blood pressure medication combo linked to fewer irregular heart rhythms after ablation - Medical Xpress",
-      "description": "Among older adults with high blood pressure and atrial fibrillation, treatment with a combination of two blood pressure medications was associated with fewer recurring irregular heart rhythms after an ablation procedure compared with only one of the medicatio…",
-      "url": "https://medicalxpress.com/news/2026-11-blood-pressure-medication-combo-linked.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/blood-pressure-medicat-2.jpg",
-      "publishedAt": "2026-11-09T20:40:25Z",
-      "content": "Among older adults with high blood pressure and atrial fibrillation, treatment with a combination of two blood pressure medications was associated with fewer recurring irregular heart rhythms after a… [+6025 chars]"
     },
     {
       "source": {
@@ -723,6 +749,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/09/us/09nat-dengue1/09nat-dengue1-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-09T20:06:06Z",
       "content": "In the past, Americans were infected with dengue after being bitten by mosquitoes while traveling. But now, most of the current transmission is from local mosquitoes."
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Kelly McGreal",
+      "title": "Men and women who smoke marijuana may experience different effects, study suggests - Yahoo",
+      "description": "UCLA researchers found occasional male cannabis users reported stronger effects like anxiety and elevated heart rate than women with similar THC levels.",
+      "url": "https://www.foxnews.com/health/men-women-smoke-marijuana-may-experience-different-effects-study-suggests",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/aa0bcb847f44e85cf58ccec34af263593ea58678847a0cac5c18b873c5f6e882/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F5d1b0d31beabd384ec73774b931762e1.jpg",
+      "publishedAt": "2026-11-09T16:55:22Z",
+      "content": "Men who use cannabis occasionally may feel stronger effects from the drug than women with similar use habits, new research suggests.\r\nThe UCLA Health study, published in the journal Neuropsychopharma… [+4118 chars]"
     },
     {
       "source": {
@@ -765,45 +804,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "News-Medical.Net"
-      },
-      "author": null,
-      "title": "New mRNA therapy reawakens heart muscle cells to repair damage - News-Medical",
-      "description": "Scientists have developed a treatment that 'reawakens' heart muscle cells so they start to divide and help repair damaged muscle.",
-      "url": "https://www.news-medical.net/news/20261109/New-mRNA-therapy-reawakens-heart-muscle-cells-to-repair-damage.aspx",
-      "urlToImage": "https://www.news-medical.net/image-handler/picture/2014/7/Heart_Attack-620x480.jpg",
-      "publishedAt": "2026-11-09T11:25:00Z",
-      "content": "Scientists have developed a treatment that 'reawakens' heart muscle cells so they start to divide and help repair damaged muscle.\r\nIn a study in mice, this produced a stronger heartbeat and increased… [+3786 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NPR"
-      },
-      "author": "Elana Gordon",
-      "title": "An ‘Ozempic baby boom’? The GLP-1 pregnancy plot twist : Short Wave - NPR",
-      "description": "The explosion of GLP-1 drugs has created a gray zone for pregnancy. That recently prompted the American College of Obstetricians and Gynecologists to issue <a href=\"https://www.acog.org/clinical/guidance/practice-advisory/2026/10/use-of-glucagon-like-peptide-…",
-      "url": "https://www.npr.org/2026/11/09/nx-s1-6023369/glp1-ozempic-babies-pregnancy",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3377x1900+0+0/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6b%2F85%2F9d06ecf54cf2ac215537c97c83dd%2Fcafacbd0-ee7e-48d5-b8ae-fb2c8ab790e6.jpeg",
-      "publishedAt": "2026-11-09T08:00:00Z",
-      "content": "The explosion of GLP-1 drugs has created a gray zone for pregnancy. That recently prompted the American College of Obstetricians and Gynecologists to issue its first ever guidance on the topic. In a … [+927 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Erica Sloan",
-      "title": "Why you end up coughing for weeks after a cold — and what to do about it - The Washington Post",
-      "description": "Experts share the habits and triggers to avoid, plus the remedies that could help alleviate a persistent hack following a respiratory infection.",
-      "url": "https://www.washingtonpost.com/wellness/2026/11/08/why-you-keep-coughing-weeks-after-cold-how-help-soothe-it/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2GLT6L2VJALDZ4BLUSXGZOVIVY_size-normalized.jpg&w=1440",
-      "publishedAt": "2026-11-08T19:00:00Z",
-      "content": "Getting over a cold is one thing, but sometimes, it can feel like shaking that nagging cough is another.\r\nMost respiratory infections, such as the common cold, flu, covid-19 and RSV are caused by vir… [+100 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -814,19 +814,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/07Sci-heart-drugs-01b-kqzj/07Sci-heart-drugs-01b-kqzj-mediumSquareAt3X-v2.jpg",
       "publishedAt": "2026-11-08T14:14:56Z",
       "content": "By every measure, the drugs were no better than placebos, full data revealed on Saturday. Was it the fault of the design of the studies, or our very hypotheses about heart disease?"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "Stronger flu shot linked to nearly 55% lower Alzheimer's risk - Science Daily",
-      "description": "A surprising new study suggests that a stronger flu shot could offer older adults significantly greater protection against Alzheimer&apos;s disease. Researchers at UTHealth Houston analyzed nearly 200,000 adults ages 65 and older and found that those who rece…",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261105224609.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/elderly-patient-doctor-vaccine-injection.webp",
-      "publishedAt": "2026-11-08T02:53:55Z",
-      "content": "A higher dose of the annual flu vaccine may offer older adults an unexpected benefit: a significantly lower risk of developing Alzheimer's disease.In a large study led by researchers at UTHealth Hous… [+8325 chars]"
     },
     {
       "source": {
@@ -869,32 +856,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Parade"
-      },
-      "author": "Jessica Sager",
-      "title": "Flu Alert: Get Tested for Fever and Body Aches This November 2026 - AOL.com",
-      "description": "Plus, tips for how to stay healthy to start your holiday season safely.",
-      "url": "https://parade.com/health/flu-symptoms-november-2026",
-      "urlToImage": "https://hermes.media.static.aol.com/media/2026/11/06/524c465a-de2f-34a0-9bf2-ec718f6be231/e69d2047-19ef-4faa-8a10-a91741592047.jpg",
-      "publishedAt": "2026-11-06T19:25:00Z",
-      "content": "Guys, getting the flu sucks whenever you catch itbut is there anything worse than feeling like crap near Thanksgiving, when you should just be happy, bloated and full?\r\nWhile getting an annual flu va… [+8726 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "News-Medical.Net"
-      },
-      "author": null,
-      "title": "Occasional male cannabis users experience stronger effects than women - News-Medical",
-      "description": "Men who use cannabis occasionally reacted more strongly to smoked cannabis than women with similar use habits, even though the amount of THC in their blood was about the same, according to a new study from UCLA Health.",
-      "url": "https://www.news-medical.net/news/20261106/Occasional-male-cannabis-users-experience-stronger-effects-than-women.aspx",
-      "urlToImage": "https://www.news-medical.net/image-handler/picture/2014/7/Cannabis-620x480.jpg",
-      "publishedAt": "2026-11-06T16:33:00Z",
-      "content": "Men who use cannabis occasionally reacted more strongly to smoked cannabis than women with similar use habits, even though the amount of THC in their blood was about the same, according to a new stud… [+3092 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -918,6 +879,19 @@
       "urlToImage": "https://img.huffingtonpost.com/asset/6aedd9ae1b0000f31dd13067.jpeg?cache=S6WHWDurWS&ops=1200_630",
       "publishedAt": "2026-11-06T13:49:11Z",
       "content": "The Wisconsin Department of Health Services said on Thursday that an infant had died in connection with the ongoing measles outbreak in the state.\r\nThe coroner listed measles as the immediate cause o… [+1816 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Katia Hetter",
+      "title": "Can diet and exercise reverse type 2 diabetes? What a new study found - CNN",
+      "description": "An intensive diet and exercise program helped younger adults reverse type 2 diabetes in a clinical trial. Here’s what it takes.",
+      "url": "https://www.cnn.com/2026/11/06/health/type-2-diabetes-remission-diet-exercise-wellness",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2207803434.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-11-06T12:00:15Z",
+      "content": "While an estimated 38 million Americans have type 2 diabetes, the condition is increasingly being diagnosed in younger adults. Without treatment, they face decades of elevated risk for complications … [+8623 chars]"
     },
     {
       "source": {

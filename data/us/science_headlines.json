@@ -6,9 +6,35 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-13T11:38:28.059106+00:00",
-  "articles_count": 93,
+  "fetched_at": "2026-11-13T18:48:59.851714+00:00",
+  "articles_count": 95,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Chico Harlan and Lisa Friedman",
+      "title": "Timing of Climate Science Reports Ignites a Hot Fight at U.N. Talks",
+      "description": "Several countries that rely heavily on fossil fuels want to delay the next round of scientific assessments that governments use to inform their climate policies.",
+      "url": "https://www.nytimes.com/2026/11/13/climate/cop31-turkey-ipcc-climate-report.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/13/multimedia/13CLI-REPORT-01-tvzg/13CLI-REPORT-01-tvzg-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-13T17:59:45Z",
+      "content": "Several countries that rely heavily on fossil fuels want to delay the next round of scientific assessments that governments use to inform their climate policies."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Kenneth Chang",
+      "title": "SpaceX Aims for Starship Launch on Friday. Here’s What to Know.",
+      "description": "The audacious maneuver planned for Friday is a key step toward the company’s goal of making rockets fully reusable.",
+      "url": "https://www.nytimes.com/2026/11/13/science/spacex-launch-starship-rocket-catch.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/13/multimedia/13SCI-STARSHIP-CATCH-01-vkmg/13SCI-STARSHIP-CATCH-01-vkmg-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-13T14:30:31Z",
+      "content": "The audacious maneuver planned for Friday is a key step toward the company’s goal of making rockets fully reusable."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -19,7 +45,7 @@
       "description": "Male Franciscana dolphins are exceptional babysitters. Scientists are trying to figure out if they are thoughtful fathers or just hope to be.",
       "url": "https://www.nytimes.com/2026/11/13/science/babysitting-daycare-franciscana-dolphins-toninha-laplata.html",
       "urlToImage": null,
-      "publishedAt": "2026-11-13T10:00:41Z",
+      "publishedAt": "2026-11-13T10:00:42Z",
       "content": "Male Franciscana dolphins are exceptional babysitters. Scientists are trying to figure out if they are thoughtful fathers or just hope to be."
     },
     {
@@ -47,6 +73,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/12/multimedia/12cli-letters-02b-bhpw/12cli-letters-02b-bhpw-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-12T18:07:23Z",
       "content": "Letters sent by two key House committees tell companies and officials not to destroy documents."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Michelle Starr",
+      "title": "JWST Detects a 'Forbidden' Signal Never Before Seen in The Universe – Not Even in a Lab - ScienceAlert",
+      "description": "One of the most important molecules in the Universe has been hiding its light for decades.",
+      "url": "https://www.sciencealert.com/jwst-detects-a-forbidden-signal-never-before-seen-in-the-universe-not-even-in-a-lab",
+      "urlToImage": "https://www.sciencealert.com/images/2026/11/hh211-1200x675.png",
+      "publishedAt": "2026-11-12T12:04:35Z",
+      "content": "One of the most important molecules in the Universe has been hiding its light for decades.\r\nIt's the foundation for almost all gas-phase interstellar chemistry  including the formation of complex org… [+6488 chars]"
     },
     {
       "source": {
@@ -89,6 +128,32 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Europe's Hera spacecraft begins close inspections of an asteroid rammed by NASA in a 2022 test - Phys.org",
+      "description": "A European spacecraft has begun close inspections of an asteroid rammed by NASA four years ago in a planetary defense test.",
+      "url": "https://phys.org/news/2026-11-europe-hera-spacecraft-asteroid-rammed.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/asteroid-strike.jpg",
+      "publishedAt": "2026-11-12T09:07:30Z",
+      "content": "A European spacecraft has begun close inspections of an asteroid rammed by NASA four years ago in a planetary defense test.\r\nThe European Space Agency announced Wednesday that the Hera spacecraft is … [+1859 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Peter Dockrill",
+      "title": "Study Shows a Single Nuclear Blast Could Disable 99% of Satellites in a Matter of Days - ScienceAlert",
+      "description": "High above your head, it's getting a bit crowded.",
+      "url": "https://www.sciencealert.com/a-single-nuclear-explosion-in-orbit-could-disable-99-of-satellites-in-a-matter-of-days",
+      "urlToImage": "https://www.sciencealert.com/images/2026/11/explosion-in-orbit.jpg",
+      "publishedAt": "2026-11-12T01:04:33Z",
+      "content": "High above your head, it's getting a bit crowded.\r\nIn low-Earth orbit, more than 13,000 satellites are currently circling the planet. They're the backbone of your daily weather forecast, telephone an… [+4504 chars]"
+    },
+    {
+      "source": {
         "id": "cnn",
         "name": "CNN"
       },
@@ -128,19 +193,6 @@
     },
     {
       "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "Marcia Dunn",
-      "title": "Europe's Hera spacecraft begins close inspections of an asteroid rammed by NASA in a 2022 test - AP News",
-      "description": "A European spacecraft has begun close inspections of a harmless asteroid rammed by NASA four years ago in a planetary defense test. The European Space Agency said Wednesday that the Hera spacecraft is studying Didymos and its moonlet from just 15 miles to 18 …",
-      "url": "https://apnews.com/article/asteroid-nasa-hera-didymos-dimorphos-c161a53a58e95b23a6c5a08315dd679a",
-      "urlToImage": "https://dims.apnews.com/dims4/default/9b64dbf/2147483647/strip/true/crop/1020x680+0+0/resize/1020x680!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F32%2Fed%2Fbaf14f41705483eafccf597389d9%2F0646db88349a44cd9affc2ffaa157891",
-      "publishedAt": "2026-11-11T22:12:00Z",
-      "content": "CAPE CANAVERAL, Fla. (AP) A European spacecraft has begun close inspections of an asteroid rammed by NASA four years ago in a planetary defense test. \r\nThe European Space Agency announced Wednesday t… [+1568 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Space.com"
       },
@@ -167,6 +219,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gayoung Lee",
+      "title": "Earth's Plate Tectonics Evolved Dramatically 2.7 Billion Years Ago - Gizmodo",
+      "description": "Scientists long suspected that plate tectonics was partly responsible for how Earth evolved but couldn’t quite tell when—until now.",
+      "url": "https://gizmodo.com/something-switched-on-inside-earth-2-7-billion-years-ago-and-it-made-the-planet-we-know-2000838503",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/11/archean-eon-artists-depiction-earth-1200x675.jpg",
+      "publishedAt": "2026-11-11T21:30:12Z",
+      "content": "In many ways, life on Earth feels like a miracle. Had things gone differently, Earth might have looked more like our neighbors in the solar system. Scientists long suspected that plate tectonics was … [+3923 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -190,19 +255,6 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/hkust-researchers-disc.jpg",
       "publishedAt": "2026-11-11T21:00:01Z",
       "content": "Researchers at The Hong Kong University of Science and Technology (HKUST) have discovered a previously unknown specialized organelle structure in a deep-sea mollusk living at cold seeps in the South … [+8387 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Sharmila Kuthunur",
-      "title": "We can't see Fast Radio Bursts but we can now hear them thanks to a Finnish Cathedral - Space",
-      "description": "Fast radio bursts are invisible, but a composer has turned thousands of them into sound at a Finnish cathedral, where a choir will sing along on Nov. 21.",
-      "url": "https://www.space.com/astronomy/we-cant-see-fast-radio-bursts-but-we-can-now-hear-them-thanks-to-a-finnish-cathedral",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/pvZbrkXx68mXSQotNC9zUF-2000-80.png",
-      "publishedAt": "2026-11-11T21:00:00Z",
-      "content": null
     },
     {
       "source": {
@@ -297,6 +349,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Centaurus A in the spotlight: Plasma simulations reproduce black hole jets' mysterious bright edges - Phys.org",
+      "description": "Around 12 million light-years away, the supermassive black hole of the galaxy Centaurus A is hurling two enormous plasma jets into space at nearly the speed of light. These so-called jets are brighter at their edges than at their center. The reason for this w…",
+      "url": "https://phys.org/news/2026-11-centaurus-spotlight-plasma-simulations-black.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/black-hole-in-the-spot.jpg",
+      "publishedAt": "2026-11-11T17:40:04Z",
+      "content": "Around 12 million light-years away, the supermassive black hole of the galaxy Centaurus A is hurling two enormous plasma jets into space at nearly the speed of light. These so-called jets are brighte… [+5334 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -311,6 +376,19 @@
     {
       "source": {
         "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Michelle Starr",
+      "title": "Scientists Measure Gravitational Pull Between The Smallest Objects Yet in Quest For Quantum Gravity - ScienceAlert",
+      "description": "We're used to thinking of gravity in the context of large masses – the whirl of planets, the inexorable pull of a black hole.",
+      "url": "https://www.sciencealert.com/scientists-measure-gravitational-pull-between-the-smallest-objects-yet-in-quest-for-quantum-gravity",
+      "urlToImage": "https://www.sciencealert.com/images/2026/11/spheres-1200x675.png",
+      "publishedAt": "2026-11-11T17:04:04Z",
+      "content": "We're used to thinking of gravity in the context of large masses the whirl of planets, the inexorable pull of a black hole.\r\nBut everything with mass, no matter how small, exerts a gravitational pull… [+5912 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Phys.Org"
       },
       "author": "Paul Arnold",
@@ -320,19 +398,6 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/why-some-dinosaurs-get.jpg",
       "publishedAt": "2026-11-11T17:00:17Z",
       "content": "If you ask anyone to name a dinosaur, there's a good chance they'll say Tyrannosaurus rex, that fearsome prehistoric predator with its enormous jaws and razor-sharp teeth. But what about a lesser-kno… [+3636 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Skeptic.com"
-      },
-      "author": "Skeptic",
-      "title": "The Problem of Induction: David Hume Says Science Has a Problem—Does It? - Skeptic",
-      "description": "Hume showed we can’t prove the future will resemble the past, and some say that makes science a matter of faith. A physicist argues otherwise: science runs on guessing, testing, and discarding, not on assuming the past repeats. Does Hume’s famous problem real…",
-      "url": "https://www.skeptic.com/article/problem-of-induction-david-hume-says-science-has-a-problem-but-does-it/",
-      "urlToImage": "https://storage.ghost.io/c/36/db/36db2d53-b96a-4b7f-9ea6-1e48a1d7715e/content/images/size/w1200/2026/11/problem-of-induction.webp",
-      "publishedAt": "2026-11-11T16:58:34Z",
-      "content": "The argument goes like this: David Hume, skeptic par excellence, showed that a particular kind of reasoning called inductionin which we infer that a past pattern of experiences will probably continue… [+19147 chars]"
     },
     {
       "source": {
@@ -372,6 +437,19 @@
       "urlToImage": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Metabolism-First-cr.Mark-Belan-Social.jpg",
       "publishedAt": "2026-11-11T15:13:28Z",
       "content": "For well over 4 billion years, the fire of metabolism has powered the engines of life. The ability of cells to gather, transform, and harness chemical energy from their surroundings is the central fo… [+5868 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eatthis.com"
+      },
+      "author": "Alexa Mellardo",
+      "title": "5 Bed Exercises That Strengthen Your Core Faster Than Crunches After 65 - Eat This Not That",
+      "description": "Try 5 bed exercises for core strength after 65, with tips from two experts. Gentler on the spine than crunches.",
+      "url": "https://www.eatthis.com/bed-exercises-core-strength-after-65/",
+      "urlToImage": "https://www.eatthis.com/wp-content/uploads/sites/4/2026/11/mature-woman-crunches-exercise_2821144937.jpg?quality=82&strip=all",
+      "publishedAt": "2026-11-11T15:08:04Z",
+      "content": "Get ready to strengthen your core without leaving your bed.\r\nCrunches are a common addition to ab day workouts for those who want to strengthen their core, build definition, and improve stability. Bu… [+4156 chars]"
     },
     {
       "source": {
@@ -544,32 +622,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "Earliest known compact quasar pair poses a black hole growth puzzle - Phys.org",
-      "description": "The oldest pair of compact quasars ever observed has been found only 900 million years after the Big Bang. Scientists say there is no theoretical explanation for how the pair of actively feeding black holes grew so massive at such an early time in the history…",
-      "url": "https://phys.org/news/2026-11-earliest-compact-quasar-pair-poses.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/astronomers-discover-n.jpg",
-      "publishedAt": "2026-11-11T00:50:02Z",
-      "content": "The oldest pair of compact quasars ever observed has been found only 900 million years after the Big Bang. Scientists say there is no theoretical explanation for how the pair of actively feeding blac… [+6574 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "Ancient rocks reveal when Earth's tectonic engine 'switched on' - Phys.org",
-      "description": "Scientists have identified a major turning point in Earth's geological history, when the processes shaping the planet's crust changed dramatically and began to resemble the plate tectonics we see today—about 2.5 billion years ago.",
-      "url": "https://phys.org/news/2026-11-ancient-reveal-earth-tectonic.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/ancient-rocks-reveal-w.jpg",
-      "publishedAt": "2026-11-11T00:10:08Z",
-      "content": "Scientists have identified a major turning point in Earth's geological history, when the processes shaping the planet's crust changed dramatically and began to resemble the plate tectonics we see tod… [+3447 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -606,6 +658,19 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/one-material-three-res.jpg",
       "publishedAt": "2026-11-10T22:10:06Z",
       "content": "University of Missouri researchers have created a single solid material that responds differently depending on what it's exposed to. Shine light on it, and it changes from yellow to white, an indicat… [+3688 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Robert Lea",
+      "title": "A distant exoplanet mysteriously vanished from sight. Astronomers just discovered why - Space",
+      "description": "\"We think of the universe as resembling clockwork, where everything is regular, but that's not true.\"",
+      "url": "https://www.space.com/astronomy/exoplanets/a-distant-exoplanet-mysteriously-vanished-from-sight-astronomers-just-discovered-why",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/N9wVvBzaETFicjigyT6ckR-1600-80.png",
+      "publishedAt": "2026-11-10T21:00:00Z",
+      "content": null
     },
     {
       "source": {
@@ -675,32 +740,6 @@
     {
       "source": {
         "id": null,
-        "name": "KTLA Los Angeles"
-      },
-      "author": "Lily Dallow",
-      "title": "Planet 1,000 light-years away mysteriously vanishes before astronomers’ eyes - KTLA",
-      "description": "A planet roughly 1,000 light-years from Earth has seemingly vanished before astronomers’ eyes, leaving scientists with a remarkable discovery about what caused it to disappear. Researchers led by UCLA announced Monday that they have identified the first known…",
-      "url": "https://ktla.com/news/local-news/planet-1000-light-years-away-mysteriously-vanishes-before-astronomers-eyes/",
-      "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2026/11/planet1.jpg?w=1280",
-      "publishedAt": "2026-11-10T17:53:58Z",
-      "content": "A planet roughly 1,000 light-years from Earth has seemingly vanished before astronomers’ eyes, leaving scientists with a remarkable discovery about what caused it to disappear.\r\nResearchers led by UC… [+3825 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "IFLScience"
-      },
-      "author": "Tom Hale",
-      "title": "The Taung Child, The First Hard Proof Humans Originated In Africa, Is Even Older Than We Thought - IFLScience",
-      "description": "This prehistoric whippersnapper may have died a very unusual, very grim death.",
-      "url": "https://www.iflscience.com/the-taung-child-the-first-hard-proof-humans-originated-in-africa-is-even-older-than-we-thought-85154",
-      "urlToImage": "https://assets.iflscience.com/assets/articleNo/85154/aImg/93509/taung-child-meta.png",
-      "publishedAt": "2026-11-10T17:17:32Z",
-      "content": "The Taung Child changed our understanding of the human story by providing some of the first hard evidence that our evolutionary line first sprang up in Africa. Now, over a century later, this little … [+4090 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Quanta Magazine"
       },
       "author": null,
@@ -727,28 +766,15 @@
     {
       "source": {
         "id": null,
-        "name": "Good News Network"
+        "name": "Popular Mechanics"
       },
-      "author": "Andy Corbley",
-      "title": "Martian Volcanic Discovery Could Be ‘Smoking Gun’ in Search for Life - Good News Network",
-      "description": "“Looking for Martian life in the seeping fissures of the Alba Mons region would make a lot of sense,\" said Mège.",
-      "url": "https://www.goodnewsnetwork.org/martian-volcanic-discovery-could-be-smoking-gun-in-search-for-life/",
-      "urlToImage": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/new-evidence-of-1629186.jpg",
-      "publishedAt": "2026-11-10T14:30:25Z",
-      "content": "This image shows a region of Mars lying on the northern flanks of the Alba Mons volcano. The white spots may be caused by deposition around vents where magmatic gases may be escaping from Marss inter… [+4359 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eatthis.com"
-      },
-      "author": "Alexa Mellardo",
-      "title": "5 Daily Exercises Women Over 70 Need to Keep Their Core Strong - Eat This Not That",
-      "description": "Core exercises for women over 70 from a certified trainer. Five daily moves that help with standing, walking, and balance.",
-      "url": "https://www.eatthis.com/core-exercises-for-women-over-70/",
-      "urlToImage": "https://www.eatthis.com/wp-content/uploads/sites/4/2026/11/mature-fit-woman-thumbs-up-_2389556145.jpg?quality=82&strip=all",
-      "publishedAt": "2026-11-10T14:18:34Z",
-      "content": "A strong, capable core serves as the foundation of essentially every movement you make.\r\nBuilding core strength should be at the top of your wellness priority checklist. After all, your core serves a… [+4858 chars]"
+      "author": "Elizabeth Rayne",
+      "title": "Blood Rain Has Terrified People for Thousands of Years. The Culprit Might Be Growing on Lamp Posts. - Yahoo",
+      "description": "From Tennessee's 1841 flesh shower to Kerala’s crimson monsoon, the sky has some explaining to do—unless the source isn’t coming from on high.",
+      "url": "https://www.popularmechanics.com/science/a74371149/blood-rain/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/e00bbd6435348568a01a538aa2ec4386bed5a19d78547ad25057ecbadb741e64/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpopular_mechanics_642%2F7039a6179c71a48573d46204aef30e76.jpg",
+      "publishedAt": "2026-11-10T14:30:00Z",
+      "content": "On an August afternoon in 1841, something ominous fell from the sky near Lebanon, Tennessee. Two enslaved people working in a tobacco field were horrified when they heard a pattering on the leaves ar… [+5523 chars]"
     },
     {
       "source": {
@@ -766,28 +792,28 @@
     {
       "source": {
         "id": null,
-        "name": "Science Daily"
+        "name": "Thebrighterside.news"
       },
-      "author": null,
-      "title": "Paleontologists discover “one-in-a-million” fossil with 450-million-year-old soft tissue - Science Daily",
-      "description": "Scientists have discovered a remarkably preserved 450-million-year-old fossil containing soft tissues from an ancient starfish relative, revealing unexpected details about marine life more than 200 million years before dinosaurs existed. Found in a museum col…",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261105085201.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/crinoid-soft-tissue-fossil.webp",
-      "publishedAt": "2026-11-10T12:18:08Z",
-      "content": "A fossil dating back more than 450 million years has revealed something scientists almost never find: delicate soft tissues from an animal that lived hundreds of millions of years before dinosaurs ap… [+9460 chars]"
+      "author": "Joshua Shavit",
+      "title": "Three-million-year-old Taung child adds a new twist to human origins - The Brighter Side of News",
+      "description": "The Taung Child dates to about 3 million years ago, while new anatomical comparisons challenge a simple southern African human family tree.",
+      "url": "https://www.thebrighterside.news/post/three-million-year-old-taung-child-adds-a-new-twist-to-human-origins/#article",
+      "urlToImage": "https://www.thebrighterside.news/uploads/2026/11/Australopithecus-africanus.png?auto=webp",
+      "publishedAt": "2026-11-10T12:51:00Z",
+      "content": "<ul><li>Researchers place the Taung Child between 2.96 million and 3.03 million years old using geological dating evidence.</li><li>Comparisons of teeth and brain development suggest fossils grouped … [+11011 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "The Colorado Sun"
+        "name": "ScienceAlert"
       },
-      "author": "Dan England",
-      "title": "This state park is Colorado’s first Urban Night Sky Place. Here is what it means. - The Colorado Sun",
-      "description": "Golden Gate State Park battled “light trespass” from Denver to join Jackson Lake State Park in earning notice from DarkSky International — and from stargazers",
-      "url": "https://coloradosun.com/2026/11/10/urban-night-sky-place-darksky-golden-gate-jackson-state-colorado-parks/",
-      "urlToImage": "https://newspack-coloradosun.s3.amazonaws.com/wp-content/uploads/2026/09/unnamed-17.jpg",
-      "publishedAt": "2026-11-10T11:10:00Z",
-      "content": "More below: Where to take advantage of the darkest skies in Colorado\r\nCarolyn Collins Petersen takes a special joy from sitting on her deck at night and seeing the Milky Way. It reminds her of her ch… [+11083 chars]"
+      "author": "Michelle Starr",
+      "title": "Einstein's Equations Reveal Gravity Can Break And Reconnect Like Magnetic Fields - ScienceAlert",
+      "description": "Everywhere you go in the Universe, gravity exists.",
+      "url": "https://www.sciencealert.com/einsteins-equations-reveal-gravity-can-break-and-reconnect-like-magnetic-fields",
+      "urlToImage": "https://www.sciencealert.com/images/2026/11/warp-1200x675.png",
+      "publishedAt": "2026-11-10T11:04:58Z",
+      "content": "Everywhere you go in the Universe, gravity exists.\r\nIt's inextricably woven into its fabric, forming stars and planets, and choreographing the dance of galaxies.\r\nIt's what keeps our world together a… [+7394 chars]"
     },
     {
       "source": {
@@ -844,6 +870,19 @@
     {
       "source": {
         "id": null,
+        "name": "Big Think"
+      },
+      "author": null,
+      "title": "5 big astronomy \"facts\" that changed in the 21st century - Big Think",
+      "description": "\"Everyone knew\" how these things worked at the turn of the century. Wrong! Today, our understanding of these 5 phenomena is very different.",
+      "url": "https://bigthink.com/starts-with-a-bang/5-astronomy-facts-changed-21st-century/",
+      "urlToImage": "https://bigthink.com/wp-content/uploads/2023/11/uhz1_illus.jpg?w=864&h=488&crop=1",
+      "publishedAt": "2026-11-10T07:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
         "name": "WRAL.com"
       },
       "author": "Liz McLaughlin, WRAL climate change reporter",
@@ -864,7 +903,7 @@
       "description": "We're here.",
       "url": "https://www.sciencealert.com/scientists-simulated-what-earth-would-be-like-if-life-never-existed",
       "urlToImage": "https://www.sciencealert.com/images/2026/11/red-simulation-of-earth.jpg",
-      "publishedAt": "2026-11-10T01:00:50Z",
+      "publishedAt": "2026-11-10T01:04:56Z",
       "content": "We're here. We're not entirely sure how we got here, but we're here.\r\nBut what if we weren't here?\r\nThat's the question scientists posed in a new study, simulating an alternative vision of Earth wher… [+4838 chars]"
     },
     {
@@ -921,16 +960,16 @@
     },
     {
       "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
+        "id": null,
+        "name": "Phys.Org"
       },
-      "author": "Aimee  Picchi",
-      "title": "NASA is hiring astronaut candidates. Some could \"live and work\" on the moon. - CBS News",
-      "description": "The space agency is recruiting its next class of astronauts as the U.S. plans a new mission to the moon. Here's the kind of person NASA is looking for.",
-      "url": "https://www.cbsnews.com/news/nasa-hiring-astronaut-applications-requirements-moon/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2021/05/08/bd6dbd3c-fc2b-48f9-a491-19318ed3cc20/thumbnail/1200x630/da67764a1d95a05f9077d55cc0fb6c14/GettyImages-903955770.jpg",
-      "publishedAt": "2026-11-09T18:56:00Z",
-      "content": "NASA is recruiting its next class of astronauts, inviting U.S. citizens to apply before midnight ET on Dec. 3 for the chance to \"live and work\" on the moon.\r\nThe space agency's application portal sta… [+3674 chars]"
+      "author": null,
+      "title": "Tiny beetle trapped in 53-million-year-old amber is named after Twenty One Pilots - Phys.org",
+      "description": "Preserved in amber for about 53 million years, a beetle has been described as a new species by researchers in Spain and France. Named Cnopus twentyonepilotorum, it is the first puppet beetle (family Aderidae) to be formally described from the Oise amber of no…",
+      "url": "https://phys.org/news/2026-11-tiny-beetle-million-year-amber.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/tiny-beetle-trapped-in.jpg",
+      "publishedAt": "2026-11-09T20:04:16Z",
+      "content": "Preserved in amber for about 53 million years, a beetle has been described as a new species by researchers in Spain and France. Named Cnopus twentyonepilotorum, it is the first puppet beetle (family … [+4042 chars]"
     },
     {
       "source": {
@@ -961,19 +1000,6 @@
     {
       "source": {
         "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "He spent a year on ‘Mars’: NASA science officer emerges from mock mission - Nature",
-      "description": "Engineer Matthew Montgomery, who just finished a 378-day simulated Mars mission, talks about what it was like to be out of contact with the rest of humanity for a two-week blackout.",
-      "url": "https://www.nature.com/articles/d41586-026-03588-w",
-      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03588-w/d41586-026-03588-w_53944982.jpg",
-      "publishedAt": "2026-11-09T18:11:15Z",
-      "content": "Matthew Montgomery, the science officer of a simulated Mars mission organized by NASA, takes part in a Martian geology project.Credit: NASA\r\nCould you survive a year on Mars?\r\nFour engineers now have… [+3779 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Newser"
       },
       "author": "Rob Quinn",
@@ -983,32 +1009,6 @@
       "urlToImage": "https://cdn.newser.com/image/1723368-12-20261109122005.jpeg",
       "publishedAt": "2026-11-09T17:50:00Z",
       "content": "A Thai geologist's hunch about a strange cream-colored fragment in a coal seam has turned out to belong to a 66-pound rodent of unusual size. Researchers from Thailand, France, and Canada say two tee… [+1374 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "Prehistoric whale reveals extreme skull asymmetry - Phys.org",
-      "description": "Sperm whales and pygmy sperm whales are known among mammals for their unusually shaped heads. Unlike most vertebrates, which are bilaterally symmetrical, toothed whales have asymmetrical skulls that accommodate highly specialized organs used for echolocation …",
-      "url": "https://phys.org/news/2026-11-prehistoric-whale-reveals-extreme-skull.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/prehistoric-whale-reve.jpg",
-      "publishedAt": "2026-11-09T17:00:24Z",
-      "content": "Sperm whales and pygmy sperm whales are known among mammals for their unusually shaped heads. Unlike most vertebrates, which are bilaterally symmetrical, toothed whales have asymmetrical skulls that … [+5100 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Chelsea Gohd",
-      "title": "NASA just unveiled $1 million in prizes for students that solve future moon base problems - Space",
-      "description": "\"We have an awful lot of problems that need to be solved.\"",
-      "url": "https://www.space.com/space-exploration/nasa-just-launched-a-usd1-million-moon-base-student-challenge-to-award-cash-prizes-to-students-that-solve-lunar-base-problems",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/q7vCqn7LxFksz2NwjJGvRm-1920-80.jpg",
-      "publishedAt": "2026-11-09T17:00:00Z",
-      "content": null
     },
     {
       "source": {
@@ -1026,6 +1026,19 @@
     {
       "source": {
         "id": null,
+        "name": "Space.com"
+      },
+      "author": "Tariq Malik",
+      "title": "NASA needs more astronauts for moon missions and beyond. You can apply now, but only until Dec. 3 - Space",
+      "description": "\"We just don't have enough people, and we're looking for more,\" one NASA astronaut told Space.com.",
+      "url": "https://www.space.com/space-exploration/human-spaceflight/nasa-needs-more-astronauts-for-moon-missions-and-beyond-you-can-apply-now-but-only-until-dec-3",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/uKcp2YwMdfHRKw3V3tyPb-1920-80.jpg",
+      "publishedAt": "2026-11-09T16:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Quanta Magazine"
       },
       "author": null,
@@ -1039,19 +1052,6 @@
     {
       "source": {
         "id": null,
-        "name": "SciTechDaily"
-      },
-      "author": null,
-      "title": "The Solar System May Have a 6th Dwarf Planet – and It’s Been Hiding in Plain Sight - SciTechDaily",
-      "description": "A newly discovered dwarf planet candidate has a trail stretching back more than a decade in telescope images, giving astronomers a head start in understanding its orbit.",
-      "url": "https://scitechdaily.com/the-solar-system-may-have-a-6th-dwarf-planet-and-its-been-hiding-in-plain-sight/",
-      "urlToImage": null,
-      "publishedAt": "2026-11-09T15:07:56Z",
-      "content": "Artist’s concept of a dwarf planet. Astronomers have discovered a remarkably large icy object beyond Pluto that could become the solar systems sixth officially recognized dwarf planet. Credit: SciTec… [+6139 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Popular Mechanics"
       },
       "author": "Darren Orf",
@@ -1061,6 +1061,19 @@
       "urlToImage": "https://s.yimg.com/lo/mysterio/api/47e3d8a1df3ec34f4300a44fdcfe96fdeeba2730bfac1f3c113b682a1f64a241/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpopular_mechanics_642%2F5dff6f744ce2bdbccad2cce49013b5dc.jpg",
       "publishedAt": "2026-11-09T13:00:00Z",
       "content": "At first glance, the news seems like the opening lines of a Jurassic Park sequel. In a study published in Proceedings of the National Academy of Sciences\r\n, an international team of scientists report… [+4479 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "A quantum breakthrough makes light behave like both a solid and a liquid - Science Daily",
+      "description": "Scientists have observed a bizarre quantum state of matter that combines the structure of a crystal with the frictionless flow of a liquid, all at room temperature. The breakthrough overturns a major practical limitation of exotic quantum experiments and coul…",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261105224536.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/supersolid-state-of-matter.webp",
+      "publishedAt": "2026-11-09T11:21:31Z",
+      "content": "Scientists have demonstrated an extraordinary form of quantum matter that combines two properties that seem incompatible. Known as a supersolid, this unusual state has the orderly structure of a crys… [+11292 chars]"
     },
     {
       "source": {
@@ -1087,6 +1100,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/07Sci-heart-drugs-01b-kqzj/07Sci-heart-drugs-01b-kqzj-mediumSquareAt3X-v2.jpg",
       "publishedAt": "2026-11-08T14:14:56Z",
       "content": "By every measure, the drugs were no better than placebos, full data revealed on Saturday. Was it the fault of the design of the studies, or our very hypotheses about heart disease?"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "EarthSky"
+      },
+      "author": "Kelly Kizer Whitt",
+      "title": "Backward world? Rubin finds a retrograde object past Neptune - EarthSky",
+      "description": "The Rubin Observatory in Chile has discovered a retrograde object in our solar system. It circles the sun in a highly inclined orbit beyond Neptune.",
+      "url": "https://earthsky.org/space/rubin-retrograde-object-far-solar-system-r631/",
+      "urlToImage": "https://earthsky.org/upl/2026/11/retrogradeobject-Rubin-TonyDunn.gif",
+      "publishedAt": "2026-11-08T12:07:11Z",
+      "content": "Rubin Observatory has discovered a retrograde object, currently labeled R631. It orbits the sun beyond the orbit of the 8th planet, Neptune, at a steep inclination. Simulation via Tony Dunn.\r\nThe new… [+5434 chars]"
     },
     {
       "source": {
