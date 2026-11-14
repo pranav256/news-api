@@ -6,8 +6,8 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-14T08:09:27.872468+00:00",
-  "articles_count": 92,
+  "fetched_at": "2026-11-14T16:10:13.174801+00:00",
+  "articles_count": 91,
   "articles": [
     {
       "source": {
@@ -37,6 +37,19 @@
     },
     {
       "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Eric Berger",
+      "title": "Rocket Report: Starship set for historic test flight; a century of Electron - Ars Technica",
+      "description": "You can simplify it as a big tank feeding engines.\"",
+      "url": "https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/electron-livery-1152x648.jpeg",
+      "publishedAt": "2026-11-13T12:00:40Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -47,6 +60,58 @@
       "urlToImage": null,
       "publishedAt": "2026-11-13T10:00:42Z",
       "content": "Male Franciscana dolphins are exceptional babysitters. Scientists are trying to figure out if they are thoughtful fathers or just hope to be."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Holly J. Morris",
+      "title": "Fill in the blank in the quiz: NASA will pay astronauts $___ to live on the moon - NPR",
+      "description": "Plus: Have you been following news about cars and Pete Hegseth this week?",
+      "url": "https://www.npr.org/2026/11/13/g-s1-153174/tesla-nvidia-huang-arch-nasa-gas-trump-news-quiz",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5654x3180+0+1/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F49%2Fe8%2F6cdcff814f81bb087fa86a262042%2Fdarline-jensen-petey.jpg",
+      "publishedAt": "2026-11-13T10:00:00Z",
+      "content": "From left: a possible answer, a wearer of garments, a recipient of a scolding.\r\nAllison Joyce/Getty Images; Sean Gallup/Getty Images; Chip Somodevilla/Getty Images\r\nhide caption\r\ntoggle captioni"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Research advances quantum computing that harnesses speed of light - Phys.org",
+      "description": "Quantum computers have the potential to perform calculations more quickly than supercomputers, but they could be even faster and more energy-efficient if they were built with photons as their basic units, called qubits.",
+      "url": "https://phys.org/news/2026-11-advances-quantum-harnesses.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/purdue-professor-vladi.jpg",
+      "publishedAt": "2026-11-13T03:40:01Z",
+      "content": "Quantum computers have the potential to perform calculations more quickly than supercomputers, but they could be even faster and more energy-efficient if they were built with photons as their basic u… [+10240 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": null,
+      "title": "Who needs sex? Kelp reproduce asexually when no mate is nearby - Nature",
+      "description": "Insights into the reproductive modes of brown algae could help in the fight to protect them in warming climate.",
+      "url": "https://www.nature.com/articles/d41586-026-03665-0",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03665-0/d41586-026-03665-0_53966326.jpg",
+      "publishedAt": "2026-11-13T02:41:25Z",
+      "content": "Both male and female kelp were shown to be capable of reproduction without fertilization.Credit: Madelein_Wolf/Getty\r\nWhen potential mates are scarce, some types of seaweed can take reproduction into… [+1765 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Not afraid of ghosts: Curiosity and fearlessness apparent in German shepherd genes - Phys.org",
+      "description": "German shepherd dogs bred for working are more curious and less neurotic than German shepherds bred for show. A new study from Uppsala University and the Swedish University of Agricultural Sciences has shown that the differences are not only apparent in the d…",
+      "url": "https://phys.org/news/2026-11-ghosts-curiosity-fearlessness-apparent-german.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/curiosity-and-fearless.jpg",
+      "publishedAt": "2026-11-13T00:00:06Z",
+      "content": "German shepherd dogs bred for working are more curious and less neurotic than German shepherds bred for show. A new study from Uppsala University and the Swedish University of Agricultural Sciences h… [+4568 chars]"
     },
     {
       "source": {
@@ -76,6 +141,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Space telescope Euclid sets the new standard for cosmology - Phys.org",
+      "description": "On July 1, 2023, the European Space Agency (ESA) launched the Euclid space telescope into space. Its mission: to create the largest and most detailed map of the universe ever made.",
+      "url": "https://phys.org/news/2026-11-space-telescope-euclid-standard-cosmology.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/space-telescope-euclid.jpg",
+      "publishedAt": "2026-11-12T21:00:01Z",
+      "content": "On July 1, 2023, the European Space Agency (ESA) launched the Euclid space telescope into space. Its mission: to create the largest and most detailed map of the universe ever made.\r\n\"Euclid is a wide… [+4246 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -99,19 +177,6 @@
       "urlToImage": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2026/11/1024/512/hayabusa2.jpg?ve=1&tl=1",
       "publishedAt": "2026-11-12T19:35:00Z",
       "content": "New research published in the journal Icarus discusses 1998 KY26, a near-Earth asteroid that orbits the Sun, and what's behind the unusual movement of the space rock. \r\n1998 KY26 has been proposed as… [+1929 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": "Krystal Kasal",
-      "title": "Space dust particles point to ancient heavy-oxygen water reservoir in the Kuiper belt - Phys.org",
-      "description": "Way out past the asteroid belt, another belt encircles the planets in our solar system. The Kuiper belt, beyond Neptune, preserves icy bodies that escaped much of the processing experienced by objects closer to the sun. Unlike the rocky and metallic asteroid …",
-      "url": "https://phys.org/news/2026-11-space-particles-ancient-heavy-oxygen.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/space-dust-particles-p.jpg",
-      "publishedAt": "2026-11-12T18:30:02Z",
-      "content": "Way out past the asteroid belt, another belt encircles the planets in our solar system. The Kuiper belt, beyond Neptune, preserves icy bodies that escaped much of the processing experienced by object… [+5954 chars]"
     },
     {
       "source": {
@@ -142,15 +207,15 @@
     {
       "source": {
         "id": null,
-        "name": "Space.com"
+        "name": "Phys.Org"
       },
-      "author": "Robert Lea",
-      "title": "Dark matter breakthrough coming? Euclid space telescope unveils its 1st look into the dark universe (video) - Space",
-      "description": "\"So much discovery is yet to come.\"",
-      "url": "https://www.space.com/astronomy/dark-matter-breakthrough-coming-euclid-space-telescope-unveils-its-1st-look-into-the-dark-universe-video",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/6zArwyGLXXZHN5caJ3ZXtN-2000-80.png",
-      "publishedAt": "2026-11-12T17:28:20Z",
-      "content": null
+      "author": null,
+      "title": "Pumpkin seed protein puts a twist on nondairy coffee creamer - Phys.org",
+      "description": "Pumpkin season is about more than cute décor. The squash contains lots of seeds with a high protein content, but they're usually discarded. Researchers reporting in ACS' Journal of Agricultural and Food Chemistry found another way to use the seeds, extracting…",
+      "url": "https://phys.org/news/2026-11-pumpkin-seed-protein-nondairy-coffee.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/pumpkin-seed-protein-p.jpg",
+      "publishedAt": "2026-11-12T17:20:10Z",
+      "content": "Pumpkin season is about more than cute décor. The squash contains lots of seeds with a high protein content, but they're usually discarded. Researchers reporting in ACS' Journal of Agricultural and F… [+3547 chars]"
     },
     {
       "source": {
@@ -164,19 +229,6 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-1149x648.jpeg",
       "publishedAt": "2026-11-12T17:18:10Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Popular Science"
-      },
-      "author": "Andrew Paul",
-      "title": "World’s first ‘dark magic mushroom’ discovered in Florida - Yahoo",
-      "description": "‘Galerina indica’ is both psychedelic and toxic.",
-      "url": "https://www.popsci.com/environment/dark-magic-mushroom-discovery-florida/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/d2682358cad55bf8a3ecfda6cc0207abfe669aa0896749865500a571cf8a4f64/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpopular_science_109%2F98af360cef8e90ee96c05d09c597a7a5.jpg",
-      "publishedAt": "2026-11-12T16:59:00Z",
-      "content": "A mushroom recently discovered in Florida looks unassuming, but this fungus\r\npacks a serious and surprising punch. According to mycologists writing in the journal Current Biology, Galerina indica is … [+2172 chars]"
     },
     {
       "source": {
@@ -220,32 +272,6 @@
     {
       "source": {
         "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "Sea pigs from the abyss host unusual bacteria - Phys.org",
-      "description": "In the deep ocean, translucent sea pigs trundle across the seafloor. Researchers at the University of Tokyo have discovered an unusual bacterium beneath the sea pig's \"skin.\" Through fluorescent imaging, they determined the location of the bacterium, which th…",
-      "url": "https://phys.org/news/2026-11-sea-pigs-abyss-host-unusual.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/sea-pigs-from-the-abys-1.jpg",
-      "publishedAt": "2026-11-12T15:20:01Z",
-      "content": "In the deep ocean, translucent sea pigs trundle across the seafloor. Researchers at the University of Tokyo have discovered an unusual bacterium beneath the sea pig's \"skin.\" Through fluorescent imag… [+5893 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Chelsea Gohd",
-      "title": "Satellite snaps rare birds-eye view of the ISS photo of the day for Nov. 12, 2026 - Space",
-      "description": "Here's something you don't see every day.",
-      "url": "https://www.space.com/space-exploration/international-space-station/satellite-snaps-rare-birds-eye-view-of-the-iss-space-photo-of-the-day-for-nov-12-2026",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/8QP6NKzSZaPwTqQSVwQMdU-1920-80.png",
-      "publishedAt": "2026-11-12T15:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Hackaday"
       },
       "author": "Zoe Skyforest",
@@ -262,12 +288,12 @@
         "name": "Space.com"
       },
       "author": "Robert Lea",
-      "title": "Astronomers stunned after James Webb Space Telescope discovers the earliest pair of black hole-powered quasars - Space",
-      "description": "\"There is no definitive theoretical explanation for how a single one of these giant quasars exists so early in the age of our universe, much less two.\"",
+      "title": "Astronomers stunned after James Webb Space Telescope discovers the earliest pair of black hole-powered quasars - Yahoo Tech",
+      "description": "Using the James Webb Space Telescope, astronomers have discovered the oldest pair of black hole-powered quasars ever seen. There's just one problem: they sho...",
       "url": "https://www.space.com/astronomy/black-holes/astronomers-stunned-after-james-webb-space-telescope-discovers-the-earliest-pair-of-black-hole-powered-quasars",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/PGf7N6dzk34osSj9dniJ4a-2000-80.png",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/2c59a80f7dce63074bad527523953bb0cf6cd4a005f37292dfe639ab47d8ab67/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fspace_311%2Ff60a5b30a63c4c820a1d3afab4d9d90d.png",
       "publishedAt": "2026-11-12T13:00:00Z",
-      "content": null
+      "content": "When you buy through links on our articles, Future and its syndication partners may earn a commission.\r\nAn illustration of Npwawenakaulua the oldest and tightest pair of quasars ever discovered. | Cr… [+5137 chars]"
     },
     {
       "source": {
@@ -275,12 +301,12 @@
         "name": "ScienceAlert"
       },
       "author": "Michelle Starr",
-      "title": "JWST Detects a 'Forbidden' Signal Never Before Seen in The Universe – Not Even in a Lab - ScienceAlert",
-      "description": "One of the most important molecules in the Universe has been hiding its light for decades.",
+      "title": "JWST Detects a 'Forbidden' Signal Never Before Seen in The Universe – Not Even in a Lab - Yahoo Tech",
+      "description": "Predicted 40 years ago. Never seen... 'til now.",
       "url": "https://www.sciencealert.com/jwst-detects-a-forbidden-signal-never-before-seen-in-the-universe-not-even-in-a-lab",
-      "urlToImage": "https://www.sciencealert.com/images/2026/11/hh211-1200x675.png",
-      "publishedAt": "2026-11-12T12:04:35Z",
-      "content": "One of the most important molecules in the Universe has been hiding its light for decades.\r\nIt's the foundation for almost all gas-phase interstellar chemistry  including the formation of complex org… [+6488 chars]"
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/8379941c8591f96002d5adb9b0d6b5ff5f23b676f41779b1c49e2325910424c7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsciencealert_160%2Fc6d0343097edf4d923c187683204ad77.png",
+      "publishedAt": "2026-11-12T12:00:00Z",
+      "content": "One of the most important molecules in the Universe has been hiding its light for decades.\r\nIt's the foundation for almost all gas-phase interstellar chemistry  including the formation of complex org… [+6329 chars]"
     },
     {
       "source": {
@@ -337,19 +363,6 @@
     {
       "source": {
         "id": null,
-        "name": "Thecoolist.com"
-      },
-      "author": "TheCoolist Team",
-      "title": "Few people know what the two sides of aluminum foil are for - TheCoolist",
-      "description": "One side of aluminum foil is shiny, the other dull. Where the difference comes from, which side should touch the food, and the one product where it matters.",
-      "url": "https://www.thecoolist.com/few-people-know-what-the-two-sides-of-aluminum-foil-are-for-h2r4-m2/",
-      "urlToImage": "https://cdn.thecoolist.com/wp-content/uploads/2026/11/iStock-1370366987.jpg",
-      "publishedAt": "2026-11-12T10:46:03Z",
-      "content": "Pull a sheet of aluminum foil off the roll and you’ll see it: one side is mirror-bright, the other is matte. Some cooks swear one side should always touch the food, and the Spanish daily MARCA recent… [+2707 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "The Conversation Africa"
       },
       "author": "Natasha Hurley-Walker",
@@ -401,6 +414,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "EurekAlert"
+      },
+      "author": null,
+      "title": "Sea pigs from the abyss host unusual bacteria - EurekAlert!",
+      "description": "In the deep ocean, translucent sea pigs trundle across the seafloor. Researchers at the University of Tokyo have discovered an unusual bacterium beneath the sea pig&rsquo;s &ldquo;skin.&rdquo; Through fluorescent imaging, they determined the location of the b…",
+      "url": "https://www.eurekalert.org/news-releases/1151591",
+      "urlToImage": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/d16a43d3-864f-4980-9214-472e35f8caee/Rendition/thumbnail/Content/Public",
+      "publishedAt": "2026-11-12T05:06:07Z",
+      "content": "image: The plump, soft-bodied sea pig can grow to around 15 centimeters long and walks on enlarged, leglike tube feet. Sea pigs sometimes gather in large groups to feed on organic-rich seafloor sedim… [+7391 chars]"
+    },
+    {
+      "source": {
         "id": "cnn",
         "name": "CNN"
       },
@@ -424,32 +450,6 @@
       "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11258-0/MediaObjects/41586_2026_11258_Fig1_HTML.png",
       "publishedAt": "2026-11-11T22:14:40Z",
       "content": "Cell culture, transfection and labelling\r\nCell culture\r\nCOS-7 cells (Sigma, 87021302) and HEK293T cells (Beyotime, C6008) were cultured in Dulbeccos Modified Eagle Medium (Thermo Fisher, 41965-039) s… [+42188 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "A plant RNA-binding protein senses 2′,3′-cNMP produced by insect effectors - Nature",
-      "description": "The rice RNA-binding protein NIB1 detects 2′,3′-cyclic nucleotide products from insect saliva&nbsp;RNase, forming nuclear condensates that recruit EDS1 to activate defence, revealing a conserved messenger-based immune pathway in plants.",
-      "url": "https://www.nature.com/articles/s41586-026-11259-z",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11259-z/MediaObjects/41586_2026_11259_Fig1_HTML.png",
-      "publishedAt": "2026-11-11T22:14:23Z",
-      "content": "Plant materials and growth conditions\r\nRice plants (Oryza sativa L. subsp. japonica cv. ZH11) grown in experimental fields in Shanghai or Hainan, or under controlled greenhouse conditions, were used … [+31221 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "Transient nuclear softening for zygotic gene activation in mice - Nature",
-      "description": "A distinct physical nuclear state acquired by embryos at the beginning of life supports the initiation of the zygotic transcription program.",
-      "url": "https://www.nature.com/articles/s41586-026-11240-w",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11240-w/MediaObjects/41586_2026_11240_Fig1_HTML.png",
-      "publishedAt": "2026-11-11T22:14:23Z",
-      "content": "Animals\r\nMice (ICR and B6C3F1/Jc1 or slc (BCF1)) aged 515weeks53 were purchased from CLEA Japan, Japan SLC or Kiwa Laboratory Animals, maintained in light-controlled (light: 08:00 to 20:00; dark: 20:… [+79969 chars]"
     },
     {
       "source": {
@@ -489,6 +489,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/17/multimedia/11SCI-BIOSECURITY-25-YEARS-01-fbhl/11SCI-BIOSECURITY-25-YEARS-01-fbhl-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-11T21:00:38Z",
       "content": "Letters filled with anthrax spores exposed flaws in the United States’ biosecurity systems. Experts say many of those issues still exist."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Deep-sea mollusk houses bacteria in tiny 'dragon balls,' revealing a new symbiotic structure - Phys.org",
+      "description": "Researchers at The Hong Kong University of Science and Technology (HKUST) have discovered a previously unknown specialized organelle structure in a deep-sea mollusk living at cold seeps in the South China Sea. Dedicated to maintaining bacterial symbiosis, thi…",
+      "url": "https://phys.org/news/2026-11-deep-sea-mollusk-houses-bacteria.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/hkust-researchers-disc.jpg",
+      "publishedAt": "2026-11-11T21:00:01Z",
+      "content": "Researchers at The Hong Kong University of Science and Technology (HKUST) have discovered a previously unknown specialized organelle structure in a deep-sea mollusk living at cold seeps in the South … [+8387 chars]"
     },
     {
       "source": {
@@ -623,6 +636,19 @@
     {
       "source": {
         "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Nuclear softening at an embryo's two-cell stage may be vital for further embryonic development - Phys.org",
+      "description": "A research team led by Kyushu University and the National Institute of Genetics has discovered that during the two-cell stage of mouse embryonic development, the embryo's nucleus softens and deforms. This nuclear softening is an integral part of major zygotic…",
+      "url": "https://phys.org/news/2026-11-nuclear-softening-embryo-cell-stage.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/the-softening-of-an-em.jpg",
+      "publishedAt": "2026-11-11T16:00:47Z",
+      "content": "A research team led by Kyushu University and the National Institute of Genetics has discovered that during the two-cell stage of mouse embryonic development, the embryo's nucleus softens and deforms.… [+5551 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Live Science"
       },
       "author": "Harry Baker",
@@ -636,19 +662,6 @@
     {
       "source": {
         "id": null,
-        "name": "Eatthis.com"
-      },
-      "author": "Alexa Mellardo",
-      "title": "5 Bed Exercises That Strengthen Your Core Faster Than Crunches After 65 - Eat This Not That",
-      "description": "Try 5 bed exercises for core strength after 65, with tips from two experts. Gentler on the spine than crunches.",
-      "url": "https://www.eatthis.com/bed-exercises-core-strength-after-65/",
-      "urlToImage": "https://www.eatthis.com/wp-content/uploads/sites/4/2026/11/mature-woman-crunches-exercise_2821144937.jpg?quality=82&strip=all",
-      "publishedAt": "2026-11-11T15:08:04Z",
-      "content": "Get ready to strengthen your core without leaving your bed.\r\nCrunches are a common addition to ab day workouts for those who want to strengthen their core, build definition, and improve stability. Bu… [+4156 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Space.com"
       },
       "author": "Daisy Dobrijevic",
@@ -658,19 +671,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/sUscbyNcGzAkq7QeXUWQJn-2560-80.jpg",
       "publishedAt": "2026-11-11T15:00:00Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Theregister.com"
-      },
-      "author": "Richard Speed",
-      "title": "NASA asks Earthlings to wave as Voyager 1 reaches a light-day away - The Register",
-      "description": "Flash VGR in Morse code on November 17 to salute the veteran probe – just don't expect it to see you",
-      "url": "https://www.theregister.com/offbeat/2026/11/11/nasa-asks-earthlings-to-wave-as-voyager-1-reaches-a-light-day-away/5309127",
-      "urlToImage": "https://image.theregister.com/249462.jpg?imageId=249462&x=0&y=11.82&cropw=100&croph=63.55&panox=0&panoy=11.82&panow=100&panoh=63.55&width=1200&height=683",
-      "publishedAt": "2026-11-11T14:13:20Z",
-      "content": "Voyager 1 will become the first human-made object to reach one light-day from Earth next week, and NASA wants us to mark the occasion by flashing our lights at the sky.\r\nThe spacecraft, which suffere… [+1758 chars]"
     },
     {
       "source": {
@@ -765,19 +765,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "By carefully arranging molecules, scientists can control how a material responds to light, heat and physical force - Phys.org",
-      "description": "University of Missouri researchers have created a single solid material that responds differently depending on what it's exposed to. Shine light on it, and it changes from yellow to white, an indication of a chemical reaction. Heat it, and it undergoes a diff…",
-      "url": "https://phys.org/news/2026-11-molecules-scientists-material-physical.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/one-material-three-res.jpg",
-      "publishedAt": "2026-11-10T22:10:06Z",
-      "content": "University of Missouri researchers have created a single solid material that responds differently depending on what it's exposed to. Shine light on it, and it changes from yellow to white, an indicat… [+3688 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -866,6 +853,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/09/multimedia/09cli-global-emissions-01-jlbf/09cli-global-emissions-01-jlbf-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-10T13:40:41Z",
       "content": "It’s the first drop in planet-warming pollution since the pandemic in 2020. But researchers cautioned that the decline could be short-lived."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Michelle Starr",
+      "title": "Einstein's Equations Reveal Gravity Can Break And Reconnect Like Magnetic Fields - Yahoo",
+      "description": "Relativity still has some tricks up its sleeve.",
+      "url": "https://www.sciencealert.com/einsteins-equations-reveal-gravity-can-break-and-reconnect-like-magnetic-fields",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/95ecae96589625d6e374ded8047fd9bdc4fe8abf038bc47f96cc7d400f98ba80/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsciencealert_160%2F74940a6168b66b6ffaf52d4b505c21d1.png",
+      "publishedAt": "2026-11-10T11:00:00Z",
+      "content": "Everywhere you go in the Universe, gravity exists.\r\nIt's inextricably woven into its fabric, forming stars and planets, and choreographing the dance of galaxies.\r\nIt's what keeps our world together a… [+7354 chars]"
     },
     {
       "source": {
@@ -960,32 +960,6 @@
     },
     {
       "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Aimee  Picchi",
-      "title": "NASA is hiring astronaut candidates. Some could \"live and work\" on the moon. - CBS News",
-      "description": "The space agency is recruiting its next class of astronauts as the U.S. plans a new mission to the moon. Here's the kind of person NASA is looking for.",
-      "url": "https://www.cbsnews.com/news/nasa-hiring-astronaut-applications-requirements-moon/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2021/05/08/bd6dbd3c-fc2b-48f9-a491-19318ed3cc20/thumbnail/1200x630/da67764a1d95a05f9077d55cc0fb6c14/GettyImages-903955770.jpg",
-      "publishedAt": "2026-11-09T18:56:00Z",
-      "content": "NASA is recruiting its next class of astronauts, inviting U.S. citizens to apply before midnight ET on Dec. 3 for the chance to \"live and work\" on the moon.\r\nThe space agency's application portal sta… [+3674 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NewsCenterMaine.com WCSH-WLBZ"
-      },
-      "author": "newscentermaine.com",
-      "title": "Fireball streaks across skies over North Carolina and Tennessee at 47,000 mph, NASA says - newscentermaine.com",
-      "description": null,
-      "url": "https://www.newscentermaine.com/article/news/nation-world/fireball-streaks-across-skies-over-north-carolina-tennessee/507-ee3bd876-e677-4a83-bb55-b4c5fb0588e6",
-      "urlToImage": null,
-      "publishedAt": "2026-11-09T18:40:00Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1026,6 +1000,19 @@
     {
       "source": {
         "id": null,
+        "name": "DOGOnews"
+      },
+      "author": "Kavi  Dolasia",
+      "title": "NASA's Swift Space Observatory Falls Back To Earth - DOGO News",
+      "description": "NASA's Swift Space Observatory Falls Back To Earth has 23 comments.",
+      "url": "https://www.dogonews.com/2026/11/9/nasas-swift-space-observatory-falls-back-to-earth",
+      "urlToImage": "https://cdn4.dogonews.com/images/f0beefc5-0df2-4765-82dc-d57f78682693/untitled-design-12.jpg",
+      "publishedAt": "2026-11-09T15:28:04Z",
+      "content": "An artist's illustration of the Swift telescope in space (Credit: NASA)\r\nThe Swift Space Observatory's 22-year mission has ended. On November 4, 2026, the 3,200-pound (1,450 kg) observatory reentered… [+2235 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Quanta Magazine"
       },
       "author": null,
@@ -1035,6 +1022,19 @@
       "urlToImage": "https://www.quantamagazine.org/wp-content/uploads/2026/11/RNA-World-cr.Mark-Belan-Social.jpg",
       "publishedAt": "2026-11-09T15:24:17Z",
       "content": "Theres scarcely any corner of Earth in which life hasnt gained a foothold. Living organisms shape the clouds, the climate, even the rocks. But how life first appeared on a barren planet some 4 billio… [+6586 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Women's Health"
+      },
+      "author": "Gabrielle Kassel",
+      "title": "Experts Say This Type of O May Offer the Most Health Benefits - Women's Health",
+      "description": "Want to have multiple orgasms? Sex experts explain what exactly qualifies as multiple orgasms and share 8 tips on how to achieve them, alone or with a partner.",
+      "url": "https://www.womenshealthmag.com/sex-and-love/a74358465/multiple-orgasms-how-to/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-2188887872-6933198a0ab56.jpg?crop=1xw:0.7514910536779325xh;center,top&resize=1200:*",
+      "publishedAt": "2026-11-09T13:09:00Z",
+      "content": "Pleasure powerfully contributes to overall well-being. If your sex life feels good, it's likely that you feel good, tooemotionally, mentally, physically, and relationally. That's why, especially for … [+15648 chars]"
     },
     {
       "source": {
@@ -1051,6 +1051,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Thebrighterside.news"
+      },
+      "author": "Joseph Shavit, Joshua Shavit",
+      "title": "A new twist on Schrödinger’s Cat could finally unite quantum mechanics and Einstein's relativity - The Brighter Side of News",
+      "description": "A spontaneous collapse model explores how a simplified quantum universe could acquire a definite geometry without an outside observer.",
+      "url": "https://www.thebrighterside.news/post/a-new-twist-on-schrodingers-cat-could-finally-unite-quantum-mechanics-and-einsteins-relativity/#article",
+      "urlToImage": "https://www.thebrighterside.news/uploads/2026/11/Einstein-relativity.png?auto=webp",
+      "publishedAt": "2026-11-09T12:51:00Z",
+      "content": "<ul><li>A theoretical study applies spontaneous wavefunction collapse to a simplified model of cosmic geometry.</li><li>Its modified dynamics can narrow a superposition toward one definite geometry w… [+11233 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1061,19 +1074,6 @@
       "urlToImage": null,
       "publishedAt": "2026-11-09T06:21:38Z",
       "content": "An injured five-month-old walrus was found huddled next to carcasses in remote Alaska after it became separated from its mother. Its rescue took days and lots of patience."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Gina Kolata",
-      "title": "Doctors Absorb the Stunning Failure of Two High-Profile Heart Drugs",
-      "description": "By every measure, the drugs were no better than placebos, full data revealed on Saturday. Was it the fault of the design of the studies, or our very hypotheses about heart disease?",
-      "url": "https://www.nytimes.com/2026/11/07/science/heart-drugs-failed-novartis-novo-nordisk.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/07Sci-heart-drugs-01b-kqzj/07Sci-heart-drugs-01b-kqzj-mediumSquareAt3X-v2.jpg",
-      "publishedAt": "2026-11-08T14:14:56Z",
-      "content": "By every measure, the drugs were no better than placebos, full data revealed on Saturday. Was it the fault of the design of the studies, or our very hypotheses about heart disease?"
     },
     {
       "source": {
@@ -1155,19 +1155,6 @@
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Lynne Peeples",
-      "title": "Still on the President’s Agenda: Daylight Saving Time",
-      "description": "Following an election-year rout for Republicans, Trump castigated lawmakers for not passing the Sunshine Protection Act. Some scientists have warned against the change.",
-      "url": "https://www.nytimes.com/2026/11/07/science/donald-trump-daylight-saving-time.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/07/multimedia/07SCI-DSL-TRUMP-ltmq/07SCI-DSL-TRUMP-ltmq-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-07T14:21:08Z",
-      "content": "Following an election-year rout for Republicans, Trump castigated lawmakers for not passing the Sunshine Protection Act. Some scientists have warned against the change."
-    },
-    {
-      "source": {
         "id": null,
         "name": "Spacex.com"
       },
@@ -1181,6 +1168,19 @@
     },
     {
       "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Eric Lagatta",
+      "title": "Artemis II moon launch was so powerful it punched a hole in atmosphere - USA Today",
+      "description": "A study suggests the launch of NASA's Space Launch System rocket was so strong, it tore a hole in Earth's atmosphere during the Artemis II mission.",
+      "url": "https://www.usatoday.com/story/tech/space/2026/11/06/nasa-artemis-ii-sls-launch-tore-hole-earth-atmosphere/92640336007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/08/14/PBRE/91300470007-20260402-t-172951-z-456061150-rc-2-mgkauel-8-e-rtrmadp-3-spacemoonartemis.JPG?crop=4528,2548,x0,y669&width=3200&height=1801&format=pjpg&auto=webp",
+      "publishedAt": "2026-11-06T17:35:00Z",
+      "content": "<ul><li>NASA's Artemis II mission sent four astronauts on a historic trip around the moon in April.</li><li>The powerful Space Launch System (SLS) rocket used for the launch is NASA's most powerful e… [+4671 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "Live Science"
       },
@@ -1191,19 +1191,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/rdxWJJMC6b4ebt3GNnzcPU-1947-80.jpg",
       "publishedAt": "2026-11-06T17:00:00Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Skyatnightmagazine.com"
-      },
-      "author": "Iain Todd",
-      "title": "Artemis II launch tore a hole in Earth's atmosphere, say scientists - BBC Sky at Night Magazine",
-      "description": "The launch of Artemis II caused three distinct disturbances in Earth's ionosphere. Scientists say future launches could cause more disruption.",
-      "url": "https://www.skyatnightmagazine.com/news/artemis-ii-launch-tore-a-hole-in-earth-atmosphere",
-      "urlToImage": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/16e901cd-94b8-468b-a86c-12373aadd790/thumbnails/2aebd9f9-d921-463e-a78f-7acf9d2713de.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&platform=WEB&w=1200",
-      "publishedAt": "2026-11-06T09:26:26Z",
-      "content": "NASA's Artemis II mission caused enormous disturbances in Earth's atmosphere that scientists say could have disrupted GPS and other communications.\r\nThe pre-print study by scientists from National Ch… [+3290 chars]"
     }
   ]
 }

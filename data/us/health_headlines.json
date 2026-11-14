@@ -6,8 +6,8 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-14T08:09:27.872468+00:00",
-  "articles_count": 76,
+  "fetched_at": "2026-11-14T16:10:13.174801+00:00",
+  "articles_count": 79,
   "articles": [
     {
       "source": {
@@ -37,29 +37,81 @@
     },
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": "fox-news",
+        "name": "Fox News"
       },
-      "author": "Beth Mole",
-      "title": "In reversal, American Cancer Society urges prostate cancer tests for all men - Ars Technica",
-      "description": "Men aged 50–69 and at average risk should get PSA screening every two years.",
-      "url": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Prostate-Cancer.jpg",
-      "publishedAt": "2026-11-12T22:59:51Z",
-      "content": null
+      "author": null,
+      "title": "Healthy runner suffers sudden stroke at 27 as doctors discover possible cause - Fox News",
+      "description": "Patrick Mascoli was running 40 miles a week when a stroke struck at 27. Doctors found a patent foramen ovale that likely sent a clot to his brain.",
+      "url": "https://www.foxnews.com/health/healthy-runner-suffers-sudden-stroke-27-doctors-discover-possible-cause",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/patrick-mascoli-hospital-race-split.jpg",
+      "publishedAt": "2026-11-13T12:00:41Z",
+      "content": "As stroke rates continue to rise among young adults, one Boston man is sharing his experience of a life-threatening event at just 27 years old.\r\nPatrick Mascoli, an engineer and fitness enthusiast, w… [+7568 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Deidre McPhillips, Rhyannon Bartlett-Imadegawa",
+      "title": "Timeline: How the US wrangled the deadly measles virus and how it has come raging back - CNN",
+      "description": "Deadly measles outbreaks have driven case counts higher than they’ve been in the United States since the early 1990s, and the country is on the brink of losing its measles elimination status.",
+      "url": "https://www.cnn.com/2026/11/13/health/measles-elimination-status-vis",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/measles-timeline.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-11-13T11:00:16Z",
+      "content": "Deadly measles outbreaks have driven case counts higher than theyve been in the United States since the early 1990s, and the country is on the brink of losing its measles elimination status.\r\nWhen th… [+7197 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Highly contagious bird flu detected in Wisconsin as officials euthanize infected flock - Fox News",
+      "description": "Wisconsin officials euthanized a backyard poultry flock in Rusk County after confirming a case of highly pathogenic avian influenza in the birds.",
+      "url": "https://www.foxnews.com/health/highly-contagious-bird-flu-detected-wisconsin-officials-euthanize-infected-flock",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/wisconsin-bird-flu-outbreak-rusk-county.jpg",
+      "publishedAt": "2026-11-13T05:20:20Z",
+      "content": "A highly contagious strain of bird flu has struck a backyard poultry flock in Wisconsin, prompting officials to euthanize the birds amid ongoing concerns about the spread of the potentially deadly di… [+1572 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "New York Post"
+        "name": "Medical Xpress"
       },
-      "author": "Allie Yang",
-      "title": "Woman, 44, develops bizarre symptoms after starting an SSRI — and it happened every 15 minutes - New York Post",
-      "description": "Authors of a new case study say that one side effect of SSRIs is under-reported, and could be mistaken for an urgent medical emergency or neurological condition.",
-      "url": "https://nypost.com/2026/11/12/health/woman-develops-bizarre-symptoms-on-ssri-with-six-episodes-every-15-minutes/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/newspress-collage-gcfb7jeg0-1794513155881.jpg?quality=75&strip=all&1794495169&w=1200",
-      "publishedAt": "2026-11-12T21:04:00Z",
-      "content": "About one in six adults are on an antidepressant  and over half of them are on selective serotonin reuptake inhibitors (SSRIs).\r\nBecause they’ve been around for almost four decades, we know a lot abo… [+3044 chars]"
+      "author": null,
+      "title": "Molecular mapping of 8 million cells brings cerebral architecture into focus - Medical Xpress",
+      "description": "University of California, Irvine researchers have mapped approximately 8 million cells in regions deep within the human brain, identifying 60 distinct types and revealing how they form cellular communities. The work offers a foundational reference for investi…",
+      "url": "https://medicalxpress.com/news/2026-11-molecular-million-cells-cerebral-architecture.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/molecular-mapping-of-8.jpg",
+      "publishedAt": "2026-11-13T00:40:21Z",
+      "content": "University of California, Irvine researchers have mapped approximately 8 million cells in regions deep within the human brain, identifying 60 distinct types and revealing how they form cellular commu… [+7356 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": null,
+      "title": "Regular prostate cancer screening recommended under new American Cancer Society guidelines - CBS News",
+      "description": "The American Cancer Society is recommending routine prostate cancer screening for more middle-aged men, in a major change to its guidelines.",
+      "url": "https://www.cbsnews.com/news/prostate-cancer-screening-guidelines/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/09/22/f006bbe2-fab8-427f-a414-09d50ddbbeb7/thumbnail/1200x630/387ff0fc9c02a10dfa4460a73aa60098/prostate-cancer.jpg",
+      "publishedAt": "2026-11-12T22:13:00Z",
+      "content": "Middle-aged men should undergo regular screening for prostate cancer, the American Cancer Society said Thursday in a major change to its guidelines.\r\nThe screening involves a simple blood test, and m… [+4185 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Prevention.com"
+      },
+      "author": "Korin Miller",
+      "title": "Is It Safe to Take Melatonin Every Night? Sleep Experts Explain the Risks - Prevention",
+      "description": "Melatonin may help with jet lag or shift work, but nightly use has risks. Here’s what sleep and medical experts want you to know before taking it.",
+      "url": "https://www.prevention.com/health/sleep-energy/a74415912/melatonin-every-night-sleep-safety/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/34b3e390-18cc-49a6-9684-9c7f21cffb53.jpg?crop=1xw:0.751416430595xh;center,top&resize=1200:*",
+      "publishedAt": "2026-11-12T21:33:28Z",
+      "content": "Getting a solid seven to nine hours of sleep each night is crucial for your brain,heart,immune system, and your ability to deal with everything stressful and annoying that happens during your waking … [+8362 chars]"
     },
     {
       "source": {
@@ -90,15 +142,15 @@
     {
       "source": {
         "id": null,
-        "name": "Health.com"
+        "name": "Press Herald"
       },
-      "author": "https://www.facebook.com/Health/",
-      "title": "What Vitamin D Supplements May Do for Biological Aging - Health.com",
-      "description": "A new study found that vitamin D supplementation improved a key marker of biological aging—but it’s probably too soon to rush to the drugstore. Here’s what to know.",
-      "url": "https://www.health.com/vitamin-d-supplementation-and-healthy-aging-12244609",
-      "urlToImage": "https://www.health.com/thmb/uMhgbz7epjdZUcvD3zR7eGFxT9w=/5171x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-GettyImages-1316976951-ee5d948c552f4cb08d6a559bd41bb984.jpg",
-      "publishedAt": "2026-11-12T19:40:32Z",
-      "content": "You might take vitamin D supplements to support bone health or ease seasonal affective disorder. But 2025 research published in The American Journal of Clinical Nutrition points to another potential … [+4862 chars]"
+      "author": "Sophie Burchell",
+      "title": "Falmouth high schooler publishes women’s health research in medical journal - Portland Press Herald - Maine Sunday Telegram",
+      "description": "The 17-year-old shared what she's learned about the field of women's health <strong>—</strong> and about herself  <strong>—</strong> while shadowing a hospital's labor and delivery unit and diving into data.",
+      "url": "https://www.pressherald.com/2026/11/12/falmouth-high-schooler-publishes-womens-health-research-in-medical-journal/",
+      "urlToImage": "https://www.pressherald.com/wp-content/uploads/sites/4/2026/11/IMG_4809.jpeg?w=780",
+      "publishedAt": "2026-11-12T19:33:55Z",
+      "content": "Falmouth High School senior Hanna Ajemian, second from left, with her mother, father and sister while holding academic awards in May 2026. Falmouth schools recognized Ajemian for her research project… [+3999 chars]"
     },
     {
       "source": {
@@ -125,19 +177,6 @@
       "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03573-3/d41586-026-03573-3_53944970.jpg",
       "publishedAt": "2026-11-12T18:42:03Z",
       "content": "Protection against the respiratory syncytial virus (RSV) must expand to lower-income countries, which are harder hit.Credit: Hailshadow/Getty\r\nSomethings wrong with the data. There are too few people… [+4258 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Jane Sykes",
-      "title": "Column | 4 reasons your cat won’t stop meowing — and what to do about it - The Washington Post",
-      "description": "Hearing your pet wailing in the middle of the night isn’t just disruptive. It could actually signal a health issue that needs to be treated.",
-      "url": "https://www.washingtonpost.com/wellness/2026/11/12/4-reasons-your-cat-wont-stop-meowing-what-do-about-it/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LV5I7KGUBRIMV7PTORQJXY262A_size-normalized.jpg&w=1440",
-      "publishedAt": "2026-11-12T18:00:00Z",
-      "content": "I have a 13-year-old spayed tabby cat that does not go outdoors. Lately she has been meowing incessantly. She starts about 5 a.m. and wakes up everyone in the house. After I feed her, she stops, but … [+345 chars]"
     },
     {
       "source": {
@@ -168,15 +207,28 @@
     {
       "source": {
         "id": null,
-        "name": "Financial Times"
+        "name": "Phys.Org"
       },
       "author": null,
-      "title": "New brain atlas promises disease breakthroughs - Financial Times",
-      "description": "Biggest-ever map of brain region crucial to movement shines light on conditions including Parkinson’s, schizophrenia and autism",
-      "url": "https://www.ft.com/content/e9ce1070-0c61-450a-ac75-ddabb0edfa69?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F11aaf9b5-600c-481c-a8e3-c3d4e160c7d4.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "publishedAt": "2026-11-12T16:00:19Z",
-      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+      "title": "Tiny cracks and a 9-volt battery could help fight deadly superbugs - Phys.org",
+      "description": "As superbugs become harder to treat and antibiotic resistance continues to rise worldwide, Flinders University scientists have uncovered an unlikely ally in the fight to prevent infections before they take hold. They have found that carefully controlled micro…",
+      "url": "https://phys.org/news/2026-11-tiny-volt-battery-deadly-superbugs.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/tiny-cracks-and-a-9-vo.jpg",
+      "publishedAt": "2026-11-12T16:40:01Z",
+      "content": "As superbugs become harder to treat and antibiotic resistance continues to rise worldwide, Flinders University scientists have uncovered an unlikely ally in the fight to prevent infections before the… [+4647 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Ed Cara",
+      "title": "Teen Gets Anaphylaxis From Energy Drink - Gizmodo",
+      "description": "The boy developed a severe allergic reaction to an increasingly popular ingredient in energy drinks and other products.",
+      "url": "https://gizmodo.com/a-teen-suffered-a-severe-allergy-attack-after-sipping-an-energy-drink-the-trigger-wasnt-what-doctors-expected-2000838873",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/11/energy-drink-cans-1200x675.jpg",
+      "publishedAt": "2026-11-12T15:40:18Z",
+      "content": "People with food allergies have to be careful about the meals and drinks they consume. A case report out today, however, shows that some allergic attacks can be caused by unexpected sources.\r\nAnnabel… [+2903 chars]"
     },
     {
       "source": {
@@ -206,19 +258,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "OregonLive"
-      },
-      "author": "Dr. Keith Roach",
-      "title": "Dear Doctor: I took medication for ED and developed severe pain. Is that normal? - OregonLive.com",
-      "description": "Taking the ED drug Cialis caused severe leg pain, but there are lower-dose alternatives available.",
-      "url": "https://www.oregonlive.com/advice/2026/11/dear-doctor-i-took-medication-for-ed-and-developed-severe-pain-is-that-normal.html",
-      "urlToImage": "https://www.oregonlive.com/resizer/v2/XO2IEWUVDNDF7JODY2R2VK6RJE.jpeg?auth=33129d0a56609d03df508665cef6ef16b2c8c1cb2448b3e8876a307e73e85282&width=1280&smart=true",
-      "publishedAt": "2026-11-12T15:00:00Z",
-      "content": "Dear Doctor Roach: Im a 61-year-old man who is in very good health and works out regularly. Ive begun to experience minor erectile dysfunction (ED). My general practitioner prescribed tadalafil (Cial… [+3278 chars]"
-    },
-    {
-      "source": {
         "id": "the-washington-post",
         "name": "The Washington Post"
       },
@@ -229,32 +268,6 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Z52S6CMWDVJXC7QDBGUBJVAXOM_size-normalized.jpg&w=1440",
       "publishedAt": "2026-11-12T14:46:47Z",
       "content": "Erin Fenton, 33, doesnt remember a time when she wasnt allergic to peanuts. It all started with a fateful bite of a cookie when she was 11 months old that caused her to break out in hives and a cough… [+28 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Ebola in DR Congo: Millions of dollars going missing as virus spreads, MSF warns - BBC",
-      "description": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
-      "url": "https://www.bbc.com/news/articles/cx98757ymm6zo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4358/live/fa767be0-de8d-11f1-9afe-1f03bfe02283.jpg",
-      "publishedAt": "2026-11-12T13:02:37Z",
-      "content": "This means \"ensuring response personnel are properly trained, paid, equipped, and supported, and directing resources towards areas where needs are greatest,\" it said."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TODAY"
-      },
-      "author": "A. Pawlowski",
-      "title": "Don’t Ignore This 1 ‘Under-Appreciated’ Warning Sign of Heart Trouble, Doctor Warns - TODAY.com",
-      "description": "Shortness of breath can be a heart disease symptom, especially if accompanies leg swelling. Doctor explains when the warning sign should be checked out.",
-      "url": "https://www.today.com/health/disease/heart-disease-symptom-shortness-of-breath-expert-tip-rcna605693",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-11/Expert-tip-of-the-day-shortness-of-breath-as11112026-d48376.jpg",
-      "publishedAt": "2026-11-12T13:00:40Z",
-      "content": "Chest pain is a well-known heart disease warning sign, but theres another symptom to watch for when it comes to cardiovascular trouble.\r\nIt could show up gradually, disrupting everyday tasks, or even… [+2544 chars]"
     },
     {
       "source": {
@@ -337,6 +350,19 @@
     {
       "source": {
         "id": null,
+        "name": "Food & Wine"
+      },
+      "author": "https://www.facebook.com/foodandwine",
+      "title": "What Happens to Your Brain When You Eat Peanuts Daily for 16 Weeks? Researchers Found Out - Food & Wine",
+      "description": "Could eating peanuts daily help keep your brain sharp as you age? A new study found that older adults who ate the unsalted, skin-on roasted variety for 16 weeks showed improved insulin responsiveness in brain regions linked to memory. While more research is n…",
+      "url": "https://www.foodandwine.com/peanut-consumption-brain-health-insulin-study-12238806",
+      "urlToImage": "https://www.foodandwine.com/thmb/Jl7D5Nz7nsJILkxMYFrblLl1T8Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Older-adults-nuts-brain-regions-memory-FT-DGTL1126-1d5cea933a1f434481078cf748b19fa7.jpg",
+      "publishedAt": "2026-11-12T10:01:00Z",
+      "content": "Peanuts may be a humble legume, but a new study suggests that a few handfuls could potentially do wonders for the aging brain.\r\nIn September, researchers at Maastricht University Medical Center in th… [+3577 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Science Daily"
       },
       "author": null,
@@ -392,7 +418,7 @@
         "name": "BBC News"
       },
       "author": null,
-      "title": "Trying Tourette's device was the best day of my life - BBC",
+      "title": "Trying Tourette's device tested by Lewis Capaldi was the best day of my life - BBC",
       "description": "Katie is one of many that say a device developed by researchers in Nottingham helped calm her symptoms.",
       "url": "https://www.bbc.com/news/articles/cmp3g3e5q4zxo",
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8c24/live/cdba35d0-ddc3-11f1-a50f-85eebf9e50e5.jpg",
@@ -415,15 +441,41 @@
     {
       "source": {
         "id": null,
-        "name": "fox8.com"
+        "name": "Nature.com"
       },
-      "author": "FOX 8 News",
-      "title": "Measles exposure reported at several locations and events in Lake and Geauga counties - FOX 8 News",
-      "description": null,
-      "url": "https://fox8.com/news/measles-exposure-at-several-locations-and-events-in-lake-and-geauga-counties/",
-      "urlToImage": null,
-      "publishedAt": "2026-11-11T22:36:44Z",
-      "content": null
+      "author": null,
+      "title": "Bistable regulation of adipocyte heterogeneity governs thermogenesis - Nature",
+      "description": "IL-1β from neutrophils and macrophages stabilizes nearby brown adipocytes in a low-UCP1 state; cold temperature reduces IL-1β&nbsp;via sympathetic nerves, leading to transition to a high-UCP1&nbsp;state and increased thermogenesis, while higher temperatures h…",
+      "url": "https://www.nature.com/articles/s41586-026-11308-7",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11308-7/MediaObjects/41586_2026_11308_Fig1_HTML.png",
+      "publishedAt": "2026-11-11T23:27:36Z",
+      "content": "Mouse lines\r\nAll animal experiments were approved by the Institutional Animal Care and Use Committees of City of Hope (protocol 17014). Mice were maintained under a 12h12h darklight cycle in a temper… [+34385 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": null,
+      "title": "Validation of clinical and preclinical obesity across global cohorts - Nature",
+      "description": "A large-scale data analysis assesses the Lancet Commission’s proposed diagnostic framework for obesity, finding that this framework, in which BMI is combined with other criteria, such as waist circumference&nbsp;and organ function, is more useful than classif…",
+      "url": "https://www.nature.com/articles/s41586-026-11237-5",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11237-5/MediaObjects/41586_2026_11237_Fig1_HTML.png",
+      "publishedAt": "2026-11-11T22:14:49Z",
+      "content": "To our knowledge, this is the first large-scale, multinational study to comprehensively evaluate the Lancet Commission diagnostic framework1 against the widely used BMI-based classification. Previous… [+13557 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KTLA Los Angeles"
+      },
+      "author": "Jocelyn Fiset",
+      "title": "Death reported from E. coli outbreak tied to California pumpkin farm - KTLA",
+      "description": "Health officials in California reported on Tuesday that a person has died in connection with an E. coli outbreak that sickened people who all visited the same San Luis Obispo pumpkin farm in October. The San Luis Obispo County Public Health Department confirm…",
+      "url": "https://ktla.com/news/california/san-luis-obispo-pumpkin-farm-ecoli-outbreak-death/",
+      "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2026/09/2026-pumpkin-picking-tips.png?w=1280",
+      "publishedAt": "2026-11-11T22:12:04Z",
+      "content": "Health officials in California reported on Tuesday that a person has died in connection with an E. coli outbreak that sickened people who all visited the same San Luis Obispo pumpkin farm in October.… [+3945 chars]"
     },
     {
       "source": {
@@ -454,6 +506,19 @@
     {
       "source": {
         "id": null,
+        "name": "WKYC.com"
+      },
+      "author": "WKYC",
+      "title": "Measles exposure reported at 7 locations in Geauga, Lake counties - WKYC",
+      "description": null,
+      "url": "https://www.wkyc.com/article/news/health/measles-geauga-lake-counties-exposure-public-health-berkshire-kent-state-virus/95-6489a533-b341-4850-9587-bb726df35181",
+      "urlToImage": null,
+      "publishedAt": "2026-11-11T21:42:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
         "name": "KING5.com"
       },
       "author": "king5.com",
@@ -463,6 +528,19 @@
       "urlToImage": null,
       "publishedAt": "2026-11-11T21:19:00Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": null,
+      "title": "Evolutionary dynamics in the years preceding acute myeloid leukaemia - Nature",
+      "description": "The somatic evolutionary histories of haematopoietic cells in the years preceding acute myeloid leukaemia diagnosis show that the clonal dynamics of blood comply with a set of simple evolutionary rules.",
+      "url": "https://www.nature.com/articles/s41586-026-11269-x",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11269-x/MediaObjects/41586_2026_11269_Fig1_HTML.png",
+      "publishedAt": "2026-11-11T20:10:18Z",
+      "content": "Longitudinal peripheral blood DNA samples\r\nLongitudinal peripheral blood DNA samples were obtained from blood serum samples biobanked as part of UKCTOCS (ISRCTN22488978; ClinicalTrials.gov identifier… [+35636 chars]"
     },
     {
       "source": {
@@ -480,15 +558,15 @@
     {
       "source": {
         "id": null,
-        "name": "Women's Health"
+        "name": "Futurity: Research News"
       },
-      "author": "Bridie Wilkins",
-      "title": "Metabolic walking builds lean muscle and promotes weight loss – try this simple workout - Women's Health",
-      "description": "Metabolic walking is a low-impact exercise routine that elevates traditional walks by adding speed intervals, inclines, or resistance. Here's how to do it.",
-      "url": "https://www.womenshealthmag.com/uk/fitness/workouts/a74398469/metabolic-walking/",
-      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/3b051a0f-141d-425d-bc9e-45f1f31713ad.jpg?crop=1.00xw:0.752xh;0,0.248xh&resize=1200:*",
-      "publishedAt": "2026-11-11T20:02:37Z",
-      "content": "Between Japanese interval walking, the viral 12-3-30 treadmill walk and soft hiking, walking has evolved from a basic daily habit into something you can tailor to target specific benefits. You can us… [+6124 chars]"
+      "author": "U. Copenhagen",
+      "title": "Regular coffee drinking appears to change how your gut works - Futurity",
+      "description": "If you drink coffee regularly, it appears to alter not only your gut bacteria but also the physiology of the gut itself.",
+      "url": "https://www.futurity.org/coffee-gut-function-changes-3352622/",
+      "urlToImage": "https://www.futurity.org/wp/wp-content/uploads/2026/11/coffee-gut-function-changes-1600.jpg",
+      "publishedAt": "2026-11-11T19:01:22Z",
+      "content": "If you drink coffee regularly, it appears to alter not only your gut bacteria but also the physiology of the gut itself.\r\nThat’s the conclusion of a study from the University of Copenhagen, which may… [+3690 chars]"
     },
     {
       "source": {
@@ -506,32 +584,6 @@
     {
       "source": {
         "id": null,
-        "name": "STAT"
-      },
-      "author": "Andrew Joseph",
-      "title": "BMI alternative would flip obesity diagnosis for millions, study finds - STAT",
-      "description": "A newly proposed way of identifying obesity could flip the diagnoses of millions of people. Proponents argue it could lead to more precise care.",
-      "url": "https://www.statnews.com/2026/11/11/obesity-diagnosis-bmi-lancet-commission-proposal-impact/",
-      "urlToImage": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_1327253268_Editorial_Use_Only-1024x576.jpeg",
-      "publishedAt": "2026-11-11T18:27:57Z",
-      "content": "LONDON Millions of people would have their obesity diagnoses flipped from having obesity to not, and vice versa if an alternate way of defining the disease supplanted the standard body mass index mea… [+1081 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Martha Stewart"
-      },
-      "author": "https://www.facebook.com/marthastewart/",
-      "title": "The Best Types of Puzzles to Keep Your Brain Sharp as You Age - Martha Stewart",
-      "description": "From crossroads to Sudoku, experts explain how different puzzles challenge your brain and which ones to try for healthy aging.",
-      "url": "https://www.marthastewart.com/best-puzzles-to-keep-your-brain-sharp-12246591",
-      "urlToImage": "https://www.marthastewart.com/thmb/dUutKws2nRrkz9dSekgorFc87Qg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2204129229-a3e6e17e4fd448c39f348e23b8c07716.jpg",
-      "publishedAt": "2026-11-11T18:00:00Z",
-      "content": "Unwinding over a cup of tea with a crossword or piecing together a complex jigsaw puzzle on a slow evening is a satisfying way to enjoy downtimeand a good way to put your brain to work. Especially as… [+4762 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Medical Xpress"
       },
       "author": null,
@@ -545,28 +597,15 @@
     {
       "source": {
         "id": null,
-        "name": "Health.com"
-      },
-      "author": "https://www.facebook.com/Health/",
-      "title": "6 Foods That Lower Blood Pressure Better Than Pomegranate Juice - Health.com",
-      "description": "Pomegranate juice is known to help with hypertension, a condition affecting about half of adults in the U.S. These everyday foods can help too.",
-      "url": "https://www.health.com/foods-to-lower-blood-pressure-better-than-pomegranate-juice-12188950",
-      "urlToImage": "https://www.health.com/thmb/oKwd8BY65btt_0GtY5ST9ks6MYg=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-GettyImages-1357023299-26ab6bda53ed4355aa4012b429081b41.jpg",
-      "publishedAt": "2026-11-11T17:00:00Z",
-      "content": "Pomegranate juice isnt the only food worth adding to your routine when blood pressure is on your radar. Several foods offer nutrients that can help keep your blood pressure in a healthy range and mai… [+4535 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Medical Xpress"
       },
-      "author": "Medical Xpress",
+      "author": null,
       "title": "Molecular brace traps two cancer-driving proteins to suppress prostate cancer growth in preclinical tests - Medical Xpress",
-      "description": null,
+      "description": "Many modern cancer drugs typically target a specific protein or signaling pathway to treat tumors. Now, researchers at the University of Michigan Health Rogel Cancer Center are taking a new approach by throwing a molecular wrench into the machinery driving pr…",
       "url": "https://medicalxpress.com/news/2026-11-molecular-brace-cancer-proteins-suppress.html",
-      "urlToImage": null,
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/a-new-anti-cancer-stra.jpg",
       "publishedAt": "2026-11-11T16:00:01Z",
-      "content": null
+      "content": "Many modern cancer drugs typically target a specific protein or signaling pathway to treat tumors. Now, researchers at the University of Michigan Health Rogel Cancer Center are taking a new approach … [+4785 chars]"
     },
     {
       "source": {
@@ -593,19 +632,6 @@
       "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41588-026-02832-3/MediaObjects/41588_2026_2832_Fig1_HTML.png",
       "publishedAt": "2026-11-11T14:25:11Z",
       "content": "This study complies with all relevant ethical regulations. Ethical oversight is maintained for both UK Biobank and BRIDGES. UK Biobank data were accessed under application 102655, and access to BRIDG… [+24751 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "Energy drinks linked to 11 times more reports of cardiac arrest - Science Daily",
-      "description": "A new study found that energy drinks and stimulant supplements were linked to disproportionately frequent reports of serious heart problems, including 11 times more reports of cardiac arrest and 4.5 times more reports of heart attacks. Young adults accounted …",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261110042543.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/cybersport-gamer-drinking-energy-drink.webp",
-      "publishedAt": "2026-11-11T13:13:22Z",
-      "content": "Energy drinks and stimulant supplements are raising new concerns about heart health after researchers discovered a striking pattern in reports of serious cardiovascular emergencies. Products containi… [+9816 chars]"
     },
     {
       "source": {
@@ -674,19 +700,6 @@
     },
     {
       "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Mustafa Fattah, M.D., Joe Murphy",
-      "title": "Tracking the drop in U.S. childhood vaccinations: Our methodology - NBC News",
-      "description": "How an NBC News data investigation tracked vaccination and school exemption rates across thousands of counties in the U.S.",
-      "url": "https://www.nbcnews.com/health/health-news/vaccine-data-tracking-rate-vaccination-methodology-rcna608370",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/vaccine-mmr-cover-2x14x-ff68b5.png",
-      "publishedAt": "2026-11-10T22:00:40Z",
-      "content": "Editors note: This 2026 NBC News data investigation is an update of The Vaccine Divide, which was originally published in September 2025. The methodology for both projects is similar. The new data wa… [+5309 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Phys.Org"
       },
@@ -723,6 +736,19 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+0/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbd%2Fa6%2Fcc5e1ac9447eb4899a9f7bb3319a%2F20261028-npr-measlesvaccinepa-vasta-137-horz.jpg",
       "publishedAt": "2026-11-10T10:00:00Z",
       "content": "Measles spreads incredibly fast. For the last few months, so has Dale Weiser's phone number.\r\nWeiser is the clinical services supervisor for the Chester County Health Department in south-central Penn… [+8436 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Health.com"
+      },
+      "author": "https://www.facebook.com/Health/",
+      "title": "How Many Squats You Should Be Able to Do for Your Age, According to a Trainer - Health.com",
+      "description": "Squats are a simple way to gauge strength, balance, and mobility. Learn proper form, how to improve safely, and how your squat number compares with other folks your age",
+      "url": "https://www.health.com/how-many-squats-should-you-do-12244554",
+      "urlToImage": "https://www.health.com/thmb/nuqwIOeQl82CSELRxh5iWW0EjCA=/7360x0/filters:no_upscale():max_bytes(150000):strip_icc()/HDC-GettyImages-980313888-96ea06ddfc5842cb8dc5a4efdf5352e1.jpg",
+      "publishedAt": "2026-11-10T01:22:04Z",
+      "content": "Youre probably squatting throughout the day without even realizing it: crouching down to pet your cat, slipping into the drivers seat of your car, even standing up from your sofa. Those movements all… [+5217 chars]"
     },
     {
       "source": {
@@ -765,6 +791,19 @@
     },
     {
       "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Beth Krietsch",
+      "title": "5 medications that can cause bone thinning — and what to do if you’re on one - The Washington Post",
+      "description": "If you take any of these medications, it’s important to talk with your health care provider about what you can do to stay on top of your bone health.",
+      "url": "https://www.washingtonpost.com/wellness/2026/11/09/5-medications-most-likely-cause-bone-thinning/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YP4IAK4XNHCIHTUL2KZ3O6OUN4_size-normalized.jpg&w=1440",
+      "publishedAt": "2026-11-09T19:00:00Z",
+      "content": "You may know that your bones can get less dense with age, after menopause or when you dont do enough weight-bearing exercises or resistance training. What might not be so apparent is how the medicati… [+85 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "PEOPLE"
       },
@@ -788,6 +827,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/27/multimedia/00SCI-ADA-CONTROVERSY-01-stillpromo/00SCI-ADA-CONTROVERSY-01-stillpromo-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-09T16:41:41Z",
       "content": "It began with a protest at an American Diabetes Association conference. Now a resulting boycott has caused a scientific slowdown, with no end in sight."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AL.com"
+      },
+      "author": "AL.com",
+      "title": "Energy drinks linked to heart attacks, cardiac arrest in young adults, per study - AL.com",
+      "description": null,
+      "url": "https://www.al.com/news/2026/11/energy-drinks-linked-to-heart-attacks-cardiac-arrest-in-young-adults-per-study.html",
+      "urlToImage": null,
+      "publishedAt": "2026-11-09T14:19:00Z",
+      "content": null
     },
     {
       "source": {
@@ -831,15 +883,15 @@
     {
       "source": {
         "id": null,
-        "name": "mindbodygreen.com"
+        "name": "Nxsmediawire.com"
       },
-      "author": "Sela Breen",
-      "title": "Could This Be The Real Reason Women Struggle More With Migraines? - MindBodyGreen",
-      "description": "Women carry the burden of migraine disease risk globally, but the reason why is still unclear.",
-      "url": "https://www.mindbodygreen.com/articles/could-this-be-real-reason-women-struggle-more-with-migraines-how-women-can-take-back-control",
-      "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/sxtboae3bjpsiydr7.jpg",
-      "publishedAt": "2026-11-07T08:00:00Z",
-      "content": "I started struggling with migraines in the beginning of college, which was about the same time I was diagnosed with PMOS (recently renamed from PCOS). I had never had a consistent menstrual cycle, so… [+8711 chars]"
+      "author": "https://www.nxsmediawire.com/",
+      "title": "Shorter daylight hours can trigger depression. Here’s how to fight it - https://www.nxsmediawire.com/",
+      "description": null,
+      "url": "https://www.nxsmediawire.com/news/shorter-daylight-hours-can-trigger-depression-heres-how-to-fight-it/",
+      "urlToImage": null,
+      "publishedAt": "2026-11-07T12:00:00Z",
+      "content": null
     },
     {
       "source": {
@@ -882,6 +934,19 @@
     },
     {
       "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Khloe Quill",
+      "title": "Alzheimer's warning signs could emerge years before memory loss, study finds - Yahoo",
+      "description": "A Science Advances study reveals how brain scan connectivity patterns predict Alzheimer's disease years before memory loss or cognitive decline.",
+      "url": "https://www.foxnews.com/health/alzheimers-warning-signs-emerge-years-before-memory-loss-study-finds",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/d4681603ed199788311a53faa0a4a3b8a0212f4e992189413edf642084485d9a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2Fa334895aaee0e790de100e01f7fe6083.jpg",
+      "publishedAt": "2026-11-06T19:34:29Z",
+      "content": "Small changes in how parts of the brain communicate with one another can help predict a person's likelihood of developing Alzheimer's disease years before any memory lapses appear, according to a stu… [+4337 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -892,32 +957,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/06/multimedia/06SCI-BLUE-SCIENCE-01-fqwp/06SCI-BLUE-SCIENCE-01-fqwp-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-06T16:05:48Z",
       "content": "The Trump administration has sought to reshape the nation’s research infrastructure. Democratic lawmakers, newly empowered, are preparing to push back."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "HuffPost"
-      },
-      "author": null,
-      "title": "Wisconsin Reports Its First Infant Death Linked To Measles In 36 Years - HuffPost",
-      "description": "The death immediately follows Pennsylvania reporting its sixth measles-associated death this year, and New York reporting its first.",
-      "url": "https://www.huffpost.com/entry/wisconsin-infant-measles-death_n_6aedd3e2e4b037ca10338f15",
-      "urlToImage": "https://img.huffingtonpost.com/asset/6aedd9ae1b0000f31dd13067.jpeg?cache=S6WHWDurWS&ops=1200_630",
-      "publishedAt": "2026-11-06T13:49:11Z",
-      "content": "The Wisconsin Department of Health Services said on Thursday that an infant had died in connection with the ongoing measles outbreak in the state.\r\nThe coroner listed measles as the immediate cause o… [+1816 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Katia Hetter",
-      "title": "Can diet and exercise reverse type 2 diabetes? What a new study found - CNN",
-      "description": "An intensive diet and exercise program helped younger adults reverse type 2 diabetes in a clinical trial. Here’s what it takes.",
-      "url": "https://www.cnn.com/2026/11/06/health/type-2-diabetes-remission-diet-exercise-wellness",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2207803434.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-11-06T12:00:15Z",
-      "content": "While an estimated 38 million Americans have type 2 diabetes, the condition is increasingly being diagnosed in younger adults. Without treatment, they face decades of elevated risk for complications … [+8623 chars]"
     },
     {
       "source": {
