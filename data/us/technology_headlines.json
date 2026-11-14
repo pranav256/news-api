@@ -6,9 +6,22 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-14T16:10:13.174801+00:00",
-  "articles_count": 97,
+  "fetched_at": "2026-11-14T21:41:55.364421+00:00",
+  "articles_count": 90,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Kalley Huang",
+      "title": "Tech Leaders Rally Behind Jensen Huang",
+      "description": "In social media posts and letters to Nvidia’s board, Mr. Huang’s billionaire peers described him as a singular leader who could not be replaced at Nvidia.",
+      "url": "https://www.nytimes.com/2026/11/14/technology/silicon-valley-nvidia-jensen-huang.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/14/multimedia/14biz-jensen-support-Huang-vpjh/14biz-jensen-support-Huang-vpjh-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-14T20:57:38Z",
+      "content": "In social media posts and letters to Nvidia’s board, Mr. Huang’s billionaire peers described him as a singular leader who could not be replaced at Nvidia."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -53,6 +66,19 @@
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
+      "author": "Karen Weise",
+      "title": "Inside Microsoft’s Rush to Get Back Online After a Global Outage",
+      "description": "A prolonged outage left many without email and other services, the most recent reminder that the world’s technological underpinnings rely on just a few companies.",
+      "url": "https://www.nytimes.com/2026/11/13/business/microsoft-outage.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/13/multimedia/13biz-microsoft-down-ptmz/13biz-microsoft-down-ptmz-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-13T21:28:58Z",
+      "content": "A prolonged outage left many without email and other services, the most recent reminder that the world’s technological underpinnings rely on just a few companies."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
       "author": "Zane Irwin",
       "title": "Nvidia Scandal Unleashes a Flood of AI-Generated Memes",
       "description": "The revelations surrounding Jensen Huang, who resigned from Nvidia over extramarital affairs, inspired social media posts using the very technology his company helped develop.",
@@ -89,6 +115,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Matthew Murray",
+      "title": "After 3 Weeks and More Than 400,000 Folds, the iPhone Duo's Hinge Is Finally Starting to Fail - CNET",
+      "description": "We built a machine to fold the iPhone Duo until it breaks. Twenty days of 24/7 folding later, Apple's phone shows the first major sign of wear.",
+      "url": "https://www.cnet.com/tech/mobile/iphone-duo-fold-test-3-weeks-starting-fail/",
+      "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/2192.jpeg",
+      "publishedAt": "2026-11-13T16:50:08Z",
+      "content": "Three weeks ago, we put Apple’s new iPhone Duo on our custom foldable phone testing rig, the Fold-a-Phone, to find out how many times it could fold until it broke. It’s not fully broken yet, but the … [+2972 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -102,6 +141,19 @@
     },
     {
       "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Dan Goodin",
+      "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights - Ars Technica",
+      "description": "SignDrop\" exploit lets local users gain all-powerful System rights.",
+      "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1237693734-1152x648-1783631068.jpg",
+      "publishedAt": "2026-11-13T16:26:32Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -112,6 +164,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/13/business/13biz-founder-loss1/13biz-founder-loss1-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-13T15:31:06Z",
       "content": "Throughout the years, tech giants have had mixed records after losing visionary founders who propelled their success. Successors with tech expertise helps."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Digitalfoundry.net"
+      },
+      "author": "William Judd",
+      "title": "QSSR Upgrades Revealed For Six PS5 Games, Live Now in Marvel's Spider-Man 2 - Digital Foundry",
+      "description": "Plus: a new PlayStation blog explains why developers are adding the AI upscaling tech.",
+      "url": "https://www.digitalfoundry.net/news/2026/11/qssr-upgrades-revealed-for-six-ps5-games-live-now-in-marvels-spider-man-2",
+      "urlToImage": "https://images.digitalfoundry.net/73fc718c1695d/1280x720.jpg",
+      "publishedAt": "2026-11-13T15:19:00Z",
+      "content": "Image: Insomniac Games\r\nAs you may remember, QSSR is a new upscaling tech for the base PS5, built from the same \"Project Amethyst\" Sony and AMD collaboration that produced PSSR on PS5 Pro. Quick Spec… [+2518 chars]"
     },
     {
       "source": {
@@ -142,67 +207,67 @@
     {
       "source": {
         "id": null,
-        "name": "New York Post"
+        "name": "Gematsu"
       },
-      "author": "Allie Yang",
-      "title": "Exclusive | People are ‘carrotmaxxing’ and ‘shrimpmaxxing’ for tanner skin — no sun (or food) required - New York Post",
-      "description": "For those who don’t want to go through the trouble of “carrotmaxxing,” so-called tanning pills offer a convenient alternative — but dietitians warn it’s even riskier than do…",
-      "url": "https://nypost.com/2026/11/13/health/people-are-carrotmaxxing-and-shrimpmaxxing-for-tanner-skin/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/newspress-collage-mbuux6cr1-1793990376243.jpg?quality=75&strip=all&1793972397&w=1200",
-      "publishedAt": "2026-11-13T11:58:00Z",
-      "content": "Maintaining a sun-kissed tan takes time.\r\nBut with seven kids between them, best friends Bethany Ferguson and Whit Frink are too busy to sunbathe or hit the tanning bed like they used to.\r\nStill, Fri… [+6367 chars]"
+      "author": "Sal Romano",
+      "title": "Strategy RPG Guild Saga: Vanished Worlds coming to PS5 in May 2027 - Gematsu",
+      "description": "Ontario-based developer Ocelot Technologies will release strategy RPG Guild Saga: Vanished Worlds for PlayStation 5 alongside its full release for PC via Steam in May 2027, the developer announced.",
+      "url": "https://www.gematsu.com/2026/11/strategy-rpg-guild-saga-vanished-worlds-coming-to-ps5-in-may-2027",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/11/Guild-Saga-Vanished-Worlds_11-13-26.jpg",
+      "publishedAt": "2026-11-13T13:15:08Z",
+      "content": "Guild Saga: Vanished Worlds first launched in Early Access for PC on October 10, 2024.“Weve been very happy with how much our audience has embraced Guild Saga: Vanished Worlds throughout its Early Ac… [+4482 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "MacRumors"
+        "name": "Wccftech"
       },
-      "author": "Tim Hardwick",
-      "title": "Apple Launches Two Products Today - MacRumors",
-      "description": "Apple is releasing two new products today, Friday, November 13: the all-new Apple HomeView and the fourth-generation Apple TV 4K, both of which have...",
-      "url": "https://www.macrumors.com/2026/11/13/apple-launches-two-products-today/",
-      "urlToImage": "https://images.macrumors.com/t/wPYeHY6-2xS0BMyi62C601kOVDs=/1600x/article-new/2026/10/apple-pro-tell-logo.jpg",
-      "publishedAt": "2026-11-13T10:37:14Z",
-      "content": "They are doing well and Im very happy there is someone standing for consumers in EU.Apple has lost the plot, Siri AI is useless for now (cant find it useful on Mac, where its available), not even men… [+349 chars]"
+      "author": "Francesco De Meo",
+      "title": "Zelda: Ocarina of Time Remake Sells 5 Million in Four Days, Yet Former Nintendo Leads Say The Series Sold “Like Nothing” Before Breath of the Wild - Wccftech",
+      "description": "The Zelda: Ocarina of Time remake is a smashing success, yet the series was at its lowest before the release of Zelda: Breath of the Wild",
+      "url": "https://wccftech.com/zelda-ocarina-of-time-remake-5-million-yet-series-sold-nothing-before-breath-of-the-wild/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Zelda-Ocarina-of-Time-Success-Series-Sold-Like-Nothing-1920x1072.jpg",
+      "publishedAt": "2026-11-13T12:24:10Z",
+      "content": "The Legend of Zelda: Ocarina of Time remake has become a smashing success, selling over 5 million copies in only four days of availability, but the Nintendo Switch 2 remake of one of the best games e… [+2004 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "BleepingComputer"
+        "name": "Gamewatcher.com"
       },
-      "author": "Sergiu Gatlan",
-      "title": "Microsoft confirms Windows activation failures after November updates - BleepingComputer",
-      "description": "Microsoft has confirmed that this month's Patch Tuesday security updates are causing Windows activation and licensing failures with 0x80041008 error codes.",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/11/12/0_Windows.jpg",
-      "publishedAt": "2026-11-13T09:36:18Z",
-      "content": "Microsoft has confirmed that this month's Patch Tuesday security updates are causing Windows activation and licensing failures with 0x80041008 error codes.\r\nAccording to a Wednesday service alert see… [+2243 chars]"
+      "author": "Fran J. Ruiz",
+      "title": "Warhammer Survivors Gets Promising Post-Launch Content Roadmap Full of Free Updates - GameWatcher",
+      "description": "Warhammer Survivors has just come out, but we're already getting the rundown on what we can expect from its post-laun...",
+      "url": "https://www.gamewatcher.com/warhammer-survivors-gets-promising-post-launch-content-roadmap-full-of-free-updates",
+      "urlToImage": "https://images.gamewatcher.com/news/image/3/1c/48573/social_ss_c948bd619d3d4b548970a38cff48cccf28cd11b8.1920x1080.jpg",
+      "publishedAt": "2026-11-13T12:10:00Z",
+      "content": "Warhammer Survivors has just come out, but were already getting the rundown on what we can expect from its post-launch support, and its roadmap is looking meaty.\r\nDeveloper Auroch Digital announced t… [+1359 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Nintendo Life"
-      },
-      "author": "Liam Doolan",
-      "title": "Zelda Ocarina's ReDead Were Set To Be \"Very, Very Scary\" In The Remake, But Nintendo Decided To \"Dial It Back\" - Nintendo Life",
-      "description": "The team maybe went \"a step too far\", according to the producer",
-      "url": "https://www.nintendolife.com/news/2026/11/zelda-ocarinas-redead-were-set-to-be-very-very-scary-in-the-remake-but-nintendo-decided-to-dial-it-back",
-      "urlToImage": "https://images.nintendolife.com/ef2581fe276ed/1280x720.jpg",
-      "publishedAt": "2026-11-13T04:55:00Z",
-      "content": "Image: Nintendo Life / Nintendo\r\nOcarina of Time's Switch 2 remake isn't really a scary game, but there are still some enemies throughout this adventure that may give players a fright.\r\nPerhaps the m… [+1203 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Techpowerup.com"
+        "name": "Android Authority"
       },
       "author": null,
-      "title": "Xbox Confirms Wolfenstein 3 Coming Soon and Id Software Teases Next Doom Game - TechPowerUp",
-      "description": "It's been a busy week at Xbox Game Studios, with the gaming giant celebrating its 25th anniversary with a slew of new additions to its Xbox Backwards Compatibility on PC program, but it seems as though Xbox CEO, Asha Sharma, had one more trick up her sleeve, …",
-      "url": "https://www.techpowerup.com/354770/xbox-confirms-wolfenstein-3-coming-soon-and-id-software-teases-next-doom-game",
-      "urlToImage": "https://www.techpowerup.com/img/TuL11dwliNqllxF2.jpg",
-      "publishedAt": "2026-11-13T04:53:42Z",
-      "content": "Chrispy_I'm optimistic about the output from MachineGames. They have been spectacularly competent with Wolfenstein, Indy, and show that they really understand how to make fun single-player gunplay wi… [+1798 chars]"
+      "title": "Here’s a demo of Google Calculator’s new Unit Conversion feature and a preview of Pixel Solver - Android Authority",
+      "description": "We got Google Calculator 10.0’s new Unit Conversion feature working, along with the UI for the Gemini-powered Pixel Solver. Take a look!",
+      "url": "https://www.androidauthority.com/google-calculator-unit-conversion-demo-3734899/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2026/11/google_calculator_2.jpg",
+      "publishedAt": "2026-11-13T10:53:00Z",
+      "content": "<ul><li>Google announced Unit Conversion and Pixel Solver for Google Calculator with the November 2026 Pixel Drop, but the new features havent reached all users yet. So we managed to activate them fo… [+3732 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Authority"
+      },
+      "author": null,
+      "title": "Pixel’s November update is breaking AOD, lock screen, and notifications for some users - Android Authority",
+      "description": "Pixel users report that the November 2026 update is breaking the always-on display, lock screen, notifications, and more.",
+      "url": "https://www.androidauthority.com/pixel-november-2026-update-bugs-3734840/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2025/08/google-pixel-10-pro-and-pro-xl-installing-system-update.jpg",
+      "publishedAt": "2026-11-13T09:49:00Z",
+      "content": "<ul><li>Pixel users are reporting several sporadic issues after the November update.</li><li>From Desktop Mode to AOD, Lock screen, and notification drawers, a lot of basic Pixel features dont work a… [+5546 chars]"
     },
     {
       "source": {
@@ -271,6 +336,19 @@
     },
     {
       "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Ryan McCaffrey",
+      "title": "Wolfenstein 3 Confirmed to Be in Development at MachineGames - IGN",
+      "description": "As part of the Xbox's 25th anniversary celebration at Xbox Fanfest in Seattle today, developer MachineGames confirmed what had long been rumored: that Wolfenstein 3 is in development.",
+      "url": "https://www.ign.com/articles/wolfenstein-3-confirmed-to-be-in-development-at-machinegames",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/11/10/image-2-1794348771186.png?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2026-11-13T00:11:00Z",
+      "content": "As part of the Xbox's 25th anniversary celebration at Xbox Fanfest in Seattle today, developer MachineGames confirmed what had long been rumored: that Wolfenstein 3 is in development.\r\nMachineGames w… [+2249 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "MacRumors"
       },
@@ -281,32 +359,6 @@
       "urlToImage": "https://images.macrumors.com/t/_tjfK0vua64wDcGeqmNXpkPzL54=/2048x/article-new/2026/11/Siri-AI-Icon.jpeg",
       "publishedAt": "2026-11-12T23:57:35Z",
       "content": "An upcoming tvOS 27.2.1 update will bring Siri AI to the 2nd- and 3rd-generation Apple TV 4K models, according to Apple.\r\nA support document outlining ‌Siri‌ AI requirements across Apple products say… [+954 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Stevie Bonifield",
-      "title": "Whoop launched a social network where every user has a ‘verified heartbeat’ - The Verge",
-      "description": "Whoop launched a new social network in its app called Whoop Humans, where users can share data from their wearable.",
-      "url": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/whoop-humans-launch-screenshots-trio-2.jpeg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2026-11-12T23:43:22Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nWhoops new Humans platform is like Instagram Stories with updates from your friends fitness tracker data.\r\nWhoops new Humans platform is like Instagram Stories w… [+3069 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Pure Xbox"
-      },
-      "author": "Fraser Gilbert",
-      "title": "Three New Console Features Begin Rolling Out Today For Xbox Insiders (November 12) - Pure Xbox",
-      "description": "Including a \"Shuffle\" feature for dynamic backgrounds!",
-      "url": "https://www.purexbox.com/news/2026/11/three-new-console-features-begin-rolling-out-today-for-xbox-insiders-november-12",
-      "urlToImage": "https://images.purexbox.com/1ff0178bf737e/1280x720.jpg",
-      "publishedAt": "2026-11-12T23:25:00Z",
-      "content": "The announcements are coming thick and fast today! This latest one is for Xbox Insiders, and it concerns three new console features that are rolling out now to members of the Alpha Skip-Ahead tier (w… [+2088 chars]"
     },
     {
       "source": {
@@ -375,19 +427,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Abner Li",
-      "title": "Google rolling out Android 17 QPR3 Beta 4 for Pixel - 9to5Google",
-      "description": "Following the early stable launch of QPR2, Android 17 QPR3 Beta 4 is rolling out to Pixel devices today...",
-      "url": "http://9to5google.com/2026/11/12/android-17-qpr3-beta-3-pixel-2/",
-      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Android-17-QPR1-yellow.jpg?quality=82&strip=all&resize=1200,628",
-      "publishedAt": "2026-11-12T21:16:00Z",
-      "content": "Following the early stable launch of QPR2, Android 17 QPR3 Beta 4 is rolling out to Pixel devices today.\r\nBeta 4 addresses the following issues:\r\nReport issues via the Android Beta Feedback app on Pi… [+720 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -453,6 +492,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Joe Rossignol",
+      "title": "Apple Continues to Move Up iPhone Duo Delivery Dates - MacRumors",
+      "description": "It's a Christmas miracle: some customers who ordered the iPhone Duo through Apple and received an estimated January 25 delivery date saw their...",
+      "url": "https://www.macrumors.com/2026/11/12/iphone-duo-delivery-dates-continue-to-move-up/",
+      "urlToImage": "https://images.macrumors.com/t/22J13y3ZdnwHUE8SOAahOvwzclA=/2500x/article-new/2026/10/Apple-iPhone-Duo-Early-Feature.jpg",
+      "publishedAt": "2026-11-12T20:28:50Z",
+      "content": "It's a Christmas miracle: some customers who ordered the iPhone Duo through Apple and received an estimated January 25 delivery date saw their delivery windows move up to December 14 to December 21 t… [+267 chars]"
+    },
+    {
+      "source": {
         "id": "ign",
         "name": "IGN"
       },
@@ -492,16 +544,16 @@
     },
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": null,
+        "name": "BleepingComputer"
       },
-      "author": "Ryan Whitwam",
-      "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash - Ars Technica",
-      "description": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
-      "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-6-1152x648.jpg",
-      "publishedAt": "2026-11-12T19:23:03Z",
-      "content": null
+      "author": "Bill Toulas",
+      "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw - BleepingComputer",
+      "description": "A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE).",
+      "url": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/11/12/Apache.jpg",
+      "publishedAt": "2026-11-12T19:12:55Z",
+      "content": "A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE).\r\nThe Apache Software Foundation has fixed … [+2458 chars]"
     },
     {
       "source": {
@@ -519,32 +571,6 @@
     {
       "source": {
         "id": null,
-        "name": "Tech Xplore"
-      },
-      "author": null,
-      "title": "Researchers solve a physics puzzle about radiation that could lead to tougher electronics - Tech Xplore",
-      "description": "Researchers have solved a longstanding physics puzzle, explaining why electronic devices can fail catastrophically when exposed to radiation. Their findings may hold the key to engineering new electronics that can better withstand extreme environments, with a…",
-      "url": "https://techxplore.com/news/2026-11-physics-puzzle-tougher-electronics.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/two-photos-are-side-by.jpg",
-      "publishedAt": "2026-11-12T18:50:01Z",
-      "content": "Researchers have solved a longstanding physics puzzle, explaining why electronic devices can fail catastrophically when exposed to radiation. Their findings may hold the key to engineering new electr… [+4603 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Forbes",
-      "title": "Not Many People Can Distinguish This ‘GTA 6’ Footage From Real Life - Forbes",
-      "description": null,
-      "url": "https://www.forbes.com/sites/paultassi/2026/11/12/not-many-people-can-distinguish-this-gta-6-footage-from-real-life/",
-      "urlToImage": null,
-      "publishedAt": "2026-11-12T18:40:28Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
         "name": "9to5Mac"
       },
       "author": "Zac Hall",
@@ -554,6 +580,19 @@
       "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/grokbot.webp?resize=1200,628",
       "publishedAt": "2026-11-12T18:40:00Z",
       "content": "Grok Bot for Mac just gained a bunch of new Apple integrations, including Messages, Mail, Notes, and more.\r\nGrok Bot on Mac can now use Messages, Mail, Notes, Reminders, Calendar, Location, and Conta… [+758 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Seroundtable.com"
+      },
+      "author": "Barry Schwartz",
+      "title": "Google Search Gets Massive Upgrade With Gemini 4 Hydrogen - Search Engine Roundtable",
+      "description": "Google Search has received a \"massive upgrade with Gemini 4 Hydrogen,\" said Nick Fox of Google. \"The biggest model upgrade to Search yet has landed,\" said Robby Stein of Google. It is super fast, has",
+      "url": "https://www.seroundtable.com/google-search-gemini-4-hydrogen-42526.html",
+      "urlToImage": "https://images.seroundtable.com/gemini4hydrogen-02-sneakers-fullwidth-2000format-webp-JPSE9ufL.webp",
+      "publishedAt": "2026-11-12T18:20:00Z",
+      "content": "Google Search has received a \"massive upgrade with Gemini 4 Hydrogen,\" said Nick Fox of Google. \"The biggest model upgrade to Search yet has landed,\" said Robby Stein of Google. It is super fast, has… [+3120 chars]"
     },
     {
       "source": {
@@ -580,32 +619,6 @@
       "urlToImage": "https://www.gearpatrol.com/wp-content/uploads/sites/2/2026/11/christopher-ward-bel-canto-lucia-16x9-Lead-1.webp",
       "publishedAt": "2026-11-12T17:49:24Z",
       "content": "Since no one had ever seen a chiming watch that was so affordable, the watch thrust CW into the spotlight, shifting the watchmaker’s status from enthusiast microbrand to mainstream power player.\r\nSin… [+798 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Wccftech"
-      },
-      "author": "Sarfraz Khan",
-      "title": "AMD Pushes Excessive SSD Writes Fix Via Latest Adrenalin Edition 26.11.1 Optional Driver - Wccftech",
-      "description": "AMD's Adrenalin Edition 26.11.1 update fixes excessive SSD writes for RX 7000/9000 series while acknowledging new bugs in several games.",
-      "url": "https://wccftech.com/amd-pushes-excessive-ssd-writes-fix-via-latest-adrenalin-edition-26-11-1-optional-driver/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/11/AMD-Adrenalin-26.11.1-featured.jpg",
-      "publishedAt": "2026-11-12T17:43:52Z",
-      "content": "The latest AMD update supposedly fixes the problems associated with the Adrenalin driver that kept writing data to the storage drives in the background.\r\nThe problem that left many Radeon users frust… [+1603 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eurogamer.net"
-      },
-      "author": "Robert Purchese",
-      "title": "Xbox boss seemingly champions gen-AI development as she celebrates 25 years of Xbox: \"A small team will be able to build worlds that today demand hundreds of developers\" - Eurogamer.net",
-      "description": "Is Xbox endorsing use of generative AI to make games? A new memo written by leader Asha Sharma certainly seems to suggest so.",
-      "url": "https://www.eurogamer.net/microsoft-xbox-gen-ai-asha-sharma-memo",
-      "urlToImage": "https://assetsio.gnwcdn.com/asha-sharma-xbox-showcase-2026.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2026-11-12T17:32:20Z",
-      "content": "Xbox leader Asha Sharma has alluded to harnessing the power of generative AI when making games, in a memo published this afternoon.\r\nThe memo, titled 25 years of Xbox, charts the growth of Microsoft … [+2087 chars]"
     },
     {
       "source": {
@@ -636,6 +649,45 @@
     {
       "source": {
         "id": null,
+        "name": "Android Authority"
+      },
+      "author": null,
+      "title": "Exclusive: Google’s hidden list of 134 apps that support Gemini task automation - Android Authority",
+      "description": "Google's hidden Android 17 target app list reveals 114 apps for Gemini task automation, plus 20 more in Canary. Here is the full list!",
+      "url": "https://www.androidauthority.com/google-gemini-task-automation-target-apps-list-3734443/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2026/11/The-Gemini-app-on-a-smartphone-screen-scaled.jpg",
+      "publishedAt": "2026-11-12T17:05:00Z",
+      "content": "<ul><li>Googles hidden server-side target app list on Android 17 reveals 134 apps tied to Gemini task automation: 114 on stable Android 17 QPR2 and 20 extra test entries on Android Canary 2611.</li><… [+11408 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Video Games Chronicle"
+      },
+      "author": "Rhiannon Bevan",
+      "title": "Nintendo’s Black Friday deals include Switch 2 and Mario Kart World bundle - Video Games Chronicle",
+      "description": "Nintendo announces its Black Friday deals, starting at the end of November",
+      "url": "https://www.videogameschronicle.com/news/nintendos-black-friday-deals-include-switch-2-and-mario-kart-world-bundle/",
+      "urlToImage": "https://www.videogameschronicle.com/files/2026/11/Nintendo-Black-Friday.jpg",
+      "publishedAt": "2026-11-12T17:01:41Z",
+      "content": "Nintendo has announced its Black Friday deals, including both games and hardware.\r\nThe sale will include a deal on the Nintendo Switch 2 and Mario Kart World bundle. From November 22 to December 5, t… [+1464 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phoronix"
+      },
+      "author": null,
+      "title": "AMD Zen 6 SMT Proves Very Advantageous Even For 256 Core EPYC 9996 Review - Phoronix",
+      "description": "With the now-shipping AMD EPYC 9006 'Venice' SP7 server processors sporting up to 256 Zen 6(C) cores per socket, or 512 cores in a 2P configuration, you may be wondering if Simultaneous Multithreading (SMT) is still worthwhile on these increasingly high core …",
+      "url": "https://www.phoronix.com/review/amd-epyc-zen6-smt",
+      "urlToImage": "https://www.phoronix.net/image.php?id=amd-epyc-zen6-smt&image=amd_zen6_smt_3",
+      "publishedAt": "2026-11-12T16:40:00Z",
+      "content": "With the now-shipping AMD EPYC 9006 \"Venice\" SP7 server processors sporting up to 256 Zen 6(C) cores per socket, or 512 cores in a 2P configuration, you may be wondering if Simultaneous Multithreadin… [+1630 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Xbox.com"
       },
       "author": "Kyle Ocean",
@@ -645,6 +697,71 @@
       "urlToImage": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/FY26-Social-FPD_11-12-26_1920x1080-4180c8ccbf6ff7c58404.jpg",
       "publishedAt": "2026-11-12T16:31:34Z",
       "content": "Dare to play differently with Free Play Days! Sumerian Six,Hypnospace Outlaw, Sunderfolk and STUFFED are available this weekend for XBOX Game Pass Ultimate, Premium and Essential members to play from… [+2737 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nintendo Life"
+      },
+      "author": "Jim Norman",
+      "title": "Nab A Free Shiny Legendary With Pokémon Legends: Z-A's New Limited-Time Mystery Gift Code - Nintendo Life",
+      "description": "Free Bucks",
+      "url": "https://www.nintendolife.com/news/2026/11/nab-a-free-shiny-legendary-with-pokemon-legends-z-as-new-limited-time-mystery-gift-code",
+      "urlToImage": "https://images.nintendolife.com/e87ea648b0a57/1280x720.jpg",
+      "publishedAt": "2026-11-12T16:30:00Z",
+      "content": "The Pokémon Company is keeping the 30th Anniversary celebrations coming, as it has today announced a brand new Mystery Gift event for Pokémon Legends: Z-A that will add a shiny Legendary 'mon to your… [+524 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Pure Xbox"
+      },
+      "author": "Fraser Gilbert",
+      "title": "Asha Sharma Issues Statement On Xbox's 25th Anniversary And The Future Of Gaming - Pure Xbox",
+      "description": "\"Our largest studios will be able to pursue ambitions as far beyond today’s games\"",
+      "url": "https://www.purexbox.com/news/2026/11/asha-sharma-issues-statement-on-xboxs-25th-anniversary-and-the-future-of-gaming",
+      "urlToImage": "https://images.purexbox.com/b535fae3f5360/1280x720.jpg",
+      "publishedAt": "2026-11-12T16:05:00Z",
+      "content": "We've been waiting all week for Xbox to acknowledge its 25th anniversary in a formal fashion, and Xbox CEO Asha Sharma has now issued a statement discussing the past, present and future of the brand … [+3722 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Push Square"
+      },
+      "author": "Sammy Barker",
+      "title": "AMD, Sony Mark PS5's 100 Million Unit Milestone with Signed Consoles - Push Square",
+      "description": "A remarkable feat",
+      "url": "https://www.pushsquare.com/news/2026/11/amd-sony-mark-ps5s-100-million-unit-milestone-with-signed-consoles",
+      "urlToImage": "https://images.pushsquare.com/5113b873e7ffd/1280x720.jpg",
+      "publishedAt": "2026-11-12T16:00:00Z",
+      "content": "Image: Jack Huynh\r\nPS5 is the fourth Sony system to officially ship over 100 million units during its lifespan, and it may be the manufacturers most impressive achievement yet.\r\nThe firm has nimbly n… [+1633 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Emily Mullin",
+      "title": "Synchron Pauses Trials of Its Brain Implant Due to Performance Issues - WIRED",
+      "description": "After its latest device struggled to perform, brain-computer interface startup Synchon halted clinical trials. The company says it will upgrade the implant’s hardware and is at work on a new device.",
+      "url": "https://www.wired.com/story/synchron-pauses-trials-of-its-brain-implant-due-to-performance-issues/",
+      "urlToImage": "https://media.wired.com/photos/6ae951f7e1fce5fdf7878b36/191:100/w_1280,c_limit/SM_Science_Synchron_GettyImages-1610629090.jpg",
+      "publishedAt": "2026-11-12T15:58:00Z",
+      "content": "Brain implant companySynchron has paused clinical trials of its second-generation device after it failed to perform as expected in initial study participants, WIRED has learned.\r\nThe Brooklyn-based s… [+2320 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Kirk McKeand",
+      "title": "'Such a Historic Occasion Deserves Our Full Attention' — Palworld Developer Pocketpair Gives Staff a Five-Day Holiday to Play GTA 6 - IGN",
+      "description": "Palworld developer Pocketpair is giving its staff five days off to make their way through GTA 6.",
+      "url": "https://www.ign.com/articles/pocketpair-gives-employees-five-days-leave-to-play-gta-6",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/10/29/gta-6-jason-and-lucia-drive-by-1793234705694.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2026-11-12T15:44:43Z",
+      "content": "Palworld developer Pocketpair is giving its staff five days off to make their way through GTA 6\r\n.\r\nAll Pocketpair employees have been granted special leave to attend to an urgent five-day business t… [+2182 chars]"
     },
     {
       "source": {
@@ -661,32 +778,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Kotaku"
-      },
-      "author": "John Walker",
-      "title": "Nintendo Reveals Its Black Friday Sale Plans, With Its Own Games Getting Rare $20 Discounts - Kotaku",
-      "description": "Donkey Kong Bananza and Metroid Prime 4 will be be lots cheaper via retailers",
-      "url": "https://kotaku.com/nintendo-black-friday-sale-first-party-games-donkey-kong-metroid-prime-2000756243",
-      "urlToImage": "https://kotaku.com/app/uploads/2026/11/nintendo-black-friday.jpg",
-      "publishedAt": "2026-11-12T15:15:03Z",
-      "content": "Nintendo discounts its in-house games about as often as it warmly encourages downloading ROMs, so it’s something of a big deal to see the announcement that come November 22, games like Donkey Kong Ba… [+2099 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Notebookcheck.net"
-      },
-      "author": "Daniel Schmidt",
-      "title": "Motorola Signature 27: Three cameras, challenging lighting conditions, and surprising results - Notebookcheck",
-      "description": "Motorola Signature 27 Camera review: Original photos from Tromsø showcase the image quality of the main camera, ultra-wide-angle lens, and 200-MP telephoto lens.",
-      "url": "https://www.notebookcheck.net/Motorola-Signature-27-Three-cameras-challenging-lighting-conditions-and-surprising-results.1446797.0.html",
-      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/Motorola/Signature_27/IMG_20261104_195448.jpg",
-      "publishedAt": "2026-11-12T15:00:00Z",
-      "content": "Motorola has equipped the Signature 27 with a comprehensive camera system that includes three rear cameras and an additional Event Vision Sensor (EVS). The 200 MPix periscope camera stands out in par… [+6562 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -697,45 +788,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/12/business/12data-center-slowdown-B1/00data-center-slowdown-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-12T14:42:23Z",
       "content": "Big technology companies saw the tide turn against their giant A.I. projects, but they have the means to weather delays."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Ryan Christoffel",
-      "title": "Apple Home Collection accessories available for pre-order this Friday - 9to5Mac",
-      "description": "Apple's new HomeView (review here) and Apple TV 4K (review) arrive in stores this Friday, November 13. And that same day, the first Apple Home Collection accessories will be available for pre-order.",
-      "url": "https://9to5mac.com/2026/11/12/apple-home-collection-accessories-available-for-pre-order-this-friday/",
-      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-home-collection-lg-schneider.jpg?quality=82&strip=all&resize=1200,628",
-      "publishedAt": "2026-11-12T14:19:00Z",
-      "content": "Apple’s new HomeView (review here) and Apple TV 4K (review) arrive in stores this Friday, November 13. And that same day, the first Apple Home Collection accessories will be available for pre-order.\r… [+1264 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Pokemon.com"
-      },
-      "author": null,
-      "title": "Get Shiny Xerneas in Pokémon Legends: Z‑A via Mystery Gift - Pokemon.com",
-      "description": "Learn the password to add this Legendary Pokémon to your Pokémon Legends: Z-A team.",
-      "url": "https://www.pokemon.com/us/news/get-shiny-xerneas-in-pokemon-legends-z-a-via-mystery-gift",
-      "urlToImage": "https://mcdn.pokemon.com/pokemon-prod/image/upload/c_limit,w_1920/f_auto/v1/live/pcom-cms/static-assets/cms3/us/img/video-games/tiles/pokemon-legends-z-a/distributions/2026/xerneas/pokemon-legends-z-a-169-en.png",
-      "publishedAt": "2026-11-12T14:08:02Z",
-      "content": "Explore Lumiose City with a Shiny Legendary Pokémon at your side by claiming a Shiny Xerneas in Pokémon Legends: Z-A. Whether youre battling around town or delving into the mysterious spatial distort… [+955 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Insider-gaming.com"
-      },
-      "author": "Grant Taylor-Hill",
-      "title": "Palworld Dev Gives All Employees a GTA 6 Holiday Lasting Five Days - Insider Gaming",
-      "description": "Pocketpair, the developer behind Palworld, has given all employees five days off to play Grand Theft Auto 6 next week.",
-      "url": "https://insider-gaming.com/palworld-dev-gives-pocketpair-employees-day-off-gta-6/",
-      "urlToImage": "https://insider-gaming.com/wp-content/uploads/2026/11/Ambrosia_06-scaled.jpg",
-      "publishedAt": "2026-11-12T14:00:43Z",
-      "content": "Pocketpair, the developer behind the sensational monster-catching game, Palworld, has announced a ‘special five-day holiday’ on social media. This is in recognition of the launch of Grand Theft Auto … [+1966 chars]"
     },
     {
       "source": {
@@ -765,32 +817,6 @@
     },
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Andrew Cunningham",
-      "title": "Review: Apple’s M6 iMac is pricey, but it’s still a good choice for a clean desk - Ars Technica",
-      "description": "Apple's M6 keeps the iMac current without shaking things up much.",
-      "url": "https://arstechnica.com/features/2026/11/review-apples-m6-imac-is-pricey-but-its-still-a-good-choice-for-a-clean-desk/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/IMG_9812-1152x648.jpeg",
-      "publishedAt": "2026-11-12T12:00:37Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nintendo Life"
-      },
-      "author": "Ollie Reynolds",
-      "title": "Resident Evil Requiem Crowned 'Ultimate Game Of The Year' At The Golden Joysticks Awards - Nintendo Life",
-      "description": "Capcom cleans up",
-      "url": "https://www.nintendolife.com/news/2026/11/resident-evil-requiem-crowned-ultimate-game-of-the-year-at-the-golden-joysticks-awards",
-      "urlToImage": "https://images.nintendolife.com/7a0d8553bf471/1280x720.jpg",
-      "publishedAt": "2026-11-12T11:45:00Z",
-      "content": "Image: Capcom\r\nResident Evil Requiem has been crowned 'Ultimate Game of the Year' at this year's Golden Joystick Awards.\r\nIn fact, Capcom did remarkably well, scooping a total of six awards, includin… [+2044 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "PCMag.com"
       },
@@ -805,15 +831,15 @@
     {
       "source": {
         "id": null,
-        "name": "TrueAchievements"
+        "name": "Sammyguru.com"
       },
-      "author": null,
-      "title": "Xbox Game Pass adds John Carpenter's Toxic Commando and 9 Kings 1.0 release today - TrueAchievements",
-      "description": "Xbox Game Pass is adding John Carpenter's Toxic Commando to the service today, and 9 Kings gets its 1.0 release as an added bonus.",
-      "url": "https://www.trueachievements.com/news/xbox-game-pass-john-carpenters-toxic-commando-9-kings",
-      "urlToImage": "https://www.trueachievements.com/imgs/180634/xbox-game-pass-new-games-today.jpg",
-      "publishedAt": "2026-11-12T10:40:41Z",
-      "content": "John Carpenter's Toxic Commando will join the Xbox Game Pass library today, on Thursday, November 12, 2026, and 9 Kings will finally launch out of Game Preview. The games will be available on Premium… [+1769 chars]"
+      "author": "Josh Skinner",
+      "title": "Galaxy S27 Colors: The Wallpapers Point to Five Shades, Including Burgundy - SammyGuru",
+      "description": "Samsung's official wallpapers for the Galaxy S27 series hint at five vibrant color options, including burgundy.",
+      "url": "https://sammyguru.com/samsung-galaxy-s27-colors-leak/",
+      "urlToImage": "https://sammyguru.com/wp-content/uploads/2026/11/galaxy-s27-colors-4524h909u6.jpg",
+      "publishedAt": "2026-11-12T10:40:58Z",
+      "content": "SammyGuru is reader-supported. We have affiliate and sponsored partnerships, so we may earn a commission when you buy through links on our site, at no extra cost to you. Posts may contain sponsored o… [+3064 chars]"
     },
     {
       "source": {
@@ -844,19 +870,6 @@
     {
       "source": {
         "id": null,
-        "name": "Gamingbible.com"
-      },
-      "author": "Sam Cawley",
-      "title": "PlayStation Plus secures my 2025 GOTY and it's a must-play for the Fallout crowd - GAMINGbible",
-      "description": "Don't sleep on this one, trust me 🙏",
-      "url": "https://www.gamingbible.com/news/platform/playstation/playstation-plus-2025-goty-fallout-603394-20261111",
-      "urlToImage": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltbc1876152fcd9f07/bltf4504602426d00fc/6af46b915d6eb6216903bc64/atomfallplaystationplusnovember.png",
-      "publishedAt": "2026-11-12T08:00:01Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Gematsu"
       },
       "author": "Sal Romano",
@@ -882,32 +895,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Ollie Barder",
-      "title": "The ‘Zelda: Ocarina Of Time’ Remake Sold Over 5 Million Copies In 4 Days - Forbes",
-      "description": "The recently released and thoroughly excellent remake of 'Zelda: Ocarina of Time' has managed to sell over 5 million units in its first 4 days on sale.",
-      "url": "https://www.forbes.com/sites/olliebarder/2026/11/11/the-zelda-ocarina-of-time-remake-sold-over-5-million-copies-in-4-days/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6aea856746bd6f7f3553987e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2026-11-12T03:38:18Z",
-      "content": "'Zelda: Ocarina of Time' is one of the prettiest games of recent years.\r\nNintendo\r\nThe recently released and thoroughly excellent remake of Zelda: Ocarina of Time has managed to sell over 5 million u… [+2911 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Gene Park",
-      "title": "‘Grand Theft Auto VI’ reportedly passes $1B in sales a week before release - The Washington Post",
-      "description": "Sensor Tower’s sales tracker estimates more than 10 million copies of the game are preordered across PlayStation 5 and Xbox platforms, putting revenue above $1 billion net of returns.",
-      "url": "https://www.washingtonpost.com/entertainment/video-games/2026/11/11/grand-theft-auto-vi-reportedly-passes-1b-sales-week-before-release/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XDVB6GBF3H4IGJHGB3AVDEL7VI_size-normalized.jpg&w=1440",
-      "publishedAt": "2026-11-12T02:10:00Z",
-      "content": "Grand Theft Auto VI is not out until next week, but its already passed an estimated $1 billion in sales, according to market research firm Sensor Tower.\r\nThe firms sales tracker, updated Wednesday, e… [+252 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -918,6 +905,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/11/multimedia/00Biz-Huang-Relationship-wlgb/00Biz-Huang-Relationship-wlgb-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-12T01:57:34Z",
       "content": "Mr. Huang, Nvidia’s chief executive, is already facing scrutiny over an affair with a Chinese businesswoman who U.S. intelligence determined was a Chinese spy."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": null,
+      "title": "Bistable regulation of adipocyte heterogeneity governs thermogenesis - Nature",
+      "description": "IL-1β from neutrophils and macrophages stabilizes nearby brown adipocytes in a low-UCP1 state; cold temperature reduces IL-1β&nbsp;via sympathetic nerves, leading to transition to a high-UCP1&nbsp;state and increased thermogenesis, while higher temperatures h…",
+      "url": "https://www.nature.com/articles/s41586-026-11308-7",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11308-7/MediaObjects/41586_2026_11308_Fig1_HTML.png",
+      "publishedAt": "2026-11-11T23:27:36Z",
+      "content": "Mouse lines\r\nAll animal experiments were approved by the Institutional Animal Care and Use Committees of City of Hope (protocol 17014). Mice were maintained under a 12h12h darklight cycle in a temper… [+34385 chars]"
     },
     {
       "source": {
@@ -934,19 +934,6 @@
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Nathan Edwards",
-      "title": "Hands on with Home Assistant’s new ‘smart home multi-tool’ - The Verge",
-      "description": "The Home Assistant Connect Aux-2 helped me track my fridge temperature and finally set up my in-wall speakers.﻿",
-      "url": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/aux2-hero.jpg?quality=90&strip=all&crop=0%2C10.738824991648%2C100%2C78.522350016704&w=1200",
-      "publishedAt": "2026-11-11T22:00:00Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nThe Home Assistant Connect Aux-2 helped me track my fridge temperature and finally set up my in-wall speakers.\r\nIf you buy something from a link, The Verge may e… [+7682 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "SlashGear"
       },
@@ -960,19 +947,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "BleepingComputer"
-      },
-      "author": "Lawrence Abrams",
-      "title": "eMudhra revokes 8 more CA certificates after private key mishap - BleepingComputer",
-      "description": "Certificate authority eMudhra has revoked eight additional intermediate CA certificates after an investigation into its recent certificate security incident found improper handling of private keys during the certificate-generation process.",
-      "url": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
-      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/10/20/certificate.jpg",
-      "publishedAt": "2026-11-11T21:27:40Z",
-      "content": "Certificate authority eMudhra has revoked eight additional intermediate CA certificates after an investigation into its recent certificate security incident found improper handling of private keys du… [+4338 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -983,58 +957,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/11/multimedia/11biz-spacex-lawsuit-lmbq/11biz-spacex-lawsuit-lmbq-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-11T20:51:49Z",
       "content": "The company had argued that the case, involving eight former workers, must be resolved before an arbitrator."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PhoneArena"
-      },
-      "author": "PhoneArena",
-      "title": "And just like that, the iPhone Air 2 looks like a worse deal than the original iPhone Air - PhoneArena",
-      "description": null,
-      "url": "https://www.phonearena.com/news/iphone-air-2-looks-like-a-worse-deal-than-the-original-iphone-air_id184744",
-      "urlToImage": null,
-      "publishedAt": "2026-11-11T20:34:21Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Stephen Clark",
-      "title": "Anduril says its first satellite can see adversaries maneuver in orbital night - Ars Technica",
-      "description": "What's unique is it's got a huge dynamic range. We can see things in full dark.\"",
-      "url": "https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/longwaveirsensor-1152x648.jpg",
-      "publishedAt": "2026-11-11T20:22:03Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Renée Onque",
-      "title": "Don't believe these 3 longevity myths, doctors say: The most important factors 'don't cost anything' - CNBC",
-      "description": "With the wellness economy growing, experts break down three of modern America's commonly believed longevity myths — and what you should know instead.",
-      "url": "https://www.cnbc.com/make-it/2026/11/11/longevity-myths-doctors-aging.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108549240-1794422333695-gettyimages-2210374494-pi-3224074.jpeg?v=1794422461&w=1920&h=1080",
-      "publishedAt": "2026-11-11T19:06:41Z",
-      "content": "Eat more blueberries. Work out more than you think you need. Buy that new wearable device, which tracks your sleep better than the last one did.\r\nThese are just a few of the various longevity tips yo… [+6944 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Lifehacker.com"
-      },
-      "author": "Daniel Oropeza",
-      "title": "What to Expect From Best Buy's 2026 Black Friday and Cyber Monday Sales - Lifehacker",
-      "description": "Best Buy has sales going all the way to Christmas.",
-      "url": "https://lifehacker.com/tech/what-to-know-about-best-buy-black-friday-2026-sales",
-      "urlToImage": "https://lifehacker.com/imagery/articles/01M6PVBT1AQZCDFJKV7T68456D/hero-image.fill.size_1200x675.png",
-      "publishedAt": "2026-11-11T17:49:24Z",
-      "content": null
     },
     {
       "source": {
@@ -1061,19 +983,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/11/us/11DC-megsapeed-promo/11DC-megsapeed-promo-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-11T17:11:59Z",
       "content": "Treasury Secretary Scott Bessent confronted Commerce Secretary Howard Lutnick last week about why the administration had not put restrictions on advanced chip sales to Megaspeed."
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Tom Phillips",
-      "title": "Tekken Legend Katsuhiro Harada Says He Wishes 'Hardware Like the Xbox Series S Wouldn't Be Released' - IGN",
-      "description": "Tekken development legend Katsuhiro Harada had some strong comments for Microsoft's lower-powered Xbox Series S console, dubbing it a \"weaker child\" with \"awkwardly lower performance.\"",
-      "url": "https://www.ign.com/articles/tekken-legend-katsuhiro-harada-says-he-wishes-hardware-like-the-xbox-series-s-wouldnt-be-released",
-      "urlToImage": "https://assets-prd.ignimgs.com/2022/11/30/seriess-1624390081463-1669817083526.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "publishedAt": "2026-11-11T15:14:22Z",
-      "content": "Tekken development legend Katsuhiro Harada had some strong comments for Microsoft's lower-powered Xbox Series S console, dubbing it a \"weaker child\" with \"awkwardly lower performance.\"\r\nA number of v… [+4142 chars]"
     },
     {
       "source": {
