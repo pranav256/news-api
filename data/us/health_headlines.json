@@ -6,8 +6,8 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-14T00:29:05.242892+00:00",
-  "articles_count": 79,
+  "fetched_at": "2026-11-14T08:09:27.872468+00:00",
+  "articles_count": 76,
   "articles": [
     {
       "source": {
@@ -19,7 +19,7 @@
       "description": "The federal government had planned to require poor adults to prove they were working or lose insurance coverage starting Jan. 1. Now, it will let states wait until July.",
       "url": "https://www.nytimes.com/2026/11/13/us/politics/medicaid-work-requirement-delay.html",
       "urlToImage": "https://static01.nyt.com/images/2026/11/13/multimedia/13dc-medicaid-qmwz/13dc-medicaid-qmwz-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-13T23:10:21Z",
+      "publishedAt": "2026-11-14T02:22:25Z",
       "content": "The federal government had planned to require poor adults to prove they were working or lose insurance coverage starting Jan. 1. Now, it will let states wait until July."
     },
     {
@@ -37,6 +37,45 @@
     },
     {
       "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Beth Mole",
+      "title": "In reversal, American Cancer Society urges prostate cancer tests for all men - Ars Technica",
+      "description": "Men aged 50–69 and at average risk should get PSA screening every two years.",
+      "url": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Prostate-Cancer.jpg",
+      "publishedAt": "2026-11-12T22:59:51Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Allie Yang",
+      "title": "Woman, 44, develops bizarre symptoms after starting an SSRI — and it happened every 15 minutes - New York Post",
+      "description": "Authors of a new case study say that one side effect of SSRIs is under-reported, and could be mistaken for an urgent medical emergency or neurological condition.",
+      "url": "https://nypost.com/2026/11/12/health/woman-develops-bizarre-symptoms-on-ssri-with-six-episodes-every-15-minutes/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/newspress-collage-gcfb7jeg0-1794513155881.jpg?quality=75&strip=all&1794495169&w=1200",
+      "publishedAt": "2026-11-12T21:04:00Z",
+      "content": "About one in six adults are on an antidepressant  and over half of them are on selective serotonin reuptake inhibitors (SSRIs).\r\nBecause they’ve been around for almost four decades, we know a lot abo… [+3044 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Peter Dockrill",
+      "title": "The Number of Teeth in Your Mouth Could Be a Major Warning Sign of Dementia - ScienceAlert",
+      "description": "We still don't fully understand the causes of dementia, but scientists are making progress.",
+      "url": "https://www.sciencealert.com/the-number-of-teeth-in-your-mouth-could-be-a-major-warning-sign-of-dementia",
+      "urlToImage": "https://www.sciencealert.com/images/2026/11/dental-x-ray.jpg",
+      "publishedAt": "2026-11-12T21:01:59Z",
+      "content": "We still don't fully understand the causes of dementia, but scientists are making progress.\r\nMost encouragingly, research suggests that almost half of dementia cases could be reduced, at least tempor… [+6211 chars]"
+    },
+    {
+      "source": {
         "id": "fox-news",
         "name": "Fox News"
       },
@@ -50,16 +89,16 @@
     },
     {
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
+        "id": null,
+        "name": "Health.com"
       },
-      "author": "Daniel Wu",
-      "title": "What new prostate cancer recommendations say about who should get blood tests - The Washington Post",
-      "description": "The American Cancer Society’s first update to prostate cancer screening guidance in more than a decade endorsed regular PSA tests for certain older men.",
-      "url": "https://www.washingtonpost.com/health/2026/11/12/new-prostate-cancer-guidelines-suggest-regular-blood-tests-most-older-men/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/DKVADZET6JJLUGKCWXSPJXNS5I.jpg&w=1440",
-      "publishedAt": "2026-11-12T19:32:43Z",
-      "content": "Most men between the ages of 50 and 69 should take a blood test to check for prostate cancer every two years, the American Cancer Society said Thursday, in its first update to screening guidelines fo… [+35 chars]"
+      "author": "https://www.facebook.com/Health/",
+      "title": "What Vitamin D Supplements May Do for Biological Aging - Health.com",
+      "description": "A new study found that vitamin D supplementation improved a key marker of biological aging—but it’s probably too soon to rush to the drugstore. Here’s what to know.",
+      "url": "https://www.health.com/vitamin-d-supplementation-and-healthy-aging-12244609",
+      "urlToImage": "https://www.health.com/thmb/uMhgbz7epjdZUcvD3zR7eGFxT9w=/5171x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-GettyImages-1316976951-ee5d948c552f4cb08d6a559bd41bb984.jpg",
+      "publishedAt": "2026-11-12T19:40:32Z",
+      "content": "You might take vitamin D supplements to support bone health or ease seasonal affective disorder. But 2025 research published in The American Journal of Clinical Nutrition points to another potential … [+4862 chars]"
     },
     {
       "source": {
@@ -89,16 +128,29 @@
     },
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": "the-washington-post",
+        "name": "The Washington Post"
       },
-      "author": "Beth Mole",
-      "title": "Man’s secret use of synthetic testosterone for cows nearly destroyed his heart - Ars Technica",
-      "description": "Doctors warn that such life-threatening cases are becoming more common.",
-      "url": "https://arstechnica.com/health/2026/11/mans-secret-use-of-synthetic-testosterone-for-cows-nearly-destroyed-his-heart/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-595668825-1152x648.jpg",
-      "publishedAt": "2026-11-12T18:17:19Z",
-      "content": null
+      "author": "Jane Sykes",
+      "title": "Column | 4 reasons your cat won’t stop meowing — and what to do about it - The Washington Post",
+      "description": "Hearing your pet wailing in the middle of the night isn’t just disruptive. It could actually signal a health issue that needs to be treated.",
+      "url": "https://www.washingtonpost.com/wellness/2026/11/12/4-reasons-your-cat-wont-stop-meowing-what-do-about-it/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LV5I7KGUBRIMV7PTORQJXY262A_size-normalized.jpg&w=1440",
+      "publishedAt": "2026-11-12T18:00:00Z",
+      "content": "I have a 13-year-old spayed tabby cat that does not go outdoors. Lately she has been meowing incessantly. She starts about 5 a.m. and wakes up everyone in the house. After I feed her, she stops, but … [+345 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Fox News",
+      "title": "Health experts warn against popular olive oil trend touted by Kourtney Kardashian, Hailey Bieber - New York Post",
+      "description": "Taking shots of olive oil has become a popular trend on social media, with celebrities like Kourtney Kardashian and Hailey Bieber touting the practice for its supposed health benefits.",
+      "url": "https://www.foxnews.com/food-drink/viral-olive-oil-shots-could-lead-weight-gain-health-expert-warns",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/148485677.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-11-12T17:51:00Z",
+      "content": "Taking shots of olive oil has become a popular trend on social media, with celebrities like Kourtney Kardashian and Hailey Bieber touting the practice for its supposed health benefits.\r\nHowever, some… [+3119 chars]"
     },
     {
       "source": {
@@ -125,19 +177,6 @@
       "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F11aaf9b5-600c-481c-a8e3-c3d4e160c7d4.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
       "publishedAt": "2026-11-12T16:00:19Z",
       "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Ed Cara",
-      "title": "Teen Gets Anaphylaxis From Energy Drink - Gizmodo",
-      "description": "The boy developed a severe allergic reaction to an increasingly popular ingredient in energy drinks and other products.",
-      "url": "https://gizmodo.com/a-teen-suffered-a-severe-allergy-attack-after-sipping-an-energy-drink-the-trigger-wasnt-what-doctors-expected-2000838873",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/11/energy-drink-cans-1200x675.jpg",
-      "publishedAt": "2026-11-12T15:40:18Z",
-      "content": "People with food allergies have to be careful about the meals and drinks they consume. A case report out today, however, shows that some allergic attacks can be caused by unexpected sources.\r\nAnnabel… [+2903 chars]"
     },
     {
       "source": {
@@ -170,13 +209,13 @@
         "id": null,
         "name": "OregonLive"
       },
-      "author": "OregonLive.com",
+      "author": "Dr. Keith Roach",
       "title": "Dear Doctor: I took medication for ED and developed severe pain. Is that normal? - OregonLive.com",
-      "description": null,
+      "description": "Taking the ED drug Cialis caused severe leg pain, but there are lower-dose alternatives available.",
       "url": "https://www.oregonlive.com/advice/2026/11/dear-doctor-i-took-medication-for-ed-and-developed-severe-pain-is-that-normal.html",
-      "urlToImage": null,
+      "urlToImage": "https://www.oregonlive.com/resizer/v2/XO2IEWUVDNDF7JODY2R2VK6RJE.jpeg?auth=33129d0a56609d03df508665cef6ef16b2c8c1cb2448b3e8876a307e73e85282&width=1280&smart=true",
       "publishedAt": "2026-11-12T15:00:00Z",
-      "content": null
+      "content": "Dear Doctor Roach: Im a 61-year-old man who is in very good health and works out regularly. Ive begun to experience minor erectile dysfunction (ED). My general practitioner prescribed tadalafil (Cial… [+3278 chars]"
     },
     {
       "source": {
@@ -206,6 +245,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "TODAY"
+      },
+      "author": "A. Pawlowski",
+      "title": "Don’t Ignore This 1 ‘Under-Appreciated’ Warning Sign of Heart Trouble, Doctor Warns - TODAY.com",
+      "description": "Shortness of breath can be a heart disease symptom, especially if accompanies leg swelling. Doctor explains when the warning sign should be checked out.",
+      "url": "https://www.today.com/health/disease/heart-disease-symptom-shortness-of-breath-expert-tip-rcna605693",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-11/Expert-tip-of-the-day-shortness-of-breath-as11112026-d48376.jpg",
+      "publishedAt": "2026-11-12T13:00:40Z",
+      "content": "Chest pain is a well-known heart disease warning sign, but theres another symptom to watch for when it comes to cardiovascular trouble.\r\nIt could show up gradually, disrupting everyday tasks, or even… [+2544 chars]"
+    },
+    {
+      "source": {
         "id": "fox-news",
         "name": "Fox News"
       },
@@ -220,15 +272,15 @@
     {
       "source": {
         "id": null,
-        "name": "TODAY"
+        "name": "Spectrum News"
       },
-      "author": "A. Pawlowski",
-      "title": "Don’t Ignore This 1 ‘Under-Appreciated’ Warning Sign of Heart Trouble, Doctor Warns - TODAY.com",
-      "description": "Shortness of breath can be a heart disease symptom, especially if accompanies leg swelling. Doctor explains when the warning sign should be checked out.",
-      "url": "https://www.today.com/health/disease/heart-disease-symptom-shortness-of-breath-expert-tip-rcna605693",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-11/Expert-tip-of-the-day-shortness-of-breath-as11112026-d48376.jpg",
-      "publishedAt": "2026-11-12T13:00:40Z",
-      "content": "Chest pain is a well-known heart disease warning sign, but theres another symptom to watch for when it comes to cardiovascular trouble.\r\nIt could show up gradually, disrupting everyday tasks, or even… [+2544 chars]"
+      "author": null,
+      "title": "DEC discovers rare disease in upstate New York deer - Spectrum News",
+      "description": "For hunters in contaminated areas, starting Nov. 12, there are collection stations to get harvested deer tested.",
+      "url": "https://spectrumlocalnews.com/nys/central-ny/news/2026/11/12/dec-finds-chronic-wasting-disease-in-livingston-county-deer",
+      "urlToImage": "https://s7d2.scene7.com/is/image/TWCNews/deerryanthompson",
+      "publishedAt": "2026-11-12T12:48:00Z",
+      "content": "For the first time since 2005, a wild deer has been found with chronic wasting disease (CWD). While this case stems from Livingston County, the New York State Department of Environmental Conservation… [+5133 chars]"
     },
     {
       "source": {
@@ -242,6 +294,19 @@
       "urlToImage": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/1/7/5/180ddc92-2fdb-4ad1-a0bd-be0973cf2571/gty_221213_doctor_patient_blood_pressure_800x450.jpg",
       "publishedAt": "2026-11-12T12:48:00Z",
       "content": "CHICAGO — Intensive antihypertensive therapy to target systolic blood pressure (BP) less than 120 mm Hg can lower the chance of strokes, heart attacks, or other major cardiovascular events in people … [+12487 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC Focus Magazine"
+      },
+      "author": "Ian Taylor",
+      "title": "What's the best way to reverse memory decline? - BBC Science Focus Magazine",
+      "description": "Your gut has a lot to offer",
+      "url": "https://www.sciencefocus.com/the-human-body/reverse-memory-decline-ageing-2",
+      "urlToImage": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/22f8465f-6608-46e4-ac65-b2b3e872d078/thumbnails/07257588-2981-4a8c-b201-b4d111c398cf.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&platform=WEB&w=1200",
+      "publishedAt": "2026-11-12T12:13:07Z",
+      "content": "Could the key to preserving your mind be hiding in your gut? It sounds like the sort of claim that belongs in a supplement advert rather than a scientific journal.\r\nYet a growing body of research sug… [+3695 chars]"
     },
     {
       "source": {
@@ -285,6 +350,19 @@
     {
       "source": {
         "id": null,
+        "name": "Cureus.com"
+      },
+      "author": null,
+      "title": "A Rare Case of Urinary Bladder Metastasis From Gastric Adenocarcinoma: A Case Report - Cureus",
+      "description": "The urinary bladder localisation of a gastric adenocarcinoma is a very uncommon situation, generally tied to an advanced stage of the primary tumour and a poor prognosis.\r\n\r\nThis case involves a 48-year-old man who presented to the emergency department with a…",
+      "url": "https://www.cureus.com/articles/534874-a-rare-case-of-urinary-bladder-metastasis-from-gastric-adenocarcinoma-a-case-report",
+      "urlToImage": "https://assets.cureus.com/uploads/figure/file/2192630/article_river_e99e3a60db9f11f1950005efc7e38020-Group-1.png",
+      "publishedAt": "2026-11-12T08:57:58Z",
+      "content": "ISSN: 2168-8184\r\nPublic user content licensed CC-BY 4.0\r\nCUREUS® is a registered trademark of Cureus, Inc. in the United States."
+    },
+    {
+      "source": {
+        "id": null,
         "name": "9News.com KUSA"
       },
       "author": "9News",
@@ -323,19 +401,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Whec.com"
-      },
-      "author": "Evan Bourtis",
-      "title": "DEC adds new requirements after chronic wasting disease found in Livingston County deer - WHEC.com",
-      "description": "The Department of Environmental Conservation is ramping up its deer testing after a Livingston County deer tested positive for chronic wasting disease.",
-      "url": "https://www.whec.com/top-news/dec-adds-new-requirements-after-chronic-wasting-disease-found-in-livingston-county-deer/",
-      "urlToImage": "https://www.whec.com/wp-content/uploads/2026/11/Deer-file-photo.png",
-      "publishedAt": "2026-11-12T01:00:33Z",
-      "content": "LIVINGSTON COUNTY, N.Y. The Department of Environmental Conservation is ramping up its deer testing after a Livingston County deer tested positive for chronic wasting disease. \r\nIt’s the state’s firs… [+1469 chars]"
-    },
-    {
-      "source": {
         "id": "nbc-news",
         "name": "NBC News"
       },
@@ -350,41 +415,15 @@
     {
       "source": {
         "id": null,
-        "name": "Nature.com"
+        "name": "fox8.com"
       },
-      "author": null,
-      "title": "Bistable regulation of adipocyte heterogeneity governs thermogenesis - Nature",
-      "description": "IL-1β from neutrophils and macrophages stabilizes nearby brown adipocytes in a low-UCP1 state; cold temperature reduces IL-1β&nbsp;via sympathetic nerves, leading to transition to a high-UCP1&nbsp;state and increased thermogenesis, while higher temperatures h…",
-      "url": "https://www.nature.com/articles/s41586-026-11308-7",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11308-7/MediaObjects/41586_2026_11308_Fig1_HTML.png",
-      "publishedAt": "2026-11-11T23:27:36Z",
-      "content": "Mouse lines\r\nAll animal experiments were approved by the Institutional Animal Care and Use Committees of City of Hope (protocol 17014). Mice were maintained under a 12h12h darklight cycle in a temper… [+34385 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "Epigenetic heterogeneity in breast tumours informs diagnosis and prognosis - Nature",
-      "description": "Single-cell epigenetic analyses reveal a conserved epigenetic signature across patients that may help identify those at increased risk for disease relapse in breast cancer.",
-      "url": "https://www.nature.com/articles/s41586-026-11230-y",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11230-y/MediaObjects/41586_2026_11230_Fig1_HTML.png",
-      "publishedAt": "2026-11-11T22:16:41Z",
-      "content": "Human participants\r\nCollection and analyses of breast cancer tissue samples and matching blood samples were approved by the Israeli Ministry of Health Ethics Committees (Helsinki applications KMC-002… [+64053 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "Suppression of epithelial proliferation and tumorigenesis by IgA - Nature",
-      "description": "Experiments in mouse models show that immunoglobulin A in the gut lumen has a role in regulating the turnover of colon epithelial cells and reduces the susceptibility of mice to colorectal cancer.",
-      "url": "https://www.nature.com/articles/s41586-026-11264-2",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11264-2/MediaObjects/41586_2026_11264_Fig1_HTML.png",
-      "publishedAt": "2026-11-11T22:16:41Z",
-      "content": "<li>Fagarasan, S. Evolution, development, mechanism and function of IgA in the gut. Curr. Opin. Immunol.20, 170177 (2008).\r\nArticle \r\n CAS \r\n PubMed \r\nGoogle Scholar \r\n</li><li>Pabst, O. &amp; Slack,… [+15608 chars]"
+      "author": "FOX 8 News",
+      "title": "Measles exposure reported at several locations and events in Lake and Geauga counties - FOX 8 News",
+      "description": null,
+      "url": "https://fox8.com/news/measles-exposure-at-several-locations-and-events-in-lake-and-geauga-counties/",
+      "urlToImage": null,
+      "publishedAt": "2026-11-11T22:36:44Z",
+      "content": null
     },
     {
       "source": {
@@ -415,19 +454,6 @@
     {
       "source": {
         "id": null,
-        "name": "WKYC.com"
-      },
-      "author": "WKYC",
-      "title": "Measles exposure reported at 7 locations in Geauga, Lake counties - WKYC",
-      "description": null,
-      "url": "https://www.wkyc.com/article/news/health/measles-geauga-lake-counties-exposure-public-health-berkshire-kent-state-virus/95-6489a533-b341-4850-9587-bb726df35181",
-      "urlToImage": null,
-      "publishedAt": "2026-11-11T21:42:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
         "name": "KING5.com"
       },
       "author": "king5.com",
@@ -441,15 +467,15 @@
     {
       "source": {
         "id": null,
-        "name": "Nature.com"
+        "name": "SheKnows"
       },
-      "author": null,
-      "title": "Evolutionary dynamics in the years preceding acute myeloid leukaemia - Nature",
-      "description": "The somatic evolutionary histories of haematopoietic cells in the years preceding acute myeloid leukaemia diagnosis show that the clonal dynamics of blood comply with a set of simple evolutionary rules.",
-      "url": "https://www.nature.com/articles/s41586-026-11269-x",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11269-x/MediaObjects/41586_2026_11269_Fig1_HTML.png",
-      "publishedAt": "2026-11-11T20:10:18Z",
-      "content": "Longitudinal peripheral blood DNA samples\r\nLongitudinal peripheral blood DNA samples were obtained from blood serum samples biobanked as part of UKCTOCS (ISRCTN22488978; ClinicalTrials.gov identifier… [+35636 chars]"
+      "author": "Beth Greenfield",
+      "title": "How 'Heightmaxxing' Is Pushing Teen Boys to Take a Risky Cancer Drug - Yahoo Health",
+      "description": "You’ve likely heard of looksmaxxing, the online movement of young men doing whatever they can to maximize their appearance. You may have also heard of “maxxi...",
+      "url": "https://www.sheknows.com/parenting/articles/1235092516/heightmaxxing-cancer-drug/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/38cc6f366ad9f7e121856b99d4fb41a372572211e76f62cd2f29af39a4980578/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsheknows_79%2F3814c412b6da8be3f85951bb9dc5169f.jpg",
+      "publishedAt": "2026-11-11T20:09:47Z",
+      "content": "You've likely heard of looksmaxxing, the online movement of young men doing whatever they can to maximize their appearance. You may have also heard of \"maxxing\" in general, recently chosen as Diction… [+4788 chars]"
     },
     {
       "source": {
@@ -463,19 +489,6 @@
       "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/3b051a0f-141d-425d-bc9e-45f1f31713ad.jpg?crop=1.00xw:0.752xh;0,0.248xh&resize=1200:*",
       "publishedAt": "2026-11-11T20:02:37Z",
       "content": "Between Japanese interval walking, the viral 12-3-30 treadmill walk and soft hiking, walking has evolved from a basic daily habit into something you can tailor to target specific benefits. You can us… [+6124 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Futurity: Research News"
-      },
-      "author": "U. Copenhagen",
-      "title": "Regular coffee drinking appears to change how your gut works - Futurity",
-      "description": "If you drink coffee regularly, it appears to alter not only your gut bacteria but also the physiology of the gut itself.",
-      "url": "https://www.futurity.org/coffee-gut-function-changes-3352622/",
-      "urlToImage": "https://www.futurity.org/wp/wp-content/uploads/2026/11/coffee-gut-function-changes-1600.jpg",
-      "publishedAt": "2026-11-11T19:01:22Z",
-      "content": "If you drink coffee regularly, it appears to alter not only your gut bacteria but also the physiology of the gut itself.\r\nThat’s the conclusion of a study from the University of Copenhagen, which may… [+3690 chars]"
     },
     {
       "source": {
@@ -506,6 +519,19 @@
     {
       "source": {
         "id": null,
+        "name": "Martha Stewart"
+      },
+      "author": "https://www.facebook.com/marthastewart/",
+      "title": "The Best Types of Puzzles to Keep Your Brain Sharp as You Age - Martha Stewart",
+      "description": "From crossroads to Sudoku, experts explain how different puzzles challenge your brain and which ones to try for healthy aging.",
+      "url": "https://www.marthastewart.com/best-puzzles-to-keep-your-brain-sharp-12246591",
+      "urlToImage": "https://www.marthastewart.com/thmb/dUutKws2nRrkz9dSekgorFc87Qg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2204129229-a3e6e17e4fd448c39f348e23b8c07716.jpg",
+      "publishedAt": "2026-11-11T18:00:00Z",
+      "content": "Unwinding over a cup of tea with a crossword or piecing together a complex jigsaw puzzle on a slow evening is a satisfying way to enjoy downtimeand a good way to put your brain to work. Especially as… [+4762 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Medical Xpress"
       },
       "author": null,
@@ -515,19 +541,6 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/new-review-of-the-firs.jpg",
       "publishedAt": "2026-11-11T17:20:01Z",
       "content": "A new review from Binghamton University School of Pharmacy and Pharmaceutical Science explores how Lipfendra (enlicitide) can be beneficial for those who have intolerances to injectable medications. … [+2078 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FOX 4 News"
-      },
-      "author": "Tracy DeLatte",
-      "title": "Dallas County child dies from the flu - FOX 4 News Dallas-Fort Worth",
-      "description": "Dallas County health officials have reported the area's first pediatric flu death since 2022.",
-      "url": "https://www.fox4news.com/news/dallas-county-child-dies-from-flu",
-      "urlToImage": "https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2026/11/1200/630/v-north-texas-pediatric-flu-cases-4a_kdfw2be1_146__00.00.06.50.jpg?ve=1&tl=1",
-      "publishedAt": "2026-11-11T17:05:43Z",
-      "content": "DALLAS - Dallas County is reporting its first pediatric flu death since 2022.\r\nIt's another sign that the flu season is hitting earlier and more aggressively than in previous years.\r\nWhat we know:\r\nC… [+1641 chars]"
     },
     {
       "source": {
@@ -609,19 +622,6 @@
     },
     {
       "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Norah  O'Donnell",
-      "title": "Women experience migraines more than men. Here's a specialist's guide to managing the pain. - CBS News",
-      "description": "Thirty-seven million Americans suffer from migraines, and women are three times more likely to get them than men.",
-      "url": "https://www.cbsnews.com/news/migraine-symptoms-treatments-women-healthful/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/10/e1bb9b8a-883a-408f-a203-eb8bc570f91b/thumbnail/1200x630g2/fbe196aafe52572c1afee1a27fc08d55/norah-ailani.jpg",
-      "publishedAt": "2026-11-11T12:00:11Z",
-      "content": "Thirty-seven million Americans suffer from migraines, and women are three times more likely to get them than men.\r\nNot only are migraines physically debilitating, they are very costly in terms of med… [+5950 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "BBC News"
       },
@@ -645,19 +645,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/09/well/WELL-DEPRESSION-MEDS1/WELL-DEPRESSION-MEDS1-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-10T23:30:23Z",
       "content": "In the meta-analysis, a few drugs stood out for offering greater effectiveness over time."
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Fox News",
-      "title": "Viral ‘heightmaxxing’ trend has teen boys taking cancer drugs to grow taller despite doctors' warnings - New York Post",
-      "description": "Doctors warn that teens taking erdafitinib, a cancer drug, to grow taller in a trend called heightmaxxing face severe health risks.",
-      "url": "https://www.foxnews.com/health/viral-heightmaxxing-trend-teen-boys-taking-cancer-drugs-grow-taller-doctors-warn-risks",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/148264269.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-11-10T23:06:00Z",
-      "content": "Medical experts are warning of a dangerous new social media trend known as “heightmaxxing,” amid reports that teenagers are taking black-market cancer medications in an effort to grow taller.\r\nAdoles… [+4534 chars]"
     },
     {
       "source": {
@@ -700,19 +687,6 @@
     },
     {
       "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Dan  Raby",
-      "title": "Health officials confirm additional measles infections connected with case in Macon County - CBS News",
-      "description": "Officials believe the original infection in Georgia's Macon County was connected with a confirmed measles case in Pennsylvania.",
-      "url": "https://www.cbsnews.com/atlanta/news/health-officials-confirm-additional-measles-infections-connected-with-case-in-macon-county/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/10/dd1801f0-252f-438f-b240-868b2a0ddf24/thumbnail/1200x630/ba761064cb579adbf03c11850f783042/gettyimages-2216873572.jpg",
-      "publishedAt": "2026-11-10T21:59:01Z",
-      "content": "Georgia health officials say they have confirmed three new cases of measles connected to an outbreak in Macon County.\r\nAccording to the Georgia Department of Public Health, all three new cases were c… [+2015 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Phys.Org"
       },
@@ -736,19 +710,6 @@
       "urlToImage": "https://s.yimg.com/lo/mysterio/api/ef4cb00c6e000d7333e1e0cdf7efe01b90185859e39afd2a93fbcc6cc3327f89/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhuffpost_life_308%2Fa3884223eb00c2cb52dda145d3b17345.jpg",
       "publishedAt": "2026-11-10T14:23:24Z",
       "content": "Hormonal changes are a normal part of many phases of life for both women and men. Yet one is talked about more than the other. (We'll let you guess which one.)\r\nOne example? Hormonal changes in middl… [+6704 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Antoinette Radford",
-      "title": "‘Smartphone pinkie’ and other signs you may be using your phone too much - CNN",
-      "description": "Interactions with technology such as phones and laptops are altering our bodies and sometimes causing pain. Experts suggest tips to ease any tech-related discomfort.",
-      "url": "https://www.cnn.com/2026/11/10/health/tech-wrist-neck-pain-wellness",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1175497619.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-11-10T12:00:15Z",
-      "content": "It started as a dull ache in my right wrist. Maybe Id been working out too hard at the gym. So, I stopped lifting weights with my right arm.\r\nThen the pain happened again. Had I carried too many heav… [+5364 chars]"
     },
     {
       "source": {
@@ -830,19 +791,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Newser"
-      },
-      "author": "Arden Dier",
-      "title": "Why a Lot of Acorns Will Mean a Lot of Ticks - Newser",
-      "description": "Acorns feed mice, which feed Lyme-carrying deer tick larvae and nymphs",
-      "url": "https://www.newser.com/story/399676/to-predict-lyme-disease-risk-look-at-the-acorns.html",
-      "urlToImage": "https://cdn.newser.com/image/1723325-12-20261109104718.jpeg",
-      "publishedAt": "2026-11-09T16:18:00Z",
-      "content": "Deer still matter—adult ticks rely on them to reproduce—but in areas where deer are already plentiful, adding or losing a few doesn't change tick numbers much. Mice, on the other hand, are perfect ho… [+361 chars]"
-    },
-    {
-      "source": {
         "id": "fox-news",
         "name": "Fox News"
       },
@@ -866,6 +814,32 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/07Sci-heart-drugs-01b-kqzj/07Sci-heart-drugs-01b-kqzj-mediumSquareAt3X-v2.jpg",
       "publishedAt": "2026-11-08T14:14:56Z",
       "content": "By every measure, the drugs were no better than placebos, full data revealed on Saturday. Was it the fault of the design of the studies, or our very hypotheses about heart disease?"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Mary Walrath-Holdridge",
+      "title": "The flu strain driving this season's unusually early spread - USA Today",
+      "description": "Scientists and healthcare professionals are keeping an eye on a mutated virus strain as flu season picks up early in the US.",
+      "url": "https://www.usatoday.com/story/news/health/2026/11/07/flu-strain-driving-early-spread-h1n1-d311/92569586007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/06/USAT/92648902007-getty-images-2196049046.jpg?crop=2119,1192,x0,y0&width=2119&height=1192&format=pjpg&auto=webp",
+      "publishedAt": "2026-11-07T13:02:00Z",
+      "content": "As Americans head into the heart of sickness season, health officials are keeping a close eye on the flu strains driving an unusually early rise in infections.\r\nFlu activity began increasing in parts… [+9403 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "mindbodygreen.com"
+      },
+      "author": "Sela Breen",
+      "title": "Could This Be The Real Reason Women Struggle More With Migraines? - MindBodyGreen",
+      "description": "Women carry the burden of migraine disease risk globally, but the reason why is still unclear.",
+      "url": "https://www.mindbodygreen.com/articles/could-this-be-real-reason-women-struggle-more-with-migraines-how-women-can-take-back-control",
+      "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/sxtboae3bjpsiydr7.jpg",
+      "publishedAt": "2026-11-07T08:00:00Z",
+      "content": "I started struggling with migraines in the beginning of college, which was about the same time I was diagnosed with PMOS (recently renamed from PCOS). I had never had a consistent menstrual cycle, so… [+8711 chars]"
     },
     {
       "source": {
@@ -944,19 +918,6 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2207803434.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2026-11-06T12:00:15Z",
       "content": "While an estimated 38 million Americans have type 2 diabetes, the condition is increasingly being diagnosed in younger adults. Without treatment, they face decades of elevated risk for complications … [+8623 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Cdc.gov"
-      },
-      "author": "CDC",
-      "title": "Weekly US Influenza Surveillance Report: Key Updates for Week 43, ending October 31, 2026 | FluView - Centers for Disease Control and Prevention | CDC (.gov)",
-      "description": "Seasonal flu activity continues to increase in many parts of the country.",
-      "url": "https://www.cdc.gov/fluview/surveillance/2026-week-43.html",
-      "urlToImage": "https://www.cdc.gov/fluview/media/images/2026/flu-view-sm.png?_=75438",
-      "publishedAt": "2026-11-06T08:00:00Z",
-      "content": "All data are preliminary and may change as more reports are received.\r\nA description of the CDC influenza surveillance system, including methodology and detailed descriptions of each data component, … [+27596 chars]"
     },
     {
       "source": {
