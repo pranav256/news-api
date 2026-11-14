@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 95,
+  "totalResults": 92,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Kenneth Chang",
+      "title": "SpaceX Aims for Starship Launch on Friday. Here’s What to Know.",
+      "description": "SpaceX could still try to catch the rocket’s upper stage tomorrow. Progress toward a fully reusable rocket remains mixed.",
+      "url": "https://www.nytimes.com/2026/11/13/science/spacex-launch-starship-rocket-catch.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/13/multimedia/spacex-launch-update-pwvq/spacex-launch-update-pwvq-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-13T23:47:30Z",
+      "content": "SpaceX could still try to catch the rocket’s upper stage tomorrow. Progress toward a fully reusable rocket remains mixed."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -20,19 +33,6 @@
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Kenneth Chang",
-      "title": "SpaceX Aims for Starship Launch on Friday. Here’s What to Know.",
-      "description": "The audacious maneuver planned for Friday is a key step toward the company’s goal of making rockets fully reusable.",
-      "url": "https://www.nytimes.com/2026/11/13/science/spacex-launch-starship-rocket-catch.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/13/multimedia/13SCI-STARSHIP-CATCH-01-vkmg/13SCI-STARSHIP-CATCH-01-vkmg-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-13T14:30:31Z",
-      "content": "The audacious maneuver planned for Friday is a key step toward the company’s goal of making rockets fully reusable."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "Fanni Daniella Szakál",
       "title": "These Male Dolphins Do Something Rare: Day Care",
       "description": "Male Franciscana dolphins are exceptional babysitters. Scientists are trying to figure out if they are thoughtful fathers or just hope to be.",
@@ -40,6 +40,19 @@
       "urlToImage": null,
       "publishedAt": "2026-11-13T10:00:42Z",
       "content": "Male Franciscana dolphins are exceptional babysitters. Scientists are trying to figure out if they are thoughtful fathers or just hope to be."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gayoung Lee",
+      "title": "Rare Star System Emits Radio Signals Every 8 Minutes - Gizmodo",
+      "description": "It’s the first observation of its kind.",
+      "url": "https://gizmodo.com/a-mysterious-radio-signal-repeats-every-8-minutes-astronomers-finally-know-whats-behind-it-2000839123",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/11/long-period-transit-white-dwarf-1200x675.jpg",
+      "publishedAt": "2026-11-12T20:50:52Z",
+      "content": "As astronomers survey the universe, they often encounter signals without a clear source. Although they usually find the source, some answers are weirder than otherstake, for example, the mysterious p… [+2903 chars]"
     },
     {
       "source": {
@@ -70,15 +83,106 @@
     {
       "source": {
         "id": null,
+        "name": "Space.com"
+      },
+      "author": "Robert Lea",
+      "title": "Dark matter breakthrough coming? Euclid space telescope unveils its 1st look into the dark universe (video) - Space",
+      "description": "\"So much discovery is yet to come.\"",
+      "url": "https://www.space.com/astronomy/dark-matter-breakthrough-coming-euclid-space-telescope-unveils-its-1st-look-into-the-dark-universe-video",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/6zArwyGLXXZHN5caJ3ZXtN-2000-80.png",
+      "publishedAt": "2026-11-12T17:28:20Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "John Timmer",
+      "title": "The amazing disappearing exoplanet - Ars Technica",
+      "description": "An exoplanet seems to have stopped transiting in front of its host star.",
+      "url": "https://arstechnica.com/science/2026/11/the-amazing-disappearing-exoplanet/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-1149x648.jpeg",
+      "publishedAt": "2026-11-12T17:18:10Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Mysterious object moving through space could be lost Soviet probe as NASA weighs in on theory - Fox News",
+      "description": "Near-Earth asteroid 1998 KY26 shows nongravitational acceleration, and Harvard researchers say it closely matches lost Soviet spacecraft Phobos 1.",
+      "url": "https://www.foxnews.com/us/mysterious-object-moving-through-space-could-be-lost-soviet-probe-nasa-weighs-theory",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/asteroid-approaching-earth.jpg",
+      "publishedAt": "2026-11-12T16:13:44Z",
+      "content": "A mysterious object speeding through the solar system is accelerating in a way gravity alone cannot explain, fueling a theory that it could be a Soviet spacecraft lost nearly four decades ago.\r\nKnown… [+4630 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Quanta Magazine"
+      },
+      "author": null,
+      "title": "The Evolving Story of How Chemistry Became Biology - Quanta Magazine",
+      "description": "After decades of bickering about which molecules came first, a new generation of scientists is rethinking what life was, is, and could be.",
+      "url": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
+      "urlToImage": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Origin-of-Life-cr.Mark-Belan-Social.jpg",
+      "publishedAt": "2026-11-12T15:50:14Z",
+      "content": "Her team reported, in a series of recent studies, that a reduced alphabet of just 10 amino acids could support the kinds of protein structures that were likely found early in lifes development, the m… [+8611 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Chelsea Gohd",
+      "title": "Satellite snaps rare birds-eye view of the ISS photo of the day for Nov. 12, 2026 - Space",
+      "description": "Here's something you don't see every day.",
+      "url": "https://www.space.com/space-exploration/international-space-station/satellite-snaps-rare-birds-eye-view-of-the-iss-space-photo-of-the-day-for-nov-12-2026",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/8QP6NKzSZaPwTqQSVwQMdU-1920-80.png",
+      "publishedAt": "2026-11-12T15:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hackaday"
+      },
+      "author": "Zoe Skyforest",
+      "title": "The Sextant: Navigating The Old Way - Hackaday",
+      "description": "Navigation is easy these days, as we’ve entire complex computerized mapping systems and radio-based positioning systems to find ourselves anywhere on Earth. It might seem simple to use GPS th…",
+      "url": "https://hackaday.com/2026/11/12/the-sextant-navigating-the-old-way/",
+      "urlToImage": "https://hackaday.com/wp-content/uploads/2020/04/Navigating.jpg",
+      "publishedAt": "2026-11-12T15:00:00Z",
+      "content": "Navigation is easy these days, as we’ve entire complex computerized mapping systems and radio-based positioning systems to find ourselves anywhere on Earth. It might seem simple to use GPS these days… [+6344 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Robert Lea",
+      "title": "Astronomers stunned after James Webb Space Telescope discovers the earliest pair of black hole-powered quasars - Space",
+      "description": "\"There is no definitive theoretical explanation for how a single one of these giant quasars exists so early in the age of our universe, much less two.\"",
+      "url": "https://www.space.com/astronomy/black-holes/astronomers-stunned-after-james-webb-space-telescope-discovers-the-earliest-pair-of-black-hole-powered-quasars",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/PGf7N6dzk34osSj9dniJ4a-2000-80.png",
+      "publishedAt": "2026-11-12T13:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
         "name": "ScienceAlert"
       },
       "author": "Michelle Starr",
-      "title": "JWST Detects a 'Forbidden' Signal Never Before Seen in The Universe – Not Even in a Lab - ScienceAlert",
-      "description": "One of the most important molecules in the Universe has been hiding its light for decades.",
+      "title": "JWST Detects a 'Forbidden' Signal Never Before Seen in The Universe – Not Even in a Lab - Yahoo Tech",
+      "description": "Predicted 40 years ago. Never seen... 'til now.",
       "url": "https://www.sciencealert.com/jwst-detects-a-forbidden-signal-never-before-seen-in-the-universe-not-even-in-a-lab",
-      "urlToImage": "https://www.sciencealert.com/images/2026/11/hh211-1200x675.png",
-      "publishedAt": "2026-11-12T12:04:35Z",
-      "content": "One of the most important molecules in the Universe has been hiding its light for decades.\r\nIt's the foundation for almost all gas-phase interstellar chemistry  including the formation of complex org… [+6488 chars]"
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/8379941c8591f96002d5adb9b0d6b5ff5f23b676f41779b1c49e2325910424c7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsciencealert_160%2Fc6d0343097edf4d923c187683204ad77.png",
+      "publishedAt": "2026-11-12T12:00:00Z",
+      "content": "One of the most important molecules in the Universe has been hiding its light for decades.\r\nIt's the foundation for almost all gas-phase interstellar chemistry including the formation of complex orga… [+6209 chars]"
     },
     {
       "source": {
@@ -92,6 +196,45 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/30/multimedia/00CLI-PREPPING-FOR-EL-NINO-stillpromo/00CLI-PREPPING-FOR-EL-NINO-01-phqc-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-12T11:57:04Z",
       "content": "The question is being asked across the developing world, where hunger risk is high from the extreme weather El Niño is expected to bring. Malawi has a big plan, but little money."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SciTechDaily"
+      },
+      "author": null,
+      "title": "Scientists Ranked 20 Protein-Rich Foods on Health, Affordability, and Sustainability. One Surprising Food Came Out on Top - SciTechDaily",
+      "description": "Tofu took the crown in a showdown of 20 protein-rich foods judged on health, affordability, availability, and their toll on the planet.",
+      "url": "https://scitechdaily.com/scientists-ranked-20-protein-rich-foods-on-health-affordability-and-sustainability-one-surprising-food-came-out-on-top/",
+      "urlToImage": null,
+      "publishedAt": "2026-11-12T11:44:40Z",
+      "content": "Tofu is a versatile, plant-based protein made from soybeans that provides all nine essential amino acids. Credit: Shutterstock\r\nTofu took the crown in a showdown of 20 protein-rich foods judged on he… [+2900 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Archaeologymag.com"
+      },
+      "author": "Dario Radley",
+      "title": "Taung Child dated to 3 million years old, revealing a tangled human family tree - Archaeology News Online Magazine",
+      "description": "A new Nature study dates the Taung Child to about 3 million years ago and shows the human family tree in southern Africa was a tangled bush.",
+      "url": "https://archaeologymag.com/2026/11/taung-child-dated-to-3-million-years-old/",
+      "urlToImage": "https://archaeologymag.com/wp-content/uploads/taung-child-dated-1.jpg",
+      "publishedAt": "2026-11-12T11:18:52Z",
+      "content": "A new study in Nature puts the age of the Taung Child, a famous fossil from South Africa, at between 2.96 and 3.03 million years old. Professor Gabriele Macho of the AMGC research group at Vrije Univ… [+3409 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Michelle Starr",
+      "title": "Scientists Find Out-of-Body Experiences May Occur Between Sleep And Waking - ScienceAlert",
+      "description": "The liminal space between sleeping and waking could be where the human brain conjures the uncanny.",
+      "url": "https://www.sciencealert.com/scientists-find-out-of-body-experiences-may-occur-between-sleep-and-waking",
+      "urlToImage": "https://www.sciencealert.com/images/2026/11/drifting-1200x675.png",
+      "publishedAt": "2026-11-12T11:03:45Z",
+      "content": "The liminal space between sleeping and waking could be where the human brain conjures the uncanny.\r\nIt's there, in a state that is somehow both or neither, that the sleeping brain may extend tendrils… [+6663 chars]"
     },
     {
       "source": {
@@ -135,15 +278,15 @@
     {
       "source": {
         "id": null,
-        "name": "ScienceAlert"
+        "name": "EurekAlert"
       },
-      "author": "Peter Dockrill",
-      "title": "Study Shows a Single Nuclear Blast Could Disable 99% of Satellites in a Matter of Days - ScienceAlert",
-      "description": "High above your head, it's getting a bit crowded.",
-      "url": "https://www.sciencealert.com/a-single-nuclear-explosion-in-orbit-could-disable-99-of-satellites-in-a-matter-of-days",
-      "urlToImage": "https://www.sciencealert.com/images/2026/11/explosion-in-orbit.jpg",
-      "publishedAt": "2026-11-12T01:04:33Z",
-      "content": "High above your head, it's getting a bit crowded.\r\nIn low-Earth orbit, more than 13,000 satellites are currently circling the planet. They're the backbone of your daily weather forecast, telephone an… [+4504 chars]"
+      "author": null,
+      "title": "Sea pigs from the abyss host unusual bacteria - EurekAlert!",
+      "description": "In the deep ocean, translucent sea pigs trundle across the seafloor. Researchers at the University of Tokyo have discovered an unusual bacterium beneath the sea pig&rsquo;s &ldquo;skin.&rdquo; Through fluorescent imaging, they determined the location of the b…",
+      "url": "https://www.eurekalert.org/news-releases/1151591",
+      "urlToImage": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/d16a43d3-864f-4980-9214-472e35f8caee/Rendition/thumbnail/Content/Public",
+      "publishedAt": "2026-11-12T05:06:07Z",
+      "content": "image: The plump, soft-bodied sea pig can grow to around 15 centimeters long and walks on enlarged, leglike tube feet. Sea pigs sometimes gather in large groups to feed on organic-rich seafloor sedim… [+7391 chars]"
     },
     {
       "source": {
@@ -304,15 +447,15 @@
     {
       "source": {
         "id": null,
-        "name": "ZME Science"
+        "name": "ScienceAlert"
       },
-      "author": "Tibi Puiu",
-      "title": "A Dark Comet Mystery Just Got Stranger After Astronomers Found Its Acceleration May Have Nothing to Do With Ice - ZME Science",
-      "description": "Japan is heading toward a mysterious asteroid that may not be what scientists thought.",
-      "url": "https://www.zmescience.com/science/news-science/ky26-acceleration-explained/",
-      "urlToImage": "https://cdn.zmescience.com/wp-content/uploads/2026/11/8f9bcb1d-7fa4-4630-9d7a-4588d3e7f53c.jpg",
-      "publishedAt": "2026-11-11T19:21:15Z",
-      "content": "Credit: ZME Science. \r\nA tiny asteroid is moving through space as though it has a rocket engine. It has a strange acceleration that the Sun’s gravity or that of planets cannot explain. Scientists sus… [+5216 chars]"
+      "author": "Michelle Starr",
+      "title": "Breaking: Scientists Find Evidence of Primordial Water Hidden at The Edge of The Solar System - ScienceAlert",
+      "description": "The Solar System is a soggy sort of place.",
+      "url": "https://www.sciencealert.com/breaking-scientists-find-evidence-of-primordial-water-hidden-at-the-edge-of-the-solar-system",
+      "urlToImage": "https://www.sciencealert.com/images/2026/11/iceteroid-1200x675.png",
+      "publishedAt": "2026-11-11T19:04:10Z",
+      "content": "The Solar System is a soggy sort of place.\r\nAlthough most of Earth's surface is covered in liquid water, it's a mere drop in the ocean compared to the entire volume contained in the Solar System much… [+8430 chars]"
     },
     {
       "source": {
@@ -410,6 +553,19 @@
         "id": null,
         "name": "Live Science"
       },
+      "author": "Olivia Ferrari",
+      "title": "Florida's 'dark magic' mushrooms have a deadly combination of chemicals never seen before - Live Science",
+      "description": "Scientists have discovered that a known mushroom, Galerina indica, contains both psychedelic chemicals and deadly toxins.",
+      "url": "https://www.livescience.com/chemistry/floridas-dark-magic-mushrooms-have-a-deadly-combination-of-chemicals-never-seen-before",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/hTvYi2hnzvbffhN7Y7kA7n-2000-80.jpg",
+      "publishedAt": "2026-11-11T16:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Live Science"
+      },
       "author": "Harry Baker",
       "title": "NASA's Nancy Grace Roman Space Telescope will take better images and last longer than experts predicted - Live Science",
       "description": "NASA's Nancy Grace Roman Space Telescope could capture images 30% sharper than — and remain operational for twice as long as — initially expected. Researchers say these \"remarkable\" developments could greatly enhance the volume and quality of the data they wi…",
@@ -417,19 +573,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/M5dBbXDSxbQxkEMi9HpV6Z-2400-80.jpg",
       "publishedAt": "2026-11-11T15:24:44Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Quanta Magazine"
-      },
-      "author": null,
-      "title": "What Is The Metabolism-First Theory for the Origin of Life? - Quanta Magazine",
-      "description": "Energetic pathways that make and break complex molecules are critical to all life. It’s even possible that these self-sustaining cycles could have been key at life’s beginning.",
-      "url": "https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/",
-      "urlToImage": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Metabolism-First-cr.Mark-Belan-Social.jpg",
-      "publishedAt": "2026-11-11T15:13:28Z",
-      "content": "For well over 4 billion years, the fire of metabolism has powered the engines of life. The ability of cells to gather, transform, and harness chemical energy from their surroundings is the central fo… [+5868 chars]"
     },
     {
       "source": {
@@ -551,19 +694,6 @@
     {
       "source": {
         "id": null,
-        "name": "Minnesota Public Radio News"
-      },
-      "author": "Dan Kraker",
-      "title": "A new scientific mission launches in Duluth: Hunting ‘ghost particles' in Lake Superior - MPR News",
-      "description": "An ocean research vessel is installing underwater sensors on the floor of Lake Superior this week to detect neutrinos — tiny particles that may hold clues on the origins of the universe and could also have military applications.",
-      "url": "https://www.mprnews.org/story/2026/11/11/neutrino-detectors-being-installed-near-duluth-to-hunt-ghost-particles-in-lake-superior",
-      "urlToImage": "https://img.apmcdn.org/4ab66d5cd53e23f75e50d46fa767c27f5dbf6469/widescreen/2a9e2a-20261110-neutrino-detection-duluth-01-2000.jpg",
-      "publishedAt": "2026-11-11T10:00:00Z",
-      "content": "A 238-foot ocean research vessel from Massachusetts sailed across the Great Lakes into Duluth this week to begin a unique scientific mission to detect neutrinos tiny, subatomic particles that may hol… [+5937 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Science Daily"
       },
       "author": null,
@@ -586,19 +716,6 @@
       "urlToImage": "https://www.sciencedaily.com/images/1920/universe-cosmology-theory.webp",
       "publishedAt": "2026-11-11T06:47:49Z",
       "content": "A radical alternative to the standard picture of the cosmos is gaining attention after researchers at the University of Ottawa reported that it successfully matched several important astronomical obs… [+8386 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Interesting Engineering"
-      },
-      "author": "Aamir Khollam",
-      "title": "Dream Chaser spaceplane hauling 12,000 pounds wins FAA clearance for runway landings - Interesting Engineering",
-      "description": "The FAA has cleared the Dream Chaser spaceplane to land at Vandenberg Space Force Base, opening the door to runway returns from orbit.",
-      "url": "https://interestingengineering.com/military/dream-chaser-spaceplane-faa-clearance-landings",
-      "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2026/11/Untitled-design-2026-11-11T075943.453.jpg",
-      "publishedAt": "2026-11-11T03:51:00Z",
-      "content": "Sierra Space has secured a key regulatory approval for Dream Chaser, bringing its long-delayed spaceplane closer to its first orbital flight. The Federal Aviation Administration (FAA) has authorized … [+3814 chars]"
     },
     {
       "source": {
@@ -654,32 +771,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Robert Lea",
-      "title": "A distant exoplanet mysteriously vanished from sight. Astronomers just discovered why - Space",
-      "description": "\"We think of the universe as resembling clockwork, where everything is regular, but that's not true.\"",
-      "url": "https://www.space.com/astronomy/exoplanets/a-distant-exoplanet-mysteriously-vanished-from-sight-astronomers-just-discovered-why",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/N9wVvBzaETFicjigyT6ckR-1600-80.png",
-      "publishedAt": "2026-11-10T21:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "Webb's controversial 'little red dots' may finally have an explanation - Phys.org",
-      "description": "Astronomers may have solved one of the biggest mysteries uncovered by NASA's James Webb Space Telescope (JWST), using sophisticated simulations to show that enigmatic objects known as \"little red dots\" (LRDs) are likely the birthplaces of the first supermassi…",
-      "url": "https://phys.org/news/2026-11-webb-controversial-red-dots-explanation.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/little-red-dots-image.jpg",
-      "publishedAt": "2026-11-10T20:40:05Z",
-      "content": "Astronomers may have solved one of the biggest mysteries uncovered by NASA's James Webb Space Telescope (JWST), using sophisticated simulations to show that enigmatic objects known as \"little red dot… [+3646 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -720,19 +811,6 @@
     {
       "source": {
         "id": null,
-        "name": "Space.com"
-      },
-      "author": "Keith Cooper",
-      "title": "Uranus has a weird magnetic field that's stumped scientists for 40 years — we may finally know why - Space",
-      "description": "The ice giants' skewed magnetic fields are a window into the high-pressure, high-temperature environment deep inside Uranus and Neptune.",
-      "url": "https://www.space.com/astronomy/uranus/scientists-may-finally-understand-the-weird-magnetic-fields-of-uranus-and-neptune",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/gCe3HgVGkFyfUnHAqednfk-2000-80.png",
-      "publishedAt": "2026-11-10T19:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Quanta Magazine"
       },
       "author": null,
@@ -758,19 +836,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Popular Mechanics"
-      },
-      "author": "Elizabeth Rayne",
-      "title": "Blood Rain Has Terrified People for Thousands of Years. The Culprit Might Be Growing on Lamp Posts. - Yahoo",
-      "description": "From Tennessee's 1841 flesh shower to Kerala’s crimson monsoon, the sky has some explaining to do—unless the source isn’t coming from on high.",
-      "url": "https://www.popularmechanics.com/science/a74371149/blood-rain/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/e00bbd6435348568a01a538aa2ec4386bed5a19d78547ad25057ecbadb741e64/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpopular_mechanics_642%2F7039a6179c71a48573d46204aef30e76.jpg",
-      "publishedAt": "2026-11-10T14:30:00Z",
-      "content": "On an August afternoon in 1841, something ominous fell from the sky near Lebanon, Tennessee. Two enslaved people working in a tobacco field were horrified when they heard a pattering on the leaves ar… [+5523 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -781,45 +846,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/09/multimedia/09cli-global-emissions-01-jlbf/09cli-global-emissions-01-jlbf-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-10T13:40:41Z",
       "content": "It’s the first drop in planet-warming pollution since the pandemic in 2020. But researchers cautioned that the decline could be short-lived."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thebrighterside.news"
-      },
-      "author": "Joshua Shavit",
-      "title": "Three-million-year-old Taung child adds a new twist to human origins - The Brighter Side of News",
-      "description": "The Taung Child dates to about 3 million years ago, while new anatomical comparisons challenge a simple southern African human family tree.",
-      "url": "https://www.thebrighterside.news/post/three-million-year-old-taung-child-adds-a-new-twist-to-human-origins/#article",
-      "urlToImage": "https://www.thebrighterside.news/uploads/2026/11/Australopithecus-africanus.png?auto=webp",
-      "publishedAt": "2026-11-10T12:51:00Z",
-      "content": "<ul><li>Researchers place the Taung Child between 2.96 million and 3.03 million years old using geological dating evidence.</li><li>Comparisons of teeth and brain development suggest fossils grouped … [+11011 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Michelle Starr",
-      "title": "Einstein's Equations Reveal Gravity Can Break And Reconnect Like Magnetic Fields - ScienceAlert",
-      "description": "Everywhere you go in the Universe, gravity exists.",
-      "url": "https://www.sciencealert.com/einsteins-equations-reveal-gravity-can-break-and-reconnect-like-magnetic-fields",
-      "urlToImage": "https://www.sciencealert.com/images/2026/11/warp-1200x675.png",
-      "publishedAt": "2026-11-10T11:04:58Z",
-      "content": "Everywhere you go in the Universe, gravity exists.\r\nIt's inextricably woven into its fabric, forming stars and planets, and choreographing the dance of galaxies.\r\nIt's what keeps our world together a… [+7394 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Meghan Bartels",
-      "title": "NASA's twin ESCAPADE Mars probes slingshot around Earth in unprecedented double 'gravity assist' - Space",
-      "description": "\"No NASA mission has ever done this before.\"",
-      "url": "https://www.space.com/astronomy/mars/nasas-escapade-twin-mars-probes-execute-a-1st-of-its-kind-gravity-slingshot-around-earth",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/4YuqmLiXJ7u7ppndMEZUtX-1920-80.jpg",
-      "publishedAt": "2026-11-10T11:00:00Z",
-      "content": null
     },
     {
       "source": {
@@ -889,32 +915,6 @@
     {
       "source": {
         "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Peter Dockrill",
-      "title": "Scientists Simulated What Earth Would Be Like if Life Never Existed - ScienceAlert",
-      "description": "We're here.",
-      "url": "https://www.sciencealert.com/scientists-simulated-what-earth-would-be-like-if-life-never-existed",
-      "urlToImage": "https://www.sciencealert.com/images/2026/11/red-simulation-of-earth.jpg",
-      "publishedAt": "2026-11-10T01:04:56Z",
-      "content": "We're here. We're not entirely sure how we got here, but we're here.\r\nBut what if we weren't here?\r\nThat's the question scientists posed in a new study, simulating an alternative vision of Earth wher… [+4838 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "After 40 years, CERN finds evidence of a one-in-10-billion particle decay - Science Daily",
-      "description": "CERN scientists have finally found evidence of a particle decay so rare that it happens only once in roughly 10 billion decays, ending a search spanning more than 40 years. The breakthrough could help physicists uncover hidden particles and forces that lie be…",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261108233047.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/particle-collision-physics-accelerator.webp",
-      "publishedAt": "2026-11-10T00:44:33Z",
-      "content": "After more than 40 years of searching, physicists at CERN have reached a major milestone in their hunt for one of the rarest known particle decays. Researchers working with the LHCb experiment have d… [+6297 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Phys.Org"
       },
       "author": null,
@@ -924,19 +924,6 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/a-molybdenite-mos2-min.jpg",
       "publishedAt": "2026-11-10T00:30:06Z",
       "content": "Researchers at the University of Rochester and TechnionIsrael Institute of Technology accidentally discovered a new way to rearrange the internal structure of molybdenuman extremely heat-resistant me… [+4720 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "KVUE.com"
-      },
-      "author": "KVUE",
-      "title": "59 years ago, Apollo 4 was the first launch from NASA’s Kennedy Space Center - KVUE",
-      "description": null,
-      "url": "https://www.kvue.com/article/news/nation-world/apollo-4-anniversary-november-9-1967/507-e8da27b6-fee8-442a-bd20-9753d3a86de8",
-      "urlToImage": null,
-      "publishedAt": "2026-11-09T20:32:48Z",
-      "content": null
     },
     {
       "source": {
@@ -1045,6 +1032,19 @@
     {
       "source": {
         "id": null,
+        "name": "Women's Health"
+      },
+      "author": "Gabrielle Kassel",
+      "title": "Experts Say This Type of O May Offer the Most Health Benefits - Women's Health",
+      "description": "Want to have multiple orgasms? Sex experts explain what exactly qualifies as multiple orgasms and share 8 tips on how to achieve them, alone or with a partner.",
+      "url": "https://www.womenshealthmag.com/sex-and-love/a74358465/multiple-orgasms-how-to/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-2188887872-6933198a0ab56.jpg?crop=1xw:0.7514910536779325xh;center,top&resize=1200:*",
+      "publishedAt": "2026-11-09T13:09:00Z",
+      "content": "Pleasure powerfully contributes to overall well-being. If your sex life feels good, it's likely that you feel good, tooemotionally, mentally, physically, and relationally. That's why, especially for … [+15648 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Popular Mechanics"
       },
       "author": "Darren Orf",
@@ -1054,19 +1054,6 @@
       "urlToImage": "https://s.yimg.com/lo/mysterio/api/47e3d8a1df3ec34f4300a44fdcfe96fdeeba2730bfac1f3c113b682a1f64a241/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpopular_mechanics_642%2F5dff6f744ce2bdbccad2cce49013b5dc.jpg",
       "publishedAt": "2026-11-09T13:00:00Z",
       "content": "At first glance, the news seems like the opening lines of a Jurassic Park sequel. In a study published in Proceedings of the National Academy of Sciences\r\n, an international team of scientists report… [+4479 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "A quantum breakthrough makes light behave like both a solid and a liquid - Science Daily",
-      "description": "Scientists have observed a bizarre quantum state of matter that combines the structure of a crystal with the frictionless flow of a liquid, all at room temperature. The breakthrough overturns a major practical limitation of exotic quantum experiments and coul…",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261105224536.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/supersolid-state-of-matter.webp",
-      "publishedAt": "2026-11-09T11:21:31Z",
-      "content": "Scientists have demonstrated an extraordinary form of quantum matter that combines two properties that seem incompatible. Known as a supersolid, this unusual state has the orderly structure of a crys… [+11292 chars]"
     },
     {
       "source": {
@@ -1171,32 +1158,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/07/multimedia/07SCI-DSL-TRUMP-ltmq/07SCI-DSL-TRUMP-ltmq-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-07T14:21:08Z",
       "content": "Following an election-year rout for Republicans, Trump castigated lawmakers for not passing the Sunshine Protection Act. Some scientists have warned against the change."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Raymond Zhong",
-      "title": "Lonnie Thompson Has Died. He Dodged Avalanches to Preserve Climate History.",
-      "description": "His observations helped establish shriveling mountain glaciers as an unmistakable consequence of human-caused warming. He was 78.",
-      "url": "https://www.nytimes.com/2026/11/06/science/lonnie-thompson-dead.html",
-      "urlToImage": null,
-      "publishedAt": "2026-11-07T14:19:29Z",
-      "content": "His observations helped establish shriveling mountain glaciers as an unmistakable consequence of human-caused warming. He was 78."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Carl Zimmer",
-      "title": "Biotech Firm Claims Some Credit for Groundbreaking Virus Research",
-      "description": "Radical Numerics turned heads with its announcement about a novel treatment. Now a former partner, Tabula Bioscience, says it performed much of the research.",
-      "url": "https://www.nytimes.com/2026/11/06/science/radical-numerics-tabula-phage.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/05/science/05SCI-PHAGE-01/05SCI-PHAGE-01-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-06T21:52:00Z",
-      "content": "Radical Numerics turned heads with its announcement about a novel treatment. Now a former partner, Tabula Bioscience, says it performed much of the research."
     },
     {
       "source": {

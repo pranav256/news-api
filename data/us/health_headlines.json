@@ -6,9 +6,22 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-13T18:48:59.851714+00:00",
-  "articles_count": 75,
+  "fetched_at": "2026-11-14T00:29:05.242892+00:00",
+  "articles_count": 79,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Sarah Kliff and Margot Sanger-Katz",
+      "title": "Trump Administration Delays Enforcement of Medicaid Work Requirement",
+      "description": "The federal government had planned to require poor adults to prove they were working or lose insurance coverage starting Jan. 1. Now, it will let states wait until July.",
+      "url": "https://www.nytimes.com/2026/11/13/us/politics/medicaid-work-requirement-delay.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/13/multimedia/13dc-medicaid-qmwz/13dc-medicaid-qmwz-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-13T23:10:21Z",
+      "content": "The federal government had planned to require poor adults to prove they were working or lose insurance coverage starting Jan. 1. Now, it will let states wait until July."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -24,6 +37,71 @@
     },
     {
       "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Hospital sewers may be breeding grounds for dangerous superbugs, study finds - Fox News",
+      "description": "A Nature Communications study found hospital wastewater promotes antibiotic-resistant E. coli, with bacteria on sewer pipes three times as resistant.",
+      "url": "https://www.foxnews.com/health/hospital-sewers-breeding-grounds-dangerous-superbugs-study-finds",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/woman-in-hospital.jpg",
+      "publishedAt": "2026-11-12T19:43:03Z",
+      "content": "Hospital wastewater has been shown to promote the growth of antibiotic-resistant bacteria, potentially making sewer systems hotspots for antimicrobial resistance, according to a new Swedish study pub… [+5597 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Daniel Wu",
+      "title": "What new prostate cancer recommendations say about who should get blood tests - The Washington Post",
+      "description": "The American Cancer Society’s first update to prostate cancer screening guidance in more than a decade endorsed regular PSA tests for certain older men.",
+      "url": "https://www.washingtonpost.com/health/2026/11/12/new-prostate-cancer-guidelines-suggest-regular-blood-tests-most-older-men/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/DKVADZET6JJLUGKCWXSPJXNS5I.jpg&w=1440",
+      "publishedAt": "2026-11-12T19:32:43Z",
+      "content": "Most men between the ages of 50 and 69 should take a blood test to check for prostate cancer every two years, the American Cancer Society said Thursday, in its first update to screening guidelines fo… [+35 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Sasha Draeger-mazer/the Texas Tribune",
+      "title": "CDC eliminates $29 million for HIV prevention in Texas - AP News",
+      "description": "The federal government has cut $29.2 million from Texas health organizations that test thousands of people for HIV directly in their communities, the latest in a series of public health funding cuts statewide.",
+      "url": "https://apnews.com/article/cdc-funding-hiv-prevention-texas-db7d1a62c1781f0c9842fa62e174a4b0",
+      "urlToImage": "https://dims.apnews.com/dims4/default/813e45c/2147483647/strip/true/crop/1281x854+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0c%2F94%2Fcbc970464ba8bfbc6042dd7cdd78%2Fthe-ap-default-image-2026.png",
+      "publishedAt": "2026-11-12T18:47:54Z",
+      "content": "The federal government has cut $29.2 million from Texas health organizations that test thousands of people for HIV directly in their communities, the latest in a series of public health funding cuts … [+9428 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": null,
+      "title": "RSV vaccines slash infections: data show jabs’ staggering success against dangerous virus - Nature",
+      "description": "Vaccines and monoclonal-antibody injections are cutting hospitalizations linked to the respiratory virus.",
+      "url": "https://www.nature.com/articles/d41586-026-03573-3",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03573-3/d41586-026-03573-3_53944970.jpg",
+      "publishedAt": "2026-11-12T18:42:03Z",
+      "content": "Protection against the respiratory syncytial virus (RSV) must expand to lower-income countries, which are harder hit.Credit: Hailshadow/Getty\r\nSomethings wrong with the data. There are too few people… [+4258 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Beth Mole",
+      "title": "Man’s secret use of synthetic testosterone for cows nearly destroyed his heart - Ars Technica",
+      "description": "Doctors warn that such life-threatening cases are becoming more common.",
+      "url": "https://arstechnica.com/health/2026/11/mans-secret-use-of-synthetic-testosterone-for-cows-nearly-destroyed-his-heart/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-595668825-1152x648.jpg",
+      "publishedAt": "2026-11-12T18:17:19Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -34,6 +112,32 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-medicaid-01-zkhw/10biz-medicaid-01-zkhw-mediumSquareAt3X-v2.jpg",
       "publishedAt": "2026-11-12T17:07:15Z",
       "content": "Health systems are racing to guide millions of patients through new eligibility hoops, slated to go into effect Jan. 1."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Financial Times"
+      },
+      "author": null,
+      "title": "New brain atlas promises disease breakthroughs - Financial Times",
+      "description": "Biggest-ever map of brain region crucial to movement shines light on conditions including Parkinson’s, schizophrenia and autism",
+      "url": "https://www.ft.com/content/e9ce1070-0c61-450a-ac75-ddabb0edfa69?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F11aaf9b5-600c-481c-a8e3-c3d4e160c7d4.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "publishedAt": "2026-11-12T16:00:19Z",
+      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Ed Cara",
+      "title": "Teen Gets Anaphylaxis From Energy Drink - Gizmodo",
+      "description": "The boy developed a severe allergic reaction to an increasingly popular ingredient in energy drinks and other products.",
+      "url": "https://gizmodo.com/a-teen-suffered-a-severe-allergy-attack-after-sipping-an-energy-drink-the-trigger-wasnt-what-doctors-expected-2000838873",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/11/energy-drink-cans-1200x675.jpg",
+      "publishedAt": "2026-11-12T15:40:18Z",
+      "content": "People with food allergies have to be careful about the meals and drinks they consume. A case report out today, however, shows that some allergic attacks can be caused by unexpected sources.\r\nAnnabel… [+2903 chars]"
     },
     {
       "source": {
@@ -60,6 +164,19 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261111-lone-star-tick-ww-1201-4d5974.jpg",
       "publishedAt": "2026-11-12T15:00:59Z",
       "content": "Theres emerging evidence that the allergy drug omalizumab may reduce severe allergic reactions for alpha-gal syndrome, a red meat allergy triggered by a tick bite. \r\nIn a study presented Thursday at … [+7222 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "OregonLive"
+      },
+      "author": "OregonLive.com",
+      "title": "Dear Doctor: I took medication for ED and developed severe pain. Is that normal? - OregonLive.com",
+      "description": null,
+      "url": "https://www.oregonlive.com/advice/2026/11/dear-doctor-i-took-medication-for-ed-and-developed-severe-pain-is-that-normal.html",
+      "urlToImage": null,
+      "publishedAt": "2026-11-12T15:00:00Z",
+      "content": null
     },
     {
       "source": {
@@ -102,6 +219,32 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "TODAY"
+      },
+      "author": "A. Pawlowski",
+      "title": "Don’t Ignore This 1 ‘Under-Appreciated’ Warning Sign of Heart Trouble, Doctor Warns - TODAY.com",
+      "description": "Shortness of breath can be a heart disease symptom, especially if accompanies leg swelling. Doctor explains when the warning sign should be checked out.",
+      "url": "https://www.today.com/health/disease/heart-disease-symptom-shortness-of-breath-expert-tip-rcna605693",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-11/Expert-tip-of-the-day-shortness-of-breath-as11112026-d48376.jpg",
+      "publishedAt": "2026-11-12T13:00:40Z",
+      "content": "Chest pain is a well-known heart disease warning sign, but theres another symptom to watch for when it comes to cardiovascular trouble.\r\nIt could show up gradually, disrupting everyday tasks, or even… [+2544 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Medscape"
+      },
+      "author": "Richard Mark Kirkner",
+      "title": "Two Trials of Intensive BP Lowering, Two Different Outcomes - Medscape",
+      "description": "In twin trials in patients who had a stroke or live with diabetes, intensive systolic blood pressure lowering reduced cardiovascular events in the former but not the latter.",
+      "url": "https://www.medscape.com/viewarticle/two-trials-intensive-bp-lowering-find-different-outcomes-2026a10017gr",
+      "urlToImage": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/1/7/5/180ddc92-2fdb-4ad1-a0bd-be0973cf2571/gty_221213_doctor_patient_blood_pressure_800x450.jpg",
+      "publishedAt": "2026-11-12T12:48:00Z",
+      "content": "CHICAGO — Intensive antihypertensive therapy to target systolic blood pressure (BP) less than 120 mm Hg can lower the chance of strokes, heart attacks, or other major cardiovascular events in people … [+12487 chars]"
+    },
+    {
+      "source": {
         "id": "the-washington-post",
         "name": "The Washington Post"
       },
@@ -112,45 +255,6 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/EYWDMUHSUJDDVGCEKV4AOWC2AI.jpg&w=1440",
       "publishedAt": "2026-11-12T11:32:39Z",
       "content": "Theres a bit of folk wisdom among mothers of kids with ADHD: Want your kid to sit still and focus at school? Get them to run around outside first.\r\nThe assumption has long been that kids simply need … [+421 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Boston Globe"
-      },
-      "author": null,
-      "title": "Watchman device controversy: Did marketing outpace the science? - The Boston Globe",
-      "description": "Boston Scientific turned the Watchman heart implant for A-fib into a $2 billion blockbuster. But many doctors have decided the science is far less clear.",
-      "url": "https://apps.bostonglobe.com/2026/11/spotlight/watchman-device-boston-scientific-afib",
-      "urlToImage": "https://apps.bostonglobe.com/2026/11/spotlight/watchman-device-boston-scientific-afib/static/2ca4575bee911252ad285c4d09f461a0/47498/BG5LZUW73JDHNCI34UDE2235XQ.jpg",
-      "publishedAt": "2026-11-12T11:12:09Z",
-      "content": "Your browser does not support embedded video.\r\nYour browser does not support embedded video.\r\nFederal regulators approved the Watchman heart implant for a limited group of patients.\r\nBut that didnt s… [+33945 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Michelle Starr",
-      "title": "Scientists Find Out-of-Body Experiences May Occur Between Sleep And Waking - ScienceAlert",
-      "description": "The liminal space between sleeping and waking could be where the human brain conjures the uncanny.",
-      "url": "https://www.sciencealert.com/scientists-find-out-of-body-experiences-may-occur-between-sleep-and-waking",
-      "urlToImage": "https://www.sciencealert.com/images/2026/11/drifting-1200x675.png",
-      "publishedAt": "2026-11-12T11:03:45Z",
-      "content": "The liminal space between sleeping and waking could be where the human brain conjures the uncanny.\r\nIt's there, in a state that is somehow both or neither, that the sleeping brain may extend tendrils… [+6663 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Viral olive oil shots could lead to weight gain, health expert warns - Fox News",
-      "description": "Celebrities and social media users swear by daily olive oil and lemon juice shots, but a science consultant warns of weight gain and other health risks.",
-      "url": "https://www.foxnews.com/food-drink/viral-olive-oil-shots-could-lead-weight-gain-health-expert-warns",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/11/olive-oil-shot-every-morning-trend-does-it-work-expert-weighs-in-2.jpg",
-      "publishedAt": "2026-11-12T11:00:37Z",
-      "content": "Taking shots of olive oil has become a popular trend on social media, with celebrities like Kourtney Kardashian and Hailey Bieber touting the practice for its supposed health benefits.\r\nHowever, some… [+3105 chars]"
     },
     {
       "source": {
@@ -181,28 +285,28 @@
     {
       "source": {
         "id": null,
-        "name": "Science Daily"
+        "name": "9News.com KUSA"
       },
-      "author": null,
-      "title": "Scientists discover a common sugar may help cancer cells break free and spread - Science Daily",
-      "description": "Scientists have uncovered a surprising way that fructose, a sugar commonly found in sweetened foods and drinks, may help aggressive ovarian cancer spread. Researchers discovered that cancer cells surviving chemotherapy release fructose that weakens the bonds …",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261111221501.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/cancer-cell-infecting-healthy-tissue.webp",
-      "publishedAt": "2026-11-12T04:40:22Z",
-      "content": "A common sugar found in many foods and sweetened drinks may play an unexpected role in helping aggressive ovarian cancer spread. Researchers at The Wistar Institute have discovered that cancer cells … [+8550 chars]"
+      "author": "9News",
+      "title": "Lung scans save lives: Denver man's early screening underscores dire need for more testing - 9News",
+      "description": null,
+      "url": "https://www.9news.com/article/news/health/lung-scans-save-lives-denver-mans-early-screening-underscores-dire-need-for-more-testing/73-8903685d-0598-4b5e-a8fe-734b6368da73",
+      "urlToImage": null,
+      "publishedAt": "2026-11-12T05:37:00Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "KSBW The Central Coast"
+        "name": "KCCI Des Moines"
       },
-      "author": "Felix Cortez",
-      "title": "Capitola Beach closed after E. coli outbreak may have exposed at least 9 children - KSBW",
-      "description": "An E. coli outbreak has forced the closure of Capitola Beach after health leaders said nine children from Santa Cruz County and the Bay Area were exposed at the beach or in nearby waterways.",
-      "url": "https://www.ksbw.com/article/capitola-beach-closed-e-coli-children/74406017",
-      "urlToImage": "https://kubrick.htvapps.com/vidthumb/0d735f48-fbf7-4de8-88f5-8bc6d765ab57/6c7f087d-13fa-426e-9d5d-1b846a5c1d99.jpg?crop=0.810xw%3A0.811xh%3B0.0327xw%2C0&resize=1200%3A*",
-      "publishedAt": "2026-11-12T02:07:00Z",
-      "content": "CAPITOLA, Calif.An E. coli outbreak has forced the closure of Capitola Beach after health leaders said nine children from Santa Cruz County and the Bay Area were exposed at the beach or in nearby wat… [+1746 chars]"
+      "author": "Abigail Kurten",
+      "title": "Health experts encourage vaccination as Iowa sees 50th measles case this year - KCCI",
+      "description": "A new measles case in Polk County has prompted health officials to address exposure risks and vaccination rates as the disease spreads.",
+      "url": "https://www.kcci.com/article/health-experts-encourage-vaccination-as-iowa-sees-50th-measles-case-this-year/74405768",
+      "urlToImage": "https://kubrick.htvapps.com/vidthumb/27b8f5c9-2269-46aa-9ce2-c3dc188fc226/4faf471a-ee56-4731-b6d1-8a257c42c5c8.jpg?crop=0.829xw%3A0.829xh%3B0.155xw%2C0&resize=1200%3A*",
+      "publishedAt": "2026-11-12T03:13:00Z",
+      "content": "DES MOINES, IowaThe Polk County Health Department confirmed a new case of measles on Wednesday, with exposure sites including Blank Children's Hospital in downtown Des Moines and grocery stores in An… [+1596 chars]"
     },
     {
       "source": {
@@ -284,19 +388,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "KCCI Des Moines"
-      },
-      "author": null,
-      "title": "New measles case confirmed in central Iowa; potential exposure locations in Ankeny, Des Moines - KCCI",
-      "description": "Central Iowa health officials have confirmed another case of measles in a child.",
-      "url": "https://www.kcci.com/article/measles-in-iowa-cases-exposure-locations-ankeny-des-moines/74402453",
-      "urlToImage": "https://kubrick.htvapps.com/vidthumb/b1bfd656-64a1-4481-8141-f608a1a2aeea/d7624cae-88ee-4caa-8fa3-646f5d262626.jpg?crop=0.798xw%3A0.798xh%3B0%2C0&resize=1200%3A*",
-      "publishedAt": "2026-11-11T22:07:00Z",
-      "content": "DES MOINES, IowaCentral Iowa health officials have confirmed another case of measles in a child.\r\nPrevious video above: UnityPoint Health urges vaccinations as measles surge spreads nationwide and in… [+1512 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -307,6 +398,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/06/multimedia/00cul-broadway-chastain-htmg/00cul-broadway-chastain-htmg-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-11T22:00:06Z",
       "content": "Chastain will portray an actress with dementia whose most vivid memories are of rehearsing for the title role in “King Lear.”"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WIVB.com - News 4"
+      },
+      "author": "Gabriella Baiano",
+      "title": "Catholic Health to encourage masks at medical facilities - WIVB News 4",
+      "description": "BUFFALO, N.Y. (WIVB) — Masks will be “strongly encouraged” for visitors at Catholic Health and Trinity Medical facilities beginning Nov. 16 as flu season is underway. Associates, providers, students and volunteers will also be required to wear a surgical or a…",
+      "url": "https://www.wivb.com/news/local-news/western-new-york/catholic-health-to-require-masks-at-medical-facilities/",
+      "urlToImage": "https://www.wivb.com/wp-content/uploads/sites/97/2021/12/coronavirus-mask_121321_1.jpg?w=1280",
+      "publishedAt": "2026-11-11T21:51:29Z",
+      "content": null
     },
     {
       "source": {
@@ -340,19 +444,6 @@
         "name": "Nature.com"
       },
       "author": null,
-      "title": "Domain-alteration chimeras rewire oncogenic complexes in prostate cancer - Nature",
-      "description": "A novel therapeutic modality enforces non-native androgen receptor (AR)–p300/CBP interactions to collapse AR transcriptional programs, producing super-inhibitory, lineage-selective suppression of metastatic prostate cancer and establishing domain-alteration c…",
-      "url": "https://www.nature.com/articles/s41586-026-11262-4",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11262-4/MediaObjects/41586_2026_11262_Fig1_HTML.png",
-      "publishedAt": "2026-11-11T20:15:57Z",
-      "content": "Cell lines\r\nVCaP, LNCaP, 22Rv1, DU145, PC-3, MCF-7, HepG2, A549, K562, HL-60, U937, HEK293, WPMY-1, U-87 MG, BJAB, SK-ES-1, RD-ES, A204, PBMC, NCI-H526, AU565, MM1.S, SU-DHL-8 and NCI-H211 were purch… [+42149 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
       "title": "Evolutionary dynamics in the years preceding acute myeloid leukaemia - Nature",
       "description": "The somatic evolutionary histories of haematopoietic cells in the years preceding acute myeloid leukaemia diagnosis show that the clonal dynamics of blood comply with a set of simple evolutionary rules.",
       "url": "https://www.nature.com/articles/s41586-026-11269-x",
@@ -376,19 +467,6 @@
     {
       "source": {
         "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "Validation of clinical and preclinical obesity across global cohorts - Nature",
-      "description": "A large-scale data analysis assesses the Lancet Commission’s proposed diagnostic framework for obesity, finding that this framework, in which BMI is combined with other criteria, such as waist circumference&nbsp;and organ function, is more useful than classif…",
-      "url": "https://www.nature.com/articles/s41586-026-11237-5",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11237-5/MediaObjects/41586_2026_11237_Fig1_HTML.png",
-      "publishedAt": "2026-11-11T19:41:15Z",
-      "content": "To our knowledge, this is the first large-scale, multinational study to comprehensively evaluate the Lancet Commission diagnostic framework1 against the widely used BMI-based classification. Previous… [+13557 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Futurity: Research News"
       },
       "author": "U. Copenhagen",
@@ -401,16 +479,42 @@
     },
     {
       "source": {
-        "id": "usa-today",
-        "name": "USA Today"
+        "id": null,
+        "name": "Nature.com"
       },
-      "author": "Mary Walrath-Holdridge",
-      "title": "More newborns are bleeding. Why they need vitamin K shots - USA Today",
-      "description": "Two new studies found an accelerating trend of parents refusing vitamin K shots at birth and, at the same time, more reports of babies bleeding.",
-      "url": "https://www.usatoday.com/story/news/health/2026/11/10/more-parents-rejecting-newborn-vitamin-k-shots/92710769007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/10/USAT/92713369007-getty-images-2226556998.jpg?crop=2120,1193,x0,y0&width=2120&height=1193&format=pjpg&auto=webp",
-      "publishedAt": "2026-11-11T17:59:00Z",
-      "content": "More babies are suffering life-threatening bleeding as a rising number of parents in the United States refuse a shot typically given to reduce that risk, according to two new studies.\r\nThe studies, b… [+7489 chars]"
+      "author": null,
+      "title": "New culprit in early Alzheimer’s: blood–brain barrier blocks protective proteins - Nature",
+      "description": "The brain relies on crucial proteins to maintain neurons. This system is disrupted in mice with neurological disease.",
+      "url": "https://www.nature.com/articles/d41586-026-03655-2",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03655-2/d41586-026-03655-2_53961936.jpg",
+      "publishedAt": "2026-11-11T18:43:08Z",
+      "content": "Researchers tagged dozens of proteins that can cross the blood-brain barrier and are important for brain health.Credit: K. H. Fung/SPL\r\nFor decades, scientists thought of the bloodbrain barrier as an… [+3044 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "STAT"
+      },
+      "author": "Andrew Joseph",
+      "title": "BMI alternative would flip obesity diagnosis for millions, study finds - STAT",
+      "description": "A newly proposed way of identifying obesity could flip the diagnoses of millions of people. Proponents argue it could lead to more precise care.",
+      "url": "https://www.statnews.com/2026/11/11/obesity-diagnosis-bmi-lancet-commission-proposal-impact/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_1327253268_Editorial_Use_Only-1024x576.jpeg",
+      "publishedAt": "2026-11-11T18:27:57Z",
+      "content": "LONDON Millions of people would have their obesity diagnoses flipped from having obesity to not, and vice versa if an alternate way of defining the disease supplanted the standard body mass index mea… [+1081 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Medical Xpress"
+      },
+      "author": null,
+      "title": "New review of the first oral PCSK9 drug, a needle-free option for high cholesterol - Medical Xpress",
+      "description": "A new review from Binghamton University School of Pharmacy and Pharmaceutical Science explores how Lipfendra (enlicitide) can be beneficial for those who have intolerances to injectable medications. The review was recently published in Annals of Pharmacothera…",
+      "url": "https://medicalxpress.com/news/2026-11-oral-pcsk9-drug-needle-free.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/new-review-of-the-firs.jpg",
+      "publishedAt": "2026-11-11T17:20:01Z",
+      "content": "A new review from Binghamton University School of Pharmacy and Pharmaceutical Science explores how Lipfendra (enlicitide) can be beneficial for those who have intolerances to injectable medications. … [+2078 chars]"
     },
     {
       "source": {
@@ -441,14 +545,14 @@
     {
       "source": {
         "id": null,
-        "name": "9News.com KUSA"
+        "name": "Medical Xpress"
       },
-      "author": "9News",
-      "title": "Eating less protein may slow biological aging and improve metabolic health, study suggests - 9News",
+      "author": "Medical Xpress",
+      "title": "Molecular brace traps two cancer-driving proteins to suppress prostate cancer growth in preclinical tests - Medical Xpress",
       "description": null,
-      "url": "https://www.9news.com/article/news/nation-world/eating-less-protein-may-slow-biological-aging/507-fb378f59-b6cd-43a8-95f4-6a6dcbbd416e",
+      "url": "https://medicalxpress.com/news/2026-11-molecular-brace-cancer-proteins-suppress.html",
       "urlToImage": null,
-      "publishedAt": "2026-11-11T16:21:00Z",
+      "publishedAt": "2026-11-11T16:00:01Z",
       "content": null
     },
     {
@@ -493,19 +597,6 @@
     {
       "source": {
         "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "Scientists find deadly virus DNA hidden in 1,000-year-old manuscripts - Science Daily",
-      "description": "Ancient manuscripts, including the 1,000-year-old York Gospels, have revealed traces of a deadly sheep virus whose history stretches back more than 3,700 years. Scientists discovered that the virus has remained remarkably unchanged for millennia, turning hist…",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261106174545.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/epistles-of-st-paul.webp",
-      "publishedAt": "2026-11-11T12:34:19Z",
-      "content": "Some of Europe's most famous medieval manuscripts, including the York Gospels, have revealed an extraordinary secret hidden in their pages. Scientists have discovered ancient viral DNA preserved in t… [+7436 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "ScienceAlert"
       },
       "author": "Jess Cockerill",
@@ -532,32 +623,6 @@
     {
       "source": {
         "id": null,
-        "name": "Abcnews.com"
-      },
-      "author": "ABC News",
-      "title": "Video Disturbing 'heightmaxxing' trend among boys, Rolling Stone reports - ABC News - Breaking News, Latest News and Videos",
-      "description": "The trend on social media has teen boys experimenting with cancer medications in hopes of growing taller, according to Rolling Stone.",
-      "url": "https://abcnews.com/video/138039761/",
-      "urlToImage": "https://i.abcnewsfe.com/a/d645afd4-c01f-49f8-add4-f670930f1152/261111_gmafl_height_hpMain_16x9.jpg?w=992",
-      "publishedAt": "2026-11-11T11:11:54Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WLS-TV"
-      },
-      "author": "Jason Knowles",
-      "title": "New testing finds Legionella and chlorine concerns in Beaverville, Illinois water investigation - ABC7 Chicago",
-      "description": "1 resident said her mother-in-law died from pneumonia",
-      "url": "https://abc7chicago.com/post/new-testing-finds-legionella-chlorine-concerns-beaverville-illinois-water-investigation/20031306/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/20031476_111026-wls-iteam-water-jason-430p-vid.jpg?w=1600",
-      "publishedAt": "2026-11-11T00:17:53Z",
-      "content": "BEAVERVILLE, Ill. (WLS) -- New testing by a nationally recognized water expert has found Legionella bacteria in one Illinois home's plumbing system and raised new concerns about chlorine levels in th… [+2995 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "BBC News"
       },
       "author": null,
@@ -580,6 +645,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/09/well/WELL-DEPRESSION-MEDS1/WELL-DEPRESSION-MEDS1-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-10T23:30:23Z",
       "content": "In the meta-analysis, a few drugs stood out for offering greater effectiveness over time."
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Fox News",
+      "title": "Viral ‘heightmaxxing’ trend has teen boys taking cancer drugs to grow taller despite doctors' warnings - New York Post",
+      "description": "Doctors warn that teens taking erdafitinib, a cancer drug, to grow taller in a trend called heightmaxxing face severe health risks.",
+      "url": "https://www.foxnews.com/health/viral-heightmaxxing-trend-teen-boys-taking-cancer-drugs-grow-taller-doctors-warn-risks",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/148264269.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-11-10T23:06:00Z",
+      "content": "Medical experts are warning of a dangerous new social media trend known as “heightmaxxing,” amid reports that teenagers are taking black-market cancer medications in an effort to grow taller.\r\nAdoles… [+4534 chars]"
     },
     {
       "source": {
@@ -636,19 +714,6 @@
     {
       "source": {
         "id": null,
-        "name": "New York Post"
-      },
-      "author": "Rachel Sacks",
-      "title": "Device inspired by Disney’s ‘Tangled’ could help battle hair loss even better than Rogaine - New York Post",
-      "description": "Not only does the treatment look like an everyday item, it could work even better than a typical treatment of over-the-counter Rogaine.",
-      "url": "https://nypost.com/2026/11/10/health/tangled-inspired-device-could-help-battle-hair-loss/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/newspress-collage-0ric3nm0c-1794338623252.jpg?quality=75&strip=all&1794320681&w=1200",
-      "publishedAt": "2026-11-10T19:25:00Z",
-      "content": "No need to get knotted up over hair loss.\r\nAn innovative device currently in development could be a breakthrough solution for the roughly 50 million men and 30 million women who experience some form … [+2745 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Phys.Org"
       },
       "author": null,
@@ -658,19 +723,6 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/wastewater-offers-a-un.jpg",
       "publishedAt": "2026-11-10T19:20:12Z",
       "content": "Bacteria found in wastewater may provide clues about community health, including rates of chronic disease, health behaviors and social conditions, according to a recent study from The Ohio State Univ… [+3993 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "Some people are resistant to dementia — here’s what their genes can teach us - Nature",
-      "description": "For years, researchers have studied people with a genetic predisposition to Alzheimer’s and other dementias. They might have even more to learn from those who don’t get the disease.",
-      "url": "https://www.nature.com/articles/d41586-026-03625-8",
-      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03625-8/d41586-026-03625-8_53948938.jpg",
-      "publishedAt": "2026-11-10T18:44:20Z",
-      "content": "The ravages of age touch us all some more lightly than others. Geneticist Henne Holstege wanted to study people with a particular superpower: those resistant to neurodegeneration, despite their age o… [+9232 chars]"
     },
     {
       "source": {
@@ -752,16 +804,16 @@
     },
     {
       "source": {
-        "id": "fox-news",
-        "name": "Fox News"
+        "id": null,
+        "name": "PEOPLE"
       },
-      "author": "Kelly McGreal",
-      "title": "Men and women who smoke marijuana may experience different effects, study suggests - Yahoo",
-      "description": "UCLA researchers found occasional male cannabis users reported stronger effects like anxiety and elevated heart rate than women with similar THC levels.",
-      "url": "https://www.foxnews.com/health/men-women-smoke-marijuana-may-experience-different-effects-study-suggests",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/aa0bcb847f44e85cf58ccec34af263593ea58678847a0cac5c18b873c5f6e882/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2F5d1b0d31beabd384ec73774b931762e1.jpg",
-      "publishedAt": "2026-11-09T16:55:22Z",
-      "content": "Men who use cannabis occasionally may feel stronger effects from the drug than women with similar use habits, new research suggests.\r\nThe UCLA Health study, published in the journal Neuropsychopharma… [+4118 chars]"
+      "author": "Angel Saunders, Cara Lynn Shultz",
+      "title": "Infant Bleeding Episodes Skyrocket 347% as More Parents Refuse Vitamin K Shot - Yahoo",
+      "description": "“We are seeing the real-world implications of growing mistrust of doctors and public health professionals,” a lead researcher said",
+      "url": "https://people.com/infant-bleeding-rises-sharply-as-parents-reject-recommended-vitamin-k-shots-12240403",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/ddc9de9a9634ef79e376a7cfd48e30a297a00f77fd56bd2b8dce87f80969612d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F560bbd239665d7946e7bc33350d17ea2.jpg",
+      "publishedAt": "2026-11-09T18:33:38Z",
+      "content": "NEED TO KNOW\r\n<ul><li>A study of 11 million infants found vitamin K shots declined from 97.7% to 95% between 2017 and 2025\r\n</li><li>Vitamin K deficiency bleeding rose 347% during the same period, re… [+2984 chars]"
     },
     {
       "source": {
@@ -778,16 +830,16 @@
     },
     {
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
+        "id": null,
+        "name": "Newser"
       },
-      "author": "Beth Krietsch",
-      "title": "The 5 medications most likely to cause bone thinning - The Washington Post",
-      "description": "If you take any of these medications, it’s important to chat with your health care provider about what you can do to stay on top of your bone health.",
-      "url": "https://www.washingtonpost.com/wellness/2026/11/09/5-medications-most-likely-cause-bone-thinning/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/YP4IAK4XNHCIHTUL2KZ3O6OUN4_size-normalized.jpg&w=1440",
-      "publishedAt": "2026-11-09T12:31:24Z",
-      "content": "You may know that your bones can get less dense with age, after menopause or when you dont do enough weight-bearing exercises or resistance training. What might not be so apparent is how the medicati… [+85 chars]"
+      "author": "Arden Dier",
+      "title": "Why a Lot of Acorns Will Mean a Lot of Ticks - Newser",
+      "description": "Acorns feed mice, which feed Lyme-carrying deer tick larvae and nymphs",
+      "url": "https://www.newser.com/story/399676/to-predict-lyme-disease-risk-look-at-the-acorns.html",
+      "urlToImage": "https://cdn.newser.com/image/1723325-12-20261109104718.jpeg",
+      "publishedAt": "2026-11-09T16:18:00Z",
+      "content": "Deer still matter—adult ticks rely on them to reproduce—but in areas where deer are already plentiful, adding or losing a few doesn't change tick numbers much. Mice, on the other hand, are perfect ho… [+361 chars]"
     },
     {
       "source": {
@@ -817,16 +869,16 @@
     },
     {
       "source": {
-        "id": "usa-today",
-        "name": "USA Today"
+        "id": "medical-news-today",
+        "name": "Medical News Today"
       },
-      "author": "Mary Walrath-Holdridge",
-      "title": "The flu strain driving this season's unusually early spread - USA Today",
-      "description": "Scientists and healthcare professionals are keeping an eye on a mutated virus strain as flu season picks up early in the US.",
-      "url": "https://www.usatoday.com/story/news/health/2026/11/07/flu-strain-driving-early-spread-h1n1-d311/92569586007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/06/USAT/92648902007-getty-images-2196049046.jpg?crop=2119,1192,x0,y0&width=2119&height=1192&format=pjpg&auto=webp",
-      "publishedAt": "2026-11-07T13:02:00Z",
-      "content": "As Americans head into the heart of sickness season, health officials are keeping a close eye on the flu strains driving an unusually early rise in infections.\r\nFlu activity began increasing in parts… [+9403 chars]"
+      "author": "Erika Watts",
+      "title": "Experimental pancreatic cancer vaccine shows promise in clinical trial - Medical News Today",
+      "description": "An experimental pancreatic cancer vaccine has shown promise in a phse 2 clinical trial.",
+      "url": "https://www.medicalnewstoday.com/articles/experimental-pancreatic-cancer-vaccine-shows-promise-in-clinical-trial",
+      "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2026/11/getty_2196571116_facebook_1200x630-1200x628.jpg",
+      "publishedAt": "2026-11-07T06:42:43Z",
+      "content": "<ul><li>A group of researchers recently conducted a randomized phase 2 trial for a pancreatic cancer vaccine.</li><li>They found that the vaccine triggered an immune response in nearly 99% of partici… [+6183 chars]"
     },
     {
       "source": {
@@ -892,6 +944,19 @@
       "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2207803434.jpg?c=16x9&q=w_800,c_fill",
       "publishedAt": "2026-11-06T12:00:15Z",
       "content": "While an estimated 38 million Americans have type 2 diabetes, the condition is increasingly being diagnosed in younger adults. Without treatment, they face decades of elevated risk for complications … [+8623 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cdc.gov"
+      },
+      "author": "CDC",
+      "title": "Weekly US Influenza Surveillance Report: Key Updates for Week 43, ending October 31, 2026 | FluView - Centers for Disease Control and Prevention | CDC (.gov)",
+      "description": "Seasonal flu activity continues to increase in many parts of the country.",
+      "url": "https://www.cdc.gov/fluview/surveillance/2026-week-43.html",
+      "urlToImage": "https://www.cdc.gov/fluview/media/images/2026/flu-view-sm.png?_=75438",
+      "publishedAt": "2026-11-06T08:00:00Z",
+      "content": "All data are preliminary and may change as more reports are received.\r\nA description of the CDC influenza surveillance system, including methodology and detailed descriptions of each data component, … [+27596 chars]"
     },
     {
       "source": {
@@ -970,19 +1035,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/30/multimedia/00biz-pregnant-workers--01-lcqm/00biz-pregnant-workers--01-lcqm-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-02T23:10:21Z",
       "content": "The Biden era law was meant to help women stay in the workplace, but some conservatives say rules to enact it went too far with coverage for abortion and fertility treatment."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Mark Walker",
-      "title": "F.D.A. Warns of Tractor Wheels Snack Bar Linked to Choking Hazard",
-      "description": "Once Upon a Farm has recalled its Tractor Wheels soft-baked bars after reports that toddlers could not breathe while eating them.",
-      "url": "https://www.nytimes.com/2026/10/31/well/family/fda-tractor-wheels-choking-hazard.html",
-      "urlToImage": null,
-      "publishedAt": "2026-10-31T15:43:45Z",
-      "content": "Once Upon a Farm has recalled its Tractor Wheels soft-baked bars after reports that toddlers could not breathe while eating them."
     }
   ]
 }

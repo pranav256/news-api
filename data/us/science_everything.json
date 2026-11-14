@@ -6,9 +6,22 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-13T18:48:59.851714+00:00",
-  "articles_count": 29,
+  "fetched_at": "2026-11-14T00:29:05.242892+00:00",
+  "articles_count": 27,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Kenneth Chang",
+      "title": "SpaceX Aims for Starship Launch on Friday. Here’s What to Know.",
+      "description": "SpaceX could still try to catch the rocket’s upper stage tomorrow. Progress toward a fully reusable rocket remains mixed.",
+      "url": "https://www.nytimes.com/2026/11/13/science/spacex-launch-starship-rocket-catch.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/13/multimedia/spacex-launch-update-pwvq/spacex-launch-update-pwvq-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-13T23:47:30Z",
+      "content": "SpaceX could still try to catch the rocket’s upper stage tomorrow. Progress toward a fully reusable rocket remains mixed."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -21,19 +34,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/13/multimedia/13CLI-REPORT-01-tvzg/13CLI-REPORT-01-tvzg-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-13T17:59:45Z",
       "content": "Several countries that rely heavily on fossil fuels want to delay the next round of scientific assessments that governments use to inform their climate policies."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Kenneth Chang",
-      "title": "SpaceX Aims for Starship Launch on Friday. Here’s What to Know.",
-      "description": "The audacious maneuver planned for Friday is a key step toward the company’s goal of making rockets fully reusable.",
-      "url": "https://www.nytimes.com/2026/11/13/science/spacex-launch-starship-rocket-catch.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/13/multimedia/13SCI-STARSHIP-CATCH-01-vkmg/13SCI-STARSHIP-CATCH-01-vkmg-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-13T14:30:31Z",
-      "content": "The audacious maneuver planned for Friday is a key step toward the company’s goal of making rockets fully reusable."
     },
     {
       "source": {
@@ -359,32 +359,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/07/multimedia/07SCI-DSL-TRUMP-ltmq/07SCI-DSL-TRUMP-ltmq-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-07T14:21:08Z",
       "content": "Following an election-year rout for Republicans, Trump castigated lawmakers for not passing the Sunshine Protection Act. Some scientists have warned against the change."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Raymond Zhong",
-      "title": "Lonnie Thompson Has Died. He Dodged Avalanches to Preserve Climate History.",
-      "description": "His observations helped establish shriveling mountain glaciers as an unmistakable consequence of human-caused warming. He was 78.",
-      "url": "https://www.nytimes.com/2026/11/06/science/lonnie-thompson-dead.html",
-      "urlToImage": null,
-      "publishedAt": "2026-11-07T14:19:29Z",
-      "content": "His observations helped establish shriveling mountain glaciers as an unmistakable consequence of human-caused warming. He was 78."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Carl Zimmer",
-      "title": "Biotech Firm Claims Some Credit for Groundbreaking Virus Research",
-      "description": "Radical Numerics turned heads with its announcement about a novel treatment. Now a former partner, Tabula Bioscience, says it performed much of the research.",
-      "url": "https://www.nytimes.com/2026/11/06/science/radical-numerics-tabula-phage.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/05/science/05SCI-PHAGE-01/05SCI-PHAGE-01-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-06T21:52:00Z",
-      "content": "Radical Numerics turned heads with its announcement about a novel treatment. Now a former partner, Tabula Bioscience, says it performed much of the research."
     }
   ],
   "query": "science research discovery space"
