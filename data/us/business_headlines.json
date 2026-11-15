@@ -6,9 +6,35 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-14T21:41:55.364421+00:00",
-  "articles_count": 98,
+  "fetched_at": "2026-11-15T01:21:06.526446+00:00",
+  "articles_count": 90,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Kenneth Chang",
+      "title": "SpaceX Makes History With Successful Rocket Catch in Texas",
+      "description": "The Starship spacecraft returned from orbit to the same spot where it lifted off, marking a key milestone in SpaceX’s vision of building fully reusable rockets.",
+      "url": "https://www.nytimes.com/2026/11/14/science/spacex-starship-first-catch.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/14/multimedia/14starship-header-01-vgzq/14starship-header-01-vgzq-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-15T00:36:32Z",
+      "content": "The Starship spacecraft returned from orbit to the same spot where it lifted off, marking a key milestone in SpaceX’s vision of building fully reusable rockets."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Rebecca Chao",
+      "title": "Family Dollar to Pay $63 Million Settlement for Overcharging Customers",
+      "description": "Since 2023, the discount retailer has been overcharging shoppers “millions of dollars” at checkout, according to a complaint filed by federal regulators and 17 states.",
+      "url": "https://www.nytimes.com/2026/11/14/business/family-dollar-overcharging-settlement.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/14/multimedia/14xp-settlement-topart-02-zvcf/14xp-settlement-topart-02-zvcf-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-14T23:20:04Z",
+      "content": "Since 2023, the discount retailer has been overcharging shoppers “millions of dollars” at checkout, according to a complaint filed by federal regulators and 17 states."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -19,7 +45,7 @@
       "description": "The Federal Aviation Administration’s aging air traffic control infrastructure has had several disruptive failures in recent months, as officials have sought to make upgrades.",
       "url": "https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html",
       "urlToImage": "https://static01.nyt.com/images/2026/11/13/multimedia/13faa-groundstop-fiberoptics-hzkb/13faa-groundstop-fiberoptics-hzkb-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-14T21:21:42Z",
+      "publishedAt": "2026-11-14T23:14:32Z",
       "content": "The Federal Aviation Administration’s aging air traffic control infrastructure has had several disruptive failures in recent months, as officials have sought to make upgrades."
     },
     {
@@ -167,6 +193,19 @@
     },
     {
       "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Jeff Simon, Alexandra Skores, Nicki Brown, Tori B. Powell, René Marsh, August Phillips, Pete Muntean, Taylor Galgano, Aleena Fayaz, Zachary Slater, Emma Tucker, Dalia Faheid, Kevin Liptak, Isabel Rosales, Molly English, Brian Stelter, Aaron Cooper, Evan Perez, Hannah Rabinowitz, Josh Campbell, Julia Vargas Jones, Eduardo Cuevas, Kaitlan Collins, Brandon Miller",
+      "title": "Live updates: No timeline for resolving nationwide ground stop as flight cancellations climb - CNN",
+      "description": "All flights in the United States are grounded until further notice, “due to extraordinary circumstances and for reasons of safety,” the Federal Aviation Administration said. Follow for live updates.",
+      "url": "https://www.cnn.com/2026/11/13/us/live-news/flights-ground-stop-faa",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2291486871.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-11-14T00:35:00Z",
+      "content": "With the FAA ordering a nationwide ground stop, sports in all leagues and competitions could be impacted on Saturday.\r\nAccording to ESPNs Pete Thamel, many college football teams are having flight is… [+1125 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -177,6 +216,71 @@
       "urlToImage": null,
       "publishedAt": "2026-11-14T00:27:27Z",
       "content": "The victims are often older people or immigrants, with thieves going after vacant land or unoccupied homes. But there are ways to protect yourself."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WJXT News4JAX"
+      },
+      "author": null,
+      "title": "No radar outage: National Weather Service sets record straight - News4JAX",
+      "description": "The National Weather Service is pushing back on misinformation circulating online about a radar outage.",
+      "url": "https://www.news4jax.com/news/local/2026/11/13/no-radar-outage-national-weather-service-sets-record-straight/",
+      "urlToImage": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/gmg/YL2A2DRSLRF3PECPA2467IFOII.png?api_key=news4jax_3f10b25586458189",
+      "publishedAt": "2026-11-13T23:28:25Z",
+      "content": "The National Weather Service is pushing back on misinformation circulating online about a radar outage.\r\nAccording to the NWS, radar.weather.gov is fully operational and no outage exists. The agency … [+537 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "William  Harwood",
+      "title": "SpaceX launches milestone Starship flight to demonstrate full reusability of orbit-class rocket - CBS News",
+      "description": "The SpaceX Super Heavy-Starship was designed from the ground up to be fully reusable in a bid to lower launch costs.",
+      "url": "https://www.cbsnews.com/news/spacex-launches-starship-flight-rocket/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/13/6065a29f-4a28-4c0c-bace-8fceea23af79/thumbnail/1200x630g2/cd18e18ca58d87270407234313e367c2/gettyimages-2304487605.jpg",
+      "publishedAt": "2026-11-13T23:03:00Z",
+      "content": "SpaceX launched its huge Starship rocket on the program's 15th test flight Friday, a 22-hour mission featuring planned launch pad catches of both the booster and the Starship upper stage. \r\nThe boost… [+5707 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Nvidia: How the Jensen Huang scandal exposed a headache for business-friendly Singapore - BBC",
+      "description": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
+      "url": "https://www.bbc.com/news/articles/ck1exevgql4qo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c559/live/a40793d0-df4a-11f1-a48c-75dd2efdacb5.jpg",
+      "publishedAt": "2026-11-13T23:00:31Z",
+      "content": "On Thursday, Huang stepped down from the US chip giant after admitting he had an affair. He was reportedly involved with a woman named Alice Huang, who ran Singaporean data centre company Megaspeed, … [+31 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "MarketWatch",
+      "title": "Stock Market on Nov. 13, 2026: Dow ends slightly higher, S&P 500 and Nasdaq fall as tech stocks struggle after Nvidia turmoil; U.S. equities market books weekly gain — live updates - MarketWatch",
+      "description": null,
+      "url": "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-nvidia-ceo-jensen-huang-resigns-ppi-inflation-data",
+      "urlToImage": null,
+      "publishedAt": "2026-11-13T22:59:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Marina Temkin, Dominic-Madori Davis",
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say - TechCrunch",
+      "description": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-nvidia.jpg?w=1024",
+      "publishedAt": "2026-11-13T22:43:00Z",
+      "content": "It was the resignation heard across the world. Jensen Huang, Nvidia’s embattled CEO who co-founded and led the company for 33 years, had officially stepped down. Its like a bomb went off, one neoclou… [+5346 chars]"
     },
     {
       "source": {
@@ -206,16 +310,29 @@
     },
     {
       "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
+        "id": "cbs-news",
+        "name": "CBS News"
       },
-      "author": "Chan Ho-him, Kelvin Chan, Wyatte Grantham-Philips",
-      "title": "Microsoft outage shows the risks of relying on a single technology provider for essential services - AP News",
-      "description": "A global Microsoft outage this week disrupted email and other workplace tools, plunging everyday business chatter into disarray worldwide. It also highlighted the risks of depending on a single technology provider for essential services. Microsoft 365 service…",
-      "url": "https://apnews.com/article/microsoft-outage-outlook-email-365-status-down-d92547a821930290db2964388016979a",
-      "urlToImage": "https://dims.apnews.com/dims4/default/1983007/2147483647/strip/true/crop/4799x3199+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3a%2F67%2F2291c0c3307a241b4adb4fe66cde%2F24ce3b35a11b46a394ff87476ed2881f",
-      "publishedAt": "2026-11-13T20:18:00Z",
-      "content": "A global Microsoft outage this week disrupted email and other workplace tools, plunging business chatter and everyday services into disarray worldwide and highlighting the risks of depending on one o… [+6469 chars]"
+      "author": "Megan  Cerullo",
+      "title": "Family Dollar to pay $63 million to settle claims it overcharged customers - CBS News",
+      "description": "The discount retailer failed to honor prices displayed on store shelves, on price tags and in ads, the FTC and multiple states alleged.",
+      "url": "https://www.cbsnews.com/news/family-dollar-stores-price-transparency-settlement/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/13/140a983a-4db2-42da-8ed0-036289b08a0b/thumbnail/1200x630/4ff54a8df1934a4fcaeed89d918ffb92/gettyimages-2071873164.jpg",
+      "publishedAt": "2026-11-13T20:52:00Z",
+      "content": "Family Dollar has agreed to pay $63 million to settle allegations that it routinely overcharged customers by millions of dollars.\r\nThe Federal Trade Commission and 17 U.S. states accused the budget r… [+2284 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Shirin Ghaffary, Emily Forgash",
+      "title": "Anthropic CEO Calls Computing Power ‘Deepest Business Dilemma’ - Bloomberg",
+      "description": "Anthropic PBC Chief Executive Officer Dario Amodei named sourcing computing power as one of the artificial intelligence company’s biggest challenges, in a briefing ahead of its hotly anticipated initial public offering.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ceo-calls-computing-power-deepest-business-dilemma",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iD68bpw2m_AI/v0/1200x740.jpg",
+      "publishedAt": "2026-11-13T20:16:06Z",
+      "content": "Anthropic PBC Chief Executive Officer Dario Amodei named sourcing computing power as one of the artificial intelligence companys biggest challenges, in a briefing ahead of its hotly anticipated initi… [+444 chars]"
     },
     {
       "source": {
@@ -245,29 +362,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Fox Business"
+        "id": "ars-technica",
+        "name": "Ars Technica"
       },
-      "author": "Greg Norman-Diamond",
-      "title": "New candidate emerges to replace Jensen Huang as Nvidia CEO - Fox Business",
-      "description": "The board of Nvidia has approached Rene Haas, the CEO of British chipmaker Arm, as it searches for a replacement for ousted CEO Jensen Huang, a report said.",
-      "url": "https://www.foxbusiness.com/fox-news-tech/new-candidate-emerges-replace-jensen-huang-nvidia-ceo",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/jensen-huang-2.jpg?ve=1&tl=1",
-      "publishedAt": "2026-11-13T18:44:00Z",
-      "content": "Nvidia's Board of Directors has approached Rene Haas, the CEO of British chipmaker Arm, in its search for the successor to Jensen Huang, according to a report from the Financial Times. \r\nThe outlet r… [+2462 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "David Hollerith",
-      "title": "Anthropic CEO Dario Amodei aims to 'underpromise and overdeliver' as IPO valuation drops below $2T hopes - Yahoo Finance",
-      "description": "Anthropic CEO Dario Amodei spoke with JPMorgan Chase CEO Jamie Dimon Friday as the artificial intelligence startup prepares for one of the largest initial pu...",
-      "url": "https://finance.yahoo.com/markets/article/anthropic-ceo-dario-amodei-aims-to-underpromise-and-overdeliver-as-ipo-valuation-drops-below-2t-hopes-181234804.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/d0938fc26860757b6d4f8b3b6bd95f36f6635d9ff3471ca898efd03825e4950d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F628345de-7f45-4a68-a0c8-a7a7e005b17c",
-      "publishedAt": "2026-11-13T18:12:34Z",
-      "content": "A future of new scientific discovery where cancer, Alzheimer's, and heart disease are considered relics of the past, and artificial intelligence agents perform a growing number of complex tasks for h… [+3935 chars]"
+      "author": "Jon Brodkin",
+      "title": "Trump Jr. out as Kalshi advisor after his firm's big investment in Polymarket - Ars Technica",
+      "description": "Trump son advised Kalshi and got equity while Trump admin helped Kalshi in lawsuits.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/donald-trump-jr-1152x648.jpg",
+      "publishedAt": "2026-11-13T19:49:16Z",
+      "content": null
     },
     {
       "source": {
@@ -284,16 +388,16 @@
     },
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
+        "id": null,
+        "name": "Nhtsa.gov"
       },
-      "author": "WSJ",
-      "title": "Stock Market Today: Nvidia Slides Again as Investors Brace for More Fallout; Nasdaq Slumps— Live Updates - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-13-2026",
-      "urlToImage": null,
-      "publishedAt": "2026-11-13T17:30:00Z",
-      "content": null
+      "author": null,
+      "title": "Consumer Alert: Urgent Park Outside Recall Issued for Nearly 721K BMW Vehicles - NHTSA | National Highway Traffic Safety Administration (.gov)",
+      "description": "BMW of North America has issued a park outside recall for 720,796 vehicles due to a risk of fire while parked and turned off. These vehicles were",
+      "url": "https://www.nhtsa.gov/press-releases/bmw-water-pump-recall-fire-risk",
+      "urlToImage": "https://www.nhtsa.gov/themes/custom/nhtsa/images/NHTSA-media-share-logo.png",
+      "publishedAt": "2026-11-13T17:47:31Z",
+      "content": "BMW of North America has issued a park outside recall for 720,796 vehicles due to a risk of fire while parked and turned off. These vehicles were previously recalled in 2024 for a water pump issue an… [+1642 chars]"
     },
     {
       "source": {
@@ -401,32 +505,6 @@
     },
     {
       "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": null,
-      "title": "China warns against new U.S. export controls on chips in wake of Nvidia's Huang scandal - CBS News",
-      "description": "China is warning the U.S. against putting new export controls on semiconductors in the wake of the scandal surrounding​ AI chip giant Nvidia and its now-former CEO Jensen Huang.",
-      "url": "https://www.cbsnews.com/news/china-us-export-controls-chips-nvidia-huang-scandal/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/13/76eda6d1-8dde-429c-b0e8-eb8e4d6a20f5/thumbnail/1200x630/d04a86d250a4ea883194b7983b30a337/gettyimages-2301327883.jpg",
-      "publishedAt": "2026-11-13T15:19:00Z",
-      "content": "China warned the United States on Friday against imposing additional controls on exports of semiconductors in the wake of the scandal surrounding AI chip giant Nvidia and its now-former CEO Jensen Hu… [+2679 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "https://www.space.com/author/tariq-malik, https://www.space.com/author/josh-dinner, https://www.space.com/author/mike-wall",
-      "title": "SpaceX Starship Flight 15 live updates: SpaceX counts down to Starship launch and double-catch test flight - Space",
-      "description": "SpaceX could make history with the world's first full recovery of an orbital rocket and spacecraft on Starship Flight 15.",
-      "url": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-13-2026-starship-first-double-landing-attempt",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/2fNABsUbgKPo4vjvsuDM9C-2500-80.jpg",
-      "publishedAt": "2026-11-13T14:35:03Z",
-      "content": "2026-11-13T19:15:02.805ZGame on! SpaceX gets FAA approval for Starship Flight 15\r\n(Image credit: SpaceX)\r\nSpaceX is officially \"go\" to proceed with its Starship\r\n Flight 15 launch attempt today (Nov.… [+8270 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -466,6 +544,19 @@
     },
     {
       "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Alicia Wallace",
+      "title": "Wholesale inflation rose in October to highest annual rate in nearly four years - CNN",
+      "description": "High energy prices continue to ripple through US supply chains, raising the costs for businesses and setting the stage for further increases in the coming months for American consumers.",
+      "url": "https://www.cnn.com/2026/11/13/economy/us-wholesale-inflation-ppi-october",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2280155411.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-11-13T13:34:34Z",
+      "content": "High energy prices continue to ripple through US supply chains, raising the costs for businesses and setting the stage for further increases in the coming months for American consumers.\r\nWholesale in… [+3811 chars]"
+    },
+    {
+      "source": {
         "id": "bloomberg",
         "name": "Bloomberg"
       },
@@ -480,15 +571,15 @@
     {
       "source": {
         "id": null,
-        "name": "The-independent.com"
+        "name": "Financial Times"
       },
-      "author": "Ellie Muir",
-      "title": "From Jensen Huang to Elon Musk: The uniforms of tech bros and the meaning behind them - The Independent",
-      "description": "Jensen Huang, the Nvidia CEO who just resigned over his affair scandal, has turned heads with his trademark luxury leather jacket. Ellie Muir looks at the signature uniforms of billionaire tech overlords — from Mark Zuckerberg to Elon Musk – and what it says …",
-      "url": "https://www.the-independent.com/life-style/jensen-huang-nvidia-affair-leather-jacket-tech-style-b3084216.html",
-      "urlToImage": "https://static.the-independent.com/2026/11/12/21/58/MixCollage-12-Nov-2026-04-46-PM-4631.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-      "publishedAt": "2026-11-13T13:30:00Z",
-      "content": "Jensen Huang, the Nvidia CEO who has just resigned over his affair with a woman suspected of being a Chinese spy, has a signature aesthetic that makes him stick out from the Silicon Valley tech bro c… [+5609 chars]"
+      "author": null,
+      "title": "Will Jensen Huang sell his $135bn of stock? - Financial Times",
+      "description": "Any attempt by Nvidia co-founder to offload his shares  would unnerve investors but is fraught with legal and price risks",
+      "url": "https://www.ft.com/content/7a1ee00c-ddbd-4ae2-8323-e4dc603d7a41?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faf0fcb61-752b-4cc7-b638-832276a1f3bb.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "publishedAt": "2026-11-13T13:22:54Z",
+      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
     },
     {
       "source": {
@@ -506,67 +597,41 @@
     {
       "source": {
         "id": null,
-        "name": "The Drive"
+        "name": "Semafor.com"
       },
-      "author": "Joel Feder",
-      "title": "Scout’s Gas-Backed Traveler SUV Will Make 800 HP, Its CEO Told Us - The Drive",
-      "description": "Scout Motors President and CEO Scott Keogh told The Drive the Traveler with the Harvester range extender \"is a pretty phenomenal solution.\"",
-      "url": "https://www.thedrive.com/news/scouts-gas-backed-traveler-suv-will-make-800-hp-its-ceo-told-us",
-      "urlToImage": "https://www.thedrive.com/wp-content/uploads/2026/03/Scout-Dealers-Hero-1.jpg?w=1200",
-      "publishedAt": "2026-11-13T13:09:04Z",
-      "content": "The Drive your inbox. Every weekday\r\nOur newsletters take you inside the business and culture of cars with breaking industry news, spy photos, and exclusive reporting.\r\nScout answered the skeptics on… [+2112 chars]"
+      "author": "Rohan Goswami",
+      "title": "Exclusive / FTC to block $3.5B veterinary merger - Semafor",
+      "description": "Chairman Andrew Ferguson has stepped up his regulatory oversight.",
+      "url": "https://www.semafor.com/article/11/13/2026/ftc-to-block-35b-veterinary-merger",
+      "urlToImage": "https://img.semafor.com/3cea1dfe46637cc3c8753d171d67a2f8f98d02b5-6996x4664.jpg?rect=0,496,6996,3673&w=1200&h=630&q=75&auto=format",
+      "publishedAt": "2026-11-13T13:00:00Z",
+      "content": "Under Andrew Ferguson, the FTC, unlike the Justice Department, has managed to focus on its regulatory mission even if it has allowed many mergers to pass uncontested.\r\nIt has used its enforcement too… [+496 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Investor's Business Daily"
-      },
-      "author": null,
-      "title": "Dow Futures Rise After Resilient Session; AMD, Arista Are Buys - Investor's Business Daily",
-      "description": "The major indexes weathered Nvidia CEO's exit and surging Treasury yields.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-ceo-huang-exit-surging-yields-spacex-tesla-merger-deal/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2025/10/BestFundsQAJump_Huang_100325_company.jpg",
-      "publishedAt": "2026-11-13T13:06:00Z",
-      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
+        "name": "Yahoo Entertainment"
       },
       "author": "Ivan Mehta",
-      "title": "Jensen Huang didn’t show confidence in his successor, report says - TechCrunch",
+      "title": "Jensen Huang didn’t show confidence in his successor, report says - Yahoo Finance",
       "description": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
-      "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/11/colette-1920x1920_4d360fa4-e97d-4505-9857-284d03141162-prv-e1794568317250.jpg?resize=1200,676",
+      "url": "https://finance.yahoo.com/technology/articles/jensen-huang-didn-t-show-122823278.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/15ec8c69e7814cff1a730f003d14816502a9e7c3fa9b86337ab53d1e5a7ef2eb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftechcrunch_finance_785%2F02b5f7bf3f39e8c49013bc402fd97d16",
       "publishedAt": "2026-11-13T12:28:23Z",
-      "content": "Former Nvidia CEO Jensen Huang described Colette Kress, the company’s CFO who has now replaced him as interim CEO, as “a deer in the headlights” during a presentation earlier in the summer, the Wall … [+1393 chars]"
+      "content": "Former Nvidia CEO Jensen Huang described Colette Kress, the company's CFO who has now replaced him as interim CEO, as \"a deer in the headlights\" during a presentation earlier in the summer, the Wall … [+1394 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "CNBC"
+        "id": "bloomberg",
+        "name": "Bloomberg"
       },
-      "author": "Sean Conlon, Tobias Burns",
-      "title": "Dow rises 200 points as Nvidia stabilizes, inflation data is slightly lower than expected: Live updates - CNBC",
-      "description": "Nvidia shares rebounded from its recent pressure and the latest inflation data came in slightly lighter than expected.",
-      "url": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108550258-1794502895373-gettyimages-2304263485-US_STOCKS.jpeg?v=1794502956&w=1920&h=1080",
-      "publishedAt": "2026-11-13T12:06:05Z",
-      "content": "The Nasdaq Composite fell on Friday as Nvidia shares added to their recent losses, though the index still headed for a winning week alongside the other two major averages.\r\nThe tech-heavy Nasdaq drop… [+1959 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Detroit Free Press"
-      },
-      "author": "Susan Tompor",
-      "title": "IRS announces new 401(k) limits in 2027 for savers who hit the max - Detroit Free Press",
-      "description": "The IRS announced higher 401(k) contribution limits for 2027, allowing savers to set aside more for retirement.",
-      "url": "https://www.freep.com/story/money/personal-finance/susan-tompor/2026/11/13/new-401k-contribution-limits-set-for-2027-what-irs-says-you-can-do/92747742007/",
-      "urlToImage": "https://www.freep.com/gcdn/authoring/authoring-images/2026/08/31/USAT/91548725007-20260224-t-185446-z-1639784156-mt-1-usatoday-28327757-rtrmadp-3-theaveragefederalincometaxrefundhit-2476-upfrom.JPG?crop=1917,1080,x3,y146&width=1917&height=1080&format=pjpg&auto=webp",
-      "publishedAt": "2026-11-13T12:04:00Z",
-      "content": "<ul><li>The baseline amount that individuals can contribute to their 401(k) plans has been increased to $25,500 in 2027, up from $24,500 for 2026. The max goes up for older workers.</li><li>According… [+3174 chars]"
+      "author": "Bloomberg",
+      "title": "Texas’ Next AG Vows ‘Tremendous Scrutiny’ of Tesla-SpaceX Deal - Bloomberg",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2026-11-13/texas-next-ag-vows-tremendous-scrutiny-of-tesla-spacex-deal",
+      "urlToImage": null,
+      "publishedAt": "2026-11-13T12:15:00Z",
+      "content": null
     },
     {
       "source": {
@@ -580,19 +645,6 @@
       "urlToImage": "https://images.axios.com/NafkC6vUqrPrjipQfZpC-3tjCvU=/0x0:1920x1080/1366x768/2026/11/12/1794506966317.jpeg",
       "publishedAt": "2026-11-13T11:22:51Z",
       "content": "<ul><li>There's added urgency as autonomous AI takes on more and more important medical tasks with less direct oversight. </li><li>The question is who's responsible when something goes wrong.</li></u… [+3411 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Fox Business"
-      },
-      "author": "Sophia Compton",
-      "title": "Ford opens massive new archive putting over a century of automotive history on display - Fox Business",
-      "description": "The 79,000-square-foot archive brings together roughly 150 vehicles, from a 1910 Model T and World War II-era military vehicles to concept cars and racing machines.",
-      "url": "https://www.foxbusiness.com/lifestyle/ford-opens-massive-new-archive-putting-over-century-automotive-history-display",
-      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/11/0/0/ford-vault-aerial.jpg?ve=1&tl=1",
-      "publishedAt": "2026-11-13T11:00:00Z",
-      "content": "Ford Motor Co. is opening the doors to a massive new archive outside Detroit, bringing roughly 150 historic vehicles, concept cars and racing machines under one roof.\r\nThe 79,000-square-foot Ford Vau… [+2884 chars]"
     },
     {
       "source": {
@@ -619,19 +671,6 @@
       "urlToImage": "https://media.wired.com/photos/6af663e1fcffa2a0af03f00a/191:100/w_1280,c_limit/Cybertruck-Mourning-Culture.jpg",
       "publishedAt": "2026-11-13T10:30:00Z",
       "content": "Last week, Elon Musk announced on X that Tesla would halt production of the Cybertruck at Gigafactory Texas around the middle of next year, supposedly to allow for increased production of self-drivin… [+3575 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Medora Lee",
-      "title": "401(k) loans just jumped 80%. Why workers are tapping savings early - USA Today",
-      "description": "The share of workers taking hardship withdrawals hit 3.4% in 2025 while active loans surged 80%, signaling growing household financial strain.",
-      "url": "https://www.usatoday.com/story/money/personal-finance/retirement/2026/11/13/workers-raiding-401ks/92706954007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/10/USAT/92707199007-20090701-t-120000-z-450151591-gm-1-e-5710-nr-201-rtrmadp-3-financialusacheapskates.JPG?crop=3499,1968,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
-      "publishedAt": "2026-11-13T10:05:00Z",
-      "content": "Saving is hard, and more Americans are tapping into retirement funds early to keep afloat, data show.\r\nHardship withdrawals from 401(k) savings more than doubled in three years and loan usage jumped … [+5522 chars]"
     },
     {
       "source": {
@@ -727,15 +766,15 @@
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "Financial Times"
       },
-      "author": "Rishabh Mishra",
-      "title": "Dan Ives Says 'Irreplaceable' Nvidia CEO Jensen Huang Is the 'Central Nervous System' of US Tech, Says Company Has No Succession Plan Amid China Spy Allegations - Yahoo Finance",
-      "description": "Dan Ives, a partner at Yorkville Ives, stated that Nvidia Corp. CEO Jensen Huang operates as the core driver of the U.S. technology ecosystem and cannot be r...",
-      "url": "https://finance.yahoo.com/technology/articles/dan-ives-says-irreplaceable-nvidia-013016364.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/7d33ba8095d84a3cbd198220ac5e70a852fac567c53c2158432f2bfde618d469/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F312697d6608fe2ac990be5e4141fddfe.jpg",
-      "publishedAt": "2026-11-13T02:41:10Z",
-      "content": "Benzinga and Yahoo Finance LLC may earn commission or revenue on some items through the links below.\r\nDan Ives, a partner at Yorkville Ives, stated that Nvidia Corp. CEO Jensen Huang operates as the … [+6069 chars]"
+      "author": null,
+      "title": "Chinese AI sell-off deepens over fears of tougher Nvidia chip restrictions - Financial Times",
+      "description": "Ousted chief executive Jensen Huang had supported keeping sales open to China",
+      "url": "https://www.ft.com/content/0d4e93e4-895e-4ae0-a01b-833a3ed440a8?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fac97dfb8-78af-4346-9a08-37ffdf3f8426.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "publishedAt": "2026-11-13T07:39:08Z",
+      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
     },
     {
       "source": {
@@ -752,6 +791,32 @@
     },
     {
       "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Rachel Lerman",
+      "title": "Home sales in worst slump since the aftermath of the Great Recession - The Washington Post",
+      "description": "Home sales are slumping, and mortgage rates have pushed up the typical monthly payment for homebuyers in the U.S.",
+      "url": "https://www.washingtonpost.com/business/2026/11/12/housing-market-worst-slump-since-aftermath-great-recession/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VNND43OUHZJFXMR6NXOVOYVUYE_size-normalized.jpg&w=1440",
+      "publishedAt": "2026-11-13T01:47:38Z",
+      "content": "The housing market slumped further in October as U.S. home sales fell again, hitting the lowest level in more than 16 years.\r\nMortgage rates have soared past 7 percent while home prices stay stubborn… [+241 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Tom McKay",
+      "title": "The FAA Is Rolling Out Its AI Air Traffic Tool Nationwide - Gizmodo",
+      "description": "The FAA is expanding use of an $875 million AI tool, SMART, to \"assist in managing air traffic across the entire national airspace system,\" but the agency says that the route-management software will not affect air safety.",
+      "url": "https://gizmodo.com/the-faa-is-rolling-out-its-ai-air-traffic-tool-nationwide-2000839347",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/05/GettyImages-2266649738-1200x675.jpg",
+      "publishedAt": "2026-11-13T01:12:02Z",
+      "content": "The Federal Aviation Administration (FAA) is expanding use of an $875 million AI tool, SMART, to “assist in managing air traffic across the entire national airspace system,” Ars Technica reported on … [+4886 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -762,58 +827,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-nvidia-live-hill-testimony-sub-glmz/12biz-nvidia-live-hill-testimony-sub-glmz-mediumSquareAt3X-v2.jpg",
       "publishedAt": "2026-11-13T01:10:20Z",
       "content": "Senator Tim Scott said he had requested that the Nvidia co-founder and the commerce secretary appear before the Senate Banking Committee."
-    },
-    {
-      "source": {
-        "id": "msnbc",
-        "name": "MS Now"
-      },
-      "author": "Sydney Carruth",
-      "title": "Kalshi ends Trump Jr.’s advisory role after Polymarket clash - MS NOW",
-      "description": "Kalshi CEO Tarek Mansour told MS NOW in October that Trump Jr. presented an “optics issue” but noted Kalshi has never used the president’s eldest son to gain favor with the administration.",
-      "url": "https://www.ms.now/news/kalshi-ends-trump-jr-s-advisory-role-after-polymarket-clash",
-      "urlToImage": "https://www.ms.now/wp-content/uploads/2026/11/261112-donald-trump-jr-washington-dc-es.webp?crop=0px,114px,1600px,840px&w=1200&h=630",
-      "publishedAt": "2026-11-13T01:08:10Z",
-      "content": "Prediction market giant Kalshi has ended its advisory contract with President Donald Trumps eldest son after his venture capital firm, 1789 Capital, made a significant investment in the prediction ma… [+3874 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Texas Tribune"
-      },
-      "author": "Berenice Garcia",
-      "title": "SpaceX offers details of proposed Boca Chica State Park purchase - The Texas Tribune",
-      "description": "Elon Musk’s company and the city of Starbase have been tight-lipped about plans for the land, which sparked resistance from advocates when word got out about a possible sale.",
-      "url": "https://www.texastribune.org/2026/11/12/spacex-boca-chica-park-details/",
-      "urlToImage": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/11/Boca-Chica-SpaceX-BL-11.jpg?quality=100&w=1200&h=630&ssl=1",
-      "publishedAt": "2026-11-13T00:26:33Z",
-      "content": "Correction, Nov. 13, 2026, 10:15 a.m. Central:Due to an editing error, a previous version of this headline incorrectly stated the entity providing new information on a potential deal for state park l… [+7252 chars]"
-    },
-    {
-      "source": {
-        "id": "the-hill",
-        "name": "The Hill"
-      },
-      "author": "Ford McCracken",
-      "title": "SpaceX to invest $74B into data center construction projects in Texas, Arizona - The Hill",
-      "description": "Elon Musk’s SpaceX plans to invest more than $74 billion into building two data centers in Texas and Arizona, the company announced Thursday, marketing them as projects that will boost local communities amid backlash surrounding such facilities. “These invest…",
-      "url": "https://thehill.com/policy/technology/6217630-spacex-plans-data-centers-texas-arizona/",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP25043847819357-e1794525472973.jpg?w=1280",
-      "publishedAt": "2026-11-12T23:24:00Z",
-      "content": "Skip to content\r\nElon Musk’s SpaceX plans to invest more than $74 billion into building two data centers in Texas and Arizona, the company announced Thursday, marketing them as projects that will boo… [+2949 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "DW (English)"
-      },
-      "author": "Karl Sexton",
-      "title": "Mercedes-Benz halts all further investment at German facilities - DW.com",
-      "description": "The announcement comes as the luxury German automaker faces increasing pressure from the works council and trade unions.",
-      "url": "https://www.dw.com/en/mercedes-benz-germany-investment/a-79934509",
-      "urlToImage": "https://static.dw.com/image/79669256_6.jpg",
-      "publishedAt": "2026-11-12T23:20:49Z",
-      "content": "Mercedes-Benz announced on Thursday that it was halting all further investment at its German sites for the time being.\r\n\"The executive board has jointly decided to halt all further investments in Ger… [+2384 chars]"
     },
     {
       "source": {
@@ -831,15 +844,15 @@
     {
       "source": {
         "id": null,
-        "name": "Barron's"
+        "name": "InsideClimate News"
       },
-      "author": "Adam Levine",
-      "title": "Cerebras Stock: Earnings Beat and New Microsoft Partnership - Barron's",
-      "description": "The AI chip maker bested expectations and its share price climbed in after-hours trading despite the sector tumult prompted by Nvidia.",
-      "url": "https://www.barrons.com/articles/cerebras-earnings-stock-price-3bad09cc",
-      "urlToImage": "https://images.barrons.com/im-37834833/social",
-      "publishedAt": "2026-11-12T23:02:00Z",
-      "content": "Artificial-intelligence chip makerCerebrasSystems reported very strong third-quarter earnings results Thursday and struck a new deal withMicrosoft, showing it can continue to land customers beyond Op… [+104 chars]"
+      "author": "Inside Climate News",
+      "title": "Dow gets approval for four advanced nuclear reactors in Texas - The Texas Tribune",
+      "description": "The project, a partnership between chemical giant Dow and nuclear startup X-energy, is intended to kickstart a new nuclear era.",
+      "url": "https://insideclimatenews.org/news/12112026/texas-dow-nuclear-plant-greenlit/",
+      "urlToImage": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/11/ICN-Nuke-Lede-DB.jpg?quality=100&w=1200&h=630&ssl=1",
+      "publishedAt": "2026-11-12T22:56:55Z",
+      "content": "This story is published in partnership with Inside Climate News, a nonprofit, independent news organization that covers climate, energy and the environment. Sign up for the ICN newsletter here.\r\nThe … [+7016 chars]"
     },
     {
       "source": {
@@ -872,13 +885,13 @@
         "id": "bloomberg",
         "name": "Bloomberg"
       },
-      "author": "Dina Bass, Todd Gillespie, Preeti Singh, Paula Seligson",
-      "title": "Nvidia Faced Pressure to Boost Its AI Backstop Before Huang Exit - Bloomberg.com",
-      "description": "Before Nvidia Corp. was thrown into turmoil by the ouster of longtime chief executive Jensen Huang, a major initiative he championed alongside the giants of Wall Street was proving far more complicated than he had envisioned.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-12/nvidia-faced-pressure-to-boost-its-ai-backstop-before-huang-exit",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ih5ShdjyhOKg/v0/1200x800.jpg",
-      "publishedAt": "2026-11-12T21:47:59Z",
-      "content": "Before Nvidia Corp. was thrown into turmoil by the ouster of longtime chief executive Jensen Huang, a major initiative he championed alongside the giants of Wall Street was proving far more complicat… [+376 chars]"
+      "author": "Maggie Eastland, Alicia Diaz, Emily Birnbaum",
+      "title": "OpenAI Joins Groundswell of Support for AI Chip Control Measures - Bloomberg.com",
+      "description": "OpenAI is backing a bipartisan effort in Congress to block China’s access to artificial intelligence chips and curb China’s access to chipmaking equipment, adding support to legislation gaining momentum after the scandal that toppled Jensen Huang as Nvidia Co…",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-12/openai-joins-groundswell-of-support-for-ai-chip-control-measures",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLxQH_bDk_Qo/v2/1200x800.jpg",
+      "publishedAt": "2026-11-12T21:35:58Z",
+      "content": "OpenAI is backing a bipartisan effort in Congress to block Chinas access to artificial intelligence chips and curb Chinas access to chipmaking equipment, adding support to legislation gaining momentu… [+374 chars]"
     },
     {
       "source": {
@@ -895,16 +908,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Investor's Business Daily"
+        "id": "usa-today",
+        "name": "USA Today"
       },
-      "author": null,
-      "title": "Cisco Stock: Cisco Earnings, Revenue Top Estimates On AI Data Center Growth - Investor's Business Daily",
-      "description": "Investment banks lowered price targets on Cisco stock amid concerns over peaking growth, product order deceleration and margin pressures.",
-      "url": "https://www.investors.com/news/technology/cisco-stock-q326-earnings-csco/",
-      "urlToImage": "https://www.investors.com/wp-content/uploads/2019/02/stock-cisco-08-shutter.jpg",
-      "publishedAt": "2026-11-12T21:28:00Z",
-      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
+      "author": "Medora Lee",
+      "title": "IRS boosts 401(k) limit to $25,500 for 2027. Here's what changes - USA Today",
+      "description": "The IRS is raising 401(k) contribution limits for 2027, but IRA caps will remain the same for savers.",
+      "url": "https://www.usatoday.com/story/money/personal-finance/retirement/2026/11/12/2027-401k-contribution-limits/92745034007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/12/USAT/92746764007-20251217-t-200056-z-1402217501-mt-1-usatoday-27838376-rtrmadp-3-aphotoillustrationshowstaxformsastheperiodtofile.JPG?crop=3118,1755,x0,y494&width=3118&height=1755&format=pjpg&auto=webp",
+      "publishedAt": "2026-11-12T21:34:00Z",
+      "content": "Americans will be able to save more in their tax-deferred employer-sponsored 401(k) plans next year, but not in their individual retirement accounts, according to the IRS' new annual 401(k) savings l… [+3610 chars]"
     },
     {
       "source": {
@@ -999,6 +1012,19 @@
     },
     {
       "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Stephen  Swanson, Jason  Rantala, John  Lauritsen",
+      "title": "Dave Cossetta, torchbearer for St. Paul's iconic 115-year-old Italian market, dies in Rome - CBS News",
+      "description": "Dave Cossetta, the man who helped guide his family's turn-of-the-century Italian market in Minnesota's capital city through a major 21st century renovation, died in Rome Wednesday at age 70, according to Cossetta's social media.",
+      "url": "https://www.cbsnews.com/minnesota/news/dave-cossetta-obit-st-paul-cossetta-restaurant-owner-minnesota/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/12/b3e4f486-1922-45ff-b168-15c6a9843fbb/thumbnail/1200x630/315dfa9a8622d78c89d0b755acfa165f/cosetta-2.jpg",
+      "publishedAt": "2026-11-12T18:14:00Z",
+      "content": "Dave Cossetta, the man who helped guide his family's turn-of-the-century Italian market in Minnesota's capital city through a major 21st century renovation, died in Rome Wednesday at age 70, accordin… [+3330 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1022,45 +1048,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/12/multimedia/2biz-nvidia-live-timeline-01-mtwf/2biz-nvidia-live-timeline-01-mtwf-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-12T18:04:05Z",
       "content": "News of the Nvidia co-founder’s relationship with a suspected Chinese spy, and his affair with an executive who reports to him, prompted his exit from the multi-trillion-dollar company."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Financial Times"
-      },
-      "author": null,
-      "title": "US home sales fall to lowest level since 2010 as mortgage rates soar - Financial Times",
-      "description": "Higher borrowing costs deepen housing market slump as interest rates weigh on transactions",
-      "url": "https://www.ft.com/content/1e08661e-1db0-4ff7-8236-77254bb05790?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbf2af41a-0e53-40d5-a413-cbf510a03eb6.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "publishedAt": "2026-11-12T18:03:44Z",
-      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Minnesota Public Radio News"
-      },
-      "author": "MPR News Staff",
-      "title": "Owner of St. Paul's Cossetta restaurant dies unexpectedly in Rome - MPR News",
-      "description": "Dave Cossetta died in Rome just days after winning an international award, the restaurant said in a statement Thursday.",
-      "url": "https://www.mprnews.org/story/2026/11/12/dave-cossetta-owner-of-st-pauls-cossetta-restaurant-dies-unexpectedly-in-rome",
-      "urlToImage": "https://img.apmcdn.org/3ee9b73e059b342691373d1cf8292c6bbd09bf85/widescreen/7c0487-20130521-052113cossetta13.jpg",
-      "publishedAt": "2026-11-12T17:53:00Z",
-      "content": "Dave Cossetta, the fourth-generation owner of St. Pauls landmark Cossetta restaurant, died unexpectedly in Rome after winning two international awards at the Coppa del Mondo del Panettone days earlie… [+1414 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "By Lucia Mutikani",
-      "title": "US labor market resilient; existing home sales hit more than 16-year low in October - Yahoo Finance",
-      "description": "By Lucia Mutikani WASHINGTON, Nov 12 (Reuters) - The number of Americans filing new claims for unemployment benefits increased more than expected last week,...",
-      "url": "https://finance.yahoo.com/economy/articles/us-weekly-jobless-claims-increase-133848522.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/ba6dcaa15aa9049ab19b295f027535f27edcf716533a5a890de90e53498b3e28/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F163091fcb1d1c8eb480cd960f5953fbf.jpg",
-      "publishedAt": "2026-11-12T17:48:44Z",
-      "content": "By Lucia Mutikani\r\nWASHINGTON, Nov 12 (Reuters) - The number of Americans filing new claims for unemployment benefits increased more than expected last week, but remained at a level consistent with a… [+6168 chars]"
     },
     {
       "source": {
@@ -1129,19 +1116,6 @@
     },
     {
       "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "Ed Ballard",
-      "title": "The Audacious Plan to Electrify the Global Economy—Again ? Climate & Energy for Nov. 12 - WSJ",
-      "description": "Plus: The cost of hardening the grid in California’s wildfire country, the Iran war’s impact on carbon emissions and a surprising reversal in the polar vortex",
-      "url": "https://www.wsj.com/business/energy-oil/the-audacious-plan-to-electrify-the-global-economyagain-156d2b2e",
-      "urlToImage": "https://images.wsj.net/im-99219919/social",
-      "publishedAt": "2026-11-12T14:25:00Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1152,19 +1126,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/09/multimedia/dc-predict-stocks-hwvb/dc-predict-stocks-hwvb-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-12T14:23:52Z",
       "content": "After a federal regulator allowed wagering on stocks and cryptocurrencies, two powerful trading clearinghouses filed lawsuits saying traders would not be properly protected."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "FierceBiotech"
-      },
-      "author": "Nick Paul Taylor",
-      "title": "BMS reunites R&D divisions under Cristian Massacesi, while Robert Plenge departs - Fierce Biotech",
-      "description": "Bristol Myers Squibb is merging i | Bristol Myers Squibb is merging its research and development divisions under the leadership of Cristian Massacesi, M.D.",
-      "url": "https://www.fiercebiotech.com/biotech/bristol-myers-reunites-rd-divisions-under-cristian-massacesi",
-      "urlToImage": "https://qtxasset.com/quartz/qcloud5/media/image/BMS%20ESMO.jpg?VersionId=nXFKGuSH7HAysnN.GBHDy.JqcHUiFoMq",
-      "publishedAt": "2026-11-12T13:16:30Z",
-      "content": null
     },
     {
       "source": {
@@ -1182,19 +1143,6 @@
     {
       "source": {
         "id": null,
-        "name": "Marijuana Moment"
-      },
-      "author": "Tom Angell",
-      "title": "First Phase Of Renewed Federal Hemp Product Ban Takes Effect As Industry Pushes Congress For Regulatory Alternative - Marijuana Moment",
-      "description": "As of Thursday, it is no longer federally legal to produce or sell hemp products that contain cannabinoids that can’t be naturally produced by the cannabis plant. A broader recriminalization of hemp THC products is currently scheduled to take effect next mont…",
-      "url": "https://www.marijuanamoment.net/first-phase-of-renewed-federal-hemp-product-ban-takes-effect-as-industry-pushes-congress-for-regulatory-alternative/",
-      "urlToImage": "https://www.marijuanamoment.net/wp-content/uploads/2025/07/hemp-plant-3661210_1920.webp",
-      "publishedAt": "2026-11-12T12:59:25Z",
-      "content": "As of Thursday, it is no longer federally legal to produce or sell hemp products that contain cannabinoids that can’t be naturally produced by the cannabis plant.\r\nA broader recriminalization of hemp… [+5457 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "cleveland.com"
       },
       "author": "Cleveland.com",
@@ -1204,32 +1152,6 @@
       "urlToImage": null,
       "publishedAt": "2026-11-12T10:00:00Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": null,
-      "title": "A Romanov sapphire bracelet sells for $4.9 million at a Geneva auction - AP News",
-      "description": "Sotheby’s says a Romanov sapphire weighing nearly 198 carats on a diamond-covered bracelet has sold for more than 4.1 million Swiss francs or $4.9 million at auction. The cushion-shaped sapphire was once owned by Russia's imperial family. It had been expected…",
-      "url": "https://apnews.com/article/russian-romanov-sapphire-auction-geneva-47282e9ae080b9bff538f9179996ebd7",
-      "urlToImage": "https://dims.apnews.com/dims4/default/65dbb2f/2147483647/strip/true/crop/6683x4456+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fcb%2F61%2F317f82c86e5f864ac1b538a22a43%2F57185acd15e549e89eca8d72ac9d75ba",
-      "publishedAt": "2026-11-12T08:14:00Z",
-      "content": "GENEVA (AP) A Romanov sapphire weighing nearly 198 carats on a diamond-covered bracelet sold for more than 4.1 million Swiss francs ($4.9 million) at auction, vastly higher than the expected price ra… [+988 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Allrecipes.com"
-      },
-      "author": "https://www.facebook.com/allrecipes",
-      "title": "Reese’s Is Bringing Back the Treat That Sold Out in Less Than 2 Hours - Allrecipes",
-      "description": "Reese’s 52-ounce Milk Chocolate Peanut Butter Pie is returning to shelves after its 2021 online release sold out within hours. Here’s what you need to know about the viral treat.",
-      "url": "https://www.allrecipes.com/reeses-peanut-butter-cup-pie-returns-12248166",
-      "urlToImage": "https://www.allrecipes.com/thmb/1FsNiMO_Pj2jidIStVaMHizDYpk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ar-reeses-most-tempting-treat-ar-reeses-2x1-e211eccfb49b42d6a61236043e3c2f74.jpg",
-      "publishedAt": "2026-11-12T08:00:00Z",
-      "content": "As a staunch lover of peanut butter and chocolate, the first thing I reach for when I want a small treat is a Reeses Cup (or, if its the right season, a holiday shape like Reeses Pumpkins). The combo… [+2498 chars]"
     },
     {
       "source": {
@@ -1256,32 +1178,6 @@
       "urlToImage": null,
       "publishedAt": "2026-11-12T02:40:16Z",
       "content": "News of the board’s deliberations about Jensen Huang’s job drove Nvidia’s stock down more than 8 percent in after-hours trading."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Ryan Mac, Tripp Mickle and Georgia Gee",
-      "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
-      "description": "Mr. Huang, Nvidia’s chief executive, is already facing scrutiny over an affair with a Chinese businesswoman who U.S. intelligence determined was a Chinese spy.",
-      "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/11/multimedia/00Biz-Huang-Relationship-wlgb/00Biz-Huang-Relationship-wlgb-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-12T01:57:34Z",
-      "content": "Mr. Huang, Nvidia’s chief executive, is already facing scrutiny over an affair with a Chinese businesswoman who U.S. intelligence determined was a Chinese spy."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Ishani Desai",
-      "title": "United Airlines Blocks A.I. Agents From Booking Flights",
-      "description": "The carrier said that to protect customers’ information and comply with regulations, it was barring the digital assistants from logging into accounts and managing reservations.",
-      "url": "https://www.nytimes.com/2026/11/11/business/united-airlines-ai-agents-booking-flights.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/11/multimedia/11xp-ai-united-mpzg/11xp-ai-united-mpzg-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-11T23:15:31Z",
-      "content": "The carrier said that to protect customers’ information and comply with regulations, it was barring the digital assistants from logging into accounts and managing reservations."
     }
   ]
 }

@@ -6,7 +6,7 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-14T21:41:55.364421+00:00",
+  "fetched_at": "2026-11-15T01:21:06.526446+00:00",
   "articles_count": 33,
   "articles": [
     {
@@ -15,12 +15,25 @@
         "name": "The New York Times"
       },
       "author": "The New York Times",
-      "title": "Starship Live Updates: SpaceX Makes History With Successful Rocket Landing in Texas",
+      "title": "Highlights From the Starship Landing",
       "description": "The Starship spacecraft safely landed back at the Starbase launch facility, a major step in SpaceX’s quest to build fully reusable rockets.",
       "url": "https://www.nytimes.com/live/2026/11/14/science/spacex-starship-launch",
       "urlToImage": "https://static01.nyt.com/images/2026/11/14/multimedia/14starship-launch-header-cfqw/14starship-launch-header-cfqw-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-14T21:33:02Z",
+      "publishedAt": "2026-11-15T01:17:38Z",
       "content": "The Starship spacecraft safely landed back at the Starbase launch facility, a major step in SpaceX’s quest to build fully reusable rockets."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Kenneth Chang",
+      "title": "SpaceX Makes History With Successful Rocket Catch in Texas",
+      "description": "The Starship spacecraft returned from orbit to the same spot where it lifted off, marking a key milestone in SpaceX’s vision of building fully reusable rockets.",
+      "url": "https://www.nytimes.com/2026/11/14/science/spacex-starship-first-catch.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/14/multimedia/14starship-header-01-vgzq/14starship-header-01-vgzq-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-15T00:36:32Z",
+      "content": "The Starship spacecraft returned from orbit to the same spot where it lifted off, marking a key milestone in SpaceX’s vision of building fully reusable rockets."
     },
     {
       "source": {
@@ -32,7 +45,7 @@
       "description": null,
       "url": "https://www.nytimes.com/live/2026/11/14/science/spacex-starship-launch/heres-the-latest",
       "urlToImage": null,
-      "publishedAt": "2026-11-14T21:23:55Z",
+      "publishedAt": "2026-11-14T22:08:47Z",
       "content": null
     },
     {
@@ -424,19 +437,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/03/multimedia/03SCI-DINOSAUR-BLOOD-01-vmtq/03SCI-DINOSAUR-BLOOD-01-vmtq-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-08T10:01:05Z",
       "content": "Mineralized “structures” discovered in the bone were the fossilized remains of red blood cells, according to a recent study. Other experts aren’t so sure."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Kenneth Chang",
-      "title": "NASA Is Selecting Future Astronauts. Here’s How to Apply.",
-      "description": "The space agency is recruiting its next class of space travelers for missions to low-Earth orbit and the moon. Applications are due Dec. 3.",
-      "url": "https://www.nytimes.com/2026/11/07/science/nasa-recruiting-astronauts.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/07/multimedia/07sci-nasa-astronauts-topart-lzfc/07sci-nasa-astronauts-topart-lzfc-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-08T02:17:03Z",
-      "content": "The space agency is recruiting its next class of space travelers for missions to low-Earth orbit and the moon. Applications are due Dec. 3."
     }
   ],
   "query": "science research discovery space"
