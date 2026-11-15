@@ -6,9 +6,48 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-15T01:21:06.526446+00:00",
-  "articles_count": 77,
+  "fetched_at": "2026-11-15T08:29:18.756067+00:00",
+  "articles_count": 75,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Carolyn Y. Johnson",
+      "title": "Brain Implants Give A.L.S. Patients the Voice to Speak and Sing",
+      "description": "In one demonstration, a former singer sang a musical scale. Afterward she cried tears of joy.",
+      "url": "https://www.nytimes.com/2026/11/14/science/brain-implants-als-voice.html",
+      "urlToImage": "https://static01.nyt.com/images/2024/08/14/multimedia/14SCI-BCI-SING-02/14als-promo-fwcb-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-14T17:00:09Z",
+      "content": "In one demonstration, a former singer sang a musical scale. Afterward she cried tears of joy."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KSL.com"
+      },
+      "author": "Emily Ashcraft, KSL",
+      "title": "Two-thirds of Utah homes have radon levels suggesting they should consider action, report shows - KSL News",
+      "description": "UtahRadon.org released a report this week with data from radon tests around Utah in the last year. The report was discussed by lung cancer patients, doctors and radon experts on a panel.",
+      "url": "https://www.ksl.com/article/51645708/two-thirds-of-utah-homes-have-radon-levels-suggesting-they-should-consider-action-report-shows",
+      "urlToImage": "https://img.ksl.com/slc/3200/320062/32006201.jpeg?filter=kslv2/responsive_story_lg",
+      "publishedAt": "2026-11-14T03:56:00Z",
+      "content": "SALT LAKE CITY Kerri Robbins first heard about radon two and a half months after she was diagnosed with lung cancer. She started coughing up water, which led her to seek treatment and get diagnosed.\r… [+5776 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "Measles-associated deaths reach 10 in US after two more deaths reported - Al Jazeera",
+      "description": "More than 5,400 confirmed measles cases have been recorded in the US to date this year.",
+      "url": "https://www.aljazeera.com/news/2026/11/14/measles-associated-deaths-reach-10-in-us-after-two-more-deaths-reported",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af79d0e-1794612494.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-11-14T03:02:43Z",
+      "content": "Pennsylvania and Wisconsin have announced one additional measles-associated death in each state, marking 10 total deaths in the United States linked to the disease this year.\r\nThe Wisconsin Departmen… [+2999 chars]"
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -24,16 +63,29 @@
     },
     {
       "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
+        "id": "cnn",
+        "name": "CNN"
       },
-      "author": "Aria Bendix",
-      "title": "U.S. measles deaths rise to 10 after new reports in Pennsylvania and Wisconsin - NBC News",
-      "description": "Total measles deaths in the United States this year rose to 10 on Friday, a grim milestone in an outbreak that has seen a record number of infections and prompted state and local health departments to ramp up vaccination efforts.",
-      "url": "https://www.nbcnews.com/health/health-news/us-measles-deaths-rise-10-new-reports-pennsylvania-wisconsin-rcna609245",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261015-vaccine-rs-4c96db.jpg",
-      "publishedAt": "2026-11-13T22:33:13Z",
-      "content": "Total measles deaths in the United States this year rose to 10 on Friday, a grim milestone in an outbreak that has seen a record number of infections and prompted state and local health departments t… [+2517 chars]"
+      "author": "Brenda Goodman",
+      "title": "After 26 years, the US has lost its measles elimination status - CNN",
+      "description": "Thanks to widespread vaccination, measles had been considered “eliminated” as a continually transmitting illness in the United States since 2000. But not anymore.",
+      "url": "https://www.cnn.com/2026/11/13/health/us-measles-elimination-status",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2026-02-13t111716z-252000037-rc2lgjagqclg-rtrmadp-3-health-usa-measles-spartanburg-20261110112828365.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-11-14T01:22:00Z",
+      "content": "Thanks to widespread vaccination, measles had been considered eliminated as a continually transmitting illness in the United States since 2000 but not anymore.\r\nAn independent commission of experts t… [+7442 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WABC-TV"
+      },
+      "author": null,
+      "title": "NJ warns of potential measles exposures at Morris County Walgreens, LegionsCon - ABC7 New York",
+      "description": "The health department said potential exposures may have occurred at several locations in Morris County including a Walgreens and two hotels.",
+      "url": "https://abc7ny.com/post/nj-warns-potential-measles-exposures-morris-county-walgreens-legionscon/20038153/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/20009796_110226-measles-ap-img.jpg?w=1600",
+      "publishedAt": "2026-11-14T00:33:00Z",
+      "content": "NEW JERSEY (WABC) -- The New Jersey Department of Health is alerting residents about potential measles exposures linked to a newly identified case in a non-New Jersey resident who visited multiple lo… [+3792 chars]"
     },
     {
       "source": {
@@ -51,19 +103,6 @@
     {
       "source": {
         "id": null,
-        "name": "Abcnews.com"
-      },
-      "author": "ABC News - Breaking News, Latest News and Videos",
-      "title": "Measles cases nationwide top 5,400 as deaths rise to 10 - ABC News - Breaking News, Latest News and Videos",
-      "description": null,
-      "url": "https://abcnews.com/Health/measles-cases-nationwide-top-5400-outbreaks-spread-us/story?id\\\\u003d138108176",
-      "urlToImage": null,
-      "publishedAt": "2026-11-13T21:59:44Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
         "name": "The Seattle Times"
       },
       "author": "Hannah Furfaro",
@@ -73,6 +112,32 @@
       "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2026/11/11132026_tzr_tzr_094820.jpg?d=1200x630",
       "publishedAt": "2026-11-13T21:51:00Z",
       "content": "Renowned psychologist and marquee University of Washington professor Marsha Linehan, who earned global acclaim for developing a groundbreaking treatment for borderline personality disorder, died in S… [+5054 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Severe allergic reaction after sipping energy drink traced to unexpected source - Fox News",
+      "description": "A teen's severe allergic reaction to an energy drink was traced to cod collagen, revealing how fish-derived ingredients can hide in unexpected products.",
+      "url": "https://www.foxnews.com/health/severe-allergic-reaction-sipping-energy-drink-traced-unexpected-source",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/teen-boy-energy-drink.jpg",
+      "publishedAt": "2026-11-13T21:38:56Z",
+      "content": "Anaphylaxis a severe, potentially life-threatening allergic reaction is usually tied to peanuts or shellfish, but a recent case has brought up a new concern.\r\nAccording to a report by the American Co… [+4553 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "13WHAM-TV"
+      },
+      "author": "WHAM",
+      "title": "New York's first case of of chronic wasting disease in 21 years detected in Livingston Co. - 13WHAM-TV",
+      "description": "The New York State Department of Environmental Conservation announced Friday that it is opening a deer check station after chronic wasting disease was detected in a wild deer in Livingston County.",
+      "url": "https://13wham.com/news/local/new-york-state-first-case-of-of-chronic-wasting-disease-in-21-years-detected-in-livingston-county-cwd-dec-wild-deer-check-station",
+      "urlToImage": "https://13wham.com/resources/media2/16x9/1024/1320/center/90/fbddefcb-5437-45f0-880d-5ccf1aa9e0cd-LivingstonCountyimage.png",
+      "publishedAt": "2026-11-13T20:13:08Z",
+      "content": "The New York State Department of Environmental Conservation announced Friday that it is opening a deer check station after chronic wasting disease was detected in a wild deer in Livingston County.\r\nT… [+635 chars]"
     },
     {
       "source": {
@@ -86,6 +151,32 @@
       "urlToImage": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2026/11/1024/512/gettyimages-2089852374-scaled.jpg?ve=1&tl=1",
       "publishedAt": "2026-11-13T20:11:00Z",
       "content": "NEVADA COUNTY, Calif.– A highly pathogenic virus that infects fish was found in a large private lake in Nevada County, California, after more than 200 fish died there in September. \r\nThe virus, calle… [+3906 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Channel3000.com - WISC-TV3"
+      },
+      "author": "Kyle Jones",
+      "title": "Second child dies from measles in Grant County - Channel 3000",
+      "description": "LANCASTER, Wis. -- A second child has died from measles in Grant County, the Wisconsin Department of Health Services and Grant County Health Department confirmed Friday.",
+      "url": "https://www.channel3000.com/news/second-child-dies-from-measles-in-grant-county/article_49ebeced-8784-49f2-8ae4-b33c1731c540.html",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/channel3000.com/content/tncms/assets/v3/editorial/2/c6/2c66e73a-209f-5010-adff-84e50aba15d8/6ae0b5c471eb8.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2026-11-13T20:03:00Z",
+      "content": "LANCASTER, Wis. -- A second child has died from measles in Grant County, the Wisconsin Department of Health Services and Grant County Health Department confirmed Friday.\r\nHealth officials did not rel… [+1129 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Foxweather.com"
+      },
+      "author": null,
+      "title": "E. coli outbreak linked to California pumpkin farm leaves 1 dead, officials say no ongoing threat - FOX Weather",
+      "description": "An E. coli outbreak linked to a California pumpkin farm has left one person dead. Health officials identified five confirmed infections and 10 suspected cases but say there is no ongoing public health threat.",
+      "url": "https://www.foxweather.com/earth-space/california-e-coli-outbreak-kills-one-officials-say-no-ongoing-health-threat-identified",
+      "urlToImage": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2026/11/1024/512/gettyimages-2298437710.jpg?ve=1&tl=1",
+      "publishedAt": "2026-11-13T19:31:00Z",
+      "content": "THE TAKEAWAY\r\n<ul><li>One person associated with the outbreak has died.</li><li>Five infections were confirmed, and another 10 visitors who developed symptoms were classified as suspected cases.</li>… [+3299 chars]"
     },
     {
       "source": {
@@ -105,19 +196,6 @@
         "id": "the-washington-post",
         "name": "The Washington Post"
       },
-      "author": "Kathleen Felton",
-      "title": "Breast cancer treatment can weaken bones. Here’s how to protect them. - The Washington Post",
-      "description": "A new review highlights the risk of osteoporosis and bone fractures for people who have had breast cancer. We asked experts who’s most vulnerable and what can help.",
-      "url": "https://www.washingtonpost.com/wellness/2026/11/13/breast-cancer-treatment-can-weaken-bones-heres-how-protect-them/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BEPT5X6CTLTSOQ4IXCV7XZCDXE_size-normalized.jpg&w=1440",
-      "publishedAt": "2026-11-13T19:00:00Z",
-      "content": "Breast cancer treatments are often lifesaving, but they can also come with both short-term and lingering side effects. One thats been documented in study after study: bone loss. \r\nA recent systematic… [+172 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
       "author": "Anahad O’Connor",
       "title": "Column | 4 reasons to eat dark chocolate every day, according to science - The Washington Post",
       "description": "Can a square a day keep the doctor away? Here’s what the research shows about the health benefits of dark chocolate.",
@@ -128,16 +206,29 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "San Luis Obispo Tribune"
+        "id": "the-washington-post",
+        "name": "The Washington Post"
       },
-      "author": "Hannah Poukish",
-      "title": "18-month-old died in SLO County E. coli outbreak. ‘We are inconsolable,’ grandma says - San Luis Obispo Tribune",
-      "description": "An 18-month-old toddler died after an STEC E. coli outbreak tied to Brookshire Farms in San Luis Obispo County, California, left three children hospitalized.",
-      "url": "https://www.sanluisobispo.com/news/local/article318047360.html",
-      "urlToImage": "https://www.sanluisobispo.com/public/latest-news/3t2tj4/picture318064622/alternates/LANDSCAPE_1200/exterior-dusk-stanford-childrens.jpg",
-      "publishedAt": "2026-11-13T18:07:00Z",
-      "content": "Local\r\nThe patient who died due to complications from an E. coli infection following an outbreak in San Luis Obispo was an 18-month-old girl, her grandmother confirmed.\r\nThe toddler developed hemolyt… [+3544 chars]"
+      "author": "Kathleen Felton",
+      "title": "Breast cancer treatment can weaken bones. Here’s how to protect them. - The Washington Post",
+      "description": "A new review highlights the risk of osteoporosis and bone fractures for people who have had breast cancer. We asked experts who’s most vulnerable and what can help.",
+      "url": "https://www.washingtonpost.com/wellness/2026/11/13/breast-cancer-treatment-can-weaken-bones-heres-how-protect-them/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BEPT5X6CTLTSOQ4IXCV7XZCDXE_size-normalized.jpg&w=1440",
+      "publishedAt": "2026-11-13T19:00:00Z",
+      "content": "Breast cancer treatments are often lifesaving, but they can also come with both short-term and lingering side effects. One thats been documented in study after study: bone loss. \r\nA recent systematic… [+172 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PBS"
+      },
+      "author": null,
+      "title": "What men need to know after a major update to prostate cancer guidelines - PBS",
+      "description": "Middle-aged men should undergo regular screening for prostate cancer, the American Cancer Society said Thursday in a major change to its guidelines.",
+      "url": "https://www.pbs.org/newshour/health/what-men-need-to-know-after-a-major-update-to-prostate-cancer-guidelines",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/06/BudgetBillMedicaid-1024x545.jpg",
+      "publishedAt": "2026-11-13T17:58:31Z",
+      "content": "WASHINGTON (AP) Middle-aged men should undergo regular screening for prostate cancer, the American Cancer Society said Thursday in a major change to its guidelines.\r\nThe screening involves a simple b… [+3882 chars]"
     },
     {
       "source": {
@@ -167,16 +258,29 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "nj.com"
+        "id": "newsweek",
+        "name": "Newsweek"
       },
-      "author": "NJ.com",
-      "title": "Measles exposure may have occurred at 3 N.J. locations, including convention - NJ.com",
-      "description": null,
-      "url": "https://www.nj.com/news/2026/11/measles-exposure-may-have-occurred-at-3-nj-locations-including-convention.html",
-      "urlToImage": null,
-      "publishedAt": "2026-11-13T15:02:00Z",
-      "content": null
+      "author": "Lucy Notarantonio",
+      "title": "I had my appendix removed. At my next scan, the room went quiet - Yahoo",
+      "description": "I was having a CT scan and then the vibe in the room changed. I just knew they found something.",
+      "url": "https://www.newsweek.com/i-had-my-appendix-removed-at-my-next-scan-the-room-went-quiet-12701071",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/1354a7dd7ef36f7418aa3f0b1a8b753b999e840342222a8a1a0ee5afdacfa95d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnewsweek_sports_200%2F4810727dde1fb2da91b8efbadd494b6a.png",
+      "publishedAt": "2026-11-13T15:38:39Z",
+      "content": "I have always suffered from bad period pains, but one day in August 2024, I was crippled by pains. I had to call in sick as a medical secretary, as I physically couldn't move.\r\nBy the end of the day,… [+7182 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Medical Xpress"
+      },
+      "author": null,
+      "title": "Does a heart stent prevent future heart attacks in stable patients? 25-year follow-up offers new insight - Medical Xpress",
+      "description": "When doctors find a blockage in a patient's heart arteries, a common treatment option is a procedure to open the artery and restore blood flow. But does getting a stent actually help prevent a future heart attack or help someone live longer?",
+      "url": "https://medicalxpress.com/news/2026-11-heart-stent-future-stable-patients.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2019/1-cardiology.jpg",
+      "publishedAt": "2026-11-13T15:00:06Z",
+      "content": "When doctors find a blockage in a patient's heart arteries, a common treatment option is a procedure to open the artery and restore blood flow. But does getting a stent actually help prevent a future… [+5115 chars]"
     },
     {
       "source": {
@@ -190,19 +294,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/12/07/multimedia/07DC-RFK-FUTURE-top-mgkj/07DC-RFK-FUTURE-top-mgkj-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-13T14:38:11Z",
       "content": "Most Democrats abhor the health secretary’s stance on vaccines, but some see an opportunity to win voters from his MAHA movement by joining with him on food and environmental issues."
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Daryl Austin",
-      "title": "They were ready to embrace aging. They didn’t anticipate these physical changes - USA Today",
-      "description": "Why is it harder to maintain a healthy weight as you get older? Experts explain.",
-      "url": "https://www.usatoday.com/story/life/health-wellness/2026/11/13/stay-in-shape-as-you-age/92638436007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/06/USAT/92638470007-getty-images-2278105372.jpg?crop=2120,1193,x0,y0&width=2120&height=1193&format=pjpg&auto=webp",
-      "publishedAt": "2026-11-13T13:06:33Z",
-      "content": "For Gabrielle Union, it was how quickly the weight appeared. It was 27 pounds in what felt like overnight, the actress told Drew Barrymore during a conversation about perimenopause in 2023.\r\nFor actr… [+7139 chars]"
     },
     {
       "source": {
@@ -236,19 +327,6 @@
         "name": "Fox News"
       },
       "author": null,
-      "title": "Popular snack may help support brain health in older adults, new study finds - Fox News",
-      "description": "A small study found that eating skin-roasted peanuts daily for 16 weeks improved insulin responsiveness in memory-related brain regions of older adults.",
-      "url": "https://www.foxnews.com/food-drink/popular-snack-may-help-support-brain-health-older-adults-new-study-finds",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/person-with-handful-of-peanuts.jpg",
-      "publishedAt": "2026-11-13T11:00:04Z",
-      "content": "An unsuspecting snack could help support brain health in older adults, new research suggests.\r\nA small study by researchers at Maastricht University Medical Center in the Netherlands, published in th… [+3397 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
       "title": "Highly contagious bird flu detected in Wisconsin as officials euthanize infected flock - Fox News",
       "description": "Wisconsin officials euthanized a backyard poultry flock in Rusk County after confirming a case of highly pathogenic avian influenza in the birds.",
       "url": "https://www.foxnews.com/health/highly-contagious-bird-flu-detected-wisconsin-officials-euthanize-infected-flock",
@@ -261,26 +339,13 @@
         "id": null,
         "name": "KTLA Los Angeles"
       },
-      "author": "KTLA",
+      "author": "Vivian Chow",
       "title": "Southern California woman suffers severe complications from West Nile virus infection - KTLA",
-      "description": null,
+      "description": "Loved ones are rallying to support a Southern California woman who was left unable to walk after experiencing rare and severe complications from West Nile virus. Mandi Budd recalls the moment her life changed in September. She began experiencing strange sympt…",
       "url": "https://ktla.com/news/local-news/woman-suffers-west-nile-virus-infection/",
-      "urlToImage": null,
+      "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2026/11/snapshot-12-3.jpg?w=1280",
       "publishedAt": "2026-11-13T04:05:48Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "KSL.com"
-      },
-      "author": "Emma Benson, KSL",
-      "title": "Protecting babies from RSV during the holiday season - KSL",
-      "description": "An Intermountain Children's Health expert shares how to protect babies from RSV during holiday gatherings, what symptoms to watch for and when to seek care.",
-      "url": "https://www.ksl.com/article/51645551/protecting-babies-from-rsv-during-the-holiday-season",
-      "urlToImage": "https://img.ksl.com/slc/3140/314069/31406919.jpg?filter=kslv2/responsive_story_lg",
-      "publishedAt": "2026-11-13T01:46:33Z",
-      "content": "SALT LAKE CITY It's that time of year again. More sneezes, more coughs.\r\nFlu is already on the radar for Utah families, and with holiday gatherings coming up, health experts are also watching for RSV… [+2094 chars]"
+      "content": "Loved ones are rallying to support a Southern California woman who was left unable to walk after experiencing rare and severe complications from West Nile virus.\r\nMandi Budd recalls the moment her li… [+3172 chars]"
     },
     {
       "source": {
@@ -294,32 +359,6 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/molecular-mapping-of-8.jpg",
       "publishedAt": "2026-11-13T00:40:21Z",
       "content": "University of California, Irvine researchers have mapped approximately 8 million cells in regions deep within the human brain, identifying 60 distinct types and revealing how they form cellular commu… [+7356 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Turn to 10"
-      },
-      "author": "LEANNA FAULK, NBC 10 NEWS",
-      "title": "Why a Fall River nonprofit is handing out free crack pipes and needles - WJAR",
-      "description": "A state-funded program distributing drug-use supplies in Fall River is drawing criticism from some city leaders and residents who question whether the approach is helping people struggling with addiction.",
-      "url": "https://turnto10.com/news/local/why-a-fall-river-nonprofit-is-handing-out-free-crack-pipes-and-needles-harm-reduction-addiction-help-prevent-overdose-city-council-november-12-2026",
-      "urlToImage": "https://turnto10.com/resources/media2/16x9/1920/1320/center/90/979c997f-5e79-4da2-8d09-4ad7c85c1188-6PPFALLRIVERHARMREDUCTION.transfer_frame_784.jpeg",
-      "publishedAt": "2026-11-12T23:02:10Z",
-      "content": "FALL RIVER, Mass. (WJAR) A state-funded program distributing free crack pipes, syringes and other drug-use supplies in Fall River is drawing criticism from some city leaders and residents who questio… [+6547 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": null,
-      "title": "Regular prostate cancer screening recommended under new American Cancer Society guidelines - CBS News",
-      "description": "The American Cancer Society is recommending routine prostate cancer screening for more middle-aged men, in a major change to its guidelines.",
-      "url": "https://www.cbsnews.com/news/prostate-cancer-screening-guidelines/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/09/22/f006bbe2-fab8-427f-a414-09d50ddbbeb7/thumbnail/1200x630/387ff0fc9c02a10dfa4460a73aa60098/prostate-cancer.jpg",
-      "publishedAt": "2026-11-12T22:13:00Z",
-      "content": "Middle-aged men should undergo regular screening for prostate cancer, the American Cancer Society said Thursday in a major change to its guidelines.\r\nThe screening involves a simple blood test, and m… [+4185 chars]"
     },
     {
       "source": {
@@ -375,19 +414,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Press Herald"
-      },
-      "author": "Sophie Burchell",
-      "title": "Falmouth high schooler publishes women’s health research in medical journal - Portland Press Herald - Maine Sunday Telegram",
-      "description": "The 17-year-old shared what she's learned about the field of women's health <strong>—</strong> and about herself  <strong>—</strong> while shadowing a hospital's labor and delivery unit and diving into data.",
-      "url": "https://www.pressherald.com/2026/11/12/falmouth-high-schooler-publishes-womens-health-research-in-medical-journal/",
-      "urlToImage": "https://www.pressherald.com/wp-content/uploads/sites/4/2026/11/IMG_4809.jpeg?w=780",
-      "publishedAt": "2026-11-12T19:33:55Z",
-      "content": "Falmouth High School senior Hanna Ajemian, second from left, with her mother, father and sister while holding academic awards in May 2026. Falmouth schools recognized Ajemian for her research project… [+3999 chars]"
-    },
-    {
-      "source": {
         "id": "newsweek",
         "name": "Newsweek"
       },
@@ -398,19 +424,6 @@
       "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2026/11/GettyImages-2238528716.jpg?w=1200&crop=1",
       "publishedAt": "2026-11-12T19:02:00Z",
       "content": "A simple cup of coffee a day may do more than just wake you up in the morning. A new study suggests that drinking coffee regularly may be linked to differences in how the digestive system works. \r\nRe… [+6765 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Caitlin Carlson",
-      "title": "For people with food allergies, these treatments can be life-changing - The Washington Post",
-      "description": "Some therapies can dramatically raise the amount of an allergen a person can tolerate, but they aren’t a cure.",
-      "url": "https://www.washingtonpost.com/wellness/2026/11/12/food-allergy-treatment-can-be-life-changing-heres-what-know/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Z52S6CMWDVJXC7QDBGUBJVAXOM_size-normalized.jpg&w=1440",
-      "publishedAt": "2026-11-12T19:00:00Z",
-      "content": "Erin Fenton, 33, doesnt remember a time when she wasnt allergic to peanuts. It all started with a fateful bite of a cookie when she was 11 months old that caused her to break out in hives and a cough… [+28 chars]"
     },
     {
       "source": {
@@ -427,19 +440,6 @@
     },
     {
       "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
-      "author": "Sasha Draeger-mazer/the Texas Tribune",
-      "title": "CDC eliminates $29 million for HIV prevention in Texas - AP News",
-      "description": "The federal government has cut $29.2 million from Texas health organizations that test thousands of people for HIV directly in their communities, the latest in a series of public health funding cuts statewide.",
-      "url": "https://apnews.com/article/cdc-funding-hiv-prevention-texas-db7d1a62c1781f0c9842fa62e174a4b0",
-      "urlToImage": "https://dims.apnews.com/dims4/default/813e45c/2147483647/strip/true/crop/1281x854+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0c%2F94%2Fcbc970464ba8bfbc6042dd7cdd78%2Fthe-ap-default-image-2026.png",
-      "publishedAt": "2026-11-12T18:47:54Z",
-      "content": "The federal government has cut $29.2 million from Texas health organizations that test thousands of people for HIV directly in their communities, the latest in a series of public health funding cuts … [+9428 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Nature.com"
       },
@@ -453,29 +453,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Minneapolis Star Tribune"
+        "id": "the-washington-post",
+        "name": "The Washington Post"
       },
-      "author": "Jeremy Olson, C.J. Sinner",
-      "title": "Tracking measles in Minnesota - Star Tribune",
-      "description": "Cases of the highly contagious illness are now the highest in more than 30 years. Find weekly updates here.",
-      "url": "https://www.startribune.com/tracking-measles-minnesota-mmr-vaccine-rash-map/601916576",
-      "urlToImage": "https://arc.stimg.co/startribunemedia/22DXODXA6VFD3NXSBTJEZT7CRA.png?&w=1200&ar=1.91:1&fit=crop",
-      "publishedAt": "2026-11-12T18:27:45Z",
-      "content": "Public health officials have documented 160 cases of measles in Minnesota so far this year, nearly twice as many as the most recent record outbreak nearly a decade ago. \r\nMinnesotas tally of confirme… [+1082 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Fox News",
-      "title": "Health experts warn against popular olive oil trend touted by Kourtney Kardashian, Hailey Bieber - New York Post",
-      "description": "Taking shots of olive oil has become a popular trend on social media, with celebrities like Kourtney Kardashian and Hailey Bieber touting the practice for its supposed health benefits.",
-      "url": "https://www.foxnews.com/food-drink/viral-olive-oil-shots-could-lead-weight-gain-health-expert-warns",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/148485677.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-11-12T17:51:00Z",
-      "content": "Taking shots of olive oil has become a popular trend on social media, with celebrities like Kourtney Kardashian and Hailey Bieber touting the practice for its supposed health benefits.\r\nHowever, some… [+3119 chars]"
+      "author": "Ariana Eunjung Cha",
+      "title": "Not all sports help the brain in the same way. This is what may be best for ADHD. - The Washington Post",
+      "description": "Researchers found differences in the effects of running, martial arts and more.",
+      "url": "https://www.washingtonpost.com/health/2026/11/12/why-brainier-sports-may-be-better-people-with-adhd/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/EYWDMUHSUJDDVGCEKV4AOWC2AI.jpg&w=1440",
+      "publishedAt": "2026-11-12T18:00:00Z",
+      "content": "Theres a bit of folk wisdom among mothers of kids with ADHD: Want your kid to sit still and focus at school? Get them to run around outside first.\r\nThe assumption has long been that kids simply need … [+421 chars]"
     },
     {
       "source": {
@@ -489,19 +476,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-medicaid-01-zkhw/10biz-medicaid-01-zkhw-mediumSquareAt3X-v2.jpg",
       "publishedAt": "2026-11-12T17:07:15Z",
       "content": "Health systems are racing to guide millions of patients through new eligibility hoops, slated to go into effect Jan. 1."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Ed Cara",
-      "title": "Teen Gets Anaphylaxis From Energy Drink - Gizmodo",
-      "description": "The boy developed a severe allergic reaction to an increasingly popular ingredient in energy drinks and other products.",
-      "url": "https://gizmodo.com/a-teen-suffered-a-severe-allergy-attack-after-sipping-an-energy-drink-the-trigger-wasnt-what-doctors-expected-2000838873",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/11/energy-drink-cans-1200x675.jpg",
-      "publishedAt": "2026-11-12T15:40:18Z",
-      "content": "People with food allergies have to be careful about the meals and drinks they consume. A case report out today, however, shows that some allergic attacks can be caused by unexpected sources.\r\nAnnabel… [+2903 chars]"
     },
     {
       "source": {
@@ -558,32 +532,6 @@
     {
       "source": {
         "id": null,
-        "name": "Spectrum News"
-      },
-      "author": null,
-      "title": "DEC discovers rare disease in upstate New York deer - Spectrum News",
-      "description": "For hunters in contaminated areas, starting Nov. 12, there are collection stations to get harvested deer tested.",
-      "url": "https://spectrumlocalnews.com/nys/central-ny/news/2026/11/12/dec-finds-chronic-wasting-disease-in-livingston-county-deer",
-      "urlToImage": "https://s7d2.scene7.com/is/image/TWCNews/deerryanthompson",
-      "publishedAt": "2026-11-12T12:48:00Z",
-      "content": "For the first time since 2005, a wild deer has been found with chronic wasting disease (CWD). While this case stems from Livingston County, the New York State Department of Environmental Conservation… [+5133 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Medscape"
-      },
-      "author": "Richard Mark Kirkner",
-      "title": "Two Trials of Intensive BP Lowering, Two Different Outcomes - Medscape",
-      "description": "In twin trials in patients who had a stroke or live with diabetes, intensive systolic blood pressure lowering reduced cardiovascular events in the former but not the latter.",
-      "url": "https://www.medscape.com/viewarticle/two-trials-intensive-bp-lowering-find-different-outcomes-2026a10017gr",
-      "urlToImage": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/1/7/5/180ddc92-2fdb-4ad1-a0bd-be0973cf2571/gty_221213_doctor_patient_blood_pressure_800x450.jpg",
-      "publishedAt": "2026-11-12T12:48:00Z",
-      "content": "CHICAGO — Intensive antihypertensive therapy to target systolic blood pressure (BP) less than 120 mm Hg can lower the chance of strokes, heart attacks, or other major cardiovascular events in people … [+12487 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "The Boston Globe"
       },
       "author": null,
@@ -635,6 +583,45 @@
     },
     {
       "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Erika Edwards",
+      "title": "She’s delivered 2,000 babies. The measles outbreak changed her mind about vaccines. - NBC News",
+      "description": "Traditional midwives like Roberta Devers could be key to increasing vaccination as outbreaks spread in rural communities such as those in Pennsylvania.",
+      "url": "https://www.nbcnews.com/health/health-news/measles-pregnant-vaccines-midwife-pennsylvania-outbreak-rcna607118",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261111-midwife-penn-ch-0950-2babaf.jpg",
+      "publishedAt": "2026-11-12T00:17:00Z",
+      "content": "Babies gasping for air, children needing oxygen and respiratory support, patients on ventilators. We see babies and children coming in with infections of organs within the abdomen, their liver, dehyd… [+2659 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": null,
+      "title": "Domain-alteration chimeras rewire oncogenic complexes in prostate cancer - Nature",
+      "description": "A novel therapeutic modality enforces non-native androgen receptor (AR)–p300/CBP interactions to collapse AR transcriptional programs, producing super-inhibitory, lineage-selective suppression of metastatic prostate cancer and establishing domain-alteration c…",
+      "url": "https://www.nature.com/articles/s41586-026-11262-4",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11262-4/MediaObjects/41586_2026_11262_Fig1_HTML.png",
+      "publishedAt": "2026-11-11T22:16:41Z",
+      "content": "Cell lines\r\nVCaP, LNCaP, 22Rv1, DU145, PC-3, MCF-7, HepG2, A549, K562, HL-60, U937, HEK293, WPMY-1, U-87 MG, BJAB, SK-ES-1, RD-ES, A204, PBMC, NCI-H526, AU565, MM1.S, SU-DHL-8 and NCI-H211 were purch… [+42149 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": null,
+      "title": "Epigenetic heterogeneity in breast tumours informs diagnosis and prognosis - Nature",
+      "description": "Single-cell epigenetic analyses reveal a conserved epigenetic signature across patients that may help identify those at increased risk for disease relapse in breast cancer.",
+      "url": "https://www.nature.com/articles/s41586-026-11230-y",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11230-y/MediaObjects/41586_2026_11230_Fig1_HTML.png",
+      "publishedAt": "2026-11-11T22:16:41Z",
+      "content": "Human participants\r\nCollection and analyses of breast cancer tissue samples and matching blood samples were approved by the Israeli Ministry of Health Ethics Committees (Helsinki applications KMC-002… [+64053 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "Nature.com"
       },
@@ -675,32 +662,6 @@
     {
       "source": {
         "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "New culprit in early Alzheimer’s: blood–brain barrier blocks protective proteins - Nature",
-      "description": "The brain relies on crucial proteins to maintain neurons. This system is disrupted in mice with neurological disease.",
-      "url": "https://www.nature.com/articles/d41586-026-03655-2",
-      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03655-2/d41586-026-03655-2_53961936.jpg",
-      "publishedAt": "2026-11-11T18:43:08Z",
-      "content": "Researchers tagged dozens of proteins that can cross the blood-brain barrier and are important for brain health.Credit: K. H. Fung/SPL\r\nFor decades, scientists thought of the bloodbrain barrier as an… [+3044 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Medical Xpress"
-      },
-      "author": "Medical Xpress",
-      "title": "Molecular brace traps two cancer-driving proteins to suppress prostate cancer growth in preclinical tests - Medical Xpress",
-      "description": null,
-      "url": "https://medicalxpress.com/news/2026-11-molecular-brace-cancer-proteins-suppress.html",
-      "urlToImage": null,
-      "publishedAt": "2026-11-11T16:00:01Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Medical Xpress"
       },
       "author": null,
@@ -723,19 +684,6 @@
       "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/woman-taking-statins.jpg",
       "publishedAt": "2026-11-11T12:00:29Z",
       "content": "Some older adults may be able to stop taking statins with little added risk over two years, but a new study raises concerns about longer-term safety.\r\nThats according to a randomized clinical trial t… [+4930 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Antidepressant escitalopram more effective at preventing relapse, analysis finds - BBC",
-      "description": "Three pills came top and outperformed Prozac for preventing relapse in a large number of patients.",
-      "url": "https://www.bbc.com/news/articles/cv62yyng00jyo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ea69/live/913e2170-dda0-11f1-93e1-3b657b665bcf.jpg",
-      "publishedAt": "2026-11-11T00:17:42Z",
-      "content": "\"Nevertheless, our study can help inform the decisions that prescribers and patients make together: if you start an antidepressant, choose one that not only helps you to get well, but also keeps you … [+5 chars]"
     },
     {
       "source": {
@@ -791,6 +739,19 @@
     },
     {
       "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": null,
+      "title": "An 11-day-old baby couldn’t stop bleeding. For hours, the ER didn’t provide a critical vitamin shot. - CNN",
+      "description": "When Baby Gwen was born, her parents decided not to have her receive a vitamin K injection, though it’s been standard practice for decades, and gave her drops instead. The emergency room doctor who first treated Gwen tried seven methods to stop the bleeding f…",
+      "url": "https://www.cnn.com/2026/11/10/health/vitamin-k-infant-bleeding",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20260810-bazan-vitamink-018.JPG?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-11-10T10:00:16Z",
+      "content": "This story was originally published by ProPublica, a nonprofit newsroom that investigates abuses of power. Sign up for Dispatches, a newsletter that spotlights wrongdoing around the country, to recei… [+29168 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -817,19 +778,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "PEOPLE"
-      },
-      "author": "Angel Saunders, Cara Lynn Shultz",
-      "title": "Infant Bleeding Episodes Skyrocket 347% as More Parents Refuse Vitamin K Shot - Yahoo",
-      "description": "“We are seeing the real-world implications of growing mistrust of doctors and public health professionals,” a lead researcher said",
-      "url": "https://people.com/infant-bleeding-rises-sharply-as-parents-reject-recommended-vitamin-k-shots-12240403",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/ddc9de9a9634ef79e376a7cfd48e30a297a00f77fd56bd2b8dce87f80969612d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F560bbd239665d7946e7bc33350d17ea2.jpg",
-      "publishedAt": "2026-11-09T18:33:38Z",
-      "content": "NEED TO KNOW\r\n<ul><li>A study of 11 million infants found vitamin K shots declined from 97.7% to 95% between 2017 and 2025\r\n</li><li>Vitamin K deficiency bleeding rose 347% during the same period, re… [+2984 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -844,6 +792,19 @@
     {
       "source": {
         "id": null,
+        "name": "Newser"
+      },
+      "author": "Arden Dier",
+      "title": "Why a Lot of Acorns Will Mean a Lot of Ticks - Newser",
+      "description": "Acorns feed mice, which feed Lyme-carrying deer tick larvae and nymphs",
+      "url": "https://www.newser.com/story/399676/to-predict-lyme-disease-risk-look-at-the-acorns.html",
+      "urlToImage": "https://cdn.newser.com/image/1723325-12-20261109104718.jpeg",
+      "publishedAt": "2026-11-09T16:18:00Z",
+      "content": "Deer still matter—adult ticks rely on them to reproduce—but in areas where deer are already plentiful, adding or losing a few doesn't change tick numbers much. Mice, on the other hand, are perfect ho… [+361 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "AL.com"
       },
       "author": "AL.com",
@@ -853,6 +814,19 @@
       "urlToImage": null,
       "publishedAt": "2026-11-09T14:19:00Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "Scientists Find 10 Healthy Diets That Can Slow Ageing Naturally - NDTV Food",
+      "description": "Researchers analyzed 10 diets and DNA methylation markers, revealing different diets impact similar biological pathways related to ageing.",
+      "url": "https://food.ndtv.com/news/scientists-found-10-healthy-diets-that-could-help-slow-ageing-12302684",
+      "urlToImage": "https://c.ndtvimg.com/2026-11/ev6uap64_diet_625x300_09_November_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "publishedAt": "2026-11-09T08:08:14Z",
+      "content": "Can two people of the same age have bodies that are ageing at different rates? Yes. And what they eat could be one of the factors influencing that difference.\r\nA new study published in Nature Communi… [+4513 chars]"
     },
     {
       "source": {
@@ -870,6 +844,19 @@
     {
       "source": {
         "id": null,
+        "name": "Eatingwell.com"
+      },
+      "author": "https://www.facebook.com/EatingWell/",
+      "title": "Pancreatic Cancer Risk May Be Reduced by Eating This Food, According to Dietitians - EatingWell",
+      "description": "Pancreatic cancer risk may be lowered by eating cruciferous vegetables like broccoli and kale. Dietitians explain how these foods help reduce risk.",
+      "url": "https://www.eatingwell.com/food-linked-to-lower-pancreatic-cancer-risk-12236875",
+      "urlToImage": "https://www.eatingwell.com/thmb/xgCmusqC7SiUmQ2H64EPvqSl81w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Pancreatic-Cancer-Risk-May-Be-Reduced-by-Eating-This-Food-According-to-Dietitians-b949318b21b345fa9d9fa1005ad0b70a.jpg",
+      "publishedAt": "2026-11-08T13:00:00Z",
+      "content": "The pancreas is a pear-shaped organ located behind your stomach that makes both enzymes for digestion and hormones like insulin. This vital organ is also one that is susceptible to cancer. Each year,… [+4963 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Nxsmediawire.com"
       },
       "author": "The Associated Press",
@@ -882,16 +869,16 @@
     },
     {
       "source": {
-        "id": "medical-news-today",
-        "name": "Medical News Today"
+        "id": null,
+        "name": "mindbodygreen.com"
       },
-      "author": "Erika Watts",
-      "title": "Experimental pancreatic cancer vaccine shows promise in clinical trial - Medical News Today",
-      "description": "An experimental pancreatic cancer vaccine has shown promise in a phse 2 clinical trial.",
-      "url": "https://www.medicalnewstoday.com/articles/experimental-pancreatic-cancer-vaccine-shows-promise-in-clinical-trial",
-      "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2026/11/getty_2196571116_facebook_1200x630-1200x628.jpg",
-      "publishedAt": "2026-11-07T06:42:43Z",
-      "content": "<ul><li>A group of researchers recently conducted a randomized phase 2 trial for a pancreatic cancer vaccine.</li><li>They found that the vaccine triggered an immune response in nearly 99% of partici… [+6183 chars]"
+      "author": "Sela Breen",
+      "title": "Could This Be The Real Reason Women Struggle More With Migraines? - MindBodyGreen",
+      "description": "Women carry the burden of migraine disease risk globally, but the reason why is still unclear.",
+      "url": "https://www.mindbodygreen.com/articles/could-this-be-real-reason-women-struggle-more-with-migraines-how-women-can-take-back-control",
+      "urlToImage": "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/sxtboae3bjpsiydr7.jpg",
+      "publishedAt": "2026-11-07T08:00:00Z",
+      "content": "I started struggling with migraines in the beginning of college, which was about the same time I was diagnosed with PMOS (recently renamed from PCOS). I had never had a consistent menstrual cycle, so… [+8711 chars]"
     },
     {
       "source": {
@@ -996,19 +983,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/21/multimedia/00dc-insurer-nonpay-helo-hgwf/00dc-insurer-nonpay-helo-hgwf-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-04T01:54:04Z",
       "content": "A law to end surprise medical bills has generated millions of high-dollar payouts for doctors. Health plans are now fighting back by frequently withholding money."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Coral Davenport and Rebecca Davis O’Brien",
-      "title": "Trump Administration Said to Plan Rolling Back Pregnancy-Related Job Protections",
-      "description": "The Biden era law was meant to help women stay in the workplace, but some conservatives say rules to enact it went too far with coverage for abortion and fertility treatment.",
-      "url": "https://www.nytimes.com/2026/11/02/business/economy/eeoc-trump-administration-pregnancy-fertility-abortion.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/30/multimedia/00biz-pregnant-workers--01-lcqm/00biz-pregnant-workers--01-lcqm-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-02T23:10:21Z",
-      "content": "The Biden era law was meant to help women stay in the workplace, but some conservatives say rules to enact it went too far with coverage for abortion and fertility treatment."
     }
   ]
 }
