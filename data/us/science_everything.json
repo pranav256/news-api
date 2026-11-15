@@ -6,9 +6,22 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-15T08:29:18.756067+00:00",
-  "articles_count": 32,
+  "fetched_at": "2026-11-15T16:39:17.729910+00:00",
+  "articles_count": 29,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Taylor Mitchell Brown",
+      "title": "‘Birdbrain’ Is a Misnomer. Crows Make Decisions Faster Than We Can",
+      "description": "In a recent experiment, crows could process and respond to visual cues at twice the speed as humans and monkeys.",
+      "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+      "urlToImage": null,
+      "publishedAt": "2026-11-15T10:00:36Z",
+      "content": "In a recent experiment, crows could process and respond to visual cues at twice the speed as humans and monkeys."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -372,58 +385,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/27/multimedia/00SCI-ADA-CONTROVERSY-01-stillpromo/00SCI-ADA-CONTROVERSY-01-stillpromo-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-09T16:41:41Z",
       "content": "It began with a protest at an American Diabetes Association conference. Now a resulting boycott has caused a scientific slowdown, with no end in sight."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Ishani Desai",
-      "title": "How an Intern and a Biologist Rescued an Orphaned Walrus in Alaska",
-      "description": "An injured five-month-old walrus was found huddled next to carcasses in remote Alaska after it became separated from its mother. Its rescue took days and lots of patience.",
-      "url": "https://www.nytimes.com/2026/11/08/us/walrus-alaska-rescue.html",
-      "urlToImage": null,
-      "publishedAt": "2026-11-09T06:21:38Z",
-      "content": "An injured five-month-old walrus was found huddled next to carcasses in remote Alaska after it became separated from its mother. Its rescue took days and lots of patience."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Chico Harlan",
-      "title": "A Guide to COP31 Climate Talks in Antalya, Turkey",
-      "description": "Negotiators and leaders are gathering for annual United Nations climate talks. They come as global temperatures are set to breach a key threshold.",
-      "url": "https://www.nytimes.com/2026/11/08/climate/what-is-cop31-climate.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/08/multimedia/08CLI-COP31-FAQ-jqfw/08CLI-COP31-FAQ-jqfw-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-08T10:01:51Z",
-      "content": "Negotiators and leaders are gathering for annual United Nations climate talks. They come as global temperatures are set to breach a key threshold."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Chico Harlan",
-      "title": "With Hopes Low and Temperatures High, Climate Summit Opens in Turkey",
-      "description": "War, artificial intelligence and the Trump era have overshadowed climate change. But officials from nearly every nation are meeting to confront global warming.",
-      "url": "https://www.nytimes.com/2026/11/08/climate/with-hopes-low-and-temperatures-high-climate-summit-opens-in-turkey.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/08/multimedia/08CLI-COP31-01-mgpv/08CLI-COP31-01-mgpv-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-08T10:01:38Z",
-      "content": "War, artificial intelligence and the Trump era have overshadowed climate change. But officials from nearly every nation are meeting to confront global warming."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Stella Raine Chu",
-      "title": "Did These Scientists Find Evidence of Blood in a Dinosaur Bone?",
-      "description": "Mineralized “structures” discovered in the bone were the fossilized remains of red blood cells, according to a recent study. Other experts aren’t so sure.",
-      "url": "https://www.nytimes.com/2026/11/08/science/dinosaur-blood-bone.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/03/multimedia/03SCI-DINOSAUR-BLOOD-01-vmtq/03SCI-DINOSAUR-BLOOD-01-vmtq-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-08T10:01:05Z",
-      "content": "Mineralized “structures” discovered in the bone were the fossilized remains of red blood cells, according to a recent study. Other experts aren’t so sure."
     }
   ],
   "query": "science research discovery space"
