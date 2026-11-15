@@ -6,9 +6,35 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-15T16:39:17.729910+00:00",
-  "articles_count": 86,
+  "fetched_at": "2026-11-15T22:07:34.030084+00:00",
+  "articles_count": 90,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Rebecca Robbins",
+      "title": "F.D.A. Rejects Closely Watched Lung Cancer Drug From China",
+      "description": "The treatment, called ivonescimab, has become a symbol of China’s rise in drug development.",
+      "url": "https://www.nytimes.com/2026/11/15/business/fda-lung-cancer-drug-china.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/11/business/11BIZ-CANCER-DRUG/11BIZ-CANCER-DRUG-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-15T20:33:07Z",
+      "content": "The treatment, called ivonescimab, has become a symbol of China’s rise in drug development."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "The New York Times",
+      "title": "Highlights From the Starship Landing",
+      "description": "The Starship spacecraft safely landed back at the Starbase launch facility, a major step in SpaceX’s quest to build fully reusable rockets.",
+      "url": "https://www.nytimes.com/live/2026/11/14/science/spacex-starship-launch",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/14/multimedia/14starship-launch-header-cfqw/14starship-launch-header-cfqw-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-15T20:03:41Z",
+      "content": "The Starship spacecraft safely landed back at the Starbase launch facility, a major step in SpaceX’s quest to build fully reusable rockets."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -21,19 +47,6 @@
       "urlToImage": null,
       "publishedAt": "2026-11-15T10:00:36Z",
       "content": "In a recent experiment, crows could process and respond to visual cues at twice the speed as humans and monkeys."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "The New York Times",
-      "title": "Highlights From the Starship Landing",
-      "description": "The Starship spacecraft safely landed back at the Starbase launch facility, a major step in SpaceX’s quest to build fully reusable rockets.",
-      "url": "https://www.nytimes.com/live/2026/11/14/science/spacex-starship-launch",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/14/multimedia/14starship-launch-header-cfqw/14starship-launch-header-cfqw-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-15T01:17:38Z",
-      "content": "The Starship spacecraft safely landed back at the Starbase launch facility, a major step in SpaceX’s quest to build fully reusable rockets."
     },
     {
       "source": {
@@ -115,6 +128,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Michael Irving",
+      "title": "Scientists Issue 'Words of Warning' After Strange Discovery in Danish Skeletons - ScienceAlert",
+      "description": "There's something strange about some of the skeletons buried in monasteries in Denmark.",
+      "url": "https://www.sciencealert.com/scientists-issue-words-of-warning-after-strange-discovery-in-danish-skeletons",
+      "urlToImage": "https://www.sciencealert.com/images/2026/11/skeleton.jpg",
+      "publishedAt": "2026-11-14T19:02:09Z",
+      "content": "There's something strange about some of the skeletons buried in monasteries in Denmark.\r\nSome seem to date back decades or even centuries before their final resting places were even built.\r\nSo what's… [+5401 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -128,16 +154,29 @@
     },
     {
       "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
+        "id": null,
+        "name": "Phys.Org"
       },
-      "author": "Marcia Dunn",
-      "title": "NASA’s Voyager 1 closes in on a light-day in interstellar space for a new distance record - AP News",
-      "description": "NASA's Voyager 1 is about to become humanity's first object to reach one light-day from Earth. That's a mind-blowing distance of more than 16 billion miles. The spacecraft will reach the extraordinary milestone on Wednesday. At that point, its radio signals w…",
-      "url": "https://apnews.com/article/nasa-voyager-interstellar-space-light-day-67f53a0e274157c92305e0b03d4b800d",
-      "urlToImage": "https://dims.apnews.com/dims4/default/555d271/2147483647/strip/true/crop/2290x2186+0+0/resize/1200x1146!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F74%2F56%2F35ea4d1aa2e22e3280fda44ef15b%2F6371db219cb84a1db1b9cca4e69b03b3",
-      "publishedAt": "2026-11-14T13:01:00Z",
-      "content": "CAPE CANAVERAL, Fla. (AP) NASAs Voyager 1 is about to become humanitys first object to reach one light-day from Earth as it pushes ever deeper into interstellar space. \r\nThats a mind-blowing distance… [+4109 chars]"
+      "author": "Hannah Bird",
+      "title": "World's largest freshwater lake is recovering after decades of decline - Phys.org",
+      "description": "Lake Baikal in Siberia holds around 20% of the world's surface freshwater, making it the most voluminous freshwater lake (Lake Superior on the United States–Canada border is the largest by surface area). This makes the lake one of the most important environme…",
+      "url": "https://phys.org/news/2026-11-world-largest-freshwater-lake-recovering.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/the-worlds-largest-fre-2.jpg",
+      "publishedAt": "2026-11-14T15:40:01Z",
+      "content": "Lake Baikal in Siberia holds around 20% of the world's surface freshwater, making it the most voluminous freshwater lake (Lake Superior on the United StatesCanada border is the largest by surface are… [+5685 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera Staff",
+      "title": "NASA’s Voyager 1 to hit new space distance record of one light-day - Al Jazeera",
+      "description": "The probe was launched in 1977, and it continues to relay space-related data back to a team of NASA scientists.",
+      "url": "https://www.aljazeera.com/news/2026/11/14/nasas-voyager-1-to-hit-new-space-distance-record-of-one-light-day",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/2013-09-12T120000Z_2135594600_GM1E99D08R201_RTRMADP_3_SPACE-VOYAGER-1794666602.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-11-14T15:17:06Z",
+      "content": "NASA has announced that its Voyager 1 probe will soon become humanitys first object to travel one light-day from Earth.\r\nOn Wednesday, the robotic space probe will hit the milestone of travelling at … [+1586 chars]"
     },
     {
       "source": {
@@ -154,6 +193,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "World Atlas"
+      },
+      "author": "Ryan Barrett",
+      "title": "How Lake Superior Compares To The Biggest Lake On Every Other Continent - WorldAtlas",
+      "description": "Lake Superior beats the biggest lake on almost every continent, from Africa’s Lake Victoria to Antarctica’s buried Lake Vostok, losing only to the Caspian Sea.",
+      "url": "https://www.worldatlas.com/lakes/how-lake-superior-compares-to-the-biggest-lake-on-every-other-continent.html",
+      "urlToImage": "https://www.worldatlas.com/r/w1200-q80/upload/41/8c/da/shutterstock-2447624793-s3cdn-2-s3cdn-s3cdn.jpg",
+      "publishedAt": "2026-11-14T11:45:00Z",
+      "content": "Lake Superior is so enormous it almost feels like it is showing off. It is the largest freshwater lake on Earth by surface area, it holds roughly 10 percent of all the fresh surface water on the plan… [+5444 chars]"
+    },
+    {
+      "source": {
         "id": "the-jerusalem-post",
         "name": "The Jerusalem Post"
       },
@@ -164,6 +216,45 @@
       "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746036",
       "publishedAt": "2026-11-14T10:48:58Z",
       "content": "If you suffer from a chronic joint disease such as osteoarthritis, you may be overweight and put a burden on your knees. But you can also blame evolution and envy chimpanzees and gorillas, which are … [+8343 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ygorganization.com"
+      },
+      "author": "Ness",
+      "title": "[Reference Art] Limited Pack Another Style Edition Cards - YGOrganization",
+      "description": "Princess Cosmos creates new art to make the universe more beautiful",
+      "url": "https://ygorganization.com/reference-art-limited-pack-another-style-edition-cards",
+      "urlToImage": "https://cdn.ygorganization.com/2026/11/cosmothumb.png",
+      "publishedAt": "2026-11-14T09:41:48Z",
+      "content": "Mercissus the PlanetairyFull art:Top: \"Each accessory resembles those of Princess Cosmos, gold version\"Top right: \"Narcissus-like hair ornament\"Bottom: \"Thiiiiiin, with a universe-design from Princes… [+1117 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Live Science"
+      },
+      "author": "Turi King",
+      "title": "'Links with the British royal family would eventually prove crucial': How DNA solved the 70-year mystery of what happened to the executed members of the last Russian imperial family - Live Science",
+      "description": "In this excerpt from \"The Secrets of our DNA,\" geneticist Turi King examines how DNA was used to reveal the ultimate fate of the last members of the House of Romanov.",
+      "url": "https://www.livescience.com/health/genetics/links-with-the-british-royal-family-would-eventually-prove-crucial-how-dna-solved-the-70-year-mystery-of-what-happened-to-the-executed-members-of-the-last-russian-imperial-family",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/eQJMmcSsNS3pe8Ek3VLP6J-2000-80.jpg",
+      "publishedAt": "2026-11-14T09:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Skyatnightmagazine.com"
+      },
+      "author": "Jamie Middleton",
+      "title": "Our Sun may have swallowed a planet 10 times as big as Earth - BBC Sky at Night Magazine",
+      "description": "Scientists say there's evidence our host star the Sun may have ingested an ancient world up to 10 times the mass of Earth.",
+      "url": "https://www.skyatnightmagazine.com/news/our-sun-may-have-swallowed-a-planet",
+      "urlToImage": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/79bb792b-5da8-481a-b76a-dada3f6f0bec/thumbnails/0a01f311-ed25-476f-ad24-87bdfa75edcd.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&platform=WEB&w=1200",
+      "publishedAt": "2026-11-14T08:23:00Z",
+      "content": "New research suggests the Sun may have swallowed a rocky planet early in its history, leaving a detectable mark buried inside our star.\r\n\"A planet several times more massive than Earth may have falle… [+1268 chars]"
     },
     {
       "source": {
@@ -207,15 +298,28 @@
     {
       "source": {
         "id": null,
-        "name": "KABC-TV"
+        "name": "Phys.Org"
       },
-      "author": "Irene Cruz, Rob Hayes",
-      "title": "Space Shuttle Endeavour new LA home opens at California Science Center in Exposition Park - ABC7 Los Angeles",
-      "description": "The California Science Center opened its Samuel Oschin Air and Space Center to the public, featuring space shuttle Endeavour.",
-      "url": "https://abc7.com/post/space-shuttle-endeavour-new-la-home-opens-california-science-center-exposition-park/20038657/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/20038634_111326-kabc-6am-shuttle-space-center-opens-vid.jpg?w=1600",
-      "publishedAt": "2026-11-13T21:36:57Z",
-      "content": "EXPOSITION PARK, LOS ANGELES (KABC) -- The California Science Center opened its Samuel Oschin Air and Space Center to the public Friday, featuring space shuttle Endeavour displayed in a nearly 200-fo… [+3311 chars]"
+      "author": null,
+      "title": "'Planimal' cells retain nearly entire algal genome after experimental cell fusion - Phys.org",
+      "description": "Most DNA in an organism is inherited from its parent or parents. This form of genetic inheritance is referred to as vertical inheritance because genes are passed down from generation to generation.",
+      "url": "https://phys.org/news/2026-11-planimal-cells-retain-entire-algal.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/fusion-of-a-unicellula.jpg",
+      "publishedAt": "2026-11-13T22:20:01Z",
+      "content": "Most DNA in an organism is inherited from its parent or parents. This form of genetic inheritance is referred to as vertical inheritance because genes are passed down from generation to generation.\r\n… [+6784 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thedodo.com"
+      },
+      "author": "Caitlin Jill Anders",
+      "title": "Vulture With Broken Wing Falls In Love With Stuffed Birds While Healing At Sanctuary - The Dodo",
+      "description": "They're his best friends.",
+      "url": "https://www.thedodo.com/daily-dodo/vulture-with-broken-wing-falls-in-love-with-stuffed-birds-while-healing-at-sanctuary",
+      "urlToImage": "https://assets3.thrillist.com/v1/image/3210883/1200x675/crop;;webp=auto;jpeg_quality=85.jpg",
+      "publishedAt": "2026-11-13T21:14:19Z",
+      "content": "When a homeowner spotted a vulture sitting on the ground on her property, she had a feeling he needed help. She contacted Pocono Wildlife Rehabilitation and Education Center, and Janine Tancredi, dir… [+2101 chars]"
     },
     {
       "source": {
@@ -298,6 +402,19 @@
     {
       "source": {
         "id": null,
+        "name": "Space.com"
+      },
+      "author": "Robert Lea",
+      "title": "Astronomers trace mystery radio signals back to cosmic odd couple of white dwarf and sun-like star - Space",
+      "description": "\"It’s amazing that by using radio wavelengths, we can detect the storms on a star over 5,000 light-years away.\"",
+      "url": "https://www.space.com/astronomy/stars/astronomers-trace-mystery-radio-signals-back-to-cosmic-odd-couple-of-white-dwarf-and-sun-like-star",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Y68XwipN9qoyj2ynq2orbd-2000-80.png",
+      "publishedAt": "2026-11-13T17:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Phys.Org"
       },
       "author": null,
@@ -320,6 +437,19 @@
       "urlToImage": "https://cms.interestingengineering.com/wp-content/uploads/2025/12/Interesting-Enginnering.jpg",
       "publishedAt": "2026-11-13T16:13:00Z",
       "content": "Stay updated with daily science news articles from Interesting Engineering. Find the most recent news on scientific discoveries, inventions, and developments."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Mike Wall",
+      "title": "Powerful Vulcan Centaur rocket launching for 1st time in 9 months today: Watch it live - Space",
+      "description": "Liftoff is scheduled for 12:11 p.m. ET on Sunday (Nov. 15).",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/vhvNRBhtiDYC4TYL6m5zpf-2000-80.jpg",
+      "publishedAt": "2026-11-13T15:18:24Z",
+      "content": null
     },
     {
       "source": {
@@ -389,19 +519,6 @@
     {
       "source": {
         "id": null,
-        "name": "The Japan Times"
-      },
-      "author": "The Japan Times",
-      "title": "Japan team creates ‘planimal’ hybrid plant-animal cells in world first - The Japan Times",
-      "description": "Cells that produce useful animal and plant proteins and can be cultured using photosynthesis could offer new methods of producing drugs and meat.",
-      "url": "https://www.japantimes.co.jp/news/2026/11/13/japan/science-health/plant-animal-cells/",
-      "urlToImage": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/573952.jpg?v=3.1",
-      "publishedAt": "2026-11-13T09:08:00Z",
-      "content": "A Japanese team said that it has become the first in the world to create hybrid plant-animal cells, dubbed planimal cells, by fusing a unicellular alga called Cyanidioschyzon merolae into cultured an… [+1847 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Phys.Org"
       },
       "author": null,
@@ -428,19 +545,6 @@
     {
       "source": {
         "id": null,
-        "name": "Sci.news"
-      },
-      "author": "Enrico de Lazaro",
-      "title": "Neanderthals Walked with Flatter, More Flexible Feet, Researchers Say - Sci.News",
-      "description": "A new analysis of Neanderthal fossils suggests that their feet worked differently from ours, shaped by heavy bodies, long days on uneven ground and, possibly, a distinct inheritance from earlier human relatives.",
-      "url": "https://www.sci.news/othersciences/anthropology/neanderthal-feet-15196.html",
-      "urlToImage": "https://cdn.sci.news/images/2023/10/image_12349f-Neanderthal.jpg",
-      "publishedAt": "2026-11-12T22:01:39Z",
-      "content": "A new analysis of Neanderthal fossils suggests that their feet worked differently from ours, shaped by heavy bodies, long days on uneven ground and, possibly, a distinct inheritance from earlier huma… [+3304 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Phys.Org"
       },
       "author": null,
@@ -454,19 +558,6 @@
     {
       "source": {
         "id": null,
-        "name": "Space.com"
-      },
-      "author": "Keith Cooper",
-      "title": "This supernova impostor baffled astronomers for 15 years — until they found a hidden black hole feeding on an unstable star - Space",
-      "description": "This supernova imposter erupts every 113 days as the compact object gets close to the unstable massive star.",
-      "url": "https://www.space.com/astronomy/black-holes/this-supernova-impostor-baffled-astronomers-for-15-years-until-they-found-a-hidden-black-hole-feeding-on-an-unstable-star",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/XhVSpaadCYj8cYmJK5faFo-2000-80.png",
-      "publishedAt": "2026-11-12T21:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Popular Mechanics"
       },
       "author": "Michael Natale",
@@ -476,19 +567,6 @@
       "urlToImage": "https://s.yimg.com/lo/mysterio/api/0641797fd4394d6108101666e0403d836f4c4849924ac6acee3cd0c50c8c2887/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpopular_mechanics_642%2F9b7e1a0196986d4fead07a29a2faf090.jpg",
       "publishedAt": "2026-11-12T20:54:30Z",
       "content": "Several years ago, I travelled to North Carolina as part of a research trip for a story about the famous Lost Colony of Roanoke. Trying to leave no stone unturned, I explored the former colony's dedi… [+7208 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Gayoung Lee",
-      "title": "Rare Star System Emits Radio Signals Every 8 Minutes - Gizmodo",
-      "description": "It’s the first observation of its kind.",
-      "url": "https://gizmodo.com/a-mysterious-radio-signal-repeats-every-8-minutes-astronomers-finally-know-whats-behind-it-2000839123",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/11/long-period-transit-white-dwarf-1200x675.jpg",
-      "publishedAt": "2026-11-12T20:50:52Z",
-      "content": "As astronomers survey the universe, they often encounter signals without a clear source. Although they usually find the source, some answers are weirder than otherstake, for example, the mysterious p… [+2903 chars]"
     },
     {
       "source": {
@@ -583,19 +661,6 @@
     },
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "John Timmer",
-      "title": "The amazing disappearing exoplanet - Ars Technica",
-      "description": "An exoplanet seems to have stopped transiting in front of its host star.",
-      "url": "https://arstechnica.com/science/2026/11/the-amazing-disappearing-exoplanet/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-1149x648.jpeg",
-      "publishedAt": "2026-11-12T17:18:10Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": null,
         "name": "Geekspin.co"
       },
@@ -632,32 +697,6 @@
       "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/asteroid-approaching-earth.jpg",
       "publishedAt": "2026-11-12T16:13:44Z",
       "content": "A mysterious object speeding through the solar system is accelerating in a way gravity alone cannot explain, fueling a theory that it could be a Soviet spacecraft lost nearly four decades ago.\r\nKnown… [+4630 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Quanta Magazine"
-      },
-      "author": null,
-      "title": "The Evolving Story of How Chemistry Became Biology - Quanta Magazine",
-      "description": "After decades of bickering about which molecules came first, a new generation of scientists is rethinking what life was, is, and could be.",
-      "url": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
-      "urlToImage": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Origin-of-Life-cr.Mark-Belan-Social.jpg",
-      "publishedAt": "2026-11-12T15:50:14Z",
-      "content": "Her team reported, in a series of recent studies, that a reduced alphabet of just 10 amino acids could support the kinds of protein structures that were likely found early in lifes development, the m… [+8611 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "Sea pigs from the abyss host unusual bacteria - Phys.org",
-      "description": "In the deep ocean, translucent sea pigs trundle across the seafloor. Researchers at the University of Tokyo have discovered an unusual bacterium beneath the sea pig's \"skin.\" Through fluorescent imaging, they determined the location of the bacterium, which th…",
-      "url": "https://phys.org/news/2026-11-sea-pigs-abyss-host-unusual.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/sea-pigs-from-the-abys-1.jpg",
-      "publishedAt": "2026-11-12T15:20:01Z",
-      "content": "In the deep ocean, translucent sea pigs trundle across the seafloor. Researchers at the University of Tokyo have discovered an unusual bacterium beneath the sea pig's \"skin.\" Through fluorescent imag… [+5893 chars]"
     },
     {
       "source": {
@@ -753,15 +792,15 @@
     {
       "source": {
         "id": null,
-        "name": "Phys.Org"
+        "name": "BBC News"
       },
-      "author": null,
-      "title": "Europe's Hera spacecraft begins close inspections of an asteroid rammed by NASA in a 2022 test - Phys.org",
-      "description": "A European spacecraft has begun close inspections of an asteroid rammed by NASA four years ago in a planetary defense test.",
-      "url": "https://phys.org/news/2026-11-europe-hera-spacecraft-asteroid-rammed.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/asteroid-strike.jpg",
-      "publishedAt": "2026-11-12T09:07:30Z",
-      "content": "A European spacecraft has begun close inspections of an asteroid rammed by NASA four years ago in a planetary defense test.\r\nThe European Space Agency announced Wednesday that the Hera spacecraft is … [+1859 chars]"
+      "author": "Jonathan O'Callaghan",
+      "title": "Ice-covered oceans and bleak craters: Where alien life might be hiding - BBC",
+      "description": "If life exists elsewhere, it might not be on worlds like Earth. Here are some of the more peculiar places scientists are looking.",
+      "url": "https://www.bbc.com/future/article/20261111-ice-covered-oceans-and-bleak-craters-where-alien-life-might-be-heading",
+      "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0pmgsf3.jpg",
+      "publishedAt": "2026-11-12T10:00:00Z",
+      "content": "Here, Verve would probe the atmosphere of Venus for signs of phosphine, and life. It would have \"a receiver specifically tuned to the wavelengths we are interested in\", says Clements, phosphine being… [+140 chars]"
     },
     {
       "source": {
@@ -808,12 +847,12 @@
         "name": "Live Science"
       },
       "author": "Stephanie Pappas",
-      "title": "The Grand Canyon is missing over a billion years of rocks. Now scientists know why. - Live Science",
+      "title": "The Grand Canyon is missing over a billion years of rocks. Now scientists know why. - Yahoo",
       "description": "The missing 1.2 billion years of geological history at the Grand Canyon finally has an explanation.",
       "url": "https://www.livescience.com/planet-earth/geology/the-grand-canyon-is-missing-over-a-billion-years-of-rocks-now-scientists-know-why",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/HNLR45efqbypeZkyEQHsDb-2000-80.jpg",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/e10bd3ec113d3bdde24e4ce03ea1fb5594d8104e092ae135226e2cedf6900f12/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flive_science_953%2F3f49234f89dcce17fa75e4947761a0fc.jpg",
       "publishedAt": "2026-11-11T20:53:42Z",
-      "content": null
+      "content": "When you buy through links on our articles, Future and its syndication partners may earn a commission.\r\nThe Great Unconformity, a 1.2-billion-year period missing from the geological record, is not on… [+6390 chars]"
     },
     {
       "source": {
@@ -870,15 +909,28 @@
     {
       "source": {
         "id": null,
-        "name": "Popular Mechanics"
+        "name": "Live Science"
       },
-      "author": "Darren Orf",
-      "title": "Scientists Have Hunted Dark Energy for Decades. They May Be Chasing a Cosmic Ghost. - Yahoo",
-      "description": "A new study finds a mathematical solution for the universe’s expansion within the original work of Albert Einstein.",
-      "url": "https://www.popularmechanics.com/science/a74381037/dark-energy-ghost-einstein/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/6e70e65ce97e010628e9398dda3c86e5e347e551c5906b8d675a14191675b644/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpopular_mechanics_642%2F759de22de60ada8209be9309a20a7168.jpg",
-      "publishedAt": "2026-11-11T14:00:00Z",
-      "content": "In 1916, Albert Einstein published his foundational paper on the General Theory of Relativity in the German-language science journal Annalen der Physik. Now, 110 years later, scientists are still deb… [+4178 chars]"
+      "author": "Harry Baker",
+      "title": "'The possibilities are truly breathtaking': NASA's Roman Space Telescope will take better images and last longer than experts predicted - Live Science",
+      "description": "NASA's Nancy Grace Roman Space Telescope could capture images 30% sharper than — and remain operational for twice as long as — initially expected. Researchers say these \"remarkable\" developments could greatly enhance the volume and quality of the data they wi…",
+      "url": "https://www.livescience.com/space/space-exploration/the-possibilities-are-truly-breathtaking-nasas-roman-space-telescope-will-take-better-images-and-last-longer-than-experts-predicted",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/M5dBbXDSxbQxkEMi9HpV6Z-2400-80.jpg",
+      "publishedAt": "2026-11-11T15:24:44Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Quanta Magazine"
+      },
+      "author": null,
+      "title": "What Is The Metabolism-First Theory for the Origin of Life? - Quanta Magazine",
+      "description": "Energetic pathways that make and break complex molecules are critical to all life. It’s even possible that these self-sustaining cycles could have been key at life’s beginning.",
+      "url": "https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/",
+      "urlToImage": "https://www.quantamagazine.org/wp-content/uploads/2026/11/Metabolism-First-cr.Mark-Belan-Social.jpg",
+      "publishedAt": "2026-11-11T15:13:28Z",
+      "content": "For well over 4 billion years, the fire of metabolism has powered the engines of life. The ability of cells to gather, transform, and harness chemical energy from their surroundings is the central fo… [+5868 chars]"
     },
     {
       "source": {
