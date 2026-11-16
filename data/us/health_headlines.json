@@ -6,9 +6,35 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-16T03:19:10.226340+00:00",
+  "fetched_at": "2026-11-16T12:06:45.394288+00:00",
   "articles_count": 79,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Michael Barbaro, Nina Agrawal, Alex Stern, Chris Benderev, Eric Krupke, Carlos Prieto, Marion Lozano, Rowan Niemisto, Dan Powell and Alyssa Moxley",
+      "title": "Finally, a Vaccine for Cancer",
+      "description": "An experimental vaccine has been found to prevent recurrence of melanoma. Scientists hope it won’t be the last.",
+      "url": "https://www.nytimes.com/2026/11/16/podcasts/the-daily/vaccine-cancer-melanoma.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/16/multimedia/16daily-cancer-vaccines-qwgh/16daily-cancer-vaccines-qwgh-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-16T11:00:08Z",
+      "content": "An experimental vaccine has been found to prevent recurrence of melanoma. Scientists hope it won’t be the last."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Sheri Fink",
+      "title": "American Global Health Aid Isn’t Dead. It’s Changing.",
+      "description": "The Trump administration promised to make aid programs more “America First.” Some countries are balking.",
+      "url": "https://www.nytimes.com/2026/11/16/world/american-global-health-aid-isnt-dead-its-changing.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/11/multimedia/00inv-ideas-globalhealth-01-gvhm/00inv-ideas-globalhealth-01-gvhm-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-16T10:00:31Z",
+      "content": "The Trump administration promised to make aid programs more “America First.” Some countries are balking."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -37,29 +63,120 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "NPR"
+        "id": "the-washington-post",
+        "name": "The Washington Post"
       },
-      "author": "Amy Maxmen",
-      "title": "US has lost measles elimination status, global health authorities say - NPR",
-      "description": "The U.S. has lost its status as a country where measles is eliminated, according to researchers with direct knowledge of the deliberations at the Pan American Health Organization.",
-      "url": "https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2873x1616+0+104/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F17%2F49%2F1f36704d408faf669fa00f372d61%2Fmeasles-02.jpg",
-      "publishedAt": "2026-11-14T22:15:02Z",
-      "content": "The U.S. has lost its status as a country where measles is eliminated, a public health triumph secured a quarter century ago.\r\nResearchers with direct knowledge of the deliberations on the country's … [+13255 chars]"
+      "author": "Audrey Bruno",
+      "title": "Eggs vs. oatmeal: Which breakfast is better for you? - The Washington Post",
+      "description": "Eggs and oatmeal both get a thumbs-up from dietitians, but they bring different health benefits to the table. Here’s how to get the most out of either choice.",
+      "url": "https://www.washingtonpost.com/wellness/2026/11/15/eggs-vs-oatmeal-which-breakfast-is-better-you/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E22UJP3MO377A3VJHCSIYB3UU4_size-normalized.jpg&w=1440",
+      "publishedAt": "2026-11-15T12:32:29Z",
+      "content": "With breakfasts long-standing reputation as the most important meal of the day, it can feel like theres a lot of pressure to get it right. Ask nutrition experts what to eat in the morning, and youll … [+93 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Isabella O'Connor",
+      "title": "Women with autoimmune diseases often misdiagnosed for 4 years or more - NBC News",
+      "description": "Women with autoimmune diseases such as lupus or rheumatoid arthritis are more likely to be misdiagnosed or get delayed treatment compared with men, with their symptoms often dismissed as “psychological.”",
+      "url": "https://www.nbcnews.com/health/womens-health/autoimmune-diseases-women-lupus-arthritis-misdiagnosed-study-rcna609176",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261113-arthritis-sjr-1148-4870ce.jpg",
+      "publishedAt": "2026-11-15T12:00:00Z",
+      "content": "Women with autoimmune diseases such as lupus or rheumatoid arthritis are more likely to be misdiagnosed or get delayed treatment compared with men, with their symptoms often dismissed as psychologica… [+3091 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Shannon Osaka",
+      "title": "The growing link between microplastics and one of the deadliest cancers - The Washington Post",
+      "description": "A study points to how particles from Styrofoam cups and take-out containers can make people more vulnerable to colon cancer.",
+      "url": "https://www.washingtonpost.com/climate-environment/2026/11/15/new-evidence-links-microplastics-colon-cancer/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RNNGFDABSYW2KMNQTF3KYS6QOQ_size-normalized.jpg&w=1440",
+      "publishedAt": "2026-11-15T10:04:46Z",
+      "content": "For the past couple of decades, doctors and researchers have monitored rising colon cancer rates among young people with concern. In the United States, colorectal cancer rates increased by 3 percent … [+154 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": null,
+      "title": "Ebola outbreak remains out of control in Congo 6 months into response - AP News",
+      "description": "Congo’s Ebola outbreak remains out of control six months after it was announced, with more than 11,000 cases recorded and nearly half proving fatal. Gaps in contact tracing and isolation have hampered containment, raising doubts about authorities’ ability to …",
+      "url": "https://apnews.com/article/congo-ebola-six-months-0bbf5ac7d0d5262a146f68f8143ffe7b",
+      "urlToImage": "https://dims.apnews.com/dims4/default/ee8bb95/2147483647/strip/true/crop/6000x4000+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4c%2F17%2F4104274d12c79d4d074e9946adff%2F83def5aae5c34bbfacd78818ac049a26",
+      "publishedAt": "2026-11-15T07:23:38Z",
+      "content": "BUNIA, Congo (AP) Six months after an Ebola outbreak was declared in Congo, the disease remains out of control and efforts to contain it are faltering.\r\nMore than 11,000 cases have been recorded, and… [+3701 chars]"
+    },
+    {
+      "source": {
+        "id": "buzzfeed",
+        "name": "Buzzfeed"
+      },
+      "author": "Hannah Loewentheil",
+      "title": "Veteran Doctors Are Exposing How Medicine Has Changed Since The 90s - Yahoo",
+      "description": "\"Keep in mind that up until the 1980s, doctors actually believed that.\"",
+      "url": "https://www.buzzfeed.com/hannahloewentheil/extinct-medical-practices?origin=bf-yahoo",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/d26cbd3476b94bfddfbb701b07a3fc8c6dd097dbcb6c6600f6781f24f4e15a64/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbuzzfeed_articles_778%2F94f6670583dbe9057615e00b86f3925a.jpg",
+      "publishedAt": "2026-11-15T04:16:00Z",
+      "content": "Every professional field is constantly changing, and medicine is no exception. Redditor breakport asked, \"Doctors who've practiced 30+ years, what was standard when you started that horrifies you now… [+6516 chars]"
+    },
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": null,
+      "title": "Zimbabwe’s HIV gains face a test among young people - Al Jazeera",
+      "description": "New prevention tools offer hope, but reaching young people remains a challenge.",
+      "url": "https://www.aljazeera.com/news/2026/11/15/zimbabwes-hiv-gains-face-a-test-among-young-people",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/A-patient-receives-ARVs-pills-at-a-clinic-in-Harare-Zimbabwe-credit-Deogracious-Kalima-1794649654.jpg?resize=1200%2C675",
+      "publishedAt": "2026-11-15T04:15:18Z",
+      "content": "Harare, Zimbabwe When Shaun Moyo started nursing at Parirenyatwa Hospital in Harare in the late 1990s, the effects of the HIV epidemic were visible in the hospital wards and beyond them. Patients fil… [+8561 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Martha Stewart"
+      },
+      "author": "https://www.facebook.com/marthastewart/",
+      "title": "The Worst Time to Eat Dinner and Why, According to Dietitians - Martha Stewart",
+      "description": "What is the worst time to eat dinner and why? Nutrition experts explain how eating close to bed impacts blood sugar, acid reflux, and sleep. They share the optimum time for eating at night and what to eat if you must dine later.",
+      "url": "https://www.marthastewart.com/worst-time-to-eat-dinner-12245359",
+      "urlToImage": "https://www.marthastewart.com/thmb/cOIjMdtR3tEp8K1HRCklbbVDaAY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ms-family-dinner-c60245093c3d4f04be9b780c92a21cfc.jpg",
+      "publishedAt": "2026-11-14T22:00:00Z",
+      "content": "Were always told to eat dinner earlyor at least at a practical time. This approach supports optimal digestion, along with overall health. And yet, many of us find ourselves eating dinner much later, … [+7492 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PBS"
+      },
+      "author": null,
+      "title": "The U.S. flu season is off to a very early start. It's hitting the South and West now - PBS",
+      "description": "The Centers for Disease Control and Prevention on Friday posted its latest update, reporting that seven states were reporting high flu activity last week, up from two states the week before.",
+      "url": "https://www.pbs.org/newshour/health/the-u-s-flu-season-is-off-to-a-very-early-start-its-hitting-the-south-and-west-now",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-09-23T023423Z_1699652224_RC2IONAPKSDB_RTRMADP_3_HEALTH-VACCINES-1024x683.jpg",
+      "publishedAt": "2026-11-14T21:02:19Z",
+      "content": "NEW YORK (AP) The U.S. flu season is off to a very early start, and it's quickly intensifying.\r\nThe Centers for Disease Control and Prevention on Friday posted its latest update, reporting that seven… [+3836 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "KSN-TV"
       },
-      "author": "KSN.com",
+      "author": "Aniyah Robinson",
       "title": "Rabies clinic planned after cat tests positive in south-central Kansas - KSN.com",
-      "description": null,
+      "description": "The Benton Police Department announced Friday night that it has confirmed a case of rabies in a cat.",
       "url": "https://www.ksn.com/news/state-regional/rabies-clinic-planned-after-cat-tests-positive-in-south-central-kansas/",
-      "urlToImage": null,
+      "urlToImage": "https://www.ksn.com/wp-content/uploads/sites/13/2026/11/Aniyah-Featured-Image-19.png?w=1280",
       "publishedAt": "2026-11-14T21:02:01Z",
-      "content": null
+      "content": "WICHITA, Kan. (KSNW) The Benton Police Department announced Friday night that it has confirmed a case of rabies in a cat.\r\nThe case was confirmed through testing at K-State Animal Hospital in Manhatt… [+1341 chars]"
     },
     {
       "source": {
@@ -77,15 +194,15 @@
     {
       "source": {
         "id": null,
-        "name": "HuffPost"
+        "name": "New York Post"
       },
-      "author": null,
-      "title": "Years After Our Divorce, I Helped My Ex-Husband Die. Here's What I Learned About Love. - HuffPost",
-      "description": "\"I found that the things fractured by our separation and divorce began to heal.\"",
-      "url": "https://www.huffpost.com/entry/divorce-end-life-caretaker-parkinsons-disease-lewy-body-dementia_n_6af8a9c5e4b0e2644ec83149",
-      "urlToImage": "https://img.huffingtonpost.com/asset/64fb324a260000350050f1be.png?cache=TMe4DQxX5C&ops=500_281%2Cscalefit_1200_630",
-      "publishedAt": "2026-11-14T18:50:01Z",
-      "content": "Lee with one of his grandsons in 2021.\r\nLee died in February. We celebrated his life the Saturday before Fathers Day. I should have been grieving. Instead, I was taking delivery of flowers and prepar… [+10801 chars]"
+      "author": "Allie Yang",
+      "title": "The easy three-times-a-day habit to cut infection risk by 36% — but there’s a catch - New York Post",
+      "description": "Want to dodge the common cold, flu, RSV, and more? A habit common in Japan could help.",
+      "url": "https://nypost.com/2026/11/14/health/could-easy-daily-habit-slash-risk-of-respiratory-infection-by-36/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/crop-41867923_789cf2.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-11-14T19:22:00Z",
+      "content": "Want to dodge the common cold, flu, RSV, and more? A habit common in Japan could help.\r\nIn fact, folks have been doing it multiple times a day for centuries to prevent colds at school, at home, and a… [+3343 chars]"
     },
     {
       "source": {
@@ -115,19 +232,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Martha Stewart"
-      },
-      "author": "https://www.facebook.com/marthastewart/",
-      "title": "Is Sprouted Bread Healthier Than Sourdough? Here’s What Dietitians Say - Martha Stewart",
-      "description": "Sprouted bread vs. sourdough: which is healthier? Dietitians explain the differences between these two popular breads and which is the best choice. They also share what to look for when buying sourdough or sprouted bread.",
-      "url": "https://www.marthastewart.com/is-sprouted-bread-healthier-than-sourdough-12239977",
-      "urlToImage": "https://www.marthastewart.com/thmb/fC_Tn-3t2gNkEK8R_X-WsT1xZEU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2188248456-5cb4dec4fed24897acd920b874b77863.jpg",
-      "publishedAt": "2026-11-14T18:00:00Z",
-      "content": "White, whole-wheat, whole-grain, sourdough, sprouted, gluten-free ... the bread aisle can be overwhelming. But despite the ubiquity of these buzzwords, not all loaves are created equal. We asked diet… [+6742 chars]"
-    },
-    {
-      "source": {
         "id": "fox-news",
         "name": "Fox News"
       },
@@ -151,19 +255,6 @@
       "urlToImage": "https://static01.nyt.com/images/2024/08/14/multimedia/14SCI-BCI-SING-02/14als-promo-fwcb-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-14T17:00:09Z",
       "content": "In one demonstration, a former singer sang a musical scale. Afterward she cried tears of joy."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Health.com"
-      },
-      "author": "https://www.facebook.com/Health/",
-      "title": "The Best Time To Eat Dates for Energy and Digestion - Health.com",
-      "description": "Dates are always a healthy choice, but experts say they work especially well for these specific situations.",
-      "url": "https://www.health.com/best-time-to-eat-dates-for-energy-and-digestion-12188955",
-      "urlToImage": "https://www.health.com/thmb/wxLMp0AIRpmCU0WiqzVikSsSabA=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-GettyImages-2193204817-82f9e0aa444144a283ded69727d3716a.jpg",
-      "publishedAt": "2026-11-14T17:00:00Z",
-      "content": "Looking for the best time to eat dates for energy or digestion? These naturally sweet fruits provide carbohydrates for fuel and fiber to support regular bowel movements, both of which can help you fe… [+3277 chars]"
     },
     {
       "source": {
@@ -220,19 +311,6 @@
     {
       "source": {
         "id": null,
-        "name": "Futurism"
-      },
-      "author": "Frank Landymore",
-      "title": "In Bizarre Experiment, Scientists Put Subjects in Dark Room With a Large Mirror and Instructed Them to Think of the Dead - Futurism",
-      "description": "Scientists had participants sit in a dark roomed called a psychomanteum, where they stared at an upturned mirror for nearly an hour.",
-      "url": "https://futurism.com/health-medicine/scientists-participants-dark-room-mirror",
-      "urlToImage": "https://futurism.com/wp-content/uploads/2026/11/experiment-dark-room-mirror-summon.jpg?quality=85&w=1200",
-      "publishedAt": "2026-11-14T14:02:00Z",
-      "content": "Can’t-miss innovations from the bleeding edge of science and tech\r\nHow do rituals for communing with the dead affect the mind? And conversely, how does the way your brain is wired affect the percepti… [+2940 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Tampa Bay Times"
       },
       "author": "Michaela Mulligan",
@@ -242,19 +320,6 @@
       "urlToImage": "https://www.tampabay.com/resizer/v2/AIVBHITVTD3XUWPGKQYD6ZKYVY.jpg?auth=e22e14aae440884de9e1bc6e9ae4678bf869c5fad1a0ab058e5dcd9745605445&height=675&width=1200&smart=true",
       "publishedAt": "2026-11-14T13:48:59Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Health.com"
-      },
-      "author": "https://www.facebook.com/Health/",
-      "title": "5 Fall Fruits That Can Help You Poop More Regularly - Health.com",
-      "description": "Certain foods, like fruits, are rich in fiber and other nutrients that support digestive health and promote regular, comfortable bowel movements.",
-      "url": "https://www.health.com/fall-fruits-to-help-you-poop-12189764",
-      "urlToImage": "https://www.health.com/thmb/bWs3SSCVom-8TNBaHrJEvEO6hTM=/1932x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-GettyImages-FallFruits-1a86d84ce0884e71acc509ffba526fc9.jpg",
-      "publishedAt": "2026-11-14T13:30:00Z",
-      "content": "When youre feeling backed up, even a little relief can make a big difference in your day. What you eat may help, and adding more fruit is a simple place to start.\r\nFall favorites like apples and pear… [+4439 chars]"
     },
     {
       "source": {
@@ -272,15 +337,28 @@
     {
       "source": {
         "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms - Science Daily",
+      "description": "Stanford researchers have discovered that hidden patterns of brain activity can predict Alzheimer’s risk years before memory problems appear, potentially offering an earlier warning than traditional biomarkers. The same patterns also reveal which brains are u…",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112230444.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/neuroscience-brain-connections-signal-processing.webp",
+      "publishedAt": "2026-11-14T12:50:46Z",
+      "content": "Subtle patterns of brain activity may reveal the risk of Alzheimer's disease years before memory problems develop or harmful proteins begin accumulating in the brain, according to new research led by… [+11573 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Inc."
       },
-      "author": "Inc.com",
+      "author": "Liyana Illyas",
       "title": "The Largest Alzheimer's Genetics Study Yet Found 48 New Links. The Most Promising Clue Isn't About Memory - Inc.com",
-      "description": null,
+      "description": "Researchers say the data could offer scientists new targets for developing key treatments.",
       "url": "https://www.inc.com/liyana-illyas/largest-alzheimers-genetics-study-found-48-new-links-most-promising-clue/91434900",
-      "urlToImage": null,
+      "urlToImage": "https://img-cdn.inc.com/image/upload/f_webp,q_auto,c_fit/vip/2026/11/GettyImages-2303669189.jpg",
       "publishedAt": "2026-11-14T12:41:32Z",
-      "content": null
+      "content": "Scientists have identified dozens of previously unknown genetic links to Alzheimers disease, potentially opening new avenues for developing treatments for the memory-robbing condition.\r\nAn internatio… [+1653 chars]"
     },
     {
       "source": {
@@ -337,6 +415,19 @@
     {
       "source": {
         "id": null,
+        "name": "Financial Times"
+      },
+      "author": null,
+      "title": "Makers of obesity drugs hit back at claims of negative side effects - Financial Times",
+      "description": "Novo and Eli Lilly respond to concerns that their blockbuster GLP-1 medicines can lead to problems including poor nutrition",
+      "url": "https://www.ft.com/content/acca0ba8-913d-4a8a-8d3b-a5521ed1cfc2?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1463fdc6-7834-4854-ab90-d6cc3a5da1ce.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "publishedAt": "2026-11-14T11:00:09Z",
+      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Minneapolis Star Tribune"
       },
       "author": "Jeremy Olson",
@@ -346,32 +437,6 @@
       "urlToImage": "https://arc.stimg.co/startribunemedia/POOT3ECROJGKTBX2CBQ2ZTHGUE.jpg?&w=1200&ar=1.91:1&fit=crop",
       "publishedAt": "2026-11-14T11:00:00Z",
       "content": "LONG PRAIRIE, Minn. Talk to enough Amish residents in Todd County and youll hear a common refrain about the measles outbreak happening there.\r\nIts just measles. Might as well get it over with, said E… [+1367 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Thecoolist.com"
-      },
-      "author": "TheCoolist Team",
-      "title": "A veterinarian advises against a practice increasingly popular among cat owners - TheCoolist",
-      "description": "Your cat appears in the kitchen the moment you reach for her food bowl. One feeding choice has won over plenty of devoted cat owners, while veterinarians",
-      "url": "https://www.thecoolist.com/a-veterinarian-advises-against-a-practice-increasingly-popular-among-cat-owners-h2r4-q1/",
-      "urlToImage": "https://cdn.thecoolist.com/wp-content/uploads/2026/11/a-veterinarian-advises-against-a-practice-increasingly-popular-among-cat-owners.jpg",
-      "publishedAt": "2026-11-14T10:15:04Z",
-      "content": "Your cat appears in the kitchen the moment you reach for her food bowl. One feeding choice has won over plenty of devoted cat owners, while veterinarians are urging a closer look. Its a disagreement … [+3352 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Esra Öz",
-      "title": "Stanford Scientists Discover Resting Brain Activity May Predict Alzheimer's Years Before Memory Decline - ScienceAlert",
-      "description": "Two people can get the same score on a memory test today.",
-      "url": "https://www.sciencealert.com/stanford-scientists-discover-resting-brain-activity-may-predict-alzheimers-years-before-memory-decline",
-      "urlToImage": "https://www.sciencealert.com/images/2026/11/MRIscanner-1200x675.png",
-      "publishedAt": "2026-11-14T10:02:17Z",
-      "content": "Two people can get the same score on a memory test today. Years later, one may start missing appointments and struggling with everyday tasks while the other still manages both with ease. \r\nAn early c… [+4422 chars]"
     },
     {
       "source": {
@@ -415,19 +480,6 @@
     {
       "source": {
         "id": null,
-        "name": "The Boston Globe"
-      },
-      "author": null,
-      "title": "The US flu season is off to a very early start. It’s hitting the South and West now. - The Boston Globe",
-      "description": "Flu season “is taking off and it’s taking off in a direction that’s only likely to increase in the next month or two,” said Dr. Fred Lopez, an infectious diseases specialist at the LSU Health Sciences Center in New Orleans.",
-      "url": "https://www.bostonglobe.com/2026/11/14/nation/us-flu-season-off-to-early-start/",
-      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/Z25HSK4AITIJUDV7NFJTAAKAS4.jpg?auth=4d8173f6055c664faa5b09cd2c8bde799c5d339770bf8bcccaf90fd62465da6b&width=1440",
-      "publishedAt": "2026-11-14T06:04:10Z",
-      "content": "Louisiana is seeing the worst of it so far.\r\nFlu season is taking off and its taking off in a direction thats only likely to increase in the next month or two, said Dr. Fred Lopez, an infectious dise… [+3112 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "KSL.com"
       },
       "author": "Emily Ashcraft, KSL",
@@ -453,19 +505,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "WABC-TV"
-      },
-      "author": null,
-      "title": "NJ warns of potential measles exposures at Morris County Walgreens, LegionsCon - ABC7 New York",
-      "description": "The health department said potential exposures may have occurred at several locations in Morris County including a Walgreens and two hotels.",
-      "url": "https://abc7ny.com/post/nj-warns-potential-measles-exposures-morris-county-walgreens-legionscon/20038153/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/20009796_110226-measles-ap-img.jpg?w=1600",
-      "publishedAt": "2026-11-14T00:33:00Z",
-      "content": "NEW JERSEY (WABC) -- The New Jersey Department of Health is alerting residents about potential measles exposures linked to a newly identified case in a non-New Jersey resident who visited multiple lo… [+3792 chars]"
-    },
-    {
-      "source": {
         "id": "the-times-of-india",
         "name": "The Times of India"
       },
@@ -488,7 +527,7 @@
       "url": "https://www.foxnews.com/health/severe-allergic-reaction-sipping-energy-drink-traced-unexpected-source",
       "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/teen-boy-energy-drink.jpg",
       "publishedAt": "2026-11-13T21:38:56Z",
-      "content": "Anaphylaxis a severe, potentially life-threatening allergic reaction is usually tied to peanuts or shellfish, but a recent case has brought up a new concern.\r\nAccording to a report by the American Co… [+4553 chars]"
+      "content": "Anaphylaxis, a severe, potentially life-threatening allergic reaction, is usually linked to peanuts or shellfish, but a recent case has brought up a new concern.\r\nAccording to a report by the America… [+4547 chars]"
     },
     {
       "source": {
@@ -521,13 +560,13 @@
         "id": "fox-news",
         "name": "Fox News"
       },
-      "author": "Khloe Quill",
-      "title": "Widely used diabetes drug may offer unexpected health benefit - AOL.com",
+      "author": null,
+      "title": "Widely used diabetes drug may offer unexpected health benefit - Fox News",
       "description": "A Stanford study found Type 2 diabetes patients on metformin had a 39% lower risk of dying in the year after a COVID-19 infection than others.",
       "url": "https://www.foxnews.com/health/widely-used-diabetes-drug-may-offer-unexpected-health-benefit",
-      "urlToImage": "https://hermes.media.static.aol.com/media/2026/11/13/f15e668d-d134-3d41-982b-a970c4985701/a0cf0103-5e04-40e8-a897-3ae2f5f62338.jpg",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/woman-holding-prescription-bottle.jpg",
       "publishedAt": "2026-11-13T19:19:36Z",
-      "content": "For decades, doctors have relied on metformin to help people with type 2 diabetes manage their blood sugar. Now, new research suggests the widely prescribed drug may offer benefits beyond blood sugar… [+4220 chars]"
+      "content": "For decades, doctors have relied on metformin to help people with type 2 diabetes manage their blood sugar. Now, new research suggests the widely prescribed drug may offer benefits beyond blood sugar… [+4267 chars]"
     },
     {
       "source": {
@@ -584,6 +623,19 @@
     {
       "source": {
         "id": null,
+        "name": "nj.com"
+      },
+      "author": "NJ.com",
+      "title": "Measles exposure may have occurred at 4 N.J. locations, including convention - NJ.com",
+      "description": null,
+      "url": "https://www.nj.com/news/2026/11/measles-exposure-may-have-occurred-at-3-nj-locations-including-convention.html",
+      "urlToImage": null,
+      "publishedAt": "2026-11-13T15:02:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Medical Xpress"
       },
       "author": null,
@@ -609,19 +661,6 @@
     },
     {
       "source": {
-        "id": "medical-news-today",
-        "name": "Medical News Today"
-      },
-      "author": "Peter Morales-Brown",
-      "title": "Two-drug therapy reduces heart artery plaque more than statins alone - Medical News Today",
-      "description": "Intensive cholesterol treatment by combining the two drugs rosuvastatin and ezetimibe reduced coronary plaque by up to 21%, more than statins alone, a new study has found.",
-      "url": "https://www.medicalnewstoday.com/articles/combining-two-cholesterol-drugs-may-shrink-artery-plaque-more-effectively-trial-finds",
-      "urlToImage": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2026/11/getty_2208159069_facebook_1200x630-1200x628.jpg",
-      "publishedAt": "2026-11-13T11:28:14Z",
-      "content": "<ul><li>A new study suggests that a combination therapy of rosuvastatin plus ezetimibe resulted in a greater reduction in coronary plaque volume than atorvastatin alone.</li><li>Combination therapy a… [+8922 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "DogTime"
       },
@@ -635,19 +674,6 @@
     },
     {
       "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Mishal Husain",
-      "title": "David Cameron on Living With Brexit and Ending Alzheimer’s - Bloomberg.com",
-      "description": "The former UK prime minister talks about the consequences of leaving the EU, his campaign to cure Alzheimer’s and whether he’d return to government.",
-      "url": "https://www.bloomberg.com/features/2026-david-cameron-weekend-interview/",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iohszFtb6i7g/v0/-1x-1.webp",
-      "publishedAt": "2026-11-13T06:00:00Z",
-      "content": "Illustration: Uli Knörzer for Bloomberg; Source photo: Jose Sarmento Matos/Bloomberg\r\nIllustration: Uli Knörzer for Bloomberg; Source photo: Jose Sarmento Matos/Bloomberg\r\nDavid Cameron started think… [+18227 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "ScienceAlert"
       },
@@ -658,19 +684,6 @@
       "urlToImage": "https://www.sciencealert.com/images/2026/11/dental-x-ray.jpg",
       "publishedAt": "2026-11-12T21:01:59Z",
       "content": "We still don't fully understand the causes of dementia, but scientists are making progress.\r\nMost encouragingly, research suggests that almost half of dementia cases could be reduced, at least tempor… [+6211 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Hospital sewers may be breeding grounds for dangerous superbugs, study finds - Fox News",
-      "description": "A Nature Communications study found hospital wastewater promotes antibiotic-resistant E. coli, with bacteria on sewer pipes three times as resistant.",
-      "url": "https://www.foxnews.com/health/hospital-sewers-breeding-grounds-dangerous-superbugs-study-finds",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/woman-in-hospital.jpg",
-      "publishedAt": "2026-11-12T19:43:03Z",
-      "content": "Hospital wastewater has been shown to promote the growth of antibiotic-resistant bacteria, potentially making sewer systems hotspots for antimicrobial resistance, according to a new Swedish study pub… [+5597 chars]"
     },
     {
       "source": {
@@ -739,19 +752,6 @@
     },
     {
       "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "David Cox",
-      "title": "For alpha-gal patients, allergy drug could cut the severity of reactions to red meat - NBC News",
-      "description": "There’s emerging evidence that the allergy drug omalizumab may reduce severe allergic reactions for alpha-gal syndrome, a red meat allergy triggered by a tick bite.",
-      "url": "https://www.nbcnews.com/health/health-news/alpha-gal-patients-allergy-drug-cut-severity-reactions-red-meat-rcna608856",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261111-lone-star-tick-ww-1201-4d5974.jpg",
-      "publishedAt": "2026-11-12T15:00:59Z",
-      "content": "Theres emerging evidence that the allergy drug omalizumab may reduce severe allergic reactions for alpha-gal syndrome, a red meat allergy triggered by a tick bite. \r\nIn a study presented Thursday at … [+7222 chars]"
-    },
-    {
-      "source": {
         "id": "fox-news",
         "name": "Fox News"
       },
@@ -762,19 +762,6 @@
       "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/woman-in-front-of-fridge.jpg",
       "publishedAt": "2026-11-12T13:00:40Z",
       "content": "While GLP-1 medications like Ozempic, Wegovy and Zepbound have reshaped weight management and diabetes control, research shows that many patients stop taking them within a year.\r\nResearch has found t… [+7854 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Medscape"
-      },
-      "author": "Richard Mark Kirkner",
-      "title": "Two Trials of Intensive BP Lowering, Two Different Outcomes - Medscape",
-      "description": "In twin trials in patients who had a stroke or live with diabetes, intensive systolic blood pressure lowering reduced cardiovascular events in the former but not the latter.",
-      "url": "https://www.medscape.com/viewarticle/two-trials-intensive-bp-lowering-find-different-outcomes-2026a10017gr",
-      "urlToImage": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/1/7/5/180ddc92-2fdb-4ad1-a0bd-be0973cf2571/gty_221213_doctor_patient_blood_pressure_800x450.jpg",
-      "publishedAt": "2026-11-12T12:48:00Z",
-      "content": "CHICAGO — Intensive antihypertensive therapy to target systolic blood pressure (BP) less than 120 mm Hg can lower the chance of strokes, heart attacks, or other major cardiovascular events in people … [+12487 chars]"
     },
     {
       "source": {
@@ -817,16 +804,29 @@
     },
     {
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
+        "id": "fox-news",
+        "name": "Fox News"
       },
-      "author": "Gretchen Reynolds",
-      "title": "Column | Powerful new weight-loss drug may also ease knee pain, major study finds - The Washington Post",
-      "description": "Not yet FDA approved, retatrutide has led to some of the greatest declines in body weight of any GLP-1 related drug in several large trials.",
-      "url": "https://www.washingtonpost.com/wellness/2026/11/11/powerful-new-weight-loss-drug-may-also-ease-knee-pain-major-study-finds/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/646TYNURCSNYORUEDINLCJKRRQ_size-normalized.jpg&w=1440",
-      "publishedAt": "2026-11-11T18:00:00Z",
-      "content": "The newest GLP-1 drug may change not only appetites, but also knees.\r\nThats the intriguing implication of the pooled results of two, large-scale, new trials of retatrutide, the most potent GLP-1-agon… [+22 chars]"
+      "author": null,
+      "title": "New weight-loss drug wipes out chronic knee pain in some patients, researchers say - Fox News",
+      "description": "Northwestern University-led trials found retatrutide helped two-thirds of obese knee osteoarthritis patients cut pain by half in late-stage studies.",
+      "url": "https://www.foxnews.com/health/weight-loss-drug-wipes-chronic-knee-pain-patients-researchers-say",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/mature-woman-knee-pain.jpg",
+      "publishedAt": "2026-11-11T21:10:40Z",
+      "content": "An experimental weight-loss drug significantly reduced chronic knee pain and improved mobility in people with obesity and knee osteoarthritis, according to two clinical trials led by researchers at N… [+4712 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": null,
+      "title": "New culprit in early Alzheimer’s: blood–brain barrier blocks protective proteins - Nature",
+      "description": "The brain relies on crucial proteins to maintain neurons. This system is disrupted in mice with neurological disease.",
+      "url": "https://www.nature.com/articles/d41586-026-03655-2",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03655-2/d41586-026-03655-2_53961936.jpg",
+      "publishedAt": "2026-11-11T18:43:08Z",
+      "content": "Researchers tagged dozens of proteins that can cross the blood-brain barrier and are important for brain health.Credit: K. H. Fung/SPL\r\nFor decades, scientists thought of the bloodbrain barrier as an… [+3044 chars]"
     },
     {
       "source": {
@@ -895,6 +895,19 @@
     },
     {
       "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Trisha Pasricha, MD",
+      "title": "Column | Your stroke risk is 72 percent higher during these 3 hours of the day - The Washington Post",
+      "description": "Heart attacks follow a similar pattern.",
+      "url": "https://www.washingtonpost.com/wellness/2026/11/09/your-stroke-risk-is-72-percent-higher-during-these-3-hours-day/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/M2X3BCIZVPFIK6MT7T74HPGOSY.jpg&w=1440",
+      "publishedAt": "2026-11-09T18:00:00Z",
+      "content": "The morning rush often feels like nothing short of a crisis. For our hearts and brains, its also the riskiest time of day.\r\nA meta-analysis of almost 12,000 adult stroke patients found that people we… [+249 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -960,6 +973,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Eatingwell.com"
+      },
+      "author": "https://www.facebook.com/EatingWell/",
+      "title": "Pancreatic Cancer Risk May Be Reduced by Eating This Food, According to Dietitians - EatingWell",
+      "description": "Pancreatic cancer risk may be lowered by eating cruciferous vegetables like broccoli and kale. Dietitians explain how these foods help reduce risk.",
+      "url": "https://www.eatingwell.com/food-linked-to-lower-pancreatic-cancer-risk-12236875",
+      "urlToImage": "https://www.eatingwell.com/thmb/xgCmusqC7SiUmQ2H64EPvqSl81w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Pancreatic-Cancer-Risk-May-Be-Reduced-by-Eating-This-Food-According-to-Dietitians-b949318b21b345fa9d9fa1005ad0b70a.jpg",
+      "publishedAt": "2026-11-08T13:00:00Z",
+      "content": "The pancreas is a pear-shaped organ located behind your stomach that makes both enzymes for digestion and hormones like insulin. This vital organ is also one that is susceptible to cancer. Each year,… [+4963 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1009,32 +1035,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/05/multimedia/05dc-bird-flu-cfvb/05dc-bird-flu-cfvb-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-06T00:26:37Z",
       "content": "The death follows reports of infections in cattle on dozens of American farms across the country over the past month and a worrying outbreak in mink."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Margot Sanger-Katz and Sarah Kliff",
-      "title": "Trump Administration Moves to Oust Arbitrators as Doctor Payouts Soar",
-      "description": "The two companies settled billing disputes between doctors and insurers, keeping patients out of the middle. One let doctors win 96 percent of the time.",
-      "url": "https://www.nytimes.com/2026/11/04/health/arbitrators-medical-bills.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/04/multimedia/04dc-arbitators-jwgf/04dc-arbitators-jwgf-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-05T20:34:26Z",
-      "content": "The two companies settled billing disputes between doctors and insurers, keeping patients out of the middle. One let doctors win 96 percent of the time."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Rebecca Robbins and Reed Abelson",
-      "title": "CVS to Split Off Drugstore Business, Ending Its Bigger-Is-Better Era",
-      "description": "In a breakup planned for 2028, CVS Health intends to keep together its insurance and pharmacy benefits divisions and create a separate company for its pharmacies.",
-      "url": "https://www.nytimes.com/2026/11/04/business/cvs-health-split.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/04/multimedia/04biz-cvs-breakup-zpcw/04biz-cvs-breakup-zpcw-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-04T21:20:03Z",
-      "content": "In a breakup planned for 2028, CVS Health intends to keep together its insurance and pharmacy benefits divisions and create a separate company for its pharmacies."
     }
   ]
 }

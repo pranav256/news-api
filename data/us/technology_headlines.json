@@ -6,9 +6,48 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-16T03:19:10.226340+00:00",
-  "articles_count": 100,
+  "fetched_at": "2026-11-16T12:06:45.394288+00:00",
+  "articles_count": 99,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "David Yaffe-Bellany",
+      "title": "How Sam Bankman-Fried Lost Out on a $35 Billion Jackpot From Anthropic",
+      "description": "The founder of the collapsed FTX crypto exchange, who is serving prison time for fraud, would have made a windfall from a $500 million investment in Anthropic.",
+      "url": "https://www.nytimes.com/2026/11/16/technology/sam-bankman-fried-anthropic.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/13/multimedia/00biz-sbf-anthropic-bzgc/00biz-sbf-anthropic-bzgc-mediumSquareAt3X-v3.jpg",
+      "publishedAt": "2026-11-16T10:02:09Z",
+      "content": "The founder of the collapsed FTX crypto exchange, who is serving prison time for fraud, would have made a windfall from a $500 million investment in Anthropic."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Sapna Maheshwari and Kalley Huang",
+      "title": "Apple Was Late to Video Podcasts. Now It’s Trying to Catch Up.",
+      "description": "They will soon be free to all Apple TV users and will appear on more than 1 billion devices that have the app, including Rokus and smart TVs.",
+      "url": "https://www.nytimes.com/2026/11/16/business/media/apple-tv-podcasts-youtube.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/16/business/16BIZ-APPLE-PODCASTS-2/16BIZ-APPLE-PODCASTS-2-mediumSquareAt3X.png",
+      "publishedAt": "2026-11-16T10:01:52Z",
+      "content": "They will soon be free to all Apple TV users and will appear on more than 1 billion devices that have the app, including Rokus and smart TVs."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Cory Weinberg",
+      "title": "Wall Street Braces for Anthropic’s Spending",
+      "description": "The company’s financial picture may get murky as it deals with employee stock compensation and the growing costs of artificial intelligence.",
+      "url": "https://www.nytimes.com/2026/11/13/technology/anthropic-ipo-spending-plans.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-anthropic-reality-kzlm/12biz-anthropic-reality-kzlm-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-16T04:02:59Z",
+      "content": "The company’s financial picture may get murky as it deals with employee stock compensation and the growing costs of artificial intelligence."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -50,16 +89,94 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Techpowerup.com"
+        "id": "mashable",
+        "name": "Mashable"
       },
-      "author": null,
-      "title": "Rockstar Says GTA 6 Encourages Empathy, a First for the Series - TechPowerUp",
-      "description": "Rockstar North co-studio head Rob Nelson says GTA 6 is the first game in the series to actively encourage empathy, at least for players who want it. In an interview with The Guardian, spotted by IGN, Nelson said the studio has tried \"for the first time in a G…",
-      "url": "https://www.techpowerup.com/354843/rockstar-says-gta-6-encourages-empathy-a-first-for-the-series",
-      "urlToImage": "https://www.techpowerup.com/img/agKFtUCMz4QbB7Cp.jpg",
-      "publishedAt": "2026-11-15T00:38:15Z",
-      "content": "Rockstar North co-studio head Rob Nelson says GTA 6 is the first game in the series to actively encourage empathy, at least for players who want it. In an interview with The Guardian, spotted by IGN,… [+1331 chars]"
+      "author": "Bethany Allard",
+      "title": "The Nintendo Switch 2 gets a rare deal way ahead of Black Friday - Mashable",
+      "description": "The $30-off deal has been restocked.",
+      "url": "https://mashable.com/tech/nov-13-nintendo-switch-2-deal",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/0306Ml0I5nNRPPHURC5QtuE/hero-image.fill.size_1200x675.v1794585807.jpg",
+      "publishedAt": "2026-11-15T12:09:31Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Guide"
+      },
+      "author": "Amanda Caswell",
+      "title": "Google's Gemini 4 Hydrogen is free — here are 5 impressive things you can do with it - Tom's Guide",
+      "description": "Google's new model beats its pricier one and is just as impressive",
+      "url": "https://www.tomsguide.com/ai/google-gemini/googles-gemini-4-hydrogen-is-free-here-are-5-impressive-things-you-can-do-with-it",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/X6dTrYPSS9g6VcZkyqRAhX-2560-80.jpg",
+      "publishedAt": "2026-11-15T05:56:27Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Mashable Team",
+      "title": "NYT Strands hints, answers for November 14, 2026 - Mashable",
+      "description": "Every hint, nudge and outright answer you need to complete today's NYT Strands puzzle.",
+      "url": "https://mashable.com/entertainment/strands-nyt-hint-november-14-2026",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/00APqaCmfLEeEhhXAhAc9lO/hero-image.fill.size_1200x675.v1794412843.jpg",
+      "publishedAt": "2026-11-15T03:35:07Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SlashGear"
+      },
+      "author": "Ayomide Sadiq",
+      "title": "12 Niche USB-C Gadgets That Are Surprisingly Useful - SlashGear",
+      "description": "USB-C is the wired charging standard for your phones, earbuds, and more, but a lot of devices that use it fall well outside the typical categories.",
+      "url": "https://www.slashgear.com/2314039/niche-usb-c-gadgets-that-are-useful/",
+      "urlToImage": "https://www.slashgear.com/img/gallery/12-niche-usb-c-gadgets-that-are-surprisingly-useful/l-intro-1794424838.jpg",
+      "publishedAt": "2026-11-15T02:30:00Z",
+      "content": "If you know people who have dealt with trouble sleeping, many might mention that playing white noise can help them fall asleep quicker. Theoretically, you could just play white noise from your phone,… [+1059 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Ben Schoon",
+      "title": "Google Pixel rolls out new ‘Family Hub’ feature with useful controls [Gallery] - 9to5Google",
+      "description": "After appearing early for some, Google Pixel's new Family Hub feature appears to be widely rolled out for many users.",
+      "url": "http://9to5google.com/2026/11/14/google-pixel-family-hub-feature-rolled-out/",
+      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/Pixel-11-Pro-camera-close-up.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-11-14T23:00:00Z",
+      "content": "First appearing earlier this month, Google Pixel phones are rolling out a handy new Family feature in the Settings menu. Here’s what it can do.\r\nRolling out now via what appears to be a server-side u… [+1783 chars]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Matt Patches",
+      "title": "League of Legends Will Never Be the Same After Massive 2027 Overhaul - Polygon.com",
+      "description": "Riot Games revealed at Worlds Finals 2026 a major update to League of Legends coming in 2027 with new gameplay and features.",
+      "url": "https://www.polygon.com/league-of-legends-with-new-dawn-reveal-worlds-2026/",
+      "urlToImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/still002.png?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-11-14T22:03:57Z",
+      "content": "Between matches at the 2026 League of Legends World Championship, Riot Games teased fans with a long-anticipated announcement: The next era of League of Legends is upon us.\r\nRevealed in an array of c… [+2328 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jalopnik"
+      },
+      "author": "Joe Kucinski",
+      "title": "9 Cheaper Alternatives To The Toyota Land Cruiser - Jalopnik",
+      "description": "The best affordable Toyota Land Cruiser Alternatives for 2027 include the Jeep Grand Cherokee Limited, Toyota 4Runner, and the Subaru Outback Wilderness.",
+      "url": "https://www.jalopnik.com/2312763/cheaper-alternatives-to-toyota-land-cruiser/",
+      "urlToImage": "https://www.jalopnik.com/img/gallery/9-cheaper-alternatives-to-the-toyota-land-cruiser/l-intro-1794345198.jpg",
+      "publishedAt": "2026-11-14T21:45:00Z",
+      "content": "We start the list by looking in Toyota's own backyard. Starting at $55,085, the Toyota 4Runner TRD Off-Road i-Force Max is the most expensive Land Cruiser alternative on our list, but it is still sev… [+1539 chars]"
     },
     {
       "source": {
@@ -73,6 +190,19 @@
       "urlToImage": "https://www.techpowerup.com/img/GolOgSTILfliV9CS.jpg",
       "publishedAt": "2026-11-14T21:20:21Z",
       "content": "Base PS5 owners have six more games lined up for QSSR, Sony's lighter AI upscaler. Marvel's Spider-Man 2 is the first of the batch, with an update that's live now and adds QSSR to both its Fidelity a… [+1294 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jalopnik"
+      },
+      "author": "Chloe Clougher",
+      "title": "7 Of The Rarest Fox Body Mustangs Ever Built And What They're Worth Today - Jalopnik",
+      "description": "The 1980 McLaren M81, 1985 Twister II at 90 units, and 1993 SVT Cobra R are among the rarest Fox Body Mustangs, but their values are still surprisingly modest.",
+      "url": "https://www.jalopnik.com/2310730/rarest-fox-body-mustangs-worth/",
+      "urlToImage": "https://www.jalopnik.com/img/gallery/7-of-the-rarest-fox-body-mustangs-ever-built-and-what-theyre-worth-today/l-intro-1793733430.jpg",
+      "publishedAt": "2026-11-14T21:05:00Z",
+      "content": "The Mustang SVT Cobra R arrived in the Fox Body's final model year, right before the SN95 generation was ushered in for 1994. Ford also sold a non-R version dubbed the SVT Cobra, and while those cars… [+1500 chars]"
     },
     {
       "source": {
@@ -103,6 +233,58 @@
     {
       "source": {
         "id": null,
+        "name": "PhoneArena"
+      },
+      "author": "Abdullah Asim",
+      "title": "Galaxy S27 Ultra might take inspiration from the iPhone 18 Pro, and this time I’d be glad - PhoneArena",
+      "description": "Samsung's upcoming Galaxy S27 Ultra might take some notes from the iPhone 18 Pro and even the iPhone 17 Pro.",
+      "url": "https://www.phonearena.com/news/galaxy-s27-ultra-might-take-inspiration-from-iphone-18-pro_id184832",
+      "urlToImage": "https://m-cdn.phonearena.com/images/article/184832-wide-two_1200/Galaxy-S27-Ultra-might-take-inspiration-from-the-iPhone-18-Pro-and-this-time-Id-be-glad.jpg",
+      "publishedAt": "2026-11-14T20:20:04Z",
+      "content": "Samsung might take a page or two out of Apples book and give the Galaxy S27 Ultra two changes inspired by the iPhone 18 Pro and even the iPhone 17 Pro. Unlike previous instances of this happening, ho… [+3481 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BGR"
+      },
+      "author": "Ethan Stinson",
+      "title": "Apple Just Updated An Old iPad Feature That Makes It Feel Like A iPhone Duo - BGR",
+      "description": "The  iPadOS 27.2 update made it easier to assemble side-by-side displays on the iPad, so it's not tedious anymore, making it similar to the iPhone Duo.",
+      "url": "https://www.bgr.com/2311650/apple-updates-old-feature-split-view-ipad-os-27-2/",
+      "urlToImage": "https://www.bgr.com/img/gallery/apple-just-updated-an-old-ipad-feature-that-makes-it-feel-like-a-iphone-duo/l-intro-1794262455.jpg",
+      "publishedAt": "2026-11-14T17:32:00Z",
+      "content": "Ever since iOS 9 was launched in 2015, Apple iPad users have been able to multitask with the split-screen app mode, known as Split View. Depending on a user's specific interests and intentions, the i… [+1157 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "RACER"
+      },
+      "author": null,
+      "title": "Hot Wheels Legends Tour keeps turning dreams into reality - RACER - Racing News",
+      "description": "The competition brings together builders from around the world, but the people behind these creations aren’t simply chasing trophies. They’re turning ideas, passion, and dreams into actual cars, sometimes drawing on memories, childhood inspirations, family co…",
+      "url": "https://racer.com/2026/11/13/hot-wheels-legends-tour-keeps-turning-dreams-into-reality",
+      "urlToImage": "https://cdn-cs-images.racer.com/v3/assets/blte77f57883ea46be1/blte674b28210b91d05/6af7338a8ef98017c17732b0/2026_Hot_Wheels_Legeneds_4.jpg?environment=live&width=1200&height=630&fit=crop",
+      "publishedAt": "2026-11-14T17:30:00Z",
+      "content": "Many car enthusiasts can trace their obsession back to childhood. And that obsession started with Hot Wheels. Long before most of us had a drivers license, much less the money, tools, or ability to b… [+16434 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PhoneArena"
+      },
+      "author": "Abdullah Asim",
+      "title": "After the iPhone Duo, I no longer trust Apple’s iPhone 20 Pro coming next year - PhoneArena",
+      "description": "The iPhone Duo, as well as Apple's other recent first-generation mishaps, has dashed my hopes for a good, or even competent, iPhone 20 Pro next year.",
+      "url": "https://www.phonearena.com/news/after-iphone-duo-i-no-longer-trust-apples-iphone-20-pro_id184829",
+      "urlToImage": "https://m-cdn.phonearena.com/images/article/184829-wide-two_1200/After-the-iPhone-Duo-I-no-longer-trust-Apples-iPhone-20-Pro-coming-next-year.jpg",
+      "publishedAt": "2026-11-14T16:44:27Z",
+      "content": "The iPhone Duo is a perfect example of why I keep saying that consumers should not buy first-generation products, no matter how much prestige the manufacturer in this case Apple might have. And becau… [+3433 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "TheStreet"
       },
       "author": "Faizan Farooque",
@@ -128,6 +310,32 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Vanessa Hand Orellana",
+      "title": "I Let My Apple Watch Eavesdrop on My Conversations for 2 Weeks - CNET",
+      "description": "I tested Apple's new AI note-taking features in WatchOS 27.3, and now I'm more concerned about my sanity than my privacy.",
+      "url": "https://www.cnet.com/tech/mobile/apple-watch-audio-intelligence-hands-on-privacy-tes/",
+      "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/AudioIntelligence.jpg",
+      "publishedAt": "2026-11-14T16:00:10Z",
+      "content": "Weve long suspected that our devices are listening to us, but what about when we invite them to do it? Thats what testing Audio Intelligence has felt like on the Apple Watch. But despite how disturbi… [+7309 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Police"
+      },
+      "author": "Parth Shah",
+      "title": "Gemini's true power comes from the tweaks nobody wants to talk about - Android Police",
+      "description": "Small changes unlock a smarter assistant",
+      "url": "https://www.androidpolice.com/gemini-true-power-comes-from-the-tweaks-nobody-wants-to-talk-about/",
+      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/03/two-robotic-hands-pointing-at-a-3d-colorful-gemini-app-icon-1.png?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-11-14T16:00:10Z",
+      "content": "Google Gemini has come a long way from being just another AI chatbot. Yet, most people barely scratch the surface of what it can do.\r\nThey open Gemini, type a few prompts, generate an image or two, a… [+5261 chars]"
+    },
+    {
+      "source": {
         "id": "the-wall-street-journal",
         "name": "The Wall Street Journal"
       },
@@ -142,41 +350,15 @@
     {
       "source": {
         "id": null,
-        "name": "PhoneArena"
+        "name": "MacRumors"
       },
-      "author": "PhoneArena",
-      "title": "iPhone 20 Pro hardware sample shown off in leaked video - PhoneArena",
-      "description": null,
-      "url": "https://www.phonearena.com/news/iphone-20-pro-curved-cover-glass_id184824",
-      "urlToImage": null,
-      "publishedAt": "2026-11-14T14:58:51Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Julia Boorstin, Stephen Desaulniers",
-      "title": "How Rockstar's 'GTA VI' release could reshape gaming, streaming and even paid time off - CNBC",
-      "description": "\"Grand Theft Auto VI\" launches Nov. 19 with huge expectations. Its impact could reach creators, streaming, music, workplace time off, food delivery and tourism.",
-      "url": "https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108222691-1762463897398-gettyimages-1823162638-AFP_34728P7.jpeg?v=1762463953&w=1920&h=1080",
-      "publishedAt": "2026-11-14T14:00:01Z",
-      "content": "It's been 13 years since the last installment of Grand Theft Auto, and fans are getting ready for what analysts say could be the biggest video game launch of all time.\r\nThe latest game in the franchi… [+3886 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Forbes",
-      "title": "How Pilates Has Become A Meet-Cute Possibility - Forbes",
-      "description": null,
-      "url": "https://www.forbes.com/sites/brucelee/2026/11/14/how-pilates-has-become-a-meet-cute-possibility/",
-      "urlToImage": null,
-      "publishedAt": "2026-11-14T13:56:09Z",
-      "content": null
+      "author": "Mitchel Broussard",
+      "title": "Apple Black Friday Starts Early: Save on Apple Watch, MacBook Air, and More - MacRumors",
+      "description": "Black Friday is now less than two weeks away, taking place on Friday, November 27 in 2026. As always, this will be the best time of the year to shop...",
+      "url": "https://www.macrumors.com/2026/11/14/early-apple-black-friday-deals-2/",
+      "urlToImage": "https://images.macrumors.com/t/BImtZYieUBGf5_bMf3XEc58m0x4=/2500x/article-new/2026/11/Black-Friday-Deals-26-3.jpg",
+      "publishedAt": "2026-11-14T15:25:09Z",
+      "content": "Black Friday is now less than two weeks away, taking place on Friday, November 27 in 2026. As always, this will be the best time of the year to shop for great deals, including popular Apple products … [+8311 chars]"
     },
     {
       "source": {
@@ -207,6 +389,19 @@
     {
       "source": {
         "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Lottie Lynn",
+      "title": "Pokémon Go Wild Area 2026 Research Tasks listed - Eurogamer.net",
+      "description": "All of the Go Wild Area 2026: Global research tasks for both of the habitat hours running during this Pokémon Go event, along with the Collection Challenge.",
+      "url": "https://www.eurogamer.net/pokemon-go-wild-area-2026-research-tasks",
+      "urlToImage": "https://assetsio.gnwcdn.com/Pokemon-Go-Wild-2026-Research-Tasks-Header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2026-11-14T12:53:40Z",
+      "content": "Completing the Go Wild Area 2026 research tasks gives you the chance to earn some extra Pokémon encounters during this Pokémon Go event. Each habitat hour has its own set of research tasks, so make s… [+4752 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "TheStreet"
       },
       "author": "TheStreet",
@@ -216,6 +411,19 @@
       "urlToImage": null,
       "publishedAt": "2026-11-14T11:30:00Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Videocardz.com"
+      },
+      "author": null,
+      "title": "NVIDIA GeForce RTX 5090 returns to stock at US retailers, now available for ‘just’ 3x MSRP - VideoCardz.com",
+      "description": "NVIDIA's flagship GPU is back in stock at US retailers, with several models listed below $7,000. Prices remain more than three times the official MSRP.",
+      "url": "https://videocardz.com/newz/nvidia-geforce-rtx-5090-returns-to-stock-at-us-retailers-now-available-for-just-3x-msrp",
+      "urlToImage": "https://cdn.videocardz.com/1/2026/06/MSI-RTX-5090-SUPRIM-SAFEGUARD-HERO.jpg",
+      "publishedAt": "2026-11-14T10:15:53Z",
+      "content": "NVIDIA’s GeForce RTX 5090 is becoming easier to find at US retailers after weeks of limited availability and rising prices. Newegg currently lists several models from ASUS, GIGABYTE and MSI for immed… [+1637 chars]"
     },
     {
       "source": {
@@ -245,16 +453,16 @@
     },
     {
       "source": {
-        "id": "mashable",
-        "name": "Mashable"
+        "id": null,
+        "name": "PhoneArena"
       },
-      "author": "Mashable Team",
-      "title": "NYT Strands hints, answers for November 13, 2026 - Mashable",
-      "description": "Every hint, nudge and outright answer you need to complete today's NYT Strands puzzle.",
-      "url": "https://mashable.com/entertainment/strands-nyt-hint-november-13-2026",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/0754Oe3TGYsjoK58AJZbZBM/hero-image.fill.size_1200x675.v1794410409.jpg",
-      "publishedAt": "2026-11-14T06:11:14Z",
-      "content": null
+      "author": "Mariyan Slavov",
+      "title": "Google's AI glasses will have one surprising thing they're not allowed to see - PhoneArena",
+      "description": "There's a clever new privacy features that won't let Android XR glasses see people's faces.",
+      "url": "https://www.phonearena.com/news/Googles-AI-glasses-will-have-one-surprising-thing-theyre-not-allowed-to-see_id184820",
+      "urlToImage": "https://m-cdn.phonearena.com/images/article/184820-wide-two_1200/Googles-AI-glasses-will-have-one-surprising-thing-theyre-not-allowed-to-see.jpg",
+      "publishedAt": "2026-11-14T08:48:00Z",
+      "content": "Smart glasses have always had one feature that raised privacy concerns: secretly filming and taking pictures of other people. After all, that's the main reason for the downfall of the original Google… [+4125 chars]"
     },
     {
       "source": {
@@ -311,19 +519,6 @@
     {
       "source": {
         "id": null,
-        "name": "Android Police"
-      },
-      "author": "Jade Bryan Jardinico",
-      "title": "Samsung might have accidentally shown off Galaxy S27's most eye-catching feature - Android Police",
-      "description": "Violet is out, Red is in",
-      "url": "https://www.androidpolice.com/samsung-might-leaked-galaxy-s27-most-eye-catching-feature-colors/",
-      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/02/galaxy-s26-ultra-hand-back.JPG?w=1600&h=900&fit=crop",
-      "publishedAt": "2026-11-14T01:16:00Z",
-      "content": "2027 is almost upon us, and it feels like the year disappeared in a puff of smoke. The arrival of the new year also means Samsungs new Galaxy devices are just around the corner, particularly the anti… [+2410 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Nintendo Life"
       },
       "author": "Liam Doolan",
@@ -333,19 +528,6 @@
       "urlToImage": "https://images.nintendolife.com/a5aa76dae99c3/1280x720.jpg",
       "publishedAt": "2026-11-14T00:00:00Z",
       "content": "Metaphor: ReFantazio arrived on the Switch 2 this week, and while the port has been well-received by fans and critics alike, there's one issue you may encounter.\r\nSega (and Atlus) have acknowledged t… [+1258 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
-      "author": "Ajay Kumar",
-      "title": "Razer’s Wild $1,000 Gaming Chair Has 6 Motors, Built-in Speakers, RGB Lighting - CNET",
-      "description": "The Soma Pro and Some Sense HD Haptics are part of an updated vibrating gaming chair lineup promising better immersion and improved comfort.",
-      "url": "https://www.cnet.com/tech/gaming/razer-soma-pro-gaming-chair-1000-has-six-motors-built-in-speakers-rgb-lighting/",
-      "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/chroma-rgb.jpg",
-      "publishedAt": "2026-11-13T23:59:49Z",
-      "content": "There are different levels of gaming immersion when it comes to haptics. On one side, you have controller haptics, which provide a bit of stimulation in games. You might feel a nice little rumble fro… [+5715 chars]"
     },
     {
       "source": {
@@ -362,19 +544,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Michelle Starr",
-      "title": "Physicists Find a Mathematical Limit to Making Time Run Backward - ScienceAlert",
-      "description": "Our experience of time seems uniform and unidirectional, but relativity allows it to be a bit more loosey-goosey than you might expect.",
-      "url": "https://www.sciencealert.com/physicists-find-a-mathematical-limit-to-making-time-run-backward",
-      "urlToImage": "https://www.sciencealert.com/images/2026/11/melty-watches-1200x675.png",
-      "publishedAt": "2026-11-13T23:03:33Z",
-      "content": "Our experience of time seems uniform and unidirectional, but relativity allows it to be a bit more loosey-goosey than you might expect.\r\nFor example, in a strong gravitational field, time runs more s… [+7722 chars]"
-    },
-    {
-      "source": {
         "id": "techcrunch",
         "name": "TechCrunch"
       },
@@ -385,6 +554,19 @@
       "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_3403.jpg?resize=1200,925",
       "publishedAt": "2026-11-13T23:00:00Z",
       "content": "Amazon recently unveiled its refreshed Kindle lineup, introducing a new basic Kindle, Paperwhite, and Colorsoft. The new Kindle Colorsoft starts at $290, while the Signature Edition, which Ive spent … [+4074 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Michelle Starr",
+      "title": "Physicists Find a Mathematical Limit to Making Time Run Backward - Yahoo",
+      "description": "Why does it only go one way?",
+      "url": "https://www.sciencealert.com/physicists-find-a-mathematical-limit-to-making-time-run-backward",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/9be4cb7b2cb9d400bbf14af964cb8d5da53cbdcf581e46845fba24ebb0cb3b53/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsciencealert_160%2Fd4e351c514a9279c3874124738094ef0.png",
+      "publishedAt": "2026-11-13T23:00:00Z",
+      "content": "Our experience of time seems uniform and unidirectional, but relativity allows it to be a bit more loosey-goosey than you might expect.\r\nFor example, in a strong gravitational field, time runs more s… [+7684 chars]"
     },
     {
       "source": {
@@ -493,45 +675,6 @@
     {
       "source": {
         "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Juli Clover",
-      "title": "Apple Releases tvOS 27.2.1 With Siri AI for Older Apple TVs - MacRumors",
-      "description": "Apple today released tvOS 27.2.1, an update to the tvOS 27 operating system that launched in September. tvOS 27.2.1 comes nearly three weeks after...",
-      "url": "https://www.macrumors.com/2026/11/13/apple-releases-tvos-27-2-1/",
-      "urlToImage": "https://images.macrumors.com/t/NIQfOSBaVtOFpZf_INMVdrQgmCg=/2500x/article-new/2026/10/Apple-TV-4K-4th-Generation-feature0.jpg",
-      "publishedAt": "2026-11-13T19:26:39Z",
-      "content": "Apple today released tvOS 27.2.1, an update to the tvOS 27 operating system that launched in September. tvOS 27.2.1 comes nearly three weeks after Apple released tvOS 27.2.\r\ntvOS 27.2.1 brings Siri A… [+945 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Brad Bourque",
-      "title": "Here’s how you can save on your GTA VI preorder ahead of launch - The Verge",
-      "description": "Multiple retailers have gift cards for both the Sony PlayStation and Microsoft Xbox stores, so you can still save on your last-minute GTA VI preorder.",
-      "url": "https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-27-at-4.13.31-PM.png?quality=90&strip=all&crop=0%2C3.3036486111791%2C100%2C93.392702777642&w=1200",
-      "publishedAt": "2026-11-13T19:14:38Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nPreloading is already underway for Rockstars anticipated open-world game, but youre not too late to save.\r\nPreloading is already underway for Rockstars anticipat… [+2285 chars]"
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Cory Weinberg",
-      "title": "Wall Street Braces for Anthropic’s Spending",
-      "description": "The company’s financial picture may get murky as it deals with employee stock compensation and the growing costs of artificial intelligence.",
-      "url": "https://www.nytimes.com/2026/11/13/technology/anthropic-ipo-spending-plans.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-anthropic-reality-kzlm/12biz-anthropic-reality-kzlm-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-13T18:52:43Z",
-      "content": "The company’s financial picture may get murky as it deals with employee stock compensation and the growing costs of artificial intelligence."
-    },
-    {
-      "source": {
-        "id": null,
         "name": "CarScoops"
       },
       "author": "Brad Anderson",
@@ -541,19 +684,6 @@
       "urlToImage": "https://www.carscoops.com/img/gallery/theons-oak-green-porsche-911-looks-like-the-perfect-drivers-car/l-intro-1794594896.jpg",
       "publishedAt": "2026-11-13T18:36:50Z",
       "content": "Theon Design's upgrades don't stop with fresh bodywork, paint, and an upgraded engine. This car, like all its others, features an overhauled chassis that comes with semi-active TracTive dampers with … [+1182 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phoronix"
-      },
-      "author": null,
-      "title": "AMD openSIL Achieves Its Production Goal With 6th Gen EPYC \"Venice\" - Phoronix",
-      "description": "Since 2023 I and many open-source advocates have been very eager for AMD's openSIL project for delivering open-source CPU silicon initialization as a replacement to the traditional AGESA code",
-      "url": "https://www.phoronix.com/news/AMD-openSIL-Venice-Goal",
-      "urlToImage": "https://www.phoronix.net/image.php?id=2026&image=venice_opensil_1",
-      "publishedAt": "2026-11-13T18:20:00Z",
-      "content": "Since 2023 I and many open-source advocates have been very eager for AMD's openSIL project for delivering open-source CPU silicon initialization as a replacement to the traditional AGESA code. With Z… [+2205 chars]"
     },
     {
       "source": {
@@ -570,29 +700,16 @@
     },
     {
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
+        "id": null,
+        "name": "Rock Paper Shotgun"
       },
-      "author": "Julia Carpenter",
-      "title": "The not-so-mysterious disappearance of the lunch break - The Washington Post",
-      "description": "Even as some companies offer the occasional free lunch to help revive office culture, workday meals remain a solitary activity.",
-      "url": "https://www.washingtonpost.com/business/2026/11/13/not-so-mysterious-disappearance-lunch-break/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/4UYCAEIQAQKJVU52LUFO4B3DBE.jpg&w=1440",
-      "publishedAt": "2026-11-13T18:00:00Z",
-      "content": "When was the last time you took a lunch break? Actually got up from your desk, walked away from your computer and ate a sandwich in the sun, without a single Slack ping to disturb the peace? \r\nFor ma… [+121 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Jacqueline Thomas",
-      "title": "WoW Forever Has a Weekly Quest That Can Reward Up to 100 Gold, and Players Don't Love It - IGN",
-      "description": "Just a couple days after Blizzard changed the way gold was earned in max-level quests WoW Forever, the company has implemented a weekly quest with loot-box-style gold reward. And players don't love it.",
-      "url": "https://www.ign.com/articles/wow-forever-has-a-weekly-quest-that-can-reward-up-to-100-gold-and-players-dont-love-it",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/09/19/forever-1789805930640.png?width=1280&format=jpg&auto=webp&quality=80",
-      "publishedAt": "2026-11-13T16:56:57Z",
-      "content": "Just a couple days after Blizzard changed the way gold was earned in max-level quests WoW Forever, the company has implemented a weekly quest with loot-box-style gold reward. And players don't love i… [+3704 chars]"
+      "author": "Callum Williams",
+      "title": "How to play GTA 6 early using the New Zealand trick - Rock Paper Shotgun",
+      "description": "This guide runs through the New Zealand trick for GTA 6, explaining how players can get early access to the game by changing their time zone.",
+      "url": "https://www.rockpapershotgun.com/gta-6-new-zealand-trick",
+      "urlToImage": "https://assetsio.gnwcdn.com/gta-6-lucia-robbery.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2026-11-13T17:10:00Z",
+      "content": "After a whopping 13-year wait, GTA 6 is almost here, and understandably, most of us are absolutely chomping at the bit to get started. Luckily, some very clever folks have figured out a way to get in… [+4038 chars]"
     },
     {
       "source": {
@@ -622,32 +739,6 @@
     },
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Dan Goodin",
-      "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights - Ars Technica",
-      "description": "SignDrop\" exploit lets local users gain all-powerful System rights.",
-      "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1237693734-1152x648-1783631068.jpg",
-      "publishedAt": "2026-11-13T16:26:32Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Pokemon.com"
-      },
-      "author": null,
-      "title": "Gigantamax Duraludon Debuts in Pokémon GO Wild Area: Global Event - Pokemon.com",
-      "description": "The Pokémon GO Wild Area: Global event features Gigantamax Duraludon and more Max Battles.",
-      "url": "https://www.pokemon.com/uk/news/gigantamax-duraludon-debuts-in-pokemon-go-wild-area-global-event",
-      "urlToImage": "https://mcdn.pokemon.com/pokemon-prod/image/upload/c_limit,w_1920/f_auto/v1/live/pcom-cms/static-assets/cms3/us/img/video-games/tiles/pokemon-go/2026/11/13/pokemon-go-169.png",
-      "publishedAt": "2026-11-13T16:13:25Z",
-      "content": "Pokémon GO Wild Area is back with a global event boasting Max Battles, mighty Pokémon, loads of event bonuses, and so much more. On November 14 and November 15, 2026, from 10:00 a.m. to 6:00 p.m. the… [+4705 chars]"
-    },
-    {
-      "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
@@ -658,6 +749,19 @@
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_CVirginia_DADS.jpg?quality=90&strip=all&crop=0%2C10.728364100735%2C100%2C78.54327179853&w=1200",
       "publishedAt": "2026-11-13T16:00:00Z",
       "content": "<ul><li></li><li></li><li></li></ul>\r\nThis year, why not get Dad a gift or two he wont expect?\r\nIf you buy something from a link, The Verge may earn a commission. See our ethics statement.\r\nby\r\nRyan … [+2038 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "What Hi-Fi? US"
+      },
+      "author": "Tom Parsons",
+      "title": "Just got the new Apple TV 4K? Change these two settings immediately - What Hi-Fi?",
+      "description": "Two simple tweaks for smoother motion and more accurate picture quality",
+      "url": "https://www.whathifi.com/streaming-entertainment/streaming-hardware/just-got-the-new-apple-tv-4k-change-these-two-settings-immediately",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ZE4VuLh43Virtpbk7po63o-1920-80.jpg",
+      "publishedAt": "2026-11-13T15:32:03Z",
+      "content": "After a four-year wait, the new Apple TV 4K is finally here, and while the hefty price rise and overly familiar design are a little disappointing, the picture and sound performance are even better th… [+2438 chars]"
     },
     {
       "source": {
@@ -684,19 +788,6 @@
       "urlToImage": "https://media.dcrainmaker.com/images/2026/11/GarminDeals-1.jpg",
       "publishedAt": "2026-11-13T15:30:05Z",
       "content": "Like clockwork, Garmin has put forth their sale plans for the Black Friday and Holiday season. Garmin is actually one of the most predictable companies in this space when it comes to sales and how th… [+13618 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Andrew Liszewski",
-      "title": "Apple announces release dates for the first Apple Home Collection smart devices - The Verge",
-      "description": "Several of the Apple Home Collection smart devices are now available for preorder including LG’s cameras and video doorbell.",
-      "url": "https://www.theverge.com/tech/1032920/apple-smart-home-collection-release-ship-dates-available-pricing",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/applehome.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
-      "publishedAt": "2026-11-13T15:22:14Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nYou can preorder several of the devices today, with shipping expected to start in mid-December.\r\nYou can preorder several of the devices today, with shipping exp… [+2757 chars]"
     },
     {
       "source": {
@@ -727,28 +818,15 @@
     {
       "source": {
         "id": null,
-        "name": "Hackaday"
+        "name": "Variety"
       },
-      "author": "Mike Kershaw",
-      "title": "This Week In Security: Four-Digit Patch Tuesday, SSH Exploited, GitBook Breach, Android GhostMap - Hackaday",
-      "description": "It’s the second Tuesday of the month, and that means another Microsoft Patch Tuesday. The new normal is that the numbers are hard to believe. Brian Krebs reports that this month’s relea…",
-      "url": "https://hackaday.com/2026/11/13/this-week-in-security-four-digit-patch-tuesday-ssh-exploited-gitbook-breach-android-ghostmap/",
-      "urlToImage": "https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg",
+      "author": "Jennifer Maas",
+      "title": "Zohran Mamdani Launches Two-Day NYC Youth Video Game Design Competition With a Transit Twist Ahead of ‘GTA 6’ Launch (EXCLUSIVE) - Variety",
+      "description": "This weekend, New York City mayor Zohran Mamdani will debut a youth video game design competition in the headquarter city of \"GTA 6\" dev.",
+      "url": "https://variety.com/2026/gaming/news/mamdani-nyc-vide-game-design-competition-1236946592/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2026/11/Mamdani-gaming-1.png?w=1000&h=563&crop=1",
       "publishedAt": "2026-11-13T15:00:00Z",
-      "content": "It’s the second Tuesday of the month, and that means another Microsoft Patch Tuesday. The new normal is that the numbers are hard to believe. Brian Krebs reports that this month’s release fixes nearl… [+14727 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Hartley Charlton",
-      "title": "iPhone 18 and 18e Coming in Spring 2027 With A20 Chip - MacRumors",
-      "description": "Apple's iPhone 18 and iPhone 18e will launch in spring 2027 with an A20 chip, Bloomberg's Mark Gurman reiterated on the latest episode of his...",
-      "url": "https://www.macrumors.com/2026/11/13/iphone-18-and-18e-coming-in-spring-2027/",
-      "urlToImage": "https://images.macrumors.com/t/x3nzYuR7glvnEYI7Gw3v9dee4ZQ=/2000x/article-new/2026/03/iphone-17e-notch.jpg",
-      "publishedAt": "2026-11-13T14:37:11Z",
-      "content": null
+      "content": "This weekend, New York City mayor Zohran Mamdani will debut a youth video game design competition in the headquarter city of “Grand Theft Auto 6” developer Rockstar Games just ahead of the much-hyped… [+3302 chars]"
     },
     {
       "source": {
@@ -779,19 +857,6 @@
     {
       "source": {
         "id": null,
-        "name": "9to5google.com"
-      },
-      "author": "Ben Schoon",
-      "title": "I’d rather use Android XR glasses over Meta Ray-Bans for the app alone - 9to5Google",
-      "description": "In trying out Google’s Intelligent Eyewear Android XR glasses for the first time, one of my main takeaways is that...",
-      "url": "http://9to5google.com/2026/11/13/id-rather-use-android-xr-glasses-over-meta-ray-bans-for-the-app-alone/",
-      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/android-xr-glasses-app-7.jpg?quality=82&strip=all&resize=1200,628",
-      "publishedAt": "2026-11-13T13:30:00Z",
-      "content": "In trying out Google’s Intelligent Eyewear Android XR glasses for the first time, one of my main takeaways is that it’s the app, not necessarily the glasses themselves that would push me into using t… [+2729 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Gematsu"
       },
       "author": "Sal Romano",
@@ -801,71 +866,6 @@
       "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/11/Guild-Saga-Vanished-Worlds_11-13-26.jpg",
       "publishedAt": "2026-11-13T13:15:08Z",
       "content": "Guild Saga: Vanished Worlds first launched in Early Access for PC on October 10, 2024.“Weve been very happy with how much our audience has embraced Guild Saga: Vanished Worlds throughout its Early Ac… [+4482 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BGR"
-      },
-      "author": "Christian de Looper",
-      "title": "Alexa Tablet 8 Review: A Great-Value Tablet For Basic Tasks - BGR",
-      "description": "The Alexa Tablet 8 raises the bar for Amazon's entry-level tablets with better software support and specs, but those improvements come with a higher price.",
-      "url": "https://www.bgr.com/2315521/alexa-tablet-8-review/",
-      "urlToImage": "https://www.bgr.com/img/gallery/amazon-alexa-tablet-8-review-a-great-value-tablet-for-basic-tasks/l-intro-1794525147.jpg",
-      "publishedAt": "2026-11-13T13:15:00Z",
-      "content": "The most notable change to the tablet over a Fire tablet has nothing to do with the specs but rather the software that it runs. Amazon has finally gotten rid of the Fire tablet experience, which incl… [+2355 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Wccftech"
-      },
-      "author": "Francesco De Meo",
-      "title": "Zelda: Ocarina of Time Remake Sells 5 Million in Four Days, Yet Former Nintendo Leads Say The Series Sold “Like Nothing” Before Breath of the Wild - Wccftech",
-      "description": "The Zelda: Ocarina of Time remake is a smashing success, yet the series was at its lowest before the release of Zelda: Breath of the Wild",
-      "url": "https://wccftech.com/zelda-ocarina-of-time-remake-5-million-yet-series-sold-nothing-before-breath-of-the-wild/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Zelda-Ocarina-of-Time-Success-Series-Sold-Like-Nothing-1920x1072.jpg",
-      "publishedAt": "2026-11-13T12:24:10Z",
-      "content": "The Legend of Zelda: Ocarina of Time remake has become a smashing success, selling over 5 million copies in only four days of availability, but the Nintendo Switch 2 remake of one of the best games e… [+2004 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TrueAchievements"
-      },
-      "author": null,
-      "title": "Xbox update adds rotating backgrounds and more personalization options for Insiders - TrueAchievements",
-      "description": "Xbox Insiders now have access to a bunch of new personalization options, including rotating backgrounds to snazz up your home screen even more.",
-      "url": "https://www.trueachievements.com/news/xbox-update-personalization-options",
-      "urlToImage": "https://www.trueachievements.com/imgs/180667/xbox-insiders-personalization-update.jpg",
-      "publishedAt": "2026-11-13T11:29:14Z",
-      "content": "The latest update for Xbox Insiders gives players more control and personalization options to keep their console fresh and more in keeping with how they would want it to look.The major thing to come … [+1697 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Android Authority"
-      },
-      "author": null,
-      "title": "Here’s a demo of Google Calculator’s new Unit Conversion feature and a preview of Pixel Solver - Android Authority",
-      "description": "We got Google Calculator 10.0’s new Unit Conversion feature working, along with the UI for the Gemini-powered Pixel Solver. Take a look!",
-      "url": "https://www.androidauthority.com/google-calculator-unit-conversion-demo-3734899/",
-      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2026/11/google_calculator_2.jpg",
-      "publishedAt": "2026-11-13T10:53:00Z",
-      "content": "<ul><li>Google announced Unit Conversion and Pixel Solver for Google Calculator with the November 2026 Pixel Drop, but the new features havent reached all users yet. So we managed to activate them fo… [+3732 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Forbes",
-      "title": "Why Hot Wheels Is Winning Over A New Generation Of Adult Collectors - Forbes",
-      "description": null,
-      "url": "https://www.forbes.com/sites/matthewmacconnell/2026/11/13/why-hot-wheels-is-winning-over-a-new-generation-of-adult-collectors/",
-      "urlToImage": null,
-      "publishedAt": "2026-11-13T10:20:37Z",
-      "content": null
     },
     {
       "source": {
@@ -931,19 +931,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-nvidia-stock1-bqgj/12biz-nvidia-stock1-bqgj-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-12T21:15:17Z",
       "content": "News that the chipmaker’s chief executive, Jensen Huang, resigned drove Nvidia’s stock down, though the broader market rose slightly."
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "Theresa Lin",
-      "title": "Men: Here’s How to Upgrade Your Office Wardrobe With Vintage Clothes - WSJ",
-      "description": "Experts share their advice, from brands to look for to tips for sifting through online inventories",
-      "url": "https://www.wsj.com/style/fashion/vintage-office-clothes-mens-ebay-376f9873",
-      "urlToImage": "https://images.wsj.net/im-28771978/social",
-      "publishedAt": "2026-11-12T21:00:00Z",
-      "content": "An upside of the booming secondhand market, which resale site ThredUp valued at $257 billion in 2025: Its now entirely possible to build a modern, office-appropriate mens wardrobe without looking lik… [+305 chars]"
     },
     {
       "source": {
@@ -1022,19 +1009,6 @@
       "urlToImage": null,
       "publishedAt": "2026-11-12T17:13:29Z",
       "content": "The surge of A.I. fakes that emerged this election season was different than what researchers had feared. The results are also a reckoning."
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Robert Anderson",
-      "title": "Nintendo's Black Friday Sale Will Include $20 Off Switch 2 Games Like Donkey Kong Bananza - IGN",
-      "description": "Nintendo has confirmed several Switch 2 exclusive games will be discounted during its upcoming, including $20 off Donkey Kong Bananza.",
-      "url": "https://www.ign.com/articles/nintendo-black-friday-sale-will-include-switch-2-games-like-donkey-kong-bananza",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/02/21/dk-bananza-deals-1771709264905.png?width=1280&format=jpg&auto=webp&quality=80",
-      "publishedAt": "2026-11-12T15:23:27Z",
-      "content": "Nintendo has finally confirmed details for its 2026 Black Friday sale. Not only does it include a much-awaited $50 discount on Switch 2 consoles (effectively wiping out the September price hike), but… [+3383 chars]"
     },
     {
       "source": {
@@ -1194,19 +1168,6 @@
     },
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Nick Indge",
-      "title": "Seagate’s new hybrid drive raises some old questions - Ars Technica",
-      "description": "The FireCuda Forge revisits an old idea, with some familiar questions.",
-      "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2015/09/harddrive3-1000x648.jpg",
-      "publishedAt": "2026-11-10T23:30:56Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1308,6 +1269,32 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/10/podcasts/10hardfork-jensen-huang-spy/10hardfork-jensen-huang-spy-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-10T11:00:17Z",
       "content": "Nvidia’s C.E.O., Jensen Huang, admitted to having an affair with a suspected Chinese corporate spy. Everything that means for him and the A.I. industry, and what happens next."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Don Clark",
+      "title": "A.I. Fueled Nvidia CEO Jensen Huang’s Elite Status, but Scandal Followed",
+      "description": "As chips became essential components for A.I., executives like Nvidia’s Jensen Huang saw their personal wealth and profiles soar in a way the industry has not experienced before.",
+      "url": "https://www.nytimes.com/2026/11/09/technology/jensen-huang-nvidia-ai-chips-scandal.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/09/multimedia/09biz-chips-ai-hcpj/09biz-chips-ai-hcpj-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-09T17:58:29Z",
+      "content": "As chips became essential components for A.I., executives like Nvidia’s Jensen Huang saw their personal wealth and profiles soar in a way the industry has not experienced before."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Ivan Penn",
+      "title": "Giant Merger of NextEra and Dominion Could Fail Amid Anger Over Electricity Bills",
+      "description": "State leaders and residents in Virginia have opposed NextEra’s acquisition of Dominion Energy, fearing that it will accelerate rate increases.",
+      "url": "https://www.nytimes.com/2026/11/09/business/energy-environment/nextera-dominon-energy-virginia.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/06/multimedia/06biz-nextera-dominion-01-vpbk/06biz-nextera-dominion-01-vpbk-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-09T15:18:30Z",
+      "content": "State leaders and residents in Virginia have opposed NextEra’s acquisition of Dominion Energy, fearing that it will accelerate rate increases."
     }
   ]
 }
