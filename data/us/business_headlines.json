@@ -6,9 +6,22 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-15T22:07:34.030084+00:00",
+  "fetched_at": "2026-11-16T03:19:10.226340+00:00",
   "articles_count": 100,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Ali Watkins",
+      "title": "Megaspeed Says Alice Huang Left Company in August 2025",
+      "description": "The Singaporean company’s statement added to the timeline involving Ms. Huang, a former executive who had a relationship with Jensen Huang of Nvidia. U.S. officials say she was spying for China.",
+      "url": "https://www.nytimes.com/2026/11/15/business/megaspeed-alice-huang-nvidia-china.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/15/multimedia/15xp-megaspeed1-zcvq/15xp-megaspeed1-zcvq-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-16T00:01:35Z",
+      "content": "The Singaporean company’s statement added to the timeline involving Ms. Huang, a former executive who had a relationship with Jensen Huang of Nvidia. U.S. officials say she was spying for China."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -34,19 +47,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/15/multimedia/00bizsun-corneroffice-ralph-01-vlhz/00bizsun-corneroffice-ralph-01-vlhz-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-15T20:31:10Z",
       "content": "Patrice Louvet on working with Ralph Lauren, the man, winning over Generation Z and striking a balance between magic and logic."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Ali Watkins",
-      "title": "Megaspeed Says Alice Huang Left Company in August 2025",
-      "description": "The Singaporean company’s statement added to the timeline involving Ms. Huang, a former executive who had a relationship with Jensen Huang of Nvidia. U.S. officials say she was spying for China.",
-      "url": "https://www.nytimes.com/2026/11/15/business/megaspeed-alice-huang-nvidia-china.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/15/multimedia/15xp-megaspeed1-zcvq/15xp-megaspeed1-zcvq-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-15T20:11:11Z",
-      "content": "The Singaporean company’s statement added to the timeline involving Ms. Huang, a former executive who had a relationship with Jensen Huang of Nvidia. U.S. officials say she was spying for China."
     },
     {
       "source": {
@@ -154,6 +154,32 @@
     },
     {
       "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "WSJ",
+      "title": "How Jensen Huang Built the Backdoor Route That Keeps Beijing in the AI Race - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/tech/jensen-huang-backdoor-ai-data-centers-a5e4499d",
+      "urlToImage": null,
+      "publishedAt": "2026-11-15T02:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Eric Berger",
+      "title": "With Starship catch, SpaceX still shows it can dazzle the world - Ars Technica",
+      "description": "It felt like stepping into the future.",
+      "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304631389-1024x648.jpg",
+      "publishedAt": "2026-11-15T00:40:59Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -164,6 +190,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/14/multimedia/14starship-header-01-vgzq/14starship-header-01-vgzq-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-15T00:36:33Z",
       "content": "The Starship spacecraft returned from orbit to the same spot where it lifted off, marking a key milestone in SpaceX’s vision of building fully reusable rockets."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WRAL.com"
+      },
+      "author": "Jessica Patrick, WRAL senior multiplatform producer",
+      "title": "Little Munchkin: Raleigh couple delivers baby in Dunkin' Donuts parking lot before ambulance arrives - WRAL",
+      "description": "A Raleigh couple delivered their baby in the parking lot of a Dunkin' Donuts minutes before first responders arrived.",
+      "url": "https://www.wral.com/news/local/raleigh-couple-delivers-baby-dunkin-donuts-parking-lot-november-2026/",
+      "urlToImage": "https://assets.wral.com/0b38148c-51dd-49bc-bb68-140dc6d0d168?w=1200&h=630&height=630",
+      "publishedAt": "2026-11-15T00:23:30Z",
+      "content": "A Raleigh couple delivered their baby in the parking lot of a Dunkin' Donuts minutes before first responders arrived.\r\nMorgan Hudgins and Michael Holley said their daughter, Layla, was born Nov. 2 at… [+3787 chars]"
     },
     {
       "source": {
@@ -193,6 +232,84 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "NewsChannel5.com"
+      },
+      "author": "Hannah McDonald",
+      "title": "AT&T begins shutting down landline services in Middle Tennessee this weekend, here's what to know - News Channel 5 Nashville",
+      "description": "AT&T begins shutting down landline services in Middle Tennessee this Sunday. Here's what homeowners and businesses need to know.",
+      "url": "https://www.newschannel5.com/HannahCanHelp/at-t-begins-shutting-down-landline-services-in-middle-tennessee-this-weekend-heres-what-to-know",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/4352f07/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcf.cdn.uplynk.com%2Fausw2%2Fslices%2F8ef%2F9ca48a3b38ef42538c6fe52a659b1e99%2F8effba589ee042fb905f29fc41887b90%2Fposter_3187340ffcb346d7b8eca0035ca82ad1.jpeg",
+      "publishedAt": "2026-11-14T22:15:31Z",
+      "content": "NASHVILLE, Tenn. (WTVF) Starting this Sunday, AT&amp;T will begin shutting down landline services across several Middle Tennessee communities after receiving permission from the Federal Communication… [+2652 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Anthony Ha",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang - TechCrunch",
+      "description": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024",
+      "publishedAt": "2026-11-14T21:41:22Z",
+      "content": "A petition calling on Nvidia to reinstate the companys recently ousted CEO Jensen Huang appears to have attracted more than 115,000 signatures as of Saturday afternoon.\r\nThe petition website said the… [+1155 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Doha Madani",
+      "title": "Costco-brand whipped cream recalled over potential presence of cleaning chemical - NBC News",
+      "description": "Costco members who love a whipped topping may consider going à la mode with their favorite dessert instead after the retailer’s Kirkland-brand whipped cream was recalled.",
+      "url": "https://www.nbcnews.com/news/us-news/costco-brand-whipped-cream-recalled-rcna609344",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261114-Cotco-aa-405-09550b.jpg",
+      "publishedAt": "2026-11-14T21:21:47Z",
+      "content": "Costco members who love a whipped topping may consider going à la mode with their favorite dessert instead after the retailers Kirkland-brand whipped cream was recalled.\r\nCans of Kirkland Signature R… [+640 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SFGate"
+      },
+      "author": "Matthew Brown, Jeff Carillo",
+      "title": "Bay Area Denny's now reinstalling plaque commemorating Jensen Huang - SFGATE",
+      "description": "A San Jose Denny's where former Nvidia CEO Jensen Huang co-founded the company took down a plaque honoring him on Thursday.",
+      "url": "https://www.sfgate.com/tech/article/nvidia-dennys-plaque-22529879.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/67/73/36/31438748/3/rawImage.jpg",
+      "publishedAt": "2026-11-14T21:11:45Z",
+      "content": "Jensen Huang, CEO of Nvidia, gives a keynote address at the Nvidia GPU Technology Conference in Berlin on Oct. 21, 2026.\r\nSean Gallup/Getty Images\r\nLATEST Nov. 14, 12:35 p.m. Fasika Melaku, Dennys ch… [+4537 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newser"
+      },
+      "author": "John Johnson",
+      "title": "Tiny Toyota Truck Coming to American Roads - Newser",
+      "description": "But the 'low-speed' Scion Key-101 isn't meant for everyday commuters",
+      "url": "https://www.newser.com/story/399899/tiny-toyota-truck-coming-to-american-roads.html",
+      "urlToImage": "https://cdn.newser.com/image/1724297-12-20261114151433.jpeg",
+      "publishedAt": "2026-11-14T20:45:00Z",
+      "content": "Toyota is betting that a relatively tiny truck will appeal to certain American drivers. The automaker will revive its retired Scion brand next year to sell the Scion Kei-01, a pint-size pickup modele… [+488 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "Sarah Davis",
+      "title": "Blumenthal says Lutnick ‘must go’ following Nvidia scandal - The Hill",
+      "description": "Democratic Sen. Richard Blumenthal (Conn.) called on Howard Lutnick, President Trump’s Commerce secretary, to step down over reports the cabinet member shielded Nvidia from federal oversight — accusations which emerged after the tech giant’s CEO resigned this…",
+      "url": "https://thehill.com/homenews/senate/6220891-blumenthal-calls-lutnick-resign-nvidia-scandal/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/07/blumenthalrichard_071426gn01_w.jpg?w=1280",
+      "publishedAt": "2026-11-14T20:33:00Z",
+      "content": "Skip to content\r\nDemocratic Sen. Richard Blumenthal (Conn.) called on Howard Lutnick, President Trump’s Commerce secretary, to step down over reports the cabinet member shielded Nvidia from federal o… [+2143 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -206,16 +323,29 @@
     },
     {
       "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "author": "Danny Lee, Allyson Versprille",
-      "title": "US Flight Chaos Spills Into Weekend After Nationwide Stoppage - Bloomberg.com",
-      "description": "US air travel struggled to recover Saturday from the longest nationwide flight suspension since the September 2001 terrorist attacks, with thousands of cancellations following an outage that laid bare the fragility of America’s aviation infrastructure.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-14/faa-lifts-ground-stop-allowing-flights-to-resume-after-outage",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.F9tR8WlAn4/v0/1200x800.jpg",
-      "publishedAt": "2026-11-14T19:52:13Z",
-      "content": "US air travel struggled to recover Saturday from the longest nationwide flight suspension since the September 2001 terrorist attacks, with thousands of cancellations following an outage that laid bar… [+302 chars]"
+      "author": "Anthony Ha",
+      "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee - TechCrunch",
+      "description": "Even Elon Musk said the monthly fee is \"too high.\"",
+      "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/10/tesla-cybercab-getty.jpg?resize=1200,834",
+      "publishedAt": "2026-11-14T20:04:44Z",
+      "content": "Tesla said on Friday evening that select customers now have the opportunity to pre-order the companys autonomous, golden Cybercab for personal use.\r\nMore details became clear as those select customer… [+1031 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newser"
+      },
+      "author": "Kate Seamons",
+      "title": "An Air Vent Designed in the '70s Is Suddenly a Goldmine - Newser",
+      "description": "Stainless-steel air vent is in-demand thanks to data center boom",
+      "url": "https://www.newser.com/story/399762/an-air-vent-designed-in-the-70s-is-suddenly-a-goldmine.html",
+      "urlToImage": "https://cdn.newser.com/image/1724210-12-20261114143248.jpeg",
+      "publishedAt": "2026-11-14T19:57:00Z",
+      "content": "After weeks of calls and guesswork, the 3,000-person company determined data centers were behind the boom: the buildings' liquid cooling systems need a ventilation mechanism, and Armstrong's part fit… [+357 chars]"
     },
     {
       "source": {
@@ -259,15 +389,15 @@
     {
       "source": {
         "id": null,
-        "name": "CNBC"
+        "name": "TechSpot"
       },
-      "author": "Katie Tarasov",
-      "title": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors - CNBC",
-      "description": "Two Nvidia investors with about $2.13 billion of stock disclosed as of June 30 are calling for a deliberate leadership search after Huang’s resignation.",
-      "url": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108330861-1783348415168-gettyimages-2284894623-0d6a8687_71g2vgle.jpeg?v=1794673296&w=1920&h=1080",
-      "publishedAt": "2026-11-14T17:35:51Z",
-      "content": "Two major Nvidia shareholders are calling on the board of directors to weigh all options for the company's future leadership, including \"the potential return of Jensen Huang.\"\r\nAltimeter Capital CEO … [+2646 chars]"
+      "author": "Daniel Sims",
+      "title": "Nvidia deliberately kept GPU prices high through circular financing deals, report claims - TechSpot",
+      "description": "A recent Wall Street Journal profile of Nvidia interim CEO Colette Kress has shed more light on how Nvidia controversially financed its own customers to drive the...",
+      "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+      "urlToImage": "https://www.techspot.com/images2/news/bigimage/2025/01/2025-01-08-image-3.jpg",
+      "publishedAt": "2026-11-14T18:07:00Z",
+      "content": "Connecting the dots: The AI boom has been widely blamed for GPU prices spinning out of control over the past year. Following Jensen Huang's resignation from Nvidia,new information suggests that this … [+3089 chars]"
     },
     {
       "source": {
@@ -297,6 +427,45 @@
     },
     {
       "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Jordan Valinsky",
+      "title": "How a $49 sushi boat and sizzling dumplings help turn P.F. Chang’s around - CNN",
+      "description": "When P.F. Chang’s CEO Jim Mazany took the job last year, he was confronted with a big problem: People were ordering in the chain’s Chinese food, so they didn’t want to visit.",
+      "url": "https://www.cnn.com/2026/11/14/food/pf-changs-turnaround-plan",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/sushiboat1.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-11-14T17:00:16Z",
+      "content": "When P.F. Changs CEO Jim Mazany took the job last year, he was confronted with a big problem: People were mostly ordering the chains Chinese food for takeout instead of dining in.\r\nNot only were we c… [+5469 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CoinDesk"
+      },
+      "author": "Stephen Alpher",
+      "title": "Bitcoin price analysis: BTC continues to decline Saturday, entering 'deep value zone' - CoinDesk",
+      "description": "\"They are now selling at the very price they wish they had taken advantage of three months ago,\" wrote James Check.",
+      "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
+      "urlToImage": "https://cdn.sanity.io/images/s3y3vcno/production/f46cb7bd77675b54e87910ca7d316804c24cdb78-2280x1284.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75",
+      "publishedAt": "2026-11-14T16:42:10Z",
+      "content": "The red candles continue to pile up in crypto.\r\nBitcoin BTC\r\n$63,904.60 has been steadily drifting lower throughout the day, now down by another 7% since the U.S. stock market closed on Friday evenin… [+997 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Lauren Edmonds",
+      "title": "Nvidia's new CEO search is on. Here are the top candidates to replace Jensen Huang. - Business Insider",
+      "description": "Nvidia's new CEO search is underway after Jensen Huang's resignation. Rene Haas, Tim Cook, and others are being floated as potential candidates.",
+      "url": "https://www.businessinsider.com/nvidia-new-ceo-candidates-replace-jensen-huang-2026-11#article",
+      "urlToImage": "https://i.insider.com/6af753360cc3ffba8779ce9b?width=1200&format=jpeg",
+      "publishedAt": "2026-11-14T16:37:00Z",
+      "content": "Reuters reported that analysts and investors view Ian Buck, Nvidia's vice president of hyperscale and high-performance computing, as a possible candidate for the top job.\r\n\"The permanent job is a dif… [+445 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -307,6 +476,32 @@
       "urlToImage": null,
       "publishedAt": "2026-11-14T15:58:22Z",
       "content": "The victim, who believed his financial assets had been compromised, was the target of an online fraud scheme and believed he had to buy the precious metal, the authorities said."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Julian Torres",
+      "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts - CNBC",
+      "description": "ETF experts say Nvidia’s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers.",
+      "url": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108180544-1754063406073-IMG_8872.jpg?v=1754063887&w=1920&h=1080",
+      "publishedAt": "2026-11-14T15:50:43Z",
+      "content": "The largest technology stocks linked to the artificial intelligence trade could stand to benefit the most from Nvidia's woes and a Democratic-controlled Congress pushing back on data centers, accordi… [+4418 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TheStreet"
+      },
+      "author": "TheStreet",
+      "title": "Jim Cramer has a strong take on Nvidia’s next chapter - TheStreet",
+      "description": null,
+      "url": "https://www.thestreet.com/investing/jim-cramer-strong-take-on-nvidia-next-chapter-colette-kress",
+      "urlToImage": null,
+      "publishedAt": "2026-11-14T15:33:00Z",
+      "content": null
     },
     {
       "source": {
@@ -323,16 +518,29 @@
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": "fortune",
+        "name": "Fortune"
       },
-      "author": "Andrew J. Hawkins",
-      "title": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print - The Verge",
-      "description": "Tesla is selling the $29,990 Cybercab for personal use, but a mandatory $299/month fee, Austin-only geofences, and an active NHTSA audit raise big questions.",
-      "url": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25670862/Robotaxi_89.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2026-11-14T14:18:36Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nLook past the $29,990 sticker price and the math and regulatory risk gets messy fast.\r\nLook past the $29,990 sticker price and the math and regulatory risk gets … [+6689 chars]"
+      "author": "Sydney Lake",
+      "title": "Delta CEO says air traffic control systems are so outdated that some routes were faster in the 1950s - Fortune",
+      "description": "Ed Bastian says it’s still safe to fly, though.",
+      "url": "https://fortune.com/article/delta-ceo-ed-bastian-air-traffic-control-systems-flight-routes-1950s-faa-modernization/",
+      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2245810236-e1794666731622.jpg?resize=1200,600",
+      "publishedAt": "2026-11-14T14:47:00Z",
+      "content": "Last year, chronic flight delays and cancellations at Newark Liberty International Airport revealed a litany of problems with antiquated air traffic control systems. Today, those problems persist and… [+3366 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Liz Napolitano",
+      "title": "How Canadian stocks could be big winners of U.S. midterms - CNBC",
+      "description": "Canadian stocks are up more than 1% since the vote, while the S&P 500 has sagged 0.5% in that time.",
+      "url": "https://www.cnbc.com/2026/11/14/canada-stocks-us-midterms-tariffs.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108359715-1788870588538-gettyimages-2293428743-AFP_C7HJ9PX.jpeg?v=1788870617&w=1920&h=1080",
+      "publishedAt": "2026-11-14T14:11:48Z",
+      "content": null
     },
     {
       "source": {
@@ -349,16 +557,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
+        "id": "bloomberg",
+        "name": "Bloomberg"
       },
-      "author": "Jared Blikre",
-      "title": "The Microsoft outage didn’t lose your email — here’s what it does mean for you - Yahoo Finance",
-      "description": "No one has confirmed what caused the Microsoft outage that took down Outlook and Copilot, and nothing links it to layoffs or AI, but it's not the first time...",
-      "url": "https://finance.yahoo.com/markets/article/microsoft-says-ai-didnt-break-outlook--its-own-network-upgrade-did-133858185.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/27e1752ec554d4a4af4dd6f5368509c3bfe67454976ccb433774ffa6a45c7a66/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F05edbf9d-c562-43e9-a6c5-61a22cee1495",
-      "publishedAt": "2026-11-14T13:38:58Z",
-      "content": "Millions of office workers got an unplanned break from email Thursday. Their bosses' favorite new AI tool got one too.\r\nA Microsoft (MSFT) outage that began midday Thursday knocked out Outlook and ot… [+3585 chars]"
+      "author": "Jordan Fitzgerald, Lu Wang",
+      "title": "SpaceX’s S&P 500 Bid Gets New Life as Musk Pitches Tesla Merger - Bloomberg.com",
+      "description": "Just months after SpaceX was denied a swift entry into the S&P 500 Index, Elon Musk may have found a backdoor: Merging with Tesla Inc., one of the stock-market benchmark’s biggest members.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-14/spacex-s-s-p-500-bid-gets-new-life-as-musk-pitches-tesla-merger",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i46lJ7KIXgAk/v0/1200x800.jpg",
+      "publishedAt": "2026-11-14T14:00:00Z",
+      "content": "Just months after SpaceX was denied a swift entry into the S&amp;P 500 Index, Elon Musk may have found a backdoor: Merging with Tesla Inc., one of the stock-market benchmarks biggest members.\r\nTalks … [+386 chars]"
     },
     {
       "source": {
@@ -401,32 +609,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "NewsChannel5.com"
-      },
-      "author": "Hannah McDonald",
-      "title": "AT&T begins shutting down landline services in Middle Tennessee this weekend, here's what to know - News Channel 5 Nashville",
-      "description": "AT&T begins shutting down landline services in Middle Tennessee this Sunday. Here's what homeowners and businesses need to know.",
-      "url": "https://www.newschannel5.com/HannahCanHelp/at-t-begins-shutting-down-landline-services-in-middle-tennessee-this-weekend-heres-what-to-know",
-      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/4352f07/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcf.cdn.uplynk.com%2Fausw2%2Fslices%2F8ef%2F9ca48a3b38ef42538c6fe52a659b1e99%2F8effba589ee042fb905f29fc41887b90%2Fposter_3187340ffcb346d7b8eca0035ca82ad1.jpeg",
-      "publishedAt": "2026-11-14T13:12:25Z",
-      "content": "NASHVILLE, Tenn. (WTVF) Starting this Sunday, AT&amp;T will begin shutting down landline services across several Middle Tennessee communities after receiving permission from the Federal Communication… [+2652 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "https://www.space.com/author/tariq-malik, https://www.space.com/author/josh-dinner, https://www.space.com/author/mike-wall",
-      "title": "SpaceX Starship Flight 15 live updates: Starship heat shield looks good for landing attempt today - Space",
-      "description": "SpaceX could make history with the world's first full recovery of an orbital rocket and spacecraft on Starship Flight 15.",
-      "url": "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-14-2026-starship-first-double-landing-attempt",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/bJHXeZhm26RX9tBiZutCPA-2331-80.jpg",
-      "publishedAt": "2026-11-14T13:00:19Z",
-      "content": "2026-11-14T13:00:15.029ZSpaceX's Starship Flight 15 begins day 2 of longest test flight\r\nGood morning and happy Saturday, Space Fans! Today is Flight Day 2 for SpaceX's Starship Flight 15 test flight… [+20035 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -440,42 +622,42 @@
     },
     {
       "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Matt Burgess, Lily Hay Newman",
+      "title": "Beware the New AI-Fueled Ransomware Boom - WIRED",
+      "description": "Fully automated ransomware hasn’t arrived—yet. But seemingly unsophisticated attackers are using AI tools to wreak havoc.",
+      "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+      "urlToImage": "https://media.wired.com/photos/6af88e4339637940f3ecc20a/191:100/w_1280,c_limit/image%20(76).png",
+      "publishedAt": "2026-11-14T13:00:00Z",
+      "content": "A few ransomware groupsnamely, the Gentlemen, Qilin, and Akirahave emerged as some of the most prominent and stable operations in recent months. However, in their shadow is a range of smaller groups,… [+2506 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": null,
+      "title": "Apple Leads Five Stocks Standing Tall Near Buy Points Despite Nvidia, Other Headwinds - Investor's Business Daily",
+      "description": "The stock market is giving mixed signals, but these stocks are standing tall.",
+      "url": "https://www.investors.com/news/apple-five-stocks-buy-points-nvidia-market-headwinds/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2026/10/stock-Apple-Jingan-Shanghai-store-company.jpg",
+      "publishedAt": "2026-11-14T13:00:00Z",
+      "content": "Information in Investors Business Daily is for informational and educational purposes only and should not be construed as an offer, recommendation, solicitation, or rating to buy or sell securities. … [+1064 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "CNBC"
       },
-      "author": "Laya Neelakandan",
-      "title": "Retailers are turning to entertainment to win shoppers’ attention - CNBC",
-      "description": "Retailers are increasingly investing in and building out entertainment studios as the race for audience attention speeds up.",
-      "url": "https://www.cnbc.com/2026/11/14/retailers-invest-entertainment.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108527434-1793906235283-GAP_JYT_GROUP_SHOT.jpg?v=1794430218&w=1920&h=1080",
-      "publishedAt": "2026-11-14T13:00:01Z",
-      "content": "Gap Inc. has debuted its First \"fashiontainment\" partnership, with the emerging boy band Just Your Type.\r\nLegacy retailer Gap Inc. made an unconventional hire earlier this year: a chief entertainment… [+6430 chars]"
-    },
-    {
-      "source": {
-        "id": "axios",
-        "name": "Axios"
-      },
-      "author": "Maria Curi, Marc Caputo",
-      "title": "MAGA turns on Lutnick amid China spy scandal - Axios",
-      "description": "Regulators and policymakers on both sides of the aisle want someone's head for an affair that may have exposed sensitive technology to the nation's top foreign adversary",
-      "url": "https://www.axios.com/2026/11/14/lutnick-commerce-china",
-      "urlToImage": "https://images.axios.com/xvaGTLBzS7Gw0ZAZoHYMJ-e7fW4=/0x266:7728x4613/1366x768/2026/11/13/1794587701813.jpeg",
-      "publishedAt": "2026-11-14T12:39:39Z",
-      "content": "The big picture: Over the past year, Lutnick slow-walked broader administration efforts to address suspicions that Singapore-based company Megaspeed was illegally diverting chips to China, Axios firs… [+2965 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "WSJ",
-      "title": "The Massive Chinese Spy Operation Targeting Western Tech and AI | The 10-Point for Nov. 14 - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/world/china/the-massive-chinese-spy-operation-targeting-western-tech-and-ai-cd58ff86",
-      "urlToImage": null,
-      "publishedAt": "2026-11-14T12:09:43Z",
-      "content": null
+      "author": "Isabel O'Brien",
+      "title": "Meet the seven co-founders of Anthropic - CNBC",
+      "description": "Four researchers, a former journalist, a public policymaker, and an engineer founded Anthropic in 2021. They're now poised to become multi-billionaires.",
+      "url": "https://www.cnbc.com/2026/11/14/meet-the-seven-co-founders-of-anthropic.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108464324-1793023646338-gettyimages-2279058111-BLOOMBERG_TECH.jpeg?v=1793023666&w=1920&h=1080",
+      "publishedAt": "2026-11-14T12:00:01Z",
+      "content": "Four researchers, a former journalist, a public policymaker, and an engineer founded Anthropic in 2021. Six years later, the artificial intelligence company is about to go public, with trading expect… [+10801 chars]"
     },
     {
       "source": {
@@ -505,6 +687,19 @@
     },
     {
       "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": null,
+      "title": "The Garbage Man: Bill Gates has earned billions investing in climate-polluting landfills - CNN",
+      "description": "In November 2015, world leaders descended on Paris to negotiate a historic agreement to limit global warming. But on the summit’s opening day, attention turned to a private citizen slouched awkwardly in a chair on stage: Bill Gates.",
+      "url": "https://www.cnn.com/2026/11/14/climate/bill-gates-landfills-propublica",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2237235823.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-11-14T11:30:16Z",
+      "content": "EDITORS NOTE:  This story was originally published by ProPublica, a nonprofit newsroom that investigates abuses of power. Sign up to receive their biggest stories as soon as theyre published.\r\nIn Nov… [+25481 chars]"
+    },
+    {
+      "source": {
         "id": "axios",
         "name": "Axios"
       },
@@ -528,6 +723,19 @@
       "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/03/customer-writes-tip-on-restaurant-receipt.jpg",
       "publishedAt": "2026-11-14T11:00:44Z",
       "content": "Ford's Garage may be reconsidering a controversial policy that automatically adds a 20% service charge to customers' checks at five Florida restaurants, with the chain's president acknowledging that … [+4666 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vox"
+      },
+      "author": "Sigal Samuel",
+      "title": "America’s AI secrets are leaking — and not just because of the Nvidia spy scandal - Vox",
+      "description": "Who needs Jensen Huang’s Chinese spy when you’ve got security as bad as OpenAI or Anthropic?",
+      "url": "https://www.vox.com/future-perfect/510882/nvidia-jensen-huang-spy-ai-security-openai-anthropic",
+      "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2026/11/GettyImages-2296993009.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2026-11-14T11:00:00Z",
+      "content": "TORONTO When a company is building technology that could totally transform the world technology so high-stakes and secretive that it may underpin the future of geopolitics you might expect its leader… [+11878 chars]"
     },
     {
       "source": {
@@ -570,55 +778,16 @@
     },
     {
       "source": {
-        "id": "fortune",
-        "name": "Fortune"
+        "id": "associated-press",
+        "name": "Associated Press"
       },
-      "author": "Fernanda Tronco",
-      "title": "Jensen Huang's $145 billion question: What California divorce law says Lori Huang could get - Fortune",
-      "description": "Lori Huang could be entitled to half the couple's community property under California law. Most of Jensen Huang's 870 million Nvidia shares sit in trusts they share.",
-      "url": "https://fortune.com/2026/11/14/jensen-huang-divorce-lori-huang-nvidia-fortune-community-property/",
-      "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2296998600.jpg?resize=1200,600",
-      "publishedAt": "2026-11-14T09:37:00Z",
-      "content": "Jensen Huang has lost his job, his board seat, and roughly $10 billion in paper wealth since admitting to an affair. If his 41-year marriage ends, California law could put a far larger share of his f… [+5218 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Motley Fool"
-      },
-      "author": "Adria Cimino",
-      "title": "Prediction: Nov. 18 Will Be a Massive Day for the Stock Market - The Motley Fool",
-      "description": "Two major events are on the agenda.",
-      "url": "https://www.fool.com/investing/2026/11/14/prediction-nov-18-will-be-a-massive-day-for-the-stock-market/",
-      "urlToImage": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F939d0258ee81056222ddb771c241de8d402e77e6-2121x1414.jpg&w=1200&op=resize",
-      "publishedAt": "2026-11-14T09:10:00Z",
-      "content": "Artificial intelligence (AI) stocks, heavily weighted in the S&amp;P 500, have fueled its direction in recent years. In the early stages of the AI boom, the direction was clearly upward, but in 2026,… [+4219 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WRAL.com"
-      },
-      "author": "Jessica Patrick, WRAL senior multiplatform producer",
-      "title": "Little Munchkin: Raleigh couple delivers baby in Dunkin' Donuts parking lot before ambulance arrives - WRAL",
-      "description": "A Raleigh couple delivered their baby in the parking lot of a Dunkin' Donuts minutes before first responders arrived.",
-      "url": "https://www.wral.com/news/local/raleigh-couple-delivers-baby-dunkin-donuts-parking-lot-november-2026/",
-      "urlToImage": "https://images.wral.com/0b38148c-51dd-49bc-bb68-140dc6d0d168?w=1200&h=630&height=630",
-      "publishedAt": "2026-11-14T09:03:35Z",
-      "content": "A Raleigh couple delivered their baby in the parking lot of a Dunkin' Donuts minutes before first responders arrived.\r\nMorgan Hudgins and Michael Holley said their daughter, Layla, was born Nov. 2 at… [+3696 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TheStreet"
-      },
-      "author": "TheStreet",
-      "title": "Nvidia’s 60% target cut exposes a Wall Street split - TheStreet",
-      "description": null,
-      "url": "https://www.thestreet.com/investing/wall-street-split-on-nvidia-stock",
-      "urlToImage": null,
-      "publishedAt": "2026-11-14T09:03:00Z",
-      "content": null
+      "author": "The Associated Press",
+      "title": "Microsoft says services fully restored after hourslong global outage - AP News",
+      "description": "Microsoft says services are fully restored after a massive, global outage that lasted for hours. The company announced Saturday that it had addressed the underlying issue and restored service to affected customers and regions. Users reported interruptions to …",
+      "url": "https://apnews.com/article/microsoft-outage-outlook-email-365-recover-ca395c0f1e51af784b6d70afb6554f6a",
+      "urlToImage": "https://dims.apnews.com/dims4/default/1983007/2147483647/strip/true/crop/4799x3199+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3a%2F67%2F2291c0c3307a241b4adb4fe66cde%2F24ce3b35a11b46a394ff87476ed2881f",
+      "publishedAt": "2026-11-14T09:21:00Z",
+      "content": "Microsoft said Saturday that services were fully restored after a massive outage that lasted for hours.\r\nWe have completed our efforts to address the underlying issue of the incident and restored ser… [+4794 chars]"
     },
     {
       "source": {
@@ -661,19 +830,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "NBC Bay Area"
-      },
-      "author": "NBC Bay Area staff",
-      "title": "San Jose Denny's reinstalls plaque honoring former Nvidia CEO Jensen Huang - NBC Bay Area",
-      "description": "The plaque was presented on Sept. 26 2023, highlighting the very booth Huang conceived his idea for Nvidia.",
-      "url": "https://www.nbcbayarea.com/news/local/sj-dennys-removes-plaque-nvidia-former-ceo/4175681/",
-      "urlToImage": "https://media.nbcbayarea.com/2026/11/Video-71.jpg?quality=85&strip=all&resize=1200%2C675",
-      "publishedAt": "2026-11-14T00:32:01Z",
-      "content": "Amidst the scandal involving former Nvidia CEO Jensen Huang, the original Denny's location where he once worked removed the plaque that celebrated his success. On Friday, the restaurant announced it … [+1315 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -700,6 +856,32 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Ocalagazette.com"
+      },
+      "author": "Susan",
+      "title": "City declares balcony rooms unsafe at downtown hotel - Ocala Gazette",
+      "description": "Ocala’s chief building official has declared all balcony rooms at the downtown Hilton Garden Inn “unsafe for occupancy,” citing sagging balconies and",
+      "url": "https://www.ocalagazette.com/city-declares-balcony-rooms-unsafe-at-downtown-hotel/",
+      "urlToImage": "https://www.ocalagazette.com/wp-content/uploads/2026/11/IMG_8285-rotated.jpeg",
+      "publishedAt": "2026-11-13T22:09:55Z",
+      "content": "Ocalas chief building official has declared all balcony rooms at the downtown Hilton Garden Inn unsafe for occupancy, citing sagging balconies and water damage.\r\nIn an Oct. 29 letter to hotelier Dann… [+5572 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Joel Breakstone, Nadav Ziv",
+      "title": "Hackers stole $6.3 billion from Binance—2 habits that take 'a few seconds' can help you avoid similar traps - CNBC",
+      "description": "Researchers from the Digital Inquiry Group say that two habits that take just \"a few seconds up front\" can help keep you from being \"duped\" online.",
+      "url": "https://www.cnbc.com/make-it/2026/11/13/binance-hack-2-online-habits-that-can-help-you-avoid-scams-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108551385-1794601712041-gettyimages-2304551805-dsc07748.jpeg?v=1794601732&w=1920&h=1080",
+      "publishedAt": "2026-11-13T22:06:55Z",
+      "content": "The biggest heist in cryptocurrency history began with small mistakes many internet users make. A hacking group tied to North Korea recently stole $6.3 billion from the crypto exchange Binance. The o… [+4804 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -710,6 +892,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/13/multimedia/13biz-microsoft-down-ptmz/13biz-microsoft-down-ptmz-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-13T21:28:58Z",
       "content": "A prolonged outage left many without email and other services, the most recent reminder that the world’s technological underpinnings rely on just a few companies."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kitco NEWS"
+      },
+      "author": "https://www.kitco.com/author/ernest-hoffman",
+      "title": "Gold is on the cusp of breaking key support, and further USD strength could drive price to $3,500/oz – Jesse Colombo - Kitco",
+      "description": "(Kitco News) – Gold is teetering on the brink of a far more significant breakdown, and if the U.S. dollar’s recent rally goes much higher, the yellow metal could lose an additional $400 to $500…",
+      "url": "https://www.kitco.com/news/article/2026-11-13/gold-cusp-breaking-key-support-and-further-usd-strength-could-drive-price",
+      "urlToImage": "https://images.kitco.com/img/extract_0_0_1672_941,width_1200,enlarge,format_jpeg/icms/d421129b-82a7-4064-80c4-8a67bac5ed4b.png",
+      "publishedAt": "2026-11-13T21:26:49Z",
+      "content": "(Kitco News)  Gold is teetering on the brink of a far more significant breakdown, and if the U.S. dollars recent rally goes much higher, the yellow metal could lose an additional $400 to $500 before … [+2190 chars]"
     },
     {
       "source": {
@@ -726,6 +921,19 @@
     },
     {
       "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "DEE-ANN DURBIN - AP Business Writer",
+      "title": "Family Dollar to Pay $63 Million to Settle Allegations that It Routinely Overcharged Customers - WKTV",
+      "description": "Family Dollar will pay $63 million to settle state and federal allegations that it routinely charged customers more at the register than the prices displayed on its shelves or on",
+      "url": "https://apnews.com/article/family-dollar-discounts-settlement-overcharge-07a2406e383eee895ffdacb7f1d5af11",
+      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/wktv.com/content/tncms/assets/v3/editorial/4/96/4963d320-fbfd-4d6d-8801-425bcccf0ae9/6af77f13ba13d.image.jpg?crop=1791%2C940%2C0%2C108&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2026-11-13T21:16:00Z",
+      "content": "Family Dollar will pay $63 million to settle state and federal allegations that it routinely charged customers more at the register than the prices displayed on its shelves, website and mobile app.\r\n… [+2774 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -736,19 +944,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-nvidia-memes-1-hwzb/12int-nvidia-memes-1-hwzb-mediumSquareAt3X-v2.jpg",
       "publishedAt": "2026-11-13T21:04:57Z",
       "content": "The revelations surrounding Jensen Huang, who resigned from Nvidia over extramarital affairs, inspired social media posts using the very technology his company helped develop."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Jeff Cox",
-      "title": "AI risks are the biggest threat to the financial system, Fed survey finds - CNBC",
-      "description": "The report comes with Wall Street on edge over high-flying AI hyperscalers, while communities are on alert for the rapid spread of data centers.",
-      "url": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108550641-1794522605632-gettyimages-2299887954-NSCALE_DATA_CENTER.jpeg?v=1794522669&w=1920&h=1080",
-      "publishedAt": "2026-11-13T21:00:12Z",
-      "content": "Threats from artificial intelligence topped the list for greatest risks to the financial system, far exceeding any other dangers, according to respondents who participated in a Federal Reserve survey… [+1836 chars]"
     },
     {
       "source": {
@@ -779,15 +974,15 @@
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "CNYcentral.com"
       },
-      "author": "Enda Curran",
-      "title": "Fed on Track to Raise Interest Rates Next Month And Maybe Again in January - Yahoo Finance",
-      "description": "The US monetary policy debate has already moved on to January.",
-      "url": "https://finance.yahoo.com/economy/policy/articles/fed-track-raise-interest-rates-195501318.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/b59382c1dec9b192edcd926dc9fa4d90470d5eccfe19d5f32fb4fe447256b3f1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2Fe9d4cc3c2d0b6454859f4c401d8f7881.jpg",
-      "publishedAt": "2026-11-13T19:55:01Z",
-      "content": "(Bloomberg) -- The US monetary policy debate has already moved on to January.\r\nMost Read from Bloomberg\r\nIn a blitz of speeches and interviews this week, Federal Reserve officials locked in market ex… [+6083 chars]"
+      "author": "Matthew Benninger",
+      "title": "$25,000 county grant aims to keep Twin Trees restaurant on Avery Avenue open - WSTM",
+      "description": "Onondaga County awarded Syracuse’s Twin Trees on Avery Ave. a $25K hospitality grant for upgrades and marketing, funded by visitor dollars like the hotel occupancy tax. The restaurant is reopening with limited hours.",
+      "url": "https://cnycentral.com/news/local/25000-county-grant-aims-to-keep-twin-trees-restaurant-on-avery-avenue-open",
+      "urlToImage": "https://cnycentral.com/resources/media2/16x9/1280/1320/center/90/155a0d2e-b8fa-4fd8-ba15-75a6383b95b0-TT1.jpg",
+      "publishedAt": "2026-11-13T19:54:27Z",
+      "content": "SYRACUSE, N.Y. Onondaga County announced Friday that it had awarded a grant to save the Twin Trees restaurant on Avery Avenue in Syracuse, New York.\r\nOnondaga County Executive Ryan McMahon awarded a … [+1584 chars]"
     },
     {
       "source": {
@@ -818,6 +1013,19 @@
     {
       "source": {
         "id": null,
+        "name": "SFist"
+      },
+      "author": "Leanne Maxwell",
+      "title": "Caltrain Gets $750 Million Boost for Long-Awaited Downtown SF Extension - SFist",
+      "description": "The long-planned extension of Caltrain into downtown San Francisco is moving forward with the state awarding $100 million toward the Caltrain extension and committing another $650 million over multiple years.",
+      "url": "https://sfist.com/2026/11/13/caltrain-gets-750-million-boost-for-long-awaited-downtown-sf-extension/",
+      "urlToImage": "https://img.sfist.com/2026/11/cross-section-view-of-the-new-transbay-transit-center-darker.png",
+      "publishedAt": "2026-11-13T19:29:31Z",
+      "content": "The long-planned extension of Caltrain into downtown San Francisco is moving forward with the state awarding $100 million toward the Caltrain extension and committing another $650 million over multip… [+4143 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Hollywood Reporter"
       },
       "author": "Winston Cho",
@@ -831,32 +1039,6 @@
     {
       "source": {
         "id": null,
-        "name": "Eatingwell.com"
-      },
-      "author": "https://www.facebook.com/EatingWell/",
-      "title": "FDA Announces Nationwide Recall on Toothpaste and Mouthwash Due to Potential Health Risks - EatingWell",
-      "description": "Toothpaste and mouthwash recall impacts Organic Oral Care products due to contamination risks. Check affected lots and expiration dates here.",
-      "url": "https://www.eatingwell.com/toothpaste-mouthwash-recall-12253208",
-      "urlToImage": "https://www.eatingwell.com/thmb/lafvqibeWmQOHJMZZCWbNeTdO_w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/organic-oral-care-toothpaste-recall-nov-2026-0eda4b3bcba846fd8f724392f1c305a1.jpg",
-      "publishedAt": "2026-11-13T19:23:16Z",
-      "content": "ORL Labs announced an ongoing nationwide recall for various Organic Oral care products, according to the Food and Drug Administration. This is due to cross-contamination with the presence of progeste… [+2210 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eatingwell.com"
-      },
-      "author": "Lily Menk",
-      "title": "Popular Costco Thanksgiving Product Recalled Due to Contamination—Here’s What to Know - AOL.com",
-      "description": "Check your fridge ASAP.",
-      "url": "https://www.eatingwell.com/costco-thanksgiving-product-recall-contamination-warning-details-12253227",
-      "urlToImage": "https://hermes.media.static.aol.com/media/2026/11/13/ba9de58b-e2e8-3ea8-a796-ee606a504290/7e60cadc-a727-4641-b7a0-e9e88b5a3742.jpg",
-      "publishedAt": "2026-11-13T19:08:37Z",
-      "content": "<ul><li>Kirkland Signature Whipped Cream is recalled for possible cleaning chemical contamination.\r\n</li><li>Affected cans have a best-by date of April 2, 2027, and timestamps between 00:35 and 02:45… [+1238 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "PostBulletin.com"
       },
       "author": "Dené K. Dryden",
@@ -866,32 +1048,6 @@
       "urlToImage": "https://cdn.forumcomm.com/dims4/default/2a27cc7/2147483647/strip/true/crop/4500x3000+0+0/resize/1599x1066!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2F30%2F78%2Fb6ac8afb407b8bf1c0fbe768be3b%2F070825-aisummit-0.JPG",
       "publishedAt": "2026-11-13T19:07:57Z",
       "content": "ROCHESTER The Mayo Clinic Board of Trustees has selected Dr. Matthew Callstrom, a trustee and artificial intelligence leader, as Mayo Clinic's next president and CEO, the health system announced Frid… [+4731 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Sarah Agostino",
-      "title": "Retirees sometimes tap savings for one-off expenses. Here’s what advisors say to consider first - CNBC",
-      "description": "Retirees who need cash for a one-time expense may look to their 401(k) or IRA, but financial advisors say there are trade-offs to weigh first.",
-      "url": "https://www.cnbc.com/2026/11/13/retirement-401k-ira-withdrawal-taxes.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107346466-1702397745079-gettyimages-871350168-091109_0502_9203.jpeg?v=1794317932&w=1920&h=1080",
-      "publishedAt": "2026-11-13T19:00:10Z",
-      "content": "Retirees facing a large expense that's not in their regular household budget may turn to their traditional 401(k) or individual retirement account balances to cover it.\r\nWhile retirement savings may … [+8099 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Electrek"
-      },
-      "author": "Fred Lambert",
-      "title": "Tesla stops selling every Cybertruck except the $109,990 Cyberbeast - Electrek",
-      "description": "Tesla pulled the Dual Motor and Premium Cybertruck from its US configurator and raised the Cyberbeast to $109,990, up 57% from the August entry price.",
-      "url": "http://electrek.co/2026/11/13/tesla-only-sells-cybertruck-cyberbeast-109990/",
-      "urlToImage": "https://electrek.co/wp-content/uploads/sites/3/2026/11/image_7594a0.jpg?quality=82&strip=all&resize=1200,628",
-      "publishedAt": "2026-11-13T18:13:00Z",
-      "content": "Tesla is now only selling one version of the Cybertruck in the US: the tri-motor Cyberbeast, which just got another $7,500 price hike to $109,990.\r\nThe Dual Motor and Premium AWD trims are still list… [+3951 chars]"
     },
     {
       "source": {
@@ -924,13 +1080,13 @@
         "id": null,
         "name": "WFLA"
       },
-      "author": "WFLA",
+      "author": "Sana Azem",
       "title": "Postal Service to make fuel surcharge permanent in 2027 - WFLA",
-      "description": null,
+      "description": "The surcharge will reportedly be reevaluated in July 2027 based on fuel prices in the first half of 2027, according to USPS.",
       "url": "https://www.wfla.com/news/national/postal-service-to-make-fuel-surcharge-permanent-in-2027/",
-      "urlToImage": null,
+      "urlToImage": "https://www.wfla.com/wp-content/uploads/sites/71/2026/11/AP26007110688760-e1790189002744.jpg?w=1280",
       "publishedAt": "2026-11-13T17:59:32Z",
-      "content": null
+      "content": "(NewsNation) The U.S. Postal Service announced it will raise domestic shipping prices, making the fuel surcharge permanent in 2027. \r\nUSPS said that it will make a temporary 8% surcharge, which was f… [+826 chars]"
     },
     {
       "source": {
@@ -944,19 +1100,6 @@
       "urlToImage": "https://www.nhtsa.gov/themes/custom/nhtsa/images/NHTSA-media-share-logo.png",
       "publishedAt": "2026-11-13T17:47:31Z",
       "content": "BMW of North America has issued a park outside recall for 720,796 vehicles due to a risk of fire while parked and turned off. These vehicles were previously recalled in 2024 for a water pump issue an… [+1642 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Mithil Aggarwal",
-      "title": "In China, Nvidia scandal stirs defiance and skepticism - NBC News",
-      "description": "HONG KONG — While China continues to dismiss allegations of spying that ignited a scandal enveloping one of America’s leading tech companies, the fallout may bring significant challenges for the country’s own AI ambitions.",
-      "url": "https://www.nbcnews.com/world/asia/jensen-huang-nvidia-china-ai-chips-rcna608952",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261112-jensen-huang-mb-1340-ef3912.jpg",
-      "publishedAt": "2026-11-13T17:40:26Z",
-      "content": "Just a moment.\r\nWe are getting your experience ready."
     },
     {
       "source": {
@@ -1025,19 +1168,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Tobias Burns",
-      "title": "HSBC downgrades Nvidia, says stock to struggle until new CEO named - CNBC",
-      "description": "Analyst Frank Lee downgraded the chipmaker to hold from buy.",
-      "url": "https://www.cnbc.com/2026/11/13/hsbc-downgrades-nvidia-says-stock-to-struggle-until-new-ceo-named.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108550424-17945111732026-11-12t191810z_256180885_rc2jmoao5ibx_rtrmadp_0_usa-stocks.jpeg?v=1794511234&w=1920&h=1080",
-      "publishedAt": "2026-11-13T15:50:38Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1048,19 +1178,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/13/multimedia/13dc-fed-01-fjhv/13dc-fed-01-fjhv-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-13T15:45:40Z",
       "content": "The Federal Reserve will vote on interest rates less frequently beginning next year as part of a plan by the central bank’s chairman, Kevin M. Warsh, to overhaul how it operates."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Forbes"
-      },
-      "author": "Forbes",
-      "title": "Expedia Hacked: Nearly A Billion Traveler Records Exposed—Here’s What We Know - Forbes",
-      "description": null,
-      "url": "https://www.forbes.com/sites/suzannerowankelleher/2026/11/13/russian-cyberattackers-hit-expedia-nearly-a-billion-traveler-records-exposed/",
-      "urlToImage": null,
-      "publishedAt": "2026-11-13T15:36:15Z",
-      "content": null
     },
     {
       "source": {
@@ -1090,19 +1207,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Ivana Pino",
-      "title": "Gas prices are falling below $4. Why it's not about the election. - Yahoo Finance",
-      "description": "Fuel prices have begun to retreat from recent highs on the heels of the midterm elections. However, experts say the election results aren't the reason prices...",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/gas-prices-are-falling-below-4-why-its-not-about-the-election-143310814.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/fbce3e10572d3caae775fc2ea67e68cade5db0d09c748526f346d9e8b1a94b76/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Feefd6c17-c7b8-4d88-a970-1d3ca123a6e9",
-      "publishedAt": "2026-11-13T14:33:10Z",
-      "content": "Gas prices have been a pain point for many Americans this year, ever since the start of the conflict in Iran sent oil and fuel prices soaring. \r\nIn recent days, however, drivers have gotten some reli… [+3025 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1113,19 +1217,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/12/multimedia/12biz-mortgage-rates-pkzb/12biz-mortgage-rates-pkzb-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-13T14:28:29Z",
       "content": "The average 30-year, fixed-rate home loan fell slightly, to 7.11 percent, pushing buyers and sellers to the sidelines until conditions improve."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Jeff Cox",
-      "title": "Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation - CNBC",
-      "description": "The policymaker expressed concern about the latest inflation data, telling CNBC that the central bank likely will need to take action.",
-      "url": "https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108355873-1787937828260-_05A6307.jpg?v=1787937944&w=1920&h=1080",
-      "publishedAt": "2026-11-13T14:22:07Z",
-      "content": "Chicago Federal Reserve President Austan Goolsbee expressed concern about the latest inflation data, telling CNBC on Friday that the central bank likely will need to take action.\r\n\"I believe that the… [+1845 chars]"
     },
     {
       "source": {
@@ -1156,19 +1247,6 @@
     {
       "source": {
         "id": null,
-        "name": "The Drive"
-      },
-      "author": "Joel Feder",
-      "title": "Scout’s Gas-Backed Traveler SUV Will Make 800 HP, Its CEO Told Us - The Drive",
-      "description": "Scout Motors President and CEO Scott Keogh told The Drive the Traveler with the Harvester range extender \"is a pretty phenomenal solution.\"",
-      "url": "https://www.thedrive.com/news/scouts-gas-backed-traveler-suv-will-make-800-hp-its-ceo-told-us",
-      "urlToImage": "https://www.thedrive.com/wp-content/uploads/2026/03/Scout-Dealers-Hero-1.jpg?w=1200",
-      "publishedAt": "2026-11-13T13:09:04Z",
-      "content": "The Drive your inbox. Every weekday\r\nOur newsletters take you inside the business and culture of cars with breaking industry news, spy photos, and exclusive reporting.\r\nScout answered the skeptics on… [+2112 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Semafor.com"
       },
       "author": "Rohan Goswami",
@@ -1194,29 +1272,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
+        "id": "wired",
+        "name": "Wired"
       },
-      "author": "Christy Bieber",
-      "title": "A ‘meaningful boost’ is coming to Social Security checks in 2027. Here’s what it could mean for your monthly check - Yahoo Finance",
-      "description": "A cost-of-living increase could give retirees more room in their budgets.",
-      "url": "https://finance.yahoo.com/economy/policy/articles/meaningful-boost-coming-social-security-111500052.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/e6e6c4f3eb93e6186e7064e6cff374b514524039a46c7c186f525d8bbc646132/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoneywise_ecomm_711%2F5df023a81fdd177615208a0c437b9d96.jpg",
-      "publishedAt": "2026-11-13T11:15:00Z",
-      "content": "dvatri/Envato\r\nMoneywise and Yahoo Finance LLC may earn commission or revenue through links in the content below.\r\nFor many retirees living on a fixed income, rapid price increases (1) in the post-pa… [+5470 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": null,
-      "title": "FBI says it's recovered $1.2 billion worth of cryptocurrency stolen from Binance - CBS News",
-      "description": "The FBI says it's seized more than $1.2 billion of cryptocurrency reported stolen last month from Binance, the world's largest cryptocurrency exchange.",
-      "url": "https://www.cbsnews.com/news/fbi-cryptocurrency-1-2-billion-binance/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/10/23/da771d5f-c037-4b4a-b168-c7fafdec9da3/thumbnail/1200x630/2f49750673e563e6283f5c83343305bf/ap23325643193246.jpg",
-      "publishedAt": "2026-11-13T10:52:16Z",
-      "content": "Washington — The FBI said Thursday that it had seized more than $1.2 billion of cryptocurrency reported stolen last month from Binance, the world's largest crypto exchange.\r\nThe theft of about $6.3 b… [+1848 chars]"
+      "author": "Miles Klee",
+      "title": "‘Call Him Out’: Cybertruck Loyalists Are in Mourning—and They Want Answers From Elon Musk - WIRED",
+      "description": "Tesla’s unpredictable CEO is ready to move on from the company’s most controversial vehicle, but owners aren’t about to let him off the hook for what they see as a poor decision.",
+      "url": "https://www.wired.com/story/cybertruck-fans-demand-answers-from-elon-musk-about-the-vehicles-demise/",
+      "urlToImage": "https://media.wired.com/photos/6af663e1fcffa2a0af03f00a/191:100/w_1280,c_limit/Cybertruck-Mourning-Culture.jpg",
+      "publishedAt": "2026-11-13T10:30:00Z",
+      "content": "Last week, Elon Musk announced on X that Tesla would halt production of the Cybertruck at Gigafactory Texas around the middle of next year, supposedly to allow for increased production of self-drivin… [+3575 chars]"
     },
     {
       "source": {
@@ -1243,71 +1308,6 @@
       "urlToImage": null,
       "publishedAt": "2026-11-13T10:03:25Z",
       "content": "An Austrian designer is unveiling a version that aims to solve an age-old problem for connoisseurs: how to keep the alcohol from overpowering the aroma."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NPR"
-      },
-      "author": "Sequoia Carrillo",
-      "title": "Why is Google cutting off Search from AI-free schools? Here are some theories - NPR",
-      "description": "The forthcoming move has left some parents and educators frustrated and wondering about the company's motivations.",
-      "url": "https://www.npr.org/2026/11/13/nx-s1-6029408/google-ai-search-schools",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3328x1872+0+115/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F27%2F0a%2F07635bc543269981b602417914fe%2Fap23345330599272.jpg",
-      "publishedAt": "2026-11-13T10:00:00Z",
-      "content": "Catch up on what you missed with our Education newsletter, sent weekly.\r\nGoogle is a big part of the school day for millions of students. It's not only a search engine. It's a hub for sharing documen… [+4194 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ProPublica"
-      },
-      "author": "Ben Berke, John Moritz, and Anastasia Lennon",
-      "title": "The Offshore Wind Industry Gave Him the Well-Paying Work He Needed. Then Trump Gutted It. - ProPublica",
-      "description": "Massachusetts and Connecticut invested millions into offshore wind in the hopes the once-blossoming industry would jump-start local economies. But amid Trump’s multifront war on the industry, workers say they’re watching opportunity dry up.",
-      "url": "https://www.propublica.org/article/offshore-wind-trump-connecticut-massachussetts",
-      "urlToImage": "https://www.propublica.org/wp-content/uploads/2026/11/DSC09529-1-SOCIAL.jpg?w=1200",
-      "publishedAt": "2026-11-13T10:00:00Z",
-      "content": "On a hot July day in 2022, then-President Joe Biden gave a speech from the ruins of a coal-fired power plant on the southern coast of Massachusetts. \r\nStanding where ships once delivered coal for com… [+11462 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
-      "author": "Sam Meredith",
-      "title": "‘We will sue them’: Canada threatens Stellantis as Trump trade war reshapes Jeep production plans - CNBC",
-      "description": "The dispute comes after Stellantis scrapped planned Jeep Compass production in Brampton and shifted future output to Illinois amid U.S. auto tariffs.",
-      "url": "https://www.cnbc.com/2026/11/13/canada-stellantis-auto-trump-tariffs-jeep.html",
-      "urlToImage": "https://image.cnbcfm.com/api/v1/image/108550846-1794558273935-gettyimages-2287346797-POLAND_STELLANTIS.jpeg?v=1794558447&w=1920&h=1080",
-      "publishedAt": "2026-11-13T09:44:38Z",
-      "content": "Canada has threatened to sue auto giant Stellantis over the planned sale of an idled assembly plant in Brampton, Ontario, alleging breaches of a federal funding agreement after the carmaker announced… [+2735 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "WSJ",
-      "title": "Global Oil Market Set to Return to Surplus as Gulf Exports Recover, IEA Says - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/business/energy-oil/global-oil-market-set-to-return-to-surplus-as-gulf-exports-recover-iea-says-d535096c",
-      "urlToImage": null,
-      "publishedAt": "2026-11-13T09:40:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Financial Times"
-      },
-      "author": null,
-      "title": "Nscale warns it needs more cash ahead of $35bn IPO - Financial Times",
-      "description": "Nvidia-backed ‘neocloud’ tells investors it must obtain additional financing to fulfil Anthropic contracts",
-      "url": "https://www.ft.com/content/8d5a8642-d0a1-458d-aaa4-c1e7d344fe47?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff8a17010-115d-4f90-b160-e66fe1950709.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "publishedAt": "2026-11-13T04:10:23Z",
-      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
     }
   ]
 }

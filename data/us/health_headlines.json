@@ -6,9 +6,22 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-15T22:07:34.030084+00:00",
-  "articles_count": 77,
+  "fetched_at": "2026-11-16T03:19:10.226340+00:00",
+  "articles_count": 79,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Lisa Miller and Lexi Parra",
+      "title": "Research Stalls for a Year Into a Cancer That Kills Children in a Year",
+      "description": "For 27 years, the Pediatric Brain Tumor Consortium worked to save kids with brain cancer. But just before 5-year-old Ryleigh Schecter was diagnosed, the government shut it down.",
+      "url": "https://www.nytimes.com/2026/11/15/well/research-stalls-for-a-year-into-a-cancer-that-kills-children-in-a-year.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/28/us/00well-science-patient-promo/00well-science-patient-promo-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-16T00:00:33Z",
+      "content": "For 27 years, the Pediatric Brain Tumor Consortium worked to save kids with brain cancer. But just before 5-year-old Ryleigh Schecter was diagnosed, the government shut it down."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -25,6 +38,45 @@
     {
       "source": {
         "id": null,
+        "name": "NPR"
+      },
+      "author": "Amy Maxmen",
+      "title": "US has lost measles elimination status, global health authorities say - NPR",
+      "description": "The U.S. has lost its status as a country where measles is eliminated, according to researchers with direct knowledge of the deliberations at the Pan American Health Organization.",
+      "url": "https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2873x1616+0+104/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F17%2F49%2F1f36704d408faf669fa00f372d61%2Fmeasles-02.jpg",
+      "publishedAt": "2026-11-14T22:15:02Z",
+      "content": "The U.S. has lost its status as a country where measles is eliminated, a public health triumph secured a quarter century ago.\r\nResearchers with direct knowledge of the deliberations on the country's … [+13255 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KSN-TV"
+      },
+      "author": "KSN.com",
+      "title": "Rabies clinic planned after cat tests positive in south-central Kansas - KSN.com",
+      "description": null,
+      "url": "https://www.ksn.com/news/state-regional/rabies-clinic-planned-after-cat-tests-positive-in-south-central-kansas/",
+      "urlToImage": null,
+      "publishedAt": "2026-11-14T21:02:01Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Peter Dockrill",
+      "title": "Scientists Invented an Electric Comb, And Tests in Mice Show It Promotes Rapid Hair Growth - ScienceAlert",
+      "description": "If you're losing your hair, you might not be reaching for the comb as often as you used to.",
+      "url": "https://www.sciencealert.com/scientists-invented-an-electric-comb-and-tests-in-mice-show-it-promotes-rapid-hair-growth",
+      "urlToImage": "https://www.sciencealert.com/images/2026/11/electric-comb.jpg",
+      "publishedAt": "2026-11-14T20:02:20Z",
+      "content": "If you're losing your hair, you might not be reaching for the comb as often as you used to.\r\nIt's just possible that could be about to change.\r\nResearch from scientists in China has revealed a promis… [+3761 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "HuffPost"
       },
       "author": null,
@@ -34,6 +86,19 @@
       "urlToImage": "https://img.huffingtonpost.com/asset/64fb324a260000350050f1be.png?cache=TMe4DQxX5C&ops=500_281%2Cscalefit_1200_630",
       "publishedAt": "2026-11-14T18:50:01Z",
       "content": "Lee with one of his grandsons in 2021.\r\nLee died in February. We celebrated his life the Saturday before Fathers Day. I should have been grieving. Instead, I was taking delivery of flowers and prepar… [+10801 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "San Luis Obispo Tribune"
+      },
+      "author": "Joe Tarica",
+      "title": "Another child sickened with E. coli after outbreak spreads to SLO preschool - San Luis Obispo Tribune",
+      "description": "A child at a San Luis Obispo, California, preschool was infected and hospitalized with Shiga toxin-producing E. coli in a person-to-person transmission from one of the original Brookshire Farm cases.",
+      "url": "https://www.sanluisobispo.com/news/local/article318080679.html",
+      "urlToImage": "https://www.thestate.com/public/news/state/south-carolina/84r1i6/picture148744579/alternates/LANDSCAPE_1200/Shigatoxin%20producing%20E",
+      "publishedAt": "2026-11-14T18:49:00Z",
+      "content": "Local\r\nAnother child was sickened with a deadly strain of E. coli after being infected at a San Luis Obispo preschool by one of the five primary cases involved in the initial outbreak that killed an … [+3017 chars]"
     },
     {
       "source": {
@@ -47,6 +112,19 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/KU5HAKQXFUP4JVGXZUMZLIQTQY.JPG&w=1440",
       "publishedAt": "2026-11-14T18:18:02Z",
       "content": "Heres the latest example of how suspicion of vaccines is, lamentably, gripping far too many Americans: Parents are refusing vitamin K shots for newborns, even though they are not even vaccines, somet… [+122 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Martha Stewart"
+      },
+      "author": "https://www.facebook.com/marthastewart/",
+      "title": "Is Sprouted Bread Healthier Than Sourdough? Here’s What Dietitians Say - Martha Stewart",
+      "description": "Sprouted bread vs. sourdough: which is healthier? Dietitians explain the differences between these two popular breads and which is the best choice. They also share what to look for when buying sourdough or sprouted bread.",
+      "url": "https://www.marthastewart.com/is-sprouted-bread-healthier-than-sourdough-12239977",
+      "urlToImage": "https://www.marthastewart.com/thmb/fC_Tn-3t2gNkEK8R_X-WsT1xZEU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2188248456-5cb4dec4fed24897acd920b874b77863.jpg",
+      "publishedAt": "2026-11-14T18:00:00Z",
+      "content": "White, whole-wheat, whole-grain, sourdough, sprouted, gluten-free ... the bread aisle can be overwhelming. But despite the ubiquity of these buzzwords, not all loaves are created equal. We asked diet… [+6742 chars]"
     },
     {
       "source": {
@@ -73,6 +151,19 @@
       "urlToImage": "https://static01.nyt.com/images/2024/08/14/multimedia/14SCI-BCI-SING-02/14als-promo-fwcb-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-14T17:00:09Z",
       "content": "In one demonstration, a former singer sang a musical scale. Afterward she cried tears of joy."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Health.com"
+      },
+      "author": "https://www.facebook.com/Health/",
+      "title": "The Best Time To Eat Dates for Energy and Digestion - Health.com",
+      "description": "Dates are always a healthy choice, but experts say they work especially well for these specific situations.",
+      "url": "https://www.health.com/best-time-to-eat-dates-for-energy-and-digestion-12188955",
+      "urlToImage": "https://www.health.com/thmb/wxLMp0AIRpmCU0WiqzVikSsSabA=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-GettyImages-2193204817-82f9e0aa444144a283ded69727d3716a.jpg",
+      "publishedAt": "2026-11-14T17:00:00Z",
+      "content": "Looking for the best time to eat dates for energy or digestion? These naturally sweet fruits provide carbohydrates for fuel and fiber to support regular bowel movements, both of which can help you fe… [+3277 chars]"
     },
     {
       "source": {
@@ -115,16 +206,29 @@
     },
     {
       "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
+        "id": null,
+        "name": "Eatthis.com"
       },
-      "author": "Kerry  Breen",
-      "title": "The U.S. has lost measles elimination status. Here's what that means and who is most at risk. - CBS News",
-      "description": "The United States has lost its official measles elimination status for the first time in 26 years. Here's what to know.",
-      "url": "https://www.cbsnews.com/news/measles-elimination-status-united-states/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/07/a8f89dbf-6484-4ebf-863c-c4e91d42c3a6/thumbnail/1200x630/19d57254b9f70efb37f636bb7e3d6738/gettyimages-2259641072.jpg",
-      "publishedAt": "2026-11-14T16:11:00Z",
-      "content": "The United States has lost its measles elimination status, researchers with knowledge of the decision confirmed to CBS News partner KFF Health News on Saturday. \r\nThe decision from the Pan American H… [+7453 chars]"
+      "author": "Alexa Mellardo",
+      "title": "4 Standing Exercises That Build Muscle Definition Faster Than Gym Classes After 70 - Eat This Not That",
+      "description": "Standing exercises for muscle definition after 70, with tips from a physical therapist and a personal trainer.",
+      "url": "https://www.eatthis.com/standing-exercises-for-muscle-definition-after-70/",
+      "urlToImage": "https://www.eatthis.com/wp-content/uploads/sites/4/2026/11/mature-woman-dumbbell-exercise_780648619.jpg?quality=82&strip=all",
+      "publishedAt": "2026-11-14T14:05:05Z",
+      "content": "Strengthening your muscles is good for your overall well-being and independence.\r\nIt’s never too late to start building muscle. Plus, strengthening your muscles is good for your overall health, daily… [+3539 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Futurism"
+      },
+      "author": "Frank Landymore",
+      "title": "In Bizarre Experiment, Scientists Put Subjects in Dark Room With a Large Mirror and Instructed Them to Think of the Dead - Futurism",
+      "description": "Scientists had participants sit in a dark roomed called a psychomanteum, where they stared at an upturned mirror for nearly an hour.",
+      "url": "https://futurism.com/health-medicine/scientists-participants-dark-room-mirror",
+      "urlToImage": "https://futurism.com/wp-content/uploads/2026/11/experiment-dark-room-mirror-summon.jpg?quality=85&w=1200",
+      "publishedAt": "2026-11-14T14:02:00Z",
+      "content": "Can’t-miss innovations from the bleeding edge of science and tech\r\nHow do rituals for communing with the dead affect the mind? And conversely, how does the way your brain is wired affect the percepti… [+2940 chars]"
     },
     {
       "source": {
@@ -138,6 +242,19 @@
       "urlToImage": "https://www.tampabay.com/resizer/v2/AIVBHITVTD3XUWPGKQYD6ZKYVY.jpg?auth=e22e14aae440884de9e1bc6e9ae4678bf869c5fad1a0ab058e5dcd9745605445&height=675&width=1200&smart=true",
       "publishedAt": "2026-11-14T13:48:59Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Health.com"
+      },
+      "author": "https://www.facebook.com/Health/",
+      "title": "5 Fall Fruits That Can Help You Poop More Regularly - Health.com",
+      "description": "Certain foods, like fruits, are rich in fiber and other nutrients that support digestive health and promote regular, comfortable bowel movements.",
+      "url": "https://www.health.com/fall-fruits-to-help-you-poop-12189764",
+      "urlToImage": "https://www.health.com/thmb/bWs3SSCVom-8TNBaHrJEvEO6hTM=/1932x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-GettyImages-FallFruits-1a86d84ce0884e71acc509ffba526fc9.jpg",
+      "publishedAt": "2026-11-14T13:30:00Z",
+      "content": "When youre feeling backed up, even a little relief can make a big difference in your day. What you eat may help, and adding more fruit is a simple place to start.\r\nFall favorites like apples and pear… [+4439 chars]"
     },
     {
       "source": {
@@ -155,15 +272,15 @@
     {
       "source": {
         "id": null,
-        "name": "Science Daily"
+        "name": "Inc."
       },
-      "author": null,
-      "title": "Scientists find a simple daily routine linked to less pain and depression - Science Daily",
-      "description": "A simple change to your daily routine could make a surprising difference in how you feel, both physically and mentally. University of Missouri researchers found that older adults who followed consistent daily schedules reported less physical pain and fewer sy…",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261113231624.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/yellow-and-red-smileys-happy-sad-depression.webp",
-      "publishedAt": "2026-11-14T12:53:34Z",
-      "content": "A consistent daily routine may do more for your health than you realize. Researchers at the University of Missouri have found that older adults who follow regular daily schedules tend to experience l… [+5680 chars]"
+      "author": "Inc.com",
+      "title": "The Largest Alzheimer's Genetics Study Yet Found 48 New Links. The Most Promising Clue Isn't About Memory - Inc.com",
+      "description": null,
+      "url": "https://www.inc.com/liyana-illyas/largest-alzheimers-genetics-study-found-48-new-links-most-promising-clue/91434900",
+      "urlToImage": null,
+      "publishedAt": "2026-11-14T12:41:32Z",
+      "content": null
     },
     {
       "source": {
@@ -272,15 +389,28 @@
     {
       "source": {
         "id": null,
-        "name": "Ygorganization.com"
+        "name": "NDTV News"
       },
-      "author": "Ness",
-      "title": "[Reference Art] Yoa the Plague Ashtra - YGOrganization",
-      "description": "You brought this plague upon yourselves",
-      "url": "https://ygorganization.com/reference-art-yoa-the-plague-ashtra",
-      "urlToImage": "https://cdn.ygorganization.com/2026/11/yoa.png",
-      "publishedAt": "2026-11-14T09:01:48Z",
-      "content": "2nd frame: \"Whenever tragedy befell the village, the blame was placed upon Yoa. He was chosen as the target to sacrifice against such tragedies.\"\r\n4th frame: \"A plague has spread through the village.… [+1228 chars]"
+      "author": "Debosmita Ghosh",
+      "title": "World Diabetes Day 2026: Prediabetes Is Your Window To Act, Simple Ways To Reverse The Condition - NDTV",
+      "description": "Prediabetes means the body is starting to have difficulty in regulating blood sugar effectively. One commonly used measure is the HbA1c test, which shows the average blood sugar levels over roughly the previous three months.",
+      "url": "https://www.ndtv.com/health/living-healthy/world-diabetes-day-2026-prediabetes-is-your-window-to-act-simple-ways-to-reverse-the-condition-12325826",
+      "urlToImage": "https://c.ndtvimg.com/2026-09/m0slga3k_diabetes_625x300_04_September_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "publishedAt": "2026-11-14T08:45:03Z",
+      "content": "World Diabetes Day is observed every year on November 14 to raise awareness about diabetes, its prevention, early diagnosis and management. The theme for World Diabetes Day 2026 is \"Early action on d… [+4920 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Lena H. Sun",
+      "title": "U.S. reports at least 10 measles deaths in 2026 - The Washington Post",
+      "description": "The country is on the brink of losing its status as having eliminated the continuous spread of measles as it faces its worst outbreak in decades.",
+      "url": "https://www.washingtonpost.com/health/2026/11/13/us-reports-least-10-measles-deaths-2026/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TEJTC2P22XX2MJC6YSZOTJIUMA_size-normalized.JPG&w=1440",
+      "publishedAt": "2026-11-14T06:24:59Z",
+      "content": "Two more measles deaths were reported Friday, in Wisconsin and Pennsylvania, bringing the U.S. toll this year to at least 10 as outbreaks continue to erupt in several states.\r\nWisconsin health offici… [+210 chars]"
     },
     {
       "source": {
@@ -294,19 +424,6 @@
       "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/Z25HSK4AITIJUDV7NFJTAAKAS4.jpg?auth=4d8173f6055c664faa5b09cd2c8bde799c5d339770bf8bcccaf90fd62465da6b&width=1440",
       "publishedAt": "2026-11-14T06:04:10Z",
       "content": "Louisiana is seeing the worst of it so far.\r\nFlu season is taking off and its taking off in a direction thats only likely to increase in the next month or two, said Dr. Fred Lopez, an infectious dise… [+3112 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "Yale scientists reveal what really slows aging and what doesn't - Science Daily",
-      "description": "Yale researchers have discovered that certain prescription drugs, healthy diets, and exercise can measurably slow biological aging, while popular anti-aging supplements appear largely ineffective. Their analysis of 51 studies could transform how scientists ev…",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261112230452.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/anti-aging-beauty-skincare.webp",
-      "publishedAt": "2026-11-14T04:26:43Z",
-      "content": "A growing body of research suggests that aging may be more flexible than once believed. Now, scientists at Yale have taken an important step toward identifying which treatments can actually influence… [+9460 chars]"
     },
     {
       "source": {
@@ -401,81 +518,42 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Channel3000.com - WISC-TV3"
-      },
-      "author": "Kyle Jones",
-      "title": "Second child dies from measles in Grant County - Channel 3000",
-      "description": "LANCASTER, Wis. -- A second child has died from measles in Grant County, the Wisconsin Department of Health Services and Grant County Health Department confirmed Friday.",
-      "url": "https://www.channel3000.com/news/second-child-dies-from-measles-in-grant-county/article_49ebeced-8784-49f2-8ae4-b33c1731c540.html",
-      "urlToImage": "https://bloximages.newyork1.vip.townnews.com/channel3000.com/content/tncms/assets/v3/editorial/2/c6/2c66e73a-209f-5010-adff-84e50aba15d8/6ae0b5c471eb8.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2026-11-13T20:03:00Z",
-      "content": "LANCASTER, Wis. -- A second child has died from measles in Grant County, the Wisconsin Department of Health Services and Grant County Health Department confirmed Friday.\r\nHealth officials did not rel… [+1129 chars]"
-    },
-    {
-      "source": {
         "id": "fox-news",
         "name": "Fox News"
       },
-      "author": null,
-      "title": "Widely used diabetes drug may offer unexpected health benefit - Fox News",
+      "author": "Khloe Quill",
+      "title": "Widely used diabetes drug may offer unexpected health benefit - AOL.com",
       "description": "A Stanford study found Type 2 diabetes patients on metformin had a 39% lower risk of dying in the year after a COVID-19 infection than others.",
       "url": "https://www.foxnews.com/health/widely-used-diabetes-drug-may-offer-unexpected-health-benefit",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/woman-holding-prescription-bottle.jpg",
+      "urlToImage": "https://hermes.media.static.aol.com/media/2026/11/13/f15e668d-d134-3d41-982b-a970c4985701/a0cf0103-5e04-40e8-a897-3ae2f5f62338.jpg",
       "publishedAt": "2026-11-13T19:19:36Z",
-      "content": "For decades, doctors have relied on metformin to help people with type 2 diabetes manage their blood sugar. Now, new research suggests the widely prescribed drug may offer benefits beyond blood sugar… [+4267 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Anahad O’Connor",
-      "title": "Column | 4 reasons to eat dark chocolate every day, according to science - The Washington Post",
-      "description": "Can a square a day keep the doctor away? Here’s what the research shows about the health benefits of dark chocolate.",
-      "url": "https://www.washingtonpost.com/wellness/2026/11/13/4-reasons-eat-dark-chocolate-every-day-according-science/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NHDDGETSFFC2VCEUBWF526QMWU_size-normalized.jpg&w=1440",
-      "publishedAt": "2026-11-13T19:00:00Z",
-      "content": "Health experts have long encouraged Americans to limit their intake of sweets and treats such as cookies, candies and packaged snacks. These foods are top sources of added sugars, which have been lin… [+68 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Kathleen Felton",
-      "title": "Breast cancer treatment can weaken bones. Here’s how to protect them. - The Washington Post",
-      "description": "A new review highlights the risk of osteoporosis and bone fractures for people who have had breast cancer. We asked experts who’s most vulnerable and what can help.",
-      "url": "https://www.washingtonpost.com/wellness/2026/11/13/breast-cancer-treatment-can-weaken-bones-heres-how-protect-them/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BEPT5X6CTLTSOQ4IXCV7XZCDXE_size-normalized.jpg&w=1440",
-      "publishedAt": "2026-11-13T19:00:00Z",
-      "content": "Breast cancer treatments are often lifesaving, but they can also come with both short-term and lingering side effects. One thats been documented in study after study: bone loss. \r\nA recent systematic… [+172 chars]"
+      "content": "For decades, doctors have relied on metformin to help people with type 2 diabetes manage their blood sugar. Now, new research suggests the widely prescribed drug may offer benefits beyond blood sugar… [+4220 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "San Luis Obispo Tribune"
+        "name": "The-independent.com"
       },
-      "author": "Hannah Poukish",
-      "title": "18-month-old died in SLO County E. coli outbreak. ‘We are inconsolable,’ grandma says - San Luis Obispo Tribune",
-      "description": "An 18-month-old toddler died after an STEC E. coli outbreak tied to Brookshire Farms in San Luis Obispo County, California, left three children hospitalized.",
-      "url": "https://www.sanluisobispo.com/news/local/article318047360.html",
-      "urlToImage": "https://www.sanluisobispo.com/public/latest-news/3t2tj4/picture318064622/alternates/LANDSCAPE_1200/exterior-dusk-stanford-childrens.jpg",
-      "publishedAt": "2026-11-13T18:07:00Z",
-      "content": "Local\r\nThe patient who died due to complications from an E. coli infection following an outbreak in San Luis Obispo was an 18-month-old girl, her grandmother confirmed.\r\nThe toddler developed hemolyt… [+3544 chars]"
+      "author": "Julia Musto",
+      "title": "Here is why you should be eating more dark chocolate to improve your health - The Independent",
+      "description": "Just make sure you’re eating the right kind...",
+      "url": "https://www.the-independent.com/life-style/health-and-families/dark-chocolate-antioxidants-heart-health-b3084642.html",
+      "urlToImage": "https://static.the-independent.com/2026/11/13/17/33/GettyImages-940043874.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+      "publishedAt": "2026-11-13T19:02:00Z",
+      "content": "Dark chocolate has been served as a delicacy for thousands of years with origins dating back to the ancient Mayans - and comes with some surprising health benefits. \r\nA whole bar of dark chocolate ha… [+2559 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Gizmodo.com"
+        "name": "OregonLive"
       },
-      "author": "Ed Cara",
-      "title": "Scientists Figured Out Why We Feel Colder as We Age—and It’s Not What You Think - Gizmodo",
-      "description": "Our built-in furnace loses some punch over time.",
-      "url": "https://gizmodo.com/scientists-figured-out-why-we-feel-colder-as-we-age-and-its-not-what-you-think-2000839603",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/11/home-thermometer-1200x675.jpg",
-      "publishedAt": "2026-11-13T17:05:35Z",
-      "content": "If you’ve ever lived with your grandparents or other seniors, you may have had some squabbles over the temperature setting being too low. That’s often because people feel more sensitive to the cold a… [+3536 chars]"
+      "author": "OregonLive.com",
+      "title": "Grieving family awarded $7.8M after doctors failed to diagnose woman’s cancer 2 years in a row - OregonLive.com",
+      "description": null,
+      "url": "https://www.oregonlive.com/health/2026/11/grieving-family-awarded-78m-after-doctors-failed-to-diagnose-womans-cancer-2-years-in-a-row.html",
+      "urlToImage": null,
+      "publishedAt": "2026-11-13T17:57:00Z",
+      "content": null
     },
     {
       "source": {
@@ -531,19 +609,6 @@
     },
     {
       "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Healthy runner suffers sudden stroke at 27 as doctors discover possible cause - Fox News",
-      "description": "Patrick Mascoli was running 40 miles a week when a stroke struck at 27. Doctors found a patent foramen ovale that likely sent a clot to his brain.",
-      "url": "https://www.foxnews.com/health/healthy-runner-suffers-sudden-stroke-27-doctors-discover-possible-cause",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/patrick-mascoli-hospital-race-split.jpg",
-      "publishedAt": "2026-11-13T12:00:41Z",
-      "content": "As stroke rates continue to rise among young adults, one Boston man is sharing his experience of a life-threatening event at just 27 years old.\r\nPatrick Mascoli, an engineer and fitness enthusiast, w… [+7568 chars]"
-    },
-    {
-      "source": {
         "id": "medical-news-today",
         "name": "Medical News Today"
       },
@@ -557,16 +622,16 @@
     },
     {
       "source": {
-        "id": "fox-news",
-        "name": "Fox News"
+        "id": null,
+        "name": "DogTime"
       },
-      "author": null,
-      "title": "Popular snack may help support brain health in older adults, new study finds - Fox News",
-      "description": "A small study found that eating skin-roasted peanuts daily for 16 weeks improved insulin responsiveness in memory-related brain regions of older adults.",
-      "url": "https://www.foxnews.com/food-drink/popular-snack-may-help-support-brain-health-older-adults-new-study-finds",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/person-with-handful-of-peanuts.jpg",
-      "publishedAt": "2026-11-13T11:00:04Z",
-      "content": "An unsuspecting snack could help support brain health in older adults, new research suggests.\r\nA small study by researchers at Maastricht University Medical Center in the Netherlands, published in th… [+3397 chars]"
+      "author": "Khushali Srivastava",
+      "title": "Golden Retriever Raises Ducklings, Then Learns Her Little Flock Has No Plans to Leave - Yahoo",
+      "description": "A Golden Retriever has won hearts online after a heartwarming video showed her caring for a group of ducklings. The little birds seem to share a special bond...",
+      "url": "https://dogtime.com/news/238663-golden-retriever-raises-ducklings-no-plans-leave",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/072d65a9bc6ed20cbfd88b8393f2e2a19b7922c066ff0f35bed74a2fc2e07055/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdog_time_927%2Fb1e36ec6d3fbc8e461e83b9b9a16daa2.jpg",
+      "publishedAt": "2026-11-13T07:22:00Z",
+      "content": "A Golden Retriever has won hearts online after a heartwarming video showed her caring for a group of ducklings. The little birds seem to share a special bond with her and follow her everywhere. What … [+1861 chars]"
     },
     {
       "source": {
@@ -584,32 +649,6 @@
     {
       "source": {
         "id": null,
-        "name": "Medical Xpress"
-      },
-      "author": null,
-      "title": "Molecular mapping of 8 million cells brings cerebral architecture into focus - Medical Xpress",
-      "description": "University of California, Irvine researchers have mapped approximately 8 million cells in regions deep within the human brain, identifying 60 distinct types and revealing how they form cellular communities. The work offers a foundational reference for investi…",
-      "url": "https://medicalxpress.com/news/2026-11-molecular-million-cells-cerebral-architecture.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/molecular-mapping-of-8.jpg",
-      "publishedAt": "2026-11-13T00:40:21Z",
-      "content": "University of California, Irvine researchers have mapped approximately 8 million cells in regions deep within the human brain, identifying 60 distinct types and revealing how they form cellular commu… [+7356 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Fox News",
-      "title": "GLP-1 users face 6 rebound risks after stopping the weight-loss drugs - New York Post",
-      "description": "While GLP-1 medications like Ozempic, Wegovy and Zepbound have reshaped weight management and diabetes control, research shows that many patients stop taking them within a year.",
-      "url": "https://www.foxnews.com/health/ozempic-zepbound-users-face-6-rebound-risks-stopping-doctor-warns",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/OZEMPIC-SOLO.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-11-12T21:17:00Z",
-      "content": "While GLP-1 medications like Ozempic, Wegovy and Zepbound have reshaped weight management and diabetes control, research shows that many patients stop taking them within a year.\r\nResearch has found t… [+8303 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "ScienceAlert"
       },
       "author": "Peter Dockrill",
@@ -619,6 +658,32 @@
       "urlToImage": "https://www.sciencealert.com/images/2026/11/dental-x-ray.jpg",
       "publishedAt": "2026-11-12T21:01:59Z",
       "content": "We still don't fully understand the causes of dementia, but scientists are making progress.\r\nMost encouragingly, research suggests that almost half of dementia cases could be reduced, at least tempor… [+6211 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Hospital sewers may be breeding grounds for dangerous superbugs, study finds - Fox News",
+      "description": "A Nature Communications study found hospital wastewater promotes antibiotic-resistant E. coli, with bacteria on sewer pipes three times as resistant.",
+      "url": "https://www.foxnews.com/health/hospital-sewers-breeding-grounds-dangerous-superbugs-study-finds",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/woman-in-hospital.jpg",
+      "publishedAt": "2026-11-12T19:43:03Z",
+      "content": "Hospital wastewater has been shown to promote the growth of antibiotic-resistant bacteria, potentially making sewer systems hotspots for antimicrobial resistance, according to a new Swedish study pub… [+5597 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": null,
+      "title": "Massive atlas of brain region linked to a host of diseases is the most detailed yet - Nature",
+      "description": "A global team profiled nearly 26 million brain cells from the basal ganglia to build a cross-species reference database that will help to understand conditions from Parkinson’s disease to addiction.",
+      "url": "https://www.nature.com/articles/d41586-026-03565-3",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03565-3/d41586-026-03565-3_53962196.jpg",
+      "publishedAt": "2026-11-12T18:42:03Z",
+      "content": "An MRI scan of the basal ganglia, seen here in section and colour-coded.Credit: Zephyr/SPL\r\nThe basal ganglia are groups of cells that sit deep in the brain and process motor, cognitive, mood and dec… [+3738 chars]"
     },
     {
       "source": {
@@ -687,6 +752,19 @@
     },
     {
       "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Ozempic and Zepbound users face 6 rebound risks after stopping, doctor warns - Fox News",
+      "description": "Thinking of quitting a GLP-1? A physician outlines six risks, from weight regain and muscle loss to worsening biomarkers and mental health consequences.",
+      "url": "https://www.foxnews.com/health/ozempic-zepbound-users-face-6-rebound-risks-stopping-doctor-warns",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/woman-in-front-of-fridge.jpg",
+      "publishedAt": "2026-11-12T13:00:40Z",
+      "content": "While GLP-1 medications like Ozempic, Wegovy and Zepbound have reshaped weight management and diabetes control, research shows that many patients stop taking them within a year.\r\nResearch has found t… [+7854 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "Medscape"
       },
@@ -697,32 +775,6 @@
       "urlToImage": "https://img.lb.wbmdstatic.com/vim/live/webmd/consumer_assets/1/7/5/180ddc92-2fdb-4ad1-a0bd-be0973cf2571/gty_221213_doctor_patient_blood_pressure_800x450.jpg",
       "publishedAt": "2026-11-12T12:48:00Z",
       "content": "CHICAGO — Intensive antihypertensive therapy to target systolic blood pressure (BP) less than 120 mm Hg can lower the chance of strokes, heart attacks, or other major cardiovascular events in people … [+12487 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "San Francisco Chronicle"
-      },
-      "author": "Erin Allday",
-      "title": "‘Stop obsessing over eight hours’: New study says another sleep goal is just as key - San Francisco Chronicle",
-      "description": "UC study links irregular sleep schedules with higher rates of depression, anxiety and loneliness",
-      "url": "https://www.sfchronicle.com/health/article/sleep-schedule-mental-health-depression-22522117.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/67/72/13/31433470/3/rawImage.jpg",
-      "publishedAt": "2026-11-12T10:04:16Z",
-      "content": "A new UC study found an association between irregular sleep schedules and higher rates of self-reported depression, anxiety and loneliness.\r\nProstock-Studio/Getty Images\r\nFalling asleep and waking up… [+5583 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Health.com"
-      },
-      "author": "https://www.facebook.com/Health/",
-      "title": "How Many Squats You Should Be Able to Do for Your Age, According to a Trainer - Health.com",
-      "description": "Squats are a simple way to gauge strength, balance, and mobility. Learn proper form, how to improve safely, and how your squat number compares with other folks your age",
-      "url": "https://www.health.com/how-many-squats-should-you-do-12244554",
-      "urlToImage": "https://www.health.com/thmb/nuqwIOeQl82CSELRxh5iWW0EjCA=/7360x0/filters:no_upscale():max_bytes(150000):strip_icc()/HDC-GettyImages-980313888-96ea06ddfc5842cb8dc5a4efdf5352e1.jpg",
-      "publishedAt": "2026-11-12T08:00:00Z",
-      "content": "Youre probably squatting throughout the day without even realizing it: crouching down to pet your cat, slipping into the drivers seat of your car, even standing up from your sofa. Those movements all… [+5217 chars]"
     },
     {
       "source": {
@@ -765,42 +817,29 @@
     },
     {
       "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Gretchen Reynolds",
+      "title": "Column | Powerful new weight-loss drug may also ease knee pain, major study finds - The Washington Post",
+      "description": "Not yet FDA approved, retatrutide has led to some of the greatest declines in body weight of any GLP-1 related drug in several large trials.",
+      "url": "https://www.washingtonpost.com/wellness/2026/11/11/powerful-new-weight-loss-drug-may-also-ease-knee-pain-major-study-finds/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/646TYNURCSNYORUEDINLCJKRRQ_size-normalized.jpg&w=1440",
+      "publishedAt": "2026-11-11T18:00:00Z",
+      "content": "The newest GLP-1 drug may change not only appetites, but also knees.\r\nThats the intriguing implication of the pooled results of two, large-scale, new trials of retatrutide, the most potent GLP-1-agon… [+22 chars]"
+    },
+    {
+      "source": {
         "id": "fox-news",
         "name": "Fox News"
       },
       "author": null,
-      "title": "New weight-loss drug wipes out chronic knee pain in some patients, researchers say - Fox News",
-      "description": "Northwestern University-led trials found retatrutide helped two-thirds of obese knee osteoarthritis patients cut pain by half in late-stage studies.",
-      "url": "https://www.foxnews.com/health/weight-loss-drug-wipes-chronic-knee-pain-patients-researchers-say",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/mature-woman-knee-pain.jpg",
-      "publishedAt": "2026-11-11T21:10:40Z",
-      "content": "An experimental weight-loss drug significantly reduced chronic knee pain and improved mobility in people with obesity and knee osteoarthritis, according to two clinical trials led by researchers at N… [+4712 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SheKnows"
-      },
-      "author": "Beth Greenfield",
-      "title": "How 'Heightmaxxing' Is Pushing Teen Boys to Take a Risky Cancer Drug - Yahoo Health",
-      "description": "You’ve likely heard of looksmaxxing, the online movement of young men doing whatever they can to maximize their appearance. You may have also heard of “maxxi...",
-      "url": "https://www.sheknows.com/parenting/articles/1235092516/heightmaxxing-cancer-drug/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/38cc6f366ad9f7e121856b99d4fb41a372572211e76f62cd2f29af39a4980578/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsheknows_79%2F3814c412b6da8be3f85951bb9dc5169f.jpg",
-      "publishedAt": "2026-11-11T20:09:47Z",
-      "content": "You've likely heard of looksmaxxing, the online movement of young men doing whatever they can to maximize their appearance. You may have also heard of \"maxxing\" in general, recently chosen as Diction… [+4788 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Fox News",
-      "title": "Popular heart medication for older patients faces scrutiny as new study evaluates risks - New York Post",
-      "description": "A study of 1,880 adults 70 and older found stopping statins raised the risk of heart attack, stroke, or death to 13%, compared to 9% who continued.",
+      "title": "Common heart pill under scrutiny for older patients as study weighs risks of stopping - Fox News",
+      "description": "A new clinical trial found 13% of older adults who stopped statins had a heart attack, stroke or died, compared with 9% who continued treatment.",
       "url": "https://www.foxnews.com/health/common-heart-pill-scrutiny-older-patients-study-weighs-risks-stopping",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/crop-41789562.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-11-11T15:59:00Z",
-      "content": "Some older adults may be able to stop taking statins with little added risk over two years, but a new study raises concerns about longer-term safety.\r\nThats according to a randomized clinical trial t… [+5062 chars]"
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/woman-taking-statins.jpg",
+      "publishedAt": "2026-11-11T12:00:29Z",
+      "content": "Some older adults may be able to stop taking statins with little added risk over two years, but a new study raises concerns about longer-term safety.\r\nThats according to a randomized clinical trial t… [+4930 chars]"
     },
     {
       "source": {
@@ -827,32 +866,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-measles-whjg/10dc-measles-whjg-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-10T23:00:42Z",
       "content": "An international panel of scientific experts will convene on Tuesday to evaluate the status, but genetic data already shows the virus is once again entrenched in the United States."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "Study finds links between bacteria in wastewater and chronic disease - Phys.org",
-      "description": "Bacteria found in wastewater may provide clues about community health, including rates of chronic disease, health behaviors and social conditions, according to a recent study from The Ohio State University.",
-      "url": "https://phys.org/news/2026-11-links-bacteria-wastewater-chronic-disease.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/wastewater-offers-a-un.jpg",
-      "publishedAt": "2026-11-10T19:20:12Z",
-      "content": "Bacteria found in wastewater may provide clues about community health, including rates of chronic disease, health behaviors and social conditions, according to a recent study from The Ohio State Univ… [+3993 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "Melissa Hogenboom",
-      "title": "'You didn't even tell your best friend'. The complications from childbirth that never go away - BBC",
-      "description": "From incontinence to chronic pain, millions of women are still suffering decades later.",
-      "url": "https://www.bbc.com/future/article/20261109-the-long-term-complications-from-childbirth-that-no-one-talks-about",
-      "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0pm6h4f.jpg",
-      "publishedAt": "2026-11-10T10:00:00Z",
-      "content": "Some of these issues, like mine, don't show up until years later and can persist indefinitely. I spoke to several women, as well as experts, to get a full picture of the lasting physical and mental d… [+132 chars]"
     },
     {
       "source": {
@@ -905,6 +918,32 @@
       "urlToImage": "https://www.al.com/resizer/v2/2LP5IAZWNJHPTENGTTLX2MNXHU.jpg?auth=60f0cb305596e4ddebc7be372155b24d9782d0e65ea0d6402e5d6653c8876ad0&width=1280&smart=true",
       "publishedAt": "2026-11-09T14:19:00Z",
       "content": "The American Heart Associations new research finds that energy drinks and stimulant-containing supplements have been linked to the risk of serious heart problems, including cardiac arrest and heart a… [+1362 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "News-Medical.Net"
+      },
+      "author": null,
+      "title": "New mRNA therapy reawakens heart muscle cells to repair damage - News-Medical",
+      "description": "Scientists have developed a treatment that 'reawakens' heart muscle cells so they start to divide and help repair damaged muscle.",
+      "url": "https://www.news-medical.net/news/20261109/New-mRNA-therapy-reawakens-heart-muscle-cells-to-repair-damage.aspx",
+      "urlToImage": "https://www.news-medical.net/image-handler/picture/2014/7/Heart_Attack-620x480.jpg",
+      "publishedAt": "2026-11-09T11:25:00Z",
+      "content": "Scientists have developed a treatment that 'reawakens' heart muscle cells so they start to divide and help repair damaged muscle.\r\nIn a study in mice, this produced a stronger heartbeat and increased… [+3786 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsnationnow.com"
+      },
+      "author": "Dylan Furbay",
+      "title": "Common ‘forever chemicals’ linked to aggressive breast cancer in new study - NewsNation",
+      "description": "Nearly all Americans have PFAS in their blood. Now researchers say two of the chemicals may be linked to higher rates of an aggressive form of breast cancer.",
+      "url": "https://www.newsnationnow.com/health/forever-chemicals-pfas-aggressive-breast-cancer-risk/",
+      "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/07/PFAS-e1757012668993.jpg?w=1280",
+      "publishedAt": "2026-11-08T22:15:58Z",
+      "content": "(NewsNation) Women with higher blood levels of two common synthetic chemicals found in cookware, clothing and carpets had higher rates of an aggressive type of breast cancer, according to a new study… [+1655 chars]"
     },
     {
       "source": {
@@ -983,19 +1022,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/04/multimedia/04dc-arbitators-jwgf/04dc-arbitators-jwgf-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-05T20:34:26Z",
       "content": "The two companies settled billing disputes between doctors and insurers, keeping patients out of the middle. One let doctors win 96 percent of the time."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Stephanie Nolen and Taiwo Aina",
-      "title": "An 80-Cent Plastic Pouch Is Saving Thousands of Women From Dying in Childbirth",
-      "description": "The maternal drape, as it is called, is helping to solve one of the world’s most intractable health problems.",
-      "url": "https://www.nytimes.com/2026/11/03/health/maternal-drapes-nigeria-childbirth.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/02/multimedia/00dc-maternal-drape-husaina-ljbz/00dc-maternal-drape-husaina-ljbz-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-04T21:37:51Z",
-      "content": "The maternal drape, as it is called, is helping to solve one of the world’s most intractable health problems."
     },
     {
       "source": {

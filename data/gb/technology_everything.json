@@ -6,9 +6,22 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-15T22:07:34.030084+00:00",
+  "fetched_at": "2026-11-16T03:19:10.226340+00:00",
   "articles_count": 21,
   "articles": [
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Investors sue chip giant Intel after 29% stock plunge",
+      "description": "A proposed class action says Intel hid the impact of slowing sales, inflating its shares.",
+      "url": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e63c/live/afebacc0-e14f-11f1-8fb1-c394c4317b6a.jpg",
+      "publishedAt": "2026-11-16T03:04:01Z",
+      "content": "A proposed class action says Intel hid the impact of slowing sales, inflating its shares."
+    },
     {
       "source": {
         "id": "bbc-news",
@@ -19,7 +32,7 @@
       "description": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
       "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
       "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa43/live/e2a9a870-e10d-11f1-93e1-3b657b665bcf.jpg",
-      "publishedAt": "2026-11-15T14:56:21Z",
+      "publishedAt": "2026-11-16T01:47:57Z",
       "content": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions."
     },
     {
@@ -177,19 +190,6 @@
       "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ab0/live/068591d0-dee5-11f1-9bb0-8de7754c4db5.jpg",
       "publishedAt": "2026-11-13T12:22:30Z",
       "content": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself."
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "What we know so far about the Microsoft outage",
-      "description": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
-      "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e30a/live/54c2fe10-df57-11f1-a701-fddedf244c16.jpg",
-      "publishedAt": "2026-11-13T11:43:27Z",
-      "content": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot."
     },
     {
       "source": {
