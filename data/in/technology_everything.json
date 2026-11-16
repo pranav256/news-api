@@ -6,9 +6,35 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-16T12:06:45.394288+00:00",
-  "articles_count": 82,
+  "fetched_at": "2026-11-16T23:02:56.750885+00:00",
+  "articles_count": 81,
   "articles": [
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Outlook outage: On Microsoft and dangers of centralising digital systems",
+      "description": "The dangers of centralising the internet’s architecture are now clear",
+      "url": "https://www.thehindu.com/opinion/editorial/outlook-outage-the-hindu-editorial-on-microsoft-and-dangers-of-centralising-systems/article71708179.ece",
+      "urlToImage": null,
+      "publishedAt": "2026-11-16T20:00:40Z",
+      "content": "The dangers of centralising the internet’s architecture are now clear"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": null,
+      "title": "Trump says ‘would not mind’ Huang being reinstated at Nvidia",
+      "description": "Trump said Jensen Huang ‘learned a big lesson’ and he ‘would certainly not mind’ if he was reinstated, while adding that there’s a ‘big group of people that would like him to return’",
+      "url": "https://www.thehindu.com/news/international/trump-says-would-not-mind-huang-being-reinstated-at-nvidia/article71709259.ece",
+      "urlToImage": "https://th-i.thgim.com/public/incoming/2mpu4a/article71709271.ece/alternates/LANDSCAPE_1200/2026-11-16T162329Z_2005700223_RC27ZNAB2UCN_RTRMADP_3_USA-TRUMP-NVIDIA.JPG",
+      "publishedAt": "2026-11-16T17:49:15Z",
+      "content": "Trump said Jensen Huang ‘learned a big lesson’ and he ‘would certainly not mind’ if he was reinstated, while adding that there’s a ‘big group of people that would like him to return’"
+    },
     {
       "source": {
         "id": "the-hindu",
@@ -765,32 +791,6 @@
     },
     {
       "source": {
-        "id": "the-hindu",
-        "name": "The Hindu"
-      },
-      "author": null,
-      "title": "Trump’s close ties to Nvidia’s Huang scrutinised after foreign intelligence concerns",
-      "description": "Mr. Huang is one of Mr. Trump’s closest allies in Silicon Valley",
-      "url": "https://www.thehindu.com/news/international/trumps-close-ties-to-nvidias-huang-scrutinised-after-foreign-intelligence-concerns/article71683989.ece",
-      "urlToImage": "https://th-i.thgim.com/public/incoming/g9cf5z/article71683996.ece/alternates/LANDSCAPE_1200/2026-11-09T144344Z_331264129_RC27ZNA967HK_RTRMADP_3_USA-TRUMP.JPG",
-      "publishedAt": "2026-11-09T20:59:21Z",
-      "content": "Mr. Huang is one of Mr. Trump’s closest allies in Silicon Valley"
-    },
-    {
-      "source": {
-        "id": "the-hindu",
-        "name": "The Hindu"
-      },
-      "author": null,
-      "title": "Meta sets India pricing for Muse AI agent ahead of launch",
-      "description": "It is unclear when Meta’s rapidly growing Muse AI agent will launch in India; however, the service already displays pricing in Indian rupees.",
-      "url": "https://www.thehindu.com/business/Industry/meta-sets-india-pricing-for-muse-ai-agent-ahead-of-launch/article71682680.ece",
-      "urlToImage": "https://th-i.thgim.com/public/incoming/ards8a/article71683476.ece/alternates/LANDSCAPE_1200/2026-11-09T094156Z_184369278_RC29KOA7QV4L_RTRMADP_3_AI-ENERGY.JPG",
-      "publishedAt": "2026-11-09T16:59:05Z",
-      "content": "It is unclear when Meta’s rapidly growing Muse AI agent will launch in India; however, the service already displays pricing in Indian rupees."
-    },
-    {
-      "source": {
         "id": "the-times-of-india",
         "name": "The Times of India"
       },
@@ -1061,19 +1061,6 @@
       "urlToImage": "https://img.etimg.com/thumb/msid-134980873,width-1200,height-900,imgsize-78214,overlay-economictimes/articleshow.jpg",
       "publishedAt": "2026-10-16T02:52:00Z",
       "content": "The artificial intelligence boom has cemented US and Chinese tech dominance and created fortunes across North Asias chip supply chain. Now, Indias billionaire family offices and wealthy investors are… [+5147 chars]"
-    },
-    {
-      "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "ETtech",
-      "title": "Healthtech startup Confido Health raises $12.5 million in funding led by Z47",
-      "description": "Founded in 2022 by Chetan Reddy and Vichar Shroff, Confido Health develops artificial intelligence (AI) agents that automate administrative tasks for healthcare providers, including patient calls, appointment scheduling, insurance verification, prescription r…",
-      "url": "https://economictimes.indiatimes.com/tech/startups/healthtech-startup-confido-health-raises-12-5-million-in-funding-led-by-z47/articleshow/134947006.cms",
-      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1450145,resizemode-75,msid-134947006/tech/startups/healthtech-startup-confido-health-raises-12-5-million-in-funding-led-by-z47.jpg",
-      "publishedAt": "2026-10-14T16:40:16Z",
-      "content": "US-based healthcare technology startup Confido Health has raised $12.5 million in an extension round led by venture capital firm Z47, taking its total funding in this round to $22.5 million.Existing … [+2502 chars]"
     }
   ],
   "query": "technology AI software startup"
