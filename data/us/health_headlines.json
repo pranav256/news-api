@@ -6,9 +6,35 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-16T23:02:56.750885+00:00",
-  "articles_count": 79,
+  "fetched_at": "2026-11-17T05:18:23.018488+00:00",
+  "articles_count": 77,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Pam Belluck",
+      "title": "An Intriguing Approach to Slow Alzheimer’s Shows Mixed Results",
+      "description": "The device, a headset delivering light and sound, is based on the theory that audiovisual stimulation can evoke brainwave responses that might help preserve neurological function.",
+      "url": "https://www.nytimes.com/2026/11/16/well/cognito-spectris-alzheimers-headset-device.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/16/well/16WELL-ALZHEIMERS-LIGHT-SOUND1/16WELL-ALZHEIMERS-LIGHT-SOUND1-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-16T23:19:37Z",
+      "content": "The device, a headset delivering light and sound, is based on the theory that audiovisual stimulation can evoke brainwave responses that might help preserve neurological function."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Teddy Rosenbluth",
+      "title": "Measles Is Sickening More Pregnant Women and Newborns, Alarming Doctors",
+      "description": "A new analysis underscores the severe consequences of a measles infection during pregnancy, including hospitalization and pregnancy loss.",
+      "url": "https://www.nytimes.com/2026/11/16/well/measles-pregnancy-newborns.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/13/well/WELL-PREGNANCY-MEASLES3/WELL-PREGNANCY-MEASLES3-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-16T21:35:33Z",
+      "content": "A new analysis underscores the severe consequences of a measles infection during pregnancy, including hospitalization and pregnancy loss."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -77,6 +103,58 @@
     {
       "source": {
         "id": null,
+        "name": "Verywellhealth.com"
+      },
+      "author": "https://www.facebook.com/verywell",
+      "title": "RDs Explain If Eating 3 Dates in the Morning Is Good for Digestion and Blood Sugar - Verywell Health",
+      "description": "Eating three dates every morning is said to boost digestion, steady blood sugar, and support energy—but does the number or timing matter? Dietitians break it down.",
+      "url": "https://www.verywellhealth.com/3-dates-in-morning-for-gut-health-12197544",
+      "urlToImage": "https://www.verywellhealth.com/thmb/wYgoPNd8FFENcdf_ZjX-gzxyUb4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/VWH-GettyImages-174394985-6f1703b4f1a64f9cbc8b088cbd0ff953.jpg",
+      "publishedAt": "2026-11-16T00:52:51Z",
+      "content": "<ul><li>Dates provide fiber, carbs, potassium, magnesium, and polyphenols that may support digestive and metabolic health.</li><li>Many date varieties have a low to moderate glycemic index, and moder… [+3514 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Cancer 'sponge' tests could be offered to more people with bad indigestion - BBC",
+      "description": "The \"sponge on a string\" tests can be done in GP surgeries, rather than hospitals, unlike endoscopy checks that use a small camera.",
+      "url": "https://www.bbc.com/news/articles/cm5y13q0gx97o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/07cd/live/8214d800-df5e-11f1-a8af-15d7a25dc0d1.png",
+      "publishedAt": "2026-11-16T00:47:04Z",
+      "content": "Prof Peter Johnson, national clinical director for cancer at NHS England, said: \"The NHS is always looking for better ways to get to the bottom of people's symptoms, and thousands have already benefi… [+153 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Common blood pressure drug helps more stroke survivors reach critical health target - Fox News",
+      "description": "The REDUCE trial found spironolactone lowered blood pressure by nearly eight points in stroke survivors, but key questions about prevention remain.",
+      "url": "https://www.foxnews.com/health/common-blood-pressure-drug-helps-stroke-survivors-reach-critical-health-target",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/04/woman-taking-blood-pressure.jpg",
+      "publishedAt": "2026-11-15T22:20:45Z",
+      "content": "A low-cost medication could help stroke survivors whose blood pressure remains elevated despite treatment, a new study suggests.\r\nThe research, known as the REDUCE trial, looked at whether adding spi… [+3748 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KSL.com"
+      },
+      "author": "Brenda Goodman, CNN",
+      "title": "After 26 years, the US has lost its measles elimination status - KSL News",
+      "description": "Thanks to widespread vaccination, measles had been considered \"eliminated\" as a continually transmitting illness in the United States since 2000, but not anymore.",
+      "url": "https://www.ksl.com/article/51645789/after-26-years-the-us-has-lost-its-measles-elimination-status",
+      "urlToImage": "https://img.ksl.com/slc/3208/320875/32087574.jpg?filter=kslv2/responsive_story_lg",
+      "publishedAt": "2026-11-15T21:39:08Z",
+      "content": "SALT LAKE CITY Thanks to widespread vaccination, measles had been considered \"eliminated\" as a continually transmitting illness in the United States since 2000, but not anymore.\r\nAn independent commi… [+7593 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "ScienceAlert"
       },
       "author": "Carly Cassella",
@@ -99,6 +177,58 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/11/business/11BIZ-CANCER-DRUG/11BIZ-CANCER-DRUG-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-15T20:33:07Z",
       "content": "The treatment, called ivonescimab, has become a symbol of China’s rise in drug development."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Medscape"
+      },
+      "author": "Nancy A. Melville",
+      "title": "After a GLP-1: Which Exit Strategy Keeps the Weight Off? - Medscape",
+      "description": "After a GLP-1, what works next? Among more than 20,000 patients, surgery was linked to the most weight loss, quitting cold the least, and switching from semaglutide to tirzepatide beat staying put.",
+      "url": "https://www.medscape.com/viewarticle/after-glp-1-which-exit-strategy-keeps-weight-2026a10018gh",
+      "urlToImage": "https://img.medscapestatic.com/vim/live/professional_assets/Conference_News.jpg",
+      "publishedAt": "2026-11-15T18:45:04Z",
+      "content": "NATIONAL HARBOR, Md. — Among more than 20,000 patients who had taken semaglutide or tirzepatide, those who went on to pursue bariatric surgery, though the least likely choice, had the greatest weight… [+6746 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Medical Xpress"
+      },
+      "author": null,
+      "title": "People with autism show remarkable variability in brain activity - Medical Xpress",
+      "description": "In a new study in JNeurosci, Dorit Kliemann and James Traer, from the University of Iowa, led a research collaboration to compare brain activity between people with autism spectrum disorder (ASD) and individuals who do not have autism.",
+      "url": "https://medicalxpress.com/news/2026-11-people-autism-remarkable-variability-brain.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/brain-activity.jpg",
+      "publishedAt": "2026-11-15T18:00:04Z",
+      "content": "In a new study in JNeurosci, Dorit Kliemann and James Traer, from the University of Iowa, led a research collaboration to compare brain activity between people with autism spectrum disorder (ASD) and… [+2867 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Vogueadria.com"
+      },
+      "author": null,
+      "title": "Does plucking grey hairs really make more grow back? We asked the experts - Vogue Adria",
+      "description": "Plucking grey hairs is a common habit. But if you pluck one grey hair, will more grow back? Leading hair experts debunk a familiar myth.",
+      "url": "https://vogueadria.com/plucking-grey-hairs-myth-or-fact/",
+      "urlToImage": "https://vogueadria.com/wp-content/uploads/2026/11/cupanje-sijedih-vlasi-cover.jpg",
+      "publishedAt": "2026-11-15T17:00:05Z",
+      "content": "A myth under the microscope: Does plucking grey hairs really make more grow back? Experts give a definitive answer.\r\nAlthough Im not afraid of grey hairs, Im not looking forward to the moment they st… [+5134 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thecoolist.com"
+      },
+      "author": "TheCoolist Team",
+      "title": "Neither blueberries nor oranges, the fruit that ranked highest in a CDC study of the most nutrient-dense foods - TheCoolist",
+      "description": "You put a carton of blueberries in your grocery cart and grab a few oranges for the fruit bowl, feeling good about both choices. In a CDC ranking of",
+      "url": "https://www.thecoolist.com/neither-blueberries-nor-oranges-the-fruit-that-ranked-highest-in-a-cdc-study-of-the-most-n-h2r4-q1/",
+      "urlToImage": "https://cdn.thecoolist.com/wp-content/uploads/2026/11/neither-blueberries-nor-oranges-the-fruit-that-ranked-highest-in-a-cdc-study-of-.jpg",
+      "publishedAt": "2026-11-15T16:51:18Z",
+      "content": "You put a carton of blueberries in your grocery cart and grab a few oranges for the fruit bowl, feeling good about both choices. In a CDC ranking of nutrient-dense produce, neither claims the top spo… [+3446 chars]"
     },
     {
       "source": {
@@ -129,6 +259,32 @@
     {
       "source": {
         "id": null,
+        "name": "hays Post"
+      },
+      "author": null,
+      "title": "Police: Rabies in a cat confirmed in Kansas - Hays Post",
+      "description": "Post photo\n                    BUTLER COUNTY—Authorities in south central on Friday confir",
+      "url": "https://hayspost.com/posts/3bae612b-2871-4f60-8869-ad0c9421e096",
+      "urlToImage": "https://media.eaglewebservices.com/public/2023/12/1703848131615.png",
+      "publishedAt": "2026-11-15T14:07:14Z",
+      "content": "Post photo\r\nBUTLER COUNTYAuthorities in south central on Friday confirmed a case of rabies in a cat. This was confirmed through testing at K-State Animal Hospital in Manhattan, according to a stateme… [+801 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "A common osteoporosis drug blocked spinal damage in a surprising new study - Science Daily",
+      "description": "Scientists have uncovered a surprising genetic connection to spinal degeneration and found that an existing osteoporosis drug can prevent damaging mineral buildup in zebrafish spines. The discovery could pave the way for new treatments that slow or prevent a …",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261113232105.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/radiograph-x-ray-back-bone-spinal-pain.webp",
+      "publishedAt": "2026-11-15T14:05:11Z",
+      "content": "An existing osteoporosis drug has shown surprising promise in protecting the spine from damage, raising hopes for new treatments for chronic neck and back pain. In experiments involving zebrafish, re… [+8995 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Thecoolist.com"
       },
       "author": "TheCoolist Team",
@@ -138,32 +294,6 @@
       "urlToImage": "https://cdn.thecoolist.com/wp-content/uploads/2026/10/iStock-1170679242.jpg",
       "publishedAt": "2026-11-15T13:16:08Z",
       "content": "95% of homemade dog food recipes are missing at least one nutrient your dog needs, a major veterinary study found. Chicken, rice, a few vegetables: more and more owners cook their dog’s meals themsel… [+2728 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Simple salt substitute could prevent three million deaths a year worldwide, study estimates - Fox News",
-      "description": "A Nature Health study finds potassium salt substitutes could prevent nearly 3 million deaths yearly, but hyperkalemia poses risks for some patients.",
-      "url": "https://www.foxnews.com/health/simple-salt-substitute-could-prevent-three-million-deaths-year-worldwide-study-estimates",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/woman-salting-eggs.jpg",
-      "publishedAt": "2026-11-15T13:00:28Z",
-      "content": "Replacing regular table salt with a potassium-enriched alternative could prevent nearly three million deaths and more than 10 million cases of heart and kidney disease worldwide every year, according… [+4977 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eatingwell.com"
-      },
-      "author": "https://www.facebook.com/EatingWell/",
-      "title": "The Anti-Inflammatory Mediterranean Diet Breakfast I Can’t Stop Making - EatingWell",
-      "description": "Discover the anti-inflammatory Mediterranean diet breakfast recipe packed with protein and nutrients that keeps me energized all week long.",
-      "url": "https://www.eatingwell.com/anti-inflammatory-mediterranean-diet-breakfast-i-cant-stop-making-12251036",
-      "urlToImage": "https://www.eatingwell.com/thmb/sIIglAwdwIzdoM4n-HWRe2JY6-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/The-Anti-Inflammatory-Mediterranean-Diet-Breakfast-I-Can-Not-Stop-Making-e58a7c8ba788471893a40d0d93c8991c.jpg",
-      "publishedAt": "2026-11-15T13:00:00Z",
-      "content": "I used to be a chronic breakfast-skipper, often running out the door in the morning without so much as a protein bar in my pocket. Sure, I was able to stay in bed a little bit longer, but my energy l… [+4730 chars]"
     },
     {
       "source": {
@@ -219,19 +349,6 @@
     },
     {
       "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Isabella O'Connor",
-      "title": "Women with autoimmune diseases often misdiagnosed for 4 years or more - NBC News",
-      "description": "Women with autoimmune diseases such as lupus or rheumatoid arthritis are more likely to be misdiagnosed or get delayed treatment compared with men, with their symptoms often dismissed as “psychological.”",
-      "url": "https://www.nbcnews.com/health/womens-health/autoimmune-diseases-women-lupus-arthritis-misdiagnosed-study-rcna609176",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261113-arthritis-sjr-1148-4870ce.jpg",
-      "publishedAt": "2026-11-15T12:00:00Z",
-      "content": "Women with autoimmune diseases such as lupus or rheumatoid arthritis are more likely to be misdiagnosed or get delayed treatment compared with men, with their symptoms often dismissed as psychologica… [+3091 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Eatingwell.com"
       },
@@ -245,29 +362,16 @@
     },
     {
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
+        "id": null,
+        "name": "WISN Milwaukee"
       },
-      "author": "Letters to the Editor",
-      "title": "Opinion | Bacteria are beating antibiotics. Vaccines could help. - The Washington Post",
-      "description": "Antibiotic-resistance, NASA's partners, a new hero and more, in readers' eyes.",
-      "url": "https://www.washingtonpost.com/opinions/2026/11/15/answer-antibiotic-resistance-is-more-vaccines/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/IYIOUE3TA4MYWMUK33YF33EB5U.JPG&w=1440",
-      "publishedAt": "2026-11-15T11:37:21Z",
-      "content": "Ara Darzis Nov. 7 op-ed, Bacteria are beating antibiotics. The government cant stand by, appropriately pointed out the threats caused by bacteria that are resistant to many of the most commonly used … [+216 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Fox News",
-      "title": "Healthy Boston runner Patrick Mascoli suffers sudden stroke at 27 as doctors discover possible cause - New York Post",
-      "description": "Patrick Mascoli was regularly running 40 miles a week at the time of his medical emergency.",
-      "url": "https://www.foxnews.com/health/healthy-runner-suffers-sudden-stroke-27-doctors-discover-possible-cause",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/148844595.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-11-15T10:21:00Z",
-      "content": "As stroke rates continue to rise among young adults, one Boston man is sharing his experience of a life-threatening event at just 27 years old.\r\nPatrick Mascoli, an engineer and fitness enthusiast, w… [+7208 chars]"
+      "author": "Annie Jennemann",
+      "title": "Have the sniffles? See if respiratory illnesses are rising near you - WISN",
+      "description": "Flu season is ramping up earlier than normal, with six states already seeing high activity.",
+      "url": "https://www.wisn.com/article/flu-rsv-covid-rising-by-state/74416587",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/4694cc61-46b1-4340-a57d-cf9fbf56c817.png?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
+      "publishedAt": "2026-11-15T11:18:28Z",
+      "content": "WASHINGTONThe season of sniffles is back, with data showing an earlier-than-normal flu season and a rise in other respiratory illnesses.\r\nAcute respiratory illnesses that cause people to seek health … [+1430 chars]"
     },
     {
       "source": {
@@ -281,32 +385,6 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RNNGFDABSYW2KMNQTF3KYS6QOQ_size-normalized.jpg&w=1440",
       "publishedAt": "2026-11-15T10:04:46Z",
       "content": "For the past couple of decades, doctors and researchers have monitored rising colon cancer rates among young people with concern. In the United States, colorectal cancer rates increased by 3 percent … [+154 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Jack Beresford",
-      "title": "Mom Told Baby Might Never Walk or Talk After Scan—Then Everything Changed - Newsweek",
-      "description": "Tiffany Bates was told her daughter \"might never eat, breathe, see, walk, crawl, or do anything independently.\"",
-      "url": "https://www.newsweek.com/mom-feared-worst-after-babys-brainscan-two-years-on-everything-has-changed-12694294",
-      "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2026/11/Kyliah-1.png?w=1200&crop=1",
-      "publishedAt": "2026-11-15T09:00:00Z",
-      "content": "Tiffany Bates, a stay-at-home mom, was left fearing the worst when scans indicated her daughter had a devastating health condition. Two years later, however, much has changed.\r\nTiffany Bates has thre… [+7223 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Twistedsifter.com"
-      },
-      "author": "Matthew Gilligan",
-      "title": "A Gym-Goer Insisted on Hogging Multiple Weight Machines at Once—Until Another Woman Refused to Put Up With Her Nonsense - TwistedSifter",
-      "description": "Explore the tension between neighbors at the gym and discover how one individual stood up for gym etiquette.",
-      "url": "https://twistedsifter.com/2026/11/a-gym-goer-insisted-on-hogging-multiple-weight-machines-at-once-until-another-woman-refused-to-put-up-with-her-nonsense/",
-      "urlToImage": "https://twistedsifter.com/wp-content/uploads/2026/11/oodod_cdf54a.jpg",
-      "publishedAt": "2026-11-15T08:32:53Z",
-      "content": "Shutterstock\r\nIf you’ve spent any time at all working out at a gym, you’ve probably noticed that there are some folks who think they can do whatever the hell they want!\r\nAnd that’s not okay!\r\nEspecia… [+2803 chars]"
     },
     {
       "source": {
@@ -324,6 +402,19 @@
     {
       "source": {
         "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Jess Cockerill",
+      "title": "Coffee Doesn't Just Help You Poop. It May Change The Physiology in Your Gut. - ScienceAlert",
+      "description": "We can usually feel the effects of coffee in the body pretty quickly.",
+      "url": "https://www.sciencealert.com/coffee-doesnt-just-help-you-poop-it-may-change-the-physiology-in-your-gut",
+      "urlToImage": "https://www.sciencealert.com/images/2026/11/GettyImages-540712457-2560x1440-1.jpg",
+      "publishedAt": "2026-11-15T02:02:20Z",
+      "content": "We can usually feel the effects of coffee in the body pretty quickly.\r\nIf you're a regular coffee drinker, that first sip can promptly clear the morning fog and get your day going.\r\nNot long after, c… [+3499 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Real Simple"
       },
       "author": "https://www.facebook.com/realsimple/",
@@ -337,80 +428,28 @@
     {
       "source": {
         "id": null,
-        "name": "NPR"
+        "name": "ScienceAlert"
       },
-      "author": "Amy Maxmen",
-      "title": "US has lost measles elimination status, global health authorities say - NPR",
-      "description": "The U.S. has lost its status as a country where measles is eliminated, according to researchers with direct knowledge of the deliberations at the Pan American Health Organization.",
-      "url": "https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2873x1616+0+104/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F17%2F49%2F1f36704d408faf669fa00f372d61%2Fmeasles-02.jpg",
-      "publishedAt": "2026-11-14T22:15:02Z",
-      "content": "The U.S. has lost its status as a country where measles is eliminated, a public health triumph secured a quarter century ago.\r\nResearchers with direct knowledge of the deliberations on the country's … [+13255 chars]"
+      "author": "Peter Dockrill",
+      "title": "Scientists Invented an Electric Comb, And Tests in Mice Show It Promotes Rapid Hair Growth - ScienceAlert",
+      "description": "If you're losing your hair, you might not be reaching for the comb as often as you used to.",
+      "url": "https://www.sciencealert.com/scientists-invented-an-electric-comb-and-tests-in-mice-show-it-promotes-rapid-hair-growth",
+      "urlToImage": "https://www.sciencealert.com/images/2026/11/electric-comb.jpg",
+      "publishedAt": "2026-11-14T20:02:20Z",
+      "content": "If you're losing your hair, you might not be reaching for the comb as often as you used to.\r\nIt's just possible that could be about to change.\r\nResearch from scientists in China has revealed a promis… [+3838 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "PBS"
+        "name": "KSBY San Luis Obispo News"
       },
-      "author": null,
-      "title": "The U.S. flu season is off to a very early start. It's hitting the South and West now - PBS",
-      "description": "The Centers for Disease Control and Prevention on Friday posted its latest update, reporting that seven states were reporting high flu activity last week, up from two states the week before.",
-      "url": "https://www.pbs.org/newshour/health/the-u-s-flu-season-is-off-to-a-very-early-start-its-hitting-the-south-and-west-now",
-      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-09-23T023423Z_1699652224_RC2IONAPKSDB_RTRMADP_3_HEALTH-VACCINES-1024x683.jpg",
-      "publishedAt": "2026-11-14T21:02:19Z",
-      "content": "NEW YORK (AP) The U.S. flu season is off to a very early start, and it's quickly intensifying.\r\nThe Centers for Disease Control and Prevention on Friday posted its latest update, reporting that seven… [+3836 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "KSN-TV"
-      },
-      "author": "Aniyah Robinson",
-      "title": "Rabies clinic planned after cat tests positive in south-central Kansas - KSN.com",
-      "description": "The Benton Police Department announced Friday night that it has confirmed a case of rabies in a cat.",
-      "url": "https://www.ksn.com/news/state-regional/rabies-clinic-planned-after-cat-tests-positive-in-south-central-kansas/",
-      "urlToImage": "https://www.ksn.com/wp-content/uploads/sites/13/2026/11/Aniyah-Featured-Image-19.png?w=1280",
-      "publishedAt": "2026-11-14T21:02:01Z",
-      "content": "WICHITA, Kan. (KSNW) The Benton Police Department announced Friday night that it has confirmed a case of rabies in a cat.\r\nThe case was confirmed through testing at K-State Animal Hospital in Manhatt… [+1341 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "San Luis Obispo Tribune"
-      },
-      "author": "Joe Tarica",
-      "title": "Another child sickened with E. coli after outbreak spreads to SLO preschool - San Luis Obispo Tribune",
-      "description": "A child at a San Luis Obispo, California, preschool was infected and hospitalized with Shiga toxin-producing E. coli in a person-to-person transmission from one of the original Brookshire Farm cases.",
-      "url": "https://www.sanluisobispo.com/news/local/article318080679.html",
-      "urlToImage": "https://www.thestate.com/public/news/state/south-carolina/84r1i6/picture148744579/alternates/LANDSCAPE_1200/Shigatoxin%20producing%20E",
-      "publishedAt": "2026-11-14T18:49:00Z",
-      "content": "Local\r\nAnother child was sickened with a deadly strain of E. coli after being infected at a San Luis Obispo preschool by one of the five primary cases involved in the initial outbreak that killed an … [+3017 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Editorial Board",
-      "title": "Opinion | A medical triumph falls victim to anti-vax parents of newborns - The Washington Post",
-      "description": "Medical progress has an enemy: short memories.",
-      "url": "https://www.washingtonpost.com/opinions/2026/11/14/vitamin-k-shot-worked-so-well-that-parents-forgot-why-kids-need-it/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/KU5HAKQXFUP4JVGXZUMZLIQTQY.JPG&w=1440",
-      "publishedAt": "2026-11-14T18:18:02Z",
-      "content": "Heres the latest example of how suspicion of vaccines is, lamentably, gripping far too many Americans: Parents are refusing vitamin K shots for newborns, even though they are not even vaccines, somet… [+122 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "New prostate cancer guidelines urge men to start screening at specific age - Fox News",
-      "description": "The American Cancer Society's new guidelines now recommend PSA blood tests every two years for men 50-69, with Black men urged to start annual screening at 45.",
-      "url": "https://www.foxnews.com/health/new-prostate-cancer-guidelines-urge-men-start-screening-specific-age",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/man-at-doctor.jpg",
-      "publishedAt": "2026-11-14T17:48:19Z",
-      "content": "The American Cancer Society is recommending regular prostate cancer screening starting at age 50 for men at average risk under updated guidelines released Nov. 12.\r\nThe update shifts from emphasizing… [+4814 chars]"
+      "author": "KSBY Staff",
+      "title": "Person at San Luis Obispo preschool recovering from E. coli complication - KSBY News",
+      "description": "San Luis Obispo County health officials said a person at a local preschool is recovering after developing a serious complication from an E. coli infection.",
+      "url": "https://www.ksby.com/san-luis-obispo/person-at-san-luis-obispo-preschool-recovering-from-e-coli-complication",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/2acdae7/2147483647/strip/true/crop/1056x554+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F0e%2F6e%2F584afe6e4da09494aa01553f13eb%2Fslo-public-health-sign1.png",
+      "publishedAt": "2026-11-14T19:22:48Z",
+      "content": "San Luis Obispo County health officials said a person at a local preschool is recovering after developing a serious complication from an E. coli infection.\r\nOfficials with the Department of Health sa… [+1538 chars]"
     },
     {
       "source": {
@@ -440,6 +479,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Medical Xpress"
+      },
+      "author": null,
+      "title": "Brain-computer interfaces: A new voice for people with paralysis - Medical Xpress",
+      "description": "Recent advancements in brain-computer interfaces are helping restore communication in clinical trial participants who have lost the ability to speak or make voluntary movements. New findings were presented at Neuroscience 2026, the annual meeting of the Socie…",
+      "url": "https://medicalxpress.com/news/2026-11-brain-interfaces-voice-people-paralysis.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/neurolink.jpg",
+      "publishedAt": "2026-11-14T17:00:06Z",
+      "content": "Recent advancements in brain-computer interfaces are helping restore communication in clinical trial participants who have lost the ability to speak or make voluntary movements. New findings were pre… [+2468 chars]"
+    },
+    {
+      "source": {
         "id": "the-hill",
         "name": "The Hill"
       },
@@ -454,28 +506,15 @@
     {
       "source": {
         "id": null,
-        "name": "Eatthis.com"
+        "name": "Newser"
       },
-      "author": "Alexa Mellardo",
-      "title": "4 Standing Exercises That Build Muscle Definition Faster Than Gym Classes After 70 - Eat This Not That",
-      "description": "Standing exercises for muscle definition after 70, with tips from a physical therapist and a personal trainer.",
-      "url": "https://www.eatthis.com/standing-exercises-for-muscle-definition-after-70/",
-      "urlToImage": "https://www.eatthis.com/wp-content/uploads/sites/4/2026/11/mature-woman-dumbbell-exercise_780648619.jpg?quality=82&strip=all",
-      "publishedAt": "2026-11-14T14:05:05Z",
-      "content": "Strengthening your muscles is good for your overall well-being and independence.\r\nIt’s never too late to start building muscle. Plus, strengthening your muscles is good for your overall health, daily… [+3530 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tampa Bay Times"
-      },
-      "author": "Michaela Mulligan",
-      "title": "Meet the mosquitoes behind Tampa Bay’s dengue outbreak - Tampa Bay Times",
-      "description": "The mosquitoes are resilient, love people and could be in your yard.",
-      "url": "https://www.tampabay.com/news/environment/2026/11/14/dengue-fever-florida-mosquito-aedes/",
-      "urlToImage": "https://www.tampabay.com/resizer/v2/AIVBHITVTD3XUWPGKQYD6ZKYVY.jpg?auth=e22e14aae440884de9e1bc6e9ae4678bf869c5fad1a0ab058e5dcd9745605445&height=675&width=1200&smart=true",
-      "publishedAt": "2026-11-14T13:48:59Z",
-      "content": null
+      "author": "John Johnson",
+      "title": "A Senior's Death in Florida May Be a Dengue Omen - Newser",
+      "description": "More and more in the US, the disease is being acquired locally, not through travelers",
+      "url": "https://www.newser.com/story/399720/a-seniors-death-in-florida-may-be-a-dengue-omen.html",
+      "urlToImage": "https://cdn.newser.com/image/1723558-12-20261114074003.jpeg",
+      "publishedAt": "2026-11-14T13:10:00Z",
+      "content": "Of the roughly 880 infections reported in Florida this year, 503 were infected locally, a sharp jump from the previous record of 189 in 2023. And if Florida is ground zero for US cases, the Tampa are… [+557 chars]"
     },
     {
       "source": {
@@ -515,19 +554,6 @@
       "urlToImage": "https://www.sciencedaily.com/images/1920/woman-holding-stomach-digestive-heart-health.webp",
       "publishedAt": "2026-11-14T12:37:21Z",
       "content": "A specially designed fiber supplement may offer a promising new way to improve gut health for millions of people with irritable bowel syndrome (IBS). Researchers at Edith Cowan University (ECU) have … [+4778 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "HuffPost"
-      },
-      "author": "Jillian Wilson",
-      "title": "Doctors Are Pointing Out 6 Red Flags You Should Look Out For When Spotting Dementia - BuzzFeed",
-      "description": "Whether you have any of the symptoms or not, there are things you can do to reduce your dementia risk.",
-      "url": "https://www.huffpost.com/entry/6-physical-symptoms-of-dementia-that-you-really-should-know-g_l_6aec9a86e4b08d8d4a8e06a5",
-      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/10/21/subbuzz/ZcIHriAYB.jpg?crop=6900:3613;0,767%26downsize=1250:*",
-      "publishedAt": "2026-11-14T12:16:02Z",
-      "content": "The person experiencing sleep changes may not notice, but if you live with someone and find theyre moving around a lot at night, punching, shouting or talking in their sleep, its important to let the… [+329 chars]"
     },
     {
       "source": {
@@ -574,38 +600,12 @@
         "name": "PEOPLE"
       },
       "author": "Nicholas Rice",
-      "title": "Woman Spent Years Believing She Had Multiple Sclerosis Due to a Misdiagnosis. She Actually Had a Rare Autoimmune Disorder - Yahoo",
+      "title": "Woman Spent Years Believing She Had Multiple Sclerosis Due to a Misdiagnosis. She Actually Had a Rare Autoimmune Disorder - AOL.com",
       "description": "“I was mad. I don’t want to say I got over it, but I accepted it,” DeMonica Amerson said",
       "url": "https://people.com/woman-spent-years-believing-she-had-ms-was-actually-a-rare-autoimmune-disorder-12251185",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/a338627650df30032c0ff48656b499509c58d657cd06e9e5e1fef7ff46667f3d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F2583d2f2be99a2c06d91e3c8d79bd4d0.jpg",
+      "urlToImage": "https://hermes.media.static.aol.com/media/2026/11/14/3c9acd0b-4a28-3c4c-81f9-be60c4997ffa/b9c831ec-fec5-435b-9946-dbda7df74d80.jpg",
       "publishedAt": "2026-11-14T10:00:00Z",
-      "content": "NEED TO KNOW\r\n<ul><li>A woman spent years believing she had multiple sclerosis (MS) due to a misdiagnosis\r\n</li><li>DeMonica Amerson actually had neuromyelitis optica spectrum disorder (NMOSD), a rar… [+3346 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NDTV News"
-      },
-      "author": "Debosmita Ghosh",
-      "title": "World Diabetes Day 2026: Prediabetes Is Your Window To Act, Simple Ways To Reverse The Condition - NDTV",
-      "description": "Prediabetes means the body is starting to have difficulty in regulating blood sugar effectively. One commonly used measure is the HbA1c test, which shows the average blood sugar levels over roughly the previous three months.",
-      "url": "https://www.ndtv.com/health/living-healthy/world-diabetes-day-2026-prediabetes-is-your-window-to-act-simple-ways-to-reverse-the-condition-12325826",
-      "urlToImage": "https://c.ndtvimg.com/2026-09/m0slga3k_diabetes_625x300_04_September_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "publishedAt": "2026-11-14T08:45:03Z",
-      "content": "World Diabetes Day is observed every year on November 14 to raise awareness about diabetes, its prevention, early diagnosis and management. The theme for World Diabetes Day 2026 is \"Early action on d… [+4920 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "KSL.com"
-      },
-      "author": "Emily Ashcraft, KSL",
-      "title": "Two-thirds of Utah homes have radon levels suggesting they should consider action, report shows - KSL News",
-      "description": "UtahRadon.org released a report this week with data from radon tests around Utah in the last year. The report was discussed by lung cancer patients, doctors and radon experts on a panel.",
-      "url": "https://www.ksl.com/article/51645708/two-thirds-of-utah-homes-have-radon-levels-suggesting-they-should-consider-action-report-shows",
-      "urlToImage": "https://img.ksl.com/slc/3200/320062/32006201.jpeg?filter=kslv2/responsive_story_lg",
-      "publishedAt": "2026-11-14T03:56:00Z",
-      "content": "SALT LAKE CITY Kerri Robbins first heard about radon two and a half months after she was diagnosed with lung cancer. She started coughing up water, which led her to seek treatment and get diagnosed.\r… [+5776 chars]"
+      "content": "<ul><li>A woman spent years believing she had multiple sclerosis (MS) due to a misdiagnosis\r\n</li><li>DeMonica Amerson actually had neuromyelitis optica spectrum disorder (NMOSD), a rare autoimmune d… [+3179 chars]"
     },
     {
       "source": {
@@ -635,19 +635,6 @@
     },
     {
       "source": {
-        "id": "the-times-of-india",
-        "name": "The Times of India"
-      },
-      "author": "Aadya Jha",
-      "title": "World Diabetes Day 2026: Diabetes can develop silently for years: Why one simple health check could help detect the risk early and prevent future complications - The Times of India",
-      "description": "A person can feel perfectly healthy and still have high blood sugar. There may be no unusual thirst, frequent trips to the bathroom or sudden change in weight. Life continues as usual, while blood sugar levels may be rising quietly in the background. This is …",
-      "url": "https://timesofindia.indiatimes.com/health/diabetes-can-develop-silently-for-years-why-one-simple-health-check-could-help-detect-the-risk-early-and-prevent-future-complications/photostory/135813778.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-135813850,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-11-13T23:30:00Z",
-      "content": "Dr Vora also highlights the role workplaces can play in reducing diabetes risk. Long sitting hours, limited physical activity and unhealthy food choices can make working environments unfavourable for… [+555 chars]"
-    },
-    {
-      "source": {
         "id": "ars-technica",
         "name": "Ars Technica"
       },
@@ -674,19 +661,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "13WHAM-TV"
-      },
-      "author": "WHAM",
-      "title": "New York's first case of of chronic wasting disease in 21 years detected in Livingston Co. - 13WHAM-TV",
-      "description": "The New York State Department of Environmental Conservation announced Friday that it is opening a deer check station after chronic wasting disease was detected in a wild deer in Livingston County.",
-      "url": "https://13wham.com/news/local/new-york-state-first-case-of-of-chronic-wasting-disease-in-21-years-detected-in-livingston-county-cwd-dec-wild-deer-check-station",
-      "urlToImage": "https://13wham.com/resources/media2/16x9/1024/1320/center/90/fbddefcb-5437-45f0-880d-5ccf1aa9e0cd-LivingstonCountyimage.png",
-      "publishedAt": "2026-11-13T20:13:08Z",
-      "content": "The New York State Department of Environmental Conservation announced Friday that it is opening a deer check station after chronic wasting disease was detected in a wild deer in Livingston County.\r\nT… [+635 chars]"
-    },
-    {
-      "source": {
         "id": "fox-news",
         "name": "Fox News"
       },
@@ -701,15 +675,28 @@
     {
       "source": {
         "id": null,
+        "name": "PBS"
+      },
+      "author": null,
+      "title": "What men need to know after a major update to prostate cancer guidelines - PBS",
+      "description": "Middle-aged men should undergo regular screening for prostate cancer, the American Cancer Society said Thursday in a major change to its guidelines.",
+      "url": "https://www.pbs.org/newshour/health/what-men-need-to-know-after-a-major-update-to-prostate-cancer-guidelines",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2025/06/BudgetBillMedicaid-1024x545.jpg",
+      "publishedAt": "2026-11-13T17:58:31Z",
+      "content": "WASHINGTON (AP) Middle-aged men should undergo regular screening for prostate cancer, the American Cancer Society said Thursday in a major change to its guidelines.\r\nThe screening involves a simple b… [+3882 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "OregonLive"
       },
-      "author": "OregonLive.com",
+      "author": "Aimee Green | The Oregonian/OregonLive",
       "title": "Grieving family awarded $7.8M after doctors failed to diagnose woman’s cancer 2 years in a row - OregonLive.com",
-      "description": null,
+      "description": "A lawyer for the dead woman’s family calls the medical system’s claims a “sickening” lack of accountability.",
       "url": "https://www.oregonlive.com/health/2026/11/grieving-family-awarded-78m-after-doctors-failed-to-diagnose-womans-cancer-2-years-in-a-row.html",
-      "urlToImage": null,
+      "urlToImage": "https://www.oregonlive.com/resizer/v2/AM4MFVN77ZCIZPX3B2NKVUOVKA.png?auth=85856a4c0807be80cd146f80e1da696d46c75c9fe0d0028f3373ff29920e63b4&width=1280&smart=true",
       "publishedAt": "2026-11-13T17:57:00Z",
-      "content": null
+      "content": "A Multnomah County Circuit Court jury has awarded $7.8 million to the family of a Portland woman whose doctors missed a suspicious mass on her annual breast-screening scans allowing the mass to ballo… [+6973 chars]"
     },
     {
       "source": {
@@ -765,6 +752,19 @@
     },
     {
       "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Mishal Husain",
+      "title": "David Cameron on Living With Brexit and Ending Alzheimer’s - Bloomberg.com",
+      "description": "The former UK prime minister talks about the consequences of leaving the EU, his campaign to cure Alzheimer’s and whether he’d return to government.",
+      "url": "https://www.bloomberg.com/features/2026-david-cameron-weekend-interview/",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iohszFtb6i7g/v0/-1x-1.webp",
+      "publishedAt": "2026-11-13T06:00:00Z",
+      "content": "Illustration: Uli Knörzer for Bloomberg; Source photo: Jose Sarmento Matos/Bloomberg\r\nIllustration: Uli Knörzer for Bloomberg; Source photo: Jose Sarmento Matos/Bloomberg\r\nDavid Cameron started think… [+18227 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "Men's Journal"
       },
@@ -817,19 +817,6 @@
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Nina Agrawal",
-      "title": "What to Know About New Prostate Cancer Screening Recommendations",
-      "description": "Universal screening for the disease has long been a subject of controversy.",
-      "url": "https://www.nytimes.com/2026/11/12/well/prostate-cancer-screening-guideline.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/12/well/12WELL-ACS-PROSTATE2/12WELL-ACS-PROSTATE2-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-12T15:04:02Z",
-      "content": "Universal screening for the disease has long been a subject of controversy."
-    },
-    {
-      "source": {
         "id": null,
         "name": "Nature.com"
       },
@@ -853,19 +840,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/06/multimedia/00cul-broadway-chastain-htmg/00cul-broadway-chastain-htmg-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-11T22:00:06Z",
       "content": "Chastain will portray an actress with dementia whose most vivid memories are of rehearsing for the title role in “King Lear.”"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "New weight-loss drug wipes out chronic knee pain in some patients, researchers say - Fox News",
-      "description": "Northwestern University-led trials found retatrutide helped two-thirds of obese knee osteoarthritis patients cut pain by half in late-stage studies.",
-      "url": "https://www.foxnews.com/health/weight-loss-drug-wipes-chronic-knee-pain-patients-researchers-say",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/mature-woman-knee-pain.jpg",
-      "publishedAt": "2026-11-11T21:10:40Z",
-      "content": "An experimental weight-loss drug significantly reduced chronic knee pain and improved mobility in people with obesity and knee osteoarthritis, according to two clinical trials led by researchers at N… [+4712 chars]"
     },
     {
       "source": {
@@ -918,6 +892,19 @@
       "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LACWFPE3SKOPYQGI7M4J5IUKKY_size-normalized.jpg&w=1440",
       "publishedAt": "2026-11-10T19:00:00Z",
       "content": "In the United States, an estimated 6 million people are taking care of someone with cancer. These cancer caregivers are essential to the well-being of the person with the diagnosis, helping with medi… [+61 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": null,
+      "title": "An 11-day-old baby couldn’t stop bleeding. For hours, the ER didn’t provide a critical vitamin shot. - CNN",
+      "description": "When Baby Gwen was born, her parents decided not to have her receive a vitamin K injection, though it’s been standard practice for decades, and gave her drops instead. The emergency room doctor who first treated Gwen tried seven methods to stop the bleeding f…",
+      "url": "https://www.cnn.com/2026/11/10/health/vitamin-k-infant-bleeding",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20260810-bazan-vitamink-018.JPG?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-11-10T10:00:16Z",
+      "content": "This story was originally published by ProPublica, a nonprofit newsroom that investigates abuses of power. Sign up for Dispatches, a newsletter that spotlights wrongdoing around the country, to recei… [+29168 chars]"
     },
     {
       "source": {
@@ -1022,19 +1009,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/04/multimedia/04dc-arbitators-jwgf/04dc-arbitators-jwgf-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-05T20:34:26Z",
       "content": "The two companies settled billing disputes between doctors and insurers, keeping patients out of the middle. One let doctors win 96 percent of the time."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Rebecca Robbins and Reed Abelson",
-      "title": "CVS to Split Off Drugstore Business, Ending Its Bigger-Is-Better Era",
-      "description": "In a breakup planned for 2028, CVS Health intends to keep together its insurance and pharmacy benefits divisions and create a separate company for its pharmacies.",
-      "url": "https://www.nytimes.com/2026/11/04/business/cvs-health-split.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/04/multimedia/04biz-cvs-breakup-zpcw/04biz-cvs-breakup-zpcw-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-04T21:20:03Z",
-      "content": "In a breakup planned for 2028, CVS Health intends to keep together its insurance and pharmacy benefits divisions and create a separate company for its pharmacies."
     }
   ]
 }
