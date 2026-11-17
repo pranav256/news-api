@@ -1,7 +1,33 @@
 {
   "status": "ok",
-  "totalResults": 92,
+  "totalResults": 93,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Quinn Glabicki",
+      "title": "Judge Finds Trump’s Planned Seabed Mining Auction Violated Law",
+      "description": "It’s unclear whether the Trump administration will proceed with a lease sale set for Thursday to permit companies to mine the ocean floor off American Samoa.",
+      "url": "https://www.nytimes.com/2026/11/17/climate/seabed-mining-lease-auction.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/17/science/17CLI-SEABED-MINING/17CLI-SEABED-MINING-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-17T21:55:37Z",
+      "content": "It’s unclear whether the Trump administration will proceed with a lease sale set for Thursday to permit companies to mine the ocean floor off American Samoa."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "David Quammen",
+      "title": "How the Measles Virus Makes Your Immune System Forget",
+      "description": "The United States has lost its measles-elimination status, signaling the return of a virus that can cause lasting health consequences.",
+      "url": "https://www.nytimes.com/2026/11/17/science/measles-virus-immune-system.html",
+      "urlToImage": null,
+      "publishedAt": "2026-11-17T19:22:44Z",
+      "content": "The United States has lost its measles-elimination status, signaling the return of a virus that can cause lasting health consequences."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -12,7 +38,7 @@
       "description": "An abandoned station manager’s villa — the site of a historic effort to save the explorer’s marooned crew — has now been restored. Take a tour inside.",
       "url": "https://www.nytimes.com/2026/11/17/science/ernest-shackleton-antarctic-south-georgia-villa.html",
       "urlToImage": null,
-      "publishedAt": "2026-11-17T14:14:01Z",
+      "publishedAt": "2026-11-17T19:21:15Z",
       "content": "An abandoned station manager’s villa — the site of a historic effort to save the explorer’s marooned crew — has now been restored. Take a tour inside."
     },
     {
@@ -20,13 +46,39 @@
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "The New York Times",
-      "title": "Highlights From the Starship Landing",
-      "description": "The Starship spacecraft safely landed back at the Starbase launch facility, a major step in SpaceX’s quest to build fully reusable rockets.",
-      "url": "https://www.nytimes.com/live/2026/11/14/science/spacex-starship-launch",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/14/multimedia/14starship-launch-header-cfqw/14starship-launch-header-cfqw-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-17T13:49:14Z",
-      "content": "The Starship spacecraft safely landed back at the Starbase launch facility, a major step in SpaceX’s quest to build fully reusable rockets."
+      "author": "Jonathan Moens",
+      "title": "A.I.’s People-Pleasing Problem",
+      "description": "A new report found that popular chatbots often abandon scientific facts to affirm users’ beliefs.",
+      "url": "https://www.nytimes.com/2026/11/17/climate/climate-chatbots-people-pleasers.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/17/multimedia/17cli-newsletter-chatbots-sub-whjm/17cli-newsletter-chatbots-sub-whjm-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-17T19:16:41Z",
+      "content": "A new report found that popular chatbots often abandon scientific facts to affirm users’ beliefs."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Emily Baumgaertner Nunn",
+      "title": "What Can Genes Reveal About Chronic Pain?",
+      "description": "The largest genetic study of pain to date identified new biological roots in the brain — and gave hints for research into both prevention and treatment.",
+      "url": "https://www.nytimes.com/2026/11/17/science/genes-chronic-pain.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/17/science/17SCI-PAIN-GENES/17SCI-PAIN-GENES-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-17T18:53:19Z",
+      "content": "The largest genetic study of pain to date identified new biological roots in the brain — and gave hints for research into both prevention and treatment."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Benjamin Mueller",
+      "title": "John H. Powers III to Lead NIAID Amid Turmoil",
+      "description": "Dr. John H. Powers III was appointed director of the National Institute of Allergy and Infectious Diseases, a powerful post held for decades by Dr. Anthony Fauci.",
+      "url": "https://www.nytimes.com/2026/11/16/science/niaid-chief-john-powers.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/16/science/16SCI-NIAID-02/16SCI-NIAID-02-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-17T16:54:30Z",
+      "content": "Dr. John H. Powers III was appointed director of the National Institute of Allergy and Infectious Diseases, a powerful post held for decades by Dr. Anthony Fauci."
     },
     {
       "source": {
@@ -59,13 +111,13 @@
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "David Quammen",
-      "title": "How the Measles Virus Makes Your Immune System Forget",
-      "description": "The United States is losing its measles-elimination status, signaling the return of a virus that can cause lasting health consequences.",
-      "url": "https://www.nytimes.com/2026/11/17/science/measles-virus-immune-system.html",
-      "urlToImage": null,
-      "publishedAt": "2026-11-17T10:02:07Z",
-      "content": "The United States is losing its measles-elimination status, signaling the return of a virus that can cause lasting health consequences."
+      "author": "Penelope Colston",
+      "title": "A More Precise Clock Is on Its Way",
+      "description": "The optical atomic clock, which scientists say would be off by about a second over 14 billion years, is soon expected to become a primary reference.",
+      "url": "https://www.nytimes.com/2026/11/17/fashion/optical-atomic-clocks-rolex.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/18sp-watches-atomic-inyt-02-hfvq/18sp-watches-atomic-inyt-02-hfvq-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-17T10:00:32Z",
+      "content": "The optical atomic clock, which scientists say would be off by about a second over 14 billion years, is soon expected to become a primary reference."
     },
     {
       "source": {
@@ -90,21 +142,8 @@
       "description": "Senator Alan Armstrong hired his former company’s top lawyer temporarily, while the chamber drafted a sweeping energy bill. Ethics officials signed off on the unusual arrangement.",
       "url": "https://www.nytimes.com/2026/11/16/climate/alan-armstrong-oklahoma.html",
       "urlToImage": "https://static01.nyt.com/images/2026/11/16/multimedia/16CLI-INDUSTRY-wklv/16CLI-INDUSTRY-wklv-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-17T00:59:20Z",
+      "publishedAt": "2026-11-17T00:59:21Z",
       "content": "Senator Alan Armstrong hired his former company’s top lawyer temporarily, while the chamber drafted a sweeping energy bill. Ethics officials signed off on the unusual arrangement."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Benjamin Mueller",
-      "title": "John H. Powers III to Lead NIAID Amid Turmoil",
-      "description": "Dr. John H. Powers III was appointed director of the National Institute of Allergy and Infectious Diseases, a powerful post held for decades by Dr. Anthony Fauci.",
-      "url": "https://www.nytimes.com/2026/11/16/science/niaid-chief-john-powers.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/16/science/16SCI-NIAID-02/16SCI-NIAID-02-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-16T19:17:40Z",
-      "content": "Dr. John H. Powers III was appointed director of the National Institute of Allergy and Infectious Diseases, a powerful post held for decades by Dr. Anthony Fauci."
     },
     {
       "source": {
@@ -121,6 +160,32 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "24/7 Wall St."
+      },
+      "author": "Rich Duprey",
+      "title": "Elon Musk’s Historic SpaceX Mission Was Only Half Successful. Its Payoff Could Still Slash Launch Costs by 77% - Yahoo Finance",
+      "description": "SpaceX watched its giant booster explode in the Gulf, yet the other half of Starship pulled off a first no orbital rocket has managed. Why that single catch matters more to investors than the loss stings.",
+      "url": "https://247wallst.com/investing/2026/11/16/elon-musks-historic-spacex-mission-was-only-half-successful-its-payoff-could-still-slash-launch-costs-by-77/",
+      "urlToImage": "https://247wallst.com/wp-content/uploads/2026/08/shutterstock_2155166627.jpg",
+      "publishedAt": "2026-11-16T15:48:59Z",
+      "content": "The economics of spaceflight are approaching another turning point. Reusable rockets have already reduced the expense of reaching orbit, but even today’s most successful launch systems still discard … [+5183 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Quanta Magazine"
+      },
+      "author": null,
+      "title": "What Makes Up the Cosmos? A 20-Year Survey Hints That Something Is Missing. - Quanta Magazine",
+      "description": "An era-defining galaxy survey has released its final results. They don’t quite fit the leading theory of cosmology.",
+      "url": "https://www.quantamagazine.org/what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missing-20261116/",
+      "urlToImage": "https://www.quantamagazine.org/wp-content/uploads/2026/11/DES-cr.CTIO-NOIRLab-NSF-AURA-T.-Matsopoulos-Social.jpg",
+      "publishedAt": "2026-11-16T15:18:29Z",
+      "content": "In 2024, the DESI collaboration dropped a bombshell report. When researchers added their shells to the existing dossier, they couldnt get the Lambda-CDM model to fit all the data. What fit better was… [+2668 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -131,6 +196,45 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/28/us/00well-science-patient-promo/00well-science-patient-promo-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-16T15:03:46Z",
       "content": "For 27 years, the Pediatric Brain Tumor Consortium worked to save kids with brain cancer. But just before 5-year-old Ryleigh Schecter was diagnosed, the government shut it down."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Michelle Starr",
+      "title": "NASA's Curiosity Rover Burst Open a Rock on Mars And Found a Big Surprise - ScienceAlert",
+      "description": "Even though Mars is millions of kilometers across the Solar System, scientists have a pretty good handle on its geology.",
+      "url": "https://www.sciencealert.com/nasas-curiosity-rover-burst-open-a-rock-on-mars-and-found-a-big-surprise",
+      "urlToImage": "https://www.sciencealert.com/images/2026/11/brimstone-1200x675.png",
+      "publishedAt": "2026-11-16T14:03:45Z",
+      "content": "Even though Mars is millions of kilometers across the Solar System, scientists have a pretty good handle on its geology.\r\nWe know, broadly, what types of minerals can be found there, and the geologic… [+6921 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "Ingrid Fadelli",
+      "title": "Quantum teleportation method uses weaker entanglement to transfer encoded information - Phys.org",
+      "description": "Over the past several decades, researchers have demonstrated quantum teleportation, the transfer of one quantum system's state to another, in a range of systems. However, many quantum computers encode logical qubits (units of quantum information) across group…",
+      "url": "https://phys.org/news/2026-11-quantum-teleportation-method-weaker-entanglement.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/researchers-teleport-a.jpg",
+      "publishedAt": "2026-11-16T12:40:01Z",
+      "content": "Over the past several decades, researchers have demonstrated quantum teleportation, the transfer of one quantum system's state to another, in a range of systems. However, many quantum computers encod… [+9882 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Jess Cockerill",
+      "title": "Genes Aren't Protected From Random Mutations Just Because They're Important, Major Study Finds - ScienceAlert",
+      "description": "It's one of the most basic premises in the evolutionary theory of natural selection: Gene sequences within DNA sometimes spontaneously – and randomly – mutate.",
+      "url": "https://www.sciencealert.com/genes-arent-protected-from-random-mutations-just-because-theyre-important-major-study-finds",
+      "urlToImage": "https://www.sciencealert.com/images/2026/11/GettyImages-1339204507-2560x1440-1.jpg",
+      "publishedAt": "2026-11-16T12:04:54Z",
+      "content": "It's one of the most basic premises in the evolutionary theory of natural selection: Gene sequences within DNA sometimes spontaneously and randomly mutate. \r\nIn theory, the odds of this occurring sho… [+4211 chars]"
     },
     {
       "source": {
@@ -212,19 +316,6 @@
     },
     {
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Victoria Bisset",
-      "title": "SpaceX catches Starship rocket on return to Earth - The Washington Post",
-      "description": "The company hailed the mission as a “major step” toward developing fully reusable rockets.",
-      "url": "https://www.washingtonpost.com/technology/2026/11/15/spacex-catches-starship-rocket-return-earth/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/XUHGNKK4HG3UYZ5H3XH4MXVHMU.JPG&w=1440",
-      "publishedAt": "2026-11-15T20:33:13Z",
-      "content": "SpaceX caught the upper section of its massive Starship rocket as it returned to Earth on Saturday, in what the company hailed as a major step toward developing fully reusable rockets.\r\nThe spacecraf… [+175 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -248,6 +339,32 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/disc-of-m81-feat-holmb.jpg",
       "publishedAt": "2026-11-15T20:00:01Z",
       "content": "UBC researchers have helped uncover 15,000 new potential strong gravitational lensesthe largest collection of these cosmic tools that help astronomers investigate dark matter.\r\nThe first major releas… [+5713 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SciTechDaily"
+      },
+      "author": null,
+      "title": "James Webb Telescope Reveals a Giant Planet That Was Hiding in Plain Sight - SciTechDaily",
+      "description": "Finding planets like Earth may depend on better ways to read telescope images, after a new technique uncovered a giant world already captured by JWST.",
+      "url": "https://scitechdaily.com/james-webb-telescope-reveals-a-giant-planet-that-was-hiding-in-plain-sight/",
+      "urlToImage": null,
+      "publishedAt": "2026-11-15T17:57:14Z",
+      "content": "James Webb Space Telescope artist concept. Credit: NASA\r\nFinding planets like Earth may depend on better ways to read telescope images, after a new technique uncovered a giant world already captured … [+8707 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Interesting Engineering"
+      },
+      "author": "Kaushal Kishore",
+      "title": "New quantum method triples information extracted from microwave field measurements - Yahoo",
+      "description": "Physicists use interactions between Rydberg atoms to extract three times more information from microwave signals.",
+      "url": "https://interestingengineering.com/science/microwave-signals-atoms-quantum-sensors",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/8bb28beada76b19ae43305c262f1d834f7d24a93f9ab89af31330f2d3cda1530/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finteresting_engineering_646%2Fab3d7894632c01f68e183ddada2e8b8c.jpg",
+      "publishedAt": "2026-11-15T17:40:44Z",
+      "content": "A new technique has been developed by physicists at the University of Warsaw in Poland to measure microwave fields with increased accuracy. By controlling the interactions between specially prepared … [+3717 chars]"
     },
     {
       "source": {
@@ -368,16 +485,16 @@
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": "fox-news",
+        "name": "Fox News"
       },
-      "author": "Yahoo Tech",
+      "author": "Greg Wehner",
       "title": "Harvard scientist pushes back on NASA chief over mystery space object: 'It's not an asteroid' - Yahoo Tech",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQWU1RFFyOHo4bmhIenBNd0tDVW5zelFockFEWkN2ZkZ6dDBQU1lzRTBnbTdZVXNrcDJsaGMyVHlWbC1zanFfZUVEZDBkaURCWjR0M3gxVUgxMHBHWmtGbUpDSExWT3FpeTFwcnZCbzBXZktEaU9yUmlfWXFRekg4ODB6dngxTWFpVzAtX09HemtueDA?oc=5",
-      "urlToImage": null,
+      "description": "Avi Loeb challenges NASA's Jared Isaacman, arguing 1998 KY26 is not an asteroid and could be a lost Soviet spacecraft from a failed Mars mission.",
+      "url": "https://www.foxnews.com/us/harvard-scientist-pushes-back-nasa-chief-mystery-space-object-not-asteroid",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/990a5f1884d31396bd450d70b7cc96abb9264bb08bbc75aa47760d8c9be64132/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffox_news_text_979%2Fe3d0404de911bfc238b02cb874098859.jpg",
       "publishedAt": "2026-11-15T11:00:34Z",
-      "content": null
+      "content": "A Harvard astrophysicist behind the theory that a mysterious object speeding through the solar system could actually be a lost Soviet spacecraft is pushing back on Nasa's top official, saying the obj… [+6095 chars]"
     },
     {
       "source": {
@@ -430,19 +547,6 @@
       "urlToImage": "https://helios-i.mashable.com/imagery/articles/008ODAKwdM6ZN3XnbcZfuDq/hero-image.fill.size_1200x675.v1794228978.jpg",
       "publishedAt": "2026-11-15T05:01:34Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "Euclid discovers ancient cosmic beacons from the dawn of time, shining like a trillion suns - Science Daily",
-      "description": "ESA’s Euclid space telescope has discovered 31 ancient quasars, including two record-breaking objects that shone with the brightness of a trillion Suns when the Universe was just 670 million years old. Powered by supermassive black holes, these extraordinary …",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261112230504.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/ancient-quasar-artists-concept.webp",
-      "publishedAt": "2026-11-15T01:54:49Z",
-      "content": "The European Space Agency's Euclid space telescope has discovered 31 exceptionally ancient quasars, including two that have set new records as the earliest ever observed. These brilliant galactic cen… [+7426 chars]"
     },
     {
       "source": {
@@ -576,19 +680,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Discoverwildlife.com"
-      },
-      "author": "Stuart Blackman",
-      "title": "\"22% of US men think they could beat a chimpanzee in a fight.\" Hmm... Here's how humans REALLY compare to the world's 10 strongest primates - BBC Wildlife Magazine",
-      "description": "Discover the strongest primates on the planet…",
-      "url": "https://www.discoverwildlife.com/animal-facts/mammals/worlds-strongest-primates-humans",
-      "urlToImage": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/1b69e3e3-b440-4c10-ab18-165e62f44f50/thumbnails/23b25b73-2fb2-4619-9047-4c72244d6feb.jpg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&platform=WEB&w=1200",
-      "publishedAt": "2026-11-14T18:15:17Z",
-      "content": "From nut-cracking monkeys to tree-bending apes, primates come in an astonishing range of shapes, sizes and strength styles. Some rely on brute mass, others on explosive power, iron grips or slow, rel… [+7439 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -599,19 +690,6 @@
       "urlToImage": "https://static01.nyt.com/images/2024/08/14/multimedia/14SCI-BCI-SING-02/14als-promo-fwcb-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-14T17:00:09Z",
       "content": "In one demonstration, a former singer sang a musical scale. Afterward she cried tears of joy."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SciTechDaily"
-      },
-      "author": null,
-      "title": "A 3-Million-Year-Old Fossil Is Turning the Story of Human Evolution Upside Down - SciTechDaily",
-      "description": "Nearly 3 million years after the Taung Child lived, its fossil is challenging long-held assumptions about humanity’s origins, suggesting our ancient family tree was far more diverse than scientists once believed.",
-      "url": "https://scitechdaily.com/a-3-million-year-old-fossil-is-turning-the-story-of-human-evolution-upside-down/",
-      "urlToImage": null,
-      "publishedAt": "2026-11-14T16:03:22Z",
-      "content": "Artistic reconstruction of the Taung Child fossil. Credit: Cicero Moraes\r\nNearly 3 million years after the Taung Child lived, its fossil is challenging long-held assumptions about humanitys origins, … [+3409 chars]"
     },
     {
       "source": {
@@ -681,19 +759,6 @@
     {
       "source": {
         "id": null,
-        "name": "News-Medical.Net"
-      },
-      "author": null,
-      "title": "Researchers discover bacterial molecule that rapidly repairs intestinal damage - News-Medical",
-      "description": "Scientists at Rutgers Health have discovered a molecule produced by \"good\" gut bacteria that rapidly heals the intestinal lining, protecting against severe inflammatory diseases and triggering increased production of a coenzyme whose levels diminish with age.",
-      "url": "https://www.news-medical.net/news/20261113/Researchers-discover-bacterial-molecule-that-rapidly-repairs-intestinal-damage.aspx",
-      "urlToImage": "https://www.news-medical.net/image-handler/picture/2016/5/3d_rendered_illustration_-_molecules-Sebastian_Kaulitzki-2000_12b7886e43a74db8bd94fd774ce58a26-620x480.jpg",
-      "publishedAt": "2026-11-14T02:55:00Z",
-      "content": "Scientists at Rutgers Health have discovered a molecule produced by \"good\" gut bacteria that rapidly heals the intestinal lining, protecting against severe inflammatory diseases and triggering increa… [+4127 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "ScienceAlert"
       },
       "author": "Jess Cockerill",
@@ -758,19 +823,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "Ocean absorbs more fossil fuel carbon while land uptake stalls, 30 years of data show - Phys.org",
-      "description": "The ocean has been absorbing carbon dioxide from fossil fuel emissions at an increasing rate since 1990, while the net uptake of carbon by forests, soils and other land ecosystems has not grown, according to a new study led by scientists at UC San Diego's Scr…",
-      "url": "https://phys.org/news/2026-11-ocean-absorbs-fossil-fuel-carbon.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/new-study-shows-ocean.jpg",
-      "publishedAt": "2026-11-13T18:40:21Z",
-      "content": "The ocean has been absorbing carbon dioxide from fossil fuel emissions at an increasing rate since 1990, while the net uptake of carbon by forests, soils and other land ecosystems has not grown, acco… [+5186 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -781,6 +833,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/13/multimedia/13CLI-REPORT-01-tvzg/13CLI-REPORT-01-tvzg-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-13T17:59:45Z",
       "content": "Several countries that rely heavily on fossil fuels want to delay the next round of scientific assessments that governments use to inform their climate policies."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Andrew C. Manning, Andrew J. Watson, Eric J. Morgan",
+      "title": "Oceans and forests have absorbed roughly half our carbon emissions for decades, slowing climate change – but can they keep it up? - The Conversation",
+      "description": "A method for measuring the world’s crucial carbon sinks finds that the ocean’s so-far-increasing ability to help might taper off in the future.",
+      "url": "https://theconversation.com/oceans-and-forests-have-absorbed-roughly-half-our-carbon-emissions-for-decades-slowing-climate-change-but-can-they-keep-it-up-296498",
+      "urlToImage": "https://images.theconversation.com/files/771728/original/file-20261112-64-s1kp6w.jpg?ixlib=rb-4.1.1&rect=0%2C680%2C8106%2C4053&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-11-13T17:43:23Z",
+      "content": "Over the past two centuries, humans have pumped billions of tons of carbon dioxide into the atmosphere by burning fossil fuels, raising global temperatures in the process.\r\nLuckily for humanity, Eart… [+7496 chars]"
     },
     {
       "source": {
@@ -820,19 +885,6 @@
       "urlToImage": "https://www.sciencealert.com/images/2026/11/LightSpiral-1200x675.jpg",
       "publishedAt": "2026-11-13T14:01:44Z",
       "content": "Many scientists are seriously worried about the potential threat of 'mirror life': hypothetical organisms built from molecules that are flipped from what we find in nature.\r\nMany of life's basic buil… [+4428 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "EarthSky"
-      },
-      "author": "Kelly Kizer Whitt",
-      "title": "Mountain-sized asteroid 1999 AN10 to pass close to Earth in 2027 - EarthSky",
-      "description": "Asteroid 1999 AN10, which might be a mile wide, will pass Earth on August 7, 2027, about 1 lunar distance away. The encounter poses no danger.",
-      "url": "https://earthsky.org/space/mountain-sized-asteroid-1999-an10-pass-close-to-earth-aug-7-2027/",
-      "urlToImage": "https://earthsky.org/upl/2026/11/asteroid-1999-AN10-orbit-in-2027-Guy-Ottewell-800x635.jpg",
-      "publishedAt": "2026-11-13T12:45:59Z",
-      "content": "EarthSky’s famous lunar calendar is now available. Beautiful blue and silver poster shows every days moon phase for 2027. Order yours today!\r\nA space rock around 800 to 1,800 meters wide (about 0.5 t… [+4562 chars]"
     },
     {
       "source": {
@@ -992,6 +1044,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Archaeologymag.com"
+      },
+      "author": "Dario Radley",
+      "title": "Taung Child dated to 3 million years old, revealing a tangled human family tree - Archaeology News Online Magazine",
+      "description": "A new Nature study dates the Taung Child to about 3 million years ago and shows the human family tree in southern Africa was a tangled bush.",
+      "url": "https://archaeologymag.com/2026/11/taung-child-dated-to-3-million-years-old/",
+      "urlToImage": "https://archaeologymag.com/wp-content/uploads/taung-child-dated-1.jpg",
+      "publishedAt": "2026-11-12T11:18:52Z",
+      "content": "A new study in Nature puts the age of the Taung Child, a famous fossil from South Africa, at between 2.96 and 3.03 million years old. Professor Gabriele Macho of the AMGC research group at Vrije Univ… [+3409 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1122,32 +1187,6 @@
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Apoorva Mandavilli",
-      "title": "The U.S. Has Lost Its Measles-Elimination Status, Data Suggests",
-      "description": "An international panel of scientific experts will convene on Tuesday to evaluate the status, but genetic data already shows the virus is once again entrenched in the United States.",
-      "url": "https://www.nytimes.com/2026/11/10/health/measles-united-states-elimination-rfk.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-measles-whjg/10dc-measles-whjg-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-10T23:00:42Z",
-      "content": "An international panel of scientific experts will convene on Tuesday to evaluate the status, but genetic data already shows the virus is once again entrenched in the United States."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Claire Brown",
-      "title": "From Climate Activism to the House of Representatives",
-      "description": "William Lawrence, a co-founder of the Sunrise Movement, flipped a seat in Michigan for the Democrats.",
-      "url": "https://www.nytimes.com/2026/11/10/climate/william-lawrence-sunrise-congress.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/10cli-newsletter-qanda-01-fmgk/10cli-newsletter-qanda-01-fmgk-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-10T20:18:17Z",
-      "content": "William Lawrence, a co-founder of the Sunrise Movement, flipped a seat in Michigan for the Democrats."
-    },
-    {
-      "source": {
         "id": null,
         "name": "Quanta Magazine"
       },
@@ -1171,32 +1210,6 @@
       "urlToImage": "https://assets.wral.com/4c0e6297-4449-4d32-a30e-aaa10d22f975?w=1200&h=630&height=630",
       "publishedAt": "2026-11-10T02:16:58Z",
       "content": "A traffic jam is growing around Earth, but most of the debris is too small to see or track.\r\nScientists estimate that more than 230 million pieces of space debris measuring between 1 millimeter and 1… [+9932 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Aimee  Picchi",
-      "title": "NASA is hiring astronaut candidates. Some could \"live and work\" on the moon. - CBS News",
-      "description": "The space agency is recruiting its next class of astronauts as the U.S. plans a new mission to the moon. Here's the kind of person NASA is looking for.",
-      "url": "https://www.cbsnews.com/news/nasa-hiring-astronaut-applications-requirements-moon/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2021/05/08/bd6dbd3c-fc2b-48f9-a491-19318ed3cc20/thumbnail/1200x630/da67764a1d95a05f9077d55cc0fb6c14/GettyImages-903955770.jpg",
-      "publishedAt": "2026-11-09T18:56:00Z",
-      "content": "NASA is recruiting its next class of astronauts, inviting U.S. citizens to apply before midnight ET on Dec. 3 for the chance to \"live and work\" on the moon.\r\nThe space agency's application portal sta… [+3674 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Quanta Magazine"
-      },
-      "author": null,
-      "title": "Did Life Begin in an RNA World? - Quanta Magazine",
-      "description": "Some believe the earliest life emerged from self-copying molecules that could mutate and even evolve. But that may not have been enough.",
-      "url": "https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/",
-      "urlToImage": "https://www.quantamagazine.org/wp-content/uploads/2026/11/RNA-World-cr.Mark-Belan-Social.jpg",
-      "publishedAt": "2026-11-09T15:24:17Z",
-      "content": "Theres scarcely any corner of Earth in which life hasnt gained a foothold. Living organisms shape the clouds, the climate, even the rocks. But how life first appeared on a barren planet some 4 billio… [+6586 chars]"
     }
   ]
 }
