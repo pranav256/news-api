@@ -1,20 +1,7 @@
 {
   "status": "ok",
-  "totalResults": 76,
+  "totalResults": 78,
   "articles": [
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Christopher Rowland",
-      "title": "Hospitals Rush to Patch Java Vulnerabilities",
-      "description": "Artificial intelligence is accelerating the threats facing health systems that have been under attack from hackers for years.",
-      "url": "https://www.nytimes.com/2026/11/18/business/hospitals-java-artificial-intelligence.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-java-response-jphl/18biz-java-response-jphl-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-18T13:42:44Z",
-      "content": "Artificial intelligence is accelerating the threats facing health systems that have been under attack from hackers for years."
-    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -25,8 +12,47 @@
       "description": "Biotechs are racing to create A.I. models of human cells, hoping to speed drug development and slow aging. Can computers match the complexity of life?",
       "url": "https://www.nytimes.com/2026/11/18/science/ai-virtual-human-cells.html",
       "urlToImage": null,
-      "publishedAt": "2026-11-18T10:02:15Z",
+      "publishedAt": "2026-11-18T20:06:50Z",
       "content": "Biotechs are racing to create A.I. models of human cells, hoping to speed drug development and slow aging. Can computers match the complexity of life?"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Emily Anthes",
+      "title": "N.I.H. Will Move Final Group of Retired Research Chimps to Sanctuary",
+      "description": "The National Institutes of Health, which stopped supporting invasive research on chimpanzees in 2015, previously said the animals were too old and frail to move.",
+      "url": "https://www.nytimes.com/2026/11/18/science/nih-chimpanzees-sanctuary.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/18SCI-NIH-CHIMPS-wmlq/18SCI-NIH-CHIMPS-wmlq-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-18T19:09:37Z",
+      "content": "The National Institutes of Health, which stopped supporting invasive research on chimpanzees in 2015, previously said the animals were too old and frail to move."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Gina Kolata",
+      "title": "An Unspoken Rule Spreads Through Biotech: Share Nothing",
+      "description": "Concerns that well-funded Chinese companies will swoop in to grab new ideas for their own drug development are shaping an industry unaccustomed to such secrecy.",
+      "url": "https://www.nytimes.com/2026/11/17/science/fearing-chinese-rivals-us-biotech-adopts-a-new-norm-share-nothing.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/03/multimedia/00SCI-US-CHINA-IP-01-qhfc/00SCI-US-CHINA-IP-01-qhfc-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-18T18:06:58Z",
+      "content": "Concerns that well-funded Chinese companies will swoop in to grab new ideas for their own drug development are shaping an industry unaccustomed to such secrecy."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Christopher Rowland",
+      "title": "Hospitals Rush to Patch Java Vulnerabilities",
+      "description": "Artificial intelligence is accelerating the threats facing health systems that have been under attack from hackers for years.",
+      "url": "https://www.nytimes.com/2026/11/18/business/hospitals-java-artificial-intelligence.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-java-response-sub-fhpw/18biz-java-response-sub-fhpw-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-18T17:48:19Z",
+      "content": "Artificial intelligence is accelerating the threats facing health systems that have been under attack from hackers for years."
     },
     {
       "source": {
@@ -38,7 +64,7 @@
       "description": "Aging issues — like changes in mobility, cognition and medical needs — seem to affect not whether many older people travel, but how. Here are some tips on how to vacation together.",
       "url": "https://www.nytimes.com/2026/11/18/travel/seniors-older-adults-travel-hotels-flights.html",
       "urlToImage": "https://static01.nyt.com/images/2026/11/18/travel/18trav101-seniors-illo/18trav101-seniors-illo-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-18T10:00:06Z",
+      "publishedAt": "2026-11-18T14:46:05Z",
       "content": "Aging issues — like changes in mobility, cognition and medical needs — seem to affect not whether many older people travel, but how. Here are some tips on how to vacation together."
     },
     {
@@ -53,6 +79,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/17/multimedia/17DC-FDA-OVERTON-hpzm/17DC-FDA-OVERTON-hpzm-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-18T03:26:28Z",
       "content": "The Senate health committee was scheduled to vote on her nomination Wednesday morning after wrestling with concerns about her stance on abortion and vaccines."
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Daniel Wu",
+      "title": "Should you take GLP-1s during pregnancy? What some doctors say. - The Washington Post",
+      "description": "The drugs’ effects on a pregnancy and fetus are unclear, so the American College of Obstetricians and Gynecologists urges caution.",
+      "url": "https://www.washingtonpost.com/health/2026/11/17/should-you-take-glp-1s-during-pregnancy-what-some-doctors-say/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QH4RP6RVWL5WMAO2626COE7XWM_size-normalized.jpg&w=1440",
+      "publishedAt": "2026-11-17T20:02:10Z",
+      "content": "Around 1 in 300 women are exposed to GLP-1 medications during pregnancy, according to the American College of Obstetricians and Gynecologists, but data is unclear about the effects of the weight-loss… [+30 chars]"
     },
     {
       "source": {
@@ -95,6 +134,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "WLS-TV"
+      },
+      "author": "ABC7 Chicago Digital Team",
+      "title": "Loyola Medicine visitation policy: Hospital no longer allowing children, teens under 18 years old due to respiratory viruses - ABC7 Chicago",
+      "description": "Loyola Medicine hospital will no longer allows visitors under the age of 18 because of an increase in respiratory viruses.",
+      "url": "https://abc7chicago.com/post/loyola-medicine-visitation-policy-hospital-no-longer-allowing-children-teens-18-years-old-due-respiratory-viruses/20048249/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/20048217_111726-wls-loyola-visitation-6a-vid.jpg?w=1600",
+      "publishedAt": "2026-11-17T17:09:44Z",
+      "content": "CHICAGO (WLS) -- A new warning for those planning to visit someone at a Loyola Medicine hospital.\r\nThe hospital system no longer allows visitors under the age of 18 because of an increase in respirat… [+352 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -105,6 +157,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/16/science/16SCI-NIAID-02/16SCI-NIAID-02-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-17T16:54:30Z",
       "content": "Dr. John H. Powers III was appointed director of the National Institute of Allergy and Infectious Diseases, a powerful post held for decades by Dr. Anthony Fauci."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Rachel Sacks",
+      "title": "Everyone seems to have a nasty cough — is it contagious? - New York Post",
+      "description": "Are you still contagious if you’ve been coughing weeks after a cold or the flu? And how can you treat a persistent cough?",
+      "url": "https://nypost.com/2026/11/17/health/everyone-seems-to-have-a-nasty-cough-is-it-contagious/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/crop-41920194.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-11-17T16:33:00Z",
+      "content": "It’s quite the cacoughony.\r\nIt may seem like everyone is coughing up a storm these days. At work. On the train. When you go out to eat.\r\nBut are all of these people really contagious and putting you … [+3500 chars]"
     },
     {
       "source": {
@@ -124,6 +189,19 @@
         "id": null,
         "name": "TODAY"
       },
+      "author": "Caroline Kee",
+      "title": "Haven’t Exercised in a While? This Is the Best Time of Day to Go for a Walk - TODAY.com",
+      "description": "In TODAY.com’s Expert Tip of the Day, an orthopedic surgeon reveals the best time of day to walk if you’re starting from zero in order to maximize the health benefits.",
+      "url": "https://www.today.com/health/diet-fitness/best-time-day-go-walk-expert-tip-rcna609582",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-11/Expert-tip-of-the-day-walk-time-of-day-as11162026-923f03.jpg",
+      "publishedAt": "2026-11-17T13:00:00Z",
+      "content": "If youre starting a new fitness journey or getting back into exercise after a long break, youre not alone. \r\nEveryone has to begin somewhere, even if its just getting up off the couch. And if youre s… [+2829 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TODAY"
+      },
       "author": "Sarah Jacoby",
       "title": "Here’s Exactly How Much Leafy Greens to Eat Daily to Support Brain Health, According to a Dietitian - TODAY.com",
       "description": "Dark, leafy greens are some of the best foods to support your long-term brain health. Here’s how often to eat them for those benefits, dietitian says.",
@@ -131,6 +209,32 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-11/Expert-tip-of-the-day-dark-leafy-greens-as11132026-60ac32.jpg",
       "publishedAt": "2026-11-17T12:30:31Z",
       "content": "What you put on your plate can boost your health, including your brain health. But to actually get those benefits, you may need to eat more than you think.\r\nWe know that our bodies thrive when we eat… [+2228 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Kelly Burch",
+      "title": "I founded a cancer biotech company. Then, my mom, dad, and I were all diagnosed with cancer. - Business Insider",
+      "description": "Dr. Ryan Beal is the CEO of Dyve, a cancer-biotech company. He, his dad, and his mom have all had cancer.",
+      "url": "https://www.businessinsider.com/cancer-biotech-company-founder-family-diagnosed-cancer-2026-11#article",
+      "urlToImage": "https://i.insider.com/6adb68d5510d67c758d862c3?width=1200&format=jpeg",
+      "publishedAt": "2026-11-17T12:05:00Z",
+      "content": "This as-told-to essay is based on a conversation withDr. Ryan Beal, CEO ofDyve Biosciences. It has been edited for length and clarity.\r\nMy brother and I were about 60 miles into a 120-mile race in Co… [+3966 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HuffPost"
+      },
+      "author": null,
+      "title": "The Most Common COVID Symptoms Doctors Are Seeing This Fall - HuffPost",
+      "description": "Plus, what COVID rates are looking like throughout the U.S. right now.",
+      "url": "https://www.huffpost.com/entry/covid-symptoms-fall-2026_l_6af63632e4b0476a159ad2ea",
+      "urlToImage": "https://img.huffingtonpost.com/asset/6af78074180000ba6e94c1c1.jpeg?cache=i6RJZxLsuD&ops=500_281%2Cscalefit_1200_630",
+      "publishedAt": "2026-11-17T12:00:19Z",
+      "content": "The holiday season is swiftly approaching and bringing with it a range of fall and winter germs.\r\nIndoor gatherings, colder weather and busy travel create the perfect trifecta for germs, including th… [+5098 chars]"
     },
     {
       "source": {
@@ -147,16 +251,81 @@
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
+        "id": null,
+        "name": "New York Post"
       },
-      "author": "Gina Kolata",
-      "title": "Fearing Chinese Rivals, U.S. Biotech Adopts a New Norm: Share Nothing",
-      "description": "Concerns that well-funded Chinese companies will swoop in to grab new ideas for their own drug development are shaping an industry unaccustomed to such secrecy.",
-      "url": "https://www.nytimes.com/2026/11/17/science/fearing-chinese-rivals-us-biotech-adopts-a-new-norm-share-nothing.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/03/multimedia/00SCI-US-CHINA-IP-01-qhfc/00SCI-US-CHINA-IP-01-qhfc-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-17T11:57:52Z",
-      "content": "Concerns that well-funded Chinese companies will swoop in to grab new ideas for their own drug development are shaping an industry unaccustomed to such secrecy."
+      "author": "Lara Lewington",
+      "title": "Exclusive | Period tracker apps are helping women diagnose and manage diseases - New York Post",
+      "description": "Maxine White was just 34 when a subtle lump turned out to be breast cancer, and she credits her period-tracking app with helping her find it.",
+      "url": "https://nypost.com/2026/11/17/health/period-tracker-apps-are-helping-women-diagnose-and-manage-diseases/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/newspress-collage-ifak5e5k6-1794587251797.jpg?quality=75&strip=all&1794569293&w=1200",
+      "publishedAt": "2026-11-17T11:59:00Z",
+      "content": "Maxine White was just 34 when a subtle lump turned out to be breast cancer, and she credits her period-tracking app with helping her find it. \r\nShe had been using Natural Cycles, an app designed to p… [+7963 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Ozempic and Mounjaro may have a surprising effect on your brain - Science Daily",
+      "description": "Blockbuster weight loss drugs like Ozempic and Mounjaro may do more than help people shed pounds, with growing evidence suggesting they could also influence brain health. Although studies have linked GLP-1 medications to a lower risk of dementia, major trials…",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261116023401.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/human-brain-boost-power-spark.webp",
+      "publishedAt": "2026-11-17T11:53:28Z",
+      "content": "Popular medications used to treat obesity and type 2 diabetes, including semaglutide and tirzepatide, may have effects that extend beyond weight loss and blood sugar control. These drugs also influen… [+4260 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": null,
+      "title": "Integrated QTL mapping and CRISPR screening in pooled iPSC-derived microglia reveals genetic drivers of neurodegenerative risk - Nature",
+      "description": "This study presents a scalable framework for understanding the genetic determinants of gene expression and cellular phenotype in stem-cell-derived microglia-like cells and linking these to neurodegenerative disease.",
+      "url": "https://www.nature.com/articles/s41588-026-02843-0",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41588-026-02843-0/MediaObjects/41588_2026_2843_Fig1_HTML.png",
+      "publishedAt": "2026-11-17T11:37:30Z",
+      "content": "Full methods, including software versions, are available in the Supplementary Note. Data and code are publicly available as described in the data and code availability statements.\r\nHuman iPSC mainten… [+27736 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WFLA"
+      },
+      "author": "WFLA",
+      "title": "Respiratory illnesses surge across US as CDC warns of unusual trends - WFLA",
+      "description": null,
+      "url": "https://www.wfla.com/news/national/respiratory-illnesses-surge-across-us-as-cdc-warns-of-unusual-trends/",
+      "urlToImage": null,
+      "publishedAt": "2026-11-17T11:28:12Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PsyPost"
+      },
+      "author": "Eric W. Dolan",
+      "title": "Psychedelics trigger a bizarre memory paradox that makes the unknown feel like home - PsyPost",
+      "description": "Psychedelic trips feel strikingly new. Yet users often describe arriving somewhere they already know. A new study suggests this paradoxical familiarity differs from both everyday déjà vu and cherished personal memories.",
+      "url": "https://www.psypost.org/psychedelics-trigger-a-bizarre-memory-paradox-that-makes-the-unknown-feel-like-home/",
+      "urlToImage": "https://www.psypost.org/wp-content/uploads/2026/03/psychedelic-woman.jpg",
+      "publishedAt": "2026-11-17T11:16:38Z",
+      "content": "People who take psychedelic substances often report an intense feeling of familiarity, as though they are reconnecting with a state or place they have known before, even when their surroundings feel … [+15069 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Albany Times Union"
+      },
+      "author": "Joe Putrock",
+      "title": "SEEN: The 2026 Go Red for Women luncheon - Times Union",
+      "description": "Were you Seen at The 2026 Go Red for Women luncheon, a benefit for the American Heart Association on Nov. 13, 2026, at the Albany Capital Center?",
+      "url": "https://www.timesunion.com/seen/article/2026-go-red-women-luncheon-22533348.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/67/74/64/31444280/3/rawImage.jpg",
+      "publishedAt": "2026-11-17T11:13:02Z",
+      "content": null
     },
     {
       "source": {
@@ -174,28 +343,28 @@
     {
       "source": {
         "id": null,
-        "name": "ScienceAlert"
+        "name": "KY3"
       },
-      "author": "Esra Öz",
-      "title": "The Way You Walk Could Reveal Clues to Your Liver And Sleep Health, Study Finds - ScienceAlert",
-      "description": "Before you've said a word about why you came in, your doctor may already have noticed something about your health.",
-      "url": "https://www.sciencealert.com/the-way-you-walk-could-reveal-clues-to-your-liver-and-sleep-health-study-finds",
-      "urlToImage": "https://www.sciencealert.com/images/2026/11/SideViewOfPersonWalkingInBrightYellowJacket-1200x675.png",
-      "publishedAt": "2026-11-17T11:02:42Z",
-      "content": "Before you've said a word about why you came in, your doctor may already have noticed something about your health. The way you walk across the room can offer an early clue.\r\nScientists have now devel… [+4988 chars]"
+      "author": "Associated Press, LAURA UNGAR AP Medical Writer",
+      "title": "Doctors sound the alarm about US babies born with measles for the first time in decades - KY3",
+      "description": "A new and historic reality — shaped both by the success of the vaccine and recent skepticism about it — has triggered congenital measles.",
+      "url": "https://www.ky3.com/2026/11/17/doctors-sound-alarm-about-us-babies-born-with-measles-first-time-decades/",
+      "urlToImage": "https://gray-ky3-prod.gtv-cdn.com/resizer/v2/C6AEZRCLPRH6ZENJDWAS7JWQIA.jpg?auth=f85fa02ccedfbf471d26bcd3a0a2210f2f2efd65f95b93bde1f36710c0f9a450&width=1200&height=600&smart=true",
+      "publishedAt": "2026-11-17T11:04:00Z",
+      "content": "(AP) - For the first time in decades, U.S. doctors are sounding the alarm about babies coming into the world with measles.\r\nCongenital measles happens when a pregnant woman passes the virus to her fe… [+5292 chars]"
     },
     {
       "source": {
         "id": "fox-news",
         "name": "Fox News"
       },
-      "author": null,
-      "title": "Drinking 6 to 8 cups of tea a day linked to lower risk of serious diseases, massive study finds - Fox News",
-      "description": "A Journal of Internal Medicine study of nearly 486,000 adults links consistent tea drinking to an 11% lower risk of vascular disease overall.",
-      "url": "https://www.foxnews.com/food-drink/drinking-6-8-cups-tea-day-linked-lower-risk-serious-diseases-massive-study-finds",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/benefits-of-drinking-tea.png",
-      "publishedAt": "2026-11-17T11:00:28Z",
-      "content": "Drinking six to eight cups of tea a day could help lower the risk of vascular disease, according to a recent study published in the Journal of Internal Medicine.\r\nThe study, which was conducted in Ch… [+2682 chars]"
+      "author": "Fox News",
+      "title": "Simple salt substitute could prevent three million deaths a year worldwide, study estimates - New York Post",
+      "description": "High blood pressure affects 1.4 billion adults, and researchers say potassium-enriched salt could reduce its toll.",
+      "url": "https://www.foxnews.com/health/simple-salt-substitute-could-prevent-three-million-deaths-year-worldwide-study-estimates",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/crop-41916002.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-11-17T10:25:00Z",
+      "content": "Replacing regular table salt with a potassium-enriched alternative could prevent nearly three million deaths and more than 10 million cases of heart and kidney disease worldwide every year, according… [+5091 chars]"
     },
     {
       "source": {
@@ -238,16 +407,42 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": null,
+      "title": "Secrets of the vampires: genomes reveal how these bats live off blood alone - Nature",
+      "description": "Expandable stomachs allow these flying mammals to gulp large amounts of blood, and fluid-handling genes help them to fly home after all that liquid.",
+      "url": "https://www.nature.com/articles/d41586-026-03706-8",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03706-8/d41586-026-03706-8_53974392.jpg",
+      "publishedAt": "2026-11-17T05:20:04Z",
+      "content": "All the better to eat you with: vampire bats (such as this common vampire bat, Desmodus rotundus) have an array of genetic adaptations that allow them to subsist on blood.Credit: Joel Sartore/Photo A… [+2685 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": null,
+      "title": "Genetic variant that reshaped the human brain was inherited from Neanderthals - Nature",
+      "description": "DNA derived from the ancient hominin might make parts of our brains smaller — and protect against schizophrenia.",
+      "url": "https://www.nature.com/articles/d41586-026-03762-0",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03762-0/d41586-026-03762-0_53983242.jpg",
+      "publishedAt": "2026-11-17T05:18:16Z",
+      "content": "The skulls of a human (left) and a Neanderthal (right).Credit: Philippe Psaila/Science Photo Library\r\nA genetic variant that seems to reduce the size of brain areas involved in visual processing come… [+2614 chars]"
+    },
+    {
+      "source": {
         "id": "buzzfeed",
         "name": "Buzzfeed"
       },
-      "author": "Hannah Marder",
-      "title": "Doctors And Nurses Are Sharing The Terrifying Things They Witnessed In Hospitals - BuzzFeed",
-      "description": "Turns out the whole \"bomb in the chest\" thing from \"Grey's Anatomy\" isn't that unheard of.",
-      "url": "https://www.buzzfeed.com/hannahmarder/wild-hospital-stories",
-      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/12/00/thumb/pAsDKRc3b.jpg?crop=1249:654;0,56%26downsize=1250:*",
-      "publishedAt": "2026-11-17T04:35:44Z",
-      "content": "\"I asked the cops about the Mom, and they told me she was taken to the trauma center, but she was pretty hurt.\r\nI then turned to the patient and asked him, 'What made you attack your mother with a sw… [+955 chars]"
+      "author": "Liz Richardson",
+      "title": "Doctors And Nurses Are Exposing “Disturbing” Secrets About The Medical Field That More People Should Know - BuzzFeed",
+      "description": "\"Sometimes when you have surgery, the surgeon everyone so highly esteems for their 'skill' and 'intelligence' is actually relying entirely on a device sales rep to tell them step by step how to do an operation.\"",
+      "url": "https://www.buzzfeed.com/lizmrichardson/doctors-nurses-disturbing-job-secrets",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/09/22/thumb/ML47XAad2.jpg?crop=2500:1309;0,176%26downsize=1250:*",
+      "publishedAt": "2026-11-17T03:31:02Z",
+      "content": "\"It's not that your nurse is lazy and doesn't care that your call light has been on for an hour and you have to go to the bathroom. It's that your nurse, who should have four patients, has seven: One… [+174 chars]"
     },
     {
       "source": {
@@ -261,32 +456,6 @@
       "urlToImage": "https://wlos.com/resources/media2/16x9/3000/1320/0x157/90/b834715d-355e-4d09-b432-c14c8e4b4fbf-AP26237531065807.jpg",
       "publishedAt": "2026-11-17T02:44:19Z",
       "content": "CATAWBA COUNTY, N.C. (WLOS) A possible measles case in a North Carolina child is now under investigation, state health officials announced. \r\nIn a press release Monday, Nov. 16, the North Carolina De… [+2280 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Aria Bendix",
-      "title": "U.S. loses measles-elimination status, erasing decades of progress - NBC News",
-      "description": "Measles is no longer eliminated in the U.S., a United Nations commission determined, reversing one of the country’s greatest public health achievements this century.",
-      "url": "https://www.nbcnews.com/health/health-news/measles-no-longer-eliminated-us-rcna607920",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261116-paho-vsb-2205-a49d08.jpg",
-      "publishedAt": "2026-11-17T00:41:00Z",
-      "content": "Endemic measles poses a serious risk to people who are unvaccinated, said Walter Orenstein, former director of the U.S. Immunization Program at the Centers for Disease Control and Prevention. The ris… [+3766 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Lena H. Sun",
-      "title": "CDC declined to alert risk of measles in pregnancy. A journal released the data. - The Washington Post",
-      "description": "As measles roars back, doctors are seeing pregnant women and newborns developing serious conditions.",
-      "url": "https://www.washingtonpost.com/health/2026/11/16/cdc-declined-alert-risk-measles-pregnancy-journal-released-data/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/USJDSRPSEC5ZVDH6QNIQYTAX54_size-normalized.jpg&w=1440",
-      "publishedAt": "2026-11-17T00:38:17Z",
-      "content": "Months after the CDC denied a request from federal health scientists to issue a national alert warning doctors about the risks of measles during pregnancy, the information was published Monday in an … [+27 chars]"
     },
     {
       "source": {
@@ -317,15 +486,15 @@
     {
       "source": {
         "id": null,
-        "name": "Real Simple"
+        "name": "Bring Me The News"
       },
-      "author": "https://www.facebook.com/realsimple/",
-      "title": "The One Snack to Eat When You Wake Up Hungry in the Middle of the Night, According to Dietitians - Real Simple",
-      "description": "Waking up hungry can make it difficult to fall back asleep. Registered dietitians recommend a satisfying snack to curb hunger without leaving you uncomfortably full.",
-      "url": "https://www.realsimple.com/best-snack-when-you-wake-up-hungry-at-night-12243276",
-      "urlToImage": "https://www.realsimple.com/thmb/zwWVlVRHoMT-yKO2hZDhlJuo5hY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/woman-looking-in-refrigerator-d11abce148d045868298968efe40529e.jpg",
-      "publishedAt": "2026-11-16T22:55:00Z",
-      "content": "Its pitch black, youre wide awake, and your stomach has decided its time for breakfast. Whether you ate dinner hours ago or didnt eat enough during the day, nighttime hunger can make falling back asl… [+4364 chars]"
+      "author": "Bring Me The News",
+      "title": "Second child dies of measles in Wisconsin, as state surpasses 650 cases - Bring Me The News",
+      "description": null,
+      "url": "https://bringmethenews.com/wisconsin-news/second-child-dies-of-measles-in-wisconsin-as-state-surpasses-650-cases",
+      "urlToImage": null,
+      "publishedAt": "2026-11-16T21:59:39Z",
+      "content": null
     },
     {
       "source": {
@@ -368,19 +537,6 @@
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Christopher Rowland",
-      "title": "Hospitals Brace for Medicaid Work Rules and Deep Funding Cuts",
-      "description": "Health systems are racing to guide millions of patients through new eligibility hoops, slated to go into effect Jan. 1.",
-      "url": "https://www.nytimes.com/2026/11/11/business/hospitals-medicaid-cuts.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-medicaid-01-zkhw/10biz-medicaid-01-zkhw-mediumSquareAt3X-v2.jpg",
-      "publishedAt": "2026-11-16T20:44:01Z",
-      "content": "Health systems are racing to guide millions of patients through new eligibility hoops, slated to go into effect Jan. 1."
-    },
-    {
-      "source": {
         "id": null,
         "name": "Swns.live"
       },
@@ -395,41 +551,15 @@
     {
       "source": {
         "id": null,
-        "name": "KREM.com"
-      },
-      "author": "KREM",
-      "title": "Rathdrum mom battling breast cancer, insurance denial has died - KREM",
-      "description": null,
-      "url": "https://www.krem.com/article/news/local/rathdrum-mom-battling-breast-cancer-insurance-denial-died/293-946f7400-b89f-4aca-af93-4e0442e675cf",
-      "urlToImage": null,
-      "publishedAt": "2026-11-16T20:12:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Michelle Starr",
-      "title": "A Gene Inherited From Neanderthals Is Still Shaping Human Brains – And May Affect Schizophrenia Risk - Yahoo",
-      "description": "We carry them with us.",
-      "url": "https://www.sciencealert.com/a-gene-inherited-from-neanderthals-is-still-shaping-human-brains-and-may-affect-schizophrenia-risk",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/69b3b92b672c9e7beb34704fec2f2e2e045e481a46b79045e83f11c7039f4c6e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsciencealert_160%2F61f32a2111bf4b371001c0ca9e316103.png",
-      "publishedAt": "2026-11-16T20:00:00Z",
-      "content": "Tens of thousands of years ago, the last Neanderthal disappeared from our world.\r\nBut the ghost of this ancient human relative lives on its lingering traces haunting the Homo sapiens genetic code.\r\nI… [+7085 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Prevention.com"
       },
       "author": "Kelsey Kunik, RDN",
-      "title": "Dietitians Reveal the Number 1 Nutrient for Healthy Aging—by the Decade - AOL.com",
+      "title": "Dietitians Reveal the Number 1 Nutrient for Healthy Aging—by the Decade - Prevention",
       "description": "Dietitians explain why we develop different nutritional needs as we age, plus share the most important nutrients to focus on each decade in your 40s, 50s, 60s, 70s, 80s, and beyond.",
       "url": "https://www.prevention.com/food-nutrition/healthy-eating/a74442655/top-nutrients-for-healthy-aging/",
-      "urlToImage": "https://hermes.media.static.aol.com/media/2026/11/16/2bfa9923-50e5-3558-b55f-98a2a32b1b25/1190a379-9bb3-4ff4-824e-ff57a7ec014a.jpeg",
-      "publishedAt": "2026-11-16T19:28:06Z",
-      "content": "Age may be just a number, but for women in particular, it's a clue about which nutrients to pay attention to most.\r\nWomens nutrition needs shift throughout life, and staying on top of them now can su… [+7089 chars]"
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/0e4aef13-23da-47b5-8347-1511e9f1de0e.jpeg?crop=1xw:0.75xh;0xw,0.149xh&resize=1200:*",
+      "publishedAt": "2026-11-16T19:32:58Z",
+      "content": "Age may be just a number, but for women in particular, it's a clue about which nutrients to pay attention to most.\r\nWomens nutrition needs shift throughout life, and staying on top of them now can su… [+7225 chars]"
     },
     {
       "source": {
@@ -456,19 +586,6 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/newspress-collage-f5jzz784o-1794851311533.jpg?quality=75&strip=all&1794833345&w=1200",
       "publishedAt": "2026-11-16T18:09:00Z",
       "content": "Its got a royally bad reputation. \r\nAn excruciating condition once dubbed the disease of kings because of its long history of afflicting the wealthy, powerful and excessively indulgent is making a mo… [+4056 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "fox8.com"
-      },
-      "author": "FOX 8 News",
-      "title": "Cleveland, Cuyahoga County ‘vulnerable’ amid Ohio measles outbreaks, says health director - FOX 8 News",
-      "description": null,
-      "url": "https://fox8.com/news/cleveland-health-officials-to-give-update-on-us-measles-outbreaks/",
-      "urlToImage": null,
-      "publishedAt": "2026-11-16T18:00:21Z",
-      "content": null
     },
     {
       "source": {
@@ -538,28 +655,15 @@
     {
       "source": {
         "id": null,
-        "name": "NBC Chicago"
+        "name": "NDTV News"
       },
-      "author": "Francie Swidler",
-      "title": "Chicago-area hospitals add new mask, visitor rules due to ‘high rates of respiratory viruses' - NBC 5 Chicago",
-      "description": "Several Chicago-area Loyola hospitals are implementing strict new visitor policies amid high rates of respiratory viruses in the Chicago area.",
-      "url": "https://www.nbcchicago.com/news/local/loyola-hospitals-in-chicago-adds-new-visitor-restrictions-due-to-high-rates-of-respiratory-viruses/4017357/",
-      "urlToImage": "https://media.nbcchicago.com/2026/11/GettyImages-1372189785.jpg?quality=85&strip=all&resize=1200%2C675",
-      "publishedAt": "2026-11-16T14:56:22Z",
-      "content": "Several Chicago-area Loyola hospitals are implementing strict new visitor policies amid high rates of respiratory viruses in the Chicago area.\r\nThe health system announced the update Sunday.\r\n\"Due to… [+1757 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "Vitamin B12 may hold the key to treating a rare genetic disorder - Science Daily",
-      "description": "Scientists discovered that vitamin B12 largely reversed developmental abnormalities in worms carrying a genetic mutation linked to Verheij syndrome, a rare disorder that causes growth problems and developmental delays. Similar metabolic changes were identifie…",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261115085552.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/vitamin-b12-chemical-formula.webp",
-      "publishedAt": "2026-11-16T14:47:41Z",
-      "content": "A surprising discovery involving vitamin B12 could open new possibilities for understanding and potentially treating rare genetic disorders. Researchers found that the vitamin can correct development… [+3840 chars]"
+      "author": "Astitva Raj",
+      "title": "Man Develops Rare Condition After Brain Surgery, Sees Catlike Features On Human Faces - NDTV",
+      "description": "The report detailing Karl&#039;s unusual experience was published in the journal Cortex.",
+      "url": "https://www.ndtv.com/science/man-sees-catlike-features-on-human-faces-after-brain-surgery-12334714",
+      "urlToImage": "https://c.ndtvimg.com/2026-11/femvn6ok_human-with-cat-like-face_625x300_16_November_26.jpeg",
+      "publishedAt": "2026-11-16T14:33:57Z",
+      "content": "A 28-year-old man named Karl has been experiencing unusual changes in the way he sees faces after undergoing brain surgery. He sometimes sees catlike features, including enlarged pupils, unusual eye … [+2498 chars]"
     },
     {
       "source": {
@@ -577,15 +681,15 @@
     {
       "source": {
         "id": null,
-        "name": "ScienceAlert"
+        "name": "Parade"
       },
-      "author": "David Nield",
-      "title": "Millions of People Could Be Misdiagnosed With Obesity, And Scientists Have Revealed a Fix - ScienceAlert",
-      "description": "Diagnosis definitions matter when it comes to public health – for everything from tailoring individual treatments to tracking conditions across populations – and a new study concludes that millions of people worldwide could be misdiagnosed with obesity.",
-      "url": "https://www.sciencealert.com/millions-of-people-could-be-misdiagnosed-with-obesity-and-scientists-have-revealed-a-fix",
-      "urlToImage": "https://www.sciencealert.com/images/2026/11/FeetWearingSocksStandingOnWeighingScales-1200x675.png",
-      "publishedAt": "2026-11-16T13:04:25Z",
-      "content": "Diagnosis definitions matter when it comes to public health for everything from tailoring individual treatments to tracking conditions across populations and a new study concludes that millions of pe… [+4245 chars]"
+      "author": "Beth Ann Mayer",
+      "title": "Cardiologists Rank 10 Popular Breakfasts From Best to Worst for Your Heart - AOL.com",
+      "description": "Your morning meal matters more than you think.",
+      "url": "https://parade.com/health/cardiologists-rank-breakfasts-heart-health",
+      "urlToImage": "https://hermes.media.static.aol.com/media/2026/11/16/434cc69a-62b3-3c83-8e80-c42a42cfe91a/b034f13c-77fa-4905-b60e-adf2e913e821.jpg",
+      "publishedAt": "2026-11-16T13:21:00Z",
+      "content": "You may have grown up hearing that breakfast is the most important meal of the day. In all honesty, every meal and snack matters (and no single meal or snack, in isolation, will make or break your he… [+8794 chars]"
     },
     {
       "source": {
@@ -706,32 +810,6 @@
     },
     {
       "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Common blood pressure drug helps more stroke survivors reach critical health target - Fox News",
-      "description": "The REDUCE trial found spironolactone lowered blood pressure by nearly eight points in stroke survivors, but key questions about prevention remain.",
-      "url": "https://www.foxnews.com/health/common-blood-pressure-drug-helps-stroke-survivors-reach-critical-health-target",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/04/woman-taking-blood-pressure.jpg",
-      "publishedAt": "2026-11-15T22:20:45Z",
-      "content": "A low-cost medication could help stroke survivors whose blood pressure remains elevated despite treatment, a new study suggests.\r\nThe research, known as the REDUCE trial, looked at whether adding spi… [+3748 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Carly Cassella",
-      "title": "A High-Dose Flu Vaccine Is Linked to Nearly 55% Lower Alzheimer's Risk - ScienceAlert",
-      "description": "Vaccination is emerging as one of the most promising ways to protect yourself against future cognitive decline.",
-      "url": "https://www.sciencealert.com/a-high-dose-flu-vaccine-is-linked-to-nearly-55-lower-alzheimers-risk",
-      "urlToImage": "https://www.sciencealert.com/images/2026/11/GettyImages-2211647487-2560x1440-1.jpg",
-      "publishedAt": "2026-11-15T22:02:23Z",
-      "content": "Vaccination is emerging as one of the most promising ways to protect yourself against future cognitive decline.\r\nInoculations for shingles, the respiratory syncytial virus (RSV), pneumococcal disease… [+4735 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -758,42 +836,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Medscape"
+        "id": "the-washington-post",
+        "name": "The Washington Post"
       },
-      "author": "Nancy A. Melville",
-      "title": "After a GLP-1: Which Exit Strategy Keeps the Weight Off? - Medscape",
-      "description": "After a GLP-1, what works next? Among more than 20,000 patients, surgery was linked to the most weight loss, quitting cold the least, and switching from semaglutide to tirzepatide beat staying put.",
-      "url": "https://www.medscape.com/viewarticle/after-glp-1-which-exit-strategy-keeps-weight-2026a10018gh",
-      "urlToImage": "https://img.medscapestatic.com/vim/live/professional_assets/Conference_News.jpg",
-      "publishedAt": "2026-11-15T18:45:04Z",
-      "content": "NATIONAL HARBOR, Md. — Among more than 20,000 patients who had taken semaglutide or tirzepatide, those who went on to pursue bariatric surgery, though the least likely choice, had the greatest weight… [+6746 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New Zealand Herald"
-      },
-      "author": "Washington Post",
-      "title": "Study links microplastics with the rise in deadly colon cancer cases - NZ Herald",
-      "description": "A research has linked Styrofoam cups and containers to the rise in colon cancer.",
-      "url": "https://www.nzherald.co.nz/world/study-links-microplastics-with-the-rise-in-deadly-cancer-cases/TY4CK6AGX5EYPERMR2YWQBMITU/",
-      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/4H2KWLETSBES3DRBFVHQKDYEA4.jpg?auth=1c3650a90cf886c6729d888be1ec30ae8ab0565d7307d3e1941ff933b40e0eec&width=1200&height=675&quality=70&focal=647%2C346&smart=false",
-      "publishedAt": "2026-11-15T17:55:52Z",
-      "content": "A study published last year found more microplastics were concentrated in the tumours of patients with colorectal cancer compared with healthy nearby tissue.\r\nMy intuition says its a major factor, sa… [+3553 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Audacy.com"
-      },
-      "author": "Rodney Price",
-      "title": "K-State vet hospital: feline rabies case confirmed in Benton - Audacy",
-      "description": "A rabies vaccination clinic will be held from 1 to 3 p.m. on Saturday, Nov. 21 at the Benton Park Pavilion near Main Street and Cedar Street | KNSS Radio",
-      "url": "https://www.audacy.com/knss/news/local/feline-rabies-confirmed-in-benton",
-      "urlToImage": "https://www.audacy.com/media-library/cat-eye-examination-at-veterinary-clinic-veterinarian-checking-feline-eyes-close-up.jpg?id=68689572&width=1200&height=600&coordinates=0%2C165%2C0%2C166",
-      "publishedAt": "2026-11-15T16:36:00Z",
-      "content": "Testing at the K-State Animal Hospital in Manhattan has confirmed a case of rabies in a cat in Benton.\r\nResidents in the area should keep their pets inside and make sure they are up to date with thei… [+770 chars]"
+      "author": "Shannon Osaka",
+      "title": "The link between microplastics and one of the deadliest cancers, and what to do - The Washington Post",
+      "description": "A study points to how particles from Styrofoam cups and take-out containers can make people more vulnerable to colon cancer.",
+      "url": "https://www.washingtonpost.com/climate-environment/2026/11/15/new-evidence-links-microplastics-colon-cancer/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RNNGFDABSYW2KMNQTF3KYS6QOQ_size-normalized.jpg&w=1440",
+      "publishedAt": "2026-11-15T18:00:00Z",
+      "content": "For the past couple of decades, doctors and researchers have monitored rising colon cancer rates among young people with concern. In the United States, colorectal cancer rates increased by 3 percent … [+154 chars]"
     },
     {
       "source": {
@@ -807,19 +859,6 @@
       "urlToImage": "https://images.theconversation.com/files/771973/original/file-20261114-64-hyegbb.jpg?ixlib=rb-4.1.1&rect=0%2C206%2C2121%2C1060&q=45&auto=format&w=1356&h=668&fit=crop",
       "publishedAt": "2026-11-15T14:00:41Z",
       "content": "The American Cancer Society announced on Nov. 12, 2026, that it has released major changes to its prostate cancer screening guidelines to improve detection and treatment of the disease.\r\nThe Conversa… [+7748 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Audrey Bruno",
-      "title": "Eggs vs. oatmeal: Which breakfast is better for you? - The Washington Post",
-      "description": "Eggs and oatmeal both get a thumbs-up from dietitians, but they bring different health benefits to the table. Here’s how to get the most out of either choice.",
-      "url": "https://www.washingtonpost.com/wellness/2026/11/15/eggs-vs-oatmeal-which-breakfast-is-better-you/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E22UJP3MO377A3VJHCSIYB3UU4_size-normalized.jpg&w=1440",
-      "publishedAt": "2026-11-15T12:32:29Z",
-      "content": "With breakfasts long-standing reputation as the most important meal of the day, it can feel like theres a lot of pressure to get it right. Ask nutrition experts what to eat in the morning, and youll … [+93 chars]"
     },
     {
       "source": {
@@ -849,19 +888,6 @@
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "AP News",
-      "title": "The US flu season is off to a very early start. It’s hitting the South and West now - AP News",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd0Mzb19TM0staG9UN2hSTUhhalFvTENMa3N1Z01KbW9BN0xNcFlyd3I4RnlaZE85NnVsTkViM0tTUHBYTTdQWXExaEJkcGdjUm56ZGJEbHRjZUZpSF8zc054U0JPRkJ2LXE4VXhVVWViMkFsdVdmazVTVDlwSkJndDVFdmltY0xubEpqR2ZGWHNYQQ?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-11-14T05:28:00Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -875,6 +901,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "HuffPost"
+      },
+      "author": null,
+      "title": "U.S. Flu Season Is Off To A Very Early Start — Especially In The South And West - HuffPost",
+      "description": "The Centers for Disease Control and Prevention on Friday posted its latest update, reporting that seven states were reporting high flu activity last week, up from two states the week before.",
+      "url": "https://www.huffpost.com/entry/us-flu-season-is-off-to-a-very-early-start_n_6af7937de4b043423791e8be",
+      "urlToImage": "https://img.huffingtonpost.com/asset/6af7937f180000996f94c1cb.jpeg?cache=HzYQerO2fA&ops=1200_630",
+      "publishedAt": "2026-11-13T22:50:46Z",
+      "content": "NEW YORK (AP) The U.S. flu season is off to a very early start, and its quickly intensifying.\r\nThe Centers for Disease Control and Prevention on Friday posted its latest update, reporting that seven … [+3549 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -885,19 +924,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/12/07/multimedia/07DC-RFK-FUTURE-top-mgkj/07DC-RFK-FUTURE-top-mgkj-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-13T14:38:11Z",
       "content": "Most Democrats abhor the health secretary’s stance on vaccines, but some see an opportunity to win voters from his MAHA movement by joining with him on food and environmental issues."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "DogTime"
-      },
-      "author": "Khushali Srivastava",
-      "title": "Golden Retriever Raises Ducklings, Then Learns Her Little Flock Has No Plans to Leave - Yahoo",
-      "description": "A Golden Retriever has won hearts online after a heartwarming video showed her caring for a group of ducklings. The little birds seem to share a special bond...",
-      "url": "https://dogtime.com/news/238663-golden-retriever-raises-ducklings-no-plans-leave",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/072d65a9bc6ed20cbfd88b8393f2e2a19b7922c066ff0f35bed74a2fc2e07055/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdog_time_927%2Fb1e36ec6d3fbc8e461e83b9b9a16daa2.jpg",
-      "publishedAt": "2026-11-13T07:22:00Z",
-      "content": "A Golden Retriever has won hearts online after a heartwarming video showed her caring for a group of ducklings. The little birds seem to share a special bond with her and follow her everywhere. What … [+1861 chars]"
     },
     {
       "source": {
@@ -941,15 +967,15 @@
     {
       "source": {
         "id": null,
-        "name": "BBC News"
+        "name": "Nature.com"
       },
       "author": null,
-      "title": "Trying Tourette's device was the best day of my life - BBC",
-      "description": "Katie is one of many that say a device developed by researchers in Nottingham helped calm her symptoms.",
-      "url": "https://www.bbc.com/news/articles/cmp3g3e5q4zxo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8c24/live/cdba35d0-ddc3-11f1-a50f-85eebf9e50e5.jpg",
-      "publishedAt": "2026-11-12T01:07:47Z",
-      "content": "According to the Tourettes Action charity, there are two versions of the device: Neupulse-C - which is available as a consumer wellness device - and Neupulse-M, which is intended to be marketed as a … [+143 chars]"
+      "title": "Validation of clinical and preclinical obesity across global cohorts - Nature",
+      "description": "A large-scale data analysis assesses the Lancet Commission’s proposed diagnostic framework for obesity, finding that this framework, in which BMI is combined with other criteria, such as waist circumference&nbsp;and organ function, is more useful than classif…",
+      "url": "https://www.nature.com/articles/s41586-026-11237-5",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11237-5/MediaObjects/41586_2026_11237_Fig1_HTML.png",
+      "publishedAt": "2026-11-11T22:14:49Z",
+      "content": "To our knowledge, this is the first large-scale, multinational study to comprehensively evaluate the Lancet Commission diagnostic framework1 against the widely used BMI-based classification. Previous… [+13557 chars]"
     },
     {
       "source": {

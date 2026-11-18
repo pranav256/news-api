@@ -1,7 +1,72 @@
 {
   "status": "ok",
-  "totalResults": 92,
+  "totalResults": 88,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Erin Griffith, Lauren Hirsch and Cory Weinberg",
+      "title": "Anthropic Sets Milestone With Blockbuster I.P.O.",
+      "description": "The A.I. company priced its shares at $83 for its listing. Shares will begin trading on Thursday.",
+      "url": "https://www.nytimes.com/2026/11/18/technology/anthropic-ipo-pricing.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-anthropic-final-pricing-hfo-1-jbmp/18biz-anthropic-final-pricing-hfo-1-jbmp-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-18T22:29:35Z",
+      "content": "The A.I. company priced its shares at $83 for its listing. Shares will begin trading on Thursday."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Cade Metz",
+      "title": "A.I. Has Changed How We Talk. Here Are the Words You Need to Know.",
+      "description": "A Glossary of AI Terms You Should Know",
+      "url": "https://www.nytimes.com/2026/11/18/science/ai-artificial-intelligence-terminology-glossary.html",
+      "urlToImage": null,
+      "publishedAt": "2026-11-18T21:41:35Z",
+      "content": "A Glossary of AI Terms You Should Know"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Tripp Mickle",
+      "title": "What Nvidia’s Interim CEO, Colette Kress, Said to Employees After Jensen Huang’s Resignation",
+      "description": "At an all-hands meeting with employees, Colette Kress sought to put the indiscretions of Nvidia’s co-founder, Jensen Huang, behind them.",
+      "url": "https://www.nytimes.com/2026/11/18/technology/nvidia-jensen-huang-affair-colette-kress.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-nvidia-call-cwjh/18biz-nvidia-call-cwjh-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-18T21:11:29Z",
+      "content": "At an all-hands meeting with employees, Colette Kress sought to put the indiscretions of Nvidia’s co-founder, Jensen Huang, behind them."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Natasha Singer and Dana Goldstein",
+      "title": "NYC, LA and Chicago School Districts Weigh Breaking Up With Google Search Over A.I.",
+      "description": "Google’s refusal to unbundle A.I. features from search for students prompted a backlash. Now schools are looking for alternatives.",
+      "url": "https://www.nytimes.com/2026/11/18/technology/google-gemini-ai-search-schools-nyc-la-chicago.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-GoogleAI-schools-2-02-gmlp/18biz-GoogleAI-schools-2-02-gmlp-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-18T20:49:53Z",
+      "content": "Google’s refusal to unbundle A.I. features from search for students prompted a backlash. Now schools are looking for alternatives."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Sri Muppidi",
+      "title": "OpenAI Executives Say They Have to Strike a Balance Between A.I. Safety and Progress",
+      "description": "The company’s C.E.O., Sam Altman, and president, Greg Brockman, said they cannot “make everybody happy.”",
+      "url": "https://www.nytimes.com/2026/11/18/business/dealbook/openai-sam-altman-greg-brockman.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/18dealbook-summit-altman-brockman-promo/18dealbook-summit-altman-brockman-promo-mediumSquareAt3X.png",
+      "publishedAt": "2026-11-18T18:10:04Z",
+      "content": "The company’s C.E.O., Sam Altman, and president, Greg Brockman, said they cannot “make everybody happy.”"
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -30,68 +95,185 @@
     },
     {
       "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
+        "id": null,
+        "name": "Gamedeveloper.com"
       },
-      "author": "Kevin Collier, Jared Perlo",
-      "title": "An AI toy for 3-year-olds described gang rape. Three major retailers are pulling it. - NBC News",
-      "description": "An AI-powered cat marketed to children as young as 3 described gang rape and execution injuries when reporters questioned it about historical atrocities.",
-      "url": "https://www.nbcnews.com/tech/tech-news/ai-toys-kids-walmart-target-pull-plush-cat-described-sexual-violence-rcna608588",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261113-ai-toys-mn-1220-b8ea9f.jpg",
-      "publishedAt": "2026-11-17T13:00:40Z",
+      "author": null,
+      "title": "Take-Two lays off Firaxis employees on eve of Grand Theft Auto VI launch - Game Developer",
+      "description": "Firaxis, a sibling studio to Take-Two’s Rockstar Games, is known for games like Sid Meier’s Civilization VII and Marvel’s Midnight Suns.",
+      "url": "https://www.gamedeveloper.com/business/take-two-lays-off-firaxis-employees-on-eve-of-grand-theft-auto-vi-launch",
+      "urlToImage": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltd7a51f4543729098/68b9b02ba65a196166536be0/civilization_vii.jpg?disable=upscale&width=1200&height=630&fit=crop",
+      "publishedAt": "2026-11-17T18:56:15Z",
+      "content": "Take-Two Interactive is laying off employees at Firaxis Games, developer of Sid Meier's Civilization, Marvel's Midnight Suns, and the XCOM series. These layoffs at the Hunt Valley, MD-based studio co… [+1380 chars]"
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Matt Binder",
+      "title": "GTA 6 New Zealand time trick for Xbox, PS5: How to play hours early - Mashable",
+      "description": "There's a trick that'll give you a head start on \"Grand Theft Auto VI.\"",
+      "url": "https://mashable.com/entertainment/gta-6-new-zealand-time-trick-xbox-ps5",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/041h5WaujIQNRXQS9gCi1CL/hero-image.fill.size_1200x675.v1794912087.jpg",
+      "publishedAt": "2026-11-17T18:22:30Z",
       "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "BBC News"
+        "name": "Eurogamer.net"
       },
-      "author": null,
-      "title": "GTA 6: How one school is battling the 'GTA flu' with warnings to parents and prizes for pupils - BBC",
-      "description": "Belfast Boys' Model school issued letters to parents, saying that the release of the game on Thursday coincided with GCSE maths exams.",
-      "url": "https://www.bbc.com/news/articles/crp3e10kpz19o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/05c7/live/ef232fd0-df7e-11f1-a701-fddedf244c16.jpg",
-      "publishedAt": "2026-11-17T12:03:10Z",
-      "content": "\"They take an odd day off, and once they've got one day off, they're anxious about going back because they know they're going to be behind, and that leads to more and more problems,\" he said."
+      "author": "Vikki Blake",
+      "title": "GTA Lucia actor finally revealed and yes, it's who we thought it was - Eurogamer.net",
+      "description": "Manni L. Perez has been confirmed as GTA 6’s Lucia Caminos after The Game Awards nominated her for the role, days before the game launches.",
+      "url": "https://www.eurogamer.net/gta-6-lucia-actress-manni-l-perez-confirmed",
+      "urlToImage": "https://assetsio.gnwcdn.com/GTA-6---Lucia.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "publishedAt": "2026-11-17T17:42:20Z",
+      "content": "Manni L. Perez has been confirmed as the actress behind Grand Theft Auto 6's Lucia Caminos, just days before the game launches.\r\nAs spotted by IGN, the confirmation came during The Game Awards' nomin… [+1546 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "GamesIndustry.biz"
+        "name": "9to5google.com"
       },
-      "author": "Sophie McEvoy",
-      "title": "Xbox's Project Helix \"is not a PC that can also play console games\" - GamesIndustry.biz",
-      "description": "Next Xbox console is \"designed to be the ultimate gaming machine\" by removing the \"arbitrary constraints between console and PC games\"",
-      "url": "https://www.gamesindustry.biz/xboxs-project-helix-is-not-a-pc-that-can-also-play-console-games",
-      "urlToImage": "https://assetsio.gnwcdn.com/Helix_header.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2026-11-17T11:44:00Z",
-      "content": "Xbox VP of Next Generation Jason Ronald has clarified that Project Helix is \"designed to be a console that is also capable of playing games, not a PC that can also play console games.\"\r\nIn the Xbox 2… [+1606 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Rhiannon Bevan",
-      "title": "Can Nintendo Do Anything to Stop The Legend of Zelda: Ocarina of Time Remake Running Rampant on PC? - IGN",
-      "description": "The Legend of Zelda: Ocarina of Time remake is running rampant on PC, but can Nintendo actually do anything about it? We asked legal experts to find out.",
-      "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-is-already-running-rampant-on-pc-but-can-nintendo-do-anything-about-it",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/11/17/thelegendofzeldaocarinaoftime-48-1794914142571.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "publishedAt": "2026-11-17T11:24:18Z",
-      "content": "Shortly after the release of The Legend of Zelda: Ocarina of Time remake, players quickly found ways to start playing it on PC.\r\nThis was done through a few different methods. One is through an emula… [+9951 chars]"
+      "author": "Abner Li",
+      "title": "You can now assign Gemini ‘tasks’ for free in six countries - 9to5Google",
+      "description": "Starting today, the Gemini app’s tasks feature, previously known as Spark, is now available for free users after previously requiring AI Pro.",
+      "url": "http://9to5google.com/2026/11/17/gemini-tasks-free/",
+      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/Gemini-task-free-cover.webp?resize=1200,628",
+      "publishedAt": "2026-11-17T17:20:00Z",
+      "content": "Starting today, the Gemini apps “tasks” feature, previously known as Spark, is now available for free users after requiring AI Pro in the past.\r\nGoogle previously referred to this capability as a 24/… [+2122 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "New York Post"
+        "name": "Variety"
       },
-      "author": "Mary K. Jacob",
-      "title": "Exclusive | See why Brooklyn house hunters are dying to live near NYC’s largest cemetery - New York Post",
-      "description": "Buyers priced out of Park Slope are flocking to Greenwood Heights, where the city’s biggest graveyard doubles as the best backyard in the borough.",
-      "url": "https://nypost.com/2026/11/17/real-estate/house-hunters-are-dying-to-live-near-green-wood-cemetry/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/newspress-collage-ebju131du-1794861434468.jpg?quality=75&strip=all&1794843454&w=1200",
-      "publishedAt": "2026-11-17T11:10:00Z",
-      "content": "Local house hunters are simply dying to live in Brooklyn’s Greenwood Heights.\r\nShoppers touring the Bellrose, a 40-unit condo at 259 22nd St., keep circling back to the same unusual request, accordin… [+9060 chars]"
+      "author": "Jennifer Maas",
+      "title": "The Game Awards Nominations 2026: ‘GTA 6’ Lands Game of the Year Nom Ahead of Thursday Release - Variety",
+      "description": "The nominations for the 2026 Game Awards have been revealed.",
+      "url": "https://variety.com/2026/awards/news/game-awards-nominations-2026-list-1236949480/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2026/08/GTA-6-2.png?w=1000&h=563&crop=1",
+      "publishedAt": "2026-11-17T17:10:00Z",
+      "content": "The nominations for 2026’s The Game Awards have been revealed and the yet-to-be-released “Grand Theft Auto IV” has landed eight nominations, including Game of the Year.\r\nGame Awards host and creator … [+9837 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Ryan Whitwam",
+      "title": "Google makes it easier to use Gemini without training AI on your data - Ars Technica",
+      "description": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
+      "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-1152x648.jpg",
+      "publishedAt": "2026-11-17T16:50:10Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Ryan Christoffel",
+      "title": "iOS 27.3 will give iCloud+ subscribers two new perks - 9to5Mac",
+      "description": "iCloud+ keeps adding new perks for subscribers, including two that are coming with iOS 27.3 when it launches next month.",
+      "url": "https://9to5mac.com/2026/11/17/ios-27-3-will-give-icloud-subscribers-two-new-perks/",
+      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/icloud-ios-27-blue.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-11-17T15:34:00Z",
+      "content": "iCloud+ keeps adding new perks for subscribers, including two that are coming with iOS 27.3 when it launches next month.\r\nWhen iOS 27.3 beta 2 debuted earlier this week, we detailed how the update in… [+1878 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Rikka Altland",
+      "title": "Apple Watch Series 12 just hit Black Friday prices early, starting at $329 - CNN",
+      "description": "The new Apple Watch Series 12 is more than just the latest smartwatch. It’s also the best way to monitor your workout routine and overall health at $70 off.",
+      "url": "https://www.cnn.com/cnn-underscored/deals/apple-watch-series-12-early-black-friday-deals-2026-11-17",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/apple-watch-series-10-apps.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-11-17T15:31:00Z",
+      "content": "Apple may have just released its newest smartwatch back in September, but its already on sale. It isnt one of those minuscule deals where you can save a few bucks either! Ahead of Black Friday, you c… [+5401 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Aisha Malik",
+      "title": "Meta launches Direct, a stand-alone messaging app for Instagram - TechCrunch",
+      "description": "Direct is launching in Turkey and Thailand, and can be used with or without an Instagram account.",
+      "url": "https://techcrunch.com/2026/11/17/meta-launches-direct-a-standalone-messaging-app-for-instagram/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-17-at-9.43.05-AM.png?resize=1200,657",
+      "publishedAt": "2026-11-17T15:01:46Z",
+      "content": "Meta is testing Direct, a new stand-alone messaging app that houses Instagrams direct messages. Direct is initially launching in Turkey and Thailand, and can be used with or without an Instagram acco… [+2185 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abcnews.com"
+      },
+      "author": "ABC News - Breaking News, Latest News and Videos",
+      "title": "What parents need to know about GTA 6 and kids - ABC News - Breaking News, Latest News and Videos",
+      "description": null,
+      "url": "https://abcnews.com/GMA/Family/parents-gta-6-kids/story?id\\\\u003d138089889",
+      "urlToImage": null,
+      "publishedAt": "2026-11-17T14:50:47Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Hartley Charlton",
+      "title": "iPhone 20 Pro Screen Protectors Show Rumored Curved Design - MacRumors",
+      "description": "Screen protector samples circulating online offer an early look at how Apple's rumored iPhone 20 Pro redesign could look, with rounded edges that...",
+      "url": "https://www.macrumors.com/2026/11/17/iphone-20-pro-screen-protectors-rumored-design/",
+      "urlToImage": "https://images.macrumors.com/t/WKf8pDBf83RUhl1dIqfPLU5ZcQQ=/1600x/article-new/2026/11/iphone-20-pro-screen-protectors.jpg",
+      "publishedAt": "2026-11-17T14:07:57Z",
+      "content": "Screen protector samples circulating online offer an early look at how Apple's rumored iPhone 20 Pro redesign could look, with rounded edges that could help create the appearance of a nearly borderle… [+2712 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Pure Xbox"
+      },
+      "author": "Fraser Gilbert",
+      "title": "Xbox Announces Black Friday Sale 2026, Reveals Nine Included Games - Pure Xbox",
+      "description": "It officially begins this Thursday",
+      "url": "https://www.purexbox.com/news/2026/11/xbox-announces-black-friday-sale-2026-reveals-nine-included-games",
+      "urlToImage": "https://images.purexbox.com/7d30aaf4027ee/1280x720.jpg",
+      "publishedAt": "2026-11-17T11:30:00Z",
+      "content": "Earlier this month, we mentioned that Xbox's Black Friday Sale for 2026 was set to begin on November 19th according to a leak, and now Microsoft has officially announced that it will indeed start sho… [+1919 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Sergiu Gatlan",
+      "title": "Microsoft testing Remote Lock for lost or stolen Windows devices - BleepingComputer",
+      "description": "Microsoft is testing a new feature that lets enterprise IT administrators remotely lock stolen or lost Windows devices without wiping them.",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/11/17/Windows-Remote_Lock.jpg",
+      "publishedAt": "2026-11-17T11:19:51Z",
+      "content": "Microsoft is testing a new feature that lets enterprise IT administrators remotely lock stolen or lost Windows devices without wiping them.\r\nNamed Remote Lock, this new feature is shipping to devices… [+2912 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Julian Chokkattu",
+      "title": "The Apple Watch Can Record and Rewind Spoken Conversations Now. It’s Pretty Awkward - WIRED",
+      "description": "Live Rewind and Siri Recap can transcribe missed moments and summarize your day—if you don’t mind a little social clumsiness.",
+      "url": "https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap/",
+      "urlToImage": "https://media.wired.com/photos/6af73f064e708cb7030f047d/191:100/w_1280,c_limit/DSC_0242.jpg",
+      "publishedAt": "2026-11-17T11:00:00Z",
+      "content": "My wife and I were driving back from a date night. She was talking about a friend's very expensive utility bill, but I had missed the beginning of what she said (I was driving, after all).\r\nThen I re… [+2687 chars]"
     },
     {
       "source": {
@@ -108,19 +290,6 @@
     },
     {
       "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Wesley Yin-Poole",
-      "title": "Sony Squeezes in Last-Minute PS5 Firmware Security Update Ahead of GTA 6 Release Date, Amid Fresh Hacker Claim - IGN",
-      "description": "Sony has released a new PS5 firmware security update just a day before the release of GTA 6, and hot on the heels of a new claim from a prominent hacker around the console.",
-      "url": "https://www.ign.com/articles/sony-squeezes-in-last-minute-ps5-firmware-security-update-ahead-of-gta-6-release-date-amid-fresh-hacker-claim",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/11/17/vintage-vice-city-pack-exclusive-looks-05-1794910948115.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "publishedAt": "2026-11-17T10:26:29Z",
-      "content": "Sony has released a new PS5 firmware security update just a day before the release of GTA 6, and hot on the heels of a new claim from a prominent hacker around the console.\r\nPS5 system software updat… [+4229 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Jalopnik"
       },
@@ -131,19 +300,6 @@
       "urlToImage": "https://www.jalopnik.com/img/gallery/the-smallest-v10-to-ever-power-a-car-was-the-size-of-most-4-cylinders/l-intro-1794605735.jpg",
       "publishedAt": "2026-11-17T10:25:00Z",
       "content": "V10 engines are the ultimate metaphors for what gearheads love about performance cars relics of a bygone era where noise, power and absolute combustion were the go-to recipes of kings. The Lexus LFA … [+1168 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "Push Square",
-      "title": "80+ PS5, PS4 Games to Buy in PS Store's Updated Black Friday Sale - Push Square",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOW1UUnlaTjVfV2UxdzR0RmQxaElqUi0yalF0Z0lrN0FYdDZRekdMeFNfRll0dWNtaTFSc3pyVExiSVpNWWRrbVhjWnpBaE5FUEJiWWh6ZUVnNjNGZXBqNWFFQ2paSjNaU1A5TDJ5cmFzb1pXOHJmTC05ekRzZzV2bDgzYnJpcGxYelk4V3BUVTIyTHFxVG9rdnZhVmtKTENpWDZ6RA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-11-17T10:20:28Z",
-      "content": null
     },
     {
       "source": {
@@ -161,15 +317,28 @@
     {
       "source": {
         "id": null,
-        "name": "UPI.com"
+        "name": "Insider-gaming.com"
       },
-      "author": "Darryl Coote",
-      "title": "In a first, Google detects AI-automated cyberattack - upi",
-      "description": "Google's Threat Intelligence Group said Monday that it has, for the first time, detected fully artificial intelligence-automated cyberattacks.",
-      "url": "https://www.upi.com",
-      "urlToImage": "https://cdnph.upi.com/sv/ph/og/upi/6381794893989/2026/1/c8677f04687dfbaa631f355dbb4885b3/v1.5/In-a-first-Google-detects-AI-automated-cyberattack.jpg",
-      "publishedAt": "2026-11-17T06:48:34Z",
-      "content": "Nov. 17 (UPI) --Google threat analysts said they have detected, for the first time, an artificial intelligence framework that autonomously identifies and exploits software vulnerabilities without hum… [+1386 chars]"
+      "author": "Grant Taylor-Hill",
+      "title": "New GTA 6 Screenshots Showcase Intense Weather Systems - Insider Gaming",
+      "description": "On social media, six new GTA 6 screenshots have surfaced, focusing specifically on the game's incredible weather systems.",
+      "url": "https://insider-gaming.com/new-gta-6-screenshots-showcase-intense-weather-systems/",
+      "urlToImage": "https://insider-gaming.com/wp-content/uploads/2026/11/HXRigQ_WUAApaJO.jpg",
+      "publishedAt": "2026-11-17T09:44:52Z",
+      "content": "In a series of new GTA 6 screenshots shared by an unlikely source – The Weather Channel – we get a look at six weather systems in the upcoming open-world title. We’re mere hours (technically) away fr… [+1826 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Police"
+      },
+      "author": "Jade Bryan Jardinico",
+      "title": "Android 17’s November update is leaving Pixel cameras completely unusable - Android Police",
+      "description": "Google adds new Pixel features and some surprisingly nasty bugs",
+      "url": "https://www.androidpolice.com/android-17-november-update-leaving-pixel-cameras-completely-unusable/",
+      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/09/google-pixel-11-pro-hand-down.JPG?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-11-17T05:50:34Z",
+      "content": "While many Pixel users are still waiting for the November Pixel Feature Drop, based on Android 17 QPR2, some who have already updated are enjoying the new features. \r\nHowever, alongside those additio… [+3667 chars]"
     },
     {
       "source": {
@@ -183,6 +352,32 @@
       "urlToImage": "https://www.topgear.com/sites/default/files/images/news-article/2026/11/e00b7452276e836873d6acc594cda42e/2026%20Hot%20Wheels%20Legends%20Tour%20winner%2C%20Matt%20McEntegart%27s%201979%20Chevrolet%20El%20Camino%20crop%201.jpg?w=1280&h=720",
       "publishedAt": "2026-11-17T05:19:05Z",
       "content": "ModifiedThe winning formula? Three iconic Chevys, massive gold wheels, and a lick of maroon paint\r\nThis wild 1979 Chevrolet El Camino creation has been crowned the winner of the 2026 Hot Wheels Legen… [+1958 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Dylan McDonald",
+      "title": "iPhone Duo gets one of Face ID’s best features with upcoming iOS 27.3 update - 9to5Mac",
+      "description": "Soon, your alarms, timers, and phone calls will be less disruptive on iPhone Duo. Unlock with Front Camera feature With...",
+      "url": "https://9to5mac.com/2026/11/16/iphone-duo-gets-one-of-face-ids-best-features-with-upcoming-ios-27-3-update/",
+      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/iPhone-Duo-Attention-Aware-Features-FI-Fixed.png?resize=1200,628",
+      "publishedAt": "2026-11-17T03:15:00Z",
+      "content": "Soon, your alarms, timers, and phone calls will be less disruptive on iPhone Duo.\r\nWith today’s iOS 27.3 developer beta 2, iPhone Duo gained a new feature: Unlock with Front Camera. This lets you unl… [+1541 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Police"
+      },
+      "author": "Jade Bryan Jardinico",
+      "title": "The Galaxy S27 Ultra could finally kill Samsung's most iconic feature - Android Police",
+      "description": "A favorite camera may not survive the overhaul",
+      "url": "https://www.androidpolice.com/galaxy-s27-ultra-could-finally-kill-samsung-most-iconic-feature/",
+      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/02/galaxy-s26-ultra-back.JPG?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-11-17T03:06:00Z",
+      "content": "The Samsung Galaxy S27 is expected to break cover in just over two months, and leaks about its new features and biggest changes are continuing to gain traction. \r\nThe latest chatter is all about the … [+2563 chars]"
     },
     {
       "source": {
@@ -200,6 +395,19 @@
     {
       "source": {
         "id": null,
+        "name": "PhoneArena"
+      },
+      "author": "PhoneArena",
+      "title": "It appears Samsung is returning to edge-to-edge displays in preparation for the iPhone 20 Pro - PhoneArena",
+      "description": null,
+      "url": "https://www.phonearena.com/news/samsung-returning-to-edge-displays-in-preparation-for-iphone-20-pro_id184875",
+      "urlToImage": null,
+      "publishedAt": "2026-11-17T01:41:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
         "name": "BBC News"
       },
       "author": null,
@@ -209,19 +417,6 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/eb4c/live/4a003210-e1d0-11f1-b8c8-67fa35f5afdb.jpg",
       "publishedAt": "2026-11-17T01:04:45Z",
       "content": "Despite the option to preload the 212GB game, Jennifer Holmes, chief executive of the London Internet Exchange, said several UK internet providers including BT and Virgin Media had \"increased capacit… [+51 chars]"
-    },
-    {
-      "source": {
-        "id": "the-verge",
-        "name": "The Verge"
-      },
-      "author": "Jay Peters",
-      "title": "Instagram’s CEO thinks it will be “pretty challenging” to make it feel great on the iPhone Duo. - The Verge",
-      "description": "",
-      "url": "https://www.theverge.com/tech/1035142/instagrams-ceo-thinks-it-will-be-pretty-challenging-to-make-it-feel-great-on-the-iphone-duo",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016",
-      "publishedAt": "2026-11-17T01:01:00Z",
-      "content": null
     },
     {
       "source": {
@@ -239,15 +434,15 @@
     {
       "source": {
         "id": null,
-        "name": "Xbox.com"
+        "name": "9to5google.com"
       },
-      "author": "Joe Skrebels, XBOX Wire Editor-in-Chief",
-      "title": "XBOX Black Friday Sale Starts November 19 with Our Biggest Sale of the Year on Games, Accessories and More! - XBOX Wire",
-      "description": "The best time to grab a gift for gamers is launching on November 19 at 9 PM PST. During our Black Friday sale, save up to 80% on select XBOX and PC games, Starting November 19, the XBOX Black Friday sale includes up to 80% off select XBOX and PC games, discou…",
-      "url": "https://news.xbox.com/en-us/2026/11/16/xbox-black-friday-sale-2026/",
-      "urlToImage": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/BF-CM-2027_Comp_Wire-Collection-B-RGB_1920x1080_02-34da270902fc95df2602.jpg",
-      "publishedAt": "2026-11-17T00:01:29Z",
-      "content": "The best time to grab a gift for gamers is launching on November 19 at 9 PM PST. During our Black Friday sale, save up to 80% on select XBOX and PC games, and check out discounts on select XBOX acces… [+2310 chars]"
+      "author": "Abner Li",
+      "title": "What’s new in Android’s November 2026 Google System Updates [U: Pixel virtual gamepad] - 9to5Google",
+      "description": "The monthly “Google System Release Notes” primarily detail what’s new in Play services, Play Store, and Play system update across...",
+      "url": "http://9to5google.com/2026/11/16/november-2026-google-system-updates/",
+      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2025/01/google-play-services-1.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-11-17T00:43:00Z",
+      "content": "The monthly “Google System Release Notes” primarily detail what’s new in Play services, Play Store, and Play system update across Android phones/tablets, Wear OS, Google/Android TV, Auto, and PC. Som… [+4851 chars]"
     },
     {
       "source": {
@@ -264,16 +459,29 @@
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": null,
+        "name": "CyberScoop"
       },
-      "author": "Jay Peters",
-      "title": "Hacker behind 2022 GTA VI leaks pleads guilty - The Verge",
-      "description": "Arion Kurtaj, a member of the Lapsus$ cybercrime group who leaked 90 videos of Grand Theft Auto VI in 2022 and hacked other big companies, pleaded guilty on Monday.",
-      "url": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ULTIMATE_EDITION_01_de9b57.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2026-11-16T23:35:58Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nArion Kurtaj leaked 90 videos of GTA VI years before its release.\r\nArion Kurtaj leaked 90 videos of GTA VI years before its release.\r\nby\r\nJay PetersClose\r\nPosts … [+1882 chars]"
+      "author": "Greg Otto",
+      "title": "Google says Russian-speaking hackers ran the first fully automated AI cyberattack - CyberScoop",
+      "description": "Google’s Threat Intelligence Group says Russian-speaking hackers used an AI system dubbed exploit_agent to run the first fully automated cyberattack.",
+      "url": "http://cyberscoop.com/google-fully-automated-ai-cyberattack/",
+      "urlToImage": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/11/GettyImages-2267424550.jpg",
+      "publishedAt": "2026-11-16T22:51:54Z",
+      "content": "Skip to main content\r\nGet our latest cybersecurity news first on Google.\r\nClick here!\r\nClose\r\nGoogle's Threat Intelligence Group says the tools trade stealth for speed, leaving noisy forensic traces … [+3153 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Joe Rossignol",
+      "title": "Apple Plans to Release These 18 New Products Next Year - MacRumors",
+      "description": "Following a jam-packed couple of months in which it unveiled the iPhone Duo, HomeView, MacBook Pro with PROLED XDR display, and so much more, Apple...",
+      "url": "https://www.macrumors.com/2026/11/16/apple-18-new-products-next-year/",
+      "urlToImage": "https://images.macrumors.com/t/bk2N_fO8Kkb58OMudH1Nzd1LgGI=/2048x/article-new/2026/01/Apple-Event-Logo.jpeg",
+      "publishedAt": "2026-11-16T22:40:46Z",
+      "content": "Following a jam-packed couple of months in which it unveiled the iPhone Duo, HomeView, MacBook Pro with PROLED XDR display, and so much more, Apple has likely cleared through its slate of remaining m… [+3207 chars]"
     },
     {
       "source": {
@@ -290,29 +498,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "9to5Mac"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": "Ryan Christoffel",
+      "author": "9to5Mac",
       "title": "New iPhone Duo orders now deliver a month earlier than before - 9to5Mac",
-      "description": "Interested in getting an iPhone Duo before Christmas? You might be in luck, as Apple’s online store now estimates December delivery.",
-      "url": "https://9to5mac.com/2026/11/16/new-iphone-duo-orders-now-deliver-a-month-earlier-than-before/",
-      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo.jpg?quality=82&strip=all&resize=1200,628",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX2dkS0pIUmpVT2p2ZEJrc2NubjlTSUpaLXd4YnVkeFRVU014N0ZiTjZxTkFfNS15WWtlV2lvS2RwVDc2SERvdmZsYV8xSW9zX0xtalFmM0RFY1R6QWlPV280MGhxdk5KSWRIeTBGUjRualhoNU1MRko5RHlnY2p5OFlBbE5XNXJWZHYwdmpPM3VFc1ZHaHJpYQ?oc=5",
+      "urlToImage": null,
       "publishedAt": "2026-11-16T21:28:00Z",
-      "content": "Interested in getting an iPhone Duo before Christmas? You might be in luck, as Apples online store delivery estimates just got pulled forward by a full month, with December delivery now expected.\r\nAp… [+1263 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Insider-gaming.com"
-      },
-      "author": "Grant Taylor-Hill",
-      "title": "New GTA 6 Screenshots Showcase Intense Weather Systems - Insider Gaming",
-      "description": "On social media, six new GTA 6 screenshots have surfaced, focusing specifically on the game's incredible weather systems.",
-      "url": "https://insider-gaming.com/new-gta-6-screenshots-showcase-intense-weather-systems/",
-      "urlToImage": "https://insider-gaming.com/wp-content/uploads/2026/11/HXRigQ_WUAApaJO.jpg",
-      "publishedAt": "2026-11-16T21:27:02Z",
-      "content": "In a series of new GTA 6 screenshots shared by an unlikely source – The Weather Channel – we get a look at six weather systems in the upcoming open-world title. We’re mere hours (technically) away fr… [+1826 chars]"
+      "content": null
     },
     {
       "source": {
@@ -329,19 +524,6 @@
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Apple reveals new Mac security controls as AI agents raise privacy risks - TechCrunch",
-      "description": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and other apps.",
-      "url": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/11/CMC_8152.jpg?resize=1200,800",
-      "publishedAt": "2026-11-16T21:01:02Z",
-      "content": "As promised last month, Apple on Monday announced changes to Mac security controls designed to protect users’ data from the growing popularity of AI agents and their apps’ demand for “full disk acces… [+3464 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Pure Xbox"
       },
@@ -352,19 +534,6 @@
       "urlToImage": "https://images.purexbox.com/211d20035b67b/1280x720.jpg",
       "publishedAt": "2026-11-16T20:35:07Z",
       "content": "December is often a very quiet month for new game releases, and that's particularly going to be the case in 2026 due to GTA 6's arrival and the desire from publishers to get as far away from it as po… [+2980 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Marcus Mendes",
-      "title": "iPhone Duo now has twice as many optimized apps as it did 10 days ago - 9to5Mac",
-      "description": "Apple marketing SVP Greg Joswiak said today that the number of iPhone Duo-ready apps on the App Store is twice what it was when Apple last reported the figure.",
-      "url": "https://9to5mac.com/2026/11/16/iphone-duo-now-has-twice-as-many-optimized-apps-as-it-did-10-days-ago/",
-      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2027/10/iphone-duo-15.jpg?quality=82&strip=all&resize=1200,628",
-      "publishedAt": "2026-11-16T20:18:00Z",
-      "content": "Apple marketing SVP Greg Joswiak said today that the number of iPhone Duo-ready apps on the App Store is twice what it was when Apple last reported the figure. Here are the details.\r\nWhile it was obv… [+1912 chars]"
     },
     {
       "source": {
@@ -394,32 +563,6 @@
     },
     {
       "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Chris Welch",
-      "title": "Apple to Let Users Face-Unlock iPhone Duo, Addressing Key Drawback - Bloomberg.com",
-      "description": "Apple Inc. added the ability for iPhone Duo owners to unlock the device using facial recognition, addressing a key drawback of the company’s first foldable smartphone.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-16/apple-to-let-users-face-unlock-iphone-duo-addressing-key-drawback",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_2QO5J0d3Ww/v1/1200x800.jpg",
-      "publishedAt": "2026-11-16T18:34:06Z",
-      "content": "Apple Inc. added the ability for iPhone Duo owners to unlock the device using facial recognition, addressing a key drawback of the companys first foldable smartphone.\r\nSome early buyers have complain… [+266 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Pure Xbox"
-      },
-      "author": "Fraser Gilbert",
-      "title": "Poll: What Do You Think The Metacritic Score Will Be For GTA 6? - Pure Xbox",
-      "description": "Come and give us your verdict",
-      "url": "https://www.purexbox.com/features/poll-what-do-you-think-the-metacritic-score-will-be-for-gta-6",
-      "urlToImage": "https://images.purexbox.com/451752ba8a859/1280x720.jpg",
-      "publishedAt": "2026-11-16T18:30:00Z",
-      "content": "Considering we're just a few days away from the release of GTA 6 on November 19th, we're bound to start getting reviews at some point between now and launch, and it'll be fascinating to see what the … [+1845 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Gematsu"
       },
@@ -430,6 +573,32 @@
       "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/11/Crazy-Taxi-World-Tour_2026_11-16-26_012.jpg",
       "publishedAt": "2026-11-16T18:12:16Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Hartley Charlton",
+      "title": "Some OLED MacBook Pro Owners Report Eye Strain and Dizziness - MacRumors",
+      "description": "Some owners of Apple's new MacBook Pro with PROLED XDR display say they experience eye strain, headaches, and dizziness when using the laptop,...",
+      "url": "https://www.macrumors.com/2026/11/16/oled-macbook-pro-owners-report-eye-strain/",
+      "urlToImage": "https://images.macrumors.com/t/Q8Bqa2CSM9dqTI10WwDHr99p2m8=/1600x/article-new/2026/10/MacBook-Pro-PROLED-XDR-Display.jpg",
+      "publishedAt": "2026-11-16T17:51:27Z",
+      "content": "Some owners of Apple's new MacBook Pro with PROLED XDR display say they experience eye strain, headaches, and dizziness when using the laptop, with affected users pointing to the screen's brightness-… [+3037 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Eric Song",
+      "title": "The Apple AirPods Pro 3 Wireless Noise Canceling Earbuds Drops to Its Lowest Price Ever for Black Friday - IGN",
+      "description": "Still the best AirPods.",
+      "url": "https://www.ign.com/articles/apple-airpods-pro-3-deal-november-2026",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/11/16/appleairpodspro32-1794849603151.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2026-11-16T17:45:00Z",
+      "content": "Black Friday sales are starting up in earnest including several Apple deals that have already gone live today. If you're hunting for a pair of AirPods this holiday season, your way is already over. A… [+1542 chars]"
     },
     {
       "source": {
@@ -449,19 +618,6 @@
         "id": "ign",
         "name": "IGN"
       },
-      "author": "Chris Reed",
-      "title": "Apple Early Black Friday Deals Are Live at Amazon — Save on AirPods, iPads, and Apple Watches - IGN",
-      "description": "Black Friday is coming soon, but you can already save a bundle on Apple products like AirPods Pro 3, iPad Mini, Apple Watch, and more.",
-      "url": "https://www.ign.com/articles/apple-black-friday-deals-2026",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/11/16/untitled-design-1794842466331.png?width=1280&format=jpg&auto=webp&quality=80",
-      "publishedAt": "2026-11-16T17:15:54Z",
-      "content": "Ive been covering Apple for over 15 years, so I know from experience that theres no better time to buy an Apple product than Black Friday. Thats when we see the deepest discounts of the year on items… [+2876 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
       "author": "Robert Anderson",
       "title": "Pokémon TCG: Delta Reign Booster Bundles Are In Stock at Amazon — Way Below Market Price - IGN",
       "description": "Pokémon TCG: Delta reign booster bundles are back in stock at Amazon and now way below the current market price when compared to TCGplayer. But don't hang around, as we expect these to sell out fast.",
@@ -472,29 +628,42 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "9to5Mac"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Ryan Christoffel",
-      "title": "Apple has 15+ new products coming in 2027, per report - 9to5Mac",
-      "description": "Apple just wrapped up a very busy product launch season, but a new report offers a sneak peek at the 15+ new products coming in 2027.",
-      "url": "https://9to5mac.com/2026/11/16/apple-has-15-new-products-coming-in-2027-per-report/",
-      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/john-ternus-macbook-pro-proled-xdr.jpg?quality=82&strip=all&resize=1200,628",
-      "publishedAt": "2026-11-16T16:16:00Z",
-      "content": "Apple just wrapped up a very busy product launch season, but a new report offers a sneak peek at the 15+ new products coming in 2027.\r\nYesterday in his Power On newsletter, Mark Gurman offered an upd… [+1356 chars]"
+      "author": "Cameron Faulkner",
+      "title": "Sony’s PlayStation 5 accessories are cheaper ahead of Black Friday - The Verge",
+      "description": "Black Friday and Cyber Monday PlayStation 5 deals have arrived early. Sony has discounted plenty of accessories, including PS5 controllers, headsets, and more.",
+      "url": "https://www.theverge.com/gadgets/1034178/sony-playstation-5-ps5-accessories-monitor-dualsense-headset-deal-sale",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24374429/236487_Sony_DualSense_Edge_AKrales_0032.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2026-11-16T16:48:01Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nPlenty of deals to glam up your PS5, whether you want a new console cover, a headset, or a unique DualSense color.\r\nPlenty of deals to glam up your PS5, whether … [+2636 chars]"
     },
     {
       "source": {
-        "id": "bleacher-report",
-        "name": "Bleacher Report"
+        "id": null,
+        "name": "Push Square"
       },
-      "author": "Doric Sam",
-      "title": "Bam Adebayo Talks GTA 6-Inspired NBA 2K27 Cover, Rating, Giannis, Heat and More in B/R Interview - Bleacher Report",
-      "description": "Miami Heat star center Bam Adebayo has made no secret of how much he was influenced by the late Kobe Bryant, and he's following in his idol's footsteps once again.",
-      "url": "https://bleacherreport.com/articles/25534116-bam-adebayo-talks-gta-6-inspired-nba-2k27-cover-rating-giannis-heat-and-more-br-interview",
-      "urlToImage": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/2026-11/nba-2k27-season-3-key-art.png?w=1120&h=630",
-      "publishedAt": "2026-11-16T16:14:24Z",
-      "content": "Miami Heat star center Bam Adebayo has made no secret of how much he was influenced by the late Kobe Bryant, and he's following in his idol's footsteps once again.\r\nAfter surpassing Bryant's iconic 8… [+5452 chars]"
+      "author": "Liam Croft",
+      "title": "GTA 6 Subscription Will Include NBA 2K27 for Free on PS5 - Push Square",
+      "description": "One month of GTA+ bundled into GTA 6 pre-orders",
+      "url": "https://www.pushsquare.com/news/2026/11/gta-6-subscription-will-include-nba-2k27-for-free-on-ps5",
+      "urlToImage": "https://images.pushsquare.com/162409c4fb4d1/1280x720.jpg",
+      "publishedAt": "2026-11-16T16:30:00Z",
+      "content": "If you've pre-ordered GTA 6, did you take note of what bonuses you got with that? A one-month membership to GTA+, a subscription service from Rockstar, is bundled with all GTA 6 pre-orders, and that … [+1084 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Pure Xbox"
+      },
+      "author": "Fraser Gilbert",
+      "title": "Xbox CEO Pens New Message, Urges Platform Not To Get 'Trapped' By Its Proud History - Pure Xbox",
+      "description": "From the Xbox 25th anniversary magazine",
+      "url": "https://www.purexbox.com/news/2026/11/xbox-ceo-pens-new-message-urges-platform-not-to-get-trapped-by-its-proud-history",
+      "urlToImage": "https://images.purexbox.com/0f9525a27a1bb/1280x720.jpg",
+      "publishedAt": "2026-11-16T16:15:00Z",
+      "content": "Yesterday, we talked about the Project Helix part of the Xbox 25th anniversary magazine that's been made available to read in full on the official Xbox Wire website, and there's plenty more interesti… [+3099 chars]"
     },
     {
       "source": {
@@ -512,6 +681,19 @@
     {
       "source": {
         "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Kyle Barr",
+      "title": "7 Things We Just Learned About the Next-Gen Xbox - Gizmodo",
+      "description": "Also, there are still three big things Xbox needs to tell us about “Project Helix.”",
+      "url": "https://gizmodo.com/7-xbox-project-helix-features-2000840447",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/07/xbox25-1200x675.jpg",
+      "publishedAt": "2026-11-16T16:00:44Z",
+      "content": "Like most folk during their quarter-life crisis, Xbox is on a nostalgia trip for its 25th birthday. The Xbox brand cant spend a second resting on its laurels, especially since it hasnt had much reaso… [+5794 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Bethesda.net"
       },
       "author": null,
@@ -524,81 +706,16 @@
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Audible turns to AI to help users discover audiobooks - TechCrunch",
-      "description": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
-      "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/11/Audible_Audio_Discovery_Still.jpeg?resize=1200,824",
-      "publishedAt": "2026-11-16T15:52:19Z",
-      "content": "Amazon-owned audiobook service Audible is turning to AI to help listeners find their next book. The company on Monday launched a new “audio discovery” feature that provides a brief overview of a book… [+2786 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Renee Lynn Frojo",
-      "title": "My fiancé and I live in separate houses in the same neighborhood. We don't have any plans to move in together. - AOL.com",
-      "description": "We're in a committed relationship, but choose to live in separate homes in the same neighborhood. I think it helps keep the romance alive.",
-      "url": "https://www.businessinsider.com/live-separately-from-fiance-no-plans-to-move-in-together-2026-11",
-      "urlToImage": "https://hermes.media.static.aol.com/media/2026/11/16/dc80611f-2ee3-30b0-bdc8-ea606a7784f4/ab2d7bb2-768e-431c-8b8a-22ec35fff5ce.jpg",
-      "publishedAt": "2026-11-16T15:16:09Z",
-      "content": "<ul><li>My fiancé and I have been together for 6 years, but have no plans to move in together.\r\n</li><li>We live in the same neighborhood, but because we have kids, it's easier to keep things separat… [+5468 chars]"
-    },
-    {
-      "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Tom Phillips",
-      "title": "UK Politician Downplays Fears Around GTA 6 Content for Kids, Says She's More Concerned About the Amount of Time They'll Likely Play It - IGN",
-      "description": "Prominent U.K. politician Kemi Badenoch has downplayed parents' fears over the violent content found in GTA 6, and said she's more concerned by how long many kids will likely spend in their bedrooms playing it.",
-      "url": "https://www.ign.com/articles/uk-politician-downplays-fears-around-gta-6-content-for-kids-says-shes-more-concerned-about-the-amount-of-time-theyll-likely-play-it",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/11/16/gettyimages-2305345380-1794840593773.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "publishedAt": "2026-11-16T14:59:12Z",
-      "content": "Prominent U.K. politician Kemi Badenoch has downplayed parents' fears over the violent content found in GTA 6, and said that she's more concerned by how long many kids will likely spend in their bedr… [+2519 chars]"
-    },
-    {
-      "source": {
         "id": null,
-        "name": "9to5Mac"
+        "name": "9to5google.com"
       },
-      "author": "Ryan Christoffel",
-      "title": "Next year’s iPhone Pro redesign gets new update via leaker - 9to5Mac",
-      "description": "Next year is the iPhone's 20th anniversary, and Apple has a big redesign coming to its Pro models. Here's what to expect per the latest leak.",
-      "url": "https://9to5mac.com/2026/11/16/next-years-iphone-pro-redesign-gets-new-update-via-leaker/",
-      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-19-pro-20-anniversary-max.jpg?quality=82&strip=all&resize=1200,628",
-      "publishedAt": "2026-11-16T14:54:00Z",
-      "content": "Next year is the iPhone’s 20th anniversary, and Apple reportedly has a big redesign coming to its Pro models. Here’s what to expect per the latest leak.\r\nRumors about next year’s iPhone Pro models ar… [+1521 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Tim Hardwick",
-      "title": "Apple's New HomeView Smart Home Hub Has Issues, Say Owners - MacRumors",
-      "description": "Just days after the HomeView's launch, some owners are reporting problems with Siri, timers, and music playback on Apple's new smart home...",
-      "url": "https://www.macrumors.com/2026/11/16/apple-homeview-smart-home-hub-has-some-issues/",
-      "urlToImage": "https://images.macrumors.com/t/E5zV0bTB-qU1FFwifjp6YrffJ0k=/2071x/article-new/2026/10/homeview_home_screen_feature-2.jpg",
-      "publishedAt": "2026-11-16T14:32:58Z",
-      "content": "Just days after the HomeView's launch, some owners are reporting problems with Siri, timers, and music playback on Apple's new smart home hub, based on multiple MacRumors forumthreads.\r\nIn the longes… [+1645 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Megan Cartwright",
-      "title": "GTA 6 Players Warned to Check Their Consoles Before Launch Day - Newsweek",
-      "description": "Grand Theft Auto 6 is arriving more than a decade after the last installment, making launch day a major event for players.",
-      "url": "https://www.newsweek.com/entertainment/gta-6-console-storage-download-size-launch-12719581",
-      "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2026/11/GTA-6-Players-Warned-to-Check-Their-Consoles-Before-Launch-Day.png?w=1200&crop=1",
-      "publishedAt": "2026-11-16T14:31:00Z",
-      "content": "Grand Theft Auto VI (GTA 6) players have been advised to prepare their consoles ahead of its November 19 launch, with the game requiring up to 212GB for pre-loading, according to Rockstar Games. \r\nTh… [+4580 chars]"
+      "author": "Ben Schoon",
+      "title": "Google’s Intelligent Eyewear glasses from Gentle Monster are already sold out - 9to5Google",
+      "description": "One of the first partner brands selling Android XR glasses, “Intelligent Eyewear” as Google calls it, has already completely sold...",
+      "url": "http://9to5google.com/2026/11/16/google-intelligent-eyewear-gentle-monster-android-xr-sold-out/",
+      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/android-xr-intelligent-eyewear-gentle-monster-15.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-11-16T15:10:00Z",
+      "content": "One of the first partner brands selling Android XR glasses, “Intelligent Eyewear” as Google calls it, has already completely sold out, with Gentle Monster no longer accepting pre-orders just days aft… [+988 chars]"
     },
     {
       "source": {
@@ -629,6 +746,19 @@
     {
       "source": {
         "id": null,
+        "name": "Cult of Mac"
+      },
+      "author": "Anurag Chawake",
+      "title": "New Apple study will test how people use AI for health - Yahoo Tech",
+      "description": "The Apple Health AI Usage Study invites up to 200,000 U.S. iPhone users to test an AI health app.",
+      "url": "https://www.cultofmac.com/news/apple-health-ai-usage-study-openevidence-iphone",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/8d2cd4ab370264c163a2d56a6fb290e7fed045b5016d55bf071a1d392dac4f3c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcult_of_mac_917%2F476fba0e24e5498719d9ed27304af13c.jpg",
+      "publishedAt": "2026-11-16T14:00:28Z",
+      "content": "Apple just launched the Apple Health AI Usage Study, a research project that tests how people use AI for health questions.\r\nThe U.S.-only study takes a look at trust, clarity and everyday health deci… [+3026 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Gizmodo.com"
       },
       "author": "Gizmodo Staff",
@@ -638,19 +768,6 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2026/11/Best-Tech-Gifts-2026-Featured-1200x675.jpg",
       "publishedAt": "2026-11-16T13:30:12Z",
       "content": "The holiday season will be in full swing before you know itwhich means now’s the time to hunker down and find something for everyone on your gift list.\r\nWe may be a bit biased, but we do really belie… [+15155 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Pure Xbox"
-      },
-      "author": "Fraser Gilbert",
-      "title": "Something Weird Is Going On With GoldenEye 007 And Xbox Game Pass - Pure Xbox",
-      "description": "It didn't leave as planned yesterday",
-      "url": "https://www.purexbox.com/news/2026/11/something-weird-is-going-on-with-goldeneye-007-and-xbox-game-pass",
-      "urlToImage": "https://images.purexbox.com/d24a7183cf129/1280x720.jpg",
-      "publishedAt": "2026-11-16T13:30:00Z",
-      "content": "Earlier this month, you may recall that Xbox announced 14 games that would be leaving Game Pass in early November, with arguably the highlight of the bunch being the classic Rare FPS, GoldenEye 007.\r… [+1343 chars]"
     },
     {
       "source": {
@@ -668,6 +785,19 @@
     {
       "source": {
         "id": null,
+        "name": "BleepingComputer"
+      },
+      "author": "Sergiu Gatlan",
+      "title": "Microsoft: Windows Server 2016 reaches end of support in 60 days - BleepingComputer",
+      "description": "Microsoft has reminded customers again that Windows Server 2016 will stop receiving security updates after it reaches the end of support in two months.",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/",
+      "urlToImage": "https://www.bleepstatic.com/content/hl-images/2026/10/15/Windows_Server.jpg",
+      "publishedAt": "2026-11-16T12:53:18Z",
+      "content": "Microsoft has reminded customers again that Windows Server 2016 will stop receiving security updates after it reaches the end of support in two months.\r\nThis follows another warning issued in October… [+2681 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Sheepesports.com"
       },
       "author": "https://www.sheepesports.com/en/all/authors/rabia-sayal",
@@ -677,32 +807,6 @@
       "urlToImage": "https://www.sheepesports.com/en/articles/lol-season-1-2027-dev-update-reveals-the-return-of-kleptomancy-ranked-rush/en/opengraph-image-bcw1d0?873793a0f5a2fcc5",
       "publishedAt": "2026-11-16T12:09:16Z",
       "content": "After crowning Bilibili Gaming as Worlds 2026 champions, Riot Games have now shared a new developer update for League of Legends Season 1 2027, revealing multiple additions and changes planned for Ja… [+3559 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nintendo Life"
-      },
-      "author": "Matthew Reynolds",
-      "title": "Pokémon Pokopia Apples to Applin Event Guide, From Syrupy Apples To A Kitchen Table - Nintendo Life",
-      "description": "Cor! Five new Grass- and Dragon-types for a limited-time only",
-      "url": "https://www.nintendolife.com/guides/pokemon-pokopia-apples-to-applin-event-guide",
-      "urlToImage": "https://images.nintendolife.com/f7167246514a9/1280x720.jpg",
-      "publishedAt": "2026-11-16T11:57:04Z",
-      "content": "The Apples to Applinevent runs from 16th November to 1st December, 2026, adding five Gen 8 Pokémon to Pokémon Pokopia.\r\nIf you've played previous limited-time events, you'll know what to expect. A ne… [+4500 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Tim Hardwick",
-      "title": "Apple Seeks 200,000 People for AI Health Study - MacRumors",
-      "description": "Apple on Sunday announced the launch of an Apple Health AI Usage Study that gives participants access to a dedicated iPhone app that answers everyday...",
-      "url": "https://www.macrumors.com/2026/11/16/apple-seeks-200000-people-for-ai-health-study/",
-      "urlToImage": "https://images.macrumors.com/t/_n-smPjYDvJQGhrc1Skv5YImyOs=/3840x/article-new/2026/11/apple-health-study-ai-app%402x.jpg",
-      "publishedAt": "2026-11-16T11:13:12Z",
-      "content": "Apple on Sunday announced the launch of an Apple Health AI Usage Study that gives participants access to a dedicated iPhone app that answers everyday health questions using medical research and, opti… [+3119 chars]"
     },
     {
       "source": {
@@ -719,16 +823,16 @@
     },
     {
       "source": {
-        "id": "ign",
-        "name": "IGN"
+        "id": null,
+        "name": "Pokemon GO Hub"
       },
-      "author": "Kirk McKeand",
-      "title": "'It Was Somewhere Between Location Scouting and Espionage' — Gangland Tales From the Frontline of Rockstar’s Real-Life Grand Theft Auto Research - IGN",
-      "description": "A former Rockstar developer tells stories about the real-life research that went into making the Grand Theft Auto games so authentic.",
-      "url": "https://www.ign.com/articles/rockstars-real-life-grand-theft-auto-research",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/11/16/vice-city-21-1794822946581.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "publishedAt": "2026-11-16T10:00:51Z",
-      "content": "Gregory Johnson was sitting in the back of a police car, but he wasnt under arrest. In fact, the cops were just as nervous as him. Johnson, an experienced researcher for Rockstar, was scouting the un… [+9929 chars]"
+      "author": "TheoVodkat",
+      "title": "Pokémon GO Dynamax Trails: What to Farm First – Priority Guide - Pokémon GO Hub",
+      "description": "The Dynamax Trails event is bringing plenty of opportunities to catch and strengthen your Dynamax Pokémon collection. With so many options available knowing where to focus your time and Max Particles can make all the difference. Not every Pokémon is equally v…",
+      "url": "https://pokemongohub.net/post/meta/pokemon-go-dynamax-trails-what-to-farm-first-priority-guide/",
+      "urlToImage": "https://pokemongohub.net/wp-content/uploads/2026/11/chansey.jpg",
+      "publishedAt": "2026-11-16T08:19:04Z",
+      "content": "The Dynamax Trails event is bringing plenty of opportunities to catch and strengthen your Dynamax Pokémon collection. With so many options available knowing where to focus your time and Max Particles… [+6001 chars]"
     },
     {
       "source": {
@@ -758,19 +862,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "WindowsLatest"
-      },
-      "author": "Abhijith M B",
-      "title": "Your Windows 11 work laptop can now be locked remotely, and no password, PIN or admin account can get you back in, only IT can - Windows Latest",
-      "description": "Microsoft is testing Remote Lock for Windows 11, letting IT block sign-in on a lost or stolen work laptop via Intune without wiping files.",
-      "url": "https://www.windowslatest.com/2026/11/16/your-windows-11-work-laptop-can-now-be-locked-remotely-and-no-password-pin-or-admin-account-can-get-you-back-in-only-it-can/",
-      "urlToImage": "https://www.windowslatest.com/wp-content/uploads/2026/11/Windows-11-Remote-Lock-with-the-Device-Locked-screen-on-a-work-laptop-locked-by-IT-through-Microsoft-Intune.jpg",
-      "publishedAt": "2026-11-16T00:04:18Z",
-      "content": "Its very unfortunate if you lose your work laptop, but its even more troubling to the IT folks who are left with two bad choices: hope nobody guesses the password, or wipe the Windows 11 PC, even if … [+5107 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -797,45 +888,6 @@
     },
     {
       "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Michael Cripe",
-      "title": "GTA 6's Jason and Lucia Will Start as Small-Time Criminals Who Have to Work Up to High-Value Jobs - IGN",
-      "description": "GTA 6 will let Jason and Lucia pull off high-value jobs, but Rockstar Games asks players to work up from being small-time criminals first.",
-      "url": "https://www.ign.com/articles/gta-6s-jason-and-lucia-will-start-as-small-time-criminals-who-have-to-work-up-to-high-value-jobs",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/10/28/jason-and-lucia-01-1793212840753.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "publishedAt": "2026-11-15T19:41:28Z",
-      "content": "GTA 6 will let Jason and Lucia pull off high-value jobs, but Rockstar Games asks players to work up from being small-time criminals first.\r\nThe latest peek at this week's new Grand Theft Auto game ar… [+3005 chars]"
-    },
-    {
-      "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Rebecca Corgan",
-      "title": "8 Must-Play Open-World RPGs for People With Real-Life Schedules - Polygon.com",
-      "description": "Busy schedule with no time to game?  These eight open-world RPGs fit into short sessions, one quest or shrine at a time.",
-      "url": "https://www.polygon.com/open-world-rpgs-real-life-schedules/",
-      "urlToImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22138241/Immortals_Fenyx_Rising_beginners_guide.png?w=1600&h=900&fit=crop",
-      "publishedAt": "2026-11-15T18:00:18Z",
-      "content": "Raise your hand if this has ever happened to you: A friend texts you a screenshot of a map with 400 icons on it and the message youre going to love this game. Youre excited the map is detailed, the g… [+8914 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Chance Miller",
-      "title": "MacBook Neo 2: Here’s everything we know so far - 9to5Mac",
-      "description": "Apple's next MacBook Neo is reportedly coming in 2027 with the better performance, new colors, and more. Here's everything we know.",
-      "url": "https://9to5mac.com/2026/11/15/macbook-neo-2-features-release-date/",
-      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo-hello-citrus.jpg?quality=82&strip=all&resize=1200,628",
-      "publishedAt": "2026-11-15T13:01:00Z",
-      "content": "Apple released the all-new MacBook Neo earlier this year, and its been a resounding success by all indications. Heres everything we know so far about whats next for Apples most affordable laptop \r\nTh… [+2334 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -846,45 +898,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/13/multimedia/BIZ-JENSEN-CRASH-1-01-ljmc/BIZ-JENSEN-CRASH-1-01-ljmc-mediumSquareAt3X-v3.jpg",
       "publishedAt": "2026-11-15T12:40:04Z",
       "content": "Nvidia’s leader said his relationship with a female customer was just about business. But what he was concealing eventually led to his resignation from the company he created."
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "Nicole Nguyen",
-      "title": "Your Apple Watch Can Listen In on Conversations. Is That Useful or Creepy? - WSJ",
-      "description": "What it’s like wearing the new Apple Watch Series 12 or Amazon Bee bracelet and getting recaps of your day’s chitchat",
-      "url": "https://www.wsj.com/tech/personal-tech/apple-watch-amazon-bee-listening-wearables-9c26f1f5",
-      "urlToImage": "https://images.wsj.net/im-79309172/social",
-      "publishedAt": "2026-11-15T11:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Neowin"
-      },
-      "author": "Neowin",
-      "title": "Microsoft's Windows 11 hidden performance boost trick can ironically slow your system down - Neowin",
-      "description": null,
-      "url": "https://www.neowin.net/news/microsofts-windows-11-hidden-performance-boost-trick-can-ironically-slow-your-system-down/",
-      "urlToImage": null,
-      "publishedAt": "2026-11-15T10:32:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "GSMArena.com"
-      },
-      "author": "Peter",
-      "title": "Weekly poll results: GrapheneOS support was a great move for the Motorola Signature 27 - GSMArena.com news - GSMArena.com",
-      "description": "The price, however, is way too high. The Motorola Signature 27 is not a launch-day purchase for most people, but the inevitable discounts may turn this...",
-      "url": "https://www.gsmarena.com/weekly_poll_results_grapheneos_support_was_a_great_move_for_the_motorola_signature_27-news-75474.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/26/11/weekly-poll-results-motorola-signature-27/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2026-11-15T02:37:02Z",
-      "content": "The Motorola Signature 27 is not a launch-day purchase for most people, but the inevitable discounts may turn this flagship into a sleeper hit. And some of the interest towards the phone is coming fr… [+1719 chars]"
     },
     {
       "source": {
@@ -1125,19 +1138,6 @@
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Ryan Mac, Tripp Mickle and Georgia Gee",
-      "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
-      "description": "Mr. Huang, Nvidia’s chief executive, is already facing scrutiny over an affair with a Chinese businesswoman who U.S. intelligence determined was a Chinese spy.",
-      "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/11/multimedia/00Biz-Huang-Relationship-wlgb/00Biz-Huang-Relationship-wlgb-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-12T01:57:34Z",
-      "content": "Mr. Huang, Nvidia’s chief executive, is already facing scrutiny over an affair with a Chinese businesswoman who U.S. intelligence determined was a Chinese spy."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "Ishani Desai",
       "title": "United Airlines Blocks A.I. Agents From Booking Flights",
       "description": "The carrier said that to protect customers’ information and comply with regulations, it was barring the digital assistants from logging into accounts and managing reservations.",
@@ -1145,58 +1145,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/11/multimedia/11xp-ai-united-mpzg/11xp-ai-united-mpzg-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-11T23:15:31Z",
       "content": "The carrier said that to protect customers’ information and comply with regulations, it was barring the digital assistants from logging into accounts and managing reservations."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Noam Scheiber",
-      "title": "Court Rules That Sexual Harassment Case Against SpaceX Can Proceed",
-      "description": "The company had argued that the case, involving eight former workers, must be resolved before an arbitrator.",
-      "url": "https://www.nytimes.com/2026/11/11/business/sexual-harassment-spacex-elon-musk.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/11/multimedia/11biz-spacex-lawsuit-lmbq/11biz-spacex-lawsuit-lmbq-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-11T20:51:49Z",
-      "content": "The company had argued that the case, involving eight former workers, must be resolved before an arbitrator."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Emmy Martin",
-      "title": "Silicon Valley Tech Allies Support Jensen Huang",
-      "description": "Elon Musk and other Silicon Valley figures cast the Nvidia chief’s relationship with a woman believed to be a Chinese spy as a personal lapse, not a security failure.",
-      "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-nvidia-support.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-jensen-support-cmpv/10biz-jensen-support-cmpv-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-11T17:29:52Z",
-      "content": "Elon Musk and other Silicon Valley figures cast the Nvidia chief’s relationship with a woman believed to be a Chinese spy as a personal lapse, not a security failure."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Ana Swanson and Tripp Mickle",
-      "title": "Trump Officials Clashed Over Megaspeed, Firm at Heart of Nvidia Affair",
-      "description": "Treasury Secretary Scott Bessent confronted Commerce Secretary Howard Lutnick last week about why the administration had not put restrictions on advanced chip sales to Megaspeed.",
-      "url": "https://www.nytimes.com/2026/11/11/business/economy/nvidia-affair-spy-bessent-lutnick.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/11/us/11DC-megsapeed-promo/11DC-megsapeed-promo-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-11T17:11:59Z",
-      "content": "Treasury Secretary Scott Bessent confronted Commerce Secretary Howard Lutnick last week about why the administration had not put restrictions on advanced chip sales to Megaspeed."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Erin Griffith and Don Clark",
-      "title": "Nvidia Scandal Puts Lori Huang, Jensen Huang’s Wife, In the Spotlight",
-      "description": "Lori Huang, who has been married to the Nvidia chief executive for more than 40 years, stands out among tech titan spouses for how private she has been.",
-      "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-affair-lori-huang.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/jensen-wife-jwtz/jensen-wife-jwtz-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-11T14:46:43Z",
-      "content": "Lori Huang, who has been married to the Nvidia chief executive for more than 40 years, stands out among tech titan spouses for how private she has been."
     }
   ]
 }

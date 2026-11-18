@@ -6,9 +6,22 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-18T14:37:39.666370+00:00",
+  "fetched_at": "2026-11-18T22:43:07.180025+00:00",
   "articles_count": 37,
   "articles": [
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Torrential rain causes widespread flooding in South Florida",
+      "description": "Entire neighbourhoods remain under water as disruptions impact schools, roads, hospitals and airports.",
+      "url": "https://www.bbc.co.uk/news/videos/crgj3205jv98o?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8e9/live/3c97d280-e38e-11f1-bc86-33d7d6275eba.jpg",
+      "publishedAt": "2026-11-18T20:29:18Z",
+      "content": "Entire neighbourhoods remain under water as disruptions impact schools, roads, hospitals and airports."
+    },
     {
       "source": {
         "id": "bbc-news",
@@ -216,19 +229,6 @@
       "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1014/live/a44029a0-e1b3-11f1-9a3f-99aca912798e.jpg",
       "publishedAt": "2026-11-17T08:01:38Z",
       "content": "Snow could bring some transport disruption to the hills of northern England and southern Scotland, as Chris Fawkes explains."
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Yellow weather warnings issued for snow as temperatures plummet",
-      "description": "A spell of colder, wintry weather will grip some northern parts of the UK, bringing a threat of ice and hill snow at times.",
-      "url": "https://www.bbc.co.uk/weather/articles/c6y97j2xq531o?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e42/live/9f7d3670-e1cb-11f1-b8c8-67fa35f5afdb.jpg",
-      "publishedAt": "2026-11-16T10:02:04Z",
-      "content": "A spell of colder, wintry weather will grip some northern parts of the UK, bringing a threat of ice and hill snow at times."
     },
     {
       "source": {

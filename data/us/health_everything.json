@@ -6,22 +6,9 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-18T14:37:39.666370+00:00",
+  "fetched_at": "2026-11-18T22:43:07.180025+00:00",
   "articles_count": 28,
   "articles": [
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Christopher Rowland",
-      "title": "Hospitals Rush to Patch Java Vulnerabilities",
-      "description": "Artificial intelligence is accelerating the threats facing health systems that have been under attack from hackers for years.",
-      "url": "https://www.nytimes.com/2026/11/18/business/hospitals-java-artificial-intelligence.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-java-response-jphl/18biz-java-response-jphl-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-18T13:42:44Z",
-      "content": "Artificial intelligence is accelerating the threats facing health systems that have been under attack from hackers for years."
-    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -32,8 +19,47 @@
       "description": "Biotechs are racing to create A.I. models of human cells, hoping to speed drug development and slow aging. Can computers match the complexity of life?",
       "url": "https://www.nytimes.com/2026/11/18/science/ai-virtual-human-cells.html",
       "urlToImage": null,
-      "publishedAt": "2026-11-18T10:02:15Z",
+      "publishedAt": "2026-11-18T20:06:50Z",
       "content": "Biotechs are racing to create A.I. models of human cells, hoping to speed drug development and slow aging. Can computers match the complexity of life?"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Emily Anthes",
+      "title": "N.I.H. Will Move Final Group of Retired Research Chimps to Sanctuary",
+      "description": "The National Institutes of Health, which stopped supporting invasive research on chimpanzees in 2015, previously said the animals were too old and frail to move.",
+      "url": "https://www.nytimes.com/2026/11/18/science/nih-chimpanzees-sanctuary.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/18SCI-NIH-CHIMPS-wmlq/18SCI-NIH-CHIMPS-wmlq-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-18T19:09:37Z",
+      "content": "The National Institutes of Health, which stopped supporting invasive research on chimpanzees in 2015, previously said the animals were too old and frail to move."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Gina Kolata",
+      "title": "An Unspoken Rule Spreads Through Biotech: Share Nothing",
+      "description": "Concerns that well-funded Chinese companies will swoop in to grab new ideas for their own drug development are shaping an industry unaccustomed to such secrecy.",
+      "url": "https://www.nytimes.com/2026/11/17/science/fearing-chinese-rivals-us-biotech-adopts-a-new-norm-share-nothing.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/03/multimedia/00SCI-US-CHINA-IP-01-qhfc/00SCI-US-CHINA-IP-01-qhfc-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-18T18:06:58Z",
+      "content": "Concerns that well-funded Chinese companies will swoop in to grab new ideas for their own drug development are shaping an industry unaccustomed to such secrecy."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Christopher Rowland",
+      "title": "Hospitals Rush to Patch Java Vulnerabilities",
+      "description": "Artificial intelligence is accelerating the threats facing health systems that have been under attack from hackers for years.",
+      "url": "https://www.nytimes.com/2026/11/18/business/hospitals-java-artificial-intelligence.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-java-response-sub-fhpw/18biz-java-response-sub-fhpw-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-18T17:48:19Z",
+      "content": "Artificial intelligence is accelerating the threats facing health systems that have been under attack from hackers for years."
     },
     {
       "source": {
@@ -45,7 +71,7 @@
       "description": "Aging issues — like changes in mobility, cognition and medical needs — seem to affect not whether many older people travel, but how. Here are some tips on how to vacation together.",
       "url": "https://www.nytimes.com/2026/11/18/travel/seniors-older-adults-travel-hotels-flights.html",
       "urlToImage": "https://static01.nyt.com/images/2026/11/18/travel/18trav101-seniors-illo/18trav101-seniors-illo-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-18T10:00:06Z",
+      "publishedAt": "2026-11-18T14:46:05Z",
       "content": "Aging issues — like changes in mobility, cognition and medical needs — seem to affect not whether many older people travel, but how. Here are some tips on how to vacation together."
     },
     {
@@ -131,19 +157,6 @@
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Gina Kolata",
-      "title": "Fearing Chinese Rivals, U.S. Biotech Adopts a New Norm: Share Nothing",
-      "description": "Concerns that well-funded Chinese companies will swoop in to grab new ideas for their own drug development are shaping an industry unaccustomed to such secrecy.",
-      "url": "https://www.nytimes.com/2026/11/17/science/fearing-chinese-rivals-us-biotech-adopts-a-new-norm-share-nothing.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/03/multimedia/00SCI-US-CHINA-IP-01-qhfc/00SCI-US-CHINA-IP-01-qhfc-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-17T11:57:52Z",
-      "content": "Concerns that well-funded Chinese companies will swoop in to grab new ideas for their own drug development are shaping an industry unaccustomed to such secrecy."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "Pam Belluck",
       "title": "An Intriguing Approach to Slow Alzheimer’s Shows Mixed Results",
       "description": "The device, a headset delivering light and sound, is based on the theory that audiovisual stimulation can evoke brainwave responses that might help preserve neurological function.",
@@ -164,19 +177,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/13/well/WELL-PREGNANCY-MEASLES3/WELL-PREGNANCY-MEASLES3-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-16T21:35:33Z",
       "content": "A new analysis underscores the severe consequences of a measles infection during pregnancy, including hospitalization and pregnancy loss."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Christopher Rowland",
-      "title": "Hospitals Brace for Medicaid Work Rules and Deep Funding Cuts",
-      "description": "Health systems are racing to guide millions of patients through new eligibility hoops, slated to go into effect Jan. 1.",
-      "url": "https://www.nytimes.com/2026/11/11/business/hospitals-medicaid-cuts.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-medicaid-01-zkhw/10biz-medicaid-01-zkhw-mediumSquareAt3X-v2.jpg",
-      "publishedAt": "2026-11-16T20:44:01Z",
-      "content": "Health systems are racing to guide millions of patients through new eligibility hoops, slated to go into effect Jan. 1."
     },
     {
       "source": {
