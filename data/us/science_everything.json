@@ -6,9 +6,48 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-18T04:46:37.891523+00:00",
-  "articles_count": 34,
+  "fetched_at": "2026-11-18T14:37:39.666370+00:00",
+  "articles_count": 35,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Nadia Drake",
+      "title": "After 49 Years, Voyager 1 Is a Mind-Blowing One Light-Day From Earth",
+      "description": "Launched in 1977, the hardy spacecraft is still sending messages back home from a staggering distance in interstellar space.",
+      "url": "https://www.nytimes.com/2026/11/18/science/nasa-voyager-1-earth-light-day.html",
+      "urlToImage": null,
+      "publishedAt": "2026-11-18T14:31:06Z",
+      "content": "Launched in 1977, the hardy spacecraft is still sending messages back home from a staggering distance in interstellar space."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "The New York Times",
+      "title": "How Much Do You Know About NASA’s Voyager Mission?",
+      "description": "Voyagers 1 and 2 have gone farther and lasted longer than any other spacecraft that humans have sent out into the cosmos. Test your knowledge about their epic and ongoing journey.",
+      "url": "https://www.nytimes.com/quiz/2026/11/18/science/voyager-lightday.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/18/science/18SCI-VOYAGER-QUIZ/18SCI-VOYAGER-QUIZ-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-18T14:31:06Z",
+      "content": "Voyagers 1 and 2 have gone farther and lasted longer than any other spacecraft that humans have sent out into the cosmos. Test your knowledge about their epic and ongoing journey."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Carl Zimmer",
+      "title": "How Virtual Cells Could Transform Medicine",
+      "description": "Biotechs are racing to create A.I. models of human cells, hoping to speed drug development and slow aging. Can computers match the complexity of life?",
+      "url": "https://www.nytimes.com/2026/11/18/science/ai-virtual-human-cells.html",
+      "urlToImage": null,
+      "publishedAt": "2026-11-18T10:02:15Z",
+      "content": "Biotechs are racing to create A.I. models of human cells, hoping to speed drug development and slow aging. Can computers match the complexity of life?"
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -58,7 +97,7 @@
       "description": "The United States has lost its measles-elimination status, signaling the return of a virus that can cause lasting health consequences.",
       "url": "https://www.nytimes.com/2026/11/17/science/measles-virus-immune-system.html",
       "urlToImage": null,
-      "publishedAt": "2026-11-17T19:22:44Z",
+      "publishedAt": "2026-11-17T19:22:45Z",
       "content": "The United States has lost its measles-elimination status, signaling the return of a virus that can cause lasting health consequences."
     },
     {
@@ -417,19 +456,6 @@
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "K. R. Callaway",
-      "title": "25 Years After the Anthrax Attacks, America Remains Vulnerable",
-      "description": "Letters filled with anthrax spores exposed flaws in the United States’ biosecurity systems. Experts say many of those issues still exist.",
-      "url": "https://www.nytimes.com/2026/11/11/science/25-years-since-anthrax-attacks-vulnerability.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/17/multimedia/11SCI-BIOSECURITY-25-YEARS-01-fbhl/11SCI-BIOSECURITY-25-YEARS-01-fbhl-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-11T21:00:38Z",
-      "content": "Letters filled with anthrax spores exposed flaws in the United States’ biosecurity systems. Experts say many of those issues still exist."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "Clay Risen",
       "title": "The Russian Scientist Behind the Deadly Novichok Nerve Agents Has Died",
       "description": "Vladimir Uglev, a lead developer of a Cold War-era chemical weapon used on the dissident Alexei Navalny, later turned against the government. He was 80.",
@@ -437,19 +463,6 @@
       "urlToImage": null,
       "publishedAt": "2026-11-11T19:51:52Z",
       "content": "Vladimir Uglev, a lead developer of a Cold War-era chemical weapon used on the dissident Alexei Navalny, later turned against the government. He was 80."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Chico Harlan and Lisa Friedman",
-      "title": "‘Fight Harder,’ U.N. Chief António Guterres Implores, Rousing Climate Ambassadors at COP31",
-      "description": "The United Nations secretary general, António Guterres, spoke at COP31, a meeting aimed at reducing emissions, amid a sharp drop in attendance by world leaders.",
-      "url": "https://www.nytimes.com/2026/11/11/climate/cop31-antonio-guterres-un.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/11/multimedia/11CLI-COP-LEADERS-jvcq/11CLI-COP-LEADERS-jvcq-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-11T17:27:55Z",
-      "content": "The United Nations secretary general, António Guterres, spoke at COP31, a meeting aimed at reducing emissions, amid a sharp drop in attendance by world leaders."
     }
   ],
   "query": "science research discovery space"

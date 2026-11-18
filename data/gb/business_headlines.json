@@ -5,8 +5,8 @@
   "providers": [
     "rss"
   ],
-  "fetched_at": "2026-11-18T04:46:37.891523+00:00",
-  "articles_count": 54,
+  "fetched_at": "2026-11-18T14:37:39.666370+00:00",
+  "articles_count": 43,
   "articles": [
     {
       "source": {
@@ -14,12 +14,103 @@
         "name": "BBC News"
       },
       "author": null,
-      "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
-      "description": "The Amazon CEO said he was originally \"biased against\" Pattinson \"because he's already so famous\".",
+      "title": "The seven Anthropic founders who are about to become multi-billionaires",
+      "description": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f70c/live/7ee6d930-e346-11f1-99aa-0f40b013ad11.jpg",
+      "publishedAt": "2026-11-18T13:55:14Z",
+      "content": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich."
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
+      "description": "Energy bills are expected to jump by 26% a year for a typical household as UK inflation hits its highest rate for a year.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a59/live/128bd8c0-e35b-11f1-99b6-a35a62fa4264.jpg",
+      "publishedAt": "2026-11-18T13:17:06Z",
+      "content": "Energy bills are expected to jump by 26% a year for a typical household as UK inflation hits its highest rate for a year."
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Heating bills, chocolate and cat food: What the inflation figures mean for you",
+      "description": "Prices are rising at their fastest pace for a year in the UK, and higher energy costs are on the way.",
+      "url": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f6a/live/8100d500-e345-11f1-99aa-0f40b013ad11.jpg",
+      "publishedAt": "2026-11-18T13:10:01Z",
+      "content": "Prices are rising at their fastest pace for a year in the UK, and higher energy costs are on the way."
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "MP urges council to speed up heating oil payments",
+      "description": "About 23,000 households use heating oil in Northumberland and face increasing bills this winter.",
+      "url": "https://www.bbc.co.uk/news/articles/cm792dqz4qvyo?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d421/live/2dc9e9f0-4399-11f0-ab6c-0dce3e1729a7.jpg",
+      "publishedAt": "2026-11-18T08:48:26Z",
+      "content": "About 23,000 households use heating oil in Northumberland and face increasing bills this winter."
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Security flaw found in Java, world's third-largest programming language",
+      "description": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
+      "url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2fd/live/c9c932d0-e324-11f1-99a1-253766e7ad8b.jpg",
+      "publishedAt": "2026-11-18T08:47:06Z",
+      "content": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs."
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "States to debate social security contributions cut",
+      "description": "The amendment is being brought forward by deputies Gavin St Pier and Tom Rylatt.",
+      "url": "https://www.bbc.co.uk/news/articles/cqgm39mwjgjpo?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef8c/live/70ab9930-5a9f-11f1-9626-f75d5d5577d2.jpg",
+      "publishedAt": "2026-11-18T06:17:58Z",
+      "content": "The amendment is being brought forward by deputies Gavin St Pier and Tom Rylatt."
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "How important are Nvidia and Jensen Huang to the US economy?",
+      "description": "The former Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+      "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8241/live/e3e3a9c0-e2a7-11f1-8226-87dfa5049e9a.jpg",
+      "publishedAt": "2026-11-18T06:04:21Z",
+      "content": "The former Nvidia chief executive has been at the centre of the artificial intelligence boom."
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new Bond",
+      "description": "The Amazon chairman says he was originally \"biased against\" Pattinson \"because he's already so famous\".",
       "url": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0369/live/387a8f10-e2ff-11f1-a094-5fdc692f3e33.jpg",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/650b/live/aea40010-e348-11f1-99b6-a35a62fa4264.jpg",
       "publishedAt": "2026-11-18T04:00:54Z",
-      "content": "The Amazon CEO said he was originally \"biased against\" Pattinson \"because he's already so famous\"."
+      "content": "The Amazon chairman says he was originally \"biased against\" Pattinson \"because he's already so famous\"."
     },
     {
       "source": {
@@ -30,7 +121,7 @@
       "title": "Waymo pulls driverless taxis from all US freeways",
       "description": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
       "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e7c/live/e9a84520-e2f5-11f1-910a-c953499d69d5.jpg",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80ea/live/d55939e0-e31c-11f1-99a1-253766e7ad8b.jpg",
       "publishedAt": "2026-11-18T03:07:22Z",
       "content": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents."
     },
@@ -40,7 +131,7 @@
         "name": "BBC News"
       },
       "author": null,
-      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+      "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
       "description": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
       "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
       "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg",
@@ -105,38 +196,12 @@
         "name": "BBC News"
       },
       "author": null,
-      "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
-      "description": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
-      "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40ef/live/51fc1a30-e2aa-11f1-99a1-253766e7ad8b.jpg",
-      "publishedAt": "2026-11-17T18:24:21Z",
-      "content": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return."
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
       "title": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
       "description": "The proposal to cut employers' National Insurance costs is \"essential\" to tackling the Neet problem, one business group says.",
       "url": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
       "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1236/live/f4363760-e29e-11f1-a094-5fdc692f3e33.png",
       "publishedAt": "2026-11-17T15:56:04Z",
       "content": "The proposal to cut employers' National Insurance costs is \"essential\" to tackling the Neet problem, one business group says."
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "US bank services returning to normal after major outage",
-      "description": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
-      "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d633/live/6fb04df0-e212-11f1-b9ca-b9964628501b.jpg",
-      "publishedAt": "2026-11-17T15:04:24Z",
-      "content": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\"."
     },
     {
       "source": {
@@ -157,38 +222,12 @@
         "name": "BBC News"
       },
       "author": null,
-      "title": "Government must act now or lose Royal Mail, former minister warns",
-      "description": "The former business secretary says \"undercutting\" by rivals will make Royal Mail \"unviable\".",
-      "url": "https://www.bbc.co.uk/news/articles/cjvg26p3z2gdo?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9890/live/489f1940-e1c1-11f1-a094-5fdc692f3e33.jpg",
-      "publishedAt": "2026-11-17T12:43:07Z",
-      "content": "The former business secretary says \"undercutting\" by rivals will make Royal Mail \"unviable\"."
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
       "title": "Where are the most jobs for 18-24 year-olds?",
       "description": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
       "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca90/live/0c02f160-e1ac-11f1-8ee3-23d0d09d2796.jpg",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f7b/live/5b9d4c80-e345-11f1-99a1-253766e7ad8b.png",
       "publishedAt": "2026-11-17T12:35:53Z",
       "content": "How many jobs are there where you live and in which sectors are you most likely to find an opening?"
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "US government confirms investigation into tech firm Megaspeed",
-      "description": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
-      "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a77e/live/31ebc580-e267-11f1-900c-895604014268.jpg",
-      "publishedAt": "2026-11-17T11:17:32Z",
-      "content": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules."
     },
     {
       "source": {
@@ -209,38 +248,12 @@
         "name": "BBC News"
       },
       "author": null,
-      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
-      "description": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
-      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
-      "publishedAt": "2026-11-17T02:37:53Z",
-      "content": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back."
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
       "title": "We couldn't afford a house alone, so we bought one with strangers",
       "description": "People who can't afford to get on the housing ladder are buying homes with someone they don't know.",
       "url": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
       "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da1d/live/2cfb5880-e265-11f1-900c-895604014268.jpg",
       "publishedAt": "2026-11-17T00:00:02Z",
       "content": "People who can't afford to get on the housing ladder are buying homes with someone they don't know."
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "OpenAI sued by California over Hugging Face attack",
-      "description": "Attorney General Rob Bonta alleges that the artificial intelligence misled and endangered the public.",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce1a/live/7c81aa70-e211-11f1-a541-6d0c391a4254.jpg",
-      "publishedAt": "2026-11-16T23:12:24Z",
-      "content": "Attorney General Rob Bonta alleges that the artificial intelligence misled and endangered the public."
     },
     {
       "source": {
@@ -274,136 +287,6 @@
         "name": "BBC News"
       },
       "author": null,
-      "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
-      "description": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e49/live/adff9c60-e11c-11f1-a7a2-7bb21fac8f0b.jpg",
-      "publishedAt": "2026-11-16T15:40:16Z",
-      "content": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal."
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
-      "description": "Some parents are so desperate for their children to find a job that they've offered to pay their wages, one hairdresser has told the BBC.",
-      "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/283e/live/4753f640-e1ae-11f1-b0a4-450a350911f4.jpg",
-      "publishedAt": "2026-11-16T13:19:33Z",
-      "content": "Some parents are so desperate for their children to find a job that they've offered to pay their wages, one hairdresser has told the BBC."
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Avoid this Black Friday scam - how to check it's a real deal",
-      "description": "Sales and the looming tax deadline mean more scams - here's how to make sure you don't get caught out.",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f34/live/a04a1d00-e1c3-11f1-99b6-a35a62fa4264.jpg",
-      "publishedAt": "2026-11-16T09:58:52Z",
-      "content": "Sales and the looming tax deadline mean more scams - here's how to make sure you don't get caught out."
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Gas starts flowing from Jackdaw after government green light",
-      "description": "Ministers last month announced the Jackdaw gas field, which lies 150 miles east of Aberdeen, had been approved after years of uncertainty.",
-      "url": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/015f/live/3d2a7950-e190-11f1-b441-2b33b063138f.jpg",
-      "publishedAt": "2026-11-16T06:24:08Z",
-      "content": "Ministers last month announced the Jackdaw gas field, which lies 150 miles east of Aberdeen, had been approved after years of uncertainty."
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Thrift shop asks shoppers to nominate a charity",
-      "description": "The owners want customers and donors to decide what charities benefit each month.",
-      "url": "https://www.bbc.co.uk/news/articles/c804wp1y2ky1o?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74f7/live/ec9abff0-df6d-11f1-9892-87464bbcc2b8.jpg",
-      "publishedAt": "2026-11-16T06:03:39Z",
-      "content": "The owners want customers and donors to decide what charities benefit each month."
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "'Break-in and rising costs could kill my business'",
-      "description": "Gordon Kidd says if things do not improve financially, he fears his firm in Shifnal will go under.",
-      "url": "https://www.bbc.co.uk/news/articles/c9n731r5mej5o?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2d6/live/6ade0870-debc-11f1-b441-2b33b063138f.jpg",
-      "publishedAt": "2026-11-16T05:57:19Z",
-      "content": "Gordon Kidd says if things do not improve financially, he fears his firm in Shifnal will go under."
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Intel sued by investors after PC sales slump hits share price",
-      "description": "A proposed class action claims the firm hid the impact of slowing PC sales from shareholders.",
-      "url": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9b3/live/33bc54f0-e1a5-11f1-8433-4325183b3814.jpg",
-      "publishedAt": "2026-11-16T03:04:01Z",
-      "content": "A proposed class action claims the firm hid the impact of slowing PC sales from shareholders."
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "description": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa43/live/e2a9a870-e10d-11f1-93e1-3b657b665bcf.jpg",
-      "publishedAt": "2026-11-16T01:47:57Z",
-      "content": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions."
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Minister backs legal right to job support for young people",
-      "description": "The work and pensions secretary said the level of support currently on offer was too vague.",
-      "url": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ee9/live/2745bfb0-e103-11f1-b441-2b33b063138f.jpg",
-      "publishedAt": "2026-11-15T13:06:15Z",
-      "content": "The work and pensions secretary said the level of support currently on offer was too vague."
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Beauty advent calendars can cost hundreds but are they value for money?",
-      "description": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.",
-      "url": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b5f/live/f688f9b0-df6c-11f1-8112-6b9154c79b48.jpg",
-      "publishedAt": "2026-11-15T00:01:07Z",
-      "content": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers."
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
       "title": "Consumer Fight Back",
       "description": "Black Friday promises huge savings, but are the deals really as good as they seem?",
       "url": "https://www.bbc.co.uk/sounds/play/m003498k?at_medium=RSS&at_campaign=rss",
@@ -417,38 +300,12 @@
         "name": "BBC News"
       },
       "author": null,
-      "title": "Football kit giveaway aims to boost participation",
-      "description": "Millie Bright helps hand out free kit to young girls to help them keep playing in spite of costs.",
-      "url": "https://www.bbc.co.uk/news/articles/ck20v651473qo?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ff1/live/39ee3da0-df6d-11f1-8112-6b9154c79b48.jpg",
-      "publishedAt": "2026-11-14T08:13:40Z",
-      "content": "Millie Bright helps hand out free kit to young girls to help them keep playing in spite of costs."
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
       "title": "The rise of 'housefishing' by estate agents",
       "description": "The rise of 'housefishing' by estate agents.",
       "url": "https://www.bbc.co.uk/news/videos/cmx295lz17wzo?at_medium=RSS&at_campaign=rss",
       "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d858/live/cd1b7ec0-dec9-11f1-b441-2b33b063138f.jpg",
       "publishedAt": "2026-11-14T07:45:50Z",
       "content": "The rise of 'housefishing' by estate agents."
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-      "description": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d29/live/445059b0-e02e-11f1-9ca9-b3b288fceb81.jpg",
-      "publishedAt": "2026-11-13T23:00:31Z",
-      "content": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade."
     },
     {
       "source": {

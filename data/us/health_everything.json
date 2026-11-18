@@ -6,9 +6,48 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-18T04:46:37.891523+00:00",
+  "fetched_at": "2026-11-18T14:37:39.666370+00:00",
   "articles_count": 28,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Christopher Rowland",
+      "title": "Hospitals Rush to Patch Java Vulnerabilities",
+      "description": "Artificial intelligence is accelerating the threats facing health systems that have been under attack from hackers for years.",
+      "url": "https://www.nytimes.com/2026/11/18/business/hospitals-java-artificial-intelligence.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-java-response-jphl/18biz-java-response-jphl-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-18T13:42:44Z",
+      "content": "Artificial intelligence is accelerating the threats facing health systems that have been under attack from hackers for years."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Carl Zimmer",
+      "title": "How Virtual Cells Could Transform Medicine",
+      "description": "Biotechs are racing to create A.I. models of human cells, hoping to speed drug development and slow aging. Can computers match the complexity of life?",
+      "url": "https://www.nytimes.com/2026/11/18/science/ai-virtual-human-cells.html",
+      "urlToImage": null,
+      "publishedAt": "2026-11-18T10:02:15Z",
+      "content": "Biotechs are racing to create A.I. models of human cells, hoping to speed drug development and slow aging. Can computers match the complexity of life?"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Lise Funderburg",
+      "title": "How to Travel with Older Adults",
+      "description": "Aging issues — like changes in mobility, cognition and medical needs — seem to affect not whether many older people travel, but how. Here are some tips on how to vacation together.",
+      "url": "https://www.nytimes.com/2026/11/18/travel/seniors-older-adults-travel-hotels-flights.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/18/travel/18trav101-seniors-illo/18trav101-seniors-illo-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-18T10:00:06Z",
+      "content": "Aging issues — like changes in mobility, cognition and medical needs — seem to affect not whether many older people travel, but how. Here are some tips on how to vacation together."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -32,7 +71,7 @@
       "description": "The United States has lost its measles-elimination status, signaling the return of a virus that can cause lasting health consequences.",
       "url": "https://www.nytimes.com/2026/11/17/science/measles-virus-immune-system.html",
       "urlToImage": null,
-      "publishedAt": "2026-11-17T19:22:44Z",
+      "publishedAt": "2026-11-17T19:22:45Z",
       "content": "The United States has lost its measles-elimination status, signaling the return of a virus that can cause lasting health consequences."
     },
     {
@@ -232,19 +271,6 @@
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Apoorva Mandavilli",
-      "title": "The U.S. Has Lost Its Measles-Elimination Status, Data Suggests",
-      "description": "An international panel of scientific experts will convene on Tuesday to evaluate the status, but genetic data already shows the virus is once again entrenched in the United States.",
-      "url": "https://www.nytimes.com/2026/11/10/health/measles-united-states-elimination-rfk.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-measles-whjg/10dc-measles-whjg-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-10T23:00:42Z",
-      "content": "An international panel of scientific experts will convene on Tuesday to evaluate the status, but genetic data already shows the virus is once again entrenched in the United States."
-    },
-    {
-      "source": {
         "id": "cbs-news",
         "name": "CBS News"
       },
@@ -268,32 +294,6 @@
       "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/08/495d1840-bab7-4d2a-a339-d65fa4a3f282/thumbnail/1200x630/173b9d54a2686a007efcba0e584d5d51/1794165308889.png",
       "publishedAt": "2026-11-08T19:16:34Z",
       "content": "The following is the full transcript of the interview with Calley Means, former senior adviser to Health Secretary Robert F. Kennedy Jr., a portion of which aired on \"Face the Nation with Margaret Br… [+46231 chars]"
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Gina Kolata",
-      "title": "Doctors Absorb the Stunning Failure of Two High-Profile Heart Drugs",
-      "description": "By every measure, the drugs were no better than placebos, full data revealed on Saturday. Was it the fault of the design of the studies, or our very hypotheses about heart disease?",
-      "url": "https://www.nytimes.com/2026/11/07/science/heart-drugs-failed-novartis-novo-nordisk.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/07Sci-heart-drugs-01b-kqzj/07Sci-heart-drugs-01b-kqzj-mediumSquareAt3X-v2.jpg",
-      "publishedAt": "2026-11-08T14:14:56Z",
-      "content": "By every measure, the drugs were no better than placebos, full data revealed on Saturday. Was it the fault of the design of the studies, or our very hypotheses about heart disease?"
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Carl Zimmer",
-      "title": "Biotech Firm Claims Some Credit for Groundbreaking Virus Research",
-      "description": "Radical Numerics turned heads with its announcement about a novel treatment. Now a former partner, Tabula Bioscience, says it performed much of the research.",
-      "url": "https://www.nytimes.com/2026/11/06/science/radical-numerics-tabula-phage.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/05/science/05SCI-PHAGE-01/05SCI-PHAGE-01-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-06T21:52:00Z",
-      "content": "Radical Numerics turned heads with its announcement about a novel treatment. Now a former partner, Tabula Bioscience, says it performed much of the research."
     },
     {
       "source": {
