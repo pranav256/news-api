@@ -6,9 +6,35 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-17T23:11:17.167133+00:00",
+  "fetched_at": "2026-11-18T04:46:37.891523+00:00",
   "articles_count": 34,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Christina Jewett",
+      "title": "White House Withdraws Nomination of Heidi Overton to Be F.D.A. Commissioner",
+      "description": "The Senate health committee was scheduled to vote on her nomination Wednesday morning after wrestling with concerns about her stance on abortion and vaccines.",
+      "url": "https://www.nytimes.com/2026/11/17/us/overton-fda-nomination-withdrawn.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/17/multimedia/17DC-FDA-OVERTON-hpzm/17DC-FDA-OVERTON-hpzm-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-18T03:26:28Z",
+      "content": "The Senate health committee was scheduled to vote on her nomination Wednesday morning after wrestling with concerns about her stance on abortion and vaccines."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Brad Plumer",
+      "title": "Permitting Bill Would Charge Data Centers Billions for Power",
+      "description": "The permitting bill could make it easier to build data centers for A.I. but a novel provision would also force data centers to pay much more for power.",
+      "url": "https://www.nytimes.com/2026/11/16/climate/permitting-bill-data-centers-electricity-rates.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/16/multimedia/16cli-permitting-data-centers-01-qhbt/16cli-permitting-data-centers-01-qhbt-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-18T00:59:09Z",
+      "content": "The permitting bill could make it easier to build data centers for A.I. but a novel provision would also force data centers to pay much more for power."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -151,19 +177,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/16/multimedia/16CLI-INDUSTRY-wklv/16CLI-INDUSTRY-wklv-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-17T00:59:21Z",
       "content": "Senator Alan Armstrong hired his former company’s top lawyer temporarily, while the chamber drafted a sweeping energy bill. Ethics officials signed off on the unusual arrangement."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Brad Plumer",
-      "title": "Permitting Bill Would Charge Data Centers Billions for Power",
-      "description": "The permitting bill could make it easier to build data centers for A.I. but a novel provision would also force data centers to pay much more for power.",
-      "url": "https://www.nytimes.com/2026/11/16/climate/permitting-bill-data-centers-electricity-rates.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/16/multimedia/16cli-permitting-data-centers-01-qhbt/16cli-permitting-data-centers-01-qhbt-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-16T17:00:36Z",
-      "content": "The permitting bill could make it easier to build data centers for A.I. but a novel provision would also force data centers to pay much more for power."
     },
     {
       "source": {
@@ -437,19 +450,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/11/multimedia/11CLI-COP-LEADERS-jvcq/11CLI-COP-LEADERS-jvcq-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-11T17:27:55Z",
       "content": "The United Nations secretary general, António Guterres, spoke at COP31, a meeting aimed at reducing emissions, amid a sharp drop in attendance by world leaders."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Christina Caron",
-      "title": "New Research Compares Long-Term Relief From 21 Antidepressants",
-      "description": "In the meta-analysis, a few drugs stood out for offering greater effectiveness over time.",
-      "url": "https://www.nytimes.com/2026/11/10/well/mind/antidepressants-efficacy-work.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/09/well/WELL-DEPRESSION-MEDS1/WELL-DEPRESSION-MEDS1-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-10T23:30:23Z",
-      "content": "In the meta-analysis, a few drugs stood out for offering greater effectiveness over time."
     }
   ],
   "query": "science research discovery space"

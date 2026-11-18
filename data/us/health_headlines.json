@@ -6,9 +6,22 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-17T23:11:17.167133+00:00",
-  "articles_count": 80,
+  "fetched_at": "2026-11-18T04:46:37.891523+00:00",
+  "articles_count": 76,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Christina Jewett",
+      "title": "White House Withdraws Nomination of Heidi Overton to Be F.D.A. Commissioner",
+      "description": "The Senate health committee was scheduled to vote on her nomination Wednesday morning after wrestling with concerns about her stance on abortion and vaccines.",
+      "url": "https://www.nytimes.com/2026/11/17/us/overton-fda-nomination-withdrawn.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/17/multimedia/17DC-FDA-OVERTON-hpzm/17DC-FDA-OVERTON-hpzm-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-18T03:26:28Z",
+      "content": "The Senate health committee was scheduled to vote on her nomination Wednesday morning after wrestling with concerns about her stance on abortion and vaccines."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -27,12 +40,25 @@
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
+      "author": "Emily Baumgaertner Nunn",
+      "title": "What Can Genes Reveal About Chronic Pain?",
+      "description": "The largest genetic study of pain to date identified new biological roots in the brain — and gave hints for research into both prevention and treatment.",
+      "url": "https://www.nytimes.com/2026/11/17/science/genes-chronic-pain.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/17/science/17SCI-PAIN-GENES/17SCI-PAIN-GENES-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-17T18:53:19Z",
+      "content": "The largest genetic study of pain to date identified new biological roots in the brain — and gave hints for research into both prevention and treatment."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
       "author": "Apoorva Mandavilli and Dani Blum",
       "title": "Measles Is Officially Back in the United States. What Now?",
       "description": "It may take years for the country to regain elimination status. In the meantime, communities will need to adopt numerous strategies to protect people.",
       "url": "https://www.nytimes.com/2026/11/17/us/measles-us-whats-next.html",
       "urlToImage": "https://static01.nyt.com/images/2026/11/17/multimedia/17dc-measles-look-forward-01-zkgv/17dc-measles-look-forward-01-zkgv-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-17T18:12:14Z",
+      "publishedAt": "2026-11-17T18:12:15Z",
       "content": "It may take years for the country to regain elimination status. In the meantime, communities will need to adopt numerous strategies to protect people."
     },
     {
@@ -76,6 +102,58 @@
     },
     {
       "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "WLOS",
+      "title": "Mountain Energy warns of potentially dangerous fuel mix in kerosene sold in Candler - WLOS",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSzJ2SkVwSUJjSmNnVFQ0SFlQOGZWMHoxb0VfQ3JIQms5X04wcFdJakVzWlBycE9aa01QdkdrNGVqMUdYakRWMlVJd0pGMVYtZ0FaVF9tTEJaWmpzVGkxYUN3XzFmbGMxWHlqdVR3VElYUnJUTmNwZmxDUFFDenZRQmplOGlpUVNBSDVPYW1KZUtFWXlRQkdrWXlMN3c?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-11-17T02:36:41Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Aria Bendix",
+      "title": "U.S. loses measles-elimination status, erasing decades of progress - NBC News",
+      "description": "Measles is no longer eliminated in the U.S., a United Nations commission determined, reversing one of the country’s greatest public health achievements this century.",
+      "url": "https://www.nbcnews.com/health/health-news/measles-no-longer-eliminated-us-rcna607920",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261116-paho-vsb-2205-a49d08.jpg",
+      "publishedAt": "2026-11-17T00:41:00Z",
+      "content": "Endemic measles poses a serious risk to people who are unvaccinated, said Walter Orenstein, former director of the U.S. Immunization Program at the Centers for Disease Control and Prevention. The ris… [+3766 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Lena H. Sun",
+      "title": "CDC declined to alert risk of measles in pregnancy. A journal released the data. - The Washington Post",
+      "description": "As measles roars back, doctors are seeing pregnant women and newborns developing serious conditions.",
+      "url": "https://www.washingtonpost.com/health/2026/11/16/cdc-declined-alert-risk-measles-pregnancy-journal-released-data/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/USJDSRPSEC5ZVDH6QNIQYTAX54_size-normalized.jpg&w=1440",
+      "publishedAt": "2026-11-17T00:38:17Z",
+      "content": "Months after the CDC denied a request from federal health scientists to issue a national alert warning doctors about the risks of measles during pregnancy, the information was published Monday in an … [+27 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SFGate"
+      },
+      "author": "Gillian Mohney",
+      "title": "New E. coli case found in SLO after rare person-to-person transmission - SFGATE",
+      "description": "A sixth infection of Shiga toxin-producing E. coli was reported in San Luis Obispo after a suspected transmission at a local preschool.",
+      "url": "https://www.sfgate.com/bayarea/article/e-coli-slo-transmission-22533554.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/67/75/04/31445254/3/rawImage.jpg",
+      "publishedAt": "2026-11-16T23:30:49Z",
+      "content": "FILE: Escherichia coli (intestinal bacteria) that resides in the digestive tract of humans and warm-blooded animals seen in an electron microscope. \r\nCavallini James/BSIP/Universal Images Group via G… [+2837 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -112,6 +190,97 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-medicaid-01-zkhw/10biz-medicaid-01-zkhw-mediumSquareAt3X-v2.jpg",
       "publishedAt": "2026-11-16T20:44:01Z",
       "content": "Health systems are racing to guide millions of patients through new eligibility hoops, slated to go into effect Jan. 1."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thetimes.com"
+      },
+      "author": "Rhys Blakely",
+      "title": "Neanderthal gene linked to smaller brains — but there’s an upside - The Times",
+      "description": "DNA inherited from our extinct relatives may reduce the risk of schizophrenia without affecting intelligence",
+      "url": "https://www.thetimes.com/uk/science/article/neanderthal-gene-smaller-brain-schizophrenia-study-t28srvt2x",
+      "urlToImage": "https://www.thetimes.com/imageserver/image/e2b5d5b4-4d65-485b-b1a2-0aebaa5c9ca5.jpg?strip=all&format=webp&crop=1600px%2C900px%2C0px%2C0px&resize=1200",
+      "publishedAt": "2026-11-16T20:38:33Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Swns.live"
+      },
+      "author": "SWNS",
+      "title": "One-third of caregivers don’t know about this potentially deadly heart condition — despite seeing the warning signs - New York Post",
+      "description": "Heart valve failure, also known as severe aortic stenosis, occurs when the aortic valve stiffens and fails to open properly due to severe calcium buildup.",
+      "url": "https://swns.live/stories/for-you/200811/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/148982007.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-11-16T20:23:00Z",
+      "content": "Over a third of caregivers don’t know what heart valve failure is, despite caring for seniors who are exhibiting symptoms of it, according to a new study.\r\nThe survey of 2,000 American caregivers of … [+7115 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KREM.com"
+      },
+      "author": "KREM",
+      "title": "Rathdrum mom battling breast cancer, insurance denial has died - KREM",
+      "description": null,
+      "url": "https://www.krem.com/article/news/local/rathdrum-mom-battling-breast-cancer-insurance-denial-died/293-946f7400-b89f-4aca-af93-4e0442e675cf",
+      "urlToImage": null,
+      "publishedAt": "2026-11-16T20:12:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Fox News",
+      "title": "Widely used antidepressant outperformed by 3 other drugs in major study of 30,000 people - Fox News",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWjBEbkRMdmYxb21HejNuV1lpeXZlWDExbmxoVldEQnVyT0s1M3VGY3M0TXpmRTNCR2ppbGJIUnBmWFlXc3BiVFR5OWhLbXpZSVBuSDBzR0E3dHRndHMyTkNtTmRLRjlyb1gwand5MlV3V0JfLWxGYTlxa2gtLW5rMWl2ZzJLaHBGeWstdlF4NnFUVzN4c3NSRnhsNWdCZFhza0tCMkJMakxNcnVTcFHSAbMBQVVfeXFMTjNqY2xXT3pQd2hidVhsdDVjTGRSU1lmcUtFWW1DbGRvMVFlM001b3VkMUpsWGZwbGMzNXdFanJwX1NNNHJrdkE2TzFLQmRXX1d2UUlsd1pFZzJWUXJINGpZaG5XXzZsYUJLSnhiLVRsaFlQV3Q3djJUeGN1QU5lV3RhSkdFZ1dMbnNPU3JGY2VFWkpwd1F3YXZXQzc1RjVDa0NCRjI2bktvU1V2Wm9HVTlxOVE?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-11-16T18:51:59Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "fox8.com"
+      },
+      "author": "FOX 8 News",
+      "title": "Cleveland, Cuyahoga County ‘vulnerable’ amid Ohio measles outbreaks, says health director - FOX 8 News",
+      "description": null,
+      "url": "https://fox8.com/news/cleveland-health-officials-to-give-update-on-us-measles-outbreaks/",
+      "urlToImage": null,
+      "publishedAt": "2026-11-16T18:00:21Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TODAY"
+      },
+      "author": "A. Pawlowski",
+      "title": "9 Best Fruits to Reduce Dementia Risk And Protect Brain Health - TODAY.com",
+      "description": "Fruit reduces dementia risk by fighting inflammation and protecting brain health. Dietitians recommend eating berries, apples, pears, grapes, citrus and more.",
+      "url": "https://www.today.com/health/diet-fitness/fruits-to-reduce-dementia-risk-brain-health-rcna609231",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-11/fruit-reduce-dementia-as11162026-fd708e.jpg",
+      "publishedAt": "2026-11-16T17:04:11Z",
+      "content": "Fruit can be a sweet way to reduce your risk of dementia, the devastating loss of memory and cognitive function that can strike older adults.\r\nWhat people eat can play an important role in brain heal… [+5938 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eatingwell.com"
+      },
+      "author": "https://www.facebook.com/EatingWell/",
+      "title": "Prunes vs. Dates: Which Is the Better High-Fiber Snack? - EatingWell",
+      "description": "Prunes and dates both offer fiber and nutrients in a snackable package. But which dried fruit is the better high-fiber snack when it comes to nutrition and digestive health benefits? Here’s what the science says.",
+      "url": "https://www.eatingwell.com/prunes-vs-dates-high-fiber-snack-12249465",
+      "urlToImage": "https://www.eatingwell.com/thmb/3S3uKqqeJhO_DyxabXtZaDu9K14=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Prunes-vs-Dates-Which-Is-the-Better-High-Fiber-Snack-6cc7e5e8865949318128efa828bd11a9.jpg",
+      "publishedAt": "2026-11-16T17:00:00Z",
+      "content": "Fiber is having a moment. Between the fibermaxxing trend on social media and the rise of fiber-packed sodas, youd think we were all getting plenty. Yet, about 95% of Americans still fall short of mee… [+6215 chars]"
     },
     {
       "source": {
@@ -155,15 +324,41 @@
     {
       "source": {
         "id": null,
-        "name": "Gizmodo.com"
+        "name": "wtvr.com"
       },
-      "author": "Matthew Phelan",
-      "title": "Cattle Steroid Behind Man’s 11-Year Heart Failure Mystery - Gizmodo",
-      "description": "A middle-aged man admitted to taking a synthetic hormone created to literally “beef up” cattle. A new case study has tracked over a decade of his medical woes.",
-      "url": "https://gizmodo.com/this-mans-heart-kept-failing-for-11-years-he-was-secretly-taking-a-drug-made-for-cattle-2000840057",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/11/Angus-Beef-Cattle-in-Pasture-1200x675.jpg",
-      "publishedAt": "2026-11-16T14:25:05Z",
-      "content": "It was a medical mystery. For 11 years, a middle-aged man who described himself as a workout fanatic, according to one doctor who treated him, had suffered from bouts of fatigue, insomnia, kidney tro… [+3701 chars]"
+      "author": "Scott Wise",
+      "title": "Goochland entrepreneur Parker Forcke dies of stage 4 colon cancer at 24: 'How does this even happen?' - WTVR.com",
+      "description": "Goochland entrepreneur Parker Forcke died at 24 after battling stage 4 colon cancer. His family hopes his story encourages others to seek answers.",
+      "url": "https://www.wtvr.com/news/local-news/parker-forcke-obit-nov-16-2026",
+      "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/b87610c/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fd6%2F77%2F464507fb44b4a79e70b5fb804818%2Fparker-forcke-02.png",
+      "publishedAt": "2026-11-16T14:40:49Z",
+      "content": "GOOCHLAND COUNTY, Va. Parker Forcke spent much of his young life building something. \r\nAs a teenager, it was a lawn care business he started before he could drive. Years later, it was a home and a fu… [+7680 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eatingwell.com"
+      },
+      "author": "https://www.facebook.com/EatingWell/",
+      "title": "Common Mistakes to Avoid When Adding Beans to Your Diet, According to Dietitians - EatingWell",
+      "description": "Avoid common mistakes when adding beans to your diet. Learn tips from dietitians on preparation, portions, and digestion for the best results.",
+      "url": "https://www.eatingwell.com/avoid-this-when-adding-beans-to-your-diet-12253033",
+      "urlToImage": "https://www.eatingwell.com/thmb/EBDhEcrurJmtzqRFMdfXl6z-MhA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Common-Mistakes-to-Avoid-When-Adding-Beans-to-Your-Diet-According-to-Dietitians-3a46731c9d594131a39a13ffba65ec54.gif",
+      "publishedAt": "2026-11-16T14:00:00Z",
+      "content": "Adding beans to your diet can be simple, but a few common missteps can make it harder to build them into your routine. Beans should be a regular part of your routine, says Chelsea Didinger, Ph.D. Yet… [+6608 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "David Nield",
+      "title": "Millions of People Could Be Misdiagnosed With Obesity, And Scientists Have Revealed a Fix - ScienceAlert",
+      "description": "Diagnosis definitions matter when it comes to public health – for everything from tailoring individual treatments to tracking conditions across populations – and a new study concludes that millions of people worldwide could be misdiagnosed with obesity.",
+      "url": "https://www.sciencealert.com/millions-of-people-could-be-misdiagnosed-with-obesity-and-scientists-have-revealed-a-fix",
+      "urlToImage": "https://www.sciencealert.com/images/2026/11/FeetWearingSocksStandingOnWeighingScales-1200x675.png",
+      "publishedAt": "2026-11-16T13:04:25Z",
+      "content": "Diagnosis definitions matter when it comes to public health for everything from tailoring individual treatments to tracking conditions across populations and a new study concludes that millions of pe… [+4245 chars]"
     },
     {
       "source": {
@@ -180,42 +375,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "WDSU New Orleans"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": "Annie Jennemann",
-      "title": "What to know about measles outbreaks as the US faces losing its elimination status - WDSU",
-      "description": "An international committee is weighing whether the U.S. could lose its measles elimination status.",
-      "url": "https://www.wdsu.com/article/us-measles-outbreaks-elimination-status/74415404",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/b88e760f-27bf-4a70-a955-7b4a89930b18.png?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
-      "publishedAt": "2026-11-16T12:19:00Z",
-      "content": "WASHINGTONAn international committee met last week to decide whether the United States no longer has eliminated measles.\r\nMeasles cases have surged in the U.S. over the past couple of years. In 2026,… [+1753 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eatthis.com"
-      },
-      "author": "Alexa Mellardo",
-      "title": "Trainers Agree: Crunches Won’t Flatten Belly Sag After 60. These 4 Wall Exercises Will - Eat This Not That",
-      "description": "Wall exercises for belly sag after 60, picked by a Pilates trainer and a NASM-CPT who say crunches aren’t the best start.",
-      "url": "https://www.eatthis.com/wall-exercises-belly-sag-ove-sixty-no-crunches/",
-      "urlToImage": "https://www.eatthis.com/wp-content/uploads/sites/4/2026/11/fit-woman-wall-sit-squat-exercise_2185760491.jpg?quality=82&strip=all",
-      "publishedAt": "2026-11-16T12:15:22Z",
-      "content": "Belly sag after 60? Trainers say skip the crunches and try these four wall moves.\r\nBelly overhang is a common issue that can occur as you age. According to research, fat redistributionparticularly, i… [+3809 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Carly Cassella",
-      "title": "Something in Kimchi Could Help Flush Microplastics From The Gut - ScienceAlert",
-      "description": "Scientists in South Korea have discovered a bacterium in kimchi that could theoretically help flush microplastics out of the gut.",
-      "url": "https://www.sciencealert.com/a-bacterium-in-kimchi-could-help-flush-microplastics-from-the-gut",
-      "urlToImage": "https://www.sciencealert.com/images/2026/11/GettyImages-2195842676-2560x1440-1.jpg",
-      "publishedAt": "2026-11-16T11:04:54Z",
-      "content": "Scientists in South Korea have discovered a bacterium in kimchi that could theoretically help flush microplastics out of the gut.\r\nIt's called Leuconostoc mesenteroides CBA3656, and it ferments sugar… [+4779 chars]"
+      "author": "azcentral.com and The Arizona Republic",
+      "title": "Arizona's extreme heat could scramble the brain. What scientists found - azcentral.com and The Arizona Republic",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMzV3OThFRGNnd01sUmRlWDItNElTMTV5TWx0bjVJUlNFRHlSX2dCazU2aWFseW1yc2gyWDVta3N1VE5WMmJrUXJCVnk3bmNCWk1OWTlkSVh0cEJVRmV6Yi0xMDNVMkNsMndRMVV0Y3poSXQ0cHFhcE8tTHh2Y0V0aU5aTVN2SHp5b25kcVhqTkp1NEJqZ29Rb0c1MHJUZEx1?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-11-16T12:01:00Z",
+      "content": null
     },
     {
       "source": {
@@ -272,19 +441,6 @@
     {
       "source": {
         "id": null,
-        "name": "NPR"
-      },
-      "author": "Maria Godoy",
-      "title": "Why sleep matters when it comes to weight gain and loss - NPR",
-      "description": "Sleep can have a powerful impact on weight. Research shows it can affect appetite. There is also a two-way relationship between sleep quality and diet.",
-      "url": "https://www.npr.org/2026/11/16/nx-s1-6037761/sleep-weight-gain-loss",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1936x1089+0+175/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc9%2F07%2F44eecfd64374a4f6afd0e028b630%2Fgettyimages-2251705905.jpg",
-      "publishedAt": "2026-11-16T10:00:00Z",
-      "content": "If you want to maintain a healthy weight, you probably know you should watch what you eat and get some exercise, maybe hit the gym. But what about hitting the hay?\r\nThere is a lot of evidence linking… [+5909 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "New York Post"
       },
       "author": "Eric Spitznagel",
@@ -298,15 +454,15 @@
     {
       "source": {
         "id": null,
-        "name": "Thedispatch.com"
+        "name": "Medscape"
       },
-      "author": "Matthew Loftus",
-      "title": "Trauma Is More Complicated Than Influencers Say - The Dispatch",
-      "description": "Trauma can, in fact, affect your physical health. But it’s more complicated than influencers say.",
-      "url": "https://thedispatch.com/article/trauma-mental-health-therapy/",
-      "urlToImage": "https://thedispatch.com/wp-content/uploads/2026/11/bodykeepsthescore.jpg?w=1024",
-      "publishedAt": "2026-11-16T06:04:54Z",
-      "content": null
+      "author": "Marilynn Larkin",
+      "title": "Fat Distribution, Not Fat-Free Mass, Key to Metabolic Health - Medscape",
+      "description": "The connection between fat-free mass and metabolic health may be more complicated than previously thought; muscle quantity alone may not provide the full picture.",
+      "url": "https://www.medscape.com/viewarticle/fat-distribution-not-amount-fat-free-mass-key-metabolic-2026a10018h1",
+      "urlToImage": "https://img.medscapestatic.com/vim/live/professional_assets/medscape/images/thumbnail_library/dt-261113-fat-cells-800x450.jpg",
+      "publishedAt": "2026-11-16T05:47:30Z",
+      "content": "Where fat is stored in the body plays a key role in the relationship between fat-free mass and metabolic health, found a new study based on a UK Biobank cohort.\r\n“Our study points out that it is qual… [+7490 chars]"
     },
     {
       "source": {
@@ -359,32 +515,6 @@
       "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/04/woman-taking-blood-pressure.jpg",
       "publishedAt": "2026-11-15T22:20:45Z",
       "content": "A low-cost medication could help stroke survivors whose blood pressure remains elevated despite treatment, a new study suggests.\r\nThe research, known as the REDUCE trial, looked at whether adding spi… [+3748 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SciTechDaily"
-      },
-      "author": null,
-      "title": "Why Do We Feel Colder As We Get Older? New Study Uncovers a Hidden Mechanism - SciTechDaily",
-      "description": "The body’s inner heater weakens with age, but experiments in older mice suggest it can be turned back up.",
-      "url": "https://scitechdaily.com/why-do-we-feel-colder-as-we-get-older-new-study-uncovers-a-hidden-mechanism/",
-      "urlToImage": null,
-      "publishedAt": "2026-11-15T22:08:55Z",
-      "content": "Scientists have discovered why the bodys natural heat-producing system becomes less responsive with age. Credit: Shutterstock\r\nThe bodys inner heater weakens with age, but experiments in older mice s… [+3550 chars]"
-    },
-    {
-      "source": {
-        "id": "the-hindu",
-        "name": "The Hindu"
-      },
-      "author": "Peerzada Ashiq",
-      "title": "As diabetes spikes in Kashmir, the health lens turns to the fabled wazwan - The Hindu",
-      "description": "Diabetes rises in Kashmir amid rice-centric diets, festive wazwan feasts, and winter sedentary lifestyles, per Diabetes Simplified for Kashmir.",
-      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/as-diabetes-spikes-in-kashmir-the-health-lens-turns-to-the-fabled-wazwan/article71705566.ece",
-      "urlToImage": "https://th-i.thgim.com/public/incoming/mrnbmu/article71705568.ece/alternates/LANDSCAPE_1200/8A.jpg",
-      "publishedAt": "2026-11-15T21:30:00Z",
-      "content": "The Kashmiri wazwan, an array of dishes adding up to 4,500-5,500 calories partaken during festivals and weddings, is one of the key cultural factors contributing to a spike in cases of diabetes in Ka… [+3543 chars]"
     },
     {
       "source": {
@@ -467,19 +597,6 @@
     {
       "source": {
         "id": null,
-        "name": "Eatingwell.com"
-      },
-      "author": "https://www.facebook.com/EatingWell/",
-      "title": "The Morning Drink Oncologists Say May Help Reduce Cancer Risk - EatingWell",
-      "description": "Oncology experts highlight green tea as a promising morning drink for cancer prevention. Learn about its science-backed benefits and practical tips.",
-      "url": "https://www.eatingwell.com/morning-drink-to-reduce-cancer-risk-12247282",
-      "urlToImage": "https://www.eatingwell.com/thmb/3ketqE6mlPxwpnNtc6WXwWsyCz8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Oncologists-Recommend-This-Morning-Drink-for-Cancer-Prevention-55667d8ca5d44315967feea13b0e5c66.jpg",
-      "publishedAt": "2026-11-15T14:30:00Z",
-      "content": "Cancer develops through a combination of factors, including genetics, environmental exposures and lifestyle. Although some of these influences are beyond our control, the way we eat, move and care fo… [+6662 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "The Conversation Africa"
       },
       "author": "Andrew Wolf",
@@ -532,32 +649,6 @@
     {
       "source": {
         "id": null,
-        "name": "NDTV News"
-      },
-      "author": "Sambhav Kumar",
-      "title": "WHO Releases First Guidelines On Type 1 Diabetes In Adults: What To Know - NDTV",
-      "description": "WHO also estimates that more than 40 per cent of people with diabetes are unaware that they have the condition and remain undiagnosed.",
-      "url": "https://www.ndtv.com/health/who-releases-first-guidelines-on-type-1-diabetes-in-adults-what-to-know-12330081",
-      "urlToImage": "https://c.ndtvimg.com/2026-11/6a3c2qo_diabetes-control-pexels_625x300_13_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "publishedAt": "2026-11-15T12:25:17Z",
-      "content": "More than a century after insulin was discovered, millions of people living with type 1 diabetes still struggle to obtain affordable treatment and essential healthcare services. Since the condition p… [+10291 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "HuffPost"
-      },
-      "author": null,
-      "title": "This Common Daytime Habit May Be Linked To A Higher Dementia Risk, Study Finds - HuffPost",
-      "description": "The length of your naps may matter more than you think. Here’s how long experts say you should aim for.",
-      "url": "https://www.huffpost.com/entry/unintentional-napping-higher-dementia-risk-goog_l_6af5eeace4b0914f133d1c7b",
-      "urlToImage": "https://img.huffingtonpost.com/asset/6aeb97931400008d7ee023db.jpeg?cache=Le8HdYplsT&ops=500_281%2Cscalefit_1200_630",
-      "publishedAt": "2026-11-15T12:00:17Z",
-      "content": "When time allows, napping is a beloved activity among adults of all ages. But not all napping habits are recommended in fact, some behaviors may even be a red flag.\r\nA recent study led by researchers… [+5579 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "HuffPost"
       },
       "author": null,
@@ -597,106 +688,15 @@
     {
       "source": {
         "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Jess Cockerill",
-      "title": "Coffee Doesn't Just Help You Poop. It May Change The Physiology in Your Gut. - ScienceAlert",
-      "description": "We can usually feel the effects of coffee in the body pretty quickly.",
-      "url": "https://www.sciencealert.com/coffee-doesnt-just-help-you-poop-it-may-change-the-physiology-in-your-gut",
-      "urlToImage": "https://www.sciencealert.com/images/2026/11/GettyImages-540712457-2560x1440-1.jpg",
-      "publishedAt": "2026-11-15T02:02:20Z",
-      "content": "We can usually feel the effects of coffee in the body pretty quickly.\r\nIf you're a regular coffee drinker, that first sip can promptly clear the morning fog and get your day going.\r\nNot long after, c… [+3499 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eatingwell.com"
-      },
-      "author": "https://www.facebook.com/EatingWell/",
-      "title": "Where Does Weight Actually Go When You Lose It? Dietitians Explain - EatingWell",
-      "description": "Where does fat go when you lose weight? Experts explain the science behind fat loss and how the body processes and expels fat safely.",
-      "url": "https://www.eatingwell.com/where-weight-goes-when-you-lose-it-12253228",
-      "urlToImage": "https://www.eatingwell.com/thmb/Il3kLeUFf9n-SknLTqP_xpegpRE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Where-Does-Weight-Actually-Go-When-You-Lose-It-Dietitians-Explain-5b5c0bc7479846c29c315683860eeb36.jpg",
-      "publishedAt": "2026-11-15T00:00:00Z",
-      "content": "Losing weight can feel magical, and not just in terms of getting more energy and fitting into new clothes. As the number on the scale declines, it can almost seem like a case of the amazing disappear… [+6124 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Anna Luisa Rodriguez",
-      "title": "Eat for better sleep with these 7 recipes - The Washington Post",
-      "description": "Certain foods are tied to more restful, deeper sleep. Here’s how to cook with them.",
-      "url": "https://www.washingtonpost.com/food/2026/11/14/eat-better-sleep-with-these-7-recipes/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/CATVL5AEBMI6XOJOAKLHN6PL5Q.jpg&w=1440",
-      "publishedAt": "2026-11-14T23:00:00Z",
-      "content": "If youre looking to improve your sleep, the changes you make should happen far before the lights turn off and your head hits the pillow. In fact, they should begin first thing in the morning at break… [+275 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Peter Dockrill",
-      "title": "Scientists Invented an Electric Comb, And Tests in Mice Show It Promotes Rapid Hair Growth - ScienceAlert",
-      "description": "If you're losing your hair, you might not be reaching for the comb as often as you used to.",
-      "url": "https://www.sciencealert.com/scientists-invented-an-electric-comb-and-tests-in-mice-show-it-promotes-rapid-hair-growth",
-      "urlToImage": "https://www.sciencealert.com/images/2026/11/electric-comb.jpg",
-      "publishedAt": "2026-11-14T20:02:20Z",
-      "content": "If you're losing your hair, you might not be reaching for the comb as often as you used to.\r\nIt's just possible that could be about to change.\r\nResearch from scientists in China has revealed a promis… [+3838 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Martha Stewart"
-      },
-      "author": "https://www.facebook.com/marthastewart/",
-      "title": "Is Sprouted Bread Healthier Than Sourdough? Here’s What Dietitians Say - Martha Stewart",
-      "description": "Sprouted bread vs. sourdough: which is healthier? Dietitians explain the differences between these two popular breads and which is the best choice. They also share what to look for when buying sourdough or sprouted bread.",
-      "url": "https://www.marthastewart.com/is-sprouted-bread-healthier-than-sourdough-12239977",
-      "urlToImage": "https://www.marthastewart.com/thmb/fC_Tn-3t2gNkEK8R_X-WsT1xZEU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2188248456-5cb4dec4fed24897acd920b874b77863.jpg",
-      "publishedAt": "2026-11-14T18:00:00Z",
-      "content": "White, whole-wheat, whole-grain, sourdough, sprouted, gluten-free ... the bread aisle can be overwhelming. But despite the ubiquity of these buzzwords, not all loaves are created equal. We asked diet… [+6742 chars]"
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Carolyn Y. Johnson",
-      "title": "Brain Implants Give A.L.S. Patients the Voice to Speak and Sing",
-      "description": "In one demonstration, a former singer sang a musical scale. Afterward she cried tears of joy.",
-      "url": "https://www.nytimes.com/2026/11/14/science/brain-implants-als-voice.html",
-      "urlToImage": "https://static01.nyt.com/images/2024/08/14/multimedia/14SCI-BCI-SING-02/14als-promo-fwcb-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-14T17:00:09Z",
-      "content": "In one demonstration, a former singer sang a musical scale. Afterward she cried tears of joy."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newser"
-      },
-      "author": "John Johnson",
-      "title": "A Senior's Death in Florida May Be a Dengue Omen - Newser",
-      "description": "More and more in the US, the disease is being acquired locally, not through travelers",
-      "url": "https://www.newser.com/story/399720/a-seniors-death-in-florida-may-be-a-dengue-omen.html",
-      "urlToImage": "https://cdn.newser.com/image/1723558-12-20261114074003.jpeg",
-      "publishedAt": "2026-11-14T13:10:00Z",
-      "content": "Of the roughly 880 infections reported in Florida this year, 503 were infected locally, a sharp jump from the previous record of 189 in 2023. And if Florida is ground zero for US cases, the Tampa are… [+557 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
+        "name": "Medical Xpress"
       },
       "author": null,
-      "title": "A new fiber supplement could help millions suffering from irritable bowel syndrome - Science Daily",
-      "description": "Scientists have developed a promising new fiber supplement that improves gut health in people with irritable bowel syndrome (IBS) without worsening bloating, pain, or other digestive symptoms. The specially designed blend also improved gut-related anxiety and…",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261112230450.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/woman-holding-stomach-digestive-heart-health.webp",
-      "publishedAt": "2026-11-14T12:37:21Z",
-      "content": "A specially designed fiber supplement may offer a promising new way to improve gut health for millions of people with irritable bowel syndrome (IBS). Researchers at Edith Cowan University (ECU) have … [+4778 chars]"
+      "title": "Brain-computer interfaces: A new voice for people with paralysis - Medical Xpress",
+      "description": "Recent advancements in brain-computer interfaces are helping restore communication in clinical trial participants who have lost the ability to speak or make voluntary movements. New findings were presented at Neuroscience 2026, the annual meeting of the Socie…",
+      "url": "https://medicalxpress.com/news/2026-11-brain-interfaces-voice-people-paralysis.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/neurolink.jpg",
+      "publishedAt": "2026-11-14T17:00:06Z",
+      "content": "Recent advancements in brain-computer interfaces are helping restore communication in clinical trial participants who have lost the ability to speak or make voluntary movements. New findings were pre… [+2468 chars]"
     },
     {
       "source": {
@@ -765,29 +765,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "Common ADHD classroom accommodations may not help students succeed, study finds - Phys.org",
-      "description": "Extra time on assignments. Frequent breaks. A quiet place to work. For students with attention-deficit/hyperactivity disorder (ADHD), these are some of the most common accommodations schools provide to make learning easier. But are they actually helping child…",
-      "url": "https://phys.org/news/2026-11-common-adhd-classroom-accommodations-students.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/common-adhd-classroom.jpg",
-      "publishedAt": "2026-11-13T21:20:02Z",
-      "content": "Extra time on assignments. Frequent breaks. A quiet place to work. For students with attention-deficit/hyperactivity disorder (ADHD), these are some of the most common accommodations schools provide … [+7693 chars]"
-    },
-    {
-      "source": {
         "id": "fox-news",
         "name": "Fox News"
       },
-      "author": null,
-      "title": "Widely used diabetes drug may offer unexpected health benefit - Fox News",
+      "author": "Khloe Quill",
+      "title": "Widely used diabetes drug may offer unexpected health benefit - AOL.com",
       "description": "A Stanford study found Type 2 diabetes patients on metformin had a 39% lower risk of dying in the year after a COVID-19 infection than others.",
       "url": "https://www.foxnews.com/health/widely-used-diabetes-drug-may-offer-unexpected-health-benefit",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/woman-holding-prescription-bottle.jpg",
+      "urlToImage": "https://hermes.media.static.aol.com/media/2026/11/13/f15e668d-d134-3d41-982b-a970c4985701/a0cf0103-5e04-40e8-a897-3ae2f5f62338.jpg",
       "publishedAt": "2026-11-13T19:19:36Z",
-      "content": "For decades, doctors have relied on metformin to help people with type 2 diabetes manage their blood sugar. Now, new research suggests the widely prescribed drug may offer benefits beyond blood sugar… [+4267 chars]"
+      "content": "For decades, doctors have relied on metformin to help people with type 2 diabetes manage their blood sugar. Now, new research suggests the widely prescribed drug may offer benefits beyond blood sugar… [+4220 chars]"
     },
     {
       "source": {
@@ -857,6 +844,19 @@
     {
       "source": {
         "id": null,
+        "name": "MedPage Today"
+      },
+      "author": "Charles Bankhead",
+      "title": "Advances and Unmet Needs in Pediatric Sickle Cell Disease - MedPage Today",
+      "description": "It's better care that has led to better survival, not new treatment options",
+      "url": "https://www.medpagetoday.com/spotlight/sickle-cell-anemia/123862",
+      "urlToImage": "https://assets.medpagetoday.net/media/images/123xxx/123862.jpg",
+      "publishedAt": "2026-11-12T20:45:56Z",
+      "content": "As the 1970s came to a close, sickle cell disease (SCD) remained largely a pediatric condition because few children born in the U.S. with the condition survived to adulthood. Today, about 95% of chil… [+8151 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Nature.com"
       },
       "author": null,
@@ -882,19 +882,6 @@
     },
     {
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Ariana Eunjung Cha",
-      "title": "Not all sports help the brain in the same way. This is what may be best for ADHD. - The Washington Post",
-      "description": "Researchers found differences in the effects of running, martial arts and more.",
-      "url": "https://www.washingtonpost.com/health/2026/11/12/why-brainier-sports-may-be-better-people-with-adhd/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/EYWDMUHSUJDDVGCEKV4AOWC2AI.jpg&w=1440",
-      "publishedAt": "2026-11-12T18:00:00Z",
-      "content": "Theres a bit of folk wisdom among mothers of kids with ADHD: Want your kid to sit still and focus at school? Get them to run around outside first.\r\nThe assumption has long been that kids simply need … [+421 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "BBC News"
       },
@@ -908,42 +895,16 @@
     },
     {
       "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Erika Edwards",
-      "title": "She’s delivered 2,000 babies. The measles outbreak changed her mind about vaccines. - NBC News",
-      "description": "Traditional midwives like Roberta Devers could be key to increasing vaccination as outbreaks spread in rural communities such as those in Pennsylvania.",
-      "url": "https://www.nbcnews.com/health/health-news/measles-pregnant-vaccines-midwife-pennsylvania-outbreak-rcna607118",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261111-midwife-penn-ch-0950-2babaf.jpg",
-      "publishedAt": "2026-11-12T00:17:00Z",
-      "content": "Babies gasping for air, children needing oxygen and respiratory support, patients on ventilators. We see babies and children coming in with infections of organs within the abdomen, their liver, dehyd… [+2659 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Nature.com"
       },
       "author": null,
-      "title": "Evolutionary dynamics in the years preceding acute myeloid leukaemia - Nature",
-      "description": "The somatic evolutionary histories of haematopoietic cells in the years preceding acute myeloid leukaemia diagnosis show that the clonal dynamics of blood comply with a set of simple evolutionary rules.",
-      "url": "https://www.nature.com/articles/s41586-026-11269-x",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11269-x/MediaObjects/41586_2026_11269_Fig1_HTML.png",
-      "publishedAt": "2026-11-11T22:16:41Z",
-      "content": "Longitudinal peripheral blood DNA samples\r\nLongitudinal peripheral blood DNA samples were obtained from blood serum samples biobanked as part of UKCTOCS (ISRCTN22488978; ClinicalTrials.gov identifier… [+35636 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "Validation of clinical and preclinical obesity across global cohorts - Nature",
-      "description": "A large-scale data analysis assesses the Lancet Commission’s proposed diagnostic framework for obesity, finding that this framework, in which BMI is combined with other criteria, such as waist circumference&nbsp;and organ function, is more useful than classif…",
-      "url": "https://www.nature.com/articles/s41586-026-11237-5",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11237-5/MediaObjects/41586_2026_11237_Fig1_HTML.png",
-      "publishedAt": "2026-11-11T22:14:49Z",
-      "content": "To our knowledge, this is the first large-scale, multinational study to comprehensively evaluate the Lancet Commission diagnostic framework1 against the widely used BMI-based classification. Previous… [+13557 chars]"
+      "title": "Bistable regulation of adipocyte heterogeneity governs thermogenesis - Nature",
+      "description": "IL-1β from neutrophils and macrophages stabilizes nearby brown adipocytes in a low-UCP1 state; cold temperature reduces IL-1β&nbsp;via sympathetic nerves, leading to transition to a high-UCP1&nbsp;state and increased thermogenesis, while higher temperatures h…",
+      "url": "https://www.nature.com/articles/s41586-026-11308-7",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11308-7/MediaObjects/41586_2026_11308_Fig1_HTML.png",
+      "publishedAt": "2026-11-11T23:27:36Z",
+      "content": "Mouse lines\r\nAll animal experiments were approved by the Institutional Animal Care and Use Committees of City of Hope (protocol 17014). Mice were maintained under a 12h12h darklight cycle in a temper… [+34385 chars]"
     },
     {
       "source": {
@@ -973,6 +934,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Health.com"
+      },
+      "author": "https://www.facebook.com/Health/",
+      "title": "6 Foods That Lower Blood Pressure Better Than Pomegranate Juice - Health.com",
+      "description": "Pomegranate juice is known to help with hypertension, a condition affecting about half of adults in the U.S. These everyday foods can help too.",
+      "url": "https://www.health.com/foods-to-lower-blood-pressure-better-than-pomegranate-juice-12188950",
+      "urlToImage": "https://www.health.com/thmb/oKwd8BY65btt_0GtY5ST9ks6MYg=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-GettyImages-1357023299-26ab6bda53ed4355aa4012b429081b41.jpg",
+      "publishedAt": "2026-11-11T08:00:00Z",
+      "content": "Pomegranate juice isnt the only food worth adding to your routine when blood pressure is on your radar. Several foods offer nutrients that can help keep your blood pressure in a healthy range and mai… [+4535 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -983,19 +957,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/10dc-measles-whjg/10dc-measles-whjg-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-10T23:00:42Z",
       "content": "An international panel of scientific experts will convene on Tuesday to evaluate the status, but genetic data already shows the virus is once again entrenched in the United States."
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Sarah Klein",
-      "title": "5 ways to take care of yourself when you’re caring for someone with cancer - The Washington Post",
-      "description": "Cancer caregivers face high rates of stress, depression, financial strain and burnout. Here’s how to cope.",
-      "url": "https://www.washingtonpost.com/wellness/2026/11/10/5-ways-take-care-yourself-when-youre-caring-someone-with-cancer/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LACWFPE3SKOPYQGI7M4J5IUKKY_size-normalized.jpg&w=1440",
-      "publishedAt": "2026-11-10T19:00:00Z",
-      "content": "In the United States, an estimated 6 million people are taking care of someone with cancer. These cancer caregivers are essential to the well-being of the person with the diagnosis, helping with medi… [+61 chars]"
     },
     {
       "source": {
@@ -1022,19 +983,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/07Sci-heart-drugs-01b-kqzj/07Sci-heart-drugs-01b-kqzj-mediumSquareAt3X-v2.jpg",
       "publishedAt": "2026-11-08T14:14:56Z",
       "content": "By every measure, the drugs were no better than placebos, full data revealed on Saturday. Was it the fault of the design of the studies, or our very hypotheses about heart disease?"
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Christina Jewett and Sheryl Gay Stolberg",
-      "title": "Susie Wiles, Trump’s Chief of Staff, Is Accused of Blocking Health Policies to Attract Donations",
-      "description": "In a no-holds-barred interview with Joe Rogan, Calley Means, a former top health adviser, accused Susie Wiles of repeatedly bowing to lobbying pressures and fixating on campaign contributions.",
-      "url": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-calley-means-joe-rogan.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/06/us/0dc-wiles-means-promo/0dc-wiles-means-promo-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-06T22:03:52Z",
-      "content": "In a no-holds-barred interview with Joe Rogan, Calley Means, a former top health adviser, accused Susie Wiles of repeatedly bowing to lobbying pressures and fixating on campaign contributions."
     },
     {
       "source": {

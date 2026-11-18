@@ -6,7 +6,7 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-17T23:11:17.167133+00:00",
+  "fetched_at": "2026-11-18T04:46:37.891523+00:00",
   "articles_count": 54,
   "articles": [
     {
@@ -15,12 +15,64 @@
         "name": "BBC News"
       },
       "author": null,
-      "title": "Nvidia reports bumper results as firm says it not reinstating Huang",
-      "description": "Nvidia reported strong quarterly earnings on Tuesday amid the dramatic exit of ex-CEO Jensen Huang.",
+      "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
+      "description": "The Amazon CEO said he was originally \"biased against\" Pattinson \"because he's already so famous\".",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0369/live/387a8f10-e2ff-11f1-a094-5fdc692f3e33.jpg",
+      "publishedAt": "2026-11-18T04:00:54Z",
+      "content": "The Amazon CEO said he was originally \"biased against\" Pattinson \"because he's already so famous\"."
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Waymo pulls driverless taxis from all US freeways",
+      "description": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e7c/live/e9a84520-e2f5-11f1-910a-c953499d69d5.jpg",
+      "publishedAt": "2026-11-18T03:07:22Z",
+      "content": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents."
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+      "description": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
       "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
       "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg",
-      "publishedAt": "2026-11-17T23:03:39Z",
-      "content": "Nvidia reported strong quarterly earnings on Tuesday amid the dramatic exit of ex-CEO Jensen Huang."
+      "publishedAt": "2026-11-18T01:18:18Z",
+      "content": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang."
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Europe plans to catch the next computer chip wave",
+      "description": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
+      "url": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c96b/live/b14b3a60-d9c8-11f1-93e1-3b657b665bcf.jpg",
+      "publishedAt": "2026-11-18T00:00:24Z",
+      "content": "Europe hopes to be a leader in a new generation of computer chips which use light to process data."
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+      "description": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
+      "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec0d/live/1061d030-dea2-11f1-b441-2b33b063138f.jpg",
+      "publishedAt": "2026-11-17T23:02:12Z",
+      "content": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips."
     },
     {
       "source": {
@@ -392,19 +444,6 @@
         "name": "BBC News"
       },
       "author": null,
-      "title": "Microsoft says services fully restored after day-long global outage",
-      "description": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
-      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg",
-      "publishedAt": "2026-11-14T06:42:27Z",
-      "content": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says."
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
       "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
       "description": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
       "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
@@ -418,51 +457,12 @@
         "name": "BBC News"
       },
       "author": null,
-      "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
-      "description": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg",
-      "publishedAt": "2026-11-13T19:53:57Z",
-      "content": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\"."
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-      "description": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg",
-      "publishedAt": "2026-11-13T18:36:57Z",
-      "content": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage."
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
       "title": "How a sex scandal at Nvidia is putting pressure on the White House",
       "description": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
       "url": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
       "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ab0/live/068591d0-dee5-11f1-9bb0-8de7754c4db5.jpg",
       "publishedAt": "2026-11-13T12:22:30Z",
       "content": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself."
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
-      "description": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
-      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg",
-      "publishedAt": "2026-11-13T03:57:01Z",
-      "content": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs."
     },
     {
       "source": {
