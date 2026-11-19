@@ -6,9 +6,22 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-18T22:43:07.180025+00:00",
-  "articles_count": 78,
+  "fetched_at": "2026-11-19T04:37:49.965422+00:00",
+  "articles_count": 79,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Christopher Rowland",
+      "title": "Hospitals Rush to Patch Java Vulnerabilities",
+      "description": "Artificial intelligence is accelerating the threats facing health systems that have been under attack from hackers for years.",
+      "url": "https://www.nytimes.com/2026/11/18/business/hospitals-java-artificial-intelligence.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-java-response-sub-fhpw/18biz-java-response-sub-fhpw-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-19T02:39:19Z",
+      "content": "Artificial intelligence is accelerating the threats facing health systems that have been under attack from hackers for years."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -53,19 +66,6 @@
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Christopher Rowland",
-      "title": "Hospitals Rush to Patch Java Vulnerabilities",
-      "description": "Artificial intelligence is accelerating the threats facing health systems that have been under attack from hackers for years.",
-      "url": "https://www.nytimes.com/2026/11/18/business/hospitals-java-artificial-intelligence.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-java-response-sub-fhpw/18biz-java-response-sub-fhpw-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-18T17:48:19Z",
-      "content": "Artificial intelligence is accelerating the threats facing health systems that have been under attack from hackers for years."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "Lise Funderburg",
       "title": "How to Travel with Older Adults",
       "description": "Aging issues — like changes in mobility, cognition and medical needs — seem to affect not whether many older people travel, but how. Here are some tips on how to vacation together.",
@@ -86,6 +86,97 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/17/multimedia/17DC-FDA-OVERTON-hpzm/17DC-FDA-OVERTON-hpzm-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-18T03:26:28Z",
       "content": "The Senate health committee was scheduled to vote on her nomination Wednesday morning after wrestling with concerns about her stance on abortion and vaccines."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Post Magazine"
+      },
+      "author": null,
+      "title": "Chinese scientists’ magic comb restores hair growth by nearly 100% in mice study - South China Morning Post",
+      "description": "The device generates a pulsed electric field while delivering medication deep into the hair follicle with a simple combing action.",
+      "url": "https://www.scmp.com/news/china/science/article/3374723/chinese-scientists-magic-comb-restores-hair-growth-nearly-100-mice-study",
+      "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/11/17/eedbe2e7-fc7e-4a5a-9d5e-f0eb4e07e846_4dd0dc34.jpg?itok=Sv0BRp0Z&v=1794905335",
+      "publishedAt": "2026-11-18T01:00:07Z",
+      "content": "For the more than 1.5 billion people worldwide who suffer from androgenetic alopecia, combing their hair before the mirror each morning is a routine that is often accompanied by quiet anxiety.\r\nHowev… [+423 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Largest British study to check social media ban's effect on youth mental health - BBC",
+      "description": "Ten different research teams will look at how well teenagers are coping without social media.",
+      "url": "https://www.bbc.com/news/articles/cm0evw0d2wq4o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/02cd/live/6ddfb5f0-e2bd-11f1-a094-5fdc692f3e33.jpg",
+      "publishedAt": "2026-11-18T00:49:31Z",
+      "content": "Groups have been set up at Cardiff University, the University of Oxford, the University of Birmingham, King's College London, the University of Edinburgh, the University of Manchester, the London Sch… [+67 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Monseyscoop.com"
+      },
+      "author": "Sruly, Sruly",
+      "title": "Hatzoloh EMS of Rockland Honors Light It Up Owner Ari Stern for Sponsoring Lifesaving Cardiac Monitor - Monsey Scoop",
+      "description": "Hatzoloh EMS of Rockland recently presented a plaque of appreciation to Ari Stern, owner of Light It Up, in recognition of his generous sponsorship of a LIFEPAK",
+      "url": "https://monseyscoop.com/hatzoloh-ems-of-rockland-honors-light-it-up-owner-ari-stern-for-sponsoring-lifesaving-cardiac-monitor/",
+      "urlToImage": "https://monseyscoop.com/wp-content/uploads/2026/11/IMG-20261117-WA0831.jpg",
+      "publishedAt": "2026-11-17T22:07:58Z",
+      "content": "Hatzoloh EMS of Rockland recently presented a plaque of appreciation to Ari Stern, owner of Light It Up, in recognition of his generous sponsorship of a LIFEPAK 15 cardiac monitor/defibrillator for o… [+764 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "fox8.com"
+      },
+      "author": "FOX 8 News",
+      "title": "CDC tracking 4 illness groups in the US: How is Northeast Ohio impacted? - FOX 8 News",
+      "description": null,
+      "url": "https://fox8.com/news/cdc-tracking-4-illness-groups-in-the-us-how-is-northeast-ohio-impacted/",
+      "urlToImage": null,
+      "publishedAt": "2026-11-17T21:43:55Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Jahaura Michelle",
+      "title": "Ericka Hart reveals stage 4 colon cancer diagnosis more than a decade after breast cancer battle - Yahoo",
+      "description": "She revealed her stage 4 colon cancer diagnosis, 12 years after her 2014 diagnosis. Learn about symptoms and screening guidelines.",
+      "url": "https://www.yahoo.com/news/us/articles/ericka-hart-reveals-stage-4-204104807.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/1eae44c5920348a22915f5ea6a2939346bdf35c3315324f22500a4d820ac6ffb/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthegrio_yahoo_articles_946%2F9a8b156a024a9591e34446c714e04fb1.jpg",
+      "publishedAt": "2026-11-17T20:41:04Z",
+      "content": "She revealed her stage 4 colon cancer diagnosis, 12 years after her 2014 diagnosis. Learn about symptoms and screening guidelines.\r\nEricka Hart, the New York City-based queer cancer survivor, activis… [+2683 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Health.com"
+      },
+      "author": "https://www.facebook.com/Health/",
+      "title": "The Best Nutrient for Lowering Blood Pressure, According to a Cardiologist - Health.com",
+      "description": "Your diet plays a major role in managing blood pressure. Discover which nutrient a cardiologist recommends.",
+      "url": "https://www.health.com/best-nutrient-lower-blood-pressure-12160823",
+      "urlToImage": "https://www.health.com/thmb/c52LP3XhGOBdu9y3wGjlaQksIDA=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-GettyImages-2228265305-9aebea4b0c1649f9b7cccfe43246ca1f.jpg",
+      "publishedAt": "2026-11-17T20:20:00Z",
+      "content": "Nearly half of adults in the U.S. have high blood pressure (hypertension), a serious health problem that increases the risk of heart failure, heart attack, and stroke. Your diet plays a key role in m… [+2702 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Rachel Sacks",
+      "title": "Vapes cause ‘irreversible’ internal damage, study finds: ‘This should be a wake-up call’ - New York Post",
+      "description": "Early findings from a study on the effects of prolonged vaping have shown irreversible damage to young people, putting them at risk for long-term respiratory diseases.",
+      "url": "https://nypost.com/2026/11/17/health/vapes-cause-irreversible-internal-damage-new-study-finds/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/crop-41924603.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-11-17T20:05:00Z",
+      "content": "The case for a healthier vape has gone up in smoke.\r\nFramed as the “healthier alternative” to traditional cigarettes, vaping has long been found to be just as destructive to health in a myriad of way… [+3235 chars]"
     },
     {
       "source": {
@@ -142,6 +233,19 @@
     {
       "source": {
         "id": null,
+        "name": "Fci Academy"
+      },
+      "author": "Chad Murphy",
+      "title": "Another person may have spread measles for 4 days at several Ohio sites - The Columbus Dispatch",
+      "description": "One person infected with measles visited five locations in Northwest Ohio over four days while contagious with the virus. Here's where.",
+      "url": "https://www.dispatch.com/story/news/2026/11/17/ohio-measles-cases-2026-spread-paulding-defiance-counties/92827568007/",
+      "urlToImage": "https://www.dispatch.com/gcdn/authoring/authoring-images/2026/07/24/USAT/91036479007-getty-images-1196157315.jpg?crop=2120,1193,x0,y0&width=2120&height=1193&format=pjpg&auto=webp",
+      "publishedAt": "2026-11-17T18:02:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
         "name": "WLS-TV"
       },
       "author": "ABC7 Chicago Digital Team",
@@ -180,6 +284,32 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "KOAT New Mexico"
+      },
+      "author": "Peyton Spellacy",
+      "title": "Rise in shigellosis cases in Bernalillo County - KOAT",
+      "description": "The New Mexico Department of Health has linked 102 cases since late 2025 to an ongoing outbreak in Bernalillo County, with the majority occurring among people experiencing homelessness.",
+      "url": "https://www.koat.com/article/rise-in-shigellosis-cases-in-bernalillo-county/74444823",
+      "urlToImage": "https://kubrick.htvapps.com/vidthumb/6cebf7c7-d552-40d5-8626-e7774f280de1/96cfac4a-501b-4906-a06e-5de85682c2b2.jpg?crop=0.831xw%3A0.829xh%3B0.0831xw%2C0&resize=1200%3A*",
+      "publishedAt": "2026-11-17T15:39:00Z",
+      "content": "ALBUQUERQUE, N.M.Health officials are reporting a rise in shigellosis cases in Bernalillo County.\r\nAccording to the New Mexico Department of Health (NMDOH), the state has reported 233 cases this year… [+4055 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WKBN.com"
+      },
+      "author": "WKBN.com",
+      "title": "Angel Norris, Mercer, PA - WKBN.com",
+      "description": null,
+      "url": "https://www.wkbn.com/my-valley-tributes/john-flynn-funeral-home/angel-norris-mercer-pa/",
+      "urlToImage": null,
+      "publishedAt": "2026-11-17T15:06:38Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -190,6 +320,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/13/multimedia/00buckwalter-02-mzvg/00buckwalter-02-mzvg-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-17T14:33:13Z",
       "content": "J. Galen Buckwalter cheerfully agreed to provide his neural data for a research study. But when he asked for a copy, things got complicated."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Conversation Africa"
+      },
+      "author": "Zheng Kuang",
+      "title": "Your gut bacteria helps your body keep track of time, and when you eat influences how much nutrition you get from food - The Conversation",
+      "description": "Both light and food provide signals your body listens to as it calibrates essential functions, including metabolism.",
+      "url": "https://theconversation.com/your-gut-bacteria-helps-your-body-keep-track-of-time-and-when-you-eat-influences-how-much-nutrition-you-get-from-food-295323",
+      "urlToImage": "https://images.theconversation.com/files/771742/original/file-20261112-64-h5owk3.jpg?ixlib=rb-4.1.1&rect=0%2C163%2C2291%2C1145&q=45&auto=format&w=1356&h=668&fit=crop",
+      "publishedAt": "2026-11-17T13:41:39Z",
+      "content": "How your body processes food is significantly influenced by daily rhythms tied to 24-hour light-dark cycles. In new research published in the scientific journal Cell Host &amp; Microbe, my colleagues… [+3713 chars]"
     },
     {
       "source": {
@@ -207,28 +350,15 @@
     {
       "source": {
         "id": null,
-        "name": "TODAY"
+        "name": "SciTechDaily"
       },
-      "author": "Sarah Jacoby",
-      "title": "Here’s Exactly How Much Leafy Greens to Eat Daily to Support Brain Health, According to a Dietitian - TODAY.com",
-      "description": "Dark, leafy greens are some of the best foods to support your long-term brain health. Here’s how often to eat them for those benefits, dietitian says.",
-      "url": "https://www.today.com/health/diet-fitness/eat-leafy-greens-brain-benefits-dietitian-rcna608976",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-11/Expert-tip-of-the-day-dark-leafy-greens-as11132026-60ac32.jpg",
-      "publishedAt": "2026-11-17T12:30:31Z",
-      "content": "What you put on your plate can boost your health, including your brain health. But to actually get those benefits, you may need to eat more than you think.\r\nWe know that our bodies thrive when we eat… [+2228 chars]"
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Kelly Burch",
-      "title": "I founded a cancer biotech company. Then, my mom, dad, and I were all diagnosed with cancer. - Business Insider",
-      "description": "Dr. Ryan Beal is the CEO of Dyve, a cancer-biotech company. He, his dad, and his mom have all had cancer.",
-      "url": "https://www.businessinsider.com/cancer-biotech-company-founder-family-diagnosed-cancer-2026-11#article",
-      "urlToImage": "https://i.insider.com/6adb68d5510d67c758d862c3?width=1200&format=jpeg",
-      "publishedAt": "2026-11-17T12:05:00Z",
-      "content": "This as-told-to essay is based on a conversation withDr. Ryan Beal, CEO ofDyve Biosciences. It has been edited for length and clarity.\r\nMy brother and I were about 60 miles into a 120-mile race in Co… [+3966 chars]"
+      "author": null,
+      "title": "Scientists Discover a Powerful New Way To Kill Prostate Cancer Cells - SciTechDaily",
+      "description": "Even prostate tumors resistant to standard treatments responded to an experimental molecule in animal studies, raising the possibility of a different approach to advanced disease.",
+      "url": "https://scitechdaily.com/scientists-discover-a-powerful-new-way-to-kill-prostate-cancer-cells/",
+      "urlToImage": null,
+      "publishedAt": "2026-11-17T12:32:59Z",
+      "content": "The gears represent the androgen receptor (AR) and p300, which are linked together in a non-native interaction by the monkey wrench, representing DALTAC-1. This leads to inhibition of oncogenic AR tr… [+4999 chars]"
     },
     {
       "source": {
@@ -298,45 +428,6 @@
     {
       "source": {
         "id": null,
-        "name": "WFLA"
-      },
-      "author": "WFLA",
-      "title": "Respiratory illnesses surge across US as CDC warns of unusual trends - WFLA",
-      "description": null,
-      "url": "https://www.wfla.com/news/national/respiratory-illnesses-surge-across-us-as-cdc-warns-of-unusual-trends/",
-      "urlToImage": null,
-      "publishedAt": "2026-11-17T11:28:12Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PsyPost"
-      },
-      "author": "Eric W. Dolan",
-      "title": "Psychedelics trigger a bizarre memory paradox that makes the unknown feel like home - PsyPost",
-      "description": "Psychedelic trips feel strikingly new. Yet users often describe arriving somewhere they already know. A new study suggests this paradoxical familiarity differs from both everyday déjà vu and cherished personal memories.",
-      "url": "https://www.psypost.org/psychedelics-trigger-a-bizarre-memory-paradox-that-makes-the-unknown-feel-like-home/",
-      "urlToImage": "https://www.psypost.org/wp-content/uploads/2026/03/psychedelic-woman.jpg",
-      "publishedAt": "2026-11-17T11:16:38Z",
-      "content": "People who take psychedelic substances often report an intense feeling of familiarity, as though they are reconnecting with a state or place they have known before, even when their surroundings feel … [+15069 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Albany Times Union"
-      },
-      "author": "Joe Putrock",
-      "title": "SEEN: The 2026 Go Red for Women luncheon - Times Union",
-      "description": "Were you Seen at The 2026 Go Red for Women luncheon, a benefit for the American Heart Association on Nov. 13, 2026, at the Albany Capital Center?",
-      "url": "https://www.timesunion.com/seen/article/2026-go-red-women-luncheon-22533348.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/67/74/64/31444280/3/rawImage.jpg",
-      "publishedAt": "2026-11-17T11:13:02Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Prevention.com"
       },
       "author": "Jenessa Connor",
@@ -362,16 +453,16 @@
     },
     {
       "source": {
-        "id": "fox-news",
-        "name": "Fox News"
+        "id": null,
+        "name": "Minneapolis Star Tribune"
       },
-      "author": "Fox News",
-      "title": "Simple salt substitute could prevent three million deaths a year worldwide, study estimates - New York Post",
-      "description": "High blood pressure affects 1.4 billion adults, and researchers say potassium-enriched salt could reduce its toll.",
-      "url": "https://www.foxnews.com/health/simple-salt-substitute-could-prevent-three-million-deaths-year-worldwide-study-estimates",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/crop-41916002.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-11-17T10:25:00Z",
-      "content": "Replacing regular table salt with a potassium-enriched alternative could prevent nearly three million deaths and more than 10 million cases of heart and kidney disease worldwide every year, according… [+5091 chars]"
+      "author": "Nicole Garrison",
+      "title": "Garrison: This menopause symptom can be scary ― but it’s more common than you think - Star Tribune",
+      "description": "Millions of women experience brain fog as a symptom of perimenopause.",
+      "url": "https://www.startribune.com/womens-health-midlife-perimenopause-brain-fog-memory-stress/601915745",
+      "urlToImage": "https://arc.stimg.co/startribunemedia/Z3EABZ3OCRGLVMM34A6VNA7IA4.jpg?&w=1200&ar=1.91:1&fit=crop",
+      "publishedAt": "2026-11-17T11:00:00Z",
+      "content": "Opinion editors note:StribVoices publishes a mix of material from 10 contributing columnists, along with other commentary online and in print each day. To contribute, click here.\r\nI was born with the… [+1481 chars]"
     },
     {
       "source": {
@@ -402,15 +493,15 @@
     {
       "source": {
         "id": null,
-        "name": "Newsnationnow.com"
+        "name": "STAT"
       },
-      "author": "Stephanie Sokol",
-      "title": "Coffee competely transforms your gut: Study - NewsNation",
-      "description": "Higher microbial richness was found in those who enjoyed coffee on more than three of the eight days.",
-      "url": "https://www.newsnationnow.com/health/study-coffee-impacts-gut-health/",
-      "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/02/FEATURE_new-coffee-dementia-study.jpg?w=1280",
-      "publishedAt": "2026-11-17T06:35:50Z",
-      "content": "Master Your Money: Join Elizabeth Vargas for a live NewsNation special featuring experts from the Ramsey Team to find out how to navigate your financial challenges. This live special airs Thursday, N… [+2103 chars]"
+      "author": "Jason Mast",
+      "title": "After death in gene therapy trial for a brain disease, progress is reported - STAT",
+      "description": "An unexpected patient death rattled researchers who sought to pierce the blood-brain barrier. Now some think they have a better way of mitigating risks.",
+      "url": "https://www.statnews.com/2026/11/17/capsida-gene-therapy-trial-death-follow-up-investigation/",
+      "urlToImage": "https://www.statnews.com/wp-content/uploads/2026/11/AdobeStock_331634765-1024x576.jpeg",
+      "publishedAt": "2026-11-17T09:34:31Z",
+      "content": "Researchers on Friday presented detailed investigations into a gene therapy death that sparked fear and uncertainty last year among scientists who felt they had been approaching powerful treatments f… [+711 chars]"
     },
     {
       "source": {
@@ -428,32 +519,6 @@
     {
       "source": {
         "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "Genetic variant that reshaped the human brain was inherited from Neanderthals - Nature",
-      "description": "DNA derived from the ancient hominin might make parts of our brains smaller — and protect against schizophrenia.",
-      "url": "https://www.nature.com/articles/d41586-026-03762-0",
-      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03762-0/d41586-026-03762-0_53983242.jpg",
-      "publishedAt": "2026-11-17T05:18:16Z",
-      "content": "The skulls of a human (left) and a Neanderthal (right).Credit: Philippe Psaila/Science Photo Library\r\nA genetic variant that seems to reduce the size of brain areas involved in visual processing come… [+2614 chars]"
-    },
-    {
-      "source": {
-        "id": "buzzfeed",
-        "name": "Buzzfeed"
-      },
-      "author": "Liz Richardson",
-      "title": "Doctors And Nurses Are Exposing “Disturbing” Secrets About The Medical Field That More People Should Know - BuzzFeed",
-      "description": "\"Sometimes when you have surgery, the surgeon everyone so highly esteems for their 'skill' and 'intelligence' is actually relying entirely on a device sales rep to tell them step by step how to do an operation.\"",
-      "url": "https://www.buzzfeed.com/lizmrichardson/doctors-nurses-disturbing-job-secrets",
-      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2026-11/09/22/thumb/ML47XAad2.jpg?crop=2500:1309;0,176%26downsize=1250:*",
-      "publishedAt": "2026-11-17T03:31:02Z",
-      "content": "\"It's not that your nurse is lazy and doesn't care that your call light has been on for an hour and you have to go to the bathroom. It's that your nurse, who should have four patients, has seven: One… [+174 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "WLOS"
       },
       "author": "Marisa Sardonia",
@@ -467,15 +532,15 @@
     {
       "source": {
         "id": null,
-        "name": "SFGate"
+        "name": "WFAA.com"
       },
-      "author": "Gillian Mohney",
-      "title": "New E. coli case found in SLO after rare person-to-person transmission - SFGATE",
-      "description": "A sixth infection of Shiga toxin-producing E. coli was reported in San Luis Obispo after a suspected transmission at a local preschool.",
-      "url": "https://www.sfgate.com/bayarea/article/e-coli-slo-transmission-22533554.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/67/75/04/31445254/3/rawImage.jpg",
-      "publishedAt": "2026-11-16T23:30:49Z",
-      "content": "FILE: Escherichia coli (intestinal bacteria) that resides in the digestive tract of humans and warm-blooded animals seen in an electron microscope. \r\nCavallini James/BSIP/Universal Images Group via G… [+2837 chars]"
+      "author": "WFAA",
+      "title": "UT Southwestern marks construction milestone on $177 million cancer treatment center in Fort Worth - WFAA",
+      "description": null,
+      "url": "https://www.wfaa.com/article/news/health/ut-southwestern-marks-construction-milestone-on-177-million-cancer-treatment-center-in-fort-worth/287-8b828ab3-c440-425b-8056-41ed41590246",
+      "urlToImage": null,
+      "publishedAt": "2026-11-17T01:42:40Z",
+      "content": null
     },
     {
       "source": {
@@ -493,6 +558,19 @@
     {
       "source": {
         "id": null,
+        "name": "WSB Atlanta"
+      },
+      "author": "Sophia Choi",
+      "title": "GLP-1 poison calls surge in Georgia as experts warn about unapproved weight-loss drugs - WSB-TV",
+      "description": "A patient's dangerous experience with unapproved GLP-1 powders highlights rising risks in the weight-loss drug market.",
+      "url": "https://www.wsbtv.com/news/local/atlanta/glp-1-poison-calls-surge-georgia-experts-warn-about-unapproved-weight-loss-drugs/Q4CAJZMGZJE5XN42BVP42OZGYE/",
+      "urlToImage": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FURFE3WGIAJG3POKELRJNEDFBUM.jpg?auth=29ff8fc85b7f904adeda5912229bc6c98fc8ba7483a3b7e8ac58cb819ca1c663&width=1200&height=630&smart=true",
+      "publishedAt": "2026-11-16T22:47:36Z",
+      "content": "ATLANTA — The soaring popularity of GLP-1 weight-loss drugs has helped millions of people lose weight, but the cost of the medications is leading some consumers to seek cheaper, unapproved alternativ… [+3888 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Bring Me The News"
       },
       "author": "Bring Me The News",
@@ -502,19 +580,6 @@
       "urlToImage": null,
       "publishedAt": "2026-11-16T21:59:39Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "McKenzie Beard",
-      "title": "Gen X is aging differently than previous generations — and it’s not good news - New York Post",
-      "description": "Modern medicine has never been better. The same can’t be said for the human body.",
-      "url": "https://nypost.com/2026/11/16/health/gen-x-is-aging-worse-than-their-parents/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/newspress-collage-mzsvg7a6g-1794859587155.jpg?quality=75&strip=all&1794841720&w=1200",
-      "publishedAt": "2026-11-16T21:46:00Z",
-      "content": "Modern medicine has never been better. The same can’t be said for the human body.\r\nFor generations, each new crop of Americans was generally healthier than the last. But that began to change with Bab… [+3831 chars]"
     },
     {
       "source": {
@@ -532,15 +597,15 @@
     {
       "source": {
         "id": null,
-        "name": "fox8.com"
+        "name": "Jamanetwork.com"
       },
-      "author": "FOX 8 News",
-      "title": "University Hospitals opens cutting-edge cancer facility at TriPoint Medical Center - FOX 8 News",
-      "description": null,
-      "url": "https://fox8.com/news/university-hospitals-opens-cutting-edge-cancer-facility-at-tripoint-medical-center/",
-      "urlToImage": null,
-      "publishedAt": "2026-11-16T20:48:50Z",
-      "content": null
+      "author": null,
+      "title": "A Plasma eMTBR-Tau Immunoassay for Detection of Advanced Insoluble Tau Pathology - JAMA",
+      "description": "This cross-sectional study assesses whether plasma levels of eMTBR-tau measured by a novel immunoassay are associated with tau neurofibrillary tangle pathology, defined by neuropathology and tau positron emission tomography (PET), in brain donors with antemor…",
+      "url": "https://jamanetwork.com/journals/jama/fullarticle/2856953",
+      "urlToImage": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/joi260145f1_1794586197.26731.png?Expires=2147483647&Signature=ZjybhLbd4jArCzZo3UuzgQ8x4jbzI4WA417SQa15R12VkPAxjxl7W3dMT7LNCF5yvAY1QDhKLD5iUC4U-rlxGybh9DqBLkk6tqS3DWL49llTEnyCvmKaKAU3W5HSHUKBEGwk9Z-YdJTXdRZtykqsmalmN-4IUyRgchkdDM6V7AaW1PdzJVvIRijlXsVeApm2U-IKtfxKlbqhGzJeGrHTmifwQXY0iyFWVtZbp~lfoHdbgZIqGQsS1-KGsZWfN0z2Uvu-1AkD5CCLjSBPO1FqQeWSPQbpCyHhLToB-Jo~h93DHsE88qbM4ILG8XtQz80xTeauQrmh67igrlpHIDnH~Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "publishedAt": "2026-11-16T21:20:42Z",
+      "content": "Alzheimer disease (AD) is defined by 2 neuropathological hallmarks: extracellular plaques of amyloid- (A) and intraneuronal neurofibrillary tangles of aggregated tau protein. Blood biomarkers, such a… [+40948 chars]"
     },
     {
       "source": {
@@ -558,6 +623,19 @@
     {
       "source": {
         "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Michelle Starr",
+      "title": "A Gene Inherited From Neanderthals Is Still Shaping Human Brains – And May Affect Schizophrenia Risk - ScienceAlert",
+      "description": "Tens of thousands of years ago, the last Neanderthal disappeared from our world.",
+      "url": "https://www.sciencealert.com/a-gene-inherited-from-neanderthals-is-still-shaping-human-brains-and-may-affect-schizophrenia-risk",
+      "urlToImage": "https://www.sciencealert.com/images/2026/11/skulls.png",
+      "publishedAt": "2026-11-16T20:02:51Z",
+      "content": "Tens of thousands of years ago, the last Neanderthal disappeared from our world.\r\nBut the ghost of this ancient human relative lives on its lingering traces haunting the Homo sapiens genetic code.\r\nI… [+7125 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Prevention.com"
       },
       "author": "Kelsey Kunik, RDN",
@@ -570,16 +648,16 @@
     },
     {
       "source": {
-        "id": "fox-news",
-        "name": "Fox News"
+        "id": null,
+        "name": "Neurosciencenews.com"
       },
-      "author": null,
-      "title": "Widely used antidepressant outperformed by 3 other drugs in major study of 30,000 people - Fox News",
-      "description": "A study of 20 antidepressants and over 30,000 patients found three medications may beat fluoxetine for long-term depression treatment results overall.",
-      "url": "https://www.foxnews.com/health/widely-used-antidepressant-outperformed-3-other-drugs-major-study-30000-people",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/03/man-holding-blood-pressure-medication.jpg",
-      "publishedAt": "2026-11-16T18:51:59Z",
-      "content": "Three antidepressants may work better than fluoxetine, widely known by the brand name Prozac, at helping people with depression get better and stay well over time, a new study suggests.\r\nThe research… [+4036 chars]"
+      "author": "Neuroscience News",
+      "title": "How ADHD Shapes Breathing and Time Perception - Neuroscience News",
+      "description": "New studies show ADHD affects breathing patterns, chronic time pressure, brain iron levels, and alcohol use risk across the lifespan.",
+      "url": "https://neurosciencenews.com/adhd-time-perception-breathing-32419/",
+      "urlToImage": "https://neurosciencenews.com/files/2026/11/adhd-breathing-time-perception-neuroscience.jpg",
+      "publishedAt": "2026-11-16T19:31:41Z",
+      "content": "Summary:\r\nNew research demonstrates that attention-deficit/hyperactivity disorder (ADHD) is a systemic condition influencing respiratory patterns, subjective time pressure, brain iron levels, and alc… [+5553 chars]"
     },
     {
       "source": {
@@ -622,32 +700,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Live Science"
-      },
-      "author": "Victoria Atkinson",
-      "title": "Scientists invent tiny robots that may dissolve blood clots 10 times faster than medicines alone - Live Science",
-      "description": "In recent animal tests, tiny robots released into the bloodstream showed promise for treating blood clots.",
-      "url": "https://www.livescience.com/health/heart-circulation/tiny-robots-can-tumble-through-blood-vessels-to-help-dissolve-blood-clots-early-test-shows",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/rT6n9K4bQpHFm3oCTkjrY3-1377-80.jpg",
-      "publishedAt": "2026-11-16T16:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Erica Sloan",
-      "title": "How to stop fighting over screen time if your kid has ADHD - The Washington Post",
-      "description": "A report from nonprofit Understood and the American Academy of Pediatrics addresses why children with ADHD have difficulty detaching from screens and offers practical support for parents.",
-      "url": "https://www.washingtonpost.com/wellness/2026/11/16/how-stop-fighting-over-screen-time-if-your-kid-has-adhd/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ASA44BMXVED7ZW3ZR4P6HFTTLM_size-normalized.jpg&w=1440",
-      "publishedAt": "2026-11-16T15:32:33Z",
-      "content": "Trying to free any kid from the stronghold of a screen-based device is hard. If youre a parent of a child with attention-deficit/hyperactivity disorder (ADHD) a common neurodevelopmental condition af… [+271 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -658,19 +710,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/28/us/00well-science-patient-promo/00well-science-patient-promo-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-16T15:03:46Z",
       "content": "For 27 years, the Pediatric Brain Tumor Consortium worked to save kids with brain cancer. But just before 5-year-old Ryleigh Schecter was diagnosed, the government shut it down."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NDTV News"
-      },
-      "author": "Astitva Raj",
-      "title": "Man Develops Rare Condition After Brain Surgery, Sees Catlike Features On Human Faces - NDTV",
-      "description": "The report detailing Karl&#039;s unusual experience was published in the journal Cortex.",
-      "url": "https://www.ndtv.com/science/man-sees-catlike-features-on-human-faces-after-brain-surgery-12334714",
-      "urlToImage": "https://c.ndtvimg.com/2026-11/femvn6ok_human-with-cat-like-face_625x300_16_November_26.jpeg",
-      "publishedAt": "2026-11-16T14:33:57Z",
-      "content": "A 28-year-old man named Karl has been experiencing unusual changes in the way he sees faces after undergoing brain surgery. He sometimes sees catlike features, including enlarged pupils, unusual eye … [+2498 chars]"
     },
     {
       "source": {
@@ -700,29 +739,29 @@
     },
     {
       "source": {
-        "id": "cnn",
-        "name": "CNN"
+        "id": null,
+        "name": "Eatingwell.com"
       },
-      "author": "Amanda Schupak",
-      "title": "‘A lot of women are angry’: What people don’t know about perimenopause - CNN",
-      "description": "Pain, brain fog and anxiety can hit in the years leading up to menopause — yet doctors often shrug off these symptoms. That’s starting to change.",
-      "url": "https://www.cnn.com/2026/11/16/health/perimenopause-missed-signs-symptoms-wellness",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20261014-perimenopause-body-language-final.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-11-16T13:00:15Z",
-      "content": "Half the worlds population faces an important health issue with wide-ranging symptoms insomnia, memory and cognition problems, achy muscles and joints, temperature dysregulation, depression and anxie… [+12903 chars]"
+      "author": "https://www.facebook.com/EatingWell/",
+      "title": "Dietitians Reveal the Store-Bought Breads They Always Buy - EatingWell",
+      "description": "From sprouted grains to sourdough, discover the dietitian-approved store-bought breads that deliver maximum taste and nutrition.",
+      "url": "https://www.eatingwell.com/dietitians-reveal-their-favorite-store-bought-breads-12176074",
+      "urlToImage": "https://www.eatingwell.com/thmb/U0tSgfAiY36FNkFoDb7DN9fuQ48=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Dietitians-Reveal-the-Store-Bought-Breads-b7a96823c44d4fc0a4ec8a206d3184bd.jpg",
+      "publishedAt": "2026-11-16T13:00:00Z",
+      "content": "One thing most people can agree on is that bread is amazing. Its satisfying, versatile and a staple in many countries around the world. But the bread aisle can seem like its overflowing with options … [+7085 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "AZCentral"
+        "name": "Nature.com"
       },
-      "author": "Shi En Kim",
-      "title": "Arizona's extreme heat could scramble the brain. What scientists found - azcentral.com and The Arizona Republic",
-      "description": "Season after season of extreme heat could raise the risks of dementia and Alzheimer's, especially in women, studies say.",
-      "url": "https://www.azcentral.com/story/news/environment/2026/11/16/extreme-heat-dementia-link/92699665007/",
-      "urlToImage": "https://www.azcentral.com/gcdn/authoring/authoring-images/2026/03/20/PPHX/89247532007-1-rs-4830-copy.JPG?crop=2999,1688,x0,y91&width=2999&height=1688&format=pjpg&auto=webp",
-      "publishedAt": "2026-11-16T12:01:00Z",
-      "content": "<ul><li>With the planet warming, the studies suggest that a rising number of people might be at risk of developing neurodegenerative diseases, leading to a greater patient burden in society.</li><li>… [+10951 chars]"
+      "author": null,
+      "title": "Maternal and early life obesity programs CD4 - Nature",
+      "description": "Henao-Mejia and colleagues show that a high-fat diet during pregnancy or early postnatal life impairs CD4+ TFH cell differentiation and germinal center reactions in response to vaccination in young mice.",
+      "url": "https://www.nature.com/articles/s41590-026-02700-6",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41590-026-02700-6/MediaObjects/41590_2026_2700_Fig1_HTML.png",
+      "publishedAt": "2026-11-16T11:15:17Z",
+      "content": "Mice\r\nC57BL/6J (B6; strain no. 000664), B6.SJL-Ptprca Pepcb/BoyJ (CD45.1+/+; strain no. 002014) and B6.Cg-Rag2tm1.1Cgn/J (Rag2/; strain no. 008449) mice were purchased from the Jackson Laboratory and… [+29263 chars]"
     },
     {
       "source": {
@@ -752,6 +791,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": null,
+      "title": "Plasma proteomics identifies insulin resistance signatures predictive of cardiometabolic disease risk - Nature",
+      "description": "Integration of deep plasma proteomics with hyperinsulinaemic–euglycaemic clamp measurements enables the generation of a tissue-resolved molecular atlas of insulin resistance. A model derived from these signatures outperforms conventional surrogate markers in …",
+      "url": "https://www.nature.com/articles/s42255-026-01662-1",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42255-026-01662-1/MediaObjects/42255_2026_1662_Fig1_HTML.png",
+      "publishedAt": "2026-11-16T10:47:20Z",
+      "content": "Cohort characteristics\r\nDiscovery cohort\r\nMen and women with either normal glucose tolerance (NGT), assessed by an OGTT, or T2D were included in the study, as described9,68. All participants provided… [+28793 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -762,58 +814,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/11/multimedia/00inv-ideas-globalhealth-01-gvhm/00inv-ideas-globalhealth-01-gvhm-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-16T10:00:31Z",
       "content": "The Trump administration promised to make aid programs more “America First.” Some countries are balking."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Eric Spitznagel",
-      "title": "How scientists are learning to rewire brains — and what it could mean for traumatic memories - New York Post",
-      "description": "Think “Eternal Sunshine of the Spotless Mind” — only you’d still remember your ex.",
-      "url": "https://nypost.com/2026/11/16/health/scientists-are-learning-to-rewire-brains-and-erase-memories/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/newspress-collage-spzjrmqet-1794600523205.jpg?quality=75&strip=all&1794582635&w=1200",
-      "publishedAt": "2026-11-16T09:11:00Z",
-      "content": "Last spring, scientists in South Korea wanted to find out what would happen if they persuaded the brain to trim some of its own wiring. Could removing connections between brain cells change how well … [+9405 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Medscape"
-      },
-      "author": "Marilynn Larkin",
-      "title": "Fat Distribution, Not Fat-Free Mass, Key to Metabolic Health - Medscape",
-      "description": "The connection between fat-free mass and metabolic health may be more complicated than previously thought; muscle quantity alone may not provide the full picture.",
-      "url": "https://www.medscape.com/viewarticle/fat-distribution-not-amount-fat-free-mass-key-metabolic-2026a10018h1",
-      "urlToImage": "https://img.medscapestatic.com/vim/live/professional_assets/medscape/images/thumbnail_library/dt-261113-fat-cells-800x450.jpg",
-      "publishedAt": "2026-11-16T05:47:30Z",
-      "content": "Where fat is stored in the body plays a key role in the relationship between fat-free mass and metabolic health, found a new study based on a UK Biobank cohort.\r\n“Our study points out that it is qual… [+7490 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "MIT scientists discover a surprising way to boost the brain's nighttime cleaning system - Science Daily",
-      "description": "MIT scientists discovered that carefully timed bursts of gentle pink noise during sleep can strengthen the brain’s natural cleaning waves, which help flush away potentially harmful waste. The breakthrough could pave the way for new treatments aimed at improvi…",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261115085533.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/brain-waves-neural-signals-treatment.webp",
-      "publishedAt": "2026-11-16T01:41:45Z",
-      "content": "While we go about our daily activities, the brain gradually accumulates waste, including lactic acid and proteins that are no longer useful. Sleep provides an important opportunity to clear away thes… [+7161 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Real Simple"
-      },
-      "author": "https://www.facebook.com/realsimple/",
-      "title": "Can Eating More Protein at Dinner Help You Sleep Better? Experts Reveal What Actually Works - Real Simple",
-      "description": "Protein does plenty for your body, but better sleep isn’t guaranteed. Here’s whether adding more to your dinner actually makes a difference.",
-      "url": "https://www.realsimple.com/can-high-protein-dinner-help-you-sleep-12242368",
-      "urlToImage": "https://www.realsimple.com/thmb/jHKVhP4hY_7dpVOHv0KoXiIBIMk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/grilled-turkey-GettyImages-1356168089-222bd5b6c0b345cf81518c2c361db51a.jpg",
-      "publishedAt": "2026-11-15T22:45:00Z",
-      "content": "Not many people plan their weekly dinner rotation with sleep in mind. Its not exactly fun to think about your tossing and turning while scrolling through easy weeknight recipes. But what you eat for … [+3149 chars]"
     },
     {
       "source": {
@@ -830,19 +830,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Albuquerque Journal"
-      },
-      "author": "Matt Mondschein",
-      "title": "Shigellosis cases rise in Bernalillo County, NMDOH reports - Albuquerque Journal",
-      "description": "New Mexico health officials have identified 102 shigellosis cases in Bernalillo County since March 2025. Learn about symptoms, transmission and prevention.",
-      "url": "https://www.abqjournal.com/news/shigellosis-cases-rise-in-bernalillo-county/3162728",
-      "urlToImage": "https://image.abqjournal.com/3162730.jpg?imageId=3162730&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "publishedAt": "2026-11-15T20:24:53Z",
-      "content": "A strain of a highly infectious intestinal infection has spread in Bernalillo County, according to the latest data from the New Mexico Department of Health.\r\nAs of Oct. 28, the health department had … [+2802 chars]"
-    },
-    {
-      "source": {
         "id": "the-washington-post",
         "name": "The Washington Post"
       },
@@ -856,19 +843,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "author": "Andrew Wolf",
-      "title": "Prostate cancer testing now urged for men in their 50s and 60s – a lead author of the new screening guidelines explains why - The Conversation",
-      "description": "The American Cancer Society has found that the benefits of the PSA blood test outweigh its harms. Black men and those with a family history of prostate cancer may especially benefit from screening.",
-      "url": "https://theconversation.com/prostate-cancer-testing-now-urged-for-men-in-their-50s-and-60s-a-lead-author-of-the-new-screening-guidelines-explains-why-296645",
-      "urlToImage": "https://images.theconversation.com/files/771973/original/file-20261114-64-hyegbb.jpg?ixlib=rb-4.1.1&rect=0%2C206%2C2121%2C1060&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2026-11-15T14:00:41Z",
-      "content": "The American Cancer Society announced on Nov. 12, 2026, that it has released major changes to its prostate cancer screening guidelines to improve detection and treatment of the disease.\r\nThe Conversa… [+7748 chars]"
-    },
-    {
-      "source": {
         "id": "nbc-news",
         "name": "NBC News"
       },
@@ -879,6 +853,32 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261113-arthritis-sjr-1148-4870ce.jpg",
       "publishedAt": "2026-11-15T12:00:40Z",
       "content": "Women with autoimmune diseases such as lupus or rheumatoid arthritis are more likely to be misdiagnosed or get delayed treatment compared with men, with their symptoms often dismissed as psychologica… [+3091 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "cleveland.com"
+      },
+      "author": "Cleveland.com",
+      "title": "Scientists compared antidepressants over the long term. Three drugs stood out - Cleveland.com",
+      "description": null,
+      "url": "https://www.cleveland.com/news/2026/11/scientists-compared-antidepressants-over-the-long-term-three-drugs-stood-out.html",
+      "urlToImage": null,
+      "publishedAt": "2026-11-15T10:30:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jamanetwork.com"
+      },
+      "author": null,
+      "title": "ADHD Accommodations, Behavior Therapy, and Stimulant Medication - JAMA",
+      "description": "This crossover randomized clinical trial evaluates the efficacy of commonly used approaches for attention-deficit/hyperactivity disorder (ADHD) in classrooms.",
+      "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2856649",
+      "urlToImage": "https://cdn.jamanetwork.com/ama/content_public/journal/peds/0/poi260086t1_1793996547.96955.png?Expires=2147483647&Signature=MUkF7FNPO9OVZ~kycLoQVw4TIG-huw6UbfGfds63SEccqhyAnCwsU1YrU1SPxb8CC-1edmSL1XuahHgoS2~BfV5ZxNLsGE231LOzDyWtwt6eTGEBM9UzF~Qfq3~1UaxpEMdGdF~bkRB-GT9EXyI6z0yNO~L1rcX-ER-oXgT4mPboDbZHxdczzpirwiVnRzV1p7ZxN7vX1tN33sSfUxm3JVyDDeiGIUVVjFU30QIygw6Nyr3cwvUx6R5v55k6KB9vjZOWPTTrgXBv26Hd9t8YPrrT~tYgAsX23HjLVlZ0fxD2GX~Dv4jw2wBrO517YtQrkhwAJfBRy-mxSGfGMDzpwQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "publishedAt": "2026-11-15T08:00:00Z",
+      "content": "Attention-deficit/hyperactivity disorder (ADHD) is largely defined by symptoms representing challenging behaviors in the classroom setting,1 and ADHD-related academic and social impairments are among… [+24496 chars]"
     },
     {
       "source": {
@@ -909,6 +909,19 @@
     {
       "source": {
         "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Hallie Levine",
+      "title": "I hit my goal weight on a GLP‑1 — what now? - Yahoo Health",
+      "description": "After losing nearly 60 pounds on Zepbound, I asked obesity specialists whether I could take less medication. Here's what I learned about maintenance doses an...",
+      "url": "https://health.yahoo.com/your-body/weight-management/weight-loss/article/i-hit-my-goal-weight-on-a-glp1--what-now-235058237.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/fbb1350bd0acb534ed74309d34f5bb2824f23c1eef217cac606f178a18ccc9f4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fgoal-weight_9988.png",
+      "publishedAt": "2026-11-13T23:50:58Z",
+      "content": "After losing close to 60 pounds in 12 months on a GLP-1 medication, I knew my clothes had gotten looser. But nothing prepared me for the shock I experienced when I tried on my bathing suit for the fi… [+10922 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "HuffPost"
       },
       "author": null,
@@ -918,6 +931,19 @@
       "urlToImage": "https://img.huffingtonpost.com/asset/6af7937f180000996f94c1cb.jpeg?cache=HzYQerO2fA&ops=1200_630",
       "publishedAt": "2026-11-13T22:50:46Z",
       "content": "NEW YORK (AP) The U.S. flu season is off to a very early start, and its quickly intensifying.\r\nThe Centers for Disease Control and Prevention on Friday posted its latest update, reporting that seven … [+3549 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AOL"
+      },
+      "author": "Camryn Rabideau",
+      "title": "Doctors say this 'underrated' benefit of collagen for women over 50 has nothing to do with looks - AOL.com",
+      "description": "Collagen peptides can improve your skin, hair, and nails, but there are other major benefits to consider, as well.",
+      "url": "https://www.aol.com/shopping/doctors-say-this-underrated-benefit-of-collagen-for-women-over-50-has-nothing-to-do-with-looks-191009000.html",
+      "urlToImage": "https://hermes.media.transform.aol.com/c34ea8e86355560b331038a15ab38df981b9e471/w_1200,c_scale,f_auto,q_auto/https://hermes.media.static.aol.com/uploads/2026/11/13/a0e3b543-6fc0-4ccd-838c-f365da55adbf.jpg",
+      "publishedAt": "2026-11-13T19:10:09Z",
+      "content": "If you're looking for ways to improve your hair, skin, and nails, you'll definitely come across collagen peptides in your research. This supplement has skyrocketed in popularity thanks to its ability… [+3731 chars]"
     },
     {
       "source": {
@@ -931,6 +957,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/12/07/multimedia/07DC-RFK-FUTURE-top-mgkj/07DC-RFK-FUTURE-top-mgkj-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-13T14:38:11Z",
       "content": "Most Democrats abhor the health secretary’s stance on vaccines, but some see an opportunity to win voters from his MAHA movement by joining with him on food and environmental issues."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": null,
+      "title": "The aging human brain exhibits reduced hemodynamic and cerebrospinal fluid flow waves during sleep - Nature",
+      "description": "This work shows that cerebrospinal fluid flow during sleep is impaired in the aging human brain, before the onset of any neurological disorder, and identifies parallel neural and cerebrovascular mechanisms contributing to this difference.",
+      "url": "https://www.nature.com/articles/s43587-026-01270-4",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs43587-026-01270-4/MediaObjects/43587_2026_1270_Fig1_HTML.png",
+      "publishedAt": "2026-11-13T11:05:00Z",
+      "content": "<li>Daniele, S., Giacomelli, C. &amp; Martini, C. Brain ageing and neurodegenerative disease: the role of cellular waste management. Biochem. Pharmacol.158, 207216 (2018).\r\nArticle \r\n CAS \r\n PubMed \r… [+26039 chars]"
     },
     {
       "source": {
@@ -948,19 +987,6 @@
     {
       "source": {
         "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Peter Dockrill",
-      "title": "The Number of Teeth in Your Mouth Could Be a Major Warning Sign of Dementia - ScienceAlert",
-      "description": "We still don't fully understand the causes of dementia, but scientists are making progress.",
-      "url": "https://www.sciencealert.com/the-number-of-teeth-in-your-mouth-could-be-a-major-warning-sign-of-dementia",
-      "urlToImage": "https://www.sciencealert.com/images/2026/11/dental-x-ray.jpg",
-      "publishedAt": "2026-11-12T21:01:59Z",
-      "content": "We still don't fully understand the causes of dementia, but scientists are making progress.\r\nMost encouragingly, research suggests that almost half of dementia cases could be reduced, at least tempor… [+6211 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "TODAY"
       },
       "author": "A. Pawlowski",
@@ -970,6 +996,19 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-11/Expert-tip-of-the-day-shortness-of-breath-as11112026-d48376.jpg",
       "publishedAt": "2026-11-12T13:00:40Z",
       "content": "Chest pain is a well-known heart disease warning sign, but theres another symptom to watch for when it comes to cardiovascular trouble.\r\nIt could show up gradually, disrupting everyday tasks, or even… [+2544 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wiley.com"
+      },
+      "author": "Wiley & Sons",
+      "title": "American Cancer Society guideline for the early detection of prostate cancer, 2026 - Wiley & Sons",
+      "description": null,
+      "url": "https://acsjournals.onlinelibrary.wiley.com/doi/10.3322/caac.70112",
+      "urlToImage": null,
+      "publishedAt": "2026-11-12T12:08:42Z",
+      "content": null
     },
     {
       "source": {
@@ -996,32 +1035,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/06/multimedia/00cul-broadway-chastain-htmg/00cul-broadway-chastain-htmg-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-11T22:00:06Z",
       "content": "Chastain will portray an actress with dementia whose most vivid memories are of rehearsing for the title role in “King Lear.”"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Common heart pill under scrutiny for older patients as study weighs risks of stopping - Fox News",
-      "description": "A new clinical trial found 13% of older adults who stopped statins had a heart attack, stroke or died, compared with 9% who continued treatment.",
-      "url": "https://www.foxnews.com/health/common-heart-pill-scrutiny-older-patients-study-weighs-risks-stopping",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/woman-taking-statins.jpg",
-      "publishedAt": "2026-11-11T12:00:29Z",
-      "content": "Some older adults may be able to stop taking statins with little added risk over two years, but a new study raises concerns about longer-term safety.\r\nThats according to a randomized clinical trial t… [+4930 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Health.com"
-      },
-      "author": "https://www.facebook.com/Health/",
-      "title": "6 Foods That Lower Blood Pressure Better Than Pomegranate Juice - Health.com",
-      "description": "Pomegranate juice is known to help with hypertension, a condition affecting about half of adults in the U.S. These everyday foods can help too.",
-      "url": "https://www.health.com/foods-to-lower-blood-pressure-better-than-pomegranate-juice-12188950",
-      "urlToImage": "https://www.health.com/thmb/oKwd8BY65btt_0GtY5ST9ks6MYg=/4000x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-GettyImages-1357023299-26ab6bda53ed4355aa4012b429081b41.jpg",
-      "publishedAt": "2026-11-11T08:00:00Z",
-      "content": "Pomegranate juice isnt the only food worth adding to your routine when blood pressure is on your radar. Several foods offer nutrients that can help keep your blood pressure in a healthy range and mai… [+4535 chars]"
     }
   ]
 }
