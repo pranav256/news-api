@@ -6,9 +6,22 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-19T22:46:50.330813+00:00",
+  "fetched_at": "2026-11-20T04:27:54.869163+00:00",
   "articles_count": 29,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Carl Zimmer",
+      "title": "How Virtual Cells Could Transform Medicine",
+      "description": "Biotechs are racing to create A.I. models of human cells, hoping to speed drug development and slow aging. Can computers match the complexity of life?",
+      "url": "https://www.nytimes.com/2026/11/18/science/ai-virtual-human-cells.html",
+      "urlToImage": null,
+      "publishedAt": "2026-11-20T01:01:41Z",
+      "content": "Biotechs are racing to create A.I. models of human cells, hoping to speed drug development and slow aging. Can computers match the complexity of life?"
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -19,7 +32,7 @@
       "description": "An unusual protein may turn out to be a way to diagnose the chronic brain disease, which disproportionately affects athletes in contact sports.",
       "url": "https://www.nytimes.com/2026/11/19/science/cte-blood-test-diagnosis.html",
       "urlToImage": "https://static01.nyt.com/images/2026/11/19/multimedia/19SCI-CTESTUDIES-wczp/19SCI-CTESTUDIES-wczp-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-19T21:08:13Z",
+      "publishedAt": "2026-11-19T21:08:14Z",
       "content": "An unusual protein may turn out to be a way to diagnose the chronic brain disease, which disproportionately affects athletes in contact sports."
     },
     {
@@ -47,19 +60,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-java-response-sub-fhpw/18biz-java-response-sub-fhpw-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-19T02:39:19Z",
       "content": "Artificial intelligence is accelerating the threats facing health systems that have been under attack from hackers for years."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Carl Zimmer",
-      "title": "How Virtual Cells Could Transform Medicine",
-      "description": "Biotechs are racing to create A.I. models of human cells, hoping to speed drug development and slow aging. Can computers match the complexity of life?",
-      "url": "https://www.nytimes.com/2026/11/18/science/ai-virtual-human-cells.html",
-      "urlToImage": null,
-      "publishedAt": "2026-11-18T20:06:51Z",
-      "content": "Biotechs are racing to create A.I. models of human cells, hoping to speed drug development and slow aging. Can computers match the complexity of life?"
     },
     {
       "source": {

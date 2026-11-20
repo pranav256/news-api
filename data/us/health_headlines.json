@@ -6,9 +6,22 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-19T22:46:50.330813+00:00",
-  "articles_count": 81,
+  "fetched_at": "2026-11-20T04:27:54.869163+00:00",
+  "articles_count": 78,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Carl Zimmer",
+      "title": "How Virtual Cells Could Transform Medicine",
+      "description": "Biotechs are racing to create A.I. models of human cells, hoping to speed drug development and slow aging. Can computers match the complexity of life?",
+      "url": "https://www.nytimes.com/2026/11/18/science/ai-virtual-human-cells.html",
+      "urlToImage": null,
+      "publishedAt": "2026-11-20T01:01:41Z",
+      "content": "Biotechs are racing to create A.I. models of human cells, hoping to speed drug development and slow aging. Can computers match the complexity of life?"
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -19,7 +32,7 @@
       "description": "An unusual protein may turn out to be a way to diagnose the chronic brain disease, which disproportionately affects athletes in contact sports.",
       "url": "https://www.nytimes.com/2026/11/19/science/cte-blood-test-diagnosis.html",
       "urlToImage": "https://static01.nyt.com/images/2026/11/19/multimedia/19SCI-CTESTUDIES-wczp/19SCI-CTESTUDIES-wczp-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-19T21:08:13Z",
+      "publishedAt": "2026-11-19T21:08:14Z",
       "content": "An unusual protein may turn out to be a way to diagnose the chronic brain disease, which disproportionately affects athletes in contact sports."
     },
     {
@@ -37,6 +50,19 @@
     },
     {
       "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Lena H. Sun",
+      "title": "Eighth measles death reported as Pennsylvania nears 1,600 cases - The Washington Post",
+      "description": "The United States is confronting its worst measles resurgence in decades and has lost its status as a country that has eliminated measles.",
+      "url": "https://www.washingtonpost.com/health/2026/11/18/eighth-measles-death-reported-pennsylvania-nears-1600-cases/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QTU2VWMPLILRLPJ6DU34A3STBQ_size-normalized.jpg&w=1440",
+      "publishedAt": "2026-11-19T03:55:39Z",
+      "content": "Pennsylvania health officials on Wednesday reported another measles-associated death, bringing the states death toll to eight as it confronts one of the nations largest outbreaks.\r\nThe unvaccinated r… [+315 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -50,16 +76,81 @@
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
+        "id": null,
+        "name": "KOMO News"
       },
-      "author": "Carl Zimmer",
-      "title": "How Virtual Cells Could Transform Medicine",
-      "description": "Biotechs are racing to create A.I. models of human cells, hoping to speed drug development and slow aging. Can computers match the complexity of life?",
-      "url": "https://www.nytimes.com/2026/11/18/science/ai-virtual-human-cells.html",
+      "author": "KOMO News Staff",
+      "title": "L&I inspects two Central Washington dairies after worker dies from bird flu - KOMO",
+      "description": "The Washington State Department of Labor and Industries (L&I) is inspecting two Central Washington dairy farms where an employee worked before dying Nov. 1 from complications of avian influenza, officials said.",
+      "url": "https://komonews.com/news/local/li-inspects-2-washington-dairy-farms-after-worker-dies-of-bird-flu-h5n1-cattle-infected-investigation",
+      "urlToImage": "https://komonews.com/resources/media/162e9c75-99ac-47b3-8c12-f0ac3042f473-jumbo16x9_AP22230666465323.jpg?1660852131978",
+      "publishedAt": "2026-11-19T01:20:05Z",
+      "content": "YAKIMA, Wash. The Washington State Department of Labor and Industries (L&amp;I) is inspecting two Central Washington dairy farms where an employee worked before dying Nov. 1 from complications of avi… [+1412 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9News.com KUSA"
+      },
+      "author": "9News",
+      "title": "Clade I mpox case confirmed in Colorado as health officials urge vaccination for people at higher risk - 9News",
+      "description": null,
+      "url": "https://www.9news.com/article/news/health/clade-i-mpox-case-confirmed-colorado/73-d3d6dad0-2dde-4215-abc3-6736e81c8621",
       "urlToImage": null,
-      "publishedAt": "2026-11-18T20:06:51Z",
-      "content": "Biotechs are racing to create A.I. models of human cells, hoping to speed drug development and slow aging. Can computers match the complexity of life?"
+      "publishedAt": "2026-11-18T22:55:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Flu activity rises across US as 6 states reach high levels, CDC data shows - Fox News",
+      "description": "Cases of the flu are spiking early nationwide, with the CDC reporting Louisiana at very high activity and influenza A (H1N1) the top virus this season.",
+      "url": "https://www.foxnews.com/health/flu-activity-rises-across-us-6-states-reach-high-levels-cdc-data-shows",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/woman-sick-blowing-nose.jpg",
+      "publishedAt": "2026-11-18T22:33:23Z",
+      "content": "Cases of the flu are already cropping up across the country in an early spike.\r\nIn its weekly influenza update, the Centers for Disease Control and Prevention has alerted that seasonal flu activity i… [+2720 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": null,
+      "title": "A glucose-powered artificial neuroimmune axis for metabolic control - Nature",
+      "description": "NeuroAxis restores glucose tolerance, improves insulin sensitivity and normalizes glycaemic control, with therapeutic effects persisting after treatment cessation in rat models of type 1 and type 2 diabetes.",
+      "url": "https://www.nature.com/articles/s41586-026-11251-7",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11251-7/MediaObjects/41586_2026_11251_Fig1_HTML.png",
+      "publishedAt": "2026-11-18T22:12:50Z",
+      "content": "<li>Lazar, M. A. How obesity causes diabetes: not a tall tale. Science307, 373375 (2005).\r\nArticle \r\n PubMed \r\nGoogle Scholar \r\n</li><li>Tracey, K. J. The inflammatory reflex. Nature420, 853859 (2002… [+10384 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Health.com"
+      },
+      "author": "https://www.facebook.com/Health/",
+      "title": "How Drinking Coffee Before Water in the Morning Could Influence Your Blood Pressure - Health.com",
+      "description": "Drinking coffee and skipping water in the morning may increase the risk of dehydration, a potential risk factor for increased blood pressure.",
+      "url": "https://www.health.com/blood-pressure-coffee-before-water-in-the-morning-12263445",
+      "urlToImage": "https://www.health.com/thmb/a62x-tfdVaiOrmzNg5aU1t2wx_c=/6000x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-GettyImages-1362172129-d49b763e549146149f69c8e455e72ec3.jpg",
+      "publishedAt": "2026-11-18T21:21:03Z",
+      "content": "Reaching for a cup of coffee first thing in the morning is routine for a lot of people. But having that cup of joe before water might leave you dehydrated. Dehydration, along with a couple other effe… [+4787 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Alzheimer’s blood marker could predict cognitive decline risks, says Mayo Clinic - Fox News",
+      "description": "A Mayo Clinic study finds a p-tau217 blood test may predict cognitive decline risk within five to 10 years, offering a less invasive option than PET scans.",
+      "url": "https://www.foxnews.com/health/alzheimers-blood-marker-predict-cognitive-decline-risks-mayo-clinic",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/person-getting-blood-test.jpg",
+      "publishedAt": "2026-11-18T21:20:55Z",
+      "content": "A blood test that detects a protein linked to Alzheimers disease could help predict whether older adults will develop cognitive decline within five to 10 years, according to a new Mayo Clinic study p… [+3885 chars]"
     },
     {
       "source": {
@@ -128,6 +219,58 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": null,
+      "title": "Ferroptosis in cancer cells triggers PGE2 production for tumour immune escape - Nature",
+      "description": "Ferroptotic cancer cells activate a molecular program that causes increased levels of PGE2, which in turn impairs type 1 conventional dendritic cell function, compromising antitumour CD8+ T cell immunity.",
+      "url": "https://www.nature.com/articles/s41586-026-11333-6",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11333-6/MediaObjects/41586_2026_11333_Fig1_HTML.png",
+      "publishedAt": "2026-11-18T16:27:23Z",
+      "content": "Mice\r\nAll mice used in this study were on a C57BL/6J genetic background and obtained from Jackson Laboratory (JAX). Ptger2/Ptger4fl/fl mice were generated by crossing Ptger2/ mice (004376, JAX) to Pt… [+29099 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Health.com"
+      },
+      "author": "https://www.facebook.com/Health/",
+      "title": "7 Yogurts With More Added Sugar Than Vanilla Ice Cream - Health.com",
+      "description": "Many types of yogurt contain added sugar to boost flavor, and some contain as much sugar as popular desserts and candies.",
+      "url": "https://www.health.com/yogurt-added-sugar-12262579",
+      "urlToImage": "https://www.health.com/thmb/pTKq7leiv4ZDCtBGb0DS4XZjLJE=/2121x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-GettyImages-Yogurt-1432030d0e344fa19fb469b080c5a64c.jpg",
+      "publishedAt": "2026-11-18T16:24:42Z",
+      "content": "Yogurt can be an easy way to add protein, calcium, and other essential nutrients to your breakfast or snack. But depending on which one you choose, you may also get more added sugar than you realizes… [+3792 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KCCI Des Moines"
+      },
+      "author": "Laura Terrell",
+      "title": "Iowa dad declared cancer-free after liver transplant from stranger - KCCI",
+      "description": "A Central Iowa father battling stage 4 colon cancer, which spread to his liver, is now cancer-free after receiving a liver transplant from a stranger who stepped up to help.",
+      "url": "https://www.kcci.com/article/iowa-dad-declared-cancer-free-after-liver-transplant-from-stranger/74458710",
+      "urlToImage": "https://kubrick.htvapps.com/vidthumb/ee2a24cd-d207-44ce-b322-a61f7428e154/218bc321-b906-45da-b3ba-9f73abe649ae.jpg?crop=0.832xw%3A0.831xh%3B0.0605xw%2C0&resize=1200%3A*",
+      "publishedAt": "2026-11-18T16:18:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nature.com"
+      },
+      "author": null,
+      "title": "Hypothalamic volume and cell-type changes in ageing and Alzheimer’s disease - Nature",
+      "description": "HypoAD, an atlas of the human hypothalamus in ageing and Alzheimer’s disease that&nbsp;combines high-resolution magnetic resonance imaging from 458 individuals with single-nucleus RNA sequencing of 614,403 nuclei, reveals that metabolism- and circadian-regula…",
+      "url": "https://www.nature.com/articles/s41586-026-11305-w",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11305-w/MediaObjects/41586_2026_11305_Fig1_HTML.png",
+      "publishedAt": "2026-11-18T16:07:39Z",
+      "content": "Volumetric analysis of imaging data\r\nThe brain MRI scans used in this study were obtained from two separate datasets. The first was from the AMBR study16. A second dataset from the CBA study17 was ad… [+35717 chars]"
+    },
+    {
+      "source": {
         "id": "associated-press",
         "name": "Associated Press"
       },
@@ -181,6 +324,19 @@
     {
       "source": {
         "id": null,
+        "name": "PEOPLE"
+      },
+      "author": "Adam England",
+      "title": "Woman, 20, Shares Decade-Long Struggle with Rare Brain Condition, Says She ‘Lives Every Day in Fear’ (Exclusive) - Yahoo",
+      "description": "Casey, from Kent in the U.K., was 10 when she first became ill in November 2016, and was diagnosed with anti-NMDAR encephalitis the following spring",
+      "url": "https://people.com/woman-20-shares-decade-long-struggle-with-rare-brain-condition-exclusive-12262255",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/ba0c6f9be6701fb010c7d42dc580064063412cf8828cf4e4538a66f597af658d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F51348e075c527ab24f422888141d0340.jpg",
+      "publishedAt": "2026-11-18T14:21:23Z",
+      "content": "NEED TO KNOW\r\n<ul><li>A 20-year-old woman has shared her decade-long struggle with a rare brain condition that first impacted her at the age of 10\r\n</li><li>Casey, from Kent in the U.K., was told she… [+4886 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "ScienceAlert"
       },
       "author": "Peter Dockrill",
@@ -190,6 +346,19 @@
       "urlToImage": "https://www.sciencealert.com/images/2026/11/woman-sleeping.jpg",
       "publishedAt": "2026-11-18T14:03:18Z",
       "content": "Each night, as sleep takes hold, you drift off to a place known to nobody else.\r\nWhile you're away there, the brain's nightly wash cycle begins.\r\nWaves of cerebrospinal fluid (CSF) flow over and thro… [+3711 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": "Amanda Chu, Carmen Paun, Tim Röhn",
+      "title": "NIH asks if Fauci secretly wrote paper that dismissed Covid lab leak theory - Politico",
+      "description": "Lab leak proponents believe Anthony Fauci commissioned the Nature Medicine study to cover up U.S. funding of Chinese virology research.",
+      "url": "https://www.politico.com/news/2026/11/18/proximal-origin-covid-fauci-collins-bhattacharya-nature-01171756",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F39%2Ffd%2F0b41e41b4e0591a2686c5f278f1c%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2190231605",
+      "publishedAt": "2026-11-18T14:00:00Z",
+      "content": "National Institutes of Health leaders may have been more involved in the influential March 2020 paper that sought to end debate about Covids origins than theyve let on, according to Jay Bhattacharya,… [+877 chars]"
     },
     {
       "source": {
@@ -203,19 +372,6 @@
       "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/flu-image-1516818846.jpg?crop=0.981xw%3A0.980xh%3B0%2C0&resize=1200%3A*",
       "publishedAt": "2026-11-18T13:46:00Z",
       "content": "WASHINGTON COUNTY, MaineThree people have died from a respiratory virus outbreak in Washington County, according to the Maine CDC.\r\nA CDC spokesperson says higher than expected cases of the flu and C… [+2085 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Good News Network"
-      },
-      "author": "Andy Corbley",
-      "title": "Scientists ‘Cure’ Deadly Brain Tumors in Every Mouse Tested with New Cancer Therapy - Good News Network",
-      "description": "The target of the experiments was diffuse midline glioma described by one scientist involved in the project as a \"heartbreaking\" diagnosis.",
-      "url": "https://www.goodnewsnetwork.org/scientists-cure-deadly-brain-tumors-in-every-mouse-tested-with-new-cancer-therapy/",
-      "urlToImage": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/Laboratory-mouse-credit-NIH-pub-domain-e1794992945692.jpg",
-      "publishedAt": "2026-11-18T12:30:20Z",
-      "content": "– credit NIH\r\nIn experiments involving mice, scientists successfully eliminated an aggressive childhood brain cancer while also providing lasting protection.\r\nThe scientists, from UC San Francisco, u… [+6428 chars]"
     },
     {
       "source": {
@@ -246,15 +402,28 @@
     {
       "source": {
         "id": null,
-        "name": "Science Daily"
+        "name": "AL.com"
+      },
+      "author": "AL.com",
+      "title": "New prostate cancer screening guidelines are a license to live - AL.com",
+      "description": null,
+      "url": "https://www.al.com/news/2026/11/new-prostate-cancer-screening-guidelines-are-a-license-to-live.html",
+      "urlToImage": null,
+      "publishedAt": "2026-11-18T12:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WBUR"
       },
       "author": null,
-      "title": "A little-known protein could be a powerful weapon against Alzheimer’s - Science Daily",
-      "description": "Scientists have uncovered a powerful natural defense against Alzheimer’s disease that could open the door to new treatments. By boosting a protein called SORLA, researchers significantly reduced toxic tau tangles, protected connections between brain cells, an…",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261114202233.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/colorful-neurons-in-alzheimers-disease.webp",
-      "publishedAt": "2026-11-18T11:56:09Z",
-      "content": "A protein that helps protect the brain may offer scientists a promising new way to fight Alzheimer's disease and other forms of dementia. Researchers have discovered that increasing levels of this pr… [+8726 chars]"
+      "title": "How pelvic floor physical therapy works and why few talk about it - WBUR",
+      "description": "Pelvic floor dysfunction is a group of health conditions that includes several disorders that can be disruptive to daily life, from prolapse to urinary incontinence, bowel control problems and pain. Many patients are unaware that specialized physical therapy …",
+      "url": "https://www.wbur.org/news/2026/11/18/massachusetts-pelvic-floor-dysfunction-physical-therapy",
+      "urlToImage": "https://media.wbur.org/wp/2026/11/PelvicFloor_Illo_Lightning-2048x1653.jpg",
+      "publishedAt": "2026-11-18T10:51:10Z",
+      "content": "(Caroline Hu for WBUR/Catchlight)\r\nSeven years ago, Meredith Krueger was in a dark place. She had a 2-year-old at home, in Beverly, and had just given birth to her second daughter. And something in h… [+8651 chars]"
     },
     {
       "source": {
@@ -268,6 +437,19 @@
       "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/19/USAT/92325765007-getty-images-2258370641.jpg?crop=2120,1193,x0,y110&width=2120&height=1193&format=pjpg&auto=webp",
       "publishedAt": "2026-11-18T10:14:55Z",
       "content": "No one wants to spend the holidays coughing through dinner, canceling travel plans or missing a family gathering because theyre too sick to get off the couch. But between shopping, school events, tra… [+6013 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Medical Xpress"
+      },
+      "author": null,
+      "title": "Multiple short walks better than one long walk for controlling blood sugar - Medical Xpress",
+      "description": "A randomized trial published in Obesity indicates that interrupting prolonged sitting with frequent brisk walks can improve blood glucose regulation to a greater extent than the same amount of walking performed as a single continuous bout.",
+      "url": "https://medicalxpress.com/news/2026-11-multiple-short-blood-sugar.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/walking-3.jpg",
+      "publishedAt": "2026-11-18T08:10:02Z",
+      "content": "A randomized trial published in Obesity indicates that interrupting prolonged sitting with frequent brisk walks can improve blood glucose regulation to a greater extent than the same amount of walkin… [+1888 chars]"
     },
     {
       "source": {
@@ -311,6 +493,19 @@
     {
       "source": {
         "id": null,
+        "name": "KTRK-TV"
+      },
+      "author": "Daniela Hurtado",
+      "title": "Report shows life expectancy varies sharply across Harris County - ABC13 Houston",
+      "description": "People living just a few miles apart in Harris County may have life expectancies that differ by nearly 20 years, according to a new report from the Harris County Public Health Department.",
+      "url": "https://abc13.com/post/report-shows-life-expectancy-varies-sharply-harris-county/20049250/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/20049234_111726-ktrk-life-expectancy-img.png?w=1600",
+      "publishedAt": "2026-11-18T00:19:39Z",
+      "content": "HARRIS COUNTY, Texas (KTRK) -- People living just a few miles apart in Harris County may have life expectancies that differ by nearly 20 years, according to a new report from the Harris County Public… [+1516 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Medical Xpress"
       },
       "author": null,
@@ -320,32 +515,6 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/beer-and-spirits.jpg",
       "publishedAt": "2026-11-18T00:00:17Z",
       "content": "Regular drinkers of beer or spirits may face a significantly greater risk of acute kidney injury, according to a new study that analyzed data from more than 250,000 U.K. adults. However, the same ass… [+3426 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "KOIN.com"
-      },
-      "author": "Rose Hinchliff",
-      "title": "Washington health officials provide safety tips after dairy farmer dies from bird flu - KOIN.com",
-      "description": "A dairy farm worker in Central Washington died from bird flu at the beginning of the month, leading the Washington State Department of Labor & Industries to inspect two different farms.",
-      "url": "https://www.koin.com/news/washington/washington-health-officials-provide-safety-tips-after-dairy-farmer-dies-from-bird-flu/",
-      "urlToImage": "https://www.koin.com/wp-content/uploads/sites/10/2024/12/67537a596022c2.79361867.jpeg?w=1280",
-      "publishedAt": "2026-11-17T23:07:30Z",
-      "content": "PORTLAND, Ore. (KOIN) A dairy farm worker in Central Washington died from bird flu at the beginning of the month, leading the Washington State Department of Labor &amp; Industries to inspect two diff… [+1242 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PBS"
-      },
-      "author": null,
-      "title": "Doctors are raising concerns about U.S. babies born with measles - PBS",
-      "description": "Congenital measles happens when a pregnant woman passes the virus to her fetus in the womb and can lead to serious complications or even be deadly for newborns.",
-      "url": "https://www.pbs.org/newshour/health/doctors-are-raising-concerns-about-u-s-babies-born-with-measles",
-      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/measles-1024x683.jpg",
-      "publishedAt": "2026-11-17T22:52:41Z",
-      "content": "For the first time in decades, U.S. doctors are sounding the alarm about babies coming into the world with measles.\r\nCongenital measles happens when a pregnant woman passes the virus to her fetus in … [+5469 chars]"
     },
     {
       "source": {
@@ -365,13 +534,13 @@
         "id": null,
         "name": "fox8.com"
       },
-      "author": "FOX 8 News",
+      "author": "Kiara Patterson",
       "title": "CDC tracking 4 illness groups in the US: How is Northeast Ohio impacted? - FOX 8 News",
-      "description": null,
+      "description": "As we head into the holiday season, the CDC is tracking four groups of respiratory illnesses circulating across the country.",
       "url": "https://fox8.com/news/cdc-tracking-4-illness-groups-in-the-us-how-is-northeast-ohio-impacted/",
-      "urlToImage": null,
+      "urlToImage": "https://fox8.com/wp-content/uploads/sites/12/2026/09/AP25156676970821-e1788320112621.jpg?w=1280",
       "publishedAt": "2026-11-17T21:43:55Z",
-      "content": null
+      "content": "CLEVELAND (WJW) – As we head into the holiday season, the CDC is tracking four groups of respiratory illnesses circulating across the country.\r\nThose include strep, common cold viruses, walking pneum… [+1569 chars]"
     },
     {
       "source": {
@@ -466,19 +635,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "WLS-TV"
-      },
-      "author": "ABC7 Chicago Digital Team",
-      "title": "Loyola Medicine visitation policy: Hospital no longer allowing children, teens under 18 years old due to respiratory viruses - ABC7 Chicago",
-      "description": "Loyola Medicine hospital will no longer allows visitors under the age of 18 because of an increase in respiratory viruses.",
-      "url": "https://abc7chicago.com/post/loyola-medicine-visitation-policy-hospital-no-longer-allowing-children-teens-18-years-old-due-respiratory-viruses/20048249/",
-      "urlToImage": "https://cdn.abcotvs.com/dip/images/20048217_111726-wls-loyola-visitation-6a-vid.jpg?w=1600",
-      "publishedAt": "2026-11-17T17:09:44Z",
-      "content": "CHICAGO (WLS) -- A new warning for those planning to visit someone at a Loyola Medicine hospital.\r\nThe hospital system no longer allows visitors under the age of 18 because of an increase in respirat… [+352 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -492,55 +648,16 @@
     },
     {
       "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Fox News",
-      "title": "Pancreatic cancer mystery deepens as researchers make unexpected discovery - New York Post",
-      "description": "A UC study of 22 pancreatic tumors found distinct cell differences in Black patients, which could help researchers develop personalized treatments.",
-      "url": "https://www.foxnews.com/health/pancreatic-cancer-mystery-deepens-researchers-make-unexpected-discovery",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/Comp-Cancer.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-11-17T16:51:00Z",
-      "content": "A University of Cincinnati study found differences in pancreatic tumors that could help explain why that type of cancer affects some patients differently, potentially leading to more personalized tre… [+5558 chars]"
-    },
-    {
-      "source": {
         "id": null,
-        "name": "WOODTV.com"
+        "name": "ScienceAlert"
       },
-      "author": "Emma J Nelson",
-      "title": "More measles cases confirmed in southern Michigan - WOODTV.com",
-      "description": "Twelve cases of measles have been detected in two southern Michigan counties, officials say.",
-      "url": "https://www.woodtv.com/news/michigan/more-measles-cases-confirmed-in-south-michigan/",
-      "urlToImage": "https://www.woodtv.com/wp-content/uploads/sites/51/2026/08/measles_mumps_rubella_vaccine_mmr_06102026_AP26161619525773-1.jpg?w=1280",
-      "publishedAt": "2026-11-17T16:50:55Z",
-      "content": "COLDWATER, Mich. (WOOD) Twelve cases of measles have been detected in two southern Michigan counties, officials say. \r\nThe Branch-Hillsdale-St. Joseph Community Health Agency reported Tuesday that si… [+1144 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "Rachel Sacks",
-      "title": "Everyone seems to have a nasty cough — is it contagious? - New York Post",
-      "description": "Are you still contagious if you’ve been coughing weeks after a cold or the flu? And how can you treat a persistent cough?",
-      "url": "https://nypost.com/2026/11/17/health/everyone-seems-to-have-a-nasty-cough-is-it-contagious/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/crop-41920194.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-11-17T16:33:00Z",
-      "content": "It’s quite the cacoughony.\r\nIt may seem like everyone is coughing up a storm these days. At work. On the train. When you go out to eat.\r\nBut are all of these people really contagious and putting you … [+3500 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "KOAT New Mexico"
-      },
-      "author": "Peyton Spellacy",
-      "title": "Rise in shigellosis cases in Bernalillo County - KOAT",
-      "description": "The New Mexico Department of Health has linked 102 cases since late 2025 to an ongoing outbreak in Bernalillo County, with the majority occurring among people experiencing homelessness.",
-      "url": "https://www.koat.com/article/rise-in-shigellosis-cases-in-bernalillo-county/74444823",
-      "urlToImage": "https://kubrick.htvapps.com/vidthumb/6cebf7c7-d552-40d5-8626-e7774f280de1/96cfac4a-501b-4906-a06e-5de85682c2b2.jpg?crop=0.831xw%3A0.829xh%3B0.0831xw%2C0&resize=1200%3A*",
-      "publishedAt": "2026-11-17T15:39:00Z",
-      "content": "ALBUQUERQUE, N.M.Health officials are reporting a rise in shigellosis cases in Bernalillo County.\r\nAccording to the New Mexico Department of Health (NMDOH), the state has reported 233 cases this year… [+4055 chars]"
+      "author": "Carly Cassella",
+      "title": "First-of-Its-Kind Drug Shows Early Promise Against Prostate Cancer - ScienceAlert",
+      "description": "For nearly a century, oncologists have treated advanced prostate cancer by starving the tumors of testosterone – their main fuel.",
+      "url": "https://www.sciencealert.com/experimental-drug-that-destroys-testosterone-receptors-shows-promise-against-prostate-cancer",
+      "urlToImage": "https://www.sciencealert.com/images/2026/11/ProstateCancerCells_web-1200x675.png",
+      "publishedAt": "2026-11-17T15:03:13Z",
+      "content": "For nearly a century, oncologists have treated advanced prostate cancer by starving the tumors of testosterone their main fuel.\r\nBut this cancer is crafty. It can mutate and learn to 'feed' on differ… [+3861 chars]"
     },
     {
       "source": {
@@ -571,19 +688,6 @@
     {
       "source": {
         "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Julia Musto",
-      "title": "Stubborn fat can be a good thing for older people - The Independent",
-      "description": "Nearly 43 percent of U.S. adults over age 60 are living with obesity",
-      "url": "https://www.the-independent.com/life-style/health-and-families/stubborn-fat-weight-seniors-research-b3086474.html",
-      "urlToImage": "https://static.the-independent.com/2026/11/16/17/10/GettyImages-103382288.jpeg?trim=0,2,0,0&width=1200&height=800&crop=1200:800",
-      "publishedAt": "2026-11-17T14:30:00Z",
-      "content": "Scientists have long known that excess fat is tied to chronic conditions with life-threatening outcomes, but recent research has revealed the importance of age when considering health.\r\nOlder adults … [+2832 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "The Conversation Africa"
       },
       "author": "Zheng Kuang",
@@ -596,29 +700,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "TODAY"
+        "id": "fox-news",
+        "name": "Fox News"
       },
-      "author": "Caroline Kee",
-      "title": "Haven’t Exercised in a While? This Is the Best Time of Day to Go for a Walk - TODAY.com",
-      "description": "In TODAY.com’s Expert Tip of the Day, an orthopedic surgeon reveals the best time of day to walk if you’re starting from zero in order to maximize the health benefits.",
-      "url": "https://www.today.com/health/diet-fitness/best-time-day-go-walk-expert-tip-rcna609582",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-11/Expert-tip-of-the-day-walk-time-of-day-as11162026-923f03.jpg",
-      "publishedAt": "2026-11-17T13:00:00Z",
-      "content": "If youre starting a new fitness journey or getting back into exercise after a long break, youre not alone. \r\nEveryone has to begin somewhere, even if its just getting up off the couch. And if youre s… [+2829 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "SciTechDaily"
-      },
-      "author": null,
-      "title": "Scientists Discover a Powerful New Way To Kill Prostate Cancer Cells - SciTechDaily",
-      "description": "Even prostate tumors resistant to standard treatments responded to an experimental molecule in animal studies, raising the possibility of a different approach to advanced disease.",
-      "url": "https://scitechdaily.com/scientists-discover-a-powerful-new-way-to-kill-prostate-cancer-cells/",
-      "urlToImage": null,
-      "publishedAt": "2026-11-17T12:32:59Z",
-      "content": "The gears represent the androgen receptor (AR) and p300, which are linked together in a non-native interaction by the monkey wrench, representing DALTAC-1. This leads to inhibition of oncogenic AR tr… [+4999 chars]"
+      "author": "Melissa Rudy",
+      "title": "Pancreatic cancer mystery deepens as researchers make unexpected discovery - AOL.com",
+      "description": "University of Cincinnati study found Black patients' pancreatic tumors had more B cells and cells tied to drug resistance, pointing to tailored care.",
+      "url": "https://www.foxnews.com/health/pancreatic-cancer-mystery-deepens-researchers-make-unexpected-discovery",
+      "urlToImage": "https://hermes.media.static.aol.com/media/2026/11/17/8edca6c4-e92d-37a4-a7f5-2fd41a148dea/2166aacb-9ca8-40e5-990f-e7870b1f0173.jpg",
+      "publishedAt": "2026-11-17T12:00:11Z",
+      "content": "A University of Cincinnati study found differences in pancreatic tumors that could help explain why that type of cancer affects some patients differently, potentially leading to more personalized tre… [+4828 chars]"
     },
     {
       "source": {
@@ -649,54 +740,28 @@
     {
       "source": {
         "id": null,
-        "name": "Milwaukee Journal Sentinel"
+        "name": "Prevention.com"
       },
-      "author": "Paul A. Smith",
-      "title": "Deer baiting and feeding prohibited in 59 counties as of mid-November - Milwaukee Journal Sentinel",
-      "description": "The DNR reminded hunters and others of the prohibition on deer baiting and feeding in 59 Wisconsin counties as of mid-November. Taylor County will be included in the ban beginning Dec. 1. State law requires the prohibitions if chronic wasting disease has been…",
-      "url": "https://www.jsonline.com/story/sports/outdoors/2026/11/17/state-law-requires-the-bans-due-to-disease-detections/92763878007/",
-      "urlToImage": "https://www.jsonline.com/gcdn/authoring/authoring-images/2026/11/13/PMJS/92764053007-wisconsin-dnr-nov-2026-baiting-and-feeding-map.jpg?crop=790,445,x0,y204&width=790&height=445&format=pjpg&auto=webp",
-      "publishedAt": "2026-11-17T11:15:00Z",
-      "content": "As deer hunting activity peaks in November, the Department of Natural Resources recommends hunters review the latest Wisconsin deer baiting and feeding regulations.\r\nAs of mid-November, 59 of the sta… [+3091 chars]"
+      "author": "Jenessa Connor",
+      "title": "I Thought My Cough Was a Cold or COVID. It Turned Out to Be Lung Cancer - Prevention",
+      "description": "After coughing up blood, a healthy 41-year-old nonsmoker learned she had small cell lung cancer. Here’s her story of treatment and perspective.",
+      "url": "https://www.prevention.com/health/health-conditions/a74326587/small-cell-lung-cancer-diagnosis-treatment/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/ea667f12-2408-48f0-8bcc-d0e570bfe30c.jpeg?crop=1xw:0.585xh;0xw,0.07xh&resize=1200:*",
+      "publishedAt": "2026-11-17T11:04:15Z",
+      "content": "Up until a few years ago, I was living the life of a typical mom in her early 40s, balancing the roles of CEO of a local nonprofit, wife, and parent to two kids who were 7 and 10 at the time. We live… [+9552 chars]"
     },
     {
       "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
+        "id": null,
+        "name": "Nature.com"
       },
       "author": null,
-      "title": "This teen had no place to go, so a hospital became his home - CBS News",
-      "description": "A young survivor of gun violence lived on the third floor of a St. Louis children's hospital, moving through the halls in a wheelchair, on and off for over three years. He said it became his home when he had nowhere safe to go.",
-      "url": "https://www.cbsnews.com/news/hospital-boarding-st-louis-teen-home/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/16/0023f1a4-058d-4142-8e5f-ba40e4fc496d/thumbnail/1200x630/4287828154629d664630fdd5b8496a4f/jaloni-01.jpg",
-      "publishedAt": "2026-11-17T10:00:10Z",
-      "content": "St. Louis — The teen's hospital stay began in room 3005.\r\nThe room didn't feel like home at first. Back then, Jaloni didn't have posters on the wall or snacks on the shelf, and he hadn't learned abou… [+15574 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "NPR"
-      },
-      "author": "Sydney Lupkin",
-      "title": "More people are getting the flu. Should you get a flu shot before you travel? - NPR",
-      "description": "Thanksgiving is just around the corner, just as millions of Americans are expected to travel for the holidays. Another thing that's upon us? Cold and flu season.",
-      "url": "https://www.npr.org/2026/11/17/nx-s1-6043086/thanksgiving-travel-cold-flu-vaccine-shot-booster",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+488/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9c%2Fe9%2Fb67c6a214e7b9c02d386dead53d5%2Fgettyimages-2303905886.jpg",
-      "publishedAt": "2026-11-17T10:00:00Z",
-      "content": "For stories on the science of healthy living, subscribe to NPR's Health newsletter. \r\nMore people are getting the flu than usual this fall, according to the latest influenza tracking numbers from the… [+2111 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Outside"
-      },
-      "author": "Jim Cotton",
-      "title": "Your Cycling Fitness Has a 14-Day Expiration Date - Outside Magazine",
-      "description": "Detraining has rapid and devastating impacts on all your treasured training metrics. Here's the timeline of fitness decline and the one thing you must maintain to halt it.",
-      "url": "https://velo.outsideonline.com/road/road-training/how-fast-cyclists-detrain-lose-ftp/#article",
-      "urlToImage": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/11/Z8B_3852-e1794901599258.jpg",
-      "publishedAt": "2026-11-17T07:34:53Z",
-      "content": "Updated November 17, 2026 10:54AM\r\nDetraining is cruel.\r\nIt strikes fast and leaves no prisoners.\r\nThe fittest riders lose their precious gains within days of ditching the bike.\r\nMeanwhile, beginners… [+8107 chars]"
+      "title": "Generational gains in cognitive capacity and dementia incidence rates in Western countries - Nature",
+      "description": "A study of longitudinal cohorts from Europe and the United States over 30 years showed that later-born generations benefit from higher cognitive capacity and memory stability, which may explain the trend of declining dementia incidence rates.",
+      "url": "https://www.nature.com/articles/s41591-026-04759-y",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04759-y/MediaObjects/41591_2026_4759_Fig1_HTML.png",
+      "publishedAt": "2026-11-17T10:35:51Z",
+      "content": "<li>Larson, E. B., Yaffe, K. &amp; Langa, K. M. New insights into the dementia epidemic. N. Engl. J. Med.369, 22752277 (2013).\r\nArticle \r\n CAS \r\n PubMed \r\n PubMed Central \r\nGoogle Scholar \r\n</li><li>… [+17052 chars]"
     },
     {
       "source": {
@@ -710,32 +775,6 @@
       "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03762-0/d41586-026-03762-0_53983242.jpg",
       "publishedAt": "2026-11-17T05:18:16Z",
       "content": "The skulls of a human (left) and a Neanderthal (right).Credit: Philippe Psaila/Science Photo Library\r\nA genetic variant that seems to reduce the size of brain areas involved in visual processing come… [+2614 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "Wine, beer, or spirits? Massive study reveals a surprising health divide - Science Daily",
-      "description": "A massive study of more than 340,000 adults found that moderate wine drinkers had a 21% lower risk of cardiovascular death, while even light consumption of beer, cider, or spirits was linked to increased risk. Although heavy drinking was harmful regardless of…",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261116015104.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/three-people-clinking-glasses-of-beer-and-wine.webp",
-      "publishedAt": "2026-11-17T04:56:00Z",
-      "content": "A massive study involving more than 340,000 adults has uncovered a surprising difference in the health risks associated with wine, beer, cider, and spirits. Although heavy drinking was linked to wors… [+9093 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WCNC.com"
-      },
-      "author": "WCNC",
-      "title": "Possible measles exposure at Hickory church, pediatric office - WCNC",
-      "description": null,
-      "url": "https://www.wcnc.com/article/news/health/possible-measles-exposure-at-hickory-church-pediatric-office/275-36ba7b76-45c5-4e3e-811b-84fbacc25629",
-      "urlToImage": null,
-      "publishedAt": "2026-11-17T03:29:00Z",
-      "content": null
     },
     {
       "source": {
@@ -766,19 +805,6 @@
     {
       "source": {
         "id": null,
-        "name": "Jamanetwork.com"
-      },
-      "author": null,
-      "title": "A Plasma eMTBR-Tau Immunoassay for Detection of Advanced Insoluble Tau Pathology - JAMA",
-      "description": "This cross-sectional study assesses whether plasma levels of eMTBR-tau measured by a novel immunoassay are associated with tau neurofibrillary tangle pathology, defined by neuropathology and tau positron emission tomography (PET), in brain donors with antemor…",
-      "url": "https://jamanetwork.com/journals/jama/fullarticle/2856953",
-      "urlToImage": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/joi260145f1_1794586197.26731.png?Expires=2147483647&Signature=ZjybhLbd4jArCzZo3UuzgQ8x4jbzI4WA417SQa15R12VkPAxjxl7W3dMT7LNCF5yvAY1QDhKLD5iUC4U-rlxGybh9DqBLkk6tqS3DWL49llTEnyCvmKaKAU3W5HSHUKBEGwk9Z-YdJTXdRZtykqsmalmN-4IUyRgchkdDM6V7AaW1PdzJVvIRijlXsVeApm2U-IKtfxKlbqhGzJeGrHTmifwQXY0iyFWVtZbp~lfoHdbgZIqGQsS1-KGsZWfN0z2Uvu-1AkD5CCLjSBPO1FqQeWSPQbpCyHhLToB-Jo~h93DHsE88qbM4ILG8XtQz80xTeauQrmh67igrlpHIDnH~Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
-      "publishedAt": "2026-11-16T21:20:42Z",
-      "content": "Alzheimer disease (AD) is defined by 2 neuropathological hallmarks: extracellular plaques of amyloid- (A) and intraneuronal neurofibrillary tangles of aggregated tau protein. Blood biomarkers, such a… [+40948 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Prevention.com"
       },
       "author": "Kelsey Kunik, RDN",
@@ -788,45 +814,6 @@
       "urlToImage": "https://hermes.media.static.aol.com/media/2026/11/16/2bfa9923-50e5-3558-b55f-98a2a32b1b25/1190a379-9bb3-4ff4-824e-ff57a7ec014a.jpeg",
       "publishedAt": "2026-11-16T19:28:06Z",
       "content": "Age may be just a number, but for women in particular, it's a clue about which nutrients to pay attention to most.\r\nWomens nutrition needs shift throughout life, and staying on top of them now can su… [+7089 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC Focus Magazine"
-      },
-      "author": "Dr Jenna Macciochi",
-      "title": "How to build an (almost) bulletproof immune system this winter - BBC Science Focus Magazine",
-      "description": "Combine the cold and dark of winter with the indulgence of the holiday season, and you have the ideal conditions for illness to strike. But there are ways to bolster your body’s defences ahead of the onslaught – ways that rely on science’s evolving understand…",
-      "url": "https://www.sciencefocus.com/the-human-body/how-to-build-immune-system-winter",
-      "urlToImage": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/95354a1f-cf7b-4724-b96a-62d78a7ada41/thumbnails/42189f58-6add-46d4-8e3a-9f52f0d80f7b.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&platform=WEB&w=1200",
-      "publishedAt": "2026-11-16T18:50:00Z",
-      "content": "Winter is the busiest season for your immune system. An onslaught of cold air, close contact and a crowded calendar that includes a party season filled with late nights, large meals and, possibly, a … [+17059 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
-      "author": "McKenzie Beard",
-      "title": "The ‘disease of kings’ is making a comeback — the painful symptoms and how it’s triggered - New York Post",
-      "description": "It’s got a royally bad reputation.",
-      "url": "https://nypost.com/2026/11/16/health/the-disease-of-kings-is-making-a-painful-comeback/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/newspress-collage-f5jzz784o-1794851311533.jpg?quality=75&strip=all&1794833345&w=1200",
-      "publishedAt": "2026-11-16T18:09:00Z",
-      "content": "Its got a royally bad reputation. \r\nAn excruciating condition once dubbed the disease of kings because of its long history of afflicting the wealthy, powerful and excessively indulgent is making a mo… [+4056 chars]"
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
-      "author": "Beth Mole",
-      "title": "US now \"comfortable\" with children dying of measles as death toll hits 10 - Ars Technica",
-      "description": "International authorities will announce US lost its elimination status Tuesday.",
-      "url": "https://arstechnica.com/health/2026/11/us-now-comfortable-with-children-dying-of-measles-as-death-toll-hits-10/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2233024483-2560x1440.jpg",
-      "publishedAt": "2026-11-16T16:39:29Z",
-      "content": null
     },
     {
       "source": {
@@ -843,16 +830,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Eatingwell.com"
+        "id": "cnn",
+        "name": "CNN"
       },
-      "author": "https://www.facebook.com/EatingWell/",
-      "title": "Common Mistakes to Avoid When Adding Beans to Your Diet, According to Dietitians - EatingWell",
-      "description": "Avoid common mistakes when adding beans to your diet. Learn tips from dietitians on preparation, portions, and digestion for the best results.",
-      "url": "https://www.eatingwell.com/avoid-this-when-adding-beans-to-your-diet-12253033",
-      "urlToImage": "https://www.eatingwell.com/thmb/EBDhEcrurJmtzqRFMdfXl6z-MhA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Common-Mistakes-to-Avoid-When-Adding-Beans-to-Your-Diet-According-to-Dietitians-3a46731c9d594131a39a13ffba65ec54.gif",
-      "publishedAt": "2026-11-16T14:00:00Z",
-      "content": "Adding beans to your diet can be simple, but a few common missteps can make it harder to build them into your routine. Beans should be a regular part of your routine, says Chelsea Didinger, Ph.D. Yet… [+6608 chars]"
+      "author": "Amanda Schupak",
+      "title": "‘A lot of women are angry’: What people don’t know about perimenopause - CNN",
+      "description": "Pain, brain fog and anxiety can hit in the years leading up to menopause — yet doctors often shrug off these symptoms. That’s starting to change.",
+      "url": "https://www.cnn.com/2026/11/16/health/perimenopause-missed-signs-symptoms-wellness",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20261014-perimenopause-body-language-final.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-11-16T13:00:15Z",
+      "content": "Half the worlds population faces an important health issue with wide-ranging symptoms insomnia, memory and cognition problems, achy muscles and joints, temperature dysregulation, depression and anxie… [+12903 chars]"
     },
     {
       "source": {
@@ -960,19 +947,6 @@
     },
     {
       "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Isabella O'Connor",
-      "title": "Women with autoimmune diseases often misdiagnosed for 4 years or more - NBC News",
-      "description": "Women with autoimmune diseases such as lupus or rheumatoid arthritis are more likely to be misdiagnosed or get delayed treatment compared with men, with their symptoms often dismissed as “psychological.”",
-      "url": "https://www.nbcnews.com/health/womens-health/autoimmune-diseases-women-lupus-arthritis-misdiagnosed-study-rcna609176",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261113-arthritis-sjr-1148-4870ce.jpg",
-      "publishedAt": "2026-11-15T12:00:40Z",
-      "content": "Women with autoimmune diseases such as lupus or rheumatoid arthritis are more likely to be misdiagnosed or get delayed treatment compared with men, with their symptoms often dismissed as psychologica… [+3091 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "cleveland.com"
       },
@@ -987,15 +961,15 @@
     {
       "source": {
         "id": null,
-        "name": "Jamanetwork.com"
+        "name": "Heritagefhredsprings.com"
       },
       "author": null,
-      "title": "ADHD Accommodations, Behavior Therapy, and Stimulant Medication - JAMA",
-      "description": "This crossover randomized clinical trial evaluates the efficacy of commonly used approaches for attention-deficit/hyperactivity disorder (ADHD) in classrooms.",
-      "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2856649",
-      "urlToImage": "https://cdn.jamanetwork.com/ama/content_public/journal/peds/0/poi260086t1_1793996547.96955.png?Expires=2147483647&Signature=MUkF7FNPO9OVZ~kycLoQVw4TIG-huw6UbfGfds63SEccqhyAnCwsU1YrU1SPxb8CC-1edmSL1XuahHgoS2~BfV5ZxNLsGE231LOzDyWtwt6eTGEBM9UzF~Qfq3~1UaxpEMdGdF~bkRB-GT9EXyI6z0yNO~L1rcX-ER-oXgT4mPboDbZHxdczzpirwiVnRzV1p7ZxN7vX1tN33sSfUxm3JVyDDeiGIUVVjFU30QIygw6Nyr3cwvUx6R5v55k6KB9vjZOWPTTrgXBv26Hd9t8YPrrT~tYgAsX23HjLVlZ0fxD2GX~Dv4jw2wBrO517YtQrkhwAJfBRy-mxSGfGMDzpwQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "title": "Bonita Hunt Obituary Nov 15, 2026 - https://www.heritagefhredsprings.com/",
+      "description": "View Bonita Hunt's obituary, send flowers, find service dates, and sign the guestbook.",
+      "url": "https://www.heritagefhredsprings.com/obituaries/bonita-hunt",
+      "urlToImage": "https://cdn.tukioswebsites.com/social/facebook/fb_3/a68c6712-0136-433a-9d0e-e86b2e1aa825/e6c0ec4c796f184cc90f5ad2bffe3f86_video_c9c4878f942ba3ee0cd28054a223cb31",
       "publishedAt": "2026-11-15T08:00:00Z",
-      "content": "Attention-deficit/hyperactivity disorder (ADHD) is largely defined by symptoms representing challenging behaviors in the classroom setting,1 and ADHD-related academic and social impairments are among… [+24496 chars]"
+      "content": null
     },
     {
       "source": {
@@ -1048,19 +1022,6 @@
       "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-11/Expert-tip-of-the-day-shortness-of-breath-as11112026-d48376.jpg",
       "publishedAt": "2026-11-12T13:00:40Z",
       "content": "Chest pain is a well-known heart disease warning sign, but theres another symptom to watch for when it comes to cardiovascular trouble.\r\nIt could show up gradually, disrupting everyday tasks, or even… [+2544 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eatingwell.com"
-      },
-      "author": "https://www.facebook.com/EatingWell/",
-      "title": "Eggs vs. Oatmeal: Which Breakfast Is Better for Heart Health? - EatingWell",
-      "description": "Wondering if you should eat eggs or oatmeal for breakfast? Dietitians compare the breakfast staples and share which is better for heart health.",
-      "url": "https://www.eatingwell.com/eggs-vs-oatmeal-which-is-better-for-heart-health-12238772",
-      "urlToImage": "https://www.eatingwell.com/thmb/IO5trFIU7lqE9OA-ypiQzEOKjmo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Eggs-vs-Oatmeal--Which-Breakfast-Is-Better-for-Heart-Health-28e0185baded4f17b5d111859cb84f5f.jpg",
-      "publishedAt": "2026-11-12T11:00:00Z",
-      "content": "Mornings can be, well, chaotic. This is especially true if youre trying to get yourself and a family out the door on time. It can be tempting to skip breakfast, but that leaves you with one less oppo… [+8525 chars]"
     }
   ]
 }
