@@ -6,9 +6,35 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-21T13:45:07.163680+00:00",
-  "articles_count": 92,
+  "fetched_at": "2026-11-21T20:15:49.999353+00:00",
+  "articles_count": 100,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Max Read, Erin Griffith, Whitney Jones, Sawyer Roque, Vjeran Pavic, Katie McMurran, Dan Powell, Marion Lozano, Rowan Niemisto and Elisheba Ittoop",
+      "title": "G.T.A. VI Is a Monumental Human Achievement",
+      "description": "Anthropic goes public, Jensen Huang wants back in at Nvidia, and software patches seem to be breaking everything. But first, let’s talk about G.T.A.",
+      "url": "https://www.nytimes.com/2026/11/20/podcasts/hardfork-gta6-nvidia-anthropic.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/20/podcasts/20hardfork-gta-nvidia-anthropic/20hardfork-gta-nvidia-anthropic-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-21T19:12:00Z",
+      "content": "Anthropic goes public, Jensen Huang wants back in at Nvidia, and software patches seem to be breaking everything. But first, let’s talk about G.T.A."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Dustin Volz, Kate Conger, Dylan Freedman and Sheera Frenkel",
+      "title": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.",
+      "description": "Cybersecurity has been an afterthought since the early days of the internet. Now A.I. is uncovering dormant problems, making the bill come due for decades of vulnerable code.",
+      "url": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/21/multimedia/21DC-OUTAGE-topart-sub-wghl/21DC-OUTAGE-topart-sub-wghl-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-21T19:11:51Z",
+      "content": "Cybersecurity has been an afterthought since the early days of the internet. Now A.I. is uncovering dormant problems, making the bill come due for decades of vulnerable code."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -19,8 +45,47 @@
       "description": "Millennials are answering the beeping call of the pocket-size game that caused a sensation 30 years ago. But analog-craving Gen Zers are, too.",
       "url": "https://www.nytimes.com/2026/11/21/arts/tamagotchis-comeback.html",
       "urlToImage": null,
-      "publishedAt": "2026-11-21T11:05:08Z",
+      "publishedAt": "2026-11-21T18:29:14Z",
       "content": "Millennials are answering the beeping call of the pocket-size game that caused a sensation 30 years ago. But analog-craving Gen Zers are, too."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Emily Steel, Kalley Huang, Ryan Mac and Tripp Mickle",
+      "title": "How Jensen Huang Made Humiliation Routine at Nvidia",
+      "description": "The Nvidia co-founder’s belittling behavior toward employees goes back decades. It once led to a confidential settlement agreement with an executive who said Mr. Huang “terrorized” staff.",
+      "url": "https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/00BIZ-nvidia-culture-jensen-kbpz/00BIZ-nvidia-culture-jensen-kbpz-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-21T15:55:46Z",
+      "content": "The Nvidia co-founder’s belittling behavior toward employees goes back decades. It once led to a confidential settlement agreement with an executive who said Mr. Huang “terrorized” staff."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Tripp Mickle",
+      "title": "What Nvidia’s Interim CEO, Colette Kress, Said to Employees After Jensen Huang’s Resignation",
+      "description": "At an all-hands meeting with employees, Colette Kress sought to put the indiscretions of Nvidia’s co-founder, Jensen Huang, behind them.",
+      "url": "https://www.nytimes.com/2026/11/18/technology/nvidia-jensen-huang-affair-colette-kress.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-nvidia-call-cwjh/18biz-nvidia-call-cwjh-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-21T14:31:30Z",
+      "content": "At an all-hands meeting with employees, Colette Kress sought to put the indiscretions of Nvidia’s co-founder, Jensen Huang, behind them."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Cory Weinberg",
+      "title": "Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon Valley",
+      "description": "The A.I. giant broke records with its initial public offering this week before a rocky first full day of trading, as the markets plunged on worries about artificial intelligence spending.",
+      "url": "https://www.nytimes.com/2026/11/21/business/anthropic-stock-wall-street-silicon-valley.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/20/multimedia/20biz-anthropic-aftermath-cwvh/20biz-anthropic-aftermath-cwvh-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-21T10:03:45Z",
+      "content": "The A.I. giant broke records with its initial public offering this week before a rocky first full day of trading, as the markets plunged on worries about artificial intelligence spending."
     },
     {
       "source": {
@@ -32,7 +97,7 @@
       "description": "If artificial intelligence is giving rise to outages, cyberattacks and more, it’s consistent with history, in that it shows how new innovations often set off calamitous failure before they make life better.",
       "url": "https://www.nytimes.com/2026/11/21/science/outages-tech-history.html",
       "urlToImage": "https://static01.nyt.com/images/2026/11/22/multimedia/22sci-failure-top1-kgbl/22sci-failure-top1-kgbl-mediumSquareAt3X-v4.jpg",
-      "publishedAt": "2026-11-21T10:02:09Z",
+      "publishedAt": "2026-11-21T10:02:10Z",
       "content": "If artificial intelligence is giving rise to outages, cyberattacks and more, it’s consistent with history, in that it shows how new innovations often set off calamitous failure before they make life better."
     },
     {
@@ -76,6 +141,19 @@
     },
     {
       "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Gene Park",
+      "title": "A visual tour of ‘Grand Theft Auto VI’s’ stunningly realized Miami - The Washington Post",
+      "description": "GTA VI’s nightlife is loud. But not as loud as the real thing.",
+      "url": "https://www.washingtonpost.com/style/interactive/2026/11/20/visual-tour-grand-theft-auto-vis-stunningly-realized-miami/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/7JHUFD4K37NPNLKV36CYCJDCZU.JPG&w=1200",
+      "publishedAt": "2026-11-20T18:00:00Z",
+      "content": "Last year, Rockstar asked LoPinto if he was serious. On Nov. 6, E11EVEN began a month-long takeover as NINE1NINE, the games version of his club. The new name went on signs, uniforms and merchandise. … [+350 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -86,6 +164,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-anthropic-employee-wealth-sub-01-cthw/19biz-anthropic-employee-wealth-sub-01-cthw-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-20T17:11:42Z",
       "content": "Many people who joined the A.I. company a few years ago might have had little reason to think how big Anthropic would become. They are now worth tens of millions of dollars, if not more."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "'What happens in GTA 6 stays in GTA 6': Police across US warn fans about taking the game to their real lives - BBC",
+      "description": "The game's fans waited over a decade for this moment, and now police are reminding them \"real-life laws don't come with cheat codes, respawns, or mission restarts\".",
+      "url": "https://www.bbc.com/news/articles/cmvg2e0e9138o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a25a/live/8d9dd5f0-e503-11f1-9e2f-7fb5281f0b3c.jpg",
+      "publishedAt": "2026-11-20T16:29:18Z",
+      "content": "Police departments are reminding Americans that street racing, auto theft and gun violence are still crimes in real life, as excitement over Grand Theft Auto 6, a game following the lives of career c… [+41 chars]"
     },
     {
       "source": {
@@ -102,29 +193,120 @@
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Max Read, Erin Griffith, Whitney Jones, Sawyer Roque, Vjeran Pavic, Katie McMurran, Dan Powell, Marion Lozano, Rowan Niemisto and Elisheba Ittoop",
-      "title": "G.T.A. VI Is a Monumental Human Achievement",
-      "description": "Anthropic goes public, Jensen Huang wants back in at Nvidia, and software patches seem to be breaking everything. But first, let’s talk about G.T.A.",
-      "url": "https://www.nytimes.com/2026/11/20/podcasts/hardfork-gta6-nvidia-anthropic.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/20/podcasts/20hardfork-gta-nvidia-anthropic/20hardfork-gta-nvidia-anthropic-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-20T15:19:25Z",
-      "content": "Anthropic goes public, Jensen Huang wants back in at Nvidia, and software patches seem to be breaking everything. But first, let’s talk about G.T.A."
+      "author": "Andrew Webster",
+      "title": "Let’s talk about GTA VI - The Verge",
+      "description": "Grand Theft Auto 6 has launched on the PS5 and Xbox, and Verge staff are discussing everything about the open-world game.",
+      "url": "https://www.theverge.com/entertainment/1037545/gta-6-discussion",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STKS540_GTA_VI_A.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "publishedAt": "2026-11-20T15:00:00Z",
+      "content": "Group Chat<ul><li></li><li></li></ul>\r\nThe game is finally here, and theres plenty to discuss.\r\nThe game is finally here, and theres plenty to discuss.\r\nby\r\nAndrew WebsterClose\r\nSenior entertainment … [+2540 chars]"
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
+        "id": null,
+        "name": "9to5google.com"
       },
-      "author": "Emily Steel, Kalley Huang, Ryan Mac and Tripp Mickle",
-      "title": "How Jensen Huang Made Humiliation Routine at Nvidia",
-      "description": "The Nvidia co-founder’s belittling behavior toward employees goes back decades. It once led to a confidential settlement agreement with an executive who said Mr. Huang “terrorized” staff.",
-      "url": "https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/00BIZ-nvidia-culture-jensen-kbpz/00BIZ-nvidia-culture-jensen-kbpz-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-20T14:43:10Z",
-      "content": "The Nvidia co-founder’s belittling behavior toward employees goes back decades. It once led to a confidential settlement agreement with an executive who said Mr. Huang “terrorized” staff."
+      "author": "Nicholas Sutrich",
+      "title": "Samsung fans continue to hate on Galaxy S27 Ultra redesign - 9to5Google",
+      "description": "The Samsung Galaxy S27 series is looking to get a big redesign, and fans are already making their voices heard about it on social media.",
+      "url": "http://9to5google.com/2026/11/20/samsung-fans-continue-to-hate-on-galaxy-s27-ultra-redesign/",
+      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/samsung-galaxy-s27-ultra-leak-video.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-11-20T14:48:00Z",
+      "content": "An alleged new video shows Galaxy S27 dummy units that look like the latest leaks, and Samsung fans aren’t having it.\r\nAt this point, it’s anyone’s best guess as to what the Galaxy S27 series looks l… [+1869 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Richard Sima",
+      "title": "Video games like ‘Grand Theft Auto VI’ may have surprising brain benefits - The Washington Post",
+      "description": "Researchers have found that gaming may help improve cognitive skills.",
+      "url": "https://www.washingtonpost.com/wellness/2026/11/20/grand-theft-auto-vi-other-video-games-may-have-surprising-brain-benefits/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/GOXRX2MMR2RZEZW5SRV2OEDOWE.jpg&w=1440",
+      "publishedAt": "2026-11-20T14:13:20Z",
+      "content": "Grand Theft Auto VI has taken the world by storm. Many people are reportedly taking time off from their jobs to immerse themselves in the crime epic. In doing so, they may actually be putting their b… [+13 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Forbes",
+      "title": "The Best Early-Game ‘GTA 6’ Vehicle Isn’t Hidden Or Expensive - Forbes",
+      "description": null,
+      "url": "https://www.forbes.com/sites/paultassi/2026/11/20/the-best-early-game-gta-6-vehicle-isnt-hidden-or-expensive/",
+      "urlToImage": null,
+      "publishedAt": "2026-11-20T14:04:34Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Chance Miller",
+      "title": "iOS 27.3: New features, release date, more - 9to5Mac",
+      "description": "iOS 27.3 is currently in beta testing with developers and public beta users. The update includes multiple new features for...",
+      "url": "https://9to5mac.com/2026/11/20/ios-27-3-new-features-release-date-more/",
+      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/iOS-27-Guide-LG.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-11-20T13:44:00Z",
+      "content": "iOS 27.3 is currently in beta testing with developers and public beta users. The update includes multiple new features for iPhone users, including the redesigned Health app, iPhone Duo updates, and m… [+8606 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Hartley Charlton",
+      "title": "First Look at iPhone Air 2 and iPhone 18 Revealed By Dummy Models - MacRumors",
+      "description": "New images of dummy models offer an early look at the purported designs of the iPhone Air 2 and iPhone 18, showing a new dual rear camera arrangement...",
+      "url": "https://www.macrumors.com/2026/11/20/iphone-air-2-and-iphone-18-dummy-models/",
+      "urlToImage": "https://images.macrumors.com/t/FeJNvcFZUFB1JMwIzOCij-cRBW4=/1600x/article-new/2026/11/iphone-air-2-and-iphone-18-dummy-models.jpg",
+      "publishedAt": "2026-11-20T13:31:19Z",
+      "content": "New images of dummy models offer an early look at the purported designs of the iPhone Air 2 and iPhone 18, showing a new dual rear camera arrangement for the Air and a largely unchanged appearance fo… [+2570 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Jason Parham",
+      "title": "Muse Is Unleashing a World of Pettiness on Instagram - WIRED",
+      "description": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.",
+      "url": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
+      "urlToImage": "https://media.wired.com/photos/6aff9abb37d7793ac7889730/191:100/w_1280,c_limit/Meta-Muse-Pettiness-Culture.jpg",
+      "publishedAt": "2026-11-20T12:00:00Z",
+      "content": "Khalil Roberts had heard horror stories of people getting kicked off Instagram for using third-party apps to purge follower counts, so when he came across an X post claiming that MuseMetas AI assista… [+2297 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The-independent.com"
+      },
+      "author": "Andrew Griffin",
+      "title": "Google says AI is about to pass a huge new threshold – and we need to prepare - The Independent",
+      "description": "‘Superhuman AI’ could arrive ‘relatively smoothly’, researchers from DeepMind say",
+      "url": "https://www.the-independent.com/tech/google-deepmind-ai-agi-asi-b3088640.html",
+      "urlToImage": "https://static.the-independent.com/2026/07/17/15/2285103434..?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+      "publishedAt": "2026-11-20T11:54:00Z",
+      "content": "Artificial intelligence could soon pass through an important threshold and we should start thinking about what it might mean, researchers at Google DeepMind have warned.\r\nFor years, AI researchers an… [+3678 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Techpowerup.com"
+      },
+      "author": null,
+      "title": "New Windows Search Finally Arrives in Windows 11 Update - TechPowerUp",
+      "description": "Microsoft has released the Windows 11 KB5132057 update, which finally introduces the much-anticipated Windows Search update, addressing a longstanding issue with the operating system. The new search box can execute thousands of quick actions typed as simple c…",
+      "url": "https://www.techpowerup.com/355054/new-windows-search-finally-arrives-in-windows-11-update",
+      "urlToImage": "https://www.techpowerup.com/img/bWvTtPkwwefuAI85.jpg",
+      "publishedAt": "2026-11-20T10:46:38Z",
+      "content": "Microsoft has released the Windows 11 KB5132057 update, which finally introduces the much-anticipated Windows Search update, addressing a longstanding issue with the operating system. The new search … [+1778 chars]"
     },
     {
       "source": {
@@ -142,6 +324,19 @@
     {
       "source": {
         "id": null,
+        "name": "Pokemon GO Hub"
+      },
+      "author": "Raj1729",
+      "title": "Pawniard Community Day: Is Kowtow Cleave Kingambit Worth It? - Pokémon GO Hub",
+      "description": "Pawniard Community Day. Read how Kingambit's Community Day Move Kowtow Cleave affects its PvE performance and if it is worth building!",
+      "url": "https://pokemongohub.net/post/meta/pawniard-community-day-is-kowtow-cleave-kingambit-worth-it/",
+      "urlToImage": "https://pokemongohub.net/wp-content/uploads/2026/11/Kingambit.png",
+      "publishedAt": "2026-11-20T09:02:07Z",
+      "content": "Starts\r\nSaturday, November 21, 2026, at \r\n 2:00 PM Local Time\r\nEnds\r\nSaturday, November 21, 2026, at \r\n 5:00 PM Local Time\r\nHello Trainers! Welcome! Hope everyone had a great weekend with the GO Wild… [+3600 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "PCMag.com"
       },
       "author": "Jordan Minor",
@@ -151,19 +346,6 @@
       "urlToImage": "https://i.pcmag.com/imagery/articles/06HMV0EjAsmACTFEZcIne0x-1.fit_lim.size_1200x630.v1795025025.jpg",
       "publishedAt": "2026-11-20T07:13:30Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "GTA 6 breaks records as sales top $2bn - industry estimate - BBC",
-      "description": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
-      "url": "https://www.bbc.com/news/articles/c9zr5nyv5dj2o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5ccb/live/0f9f2750-e493-11f1-a094-5fdc692f3e33.jpg",
-      "publishedAt": "2026-11-20T02:48:47Z",
-      "content": "That figure would rank GTA 6 among the highest-grossing entertainment releases ever, but it would still have some way to go to catch 1939's Gone with the Wind, which has made an estimated $4.5bn, adj… [+19 chars]"
     },
     {
       "source": {
@@ -177,6 +359,32 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/21/business/21biz-google-B1/00biz-google-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-20T01:44:36Z",
       "content": "The Silicon Valley giant’s search advertising has long fueled the company. But its search ad growth is slowing as A.I. becomes more prevalent."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Outside"
+      },
+      "author": "Logan Jones-Wilkins",
+      "title": "State Has a $1,500 Gravel Bike With Real Progressive Geometry and Big Tire Clearance - Outside Magazine",
+      "description": "The alloy bike brings tons of value to modern gravel dimensions, while State has improved some of its more finicky budget components.",
+      "url": "https://velo.outsideonline.com/gravel/gravel-gear/state-6061-all-road-v2/#article",
+      "urlToImage": "https://velo-cdn.outsideonline.com/wp-content/uploads/2026/11/State-6061-All-Road-Cover.jpg",
+      "publishedAt": "2026-11-20T01:41:03Z",
+      "content": "Updated November 19, 2026 06:35PM\r\nToday, State is launching the 6061 All-Road V2, and it packs a ton of value into an alloy frame. Of course, the price jumps out as the biggest draw, but the bike al… [+3989 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "Joey Carr",
+      "title": "How To Save Guns And Weapons You Find In GTA 6 - GameSpot",
+      "description": "There are over 100 possible weapons Jason and Lucia can use in GTA 6, but you need to make sure those weapons save to your loadout if you want to keep using th…",
+      "url": "https://www.gamespot.com/articles/how-to-save-weapons-you-find-in-gta-6/",
+      "urlToImage": "https://www.gamespot.com/wp-content/uploads/2026/11/Jason_and_Lucia_17.117_b11r13mg5_2b2e69.jpg",
+      "publishedAt": "2026-11-20T01:17:27Z",
+      "content": "GameSpot may receive revenue from affiliate and advertising partnerships for sharing this content and from purchases through links.\r\nWeapons are arguably the most important items that you can equip f… [+4211 chars]"
     },
     {
       "source": {
@@ -206,16 +414,55 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Rolling Stone"
+        "id": "mashable",
+        "name": "Mashable"
       },
-      "author": "Nikki McCann Ramirez",
-      "title": "Some Gamers Are Pissed That ‘GTA VI’ Makes Them Be Nice to Their Girlfriend - Rolling Stone",
-      "description": "The new Grand Theft Auto features the franchise's first female protagonist — and some men are mad they have to treat her with respect.",
-      "url": "http://www.rollingstone.com/culture/culture-news/gta-vi-girlfriend-wife-nice-gamers-chuds-1235661480/",
-      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/11/GTA-VI-girlfriend.jpg?w=1600&h=900&crop=1",
-      "publishedAt": "2026-11-19T22:48:52Z",
-      "content": "Fellas, is it emasculating to love your virtual girlfriend? Does buying her flowers make you a cuck? Why can’t you hire a prostitute in the murder and grand larceny game? \r\nAll great questions. Let u… [+4598 chars]"
+      "author": "Alex Perry",
+      "title": "You can finally use Google Gemini to control your MacBook - Mashable",
+      "description": "Take a break and let Gemini do some work for you.",
+      "url": "https://mashable.com/tech/google-gemini-control-macbook-apple",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/078qqi64E6XT21y9umLoLUp/hero-image.fill.size_1200x675.v1795123494.jpg",
+      "publishedAt": "2026-11-20T00:11:16Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Kotaku"
+      },
+      "author": "Imran Khan",
+      "title": "GTA 6 Is Even Better When You Play It Side-By-Side With Your Wife - Kotaku",
+      "description": "It might be the best way to play the game",
+      "url": "https://kotaku.com/gta-6-is-even-better-when-you-play-it-side-by-side-with-your-wife-2000758581",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/11/two-tv-gta-6.jpg",
+      "publishedAt": "2026-11-19T23:30:38Z",
+      "content": "Needless to say, there are lots of people out there currently playing Grand Theft Auto 6, and despite what a lot of headlines and social media jokes insist, its not solely a boys club. Perhaps more t… [+4241 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Miles Klee",
+      "title": "Dudes Online Are So Mad That ‘GTA VI’ Makes Them Respect Women - WIRED",
+      "description": "Much to the dismay of right-wing streamers, being a thoughtful boyfriend is key to the game’s storyline.",
+      "url": "https://www.wired.com/story/dudes-online-are-so-mad-that-gta-vi-makes-them-respect-women/",
+      "urlToImage": "https://media.wired.com/photos/6afe07274e8d4af8d3d5721a/191:100/w_1280,c_limit/Right-Wing-GTA-Woke-Complaints-Culture-Jason_and_Lucia_03.jpg",
+      "publishedAt": "2026-11-19T23:12:00Z",
+      "content": "More frustrated responses to the massively popular GTA VI came from looksmaxxing influencer Braden Peters, aka Clavicular, (the game required too much simping for girls, the streamer, currently facin… [+2894 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Insider-gaming.com"
+      },
+      "author": "Insider Gaming",
+      "title": "Best Early Game Locations For Easy Cash in GTA 6—Chapter One Money Making, Explained - Insider Gaming",
+      "description": null,
+      "url": "https://insider-gaming.com/gta-6-early-game-locations-make-money/",
+      "urlToImage": null,
+      "publishedAt": "2026-11-19T22:51:08Z",
+      "content": null
     },
     {
       "source": {
@@ -229,19 +476,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-anthropic-opentrades-sub-1-cvzt/19biz-anthropic-opentrades-sub-1-cvzt-mediumSquareAt3X-v2.jpg",
       "publishedAt": "2026-11-19T22:45:17Z",
       "content": "The San Francisco company was the first major A.I. lab to go public in a highly anticipated moment for the tech industry, before ending the day valued at $1.7 trillion."
-    },
-    {
-      "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you - TechCrunch",
-      "description": "IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun.",
-      "url": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/11/IconSwapper-Key-Art.jpg?resize=1200,630",
-      "publishedAt": "2026-11-19T22:33:26Z",
-      "content": "There’s a new way to keep an eye on your AI usage and when your limits reset: by using your Mac’s app icons. Yes, really!\r\nDesigner Michael Flarup has just launched a new Mac utility called IconSwapp… [+3700 chars]"
     },
     {
       "source": {
@@ -259,15 +493,15 @@
     {
       "source": {
         "id": null,
-        "name": "MacRumors"
+        "name": "9to5Mac"
       },
-      "author": "Joe Rossignol",
-      "title": "Black Friday Deal: Apple TV Streaming Service for $6.99/Month - MacRumors",
-      "description": "A new Black Friday deal for Apple TV will be rolling out today. Until November 30 at 8 p.m. Pacific Time, new and qualified returning customers in...",
-      "url": "https://www.macrumors.com/2026/11/19/apple-tv-black-friday-streaming-deal/",
-      "urlToImage": "https://images.macrumors.com/t/jb4VFrAh4bvpJS4f7DXXXCtJRQg=/1600x/article-new/2026/04/New-Apple-TV-Logo.jpeg",
-      "publishedAt": "2026-11-19T21:54:07Z",
-      "content": "A new Black Friday deal for Apple TV will be rolling out today. Until November 30 at 8 p.m. Pacific Time, new and qualified returning customers in the U.S. can subscribe to the Apple TV streaming ser… [+119 chars]"
+      "author": "Ryan Christoffel",
+      "title": "Apple TV is now $6.99/month (50% off) for Black Friday, details here - 9to5Mac",
+      "description": "Apple TV has just launched a Black Friday deal that lets new and returning subscribers get the service for just $6.99/month. Details here.",
+      "url": "https://9to5mac.com/2026/11/19/apple-tv-launches-50-off-black-friday-deal-6-99-month-for-6-months/",
+      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-tv-logo-black.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-11-19T21:55:00Z",
+      "content": "Apple TV has just launched a Black Friday deal that lets new and returning subscribers get the service for just $6.99/month for up to six months. Here are the details.\r\nIf you’ve been waiting for the… [+2066 chars]"
     },
     {
       "source": {
@@ -324,19 +558,6 @@
     {
       "source": {
         "id": null,
-        "name": "Droid Life"
-      },
-      "author": "Kellen",
-      "title": "Here’s a Crazy Google Play Perk That Stacks Pixel 11 Pro Discounts to $675 Off - Droid Life",
-      "description": "Since we are starting to track Pixel 11 Pro Black Friday deals, we’ll continue to share updates as we find better deals than the last. I have one that I just stumbled onto through Google Play that could save you $675 off the Pixel 11 Pro XL, and no trade-ins …",
-      "url": "https://www.droid-life.com/2026/11/19/i-found-a-secret-google-play-perk-that-stacks-pixel-11-pro-discounts-to-675-off/",
-      "urlToImage": "https://www.droid-life.com/wp-content/uploads/2026/11/Pixel-11-Pro-vs-Galaxy-Z-Fold-8-4.jpg",
-      "publishedAt": "2026-11-19T21:16:23Z",
-      "content": "Since we are starting to track Pixel 11 Pro Black Friday deals, we’ll continue to share updates as we find better deals than the last. I have one that I just stumbled onto through Google Play that co… [+2560 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "PCMag.com"
       },
       "author": "Jordan Minor",
@@ -388,32 +609,6 @@
     },
     {
       "source": {
-        "id": "ign",
-        "name": "IGN"
-      },
-      "author": "Virginia Glaze",
-      "title": "'Encouraging Real-World Hostility and Violence' — Furry Community Divided by GTA 6 Parody - IGN",
-      "description": "Furries are at odds as to whether or not GTA 6's satirical take on anti-Furry sentiment is harmful to public perception of their community.",
-      "url": "https://www.ign.com/articles/furry-community-divided-by-gta-6-parody",
-      "urlToImage": "https://assets-prd.ignimgs.com/2026/11/19/gta6-furries-blogroll-1795117217714.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "publishedAt": "2026-11-19T19:46:23Z",
-      "content": "Warning: Mild spoilers for a GTA 6 below!\r\nThe Grand Theft Auto franchise is known for parodying aspects of American culture, but one particular bit of satire in GTA 6 is causing a divide in the Furr… [+5780 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Defector.com"
-      },
-      "author": "Luis Paez-Pumar",
-      "title": "There’s Comfort In Conquering The Past - Defector",
-      "description": "The first time I played The Legend of Zelda: Ocarina of Time was during a hurricane. It was late 1999, I was 10 years old, Hurricane Irene was bearing down on Miami, and my friend Ryan had come over to spend the night. He had brought his copy of Ocarina of Ti…",
-      "url": "https://defector.com/theres-comfort-in-conquering-the-past",
-      "urlToImage": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/11/smallerNS2_TheLegendofZeldaOcarinaofTime_scrn_04.png",
-      "publishedAt": "2026-11-19T19:34:00Z",
-      "content": "The first time I played The Legend ofZelda: Ocarina of Time was during a hurricane. It was late 1999, I was 10 years old, Hurricane Irene was bearing down on Miami, and my friend Ryan had come over t… [+8872 chars]"
-    },
-    {
-      "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
@@ -427,19 +622,6 @@
     },
     {
       "source": {
-        "id": "polygon",
-        "name": "Polygon"
-      },
-      "author": "Patricia Hernandez",
-      "title": "'GTA 6' Is Triggering Men Who Are Learning How To Have A Girlfriend - Polygon.com",
-      "description": "GTA 6 fans weren't expecting that keeping Lucia happy would require any actual work on Jason's part despite Rockstar's focus on the relationship",
-      "url": "https://www.polygon.com/gta-6-lucia-boyfriend-girlfriend-relationship-simulator/",
-      "urlToImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/gta-6-jason-and-lucia-3.jpg?w=1600&h=900&fit=crop",
-      "publishedAt": "2026-11-19T19:30:17Z",
-      "content": "Young men in relationships around the world have spent the last few weeks warning their significant others about Nov. 19. On that day, and for their forseeable future, the men in their lives would be… [+5494 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -450,32 +632,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/02/multimedia/19anthropic-ipo-financials-version/02Biz-Anthropic-Earnings-lvbz-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-19T19:30:04Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": "business-insider",
-        "name": "Business Insider"
-      },
-      "author": "Ben Shimkus",
-      "title": "Big Tech companies are the butt of the joke in 'GTA 6' - Business Insider",
-      "description": "\"GTA 6\" gives Vice City its own app economy. From Amazon to Uber knockoffs, here's how Rockstar Games satirized our own tech world.",
-      "url": "https://www.businessinsider.com/gta-6-silicon-valley-references-rydeme-sahara-whatup-buckme-snapmatic-2026-11#article",
-      "urlToImage": "https://i.insider.com/6aff21970b69407d788a471e?width=1200&format=jpeg",
-      "publishedAt": "2026-11-19T19:24:00Z",
-      "content": "The \"Grand Theft Auto\" franchise has long skewered American life with a parade of double entendres.\r\nTake \"GTA 5\" as an example. Rockstar Games built Los Santos as a dystopic Los Angeles look-alike, … [+990 chars]"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Natalie Lung",
-      "title": "Google’s Gemini Can Now Control Mac Devices on Users’ Behalf - Bloomberg.com",
-      "description": "Google’s Gemini can now take control of Mac computers to complete tasks for users, matching a feature already offered by other popular AI assistants and raising the pressure on Apple Inc. to make Siri more capable.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-19/google-s-gemini-can-now-control-mac-devices-on-users-behalf",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i0q4.GejlMU8/v0/1200x800.jpg",
-      "publishedAt": "2026-11-19T18:55:31Z",
-      "content": "Googles Gemini can now take control of Mac computers to complete tasks for users, matching a feature already offered by other popular AI assistants and raising the pressure on Apple Inc. to make Siri… [+386 chars]"
     },
     {
       "source": {
@@ -506,19 +662,6 @@
     {
       "source": {
         "id": null,
-        "name": "Kotaku"
-      },
-      "author": "Rebekah Valentine",
-      "title": "Ubisoft Says It Has A 'Very Big Pipeline Of Productions' As It Lays Off Over 150 More Developers And Starts An AI Studio - Kotaku",
-      "description": "'Our production needs are changing'",
-      "url": "https://kotaku.com/ubisoft-lays-off-over-150-more-developers-with-no-big-releases-in-sight-2000758467",
-      "urlToImage": "https://kotaku.com/app/uploads/2023/02/db4438eec8aa988983cf2b0a7aa81229-1200x675.jpg",
-      "publishedAt": "2026-11-19T18:16:00Z",
-      "content": "Ahead of its quarterly earnings release and without any major releases on the horizon, Ubisoft is laying off 166 of its employees in Montreal and Quebec.\r\nThis was reported today by Vertical Slice, w… [+3256 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "MacRumors"
       },
       "author": "Juli Clover",
@@ -544,6 +687,19 @@
     },
     {
       "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "SamMobile",
+      "title": "One UI 9.5 brings a notable change to Galaxy S26 camera - SamMobile",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMHFYRHFhQ2s0Vzc2cHVkQ0ZjVzkybWVtUEJwOWJoUldGdXo1c1JXbFBGSF8wdk9ZRC1laklCajFuejVyNnZnZG56SERXSjE5aDZIQXhObjBiN2pGMjROdTdLWlhhVG04NlRxXzd5djhkQ3dDdjZxMjN1VjZTTjRLUFBkWlR5cVY1?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-11-19T17:46:00Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": null,
         "name": "Nintendoeverything.com"
       },
@@ -557,16 +713,29 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Nintendoeverything.com"
+        "id": "the-verge",
+        "name": "The Verge"
       },
-      "author": "Brian",
-      "title": "Top 20 best-selling Wii games of all time in the U.S. revealed - Nintendo Everything",
-      "description": "The Wii just celebrated its 20th anniversary, and in honor of the occasion, Circana released a new set of data revealing the top 20 best-selling games of all time in the United States. The top spot goes to Wii Play. That game was known for selling very well, …",
-      "url": "https://nintendoeverything.com/top-20-best-selling-wii-games-of-all-time-in-the-u-s-revealed/",
-      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Best-selling-Wii-games-US.jpg",
-      "publishedAt": "2026-11-19T17:16:09Z",
-      "content": "The Wii just celebrated its 20th anniversary, and in honor of the occasion, Circana released a new set of data revealing the top 20 best-selling games of all time in the United States.\r\nThe top spot … [+1104 chars]"
+      "author": "Cameron Faulkner",
+      "title": "Amazon’s last-gen Kindle Paperwhite hasn’t been this cheap since June - The Verge",
+      "description": "Ahead of Black Friday, Amazon has taken $70 off the usual price of its 2024 Kindle Paperwhite. It’s a great deal if you want a waterproof e-reader.",
+      "url": "https://www.theverge.com/gadgets/1037635/amazon-kindle-paperwhite-black-friday-2026-deal-sale",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/amazon_kindle_paperwhite1B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2026-11-19T17:15:00Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nAt $129.99, its just $10 more than the base Kindle, only with a bunch of extra features.\r\nAt $129.99, its just $10 more than the base Kindle, only with a bunch o… [+2940 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Joe Rossignol",
+      "title": "Apple Announces 2026 Black Friday Event, Here's What You Can Get - MacRumors",
+      "description": "Apple's annual four-day Black Friday through Cyber Monday shopping event is returning on Friday, November 27 through Monday, November 30 in many...",
+      "url": "https://www.macrumors.com/2026/11/19/apple-announces-2026-black-friday-event/",
+      "urlToImage": "https://images.macrumors.com/t/sxU3j3IYEi4Rv1c7CvThR2Wh9-U=/1600x/article-new/2026/11/Apple-2026-Black-Friday-Event-Hero.jpg",
+      "publishedAt": "2026-11-19T17:11:26Z",
+      "content": "Apple's annual four-day Black Friday through Cyber Monday shopping event is returning on Friday, November 27 through Monday, November 30 in many countries, including the United States, Canada, Austra… [+3966 chars]"
     },
     {
       "source": {
@@ -580,6 +749,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/18xp-prep-outage-hvjq/18xp-prep-outage-hvjq-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-19T16:49:41Z",
       "content": "A cascade of tech failures has rattled Americans and prompted many to look for ways to prepare for a prolonged digital disruption. Experts say it’s much like preparing for a storm."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Ben Schoon",
+      "title": "Motorola’s iPhone Duo competitor, Razr Flex, leaks in detailed images [Gallery] - 9to5Google",
+      "description": "Motorola’s Razr Flex has leaked in full, with the iPhone Duo competitor showing off its wide form factor in two...",
+      "url": "http://9to5google.com/2026/11/19/motorola-razr-flex-iphone-duo-leak/",
+      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/motorola-razr-flex-leak-sg-1.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-11-19T16:40:00Z",
+      "content": "Motorola’s Razr Flex has leaked in full, with the iPhone Duo competitor showing off its wide form factor in two colors, and it looks great.\r\nFollowing a leaker earlier this morning, SammyGuru has pub… [+969 chars]"
     },
     {
       "source": {
@@ -597,15 +779,15 @@
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "Android Police"
       },
-      "author": "Suzy Byrne",
-      "title": "'GTA 6' launch could make gaming history. Its mature rating should give parents pause. - Yahoo",
-      "description": "We break down what parents should know about 'GTA 6' content, how to handle your child's \"everyone else is playing\" argument and where to set boundaries.",
-      "url": "https://www.yahoo.com/entertainment/article/gta-6-launch-could-make-gaming-history-its-mature-rating-should-give-parents-pause-155546021.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/d2c9848fb5797f682dcba011addf60c6a9f0bcb10bc619bebf1478d44302ed4d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Flead-gta-parents_0234.jpg",
-      "publishedAt": "2026-11-19T16:13:44Z",
-      "content": "Grand Theft Auto VI has finally arrived and a full-on pop culture takeover may be underway.\r\nThe latest installment in Rockstar Games' blockbuster crime franchise, which arrived at midnight local tim… [+6563 chars]"
+      "author": "Jade Bryan Jardinico",
+      "title": "Android 17 QPR3 update could bring 'monster' battery life to Pixel phones - Android Police",
+      "description": "Google said it fixed nasty battery and performance bugs in the latest beta",
+      "url": "https://www.androidpolice.com/android-17-qpr3-update-could-bring-monster-battery-life-to-google-pixel-phones/",
+      "urlToImage": "https://static0.anpoimages.com/wordpress/wp-content/uploads/wm/2026/09/google-pixel-11-pro-screen-rock.JPG?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-11-19T16:16:20Z",
+      "content": "If you're facing battery woes after the recent Android 17 QPR2 update, you're not alone. Many Pixel users have reported worse battery life after recent QPR2 releases and even earlier builds. \r\nHoweve… [+2905 chars]"
     },
     {
       "source": {
@@ -619,6 +801,19 @@
       "urlToImage": "https://assets-prd.ignimgs.com/2026/11/19/optional-blog-c-1795092990860.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "publishedAt": "2026-11-19T16:00:00Z",
       "content": "This article is designed to point you in the direction of some of GTA 6s best side missions. While there are no story spoilers, I will be guiding you on how to find each quest-giver to make sure you … [+7456 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gematsu"
+      },
+      "author": "Sal Romano",
+      "title": "Ubisoft lays off 166 staff at Montreal and Quebec studios - Gematsu",
+      "description": "Ubisoft has laid off 166 staff across its Ubisoft Montreal and Ubisoft Quebec studios, the company announced.",
+      "url": "https://www.gematsu.com/2026/11/ubisoft-lays-off-166-staff-at-montreal-and-quebec-studios",
+      "urlToImage": "https://www.gematsu.com/wp-content/uploads/2026/11/Ubisoft-Layoffs_11-19-26.jpg",
+      "publishedAt": "2026-11-19T15:59:21Z",
+      "content": "Ubisoft has laid off 166 staff across its Ubisoft Montreal and Ubisoft Quebec studios, the company announced. \r\n“Ubisoft is reducing its workforce by 166 positions across its Montreal and Quebec City… [+803 chars]"
     },
     {
       "source": {
@@ -636,6 +831,19 @@
     {
       "source": {
         "id": null,
+        "name": "9to5google.com"
+      },
+      "author": "Abner Li",
+      "title": "Google Fi app redesign brings floating toolbar & Ask Fi - 9to5Google",
+      "description": "Google Fi Wireless is the latest first-party app to adopt a floating toolbar as part of a small navigation redesign.",
+      "url": "http://9to5google.com/2026/11/19/google-fi-floating-toolbar/",
+      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2023/04/google-fi-new-logo-2023-2.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-11-19T15:30:00Z",
+      "content": "Google Fi Wireless is the latest first-party app to adopt a floating toolbar as part of a small navigation redesign.\r\nPreviously, the companion app still used a tall Material 3 bottom bar. With the n… [+1248 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "MacRumors"
       },
       "author": "Joe Rossignol",
@@ -649,15 +857,28 @@
     {
       "source": {
         "id": null,
-        "name": "Forbes"
+        "name": "Escorenews.com"
       },
-      "author": "Paul Tassi",
-      "title": "The Best Ways To Earn Money In ‘GTA 6,’ Early, Mid- And Late-Game - Forbes",
-      "description": "Everyone needs cash in 'GTA 6,' but the best ways to earn money depend on which stage of the game you're in: early, middle or late.",
-      "url": "https://www.forbes.com/sites/paultassi/2026/11/19/the-best-ways-to-earn-money-in-gta-6-early-mid-and-late-game/",
-      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6afe5438f789deb5cb32c6ca/0x0.jpg?format=jpg&crop=3840,2160,x0,y0,safe&height=900&width=1600&fit=bounds",
-      "publishedAt": "2026-11-19T14:44:50Z",
-      "content": "Money. Its the name of the game in almost all Grand Theft Auto games, and that is certainly true in GTA 6 as you try to crawl out of poverty as Jason and Lucia and pick up cars, guns and more as you … [+3777 chars]"
+      "author": "escorenews.com",
+      "title": "How to find strip clubs in GTA 6: all locations, is there sex and nudity, and how to get a private dance - escorenews.com",
+      "description": null,
+      "url": "https://escorenews.com/en/article/82818-how-to-find-strip-clubs-in-gta-6-all-locations-is-there-sex-and-nudity-and-how-to-get-a-private-dance",
+      "urlToImage": null,
+      "publishedAt": "2026-11-19T14:52:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TechSpot"
+      },
+      "author": "Zo Ahmed",
+      "title": "Intel says its graphics-free D270 GPU beats Nvidia's RTX Pro 6000 by up to 5.9x in benchmarks - TechSpot",
+      "description": "In a post, Intel put the D270 up against Nvidia's RTX Pro 6000 Blackwell Server Edition. Instead of games or AI models, Intel went with something a...",
+      "url": "https://www.techspot.com/news/114624-intel-graphics-free-d270-gpu-beats-nvidia-rtx.html",
+      "urlToImage": "https://www.techspot.com/images2/news/bigimage/2026/11/2026-11-19-image-6.jpg",
+      "publishedAt": "2026-11-19T14:49:00Z",
+      "content": "In context: Intel first teased Crescent Island over a year ago as a data center GPU that can't even render graphics. It has none of the 3D or ray-tracing hardware you'd find on a regular graphics car… [+2258 chars]"
     },
     {
       "source": {
@@ -688,6 +909,19 @@
     {
       "source": {
         "id": null,
+        "name": "IMDb"
+      },
+      "author": "IMDb",
+      "title": "Cyberleek Shares More GTA 6 Footage Featuring Lucia Naked - IMDb",
+      "description": null,
+      "url": "https://www.imdb.com/news/ni66063856/",
+      "urlToImage": null,
+      "publishedAt": "2026-11-19T14:02:30Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
         "name": "GQ Magazine"
       },
       "author": "Simon Parkin",
@@ -697,6 +931,19 @@
       "urlToImage": "https://media.gq.com/photos/6afdf7fd8caf1422281e4dd6/16:9/w_1280,c_limit/GTA%206%20copy.jpg",
       "publishedAt": "2026-11-19T14:00:00Z",
       "content": "Since 1984, when Elite first used procedural generation to conjure an entire galaxy on a computer screen, game designers have learned to produce universes from scant technological resources. But in t… [+2381 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SamMobile"
+      },
+      "author": "Asif Iqbal Shaik",
+      "title": "Exclusive: Samsung will use AI to give you weather updates for your destination - SamMobile",
+      "description": "One UI 9.5 brings AI weather alerts to Samsung's Weather app, automatically showing forecasts for your upcoming flights and meetings.",
+      "url": "https://www.sammobile.com/news/exclusive-samsung-will-use-ai-to-give-you-weather-updates-for-your-destination/",
+      "urlToImage": "https://www.sammobile.com/wp-content/uploads/2025/04/Samsung-Weather-1.jpg",
+      "publishedAt": "2026-11-19T13:41:00Z",
+      "content": "Samsung is making its phones smarter using AI. Even something as basic as the Weather app is getting an intelligent upgrade with One UI 9.5, as the phone pulls information from other stock One UI app… [+1519 chars]"
     },
     {
       "source": {
@@ -714,54 +961,54 @@
     {
       "source": {
         "id": null,
-        "name": "Yahoo Entertainment"
+        "name": "Nintendoeverything.com"
       },
-      "author": "Kim Lyons",
-      "title": "PlayStation Network outage has been resolved after it was down for thousands as 'GTA' launches today - Yahoo Tech",
-      "description": "Downdetector was showing a spike in outages on the PS network",
-      "url": "https://tech.yahoo.com/gaming/breaking-news/article/playstation-network-outage-has-been-resolved-after-it-was-down-for-thousands-as-gta-launches-today-130407145.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/6d2d55862d501f6b339a1736def9815395c52f953e6da312b8efbaa3b655d26a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-01%2Ff6710040-e6e7-11f0-9f7f-19982b1c3465",
-      "publishedAt": "2026-11-19T13:04:07Z",
-      "content": "PlayStation Network services have been restored after thousands of users reported outages while preparing their consoles for the launch of Grand Theft Auto VI.\r\nThe website outage trackerDowndetector… [+1785 chars]"
+      "author": "Brian",
+      "title": "Famitsu sales (11/9/26 – 11/15/26) – Zelda: Ocarina of Time’s second week of sales are in - Nintendo Everything",
+      "description": "The latest Japanese hardware sales from Famitsu are as follows: Switch 2 – 42,402 PS5 Digital Edition – 10,448 Switch Lite – 2,197 Switch OLED – 973 PS5 Pro – 594 Switch – 582 Xbox Series X Digital Edition – 338 Xbox Series X – 331 PS5 – 94 Xbox Series S – 38…",
+      "url": "https://nintendoeverything.com/famitsu-sales-11-9-26-11-15-26-zelda-ocarina-of-times-second-week-of-sales-are-in/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Ocarina-5.jpg",
+      "publishedAt": "2026-11-19T13:15:48Z",
+      "content": "The latest Japanese hardware sales from Famitsu are as follows:\r\nSwitch 2 – 42,402PS5 Digital Edition – 10,448Switch Lite – 2,197Switch OLED – 973PS5 Pro – 594Switch – 582Xbox Series X Digital Editio… [+935 chars]"
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Jason Venter",
+      "title": "20 Years Ago, Nintendo’s Awkwardly Named Console Defied All Its Biggest Doubters - Polygon.com",
+      "description": "Nintendo's trajectory was a wee bit off until it course corrected with one terrific device.",
+      "url": "https://www.polygon.com/nintendo-wii-20th-anniversary/",
+      "urlToImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/mario-sports.jpg?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-11-19T12:00:18Z",
+      "content": "Nintendo is a force in the video game industry, currently riding high with the Switch 2, but it has had dips and missteps like any other company. After strong performances during the 8-bit and 16-bit… [+5239 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Simon Cardy",
+      "title": "You Will Not Believe What I Had To Do To Get a Six-Star Wanted Level in GTA 6 - IGN",
+      "description": "GTA 6 sees the return of the classic six-star wanted system, but gaining the highest level demands much more outrageous criminal behaviour than you might expect.",
+      "url": "https://www.ign.com/articles/you-have-to-become-a-complete-psychopath-to-get-a-6-star-wanted-level-in-gta-6",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/11/19/6-star-blog-2-1795085938084.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2026-11-19T12:00:00Z",
+      "content": "Warning: things are about to get very silly, and you may even question if I have a soul left to save.\r\nFollowing a brief dip down to five stages in GTA 5, the full six-star wanted level system is bac… [+7779 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Iranintl.com"
+        "name": "Android Authority"
       },
-      "author": "Hooman Abedi",
-      "title": "GTA 6 costs, slow internet frustrate Iranian gamers, fuel satire - Iran International",
-      "description": "The release of Grand Theft Auto VI has sparked excitement, frustration and political satire among Iranian gamers, who face soaring prices, slow internet speeds and barriers to international payments.",
-      "url": "https://www.iranintl.com/en/202611194415",
-      "urlToImage": "https://i.iranintl.com/images/rdk9umy0/production/bfd6d4e6039d050ca7fc7f744700828d2ed2fffc-8009x5342.jpg?rect=0,569,8009,4205&w=1200&h=630&q=66&fit=max&auto=format",
-      "publishedAt": "2026-11-19T13:01:29Z",
-      "content": "Iran faces a peak gas deficit of about 430 million cubic meters daily, compared with 300 million before US-Israeli strikes damaged its energy infrastructure.\r\nHouseholds take priority, but how much o… [+5378 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Ben Lovejoy",
-      "title": "OLED iMac plans may be cancelled by Apple for two reasons - 9to5Mac",
-      "description": "Apple is considering abandoning plans to launch an OLED iMac, according to a new supply chain report. The news comes...",
-      "url": "https://9to5mac.com/2026/11/19/oled-imac-plans-may-be-cancelled-by-apple-for-two-reasons/",
-      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/OLED-iMac-may-be-cancelled-by-Apple-for-two-reasons.jpg?quality=82&strip=all&resize=1200,628",
-      "publishedAt": "2026-11-19T12:51:00Z",
-      "content": "Apple is considering abandoning plans to launch an OLED iMac, according to a new supply chain report. The news comes just weeks after the first OLED Mac was launched in the form of the new touchscree… [+1648 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Chance Miller",
-      "title": "Apple announces Black Friday deals on iPhone, iPad, Mac, and more - 9to5Mac",
-      "description": "Apple has officially announced this year’s Black Friday promotion. Starting Friday, you can score up to $300 in gift cards...",
-      "url": "https://9to5mac.com/2026/11/19/apple-announces-black-friday-deals-on-iphone-ipad-mac-and-more/",
-      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-gifts.jpeg?quality=82&strip=all&resize=1200,628",
-      "publishedAt": "2026-11-19T12:05:00Z",
-      "content": "Apple has officially announced this years Black Friday promotion. Starting Friday, you can score up to $300 in gift cards when you buy an eligible Apple product.\r\nApples announcement comes as Amazon … [+3162 chars]"
+      "author": null,
+      "title": "Exclusive: Samsung’s upcoming 14-inch and 16-inch Android laptops are codenamed ‘Origin’ - Android Authority",
+      "description": "One UI 9.5 beta code reveals two Samsung \"Origin\" Android laptops with 14- and 16-inch screens, Snapdragon X Elite chips, and more.",
+      "url": "https://www.androidauthority.com/samsung-origin-android-laptops-one-ui-9-5-apk-teardown-3737102/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2026/01/Samsung-Galaxy-Book-6-Ultra-7-of-7.jpg",
+      "publishedAt": "2026-11-19T11:27:00Z",
+      "content": "<ul><li>Code in Samsungs One UI 9.5 Beta 1 reveals two upcoming Wi-Fi-only Android laptops codenamed origin14wifi and origin16wifi (likely model numbers XE940 and XE960), likely featuring 14-inch and… [+10868 chars]"
     },
     {
       "source": {
@@ -778,6 +1025,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "PCMag.com"
+      },
+      "author": "James Peckham",
+      "title": "Microsoft Is Killing To Do, Leaving You 7 Months to Find an Alternative - PCMag",
+      "description": "Work and school subscribers are encouraged to switch to Planner, but ordinary people are left without a suitable Microsoft-branded option.",
+      "url": "https://www.pcmag.com/news/microsoft-is-killing-to-do-leaving-you-7-months-to-find-an-alternative",
+      "urlToImage": "https://i.pcmag.com/imagery/articles/00jAwwPVwifB999vNW6O06v-1.fit_lim.size_1200x630.v1795082890.jpg",
+      "publishedAt": "2026-11-19T10:58:20Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": "ign",
         "name": "IGN"
       },
@@ -788,6 +1048,19 @@
       "urlToImage": "https://assets-prd.ignimgs.com/2026/11/19/prologue-blog-1795085546484.jpg?width=1280&format=jpg&auto=webp&quality=80",
       "publishedAt": "2026-11-19T10:30:00Z",
       "content": "Although it may seem like youre being overwhelmed from all angles by the police after Lucias bungled robbery in GTA 6s prologue, it is technically possible to evade them and make a clean getaway. Tha… [+6117 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Kyle Phillippi",
+      "title": "I Played GTA 3 As a Kid. Now As a Dad I Sneak Away to Play GTA 6. - Business Insider",
+      "description": "I grew up loving Grand Theft Auto. Now I'm 34 with a wife, son, and mortgage, trying to squeeze GTA 6 into my busy life.",
+      "url": "https://www.businessinsider.com/gta-6-gaming-as-dad-work-parenting-responsibilities-2026-11#article",
+      "urlToImage": "https://i.insider.com/6afc52d5f0664acecacb99c7?width=1200&format=jpeg",
+      "publishedAt": "2026-11-19T10:05:00Z",
+      "content": "I had just ripped open a pack of Pokémon cards earlier in the day. I had just wrapped up that evening's episode of \"Survivor: Africa,\" and I was now sneaking up to my brother's room to watch him play… [+4708 chars]"
     },
     {
       "source": {
@@ -804,29 +1077,29 @@
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
+        "id": null,
+        "name": "GSMArena.com"
       },
-      "author": "Tripp Mickle",
-      "title": "What Nvidia’s Interim CEO, Colette Kress, Said to Employees After Jensen Huang’s Resignation",
-      "description": "At an all-hands meeting with employees, Colette Kress sought to put the indiscretions of Nvidia’s co-founder, Jensen Huang, behind them.",
-      "url": "https://www.nytimes.com/2026/11/18/technology/nvidia-jensen-huang-affair-colette-kress.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-nvidia-call-cwjh/18biz-nvidia-call-cwjh-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-19T05:11:14Z",
-      "content": "At an all-hands meeting with employees, Colette Kress sought to put the indiscretions of Nvidia’s co-founder, Jensen Huang, behind them."
+      "author": "Sagar",
+      "title": "Motorola Razr Fold finally receives Android 17 stable update - GSMArena.com news - GSMArena.com",
+      "description": "The update rollout is limited to select markets, though. Motorola rolled out the stable Android 17 update to some of its folding and non-folding...",
+      "url": "https://www.gsmarena.com/motorola_razr_fold_android_17_stable_update-news-75536.php",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/26/06/moto-razr-fold-ifr/-952x498w6/gsmarena_000.jpg",
+      "publishedAt": "2026-11-19T07:51:02Z",
+      "content": "Motorola rolled out the stable Android 17 update to some of its folding and non-folding smartphones, but it left users of its most expensive folding smartphone, the Razr Fold, waiting. Well, the wait… [+1113 chars]"
     },
     {
       "source": {
-        "id": "polygon",
-        "name": "Polygon"
+        "id": "the-times-of-india",
+        "name": "The Times of India"
       },
-      "author": "Giovanni Colantonio",
-      "title": "All Cheat Codes in GTA 6 - Polygon.com",
-      "description": "Grand Theft Auto 6 features a huge list of cheats. Here's how to unlock them all, and what each one does.",
-      "url": "https://www.polygon.com/gta-6-cheat-codes-list-unlock/",
-      "urlToImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-6-jasopn-lucia-bank-robbery.jpg?w=1600&h=900&fit=crop",
-      "publishedAt": "2026-11-19T05:01:18Z",
-      "content": "The best part about any Grand Theft Auto game is the cheats, and Grand Theft Auto 6 delivers on that front. Rockstar's latest includes a whole mess of password-protected secrets that will really let … [+11923 chars]"
+      "author": "Trending Desk",
+      "title": "GTA 6 players are obsessed with Mandy, but Jason can't romance her - here's why - The Times of India",
+      "description": "GTA 6 players have already latched onto a breakout character just hours after launch, and for once, it isn't Lucia.",
+      "url": "https://timesofindia.indiatimes.com/etimes/trending/gta-6-players-are-obsessed-with-mandy-but-jason-cant-romance-her-heres-why/articleshow/135981238.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-135981434,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-11-19T07:30:00Z",
+      "content": null
     },
     {
       "source": {
@@ -870,28 +1143,15 @@
     {
       "source": {
         "id": null,
-        "name": "SamMobile"
+        "name": "Theautopian.com"
       },
-      "author": "SamMobile",
-      "title": "Samsung just broke an 8-year habit with the One UI 9.5 beta - SamMobile",
-      "description": null,
-      "url": "https://www.sammobile.com/news/samsung-broke-8-year-habit-one-ui-9-5-beta/",
-      "urlToImage": null,
-      "publishedAt": "2026-11-19T02:04:00Z",
+      "author": "Thomas Hundal",
+      "title": "It Turns Out A New Mustang Wearing The Clothes Of An Old One Looks Deeply, Deeply Unsettling - The Autopian",
+      "description": "The Vintage Modern Fastback is a new Mustang made to look like an old one, but the proportions and surfacing are a bit off.",
+      "url": "https://www.theautopian.com/it-turns-out-a-new-mustang-wearing-the-clothes-of-an-old-one-looks-deeply-deeply-unsettling/",
+      "urlToImage": "https://images-stag.jazelc.com/uploads/theautopian-m2en/20261118191121/vintage-modern-fastback_TS2.jpg",
+      "publishedAt": "2026-11-19T01:03:16Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "RoadandTrack.com"
-      },
-      "author": "Emmet White",
-      "title": "The Vintage Modern Fastback Is the Anti-Restomod Mustang - Road & Track",
-      "description": "Take one S650-gen Mustang GT; add 900 hours of labor and carbon-fiber body parts; serve with 840 hp.",
-      "url": "https://www.roadandtrack.com/news/a74457515/vintage-modern-fastback-restomod-mustang-build-details/",
-      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/658c2e55-36b0-48ad-a877-cab10950d3a2.jpg?crop=0.773xw:0.87xh;0.099xw,0.051xh&resize=1200:*",
-      "publishedAt": "2026-11-19T01:00:00Z",
-      "content": "Taking a vintage muscle car and swapping in modern components to make it run better or add power is a story as old as, well, the LS2 V-8. Vintage Moderns new Fastback Mustang turns that formula upsid… [+3020 chars]"
     },
     {
       "source": {
@@ -934,19 +1194,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "GamesRadar+"
-      },
-      "author": "Josh West",
-      "title": "How weapon ownership works in GTA 6 - GamesRadar+",
-      "description": "The difference between owned weapons, unowned weapons, and unique weapon variants in GTA 6",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-weapon-ownership-explained/",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/o974sHhptt5kXR6fW5fXzV-1920-80.jpg",
-      "publishedAt": "2026-11-19T00:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -973,19 +1220,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Sammyguru.com"
-      },
-      "author": "David Buliga",
-      "title": "Exclusive: Galaxy Studio Has an 870mAh Battery, Wear Detection and a 3.5mm Jack - SammyGuru",
-      "description": "Exclusive APK findings reveal Samsung's Galaxy Studio headphones with ANC, 360 Audio, an 870mAh battery, wear detection, and USB-C and 3.5mm wired audio.",
-      "url": "https://sammyguru.com/samsung-galaxy-studio-features-specs-exclusive/",
-      "urlToImage": "https://sammyguru.com/wp-content/uploads/2026/11/galaxy-studio-controls-featured-cf11cf6f5e.jpg",
-      "publishedAt": "2026-11-18T23:26:04Z",
-      "content": "SammyGuru is reader-supported. We have affiliate and sponsored partnerships, so we may earn a commission when you buy through links on our site, at no extra cost to you. Posts may contain sponsored o… [+7539 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -996,19 +1230,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-GoogleAI-schools-2-02-gmlp/18biz-GoogleAI-schools-2-02-gmlp-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-18T23:23:06Z",
       "content": "Google’s refusal to unbundle A.I. features from search for students prompted a backlash. Now schools are looking for alternatives."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PlayStation LifeStyle"
-      },
-      "author": "Nitish Singh",
-      "title": "GTA 6: Mandy’s NSFW Photos Make Fans Completely Forget Lucia Exists - Yahoo Tech",
-      "description": "GTA 6 fans have found a new character to obsess over, shifting the spotlight away from Lucia Caminos. Mandy, who appears early in the game, has taken social...",
-      "url": "https://www.playstationlifestyle.net/2026/11/18/gta-6-mandy-nsfw-photos-fans-forget-lucia",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/e2dad9bfc5e618628646a27edb33b42f320024982b4addfa5d9473ef74461d01/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fplaystation_lifestyle_666%2F83641f934641aa16e4349e4a5fc2efc2.png",
-      "publishedAt": "2026-11-18T23:17:15Z",
-      "content": "GTA 6 fans have found a new character to obsess over, shifting the spotlight away from Lucia Caminos. Mandy, who appears early in the game, has taken social media by storm after players shared screen… [+2015 chars]"
     },
     {
       "source": {
@@ -1025,16 +1246,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Video Games Chronicle"
+        "id": "axios",
+        "name": "Axios"
       },
-      "author": "Rhiannon Bevan",
-      "title": "Republican Congressman says you’re a ‘bad parent’ if you let your child play GTA 6 - Video Games Chronicle",
-      "description": "Congressman Tim Burchett says GTA 6 \"desensitises\" children to violence",
-      "url": "https://www.videogameschronicle.com/news/republican-congressman-says-youre-a-bad-parent-if-you-let-your-child-play-gta-6/",
-      "urlToImage": "https://www.videogameschronicle.com/files/2026/11/gta-grand-theft-auto-6-pic15.jpg",
-      "publishedAt": "2026-11-18T20:53:44Z",
-      "content": "US Congressman Tim Burchett has spoken out against Grand Theft Auto 6, accusing the game of being a “how-to video” on committing crime.\r\nSpeaking with reporters on the eve of GTA 6’s release, Burchet… [+1724 chars]"
+      "author": "Herb Scribner",
+      "title": "PlayStation suffers major outage hours before \"GTA VI\" launch - Axios",
+      "description": "The downed servers come amid a flurry of glitches nationwide.",
+      "url": "https://www.axios.com/2026/11/18/gta-6-playstation-psn-servers",
+      "urlToImage": "https://images.axios.com/RUz64Fv8VJ2jr3kutL8jD0dOgvo=/0x238:6753x4036/1366x768/2026/11/18/1795028903724.jpeg",
+      "publishedAt": "2026-11-18T19:59:38Z",
+      "content": "<ul><li>The downed servers came amid a flurry of glitches and downtime affecting governments, banks, and a slew of other industries.</li></ul>Driving the news: \"You might have difficulty launching ga… [+1131 chars]"
     },
     {
       "source": {
@@ -1064,16 +1285,16 @@
     },
     {
       "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
+        "id": null,
+        "name": "Aftermath.site"
       },
-      "author": "Tim Reynolds",
-      "title": "The Vice City Heat: Miami’s NBA team goes all in on ‘Grand Theft Auto VI’ collaboration - AP News",
-      "description": "The Miami Heat have teamed up with Rockstar Games to celebrate the launch of “Grand Theft Auto VI.” On Wednesday, the Heat will play the Milwaukee Bucks on a special Vice City-themed court, wearing unique uniforms. Vice City, the video game's fictional settin…",
-      "url": "https://apnews.com/article/grand-theft-auto-heat-vice-city-a19fc5a3279c95be5b4f6a7d831be199",
-      "urlToImage": "https://dims.apnews.com/dims4/default/5dc6aa4/2147483647/strip/true/crop/5058x3372+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F95%2Ff1%2F695f5e30f28623a19aa52f531b9b%2F5bc68d45906f407e9014255e1efbe2f5",
-      "publishedAt": "2026-11-18T15:09:23Z",
-      "content": "MIAMI (AP) Jennifer Alvarez was at work inside the building where the Miami Heat play when she scrolled her way into a video almost by accident.\r\nThe trailer for Grand Theft Auto VI loosely based in … [+5294 chars]"
+      "author": "Riley MacLeod",
+      "title": "What Aftermath Should Write About GTA VI, According To My Email - Aftermath",
+      "description": "So many press releases",
+      "url": "https://aftermath.site/what-aftermath-should-write-about-gta-vi-according-to-my-email/",
+      "urlToImage": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/11/Jason_Duval_11.jpg",
+      "publishedAt": "2026-11-18T18:08:31Z",
+      "content": null
     },
     {
       "source": {
@@ -1087,123 +1308,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/17/multimedia/17biz-jensen-statement-vhjm/17biz-jensen-statement-vhjm-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-17T23:48:31Z",
       "content": "Mr. Huang resigned as chief executive of the company last week after revelations that he had affairs with an employee and a woman linked to Chinese intelligence."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Penelope Colston",
-      "title": "A More Precise Clock Is on Its Way",
-      "description": "The optical atomic clock, which scientists say would be off by about a second over 14 billion years, is soon expected to become a primary reference.",
-      "url": "https://www.nytimes.com/2026/11/17/fashion/optical-atomic-clocks-rolex.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/18sp-watches-atomic-inyt-02-hfvq/18sp-watches-atomic-inyt-02-hfvq-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-17T10:00:32Z",
-      "content": "The optical atomic clock, which scientists say would be off by about a second over 14 billion years, is soon expected to become a primary reference."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Kalley Huang, Tripp Mickle and Ryan Mac",
-      "title": "Madison Huang, Jensen Huang’s Daughter, Became a Powerful Force at Nvidia",
-      "description": "Installed as her father’s de facto chief of staff, Jensen Huang’s daughter alienated top executives. Now her lingering role poses a test for interim C.E.O. Colette Kress.",
-      "url": "https://www.nytimes.com/2026/11/16/technology/nvidia-jensen-madison-huang.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/16/multimedia/BIZ-MADISON-HUANG-1-01-cmjw/BIZ-MADISON-HUANG-1-01-cmjw-mediumSquareAt3X-v3.jpg",
-      "publishedAt": "2026-11-17T02:15:57Z",
-      "content": "Installed as her father’s de facto chief of staff, Jensen Huang’s daughter alienated top executives. Now her lingering role poses a test for interim C.E.O. Colette Kress."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Ana Swanson and Tony Romm",
-      "title": "Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip",
-      "description": "The rules have been a topic of fierce debate in the administration and would cut back on a booming data center business serving Chinese companies.",
-      "url": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-loophole.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/16/multimedia/16dc-remote-access-01-bfgz/16dc-remote-access-01-bfgz-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-16T21:07:23Z",
-      "content": "The rules have been a topic of fierce debate in the administration and would cut back on a booming data center business serving Chinese companies."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "David McCabe",
-      "title": "California Sues OpenAI Over A.I. Safety Issues",
-      "description": "The state attorney general filed a lawsuit accusing the company of failing to put appropriate safeguards on its artificial intelligence and putting the public at risk.",
-      "url": "https://www.nytimes.com/2026/11/16/technology/california-openai-ai-safety.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/16/multimedia/16biz-openai-lawsuit-hfo-fzkh/16biz-openai-lawsuit-hfo-fzkh-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-16T19:55:37Z",
-      "content": "The state attorney general filed a lawsuit accusing the company of failing to put appropriate safeguards on its artificial intelligence and putting the public at risk."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Sapna Maheshwari and Kalley Huang",
-      "title": "Apple Was Late to the Video Podcast Boom. Now It’s Trying to Catch Up.",
-      "description": "They will soon be free to all Apple TV users and will appear on more than one billion devices that have the app, including Rokus and smart TVs.",
-      "url": "https://www.nytimes.com/2026/11/16/business/media/apple-tv-podcasts-youtube.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/16/business/16BIZ-APPLE-PODCASTS-2/16BIZ-APPLE-PODCASTS-2-mediumSquareAt3X.png",
-      "publishedAt": "2026-11-16T13:24:37Z",
-      "content": "They will soon be free to all Apple TV users and will appear on more than one billion devices that have the app, including Rokus and smart TVs."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "David Yaffe-Bellany",
-      "title": "How Sam Bankman-Fried Lost Out on a $35 Billion Jackpot From Anthropic",
-      "description": "The founder of the collapsed FTX crypto exchange, who is serving prison time for fraud, would have made a windfall from a $500 million investment in Anthropic.",
-      "url": "https://www.nytimes.com/2026/11/16/technology/sam-bankman-fried-anthropic.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/13/multimedia/00biz-sbf-anthropic-bzgc/00biz-sbf-anthropic-bzgc-mediumSquareAt3X-v3.jpg",
-      "publishedAt": "2026-11-16T10:02:09Z",
-      "content": "The founder of the collapsed FTX crypto exchange, who is serving prison time for fraud, would have made a windfall from a $500 million investment in Anthropic."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Adeel Hassan",
-      "title": "Fan Fiction Site AO3 Returns, and So Do Its Readers, in Droves",
-      "description": "The archive, which is home to tales inspired by the likes of “Harry Potter” and “Heated Rivalry,” was taken down more than two weeks ago, leaving its fans bereft.",
-      "url": "https://www.nytimes.com/2026/11/15/arts/ao3-fan-fiction-site.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/15/multimedia/15xp-fan-fiction-tmqh/15xp-fan-fiction-tmqh-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-15T22:55:42Z",
-      "content": "The archive, which is home to tales inspired by the likes of “Harry Potter” and “Heated Rivalry,” was taken down more than two weeks ago, leaving its fans bereft."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Tripp Mickle, Ana Swanson, Paul Mozur, Jonathan Swan, Julian E. Barnes and Maggie Haberman",
-      "title": "How Jensen Huang’s Secret Led to His Downfall at Nvidia",
-      "description": "Nvidia’s leader said his relationship with a female customer was just about business. But what he was concealing eventually led to his resignation from the company he created.",
-      "url": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/13/multimedia/BIZ-JENSEN-CRASH-1-01-ljmc/BIZ-JENSEN-CRASH-1-01-ljmc-mediumSquareAt3X-v3.jpg",
-      "publishedAt": "2026-11-15T12:40:04Z",
-      "content": "Nvidia’s leader said his relationship with a female customer was just about business. But what he was concealing eventually led to his resignation from the company he created."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Kalley Huang",
-      "title": "Tech Leaders Rally Behind Jensen Huang",
-      "description": "In social media posts and letters to Nvidia’s board, Mr. Huang’s billionaire peers described him as a singular leader who could not be replaced at Nvidia.",
-      "url": "https://www.nytimes.com/2026/11/14/technology/silicon-valley-nvidia-jensen-huang.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/14/multimedia/14biz-jensen-support-Huang-vpjh/14biz-jensen-support-Huang-vpjh-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-14T20:57:38Z",
-      "content": "In social media posts and letters to Nvidia’s board, Mr. Huang’s billionaire peers described him as a singular leader who could not be replaced at Nvidia."
     }
   ]
 }

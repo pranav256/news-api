@@ -1,7 +1,20 @@
 {
   "status": "ok",
-  "totalResults": 96,
+  "totalResults": 91,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Kenneth Chang and Siobhan Roberts",
+      "title": "Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude",
+      "description": "If confirmed, the proof of the Riemann hypothesis would cement the sense that A.I. might be capable of mastering any problem in the field.",
+      "url": "https://www.nytimes.com/2026/11/20/science/anthropic-ai-math-riemann-hypothesis.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/20/multimedia/20SCI-AI-RIEMANN-01-jtkm/20SCI-AI-RIEMANN-01-jtkm-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-21T16:52:42Z",
+      "content": "If confirmed, the proof of the Riemann hypothesis would cement the sense that A.I. might be capable of mastering any problem in the field."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -38,21 +51,8 @@
       "description": "If artificial intelligence is giving rise to outages, cyberattacks and more, it’s consistent with history, in that it shows how new innovations often set off calamitous failure before they make life better.",
       "url": "https://www.nytimes.com/2026/11/21/science/outages-tech-history.html",
       "urlToImage": "https://static01.nyt.com/images/2026/11/22/multimedia/22sci-failure-top1-kgbl/22sci-failure-top1-kgbl-mediumSquareAt3X-v4.jpg",
-      "publishedAt": "2026-11-21T10:02:09Z",
+      "publishedAt": "2026-11-21T10:02:10Z",
       "content": "If artificial intelligence is giving rise to outages, cyberattacks and more, it’s consistent with history, in that it shows how new innovations often set off calamitous failure before they make life better."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "The New York Times",
-      "title": "How Much Do You Know About NASA’s Voyager Mission?",
-      "description": "Voyagers 1 and 2 have gone farther and lasted longer than any other spacecraft that humans have sent out into the cosmos. Test your knowledge about their epic and ongoing journey.",
-      "url": "https://www.nytimes.com/quiz/2026/11/18/science/voyager-lightday.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/18/science/18SCI-VOYAGER-QUIZ/18SCI-VOYAGER-QUIZ-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-21T03:00:14Z",
-      "content": "Voyagers 1 and 2 have gone farther and lasted longer than any other spacecraft that humans have sent out into the cosmos. Test your knowledge about their epic and ongoing journey."
     },
     {
       "source": {
@@ -64,21 +64,8 @@
       "description": "After her methods proved effective, she revealed that she had battled her own borderline personality disorder as a child.",
       "url": "https://www.nytimes.com/2026/11/19/well/mind/marsha-linehan-dead.html",
       "urlToImage": "https://static01.nyt.com/images/2026/11/22/multimedia/18obit-linehan-lfcp-print1/18obit-linehan-lfcp-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-21T01:28:23Z",
+      "publishedAt": "2026-11-21T01:28:24Z",
       "content": "After her methods proved effective, she revealed that she had battled her own borderline personality disorder as a child."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Kenneth Chang and Siobhan Roberts",
-      "title": "Anthropic Mathematician Claims to Solve Riemann Hypothesis With Help From Claude",
-      "description": "If confirmed, the proof of the Riemann hypothesis would cement the field’s sense that no unsolved problem is safe from artificial intelligence.",
-      "url": "https://www.nytimes.com/2026/11/20/science/anthropic-ai-math-riemann-hypothesis.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/20/multimedia/20SCI-AI-RIEMANN-01-jtkm/20SCI-AI-RIEMANN-01-jtkm-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-21T00:33:39Z",
-      "content": "If confirmed, the proof of the Riemann hypothesis would cement the field’s sense that no unsolved problem is safe from artificial intelligence."
     },
     {
       "source": {
@@ -160,6 +147,32 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Newser"
+      },
+      "author": "John Johnson",
+      "title": "Spacecraft Arrives at Mysterious Mercury - Newser",
+      "description": "European-Japanese mission will be only the second to enter the small planet's orbit",
+      "url": "https://www.newser.com/story/400364/spacecraft-arrives-at-mysterious-mercury.html",
+      "urlToImage": "https://cdn.newser.com/image/1725742-12-20261120075303.jpeg",
+      "publishedAt": "2026-11-20T13:23:00Z",
+      "content": "\"Mercury is the terrestrial planet we know the least about,\" says Geraint Jones, project scientist for BepiColombo at the European Space Agency, per the New York Times. The mission aims to answer big… [+372 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Dark energy may originate from known laws of particle physics - Phys.org",
+      "description": "For nearly three decades, scientists have struggled to explain one of the universe's most enduring mysteries: how a component known as dark energy is driving the accelerating expansion of the cosmos.",
+      "url": "https://phys.org/news/2026-11-dark-energy-laws-particle-physics.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/dark-energy.jpg",
+      "publishedAt": "2026-11-20T13:20:06Z",
+      "content": "For nearly three decades, scientists have struggled to explain one of the universe's most enduring mysteries: how a component known as dark energy is driving the accelerating expansion of the cosmos.… [+4311 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -170,6 +183,32 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/20/multimedia/20cli-permitting-senate-HFO2-qlhz/20cli-permitting-senate-HFO2-qlhz-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-20T12:31:59Z",
       "content": "The bill would overhaul federal environmental laws to make it easier to build everything from gas pipelines to wind farms. But it faces hurdles in the House."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ZME Science"
+      },
+      "author": "Rupendra Brahambhatt",
+      "title": "The World's Oldest Known Forest Was Found in England, and Its Strange Trees Helped Change the Planet - ZME Science",
+      "description": "Long before leafy trees existed, early twig-covered plants locked soil in place and fed Earth’s first land bugs.",
+      "url": "https://www.zmescience.com/science/news-science/oldest-fossil-forest-england-rivers/",
+      "urlToImage": "https://cdn.zmescience.com/wp-content/uploads/2026/11/Calamophyton-oldest-forest.jpg",
+      "publishedAt": "2026-11-20T11:58:51Z",
+      "content": "Calamophyton trees. Image credits: Peter Giesen/Chris Berry.\r\nThere were no leaves to rustle, no birds to sing, and no grass to walk on.\r\nInstead, the landscape was crowded with strange, palm-like tr… [+5635 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Robert Lea",
+      "title": "Einstein was right! Scientists verify 1st image of a black hole ever captured - Space",
+      "description": "\"It is like standing in your backyard and trying to take a photo of a doughnut on the moon.\"",
+      "url": "https://www.space.com/astronomy/black-holes/einstein-was-right-scientists-verify-1st-image-of-a-black-hole-ever-captured",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/B6udrvzScShF4sK8KB6sLT-2000-80.png",
+      "publishedAt": "2026-11-20T11:00:00Z",
+      "content": null
     },
     {
       "source": {
@@ -200,15 +239,15 @@
     {
       "source": {
         "id": null,
-        "name": "ScienceAlert"
+        "name": "Science Daily"
       },
-      "author": "Michelle Starr",
-      "title": "NASA Orbiter Snaps What Looks Like an Eerie Forest Growing on The Frozen Dunes of Mars - ScienceAlert",
-      "description": "To the best of all humanity's understanding – which is significant – nothing seems to grow on the red planet.",
-      "url": "https://www.sciencealert.com/nasa-orbiter-snaps-what-looks-like-an-eerie-forest-growing-on-the-frozen-dunes-of-mars",
-      "urlToImage": "https://www.sciencealert.com/images/2026/11/mars-forests-1200x675.png",
-      "publishedAt": "2026-11-20T01:03:49Z",
-      "content": "To the best of all humanity's understanding which is significant nothing seems to grow on the red planet.\r\nNary a rover nor an orbiter has ever caught wind of a single alga, cactus, or spindly tumble… [+3236 chars]"
+      "author": null,
+      "title": "A 3-million-year-old child just made human evolution far more complicated - ScienceDaily",
+      "description": "A groundbreaking study of the 3-million-year-old Taung Child fossil suggests that several ancient human ancestors once thought to belong to the same species may actually represent different branches of our evolutionary family tree. The discovery challenges a …",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261118065531.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/taung-child.webp",
+      "publishedAt": "2026-11-20T03:19:32Z",
+      "content": "A century after the Taung Child transformed our understanding of where humans came from, scientists are discovering that this famous fossil still has surprises to reveal. A new study published in Nat… [+4288 chars]"
     },
     {
       "source": {
@@ -226,15 +265,15 @@
     {
       "source": {
         "id": null,
-        "name": "Phys.Org"
+        "name": "ScienceAlert"
       },
-      "author": null,
-      "title": "Mercury-bound X-ray telescope delivers first images after eight years in space - Phys.org",
-      "description": "The first data from a U.K.-built instrument heading to Mercury have provided observations of one of the brightest X-ray sources in the sky from aboard the ESA/JAXA BepiColombo spacecraft in the inner solar system.",
-      "url": "https://phys.org/news/2026-11-mercury-bound-ray-telescope-images.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/first-x-ray-imaging-in.jpg",
-      "publishedAt": "2026-11-20T00:00:10Z",
-      "content": "The first data from a U.K.-built instrument heading to Mercury have provided observations of one of the brightest X-ray sources in the sky from aboard the ESA/JAXA BepiColombo spacecraft in the inner… [+6575 chars]"
+      "author": "Michelle Starr",
+      "title": "NASA Orbiter Snaps What Looks Like an Eerie Forest Growing on The Frozen Dunes of Mars - Yahoo News Singapore",
+      "description": "A forest that never was, on a world we'll never know.",
+      "url": "https://www.sciencealert.com/nasa-orbiter-snaps-what-looks-like-an-eerie-forest-growing-on-the-frozen-dunes-of-mars",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/3bdaf429016bee0ec7fe610f258c55222f43acac51b84b7ede7ce90783bfb656/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsciencealert_160%2Fc901808130b9a53b898183ae8eb58f3c.png",
+      "publishedAt": "2026-11-20T01:00:00Z",
+      "content": "To the best of all humanity's understanding which is significant nothing seems to grow on the red planet.\r\nNary a rover nor an orbiter has ever caught wind of a single alga, cactus, or spindly tumble… [+3285 chars]"
     },
     {
       "source": {
@@ -316,6 +355,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Why do so many people have Neanderthal DNA? - Phys.org",
+      "description": "Neanderthal DNA makes up about 2% of the genome of most non-Africans. When and how did that mixing take place, and what does it mean for modern humans?",
+      "url": "https://phys.org/news/2026-11-people-neanderthal-dna.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/neanderthal.jpg",
+      "publishedAt": "2026-11-19T20:40:04Z",
+      "content": "Neanderthal DNA makes up about 2% of the genome of most non-Africans. When and how did that mixing take place, and what does it mean for modern humans?\r\nWe put these questions to David Reich, profess… [+3630 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -365,6 +417,19 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/149391785.jpg?quality=75&strip=all&w=1200",
       "publishedAt": "2026-11-19T18:29:00Z",
       "content": "It’s a case of cosmic cannibalism.\r\nAstronomers made a bombshell discovery after watching a star engulf its companion star, a new study reveals.\r\nIt happened when one star died and swelled to hundred… [+3278 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Popular Science"
+      },
+      "author": "Laura Baisas",
+      "title": "Bear cub takes award-winning leap of faith - Yahoo",
+      "description": "The unnamed brown bear wins the 2026 Yeet of Faith award.",
+      "url": "https://www.popsci.com/environment/bear-award-yeet-of-faith-alaska/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/c72d421e828ddc6c68bc2ee242ffee2cb5aaaab11d52f7906f9baa3cbc2a4735/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpopular_science_109%2F306f888fa53436084f1aba17338bd2f4.png",
+      "publishedAt": "2026-11-19T18:05:00Z",
+      "content": "In bear life, as in human life, sometimes you just have to take a leap of faith. A brown bear (Ursus arctos) cub hanging around Anan Creek in Tongass National Forest in southeastern Alaska learned th… [+1835 chars]"
     },
     {
       "source": {
@@ -420,19 +485,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "Astronomers discover remarkable triple-star system just 28 light-years from Earth - Phys.org",
-      "description": "Astronomers have discovered a stellar system just 28 light-years from Earth that challenges our understanding of how stars live, die and interact as they evolve.",
-      "url": "https://phys.org/news/2026-11-astronomers-remarkable-triple-star-years.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/astronomers-discover-r.jpg",
-      "publishedAt": "2026-11-19T15:00:25Z",
-      "content": "Astronomers have discovered a stellar system just 28 light-years from Earth that challenges our understanding of how stars live, die and interact as they evolve.\r\nGiven the name Welopai, this unusual… [+5361 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -443,6 +495,32 @@
       "urlToImage": null,
       "publishedAt": "2026-11-19T14:50:12Z",
       "content": "A toxicological study of frozen mummies from the Andes sheds light on what happened before a sacred ritual of the Inca Empire."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thetimes.com"
+      },
+      "author": "Kaya Burgess",
+      "title": "Triple star system that ‘shouldn’t exist’ found close to Earth - The Times",
+      "description": "The discovery of a complex celestial dance within ‘our own cosmic neighbourhood’ appears to confound what scientists know of how stars live, die and interact",
+      "url": "https://www.thetimes.com/uk/science/article/triple-star-system-earth-astronomers-c3j9wm7hq",
+      "urlToImage": "https://www.thetimes.com/imageserver/image/77a3c6f1-4263-4969-a035-e73f60a282f3.jpg?strip=all&format=webp&resize=1200",
+      "publishedAt": "2026-11-19T14:25:14Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Popular Mechanics"
+      },
+      "author": "Elizabeth Rayne",
+      "title": "Scientists Fear a Biological Apocalypse Could Destroy Us. Now They Have a Way to Stop It. - Yahoo",
+      "description": "A beam of twisted light could expose the backward microbes that could dismantle our unsuspecting immune systems.",
+      "url": "https://www.popularmechanics.com/science/a74451675/mirror-molecules-apocalypse-defense/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/5225b6f8bc657b59f6151f760d764a6ebb8695fce7221b9d0537163bf227a43c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpopular_mechanics_642%2Fefca670f61db09e3e41a1a40c84b75a6.jpg",
+      "publishedAt": "2026-11-19T14:00:00Z",
+      "content": "Some people fear a hostile alien takeover when there may be a threat lurking much closer to home (and it isn't sentient\r\n robots). If a molecule such as DNA were to see itself in the mirror, its refl… [+5363 chars]"
     },
     {
       "source": {
@@ -499,15 +577,15 @@
     {
       "source": {
         "id": null,
-        "name": "Phys.Org"
+        "name": "Nature.com"
       },
       "author": null,
-      "title": "Atoms in sync: Superradiance offers a new kind of frequency comb - Phys.org",
-      "description": "When scientists shine a laser beam into a crystal, they typically expect a steady glow as the crystal's atoms are energized and begin to emit light. But in early 2024, while searching for something else entirely, researchers in the lab of Caltech's Andrei Far…",
-      "url": "https://phys.org/news/2026-11-atoms-sync-superradiance-kind-frequency.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/a-laser-shines-on-a-de.jpg",
-      "publishedAt": "2026-11-19T00:00:04Z",
-      "content": "When scientists shine a laser beam into a crystal, they typically expect a steady glow as the crystal's atoms are energized and begin to emit light. But in early 2024, while searching for something e… [+7565 chars]"
+      "title": "Observation of tunable superradiant frequency combs - Nature",
+      "description": "A transition from continuous to periodic pulsed superradiant emission in coupled spin–resonator systems is demonstrated, revealing connections to time crystals and enabling synchronized microwave and optical frequency combs.",
+      "url": "https://www.nature.com/articles/s41586-026-11289-7",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11289-7/MediaObjects/41586_2026_11289_Fig1_HTML.png",
+      "publishedAt": "2026-11-18T23:06:23Z",
+      "content": "<li>Walther, H., Varc oe, B. T., Englert, B.-G. &amp; Becker, T. Cavity quantum electrodynamics. Rep. Progr. Phys.69, 13251382 (2006).\r\nArticle \r\nGoogle Scholar \r\n</li><li>Reiserer, A. &amp; Rempe, G… [+12095 chars]"
     },
     {
       "source": {
@@ -537,19 +615,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Ellyn Lapointe",
-      "title": "Baboon Skulls Suggest Eagles May Have Hunted Early Humans - Gizmodo",
-      "description": "Scientists thought eagles couldn't hunt primates this big. Wrong.",
-      "url": "https://gizmodo.com/eagles-are-killing-baboons-the-size-of-our-early-ancestors-that-wasnt-supposed-to-be-possible-2000841736",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/11/olive-baboon-1200x675.jpg",
-      "publishedAt": "2026-11-18T20:40:26Z",
-      "content": "For tens of millions of years, eagles have ruled the skies among the strongest and most formidable birds of prey. These skilled hunters have been known to attack surprisingly large animals, including… [+3533 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -560,32 +625,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/18CLI-COP-NEPAL1-kwcm/18CLI-COP-NEPAL1-kwcm-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-18T20:08:36Z",
       "content": "A deadly glacier collapse left the country with $5 billion in recovery costs. So far, few have stepped up with aid."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Daisy Dobrijevic",
-      "title": "Earth is missing over a billion years of geological history. Scientists may have discovered why - Space",
-      "description": "The answer to one of Earth's greatest geological mysteries may lie deep beneath our feet.",
-      "url": "https://www.space.com/astronomy/earth/earth-is-missing-over-a-billion-years-of-geological-history-scientists-may-have-discovered-why",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Ct8s5Y3wQjNajro5V9RcA8-2000-80.jpg",
-      "publishedAt": "2026-11-18T20:00:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Good News Network"
-      },
-      "author": "Andy Corbley",
-      "title": "Students Fighting to Save Poached Plant Species That Only Exists in Near Their Campus - Good News Network",
-      "description": "\"The minimum is to prevent the extinction of a species and at best we might even improve its current status,\" Whittall told CBS.",
-      "url": "https://www.goodnewsnetwork.org/students-fighting-to-save-poached-plant-species-that-only-exists-near-their-campus/",
-      "urlToImage": "https://www.goodnewsnetwork.org/wp-content/uploads/2026/11/credit-Santa-Clara-Valley-Habitat-Authority.jpg",
-      "publishedAt": "2026-11-18T19:30:50Z",
-      "content": "– credit, Santa Clara Valley Habitat Agency\r\nScientists at Santa Clara University are sparing no effort to save a one-of-a-kind wildflower as unique as their county.\r\nCommonly known as the Santa Clar… [+2387 chars]"
     },
     {
       "source": {
@@ -706,6 +745,19 @@
     },
     {
       "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Wiley Online Library",
+      "title": "Signs of Eagle Predation on a 22-kg Adult Primate - Wiley Online Library",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaTjEtTEwtWVhCNFlOcDBIQnJkajc0M3Rra1VoYzhPTm43Uk9JYUVZXzY3U0c3NWhJa3JXUzFsN216azFuWVBGNXQwamd2N3lvRTdsdFBFWkFNYzFPRTRUcG9TMlY?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-11-18T09:49:11Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": null,
         "name": "NASA"
       },
@@ -742,19 +794,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/16/multimedia/16cli-permitting-data-centers-01-qhbt/16cli-permitting-data-centers-01-qhbt-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-18T00:59:09Z",
       "content": "The permitting bill could make it easier to build data centers for A.I. but a novel provision would also force data centers to pay much more for power."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Cult of Mac"
-      },
-      "author": "Ankita Sharma",
-      "title": "NASA smashed into an asteroid. Now scientists have discovered something strange. - Yahoo Tech",
-      "description": "Hera’s images reveal unusual terrain on Didymos, while NASA scientists investigate the impact to better understanding the event for potential future deflecti...",
-      "url": "https://tech.cultofmac.com/news/nasa-smashed-into-an-asteroid-now-scientists-have-discovered-something-strange",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/426fc59987d2c2a1a1d9e4b5a97bc272fbf6f47e3e80f7130a42b68c27c2c118/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcult_of_mac_917%2F32a2a3abc4a522ab60661b1688e0f9e7.jpg",
-      "publishedAt": "2026-11-17T22:29:04Z",
-      "content": "NASA's DART spacecraft slammed into the small asteroid Dimorphos in 2022. The impact altered the moonlet's orbit and provided planetary defense researchers with their very first full-scale demonstrat… [+3799 chars]"
     },
     {
       "source": {
@@ -811,19 +850,6 @@
     {
       "source": {
         "id": null,
-        "name": "Aps.org"
-      },
-      "author": null,
-      "title": "Hawking’s Black Hole Paradox Exposed Clash Between Physics Theories - American Physical Society",
-      "description": "Published 50 years ago, the information paradox dramatically illustrated the conflicts between general relativity and quantum mechanics.",
-      "url": "https://physics.aps.org/articles/v19/156",
-      "urlToImage": "https://physics.aps.org/assets/8ec71329-c31a-4230-97d3-14a56c814001/e156_1_thumb.png",
-      "publishedAt": "2026-11-17T18:19:07Z",
-      "content": "In 1965—the final year of his PhD course—Hawking applied Penrose’s methods to the entire Universe and showed that they predicted a kind of gravitational collapse in reverse: expansion from a singular… [+4810 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Live Science"
       },
       "author": "Charles Q. Choi",
@@ -863,19 +889,6 @@
     {
       "source": {
         "id": null,
-        "name": "Popular Science"
-      },
-      "author": "Laura Baisas",
-      "title": "Black bear gets little too close to another bear’s butt and wins award - Yahoo",
-      "description": "The Alaskan duo gets the 2026 You Made it Weird Award.",
-      "url": "https://www.popsci.com/environment/bear-award-you-made-it-weird-alaska/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/69200cb356b1ec8b600d8840b5e9e055e4265603e6cac041f48ecebfeaaed097/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpopular_science_109%2Fad531a6111f3b44a79d0ef32a04f428a.png",
-      "publishedAt": "2026-11-17T16:11:00Z",
-      "content": "Even Alaska's bears are not immune from accidentally making things weird or getting a bit too close. Over the summer, rangers at Tongass National Forest in southeastern Alaska watched an odd interact… [+1710 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Nautil.us"
       },
       "author": "David Nield",
@@ -889,15 +902,15 @@
     {
       "source": {
         "id": null,
-        "name": "Phys.Org"
+        "name": "The Weather Channel"
       },
-      "author": "Ingrid Fadelli",
-      "title": "DNA offers clues to the Bombay duck's rise in the East China Sea - Phys.org",
-      "description": "The Bombay duck (Harpadon nehereus) is a small marine fish that lives in the northern Indian Ocean and western Pacific, including the East China Sea. For many years, fisheries in the East China Sea caught very few Bombay ducks.",
-      "url": "https://phys.org/news/2026-11-dna-clues-bombay-duck-east.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/dna-offers-clues-to-th.jpg",
-      "publishedAt": "2026-11-17T13:00:08Z",
-      "content": "The Bombay duck (Harpadon nehereus) is a small marine fish that lives in the northern Indian Ocean and western Pacific, including the East China Sea. For many years, fisheries in the East China Sea c… [+8952 chars]"
+      "author": "Jonathan Erdman",
+      "title": "Snow is heavy enough to shift the planet's center of mass, NASA finds - The Weather Channel",
+      "description": "Shoveling snow can tire you out. A recent study found all that snow can even move Earth's center a little, and that's important for today's technology.",
+      "url": "https://weather.com/2026/11/17/science/space/snow-weight-shifts-earths-center-of-mass",
+      "urlToImage": "https://s.w-x.co/wxnext/img/earth-snow-cover-NASA-1b9593.jpg",
+      "publishedAt": "2026-11-17T11:30:00Z",
+      "content": "This animation shows snow and ice cover from 2019 through 2021 over the Northern Hemisphere, changing with the seasons. This top down view shows the North Pole at the center of the map, with North Am… [+3225 chars]"
     },
     {
       "source": {
@@ -940,19 +953,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "NASA"
-      },
-      "author": "Robert Nemiroff, Jerry Bonnell, Cecilia Chirenti, Keighley Rockcliffe",
-      "title": "APOD: 2026 November 17 - Milky Way versus Aurora - NASA Science (.gov)",
-      "description": null,
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-17-milky-way-versus-aurora/",
-      "urlToImage": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/GalaxyVsAurora_Scheib_960.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "publishedAt": "2026-11-17T05:05:00Z",
-      "content": "Explanation: Are these two giant arches battling for control of the sky? No, but it sure looks like it! The arch on the left is the central band of our Milky Way Galaxy, an ancient system of stars, g… [+671 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -992,19 +992,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Quanta Magazine"
-      },
-      "author": null,
-      "title": "What Makes Up the Cosmos? A 20-Year Survey Hints That Something Is Missing. - Quanta Magazine",
-      "description": "An era-defining galaxy survey has released its final results. They don’t quite fit the leading theory of cosmology.",
-      "url": "https://www.quantamagazine.org/what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missing-20261116/",
-      "urlToImage": "https://www.quantamagazine.org/wp-content/uploads/2026/11/DES-cr.CTIO-NOIRLab-NSF-AURA-T.-Matsopoulos-Social.jpg",
-      "publishedAt": "2026-11-16T15:18:29Z",
-      "content": "In 2024, the DESI collaboration dropped a bombshell report. When researchers added their shells to the existing dossier, they couldnt get the Lambda-CDM model to fit all the data. What fit better was… [+2668 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1041,19 +1028,6 @@
       "urlToImage": "https://static01.nyt.com/images/2021/01/20/science/16sci-leonids/01sci-spacecalendar-leonids-mediumSquareAt3X-v3.jpg",
       "publishedAt": "2026-11-16T05:01:05Z",
       "content": "Known for bright, fast meteors with long tails, the Leonids come around every November. But the number of streaks visible per hour can be low."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Foxweather.com"
-      },
-      "author": "Alexandra Myers",
-      "title": "Scientists discover star system sending strange radio signals every eight minutes from deep space - Yahoo Tech",
-      "description": "A group of researchers has discovered a mysterious star system more than 5,000 light-years away that emits radio signals every eight minutes.",
-      "url": "https://www.foxweather.com/earth-space/scientists-discover-star-system-sending-strange-signals-every-eight-minutes",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/242e73c5aeba778388d7b091df2adb5b5ca74a5b6cb0cc5c143d1c5fe024b65d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffox_weather_articles_483%2F3cb15651ef85cd437c59117655d09ead",
-      "publishedAt": "2026-11-15T23:48:08Z",
-      "content": "THE TAKEAWAYS:\r\n<ul><li>Researchers discovered a mysterious star system that emits radio signals every eight minutes.\r\n</li><li>One of the stars is a white dwarf. The other is a G-type star which is … [+3519 chars]"
     },
     {
       "source": {
@@ -1139,19 +1113,6 @@
         "name": "The New York Times"
       },
       "author": "Kenneth Chang",
-      "title": "Here’s the latest.",
-      "description": null,
-      "url": "https://www.nytimes.com/live/2026/11/14/science/spacex-starship-launch/heres-the-latest",
-      "urlToImage": null,
-      "publishedAt": "2026-11-14T22:08:47Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Kenneth Chang",
       "title": "Starship will play a big role in Artemis III.",
       "description": null,
       "url": "https://www.nytimes.com/live/2026/11/14/science/spacex-starship-launch/how-starship-will-play-a-big-role-in-artemis-iii",
@@ -1184,32 +1145,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/14/science/14starship-live-starfactory-topart/14starship-live-starfactory-topart-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-14T20:30:14Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Kenneth Chang",
-      "title": "How Boca Chica Village became Starbase.",
-      "description": null,
-      "url": "https://www.nytimes.com/live/2026/11/14/science/spacex-starship-launch/starbase-spacex-boca-chica-village",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/14/us/14starship-live-2019-vs-2026-topart/14starship-live-2019-vs-2026-topart-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-14T20:02:26Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Carolyn Y. Johnson",
-      "title": "Brain Implants Give A.L.S. Patients the Voice to Speak and Sing",
-      "description": "In one demonstration, a former singer sang a musical scale. Afterward she cried tears of joy.",
-      "url": "https://www.nytimes.com/2026/11/14/science/brain-implants-als-voice.html",
-      "urlToImage": "https://static01.nyt.com/images/2024/08/14/multimedia/14SCI-BCI-SING-02/14als-promo-fwcb-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-14T17:00:09Z",
-      "content": "In one demonstration, a former singer sang a musical scale. Afterward she cried tears of joy."
     },
     {
       "source": {

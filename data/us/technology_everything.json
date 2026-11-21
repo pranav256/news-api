@@ -6,9 +6,35 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-21T13:45:07.163680+00:00",
-  "articles_count": 44,
+  "fetched_at": "2026-11-21T20:15:49.999353+00:00",
+  "articles_count": 45,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Max Read, Erin Griffith, Whitney Jones, Sawyer Roque, Vjeran Pavic, Katie McMurran, Dan Powell, Marion Lozano, Rowan Niemisto and Elisheba Ittoop",
+      "title": "G.T.A. VI Is a Monumental Human Achievement",
+      "description": "Anthropic goes public, Jensen Huang wants back in at Nvidia, and software patches seem to be breaking everything. But first, let’s talk about G.T.A.",
+      "url": "https://www.nytimes.com/2026/11/20/podcasts/hardfork-gta6-nvidia-anthropic.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/20/podcasts/20hardfork-gta-nvidia-anthropic/20hardfork-gta-nvidia-anthropic-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-21T19:12:00Z",
+      "content": "Anthropic goes public, Jensen Huang wants back in at Nvidia, and software patches seem to be breaking everything. But first, let’s talk about G.T.A."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Dustin Volz, Kate Conger, Dylan Freedman and Sheera Frenkel",
+      "title": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.",
+      "description": "Cybersecurity has been an afterthought since the early days of the internet. Now A.I. is uncovering dormant problems, making the bill come due for decades of vulnerable code.",
+      "url": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/21/multimedia/21DC-OUTAGE-topart-sub-wghl/21DC-OUTAGE-topart-sub-wghl-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-21T19:11:51Z",
+      "content": "Cybersecurity has been an afterthought since the early days of the internet. Now A.I. is uncovering dormant problems, making the bill come due for decades of vulnerable code."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -19,8 +45,47 @@
       "description": "Millennials are answering the beeping call of the pocket-size game that caused a sensation 30 years ago. But analog-craving Gen Zers are, too.",
       "url": "https://www.nytimes.com/2026/11/21/arts/tamagotchis-comeback.html",
       "urlToImage": null,
-      "publishedAt": "2026-11-21T11:05:08Z",
+      "publishedAt": "2026-11-21T18:29:14Z",
       "content": "Millennials are answering the beeping call of the pocket-size game that caused a sensation 30 years ago. But analog-craving Gen Zers are, too."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Emily Steel, Kalley Huang, Ryan Mac and Tripp Mickle",
+      "title": "How Jensen Huang Made Humiliation Routine at Nvidia",
+      "description": "The Nvidia co-founder’s belittling behavior toward employees goes back decades. It once led to a confidential settlement agreement with an executive who said Mr. Huang “terrorized” staff.",
+      "url": "https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/00BIZ-nvidia-culture-jensen-kbpz/00BIZ-nvidia-culture-jensen-kbpz-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-21T15:55:46Z",
+      "content": "The Nvidia co-founder’s belittling behavior toward employees goes back decades. It once led to a confidential settlement agreement with an executive who said Mr. Huang “terrorized” staff."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Tripp Mickle",
+      "title": "What Nvidia’s Interim CEO, Colette Kress, Said to Employees After Jensen Huang’s Resignation",
+      "description": "At an all-hands meeting with employees, Colette Kress sought to put the indiscretions of Nvidia’s co-founder, Jensen Huang, behind them.",
+      "url": "https://www.nytimes.com/2026/11/18/technology/nvidia-jensen-huang-affair-colette-kress.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-nvidia-call-cwjh/18biz-nvidia-call-cwjh-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-21T14:31:30Z",
+      "content": "At an all-hands meeting with employees, Colette Kress sought to put the indiscretions of Nvidia’s co-founder, Jensen Huang, behind them."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Cory Weinberg",
+      "title": "Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon Valley",
+      "description": "The A.I. giant broke records with its initial public offering this week before a rocky first full day of trading, as the markets plunged on worries about artificial intelligence spending.",
+      "url": "https://www.nytimes.com/2026/11/21/business/anthropic-stock-wall-street-silicon-valley.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/20/multimedia/20biz-anthropic-aftermath-cwvh/20biz-anthropic-aftermath-cwvh-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-21T10:03:45Z",
+      "content": "The A.I. giant broke records with its initial public offering this week before a rocky first full day of trading, as the markets plunged on worries about artificial intelligence spending."
     },
     {
       "source": {
@@ -32,7 +97,7 @@
       "description": "If artificial intelligence is giving rise to outages, cyberattacks and more, it’s consistent with history, in that it shows how new innovations often set off calamitous failure before they make life better.",
       "url": "https://www.nytimes.com/2026/11/21/science/outages-tech-history.html",
       "urlToImage": "https://static01.nyt.com/images/2026/11/22/multimedia/22sci-failure-top1-kgbl/22sci-failure-top1-kgbl-mediumSquareAt3X-v4.jpg",
-      "publishedAt": "2026-11-21T10:02:09Z",
+      "publishedAt": "2026-11-21T10:02:10Z",
       "content": "If artificial intelligence is giving rise to outages, cyberattacks and more, it’s consistent with history, in that it shows how new innovations often set off calamitous failure before they make life better."
     },
     {
@@ -99,32 +164,6 @@
       "urlToImage": null,
       "publishedAt": "2026-11-20T16:23:02Z",
       "content": "A Glossary of AI Terms You Should Know"
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Max Read, Erin Griffith, Whitney Jones, Sawyer Roque, Vjeran Pavic, Katie McMurran, Dan Powell, Marion Lozano, Rowan Niemisto and Elisheba Ittoop",
-      "title": "G.T.A. VI Is a Monumental Human Achievement",
-      "description": "Anthropic goes public, Jensen Huang wants back in at Nvidia, and software patches seem to be breaking everything. But first, let’s talk about G.T.A.",
-      "url": "https://www.nytimes.com/2026/11/20/podcasts/hardfork-gta6-nvidia-anthropic.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/20/podcasts/20hardfork-gta-nvidia-anthropic/20hardfork-gta-nvidia-anthropic-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-20T15:19:25Z",
-      "content": "Anthropic goes public, Jensen Huang wants back in at Nvidia, and software patches seem to be breaking everything. But first, let’s talk about G.T.A."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Emily Steel, Kalley Huang, Ryan Mac and Tripp Mickle",
-      "title": "How Jensen Huang Made Humiliation Routine at Nvidia",
-      "description": "The Nvidia co-founder’s belittling behavior toward employees goes back decades. It once led to a confidential settlement agreement with an executive who said Mr. Huang “terrorized” staff.",
-      "url": "https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/00BIZ-nvidia-culture-jensen-kbpz/00BIZ-nvidia-culture-jensen-kbpz-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-20T14:43:10Z",
-      "content": "The Nvidia co-founder’s belittling behavior toward employees goes back decades. It once led to a confidential settlement agreement with an executive who said Mr. Huang “terrorized” staff."
     },
     {
       "source": {
@@ -294,19 +333,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/18xp-GTAFlu-wqvt/18xp-GTAFlu-wqvt-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-19T08:53:03Z",
       "content": "The highly anticipated release of Grand Theft Auto VI is expected to prompt a wave of students and employees to stay home on Thursday."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Tripp Mickle",
-      "title": "What Nvidia’s Interim CEO, Colette Kress, Said to Employees After Jensen Huang’s Resignation",
-      "description": "At an all-hands meeting with employees, Colette Kress sought to put the indiscretions of Nvidia’s co-founder, Jensen Huang, behind them.",
-      "url": "https://www.nytimes.com/2026/11/18/technology/nvidia-jensen-huang-affair-colette-kress.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-nvidia-call-cwjh/18biz-nvidia-call-cwjh-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-19T05:11:14Z",
-      "content": "At an all-hands meeting with employees, Colette Kress sought to put the indiscretions of Nvidia’s co-founder, Jensen Huang, behind them."
     },
     {
       "source": {
@@ -541,19 +567,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/13/multimedia/BIZ-JENSEN-CRASH-1-01-ljmc/BIZ-JENSEN-CRASH-1-01-ljmc-mediumSquareAt3X-v3.jpg",
       "publishedAt": "2026-11-15T12:40:04Z",
       "content": "Nvidia’s leader said his relationship with a female customer was just about business. But what he was concealing eventually led to his resignation from the company he created."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Kalley Huang",
-      "title": "Tech Leaders Rally Behind Jensen Huang",
-      "description": "In social media posts and letters to Nvidia’s board, Mr. Huang’s billionaire peers described him as a singular leader who could not be replaced at Nvidia.",
-      "url": "https://www.nytimes.com/2026/11/14/technology/silicon-valley-nvidia-jensen-huang.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/14/multimedia/14biz-jensen-support-Huang-vpjh/14biz-jensen-support-Huang-vpjh-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-14T20:57:38Z",
-      "content": "In social media posts and letters to Nvidia’s board, Mr. Huang’s billionaire peers described him as a singular leader who could not be replaced at Nvidia."
     },
     {
       "source": {
