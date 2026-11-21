@@ -6,9 +6,22 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-21T04:22:15.934454+00:00",
-  "articles_count": 79,
+  "fetched_at": "2026-11-21T13:45:07.163680+00:00",
+  "articles_count": 75,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Jen Murphy and Theodore Tae",
+      "title": "A Short Workout to Strengthen Your Neck",
+      "description": "Build muscle and fight the effects of bad posture with a few simple exercises.",
+      "url": "https://www.nytimes.com/2026/11/21/well/move/neck-strengthening-workout.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/20/well/NECK-STRENGTHENING_ART-01/NECK-STRENGTHENING-35367-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-21T10:00:13Z",
+      "content": "Build muscle and fight the effects of bad posture with a few simple exercises."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -50,6 +63,19 @@
     },
     {
       "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Gretchen Reynolds",
+      "title": "Column | Just one minute of this activity may cut blood sugar spikes by 40 percent - The Washington Post",
+      "description": "Frequent or prolonged rises in blood sugar can affect your health. This easy trick may help.",
+      "url": "https://www.washingtonpost.com/wellness/2026/11/20/just-one-minute-this-activity-may-cut-blood-sugar-spikes-by-40-percent/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/V3OFZEZMXLKG25VVBZGRMQ2FW4.jpg&w=1440",
+      "publishedAt": "2026-11-20T10:16:58Z",
+      "content": "The holidays are almost here, bringing with them joy, wonder, pies, cookie exchanges and possibly erratic blood sugar swings.\r\nWhich make the findings of a surprising new exercise study especially us… [+15 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -64,15 +90,41 @@
     {
       "source": {
         "id": null,
-        "name": "NBCSports.com"
+        "name": "The Boston Globe"
       },
-      "author": "Mike Florio",
-      "title": "Research moves closer to identifying CTE in living patients - NBC Sports",
-      "description": "The ability to detect CTE only through autopsies prevents football players from knowing whether they have it during their careers.",
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/research-moves-closer-to-identifying-cte-in-living-patients",
-      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/82a76b3/2147483647/strip/true/crop/268x151+47+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Faf%2F14%2F587e8d1c7bebaac926f9c6b08305%2Fbrain-scan-586732-e1506450764684.jpg",
-      "publishedAt": "2026-11-19T22:38:52Z",
-      "content": "The ability to detect CTE only through autopsies prevents football players from knowing whether they have it during their careers. Work continues to change that.\r\nVia ESPN, a pair of studies publishe… [+1882 chars]"
+      "author": null,
+      "title": "Experts have for decades wanted to diagnose CTE in living people. BU researchers may have found a way. - The Boston Globe",
+      "description": "Boston University researchers say they have an early sign that CTE could be detected by a simple blood test.",
+      "url": "https://www.bostonglobe.com/2026/11/19/metro/cte-diagnosis-blood-test-bu/",
+      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/RZ42BT64EVVXXDCQJZOCDYIWDY.jpg?auth=83674d8bfd1b07fcbe56b7818832345da990ca3c0c8f1069ec636e0e4272f0a5&width=1440",
+      "publishedAt": "2026-11-20T00:50:03Z",
+      "content": "This is a study of hope and optimism, said Michael Alosco, a co-senior author of the latest paper and co-director of clinical research at the BU CTE Center. Its a study that really brings us closer t… [+6000 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PBS"
+      },
+      "author": null,
+      "title": "Do you need a measles booster shot now that the U.S. has lost its elimination status? - PBS",
+      "description": "The U.S., Mexico and Bolivia lost their measles-free status this week after stubborn outbreaks erased decades of progress.",
+      "url": "https://www.pbs.org/newshour/health/do-you-need-a-measles-booster-shot-now-that-the-u-s-has-lost-its-elimination-status",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-02-13T111716Z_252000037_RC2LGJAGQCLG_RTRMADP_3_HEALTH-USA-MEASLES-SPARTANBURG-1024x684.jpg",
+      "publishedAt": "2026-11-20T00:10:07Z",
+      "content": "Now that measles is officially back in the U.S., some Americans are asking: Do adults need a booster shot?\r\nGenerally, experts say, the answer is no.\r\n\"Most people are protected without getting a boo… [+4105 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish - BBC",
+      "description": "Daily pill daraxonrasib appears to shrink and possibly even eliminate tumours in some patients with one of the deadliest cancers.",
+      "url": "https://www.bbc.com/news/articles/cqrmgjnzz9l0o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6ca3/live/9b3a4680-e445-11f1-9192-3924a59e54c7.jpg",
+      "publishedAt": "2026-11-20T00:08:22Z",
+      "content": "Prof Elena Garralda, chair of a European cancer conference called EORTC where the work is being presented to other doctors, said: \"These results are exciting because they show the combined treatment … [+123 chars]"
     },
     {
       "source": {
@@ -86,6 +138,19 @@
       "urlToImage": "https://gizmodo.com/app/uploads/2026/11/creatine-and-protein-1200x675.jpg",
       "publishedAt": "2026-11-19T21:50:44Z",
       "content": "A few years ago, my brother became a committed gym bro. He researched effective workout routines, healthy protein-heavy diets, and the optimal supplement regime. It was in this context that I first h… [+3077 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Medical Xpress"
+      },
+      "author": null,
+      "title": "Discovery points to new approach for treating diabetes—no insulin required - Medical Xpress",
+      "description": "Researchers at the University of Cincinnati College of Medicine have identified a previously unknown way the body's muscles absorb glucose from the blood—without insulin.",
+      "url": "https://medicalxpress.com/news/2026-11-discovery-approach-diabetes-insulin-required.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/discovery-points-to-ne.jpg",
+      "publishedAt": "2026-11-19T21:20:02Z",
+      "content": "Researchers at the University of Cincinnati College of Medicine have identified a previously unknown way the body's muscles absorb glucose from the bloodwithout insulin.\r\nThe breakthrough findings fr… [+4553 chars]"
     },
     {
       "source": {
@@ -116,6 +181,19 @@
     {
       "source": {
         "id": null,
+        "name": "Thetimes.com"
+      },
+      "author": "Peter Chappell",
+      "title": "Stem cells injected into brains of Alzheimer’s patients in world first - The Times",
+      "description": "Five of six trial participants showed early improvements on memory and thinking tests after cells taken from their body fat were used",
+      "url": "https://www.thetimes.com/uk/healthcare/article/stem-cells-brains-alzheimers-92vx5p08x",
+      "urlToImage": "https://www.thetimes.com/imageserver/image/e3c6e1a9-ebc6-4c42-ac3a-e7d17d15dbc0.jpg?strip=all&format=webp&crop=5500px%2C3093px%2C0px%2C464px&resize=1200",
+      "publishedAt": "2026-11-19T20:53:39Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
         "name": "WYFF4 Greenville"
       },
       "author": "Chloe McCoy",
@@ -125,19 +203,6 @@
       "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/rabies-vaccine-1648241799.jpg?crop=1.00xw%3A0.991xh%3B0%2C0&resize=1200%3A*",
       "publishedAt": "2026-11-19T20:22:22Z",
       "content": "SPARTANBURG, S.C.Two animals and one person have been exposed to rabies in South Carolina, according to health officials.\r\nThe South Carolina Department of Public Health reported that a cat found nea… [+1484 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science.org"
-      },
-      "author": null,
-      "title": "Balancing redox-mediated cytotoxicity and catalysis in natural product biosynthesis - Science | AAAS",
-      "description": "Redox-mediated chemistry is central to both the biosynthesis and cytotoxicity of many natural products, yet how microbes balance these processes remains poorly understood. Here, we uncover a conserved mechanism that coordinates three redox-mediated ...",
-      "url": "https://www.science.org/doi/10.1126/science.aee2641",
-      "urlToImage": "https://www.science.org/cms/asset/2527a2da-9117-43e4-8c0d-96b7e917a103/science.aee2641-keyimage.gif",
-      "publishedAt": "2026-11-19T19:18:30Z",
-      "content": "eLetters is a forum for ongoing peer review. eLetters are not edited, proofread, or indexed, but they are screened. eLetters should provide substantive and scholarly commentary on the article. Neithe… [+506 chars]"
     },
     {
       "source": {
@@ -155,54 +220,28 @@
     {
       "source": {
         "id": null,
-        "name": "New York Post"
-      },
-      "author": "McKenzie Beard",
-      "title": "Childhood stomach bug toxin is ‘leading explanation’ for rise in early-onset colorectal cancer: expert - New York Post",
-      "description": "The alarming surge in colorectal cancer among young people may have a stomach-churning culprit.",
-      "url": "https://nypost.com/2026/11/19/health/childhood-toxin-leading-explanation-for-young-colon-cancer-spike/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/149398223.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-11-19T18:42:00Z",
-      "content": "The alarming surge in colorectal cancer among young people may have a stomach-churning culprit. \r\nDr. Karl Smith-Byrne, a senior molecular epidemiologist at the University of Oxford, suspects exposur… [+4112 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
+        "name": "Nature.com"
       },
       "author": null,
-      "title": "Ambulance service declares critical incident due to high demand - BBC",
-      "description": "LAS declares critical incident after more than 7,000 calls are made for three consecutive days.",
-      "url": "https://www.bbc.com/news/articles/cvp86l7j5ey8o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7688/live/22661750-e43d-11f1-8346-933d3547e297.png",
-      "publishedAt": "2026-11-19T18:37:19Z",
-      "content": "\"The number of calls has remained very high for several days, so we have declared a critical incident to take extra steps to reach patients who need us most urgently,\" said Craig Harman, chief operat… [+18 chars]"
+      "title": "People entering old age now have better memory than their parents did - Nature",
+      "description": "Older people today maintain memory function for longer than previous generations did, according to a study of 219,000 adults.",
+      "url": "https://www.nature.com/articles/d41586-026-03783-9",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03783-9/d41586-026-03783-9_53993154.jpg",
+      "publishedAt": "2026-11-19T18:29:46Z",
+      "content": "Improvements in education, lifestyle and health during early life are slowing rates of cognitive decline in older people.Credit: Laura Olivas/Getty\r\nPeople born later in the twentieth century have a … [+2713 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Eatingwell.com"
+        "name": "Medical Xpress"
       },
-      "author": "Lauren Manaker M.S., RDN, LD, CLEC",
-      "title": "What Happens to Your Brain When You Drink a Diet Soda Every Day - AOL.com",
-      "description": "Is that bubbly diet soda doing more than quenching your thirst? Here’s what science says about its impact on your brain.",
-      "url": "https://www.eatingwell.com/does-diet-soda-affect-your-brain-12182043",
-      "urlToImage": "https://hermes.media.static.aol.com/media/2026/11/19/2ba75594-dbd5-34c6-a3a1-1d4886b6ec2b/83db6d9f-4f15-49f6-934b-b1de3fc6a8b6.jpg",
-      "publishedAt": "2026-11-19T18:00:00Z",
-      "content": "Reviewed by Dietitian Lisa Valente, M.S., RD\r\n<ul><li>Aspartame may influence brain health, affecting neurotransmitters, mood and headaches.\r\n</li><li>A daily diet soda could impact the gut-brain con… [+8531 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Queerty.com"
-      },
-      "author": "David Hudson",
-      "title": "Grindr’s new filter hasn’t been fully rolled out yet & it’s already causing controversy - Queerty",
-      "description": "Raising awareness about PrEP is a good thing, but some are questioning the way Grindr is doing it.",
-      "url": "https://www.queerty.com/grindrs-new-filter-hasnt-been-fully-rolled-out-yet-its-already-causing-controversy-20261119/",
-      "urlToImage": "https://queerty-wp.b-cdn.net/2026/08/grindr-sub-scaled.jpg?focus_crop=2560%2C1347%2C0.62%2C0.51&width=1200&height=630&quality=85&format=jpeg",
-      "publishedAt": "2026-11-19T16:00:00Z",
-      "content": "Grindr has rolled out some new features this week. This includes its new, top-tier Edge membership, which uses AI to help users better match with others.\r\nAlthough Edges $120-a-month price tag has gr… [+6482 chars]"
+      "author": null,
+      "title": "The connection between high-fat ketogenic diets and weight loss - Medical Xpress",
+      "description": "Ketogenic diets have attracted enormous attention for their purported health benefits, particularly their ability to promote weight loss. Despite their popularity, studies investigating the composition of these high-fat, low-carbohydrate regimens have produce…",
+      "url": "https://medicalxpress.com/news/2026-11-high-fat-ketogenic-diets-weight.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/keto-diet-3.jpg",
+      "publishedAt": "2026-11-19T15:20:10Z",
+      "content": "Ketogenic diets have attracted enormous attention for their purported health benefits, particularly their ability to promote weight loss. Despite their popularity, studies investigating the compositi… [+6609 chars]"
     },
     {
       "source": {
@@ -246,28 +285,54 @@
     {
       "source": {
         "id": null,
-        "name": "News-Medical.Net"
+        "name": "Nature.com"
       },
       "author": null,
-      "title": "Frequent night shifts linked to changes in heart structure and function - News-Medical",
-      "description": "Frequent night-shift work is associated with differences in the structure of the heart and how the heart muscle functions, according to a new study published today in the European Heart Journal – Cardiovascular Imaging.",
-      "url": "https://www.news-medical.net/news/20261119/Frequent-night-shifts-linked-to-changes-in-heart-structure-and-function.aspx",
-      "urlToImage": "https://www.news-medical.net/image-handler/picture/2017/1/Anatomy_of_Human_Heart.-Liya_Graphics_5ac9d64765b747899bc4a9ef77468432-620x480.jpg",
-      "publishedAt": "2026-11-19T12:39:00Z",
-      "content": "Frequent night-shift work is associated with differences in the structure of the heart andhow the heart muscle functions, according to a new study published today in the European Heart Journal – Card… [+4907 chars]"
+      "title": "Facial photographs reveal mortality risk beyond triage and clinical risk scores - Nature",
+      "description": "Using 27,660 smartphone facial photos, researchers showed that the facial appearance from emergency admission predicts mortality and high-risk patients better than triage, early warning scores, vitals, or lab tests.",
+      "url": "https://www.nature.com/articles/s41467-026-79581-8.pdf",
+      "urlToImage": null,
+      "publishedAt": "2026-11-19T13:41:53Z",
+      "content": "Rapid risk stratification is essential in the clinic, yet vital signs, laboratory tests, and triage scores often miss important risk at presentation. Here we show that a single facial photograph cont… [+919 chars]"
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "Jocoreport.com"
       },
-      "author": "ScienceAlert",
+      "author": "https://www.facebook.com/johnstoncountyreport",
+      "title": "WakeMed Announces New Visitor Restrictions Effective November 19 - JoCo Report",
+      "description": "RALEIGH – WakeMed has implemented its annual visitor restrictions as respiratory illnesses increase across the region. Effective Thursday, November 19, children younger than 12 will not be permitted to visit patients in WakeMed hospital nursing units, patient…",
+      "url": "https://jocoreport.com/wakemed-announces-new-visitor-restrictions-effective-november-19/",
+      "urlToImage": "https://jocoreport.com/wp-content/uploads/2022/08/WakeMed-FI.jpg",
+      "publishedAt": "2026-11-19T13:00:00Z",
+      "content": "RALEIGH WakeMed has implemented its annual visitor restrictions as respiratory illnesses increase across the region.\r\nEffective Thursday, November 19, children younger than 12 will not be permitted t… [+1150 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TODAY"
+      },
+      "author": "A. Pawlowski",
+      "title": "High Cortisol Can Affect Your Heart. Doctors Share 6 Ways to Lower It Naturally - TODAY.com",
+      "description": "Cortisol is a stress hormone that can lead to high blood pressure and heart problems. A doctor shares a tip for lowering cortisol naturally.",
+      "url": "https://www.today.com/health/mind-body/cortisol-stress-hormone-heart-disease-lower-naturally-rcna605722",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-11/Expert-tip-of-the-day-lower-cortisol-as11182026-9c2bbe.jpg",
+      "publishedAt": "2026-11-19T13:00:00Z",
+      "content": "Cortisol doesnt have a good reputation, especially when it comes to heart health.\r\nMany people know it as a stress hormone triggered by deadlines, lifes pressures, and conflicts at home and at work.\r… [+3132 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "David Nield",
       "title": "Scientists Link 2 Simple Eating Habits to Lasting Lower Weight - ScienceAlert",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRDhIc1pQdDNSWk9uUDRBMzlXaGpRczBrRkRTek1ydXMyQWROQThWNzA3bzUteHVHTWs5bnV2ZElGdTN5TmlBQV81MzJaRVRIQ3FZR0pNMWNHSU5Rc1J5T2o2U2FrMk9LckF6bzNQeGdkMmxRMFVMQVhZemVCU3Zld1JUZzF2THByWjJ5QXR0UkRPUHlfRnc?oc=5",
-      "urlToImage": null,
+      "description": "In the hustle and bustle of modern life, the best weight-loss tips are simple ideas that will hopefully stick, and one study revealed a couple of new ones that qualify: fast for longer overnight and eat breakfast earlier.",
+      "url": "https://www.sciencealert.com/scientists-link-2-simple-eating-habits-to-lasting-lower-weight",
+      "urlToImage": "https://www.sciencealert.com/images/2026/10/Woman_Eating_With_Fork_Contemplating_With_Eyes_Closed.jpg",
       "publishedAt": "2026-11-19T11:03:25Z",
-      "content": null
+      "content": "In the hustle and bustle of modern life, the best weight-loss tips are simple ideas that will hopefully stick, and one study revealed a couple of new ones that qualify: fast for longer overnight and … [+4592 chars]"
     },
     {
       "source": {
@@ -375,6 +440,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Kstp.com"
+      },
+      "author": "Ryan Pattee",
+      "title": "Minnesota to look at removing non-medical vaccine exemption this legislative session - 5 EYEWITNESS NEWS",
+      "description": "Minnesota families can request both medical and non-medical exemptions to vaccine requirements, but medical groups are trying to change that as measles cases rise.",
+      "url": "https://kstp.com/kstp-news/top-news/minnesota-to-look-at-removing-non-medical-vaccine-exemption-this-legislative-session/",
+      "urlToImage": "https://kstp.com/wp-content/uploads/2026/11/Religious-Ex-Removal.jpg",
+      "publishedAt": "2026-11-19T04:33:12Z",
+      "content": "Minnesota families can request both medical and non-medical exemptions to vaccine requirements, but medical groups are trying to change that as measles cases rise.\r\nThe number of Minnesota students w… [+2343 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -401,16 +479,16 @@
     },
     {
       "source": {
-        "id": "google-news",
-        "name": "Google News"
+        "id": null,
+        "name": "Colorado Public Radio"
       },
-      "author": "Colorado Public Radio",
+      "author": "John Daley",
       "title": "Looks like Colorado could be in for another bad flu season, and 3 out of 4 people aren’t vaccinated - Colorado Public Radio",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRzF1MUNUSUhqYkY0VXk4ZXlwRE9KbHBtd1BEQ1NRN2J1ZE1lajIxYXotbE9DQkJSeFpva0FDcXFPS1lteWltRGtmUlpUWGFMcjlLM1lHY2RxYUxfX2tiWmdlNDJ1Q3pFdk1tNmRzMEJxSGo4X0VyRmotOWN1cjFoMzdB?oc=5",
-      "urlToImage": null,
+      "description": "Colorado doctors hope not to repeat another sneezy, and congested holiday season, but flu hospitalization numbers keep rising.",
+      "url": "https://www.cpr.org/2026/11/18/colorado-bad-flu-season-low-vaccination-rate/",
+      "urlToImage": "https://www.cpr.org/cdn-cgi/image/width=1200,height=630,fit=crop,gravity=auto,quality=75,format=auto/https://wp-cpr.s3.amazonaws.com/uploads/2026/11/261118-INFLUENZA-HOSPITALIZATIONS-HEALTHCARE-CHART-KEVINJBEATY-01.jpg",
       "publishedAt": "2026-11-19T01:05:39Z",
-      "content": null
+      "content": "Flu hospitalizations in Colorado keep climbing, with the busy holiday season kicking off when Thanksgiving arrives next week.\r\nThe figure rose again, to 157, in the latest numbers released on the sta… [+4133 chars]"
     },
     {
       "source": {
@@ -424,32 +502,6 @@
       "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/149279860.jpg?quality=75&strip=all&w=1200",
       "publishedAt": "2026-11-19T00:51:00Z",
       "content": "Cases of the flu are already cropping up across the country in an early spike.\r\nIn its weekly influenza update, the Centers for Disease Control and Prevention has alerted that seasonal flu activity i… [+2870 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Daily Beast"
-      },
-      "author": "Christopher Buchanan",
-      "title": "RFK Jr.’s Measles Cure Theory Comes Back to Light - Yahoo News New Zealand",
-      "description": "Health Secretary Robert F. Kennedy Jr. is under fire for telling a Pennsylvania religious community now ravaged by measles that the cure is not vaccination,...",
-      "url": "https://www.thedailybeast.com/rfk-jrs-crackpot-measles-cure-comes-back-to-haunt-him/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/46eebf716c1c59603f6bbd6590c7ecce17cb6e794209b6fa4731618f09dfcbf7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthedailybeast.com%2F4b75a1a28e6b305103eb802b0d510bbc.jpg",
-      "publishedAt": "2026-11-18T23:59:14Z",
-      "content": "Health Secretary Robert F. Kennedy Jr. is under fire for telling a Pennsylvania religious community now ravaged by measles that the cure is not vaccination, but \"chicken soup.\"\r\nResurfaced footage fr… [+3514 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "A glucose-powered artificial neuroimmune axis for metabolic control - Nature",
-      "description": "NeuroAxis restores glucose tolerance, improves insulin sensitivity and normalizes glycaemic control, with therapeutic effects persisting after treatment cessation in rat models of type 1 and type 2 diabetes.",
-      "url": "https://www.nature.com/articles/s41586-026-11251-7",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11251-7/MediaObjects/41586_2026_11251_Fig1_HTML.png",
-      "publishedAt": "2026-11-18T22:12:50Z",
-      "content": "<li>Lazar, M. A. How obesity causes diabetes: not a tall tale. Science307, 373375 (2005).\r\nArticle \r\n PubMed \r\nGoogle Scholar \r\n</li><li>Tracey, K. J. The inflammatory reflex. Nature420, 853859 (2002… [+10384 chars]"
     },
     {
       "source": {
@@ -476,32 +528,6 @@
       "urlToImage": "https://komonews.com/resources/media/162e9c75-99ac-47b3-8c12-f0ac3042f473-jumbo16x9_AP22230666465323.jpg?1660852131978",
       "publishedAt": "2026-11-18T21:57:40Z",
       "content": "YAKIMA, Wash. The Washington State Department of Labor and Industries (L&amp;I) is inspecting two Central Washington dairy farms where an employee worked before dying Nov. 1 from complications of avi… [+1412 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science.org"
-      },
-      "author": null,
-      "title": "NIH director calls for new probe of controversial COVID-19 origin paper - Science | AAAS",
-      "description": "Bhattacharya wants Nature Medicine to review whether former NIH leaders ghostwrote manuscript challenging theory an engineered virus caused pandemic",
-      "url": "https://www.science.org/content/article/nih-director-calls-new-probe-controversial-covid-19-origin-paper",
-      "urlToImage": "https://www.science.org/cms/asset/25b30fec-7fbf-4fa6-801b-8ee3f619171c/media/_20261118_on_origins_paper_lede.jpg",
-      "publishedAt": "2026-11-18T21:49:00Z",
-      "content": "When it comes to resolving the mysterious origin of the COVID-19 pandemic, new evidence remains in short supplybut that doesnt stop old issues from being endlessly relitigated.\r\nIn an unusual letter … [+5107 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WPTZ"
-      },
-      "author": "Isabel Meara",
-      "title": "Multiple cases of dog fungal disease reported in New York - WPTZ",
-      "description": "The Lake Placid Animal Hospital is warning about multiple cases of Blastomycosis, a fungal disease that can affect dogs and humans. Anyone who may be affected is asked to reach out.",
-      "url": "https://www.mynbc5.com/article/blastomycosis-cases-lake-placid-ny/74466332",
-      "urlToImage": "https://kubrick.htvapps.com/htv-prod/images/363497c6-3fe9-422d-8b81-29bae7dd2b6b.jpg?crop=1.00xw%3A0.943xh%3B0%2C0&resize=1200%3A*",
-      "publishedAt": "2026-11-18T21:24:00Z",
-      "content": "LAKE PLACID, N.Y.The Lake Placid Animal Hospital is warning dog owners in Northern New York after a number of Blastomycosis cases were reported in the area. \r\nThis content is imported from facebook. … [+2352 chars]"
     },
     {
       "source": {
@@ -544,19 +570,6 @@
     },
     {
       "source": {
-        "id": "the-hill",
-        "name": "The Hill"
-      },
-      "author": "Caroline Jaime",
-      "title": "Unhappy marriages could cause dementia: New study - The Hill",
-      "description": "The study says chronic loneliness triggers inflammation through prolonged activation of stress and immune pathways.",
-      "url": "https://thehill.com/policy/healthcare/6228174-unhappy-marriages-dementia-risk-study/",
-      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/03/69aec01606f589.61427052-e1795025030801.jpeg?w=1280",
-      "publishedAt": "2026-11-18T18:09:00Z",
-      "content": "Skip to content\r\nby Caroline Jaime - 11/18/26 1:09 PM ET\r\nby Caroline Jaime - 11/18/26 1:09 PM ET\r\n(NewsNation) — New research by the University of Bordeaux, published in the journal Aging &amp; Ment… [+2454 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -567,6 +580,45 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/03/multimedia/00SCI-US-CHINA-IP-01-qhfc/00SCI-US-CHINA-IP-01-qhfc-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-18T18:06:58Z",
       "content": "Concerns that well-funded Chinese companies will swoop in to grab new ideas for their own drug development are shaping an industry unaccustomed to such secrecy."
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Elie Dolgin",
+      "title": "Lifting weights on a GLP-1 is critical — but not because it saves muscle - The Washington Post",
+      "description": "Researchers have some of the first rigorous evidence that pumping iron is worth the effort, though perhaps not for the reason most people expect.",
+      "url": "https://www.washingtonpost.com/health/2026/11/18/lifting-weights-glp-1-is-critical-not-because-it-saves-muscle/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/5VYRD2LJZLPIZ35CGGSNURH5PA.jpg&w=1440",
+      "publishedAt": "2026-11-18T18:00:00Z",
+      "content": "Hit the gym or lose your muscle. Thats the warning many people hear when starting a GLP-1 weight-loss drug.\r\nNow, researchers in Australia have some of the first rigorous evidence that pumping iron i… [+72 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Newsnationnow.com"
+      },
+      "author": "Caroline Jaime",
+      "title": "Unhappy marriages could cause dementia: New study - NewsNation",
+      "description": "The study says chronic loneliness triggers inflammation through prolonged activation of stress and immune pathways.",
+      "url": "https://www.newsnationnow.com/health/unhappy-marriages-dementia-new-study/",
+      "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/11/gettyimages-2166873152-594x594-1.jpg?w=1280",
+      "publishedAt": "2026-11-18T17:59:11Z",
+      "content": "(NewsNation) New research by the University of Bordeaux, published in the journal Aging &amp; Mental Health, found very lonely people over 65 had a 38% risk of developing dementia. Interestingly, alm… [+2317 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YourTango"
+      },
+      "author": "Lyss Micalizzi",
+      "title": "People Who Don’t Get Sad When It Gets Dark At 5 PM Usually Have 6 Specific Habits - YourTango",
+      "description": "Most of us want to crawl into bed the second it gets dark at 5 p.m., yet the people who stay upbeat all winter have six habits that keep them going.",
+      "url": "https://www.yourtango.com/self/winter-habits-of-people-dont-get-sad-sun-goes-down",
+      "urlToImage": "https://www.yourtango.com/sites/default/files/image_blog/2026-11/winter-habits-of-people-dont-get-sad-sun-goes-down.png",
+      "publishedAt": "2026-11-18T17:33:54Z",
+      "content": "Looking out the window at 5 p.m. and seeing pitch-black sky is enough to make almost anyone want to put on pajamas and call it a day. Once the weather turns cold and the days get shorter, slipping in… [+5411 chars]"
     },
     {
       "source": {
@@ -609,16 +661,29 @@
     },
     {
       "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
+        "id": null,
+        "name": "Nature.com"
       },
-      "author": "Laura Ungar",
-      "title": "With measles spreading, do you need a booster shot? - AP News",
-      "description": "Now that measles is back in the U.S., Mexico and Bolivia, some are asking if adults need a booster shot. Experts say the answer is generally no. Most people are already protected. Doctors say getting two doses of the MMR vaccine is the best way to protect aga…",
-      "url": "https://apnews.com/article/measles-mmr-booster-9d5dd493c125ee7b950eb24af303c6a5",
-      "urlToImage": "https://dims.apnews.com/dims4/default/7cea4f1/2147483647/strip/true/crop/2655x1860+0+0/resize/1200x841!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F92%2F11%2Fb13a208b8bc6c9c7ea66c83e7544%2Fdb2eca4fb33648a7aa481f6adc14aa48",
-      "publishedAt": "2026-11-18T15:41:00Z",
-      "content": "Now that measles is officially back in the U.S., some Americans are asking: Do adults need a booster shot?\r\nGenerally, experts say, the answer is no.\r\nMost people are protected without getting a boos… [+4164 chars]"
+      "author": null,
+      "title": "Ferroptosis in cancer cells triggers PGE2 production for tumour immune escape - Nature",
+      "description": "Ferroptotic cancer cells activate a molecular program that causes increased levels of PGE2, which in turn impairs type 1 conventional dendritic cell function, compromising antitumour CD8+ T cell immunity.",
+      "url": "https://www.nature.com/articles/s41586-026-11333-6",
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11333-6/MediaObjects/41586_2026_11333_Fig1_HTML.png",
+      "publishedAt": "2026-11-18T16:27:22Z",
+      "content": "Mice\r\nAll mice used in this study were on a C57BL/6J genetic background and obtained from Jackson Laboratory (JAX). Ptger2/Ptger4fl/fl mice were generated by crossing Ptger2/ mice (004376, JAX) to Pt… [+29099 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Verywellhealth.com"
+      },
+      "author": "https://www.facebook.com/verywell",
+      "title": "Dietitians Share the 2 Best Fruits for Managing High Blood Sugar - Verywell Health",
+      "description": "We asked two registered dietitians for the best fruits to eat for managing high blood sugar.",
+      "url": "https://www.verywellhealth.com/best-fruits-managing-high-blood-sugar-12238092",
+      "urlToImage": "https://www.verywellhealth.com/thmb/DiZZvHqxumr4AuUVDXbucWbL1K0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/VWH-GettyImages-1503811895-7f28fd01f1e141b18eabc02828fa0283.jpg",
+      "publishedAt": "2026-11-18T15:00:00Z",
+      "content": "<ul><li>Raspberries are high in fiber and low in sugar, which can help manage blood sugar.</li><li>Avocados are rich in healthy fats and fiber and are naturally low in carbohydrates.</li><li>Eat frui… [+3401 chars]"
     },
     {
       "source": {
@@ -636,15 +701,15 @@
     {
       "source": {
         "id": null,
-        "name": "Science Daily"
+        "name": "ScienceAlert"
       },
-      "author": null,
-      "title": "MIT discovers that aging weakens the brain’s nighttime cleaning system - ScienceDaily",
-      "description": "MIT researchers have discovered that the brain’s natural waste-removal system becomes significantly less effective during sleep as people age. The decline is linked to weaker deep-sleep brain waves and changes in blood flow, potentially offering new clues abo…",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261114202137.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/brain-disease-neuroscience-psychology.webp",
-      "publishedAt": "2026-11-18T12:09:09Z",
-      "content": "While we sleep, the brain carries out an essential maintenance process that helps wash away accumulated waste. But new research from MIT suggests that this natural cleaning system becomes less effect… [+10241 chars]"
+      "author": "Peter Dockrill",
+      "title": "Scientists Found a Genius Way to Boost Your Brain's Overnight Cleaning System - ScienceAlert",
+      "description": "Each night, as sleep takes hold, you drift off to a place known to nobody else.",
+      "url": "https://www.sciencealert.com/scientists-found-a-genius-way-to-boost-your-brains-overnight-cleaning-system",
+      "urlToImage": "https://www.sciencealert.com/images/2026/11/woman-sleeping.jpg",
+      "publishedAt": "2026-11-18T14:03:18Z",
+      "content": "Each night, as sleep takes hold, you drift off to a place known to nobody else.\r\nWhile you're away there, the brain's nightly wash cycle begins.\r\nWaves of cerebrospinal fluid (CSF) flow over and thro… [+3802 chars]"
     },
     {
       "source": {
@@ -662,19 +727,6 @@
     {
       "source": {
         "id": null,
-        "name": "WBUR"
-      },
-      "author": null,
-      "title": "How pelvic floor physical therapy works and why few talk about it - WBUR",
-      "description": "Pelvic floor dysfunction is a group of health conditions that includes several disorders that can be disruptive to daily life, from prolapse to urinary incontinence, bowel control problems and pain. Many patients are unaware that specialized physical therapy …",
-      "url": "https://www.wbur.org/news/2026/11/18/massachusetts-pelvic-floor-dysfunction-physical-therapy",
-      "urlToImage": "https://media.wbur.org/wp/2026/11/PelvicFloor_Illo_Lightning-2048x1653.jpg",
-      "publishedAt": "2026-11-18T10:51:10Z",
-      "content": "(Caroline Hu for WBUR/Catchlight)\r\nSeven years ago, Meredith Krueger was in a dark place. She had a 2-year-old at home, in Beverly, and had just given birth to her second daughter. And something in h… [+8651 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Medical Xpress"
       },
       "author": null,
@@ -684,32 +736,6 @@
       "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2025/walking-3.jpg",
       "publishedAt": "2026-11-18T08:10:02Z",
       "content": "A randomized trial published in Obesity indicates that interrupting prolonged sitting with frequent brisk walks can improve blood glucose regulation to a greater extent than the same amount of walkin… [+1888 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Health.com"
-      },
-      "author": "https://www.facebook.com/Health/",
-      "title": "How Drinking Coffee Before Water in the Morning Could Influence Your Blood Pressure - Health.com",
-      "description": "Drinking coffee and skipping water in the morning may increase the risk of dehydration, a potential risk factor for increased blood pressure.",
-      "url": "https://www.health.com/blood-pressure-coffee-before-water-in-the-morning-12263445",
-      "urlToImage": "https://www.health.com/thmb/a62x-tfdVaiOrmzNg5aU1t2wx_c=/6000x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-GettyImages-1362172129-d49b763e549146149f69c8e455e72ec3.jpg",
-      "publishedAt": "2026-11-18T08:00:00Z",
-      "content": "Reaching for a cup of coffee first thing in the morning is routine for a lot of people. But having that cup of joe before water might leave you dehydrated. Dehydration, along with a couple other effe… [+4787 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The-independent.com"
-      },
-      "author": "Anthony Cuthbertson",
-      "title": "Scientists invent electric comb that restores hair growth ‘nearly 100%’ - The Independent",
-      "description": "Researchers say Detangle system could treat androgenetic alopecia, also known as male-pattern baldness",
-      "url": "https://www.the-independent.com/tech/hair-loss-electric-comb-bald-china-b3086861.html",
-      "urlToImage": "https://static.the-independent.com/2026/11/16/13/32/electric-comb-hair-loss-bald.png?trim=0,4,3,0&width=1200&height=800&crop=1200:800",
-      "publishedAt": "2026-11-18T04:24:00Z",
-      "content": "Scientists in China have invented a new type of comb that stimulates rapid hair regrowth and can help reverse baldness.\r\nResearchers claim the electronic comb, dubbed Detangle, is vastly more effecti… [+2568 chars]"
     },
     {
       "source": {
@@ -723,19 +749,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/17/multimedia/17DC-FDA-OVERTON-hpzm/17DC-FDA-OVERTON-hpzm-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-18T03:26:28Z",
       "content": "The Senate health committee was scheduled to vote on her nomination Wednesday morning after wrestling with concerns about her stance on abortion and vaccines."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newser"
-      },
-      "author": "Jenn Gidman",
-      "title": "GLP-1 Drugs and Kids: 'Is It the Right Thing?' - Newser",
-      "description": "Weight loss drugs show reductions in children's BMI but raise questions about slowed growth",
-      "url": "https://www.newser.com/story/400109/glp-1s-help-kids-slim-down-but-may-slow-growth.html",
-      "urlToImage": "https://cdn.newser.com/image/1724963-12-20261117163003.jpeg",
-      "publishedAt": "2026-11-17T22:00:00Z",
-      "content": "Both drugs improved blood sugar and some cholesterol, but they caused nausea and vomiting in many, and up to 17% of trial participants quit. With nearly 1 in 5 US children considered obese, experts a… [+488 chars]"
     },
     {
       "source": {
@@ -762,19 +775,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/17/multimedia/17dc-measles-look-forward-01-zkgv/17dc-measles-look-forward-01-zkgv-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-17T18:12:15Z",
       "content": "It may take years for the country to regain elimination status. In the meantime, communities will need to adopt numerous strategies to protect people."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Newsnationnow.com"
-      },
-      "author": "Taylor Delandro",
-      "title": "Respiratory illnesses surge across US as CDC warns of unusual trends - NewsNation",
-      "description": "The CDC is monitoring four illnesses, including strep, rhinovirus, walking pneumonia and whooping cough.",
-      "url": "https://www.newsnationnow.com/health/respiratory-illnesses-surge-cdc-warning/",
-      "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/11/Untitled-November-17-2026-at-08.51.44-2.png?w=1280",
-      "publishedAt": "2026-11-17T17:00:59Z",
-      "content": "(NewsNation) Several respiratory illnesses are circulating across the U.S., with health officials warning some viruses are showing unusual trends for this time of year.\r\nAccording to the Centers for … [+2837 chars]"
     },
     {
       "source": {
@@ -831,28 +831,15 @@
     {
       "source": {
         "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "Generational gains in cognitive capacity and dementia incidence rates in Western countries - Nature",
-      "description": "A study of longitudinal cohorts from Europe and the United States over 30 years showed that later-born generations benefit from higher cognitive capacity and memory stability, which may explain the trend of declining dementia incidence rates.",
-      "url": "https://www.nature.com/articles/s41591-026-04759-y",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04759-y/MediaObjects/41591_2026_4759_Fig1_HTML.png",
-      "publishedAt": "2026-11-17T10:35:51Z",
-      "content": "<li>Larson, E. B., Yaffe, K. &amp; Langa, K. M. New insights into the dementia epidemic. N. Engl. J. Med.369, 22752277 (2013).\r\nArticle \r\n CAS \r\n PubMed \r\n PubMed Central \r\nGoogle Scholar \r\n</li><li>… [+17052 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "ScienceAlert"
       },
       "author": "Michelle Starr",
-      "title": "A Gene Inherited From Neanderthals Is Still Shaping Human Brains – And May Affect Schizophrenia Risk - ScienceAlert",
-      "description": "Tens of thousands of years ago, the last Neanderthal disappeared from our world.",
+      "title": "A Gene Inherited From Neanderthals Is Still Shaping Human Brains – And May Affect Schizophrenia Risk - Yahoo",
+      "description": "We carry them with us.",
       "url": "https://www.sciencealert.com/a-gene-inherited-from-neanderthals-is-still-shaping-human-brains-and-may-affect-schizophrenia-risk",
-      "urlToImage": "https://www.sciencealert.com/images/2026/11/skulls.png",
-      "publishedAt": "2026-11-16T20:02:51Z",
-      "content": "Tens of thousands of years ago, the last Neanderthal disappeared from our world.\r\nBut the ghost of this ancient human relative lives on its lingering traces haunting the Homo sapiens genetic code.\r\nI… [+7125 chars]"
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/69b3b92b672c9e7beb34704fec2f2e2e045e481a46b79045e83f11c7039f4c6e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsciencealert_160%2F61f32a2111bf4b371001c0ca9e316103.png",
+      "publishedAt": "2026-11-16T20:00:00Z",
+      "content": "Tens of thousands of years ago, the last Neanderthal disappeared from our world.\r\nBut the ghost of this ancient human relative lives on its lingering traces haunting the Homo sapiens genetic code.\r\nI… [+7085 chars]"
     },
     {
       "source": {
@@ -866,19 +853,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/10/28/us/00well-science-patient-promo/00well-science-patient-promo-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-16T15:03:46Z",
       "content": "For 27 years, the Pediatric Brain Tumor Consortium worked to save kids with brain cancer. But just before 5-year-old Ryleigh Schecter was diagnosed, the government shut it down."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Health.com"
-      },
-      "author": "https://www.facebook.com/Health/",
-      "title": "More Adults Over 65 Are Taking GLP-1s—Here’s Why Doctors Urge Caution - Health.com",
-      "description": "GLP-1 medications can improve health and mobility in older adults, but they also carry unique risks. Learn what experts say about taking these drugs after 65.",
-      "url": "https://www.health.com/glp-1-risks-older-adults-12121106",
-      "urlToImage": "https://www.health.com/thmb/aztjdVKNQPFNKDyqK6G2IYuOrwg=/8256x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-GettyImages-2286508296-e0d30d56497d4b88ad38627e7230ad03.jpg",
-      "publishedAt": "2026-11-16T13:55:00Z",
-      "content": "GLP-1s have made a world of difference for Patricia Nece. Since the 68-year-old started the medication three years ago, her weight, blood pressure, and cholesterol have all gone down. But the biggest… [+8216 chars]"
     },
     {
       "source": {
@@ -931,19 +905,6 @@
       "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1936x1089+0+175/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc9%2F07%2F44eecfd64374a4f6afd0e028b630%2Fgettyimages-2251705905.jpg",
       "publishedAt": "2026-11-16T10:00:00Z",
       "content": "If you want to maintain a healthy weight, you probably know you should watch what you eat and get some exercise, maybe hit the gym. But what about hitting the hay?\r\nThere is a lot of evidence linking… [+5909 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Real Simple"
-      },
-      "author": "https://www.facebook.com/realsimple/",
-      "title": "Can Eating More Protein at Dinner Help You Sleep Better? Experts Reveal What Actually Works - Real Simple",
-      "description": "Protein does plenty for your body, but better sleep isn’t guaranteed. Here’s whether adding more to your dinner actually makes a difference.",
-      "url": "https://www.realsimple.com/can-high-protein-dinner-help-you-sleep-12242368",
-      "urlToImage": "https://www.realsimple.com/thmb/jHKVhP4hY_7dpVOHv0KoXiIBIMk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/grilled-turkey-GettyImages-1356168089-222bd5b6c0b345cf81518c2c361db51a.jpg",
-      "publishedAt": "2026-11-15T22:45:00Z",
-      "content": "Not many people plan their weekly dinner rotation with sleep in mind. Its not exactly fun to think about your tossing and turning while scrolling through easy weeknight recipes. But what you eat for … [+3149 chars]"
     },
     {
       "source": {
@@ -1022,19 +983,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/12/07/multimedia/07DC-RFK-FUTURE-top-mgkj/07DC-RFK-FUTURE-top-mgkj-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-13T14:38:11Z",
       "content": "Most Democrats abhor the health secretary’s stance on vaccines, but some see an opportunity to win voters from his MAHA movement by joining with him on food and environmental issues."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Michael Paulson",
-      "title": "Jessica Chastain to Star in New Broadway Play ‘Lost Lear’",
-      "description": "Chastain will portray an actress with dementia whose most vivid memories are of rehearsing for the title role in “King Lear.”",
-      "url": "https://www.nytimes.com/2026/11/11/theater/jessica-chastain-broadway-lost-lear.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/06/multimedia/00cul-broadway-chastain-htmg/00cul-broadway-chastain-htmg-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-11T22:00:06Z",
-      "content": "Chastain will portray an actress with dementia whose most vivid memories are of rehearsing for the title role in “King Lear.”"
     }
   ]
 }

@@ -1,7 +1,46 @@
 {
   "status": "ok",
-  "totalResults": 87,
+  "totalResults": 92,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Sarah Bahr",
+      "title": "Why Nostalgia for Tamagotchis, the Virtual Pets, Won’t Die",
+      "description": "Millennials are answering the beeping call of the pocket-size game that caused a sensation 30 years ago. But analog-craving Gen Zers are, too.",
+      "url": "https://www.nytimes.com/2026/11/21/arts/tamagotchis-comeback.html",
+      "urlToImage": null,
+      "publishedAt": "2026-11-21T11:05:08Z",
+      "content": "Millennials are answering the beeping call of the pocket-size game that caused a sensation 30 years ago. But analog-craving Gen Zers are, too."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "William J. Broad",
+      "title": "A New Era of A.I.-Driven Chaos? That Might Just Be Progress.",
+      "description": "If artificial intelligence is giving rise to outages, cyberattacks and more, it’s consistent with history, in that it shows how new innovations often set off calamitous failure before they make life better.",
+      "url": "https://www.nytimes.com/2026/11/21/science/outages-tech-history.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/22/multimedia/22sci-failure-top1-kgbl/22sci-failure-top1-kgbl-mediumSquareAt3X-v4.jpg",
+      "publishedAt": "2026-11-21T10:02:09Z",
+      "content": "If artificial intelligence is giving rise to outages, cyberattacks and more, it’s consistent with history, in that it shows how new innovations often set off calamitous failure before they make life better."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Julian E. Barnes, Paul Mozur and Ana Swanson",
+      "title": "Alice Huang, Accused of Spying on Nvidia’s CEO, Is Linked to Firms With Ties to China’s Military",
+      "description": "Companies linked to Alice Huang, the woman at the heart of the Nvidia scandal, are part of a network of Chinese tech firms and defense contractors that need advanced computing power.",
+      "url": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-spy-chip-tbpw/19dc-spy-chip-tbpw-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-21T05:13:03Z",
+      "content": "Companies linked to Alice Huang, the woman at the heart of the Nvidia scandal, are part of a network of Chinese tech firms and defense contractors that need advanced computing power."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -25,21 +64,8 @@
       "description": "The president suggested he would tax the same companies, though it was not clear how he would carry out the plan unveiled at a news conference.",
       "url": "https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html",
       "urlToImage": "https://static01.nyt.com/images/2026/11/20/multimedia/20biz-trump-news-data-centers-qjpt/20biz-trump-news-data-centers-qjpt-mediumSquareAt3X-v2.jpg",
-      "publishedAt": "2026-11-20T18:51:22Z",
+      "publishedAt": "2026-11-20T18:51:23Z",
       "content": "The president suggested he would tax the same companies, though it was not clear how he would carry out the plan unveiled at a news conference."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Julian E. Barnes, Paul Mozur and Ana Swanson",
-      "title": "Alice Huang, Accused of Spying on Nvidia’s CEO, Is Linked to Firms With Ties to China’s Military",
-      "description": "Companies linked to Alice Huang, the woman at the heart of the Nvidia scandal, are part of a network of Chinese tech firms and defense contractors that need advanced computing power.",
-      "url": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-spy-chip-tbpw/19dc-spy-chip-tbpw-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-20T18:05:36Z",
-      "content": "Companies linked to Alice Huang, the woman at the heart of the Nvidia scandal, are part of a network of Chinese tech firms and defense contractors that need advanced computing power."
     },
     {
       "source": {
@@ -108,6 +134,32 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "PCMag.com"
+      },
+      "author": "Jordan Minor",
+      "title": "Everything You Missed on GTA 6 Launch Day (And the Tips Worth Knowing First) - PCMag",
+      "description": "The year’s biggest video game, Grand Theft Auto 6, finally launched on Thursday, November 19. Here's a recap of the top news, updates, and tips to help you explore Vice City.",
+      "url": "https://www.pcmag.com/news/everything-you-missed-gta-6-launch-day-and-the-tips-worth-knowing-first",
+      "urlToImage": "https://i.pcmag.com/imagery/articles/06HMV0EjAsmACTFEZcIne0x-1.fit_lim.size_1200x630.v1795025025.jpg",
+      "publishedAt": "2026-11-20T07:13:30Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "GTA 6 breaks records as sales top $2bn - industry estimate - BBC",
+      "description": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
+      "url": "https://www.bbc.com/news/articles/c9zr5nyv5dj2o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5ccb/live/0f9f2750-e493-11f1-a094-5fdc692f3e33.jpg",
+      "publishedAt": "2026-11-20T02:48:47Z",
+      "content": "That figure would rank GTA 6 among the highest-grossing entertainment releases ever, but it would still have some way to go to catch 1939's Gone with the Wind, which has made an estimated $4.5bn, adj… [+19 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -115,7 +167,7 @@
       "title": "Google Disrupts Its Search Advertising With Its Embrace of A.I.",
       "description": "The Silicon Valley giant’s search advertising has long fueled the company. But its search ad growth is slowing as A.I. becomes more prevalent.",
       "url": "https://www.nytimes.com/2026/11/19/technology/google-search-ads-ai.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/17/business/00biz-google/00biz-google-mediumSquareAt3X.jpg",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/21/business/21biz-google-B1/00biz-google-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-20T01:44:36Z",
       "content": "The Silicon Valley giant’s search advertising has long fueled the company. But its search ad growth is slowing as A.I. becomes more prevalent."
     },
@@ -134,16 +186,29 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Deadline"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "author": "Dominic Patten",
-      "title": "‘GTA VI’ Sales Surge Past $2 Billion On Launch Day As Vice City Mania Takes Over - Deadline",
-      "description": "The long awaited and twice delayed launch of Grand Theft Auto VI has made a killing and taken over the zeitgeist.",
-      "url": "http://deadline.com/2026/11/gta-6-sales-launch-day-surge-videogame-1237229514/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2026/11/GTA-6-Times-Square.jpg?w=1024",
-      "publishedAt": "2026-11-20T00:29:00Z",
-      "content": "The long-awaited and twice-delayed launch ofGrand Theft Auto VI has made a killing and taken over the zeitgeist.\r\nBy killing, we don’t just mean the mayhem of Vice City. We mean cold hard cash, digit… [+4443 chars]"
+      "author": "Lucas Ropek",
+      "title": "Apple may be developing its own AI agent that runs your Mac - TechCrunch",
+      "description": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/06/iphone-usb-cable.jpg?resize=1200,800",
+      "publishedAt": "2026-11-20T00:56:01Z",
+      "content": "Apple appears to be working on its own AI agent to conduct computer work on behalf of users including using apps, accessing websites, and coding, among other things.\r\nThe news was originally reported… [+2115 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Stone"
+      },
+      "author": "Nikki McCann Ramirez",
+      "title": "Some Gamers Are Pissed That ‘GTA VI’ Makes Them Be Nice to Their Girlfriend - Rolling Stone",
+      "description": "The new Grand Theft Auto features the franchise's first female protagonist — and some men are mad they have to treat her with respect.",
+      "url": "http://www.rollingstone.com/culture/culture-news/gta-vi-girlfriend-wife-nice-gamers-chuds-1235661480/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/11/GTA-VI-girlfriend.jpg?w=1600&h=900&crop=1",
+      "publishedAt": "2026-11-19T22:48:52Z",
+      "content": "Fellas, is it emasculating to love your virtual girlfriend? Does buying her flowers make you a cuck? Why can’t you hire a prostitute in the murder and grand larceny game? \r\nAll great questions. Let u… [+4598 chars]"
     },
     {
       "source": {
@@ -160,16 +225,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "MacRumors"
+        "id": "techcrunch",
+        "name": "TechCrunch"
       },
-      "author": "Mitchel Broussard",
-      "title": "MacBook Pro Black Friday Deals Are Here: Get Up to $250 Off M6 and PROLED XDR - MacRumors",
-      "description": "We're tracking the first ever discounts on Apple's newest MacBook Pros today on Amazon. This includes $150 off the 14-inch M6 MacBook...",
-      "url": "https://www.macrumors.com/2026/11/19/macbook-pro-black-friday-deals-3/",
-      "urlToImage": "https://images.macrumors.com/t/qD1p6XW3B4fOTXiUUHJLq-F33gs=/2500x/article-new/2026/11/macbook-pros-black-friday.jpeg",
-      "publishedAt": "2026-11-19T22:45:00Z",
-      "content": "We're tracking the first ever discounts on Apple's newest MacBook Pros today on Amazon. This includes $150 off the 14-inch M6 MacBook Pro, and up to $250 off the 16-inch MacBook Pro with PROLED XDR D… [+1624 chars]"
+      "author": "Sarah Perez",
+      "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you - TechCrunch",
+      "description": "IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun.",
+      "url": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/11/IconSwapper-Key-Art.jpg?resize=1200,630",
+      "publishedAt": "2026-11-19T22:33:26Z",
+      "content": "There’s a new way to keep an eye on your AI usage and when your limits reset: by using your Mac’s app icons. Yes, really!\r\nDesigner Michael Flarup has just launched a new Mac utility called IconSwapp… [+3700 chars]"
     },
     {
       "source": {
@@ -186,16 +251,42 @@
     },
     {
       "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
+        "id": null,
+        "name": "MacRumors"
       },
-      "author": "Mark Gurman",
-      "title": "Apple Is Working on AI Agent for Device Control, Apps, Browsing and Coding - Bloomberg.com",
-      "description": "Apple Inc. is developing its own autonomous artificial intelligence agent that can get things done on behalf of users, looking to enter a fast-growing market already being pursued by OpenAI, Anthropic PBC, Meta Platforms Inc. and others.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-19/apple-is-working-on-ai-agent-for-device-control-apps-browsing-and-coding",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBYr4yPkYRWM/v1/1200x800.jpg",
-      "publishedAt": "2026-11-19T21:44:56Z",
-      "content": "Apple Inc. is developing its own autonomous artificial intelligence agent that can get things done on behalf of users, looking to enter a fast-growing market already being pursued by OpenAI, Anthropi… [+336 chars]"
+      "author": "Joe Rossignol",
+      "title": "Black Friday Deal: Apple TV Streaming Service for $6.99/Month - MacRumors",
+      "description": "A new Black Friday deal for Apple TV will be rolling out today. Until November 30 at 8 p.m. Pacific Time, new and qualified returning customers in...",
+      "url": "https://www.macrumors.com/2026/11/19/apple-tv-black-friday-streaming-deal/",
+      "urlToImage": "https://images.macrumors.com/t/jb4VFrAh4bvpJS4f7DXXXCtJRQg=/1600x/article-new/2026/04/New-Apple-TV-Logo.jpeg",
+      "publishedAt": "2026-11-19T21:54:07Z",
+      "content": "A new Black Friday deal for Apple TV will be rolling out today. Until November 30 at 8 p.m. Pacific Time, new and qualified returning customers in the U.S. can subscribe to the Apple TV streaming ser… [+119 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Katie Collins",
+      "title": "GTA 6 Launch Day Hits Different for Fired Rockstar Workers - CNET",
+      "description": "Three people among the bigger group fired from Rockstar last year describe the \"bittersweetness\" of finally seeing the game they poured their hearts into out in the world.",
+      "url": "https://www.cnet.com/tech/gaming/gta-6-launch-day-hits-different-for-fired-rockstar-workers/",
+      "urlToImage": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2293929980.jpg",
+      "publishedAt": "2026-11-19T21:41:49Z",
+      "content": "As people across the world sneak a day away from the office to play the long-awaited Grand Theft Auto 6 on Thursday, the Rockstar employees who made the game are hopefully enjoying a well-earned day … [+5996 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Notebookcheck.net"
+      },
+      "author": "Adam Corsetti",
+      "title": "Cyberleek releases GTA 6 Xbox build, making playable PC port more realistic - Notebookcheck",
+      "description": "Cyberleek has made another comeback, leaking a November GTA 6 Xbox build. The download lacks the vital executable file, with its release timing depending on a new cryptocurrency goal. Hackers are studying the files for a potential Series X emulator or decompi…",
+      "url": "https://www.notebookcheck.net/Cyberleek-releases-GTA-6-Xbox-build-making-playable-PC-port-more-realistic.1454770.0.html",
+      "urlToImage": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/GTA6XboxBuildPC.jpg",
+      "publishedAt": "2026-11-19T21:40:00Z",
+      "content": "Just when it seemed Cyberleek had disappeared for good, the notorious leaker has returned. Even though the GTA 6 release date has passed, the individual has followed through on past threats. A decryp… [+2023 chars]"
     },
     {
       "source": {
@@ -213,28 +304,54 @@
     {
       "source": {
         "id": null,
-        "name": "Eurogamer.net"
+        "name": "Jalopnik"
       },
-      "author": "Dom Peppiatt",
-      "title": "Infamous GTA 6 leaker CyberLeek is back, and this time the group claims to have leaked a full development build of the game - Eurogamer.net",
-      "description": "The latest CyberLeek upload is titled: \"XBOX BUILD 1.0.2.1 (NOV 2026)\" and it's a big one.",
-      "url": "https://www.eurogamer.net/cyberleek-gta-6-dev-build",
-      "urlToImage": "https://assetsio.gnwcdn.com/gta-6-jason-against-fence-with-cops.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2026-11-19T21:08:50Z",
-      "content": "CyberLeek, the persona of a hacker group that was responsible for leaking GTA 6 gameplay before the game launched, has reappeared today, claiming to have released a development build of the final ver… [+2560 chars]"
+      "author": "Erik Sherman",
+      "title": "You Can Get A Free Classic Car And Garage In GTA 6, But Only Until Tomorrow - Jalopnik",
+      "description": "Haven't purchased GTA 6 yet? Today is your last day to grab a free classic car and garage space before the offer ends tomorrow.",
+      "url": "https://www.jalopnik.com/2322442/gta-6-grand-theft-auto-vintage-vice-city-pack-classic-car/",
+      "urlToImage": "https://www.jalopnik.com/img/gallery/you-can-get-a-free-classic-car-and-garage-in-gta-6-but-only-until-tomorrow/l-intro-1795122755.jpg",
+      "publishedAt": "2026-11-19T21:23:24Z",
+      "content": "Like it or not, you've probably encountered the GTA 6 hype in some manner or another. That is, unless you've been living under a rock. On a deserted island. An island on another planet. The twice-del… [+1507 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Variety"
+        "name": "Droid Life"
       },
-      "author": "William Earl",
-      "title": "'GTA 6': Fox News Slams Fans, Clavicular & Manosphere Bros Hate Lucia - Variety",
-      "description": "'Grand Theft Auto 6' is drawing controversy with right wing talking heads, who disapprove of people taking the day off to play it.",
-      "url": "https://variety.com/2026/gaming/news/gta-6-fox-news-clavicular-manosphere-lucia-1236953444/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2026/11/Grand-Theft-Auto-VI.png?crop=0px%2C0px%2C1762px%2C991px&resize=1000%2C563",
-      "publishedAt": "2026-11-19T20:59:00Z",
-      "content": "“Grand Theft Auto VI” is poised to break sales records and could even impact the larger economy as scores of fans take the day off work to cause digital mayhem. But some right-wing pundits aren’t thr… [+2001 chars]"
+      "author": "Kellen",
+      "title": "Here’s a Crazy Google Play Perk That Stacks Pixel 11 Pro Discounts to $675 Off - Droid Life",
+      "description": "Since we are starting to track Pixel 11 Pro Black Friday deals, we’ll continue to share updates as we find better deals than the last. I have one that I just stumbled onto through Google Play that could save you $675 off the Pixel 11 Pro XL, and no trade-ins …",
+      "url": "https://www.droid-life.com/2026/11/19/i-found-a-secret-google-play-perk-that-stacks-pixel-11-pro-discounts-to-675-off/",
+      "urlToImage": "https://www.droid-life.com/wp-content/uploads/2026/11/Pixel-11-Pro-vs-Galaxy-Z-Fold-8-4.jpg",
+      "publishedAt": "2026-11-19T21:16:23Z",
+      "content": "Since we are starting to track Pixel 11 Pro Black Friday deals, we’ll continue to share updates as we find better deals than the last. I have one that I just stumbled onto through Google Play that co… [+2560 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PCMag.com"
+      },
+      "author": "Jordan Minor",
+      "title": "PS5 vs. Xbox Series X for GTA 6? Here's How the Hardware and Prices Stack Up - PCMag",
+      "description": "GTA 6 is finally here, but you still need to pick a console to play it on. I break down the prices, performance differences, and overall value of every option now that we can all visit Vice City for ourselves.",
+      "url": "https://www.pcmag.com/news/ps5-vs-xbox-for-gta-6-heres-how-hardware-and-prices-stack-up",
+      "urlToImage": "https://i.pcmag.com/imagery/articles/03qbu9LJ8xwuFsB7acVRkCU-2.fit_lim.size_1200x630.v1787937826.png",
+      "publishedAt": "2026-11-19T21:05:16Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Ryan Christoffel",
+      "title": "Next year’s iPhone Pro redesign sounds like exactly what I’ve been wanting - 9to5Mac",
+      "description": "Rumors suggest Apple is designing an 'iPhone 20 Pro' that combines my two favorite current models: iPhone Air and iPhone 18 Pro.",
+      "url": "https://9to5mac.com/2026/11/19/next-years-iphone-pro-redesign-sounds-like-exactly-what-ive-been-wanting/",
+      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/iphone-20-pro-blue-mockup.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-11-19T20:49:00Z",
+      "content": "Rumors about next year’s 20th anniversary iPhone Pro models have been ramping up, and they suggest Apple is designing an ‘iPhone 20 Pro’ that combines traits from two current models.\r\nApple keeps exp… [+2120 chars]"
     },
     {
       "source": {
@@ -277,16 +394,29 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Defector.com"
+      },
+      "author": "Luis Paez-Pumar",
+      "title": "There’s Comfort In Conquering The Past - Defector",
+      "description": "The first time I played The Legend of Zelda: Ocarina of Time was during a hurricane. It was late 1999, I was 10 years old, Hurricane Irene was bearing down on Miami, and my friend Ryan had come over to spend the night. He had brought his copy of Ocarina of Ti…",
+      "url": "https://defector.com/theres-comfort-in-conquering-the-past",
+      "urlToImage": "https://lede-admin.defector.com/wp-content/uploads/sites/28/2026/11/smallerNS2_TheLegendofZeldaOcarinaofTime_scrn_04.png",
+      "publishedAt": "2026-11-19T19:34:00Z",
+      "content": "The first time I played The Legend ofZelda: Ocarina of Time was during a hurricane. It was late 1999, I was 10 years old, Hurricane Irene was bearing down on Miami, and my friend Ryan had come over t… [+8872 chars]"
+    },
+    {
+      "source": {
         "id": "the-verge",
         "name": "The Verge"
       },
-      "author": "Brad Bourque",
-      "title": "Sony’s WH-1000XM5 are cheaper than ever for Black Friday - The Verge",
-      "description": "The Sony WH-1000XM5 are among little dated, but are still among the best ANC headphones you can buy, particularly at their sub-$200 Black Friday price.",
-      "url": "https://www.theverge.com/gadgets/1037790/sony-wh-1000xm5-black-friday-deal-sale",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/DSCF7932.webp?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "publishedAt": "2026-11-19T19:35:52Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nLast-generation noise-cancelling headphones are still a great option for traveling or staying focused.\r\nLast-generation noise-cancelling headphones are still a g… [+2979 chars]"
+      "author": "Jay Peters",
+      "title": "You can now buy a Steam Machine without getting on a waitlist - The Verge",
+      "description": "Valve announced updates about Steam Machine availability, including that you can now buy a 512GB model without getting on a waitlist. 2TB models are out of stock.",
+      "url": "https://www.theverge.com/games/1038010/valve-steam-machine-waitlist-supply",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268581_Steam_Machine_AKrales_0372.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "publishedAt": "2026-11-19T19:33:22Z",
+      "content": "<ul><li></li><li></li><li></li></ul>\r\nValves 512GB Steam Machine is available to buy now, but the 2TB model is out of stock.\r\nValves 512GB Steam Machine is available to buy now, but the 2TB model is … [+2707 chars]"
     },
     {
       "source": {
@@ -316,6 +446,32 @@
     },
     {
       "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Ben Shimkus",
+      "title": "Big Tech companies are the butt of the joke in 'GTA 6' - Business Insider",
+      "description": "\"GTA 6\" gives Vice City its own app economy. From Amazon to Uber knockoffs, here's how Rockstar Games satirized our own tech world.",
+      "url": "https://www.businessinsider.com/gta-6-silicon-valley-references-rydeme-sahara-whatup-buckme-snapmatic-2026-11#article",
+      "urlToImage": "https://i.insider.com/6aff21970b69407d788a471e?width=1200&format=jpeg",
+      "publishedAt": "2026-11-19T19:24:00Z",
+      "content": "The \"Grand Theft Auto\" franchise has long skewered American life with a parade of double entendres.\r\nTake \"GTA 5\" as an example. Rockstar Games built Los Santos as a dystopic Los Angeles look-alike, … [+990 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Natalie Lung",
+      "title": "Google’s Gemini Can Now Control Mac Devices on Users’ Behalf - Bloomberg.com",
+      "description": "Google’s Gemini can now take control of Mac computers to complete tasks for users, matching a feature already offered by other popular AI assistants and raising the pressure on Apple Inc. to make Siri more capable.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/google-s-gemini-can-now-control-mac-devices-on-users-behalf",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i0q4.GejlMU8/v0/1200x800.jpg",
+      "publishedAt": "2026-11-19T18:55:31Z",
+      "content": "Googles Gemini can now take control of Mac computers to complete tasks for users, matching a feature already offered by other popular AI assistants and raising the pressure on Apple Inc. to make Siri… [+386 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -342,16 +498,29 @@
     },
     {
       "source": {
-        "id": "cbc-news",
-        "name": "CBC News"
+        "id": null,
+        "name": "Kotaku"
       },
-      "author": null,
-      "title": "Grand Theft Auto VI is a love story. No to hiring sex workers, yes to buying your girlfriend flowers - CBC",
-      "description": "Players jumping into Grand Theft Auto VI today may be surprised that they aren't able to commit some of the more morally objectionable acts that were possible in previous instalments.",
-      "url": "https://www.cbc.ca/news/entertainment/grand-theft-auto-6-sex-workers-relationship-9.7428220",
-      "urlToImage": "https://i.cbc.ca/ais/864d336e-02e7-4333-9bca-492d207f7418,1795107928114/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C3840%2C2160%29%3BResize%3D620",
-      "publishedAt": "2026-11-19T18:20:00Z",
-      "content": "This story contains spoilers for the first chapter of Grand Theft Auto VI\r\nPlayers jumping into Grand Theft Auto VI today may be surprised that they aren't able to commit some of the more morally obj… [+4710 chars]"
+      "author": "Rebekah Valentine",
+      "title": "Ubisoft Says It Has A 'Very Big Pipeline Of Productions' As It Lays Off Over 150 More Developers And Starts An AI Studio - Kotaku",
+      "description": "'Our production needs are changing'",
+      "url": "https://kotaku.com/ubisoft-lays-off-over-150-more-developers-with-no-big-releases-in-sight-2000758467",
+      "urlToImage": "https://kotaku.com/app/uploads/2023/02/db4438eec8aa988983cf2b0a7aa81229-1200x675.jpg",
+      "publishedAt": "2026-11-19T18:16:00Z",
+      "content": "Ahead of its quarterly earnings release and without any major releases on the horizon, Ubisoft is laying off 166 of its employees in Montreal and Quebec.\r\nThis was reported today by Vertical Slice, w… [+3256 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Juli Clover",
+      "title": "iPhone Duo vs. Samsung Galaxy Z Fold8: Which is Better? - MacRumors",
+      "description": "A couple of months before the iPhone Duo came out, Samsung launched the Galaxy Z Fold8. It's Samsung's widest and shortest foldable to date,...",
+      "url": "https://www.macrumors.com/2026/11/19/iphone-duo-vs-samsung-galaxy-z-fold8/",
+      "urlToImage": "https://images.macrumors.com/t/85vunbYejf4QA2maOsNKRGdauy0=/2500x/article-new/2026/11/iPhone-Duo-v-Z-Fold8-Thumb.jpg",
+      "publishedAt": "2026-11-19T18:04:57Z",
+      "content": "A couple of months before the iPhone Duo came out, Samsung launched the Galaxy Z Fold8. It's Samsung's widest and shortest foldable to date, with Samsung adopting an aspect ratio closer to the ‌iPhon… [+3596 chars]"
     },
     {
       "source": {
@@ -381,6 +550,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Nintendoeverything.com"
+      },
+      "author": "Brian",
+      "title": "Top 20 best-selling Wii games of all time in the U.S. revealed - Nintendo Everything",
+      "description": "The Wii just celebrated its 20th anniversary, and in honor of the occasion, Circana released a new set of data revealing the top 20 best-selling games of all time in the United States. The top spot goes to Wii Play. That game was known for selling very well, …",
+      "url": "https://nintendoeverything.com/top-20-best-selling-wii-games-of-all-time-in-the-u-s-revealed/",
+      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Best-selling-Wii-games-US.jpg",
+      "publishedAt": "2026-11-19T17:16:09Z",
+      "content": "The Wii just celebrated its 20th anniversary, and in honor of the occasion, Circana released a new set of data revealing the top 20 best-selling games of all time in the United States.\r\nThe top spot … [+1104 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -391,32 +573,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/18xp-prep-outage-hvjq/18xp-prep-outage-hvjq-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-19T16:49:41Z",
       "content": "A cascade of tech failures has rattled Americans and prompted many to look for ways to prepare for a prolonged digital disruption. Experts say it’s much like preparing for a storm."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "What Hi-Fi? US"
-      },
-      "author": "https://www.whathifi.com/us/author/daniel-furn",
-      "title": "The best early Black Friday deals: discounts on OLED TVs, wireless headphones and more, handpicked by our experts - What Hi-Fi?",
-      "description": "The top audio and home cinema savings – brought to you live by our reviewers!",
-      "url": "https://www.whathifi.com/live/news/early-black-friday-deals-19-11-2026",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/tRAjd7P8EHpFhxRdsKBDxK-1175-80.jpg",
-      "publishedAt": "2026-11-19T16:43:33Z",
-      "content": "2026-11-19T16:43:18.902ZBundle up for a system that will put a soundbar to shame \r\nSoundbars are certainly a nifty way to boost your TV's sound, but for a more enveloping auditory experience, you'll … [+16296 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Videocardz.com"
-      },
-      "author": null,
-      "title": "AMD XDNA 2 NPUs can now run 35B-parameter AI models through Unsloth Desktop - VideoCardz.com",
-      "description": "AMD Ryzen AI NPUs can now run large language models through Unsloth Desktop. The demonstrated 35B model requires around 28GB of available NPU memory.",
-      "url": "https://videocardz.com/newz/amd-xdna-2-npus-can-now-run-35b-parameter-ai-models-through-unsloth-desktop",
-      "urlToImage": "https://cdn.videocardz.com/1/2026/11/RYZEN-400-NPU-UNSLOTH.webp",
-      "publishedAt": "2026-11-19T16:42:39Z",
-      "content": "AMD has announced a collaboration with Unsloth to enable dedicated NPU acceleration in Unsloth Desktop. According to AMD, its XDNA 2 architecture is the first NPU architecture supported by the applic… [+1588 chars]"
     },
     {
       "source": {
@@ -433,6 +589,32 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Suzy Byrne",
+      "title": "'GTA 6' launch could make gaming history. Its mature rating should give parents pause. - Yahoo",
+      "description": "We break down what parents should know about 'GTA 6' content, how to handle your child's \"everyone else is playing\" argument and where to set boundaries.",
+      "url": "https://www.yahoo.com/entertainment/article/gta-6-launch-could-make-gaming-history-its-mature-rating-should-give-parents-pause-155546021.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/d2c9848fb5797f682dcba011addf60c6a9f0bcb10bc619bebf1478d44302ed4d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Flead-gta-parents_0234.jpg",
+      "publishedAt": "2026-11-19T16:13:44Z",
+      "content": "Grand Theft Auto VI has finally arrived and a full-on pop culture takeover may be underway.\r\nThe latest installment in Rockstar Games' blockbuster crime franchise, which arrived at midnight local tim… [+6563 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Simon Cardy",
+      "title": "I’ve Played Almost All of GTA 6’s Missions – These Are the Optional Quests You Really Shouldn’t Miss - IGN",
+      "description": "GTA 6 is full of optional activities, but some are more essential than others. These are the seven side missions you really shouldn't miss out on.",
+      "url": "https://www.ign.com/articles/gta-6-the-optional-missions-you-wont-want-to-miss",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/11/19/optional-blog-c-1795092990860.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2026-11-19T16:00:00Z",
+      "content": "This article is designed to point you in the direction of some of GTA 6s best side missions. While there are no story spoilers, I will be guiding you on how to find each quest-giver to make sure you … [+7456 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -443,19 +625,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/19/multimedia/anthropic-gulf-investors-fqhg/anthropic-gulf-investors-fqhg-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-19T15:35:29Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TechRepublic"
-      },
-      "author": "TechRepublic Staff",
-      "title": "Samsung One UI 9.5 Beta Is Here: 5 New Features and Which Galaxy Phones Qualify - TechRepublic",
-      "description": "Samsung One UI 9.5 beta brings five new features to eligible Galaxy S26 phones. See supported countries, installation steps, App Lock, and rollback risks.",
-      "url": "https://www.techrepublic.com/article/news-samsung-one-ui-9-5-beta-features-eligible-phones/",
-      "urlToImage": "https://assets.techrepublic.com/uploads/2026/11/Android-Update-in-a-Modern-Workspace-1.png?f=jpeg",
-      "publishedAt": "2026-11-19T15:30:19Z",
-      "content": "Samsungs One UI 9.5 beta brings App Lock, improved camera controls, and new Samsung Health tools to eligible Galaxy S26 phones. The program began Nov. 17 in six countries, giving users an early oppor… [+5441 chars]"
     },
     {
       "source": {
@@ -485,94 +654,94 @@
     },
     {
       "source": {
-        "id": "the-verge",
-        "name": "The Verge"
+        "id": null,
+        "name": "Kotaku"
       },
-      "author": "Cameron Faulkner",
-      "title": "The wait begins for GTA VI on PC - The Verge",
-      "description": "Grand Theft Auto 6 is now available for the PlayStation 5 and Xbox Series X / S. While PC gamers are left out, there are many indicators that it’ll be worth the wait.",
-      "url": "https://www.theverge.com/games/1036550/grand-theft-auto-6-gta-vi-pc-version-fomo",
-      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/GTAVI-15-copy.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "publishedAt": "2026-11-19T14:00:00Z",
-      "content": "<ul><li></li><li></li><li></li></ul>\r\nGiven how good the game is on console, the wait will almost certainly be worth it.\r\nGiven how good the game is on console, the wait will almost certainly be wort… [+4745 chars]"
+      "author": "Kenneth Shepard",
+      "title": "Rockstar Kept One Of GTA 6’s Biggest Early Spoilers Under Wraps For Years - Kotaku",
+      "description": "Why the hell would I do a lethal run of the game now?",
+      "url": "https://kotaku.com/grand-theft-auto-6-gta6-jason-lucia-tomas-kid-baby-non-lethal-ending-2000758396",
+      "urlToImage": "https://kotaku.com/app/uploads/2026/11/jaysun-1200x675.jpg",
+      "publishedAt": "2026-11-19T14:34:35Z",
+      "content": "Inevitably, my day job of keeping up with the biggest video game release of the past decade is going to put me in spoiler territory, but Im pretty pleased that I was able to avoid one of Grand Theft … [+3819 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Video Games Chronicle"
-      },
-      "author": "Chris Scullion",
-      "title": "On its 20th anniversary, here are the 30 best Wii games chosen by a former Official Nintendo Magazine writer - Video Games Chronicle",
-      "description": "Nintendo's revolutionary console turns two decades old today",
-      "url": "https://www.videogameschronicle.com/features/best-wii-games/",
-      "urlToImage": "https://www.videogameschronicle.com/files/2026/11/wii-me.jpg",
-      "publishedAt": "2026-11-19T13:27:49Z",
-      "content": "While everyone’s going Grand Theft Auto 6 crazy and jumping into the State of Leonida for the first time, we’re taking a moment to pay our respects to a console that never had a single GTA game.\r\nIt’… [+38224 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nintendoeverything.com"
-      },
-      "author": "Brian",
-      "title": "Famitsu sales (11/9/26 – 11/15/26) – Zelda: Ocarina of Time’s second week of sales are in - Nintendo Everything",
-      "description": "The latest Japanese hardware sales from Famitsu are as follows: Switch 2 – 42,402 PS5 Digital Edition – 10,448 Switch Lite – 2,197 Switch OLED – 973 PS5 Pro – 594 Switch – 582 Xbox Series X Digital Edition – 338 Xbox Series X – 331 PS5 – 94 Xbox Series S – 38…",
-      "url": "https://nintendoeverything.com/famitsu-sales-11-9-26-11-15-26-zelda-ocarina-of-times-second-week-of-sales-are-in/",
-      "urlToImage": "https://nintendoeverything.com/wp-content/uploads/Ocarina-5.jpg",
-      "publishedAt": "2026-11-19T13:15:48Z",
-      "content": "The latest Japanese hardware sales from Famitsu are as follows:\r\nSwitch 2 – 42,402PS5 Digital Edition – 10,448Switch Lite – 2,197Switch OLED – 973PS5 Pro – 594Switch – 582Xbox Series X Digital Editio… [+935 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Timeextension.com"
-      },
-      "author": "Damien McFerran",
-      "title": "'I'd Rather Have Hundreds of Games and Full Employment than One Game' - Warren Spector Hopes GTA 6 Is 'the Last of Its Kind' - Time Extension",
-      "description": "Doesn't \"represent a business model anyone else can or probably should emulate\"",
-      "url": "https://www.timeextension.com/news/2026/11/id-rather-have-hundreds-of-games-and-full-employment-than-one-game-warren-spector-hopes-gta-6-is-the-last-of-its-kind",
-      "urlToImage": "https://images.timeextension.com/657063a2d79a8/1280x720.jpg",
-      "publishedAt": "2026-11-19T13:06:06Z",
-      "content": "@Sketcz.\r\nThe 3D influences are pretty interesting as well especially the mention of Turbo Esprit which I had not considered...\r\nhttps://en.wikipedia.org/wiki/Turbo_Esprit\r\nPlus Hunter, The Terminato… [+2718 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Club386.com"
-      },
-      "author": "Samuel Willetts",
-      "title": "GTA VI will demand a powerful CPU to hit 60fps if it ever comes to PC - Club386",
-      "description": "Rockstar says the PS5 Pro's processor isn't powerful enough to push beyond 30fps in GTA VI, and it'll be difficult to double that on PC.",
-      "url": "https://www.club386.com/gta-vi-powerful-cpu-60fps-pc/",
-      "urlToImage": "https://www.club386.com/wp-content/uploads/2026/11/gta-vi-will-demand-a-powerful-cpu-to-hit-60fps-if-it-ever-comes-to-pc.jpg",
-      "publishedAt": "2026-11-19T12:56:07Z",
-      "content": "GTA VI is finally here and runs at a maximum of 30fps across all consoles, including the PS5 Pro, with developer Rockstar commenting that these systems simply don’t have enough processing power to re… [+4319 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TrueAchievements"
+        "name": "Phoronix"
       },
       "author": null,
-      "title": "Free Play Days features three free Xbox games this weekend - TrueAchievements",
-      "description": "We've discovered this weekend's Free Play Days games, which include Slayers X: Terminal Aftermath: Vengance of the Slayer, and two more Xbox games.",
-      "url": "https://www.trueachievements.com/news/xbox-free-play-days-november-19-2026",
-      "urlToImage": "https://www.trueachievements.com/imgs/181195/free-play-days.jpg",
-      "publishedAt": "2026-11-19T12:22:23Z",
-      "content": "Update: \r\nXbox has now announced that Thomas &amp; Friends: Wonders of Sodor is no longer included as part of Free Play Days this weekend. \r\nOriginal story:\r\nIt's that time of the week when we get ne… [+2139 chars]"
+      "title": "Unsloth Desktop Now Supports Using The AMD Ryzen AI NPU - Including On Linux - Phoronix",
+      "description": "AMD and Unsloth announced today that local NPU inference is now available for Unsloth Desktop, starting with the AMD Ryzen AI NPUs of XDNA 2 and later",
+      "url": "https://www.phoronix.com/news/Unsloth-Desktop-Ryzen-AI-NPU",
+      "urlToImage": "https://www.phoronix.net/image.php?id=2026&image=unsloth_amd_npu",
+      "publishedAt": "2026-11-19T14:25:00Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Eurogamer.net"
+        "name": "GQ Magazine"
       },
-      "author": "Sherif Saed",
-      "title": "GTA 6 developers at Rockstar are worried about being laid off after shipping \"the biggest game of all time\" - Eurogamer.net",
-      "description": "There are more than 4,700 people working at Rockstar. Will they all keep their jobs after GTA 6 is released?",
-      "url": "https://www.eurogamer.net/gta-6-rockstar-developers-layoffs-worries",
-      "urlToImage": "https://assetsio.gnwcdn.com/GTA_6_Ultimate_Edition_2.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2026-11-19T12:16:00Z",
-      "content": "Rockstar has successfully shipped Grand Theft Auto 6, after years of work and more than a billion dollars spent. GTA 6 is already one of the highest-rated games ever - Eurogamer awarded it five stars… [+2291 chars]"
+      "author": "Simon Parkin",
+      "title": "Rockstar Bet $1.5 Billion That Humans Could Make a Better GTA 6 Than AI - GQ",
+      "description": "GTA6 is a painstakingly detailed and hyperrealistic tribute to the kind of game-making the wider industry can no longer sustain.",
+      "url": "https://www.gq.com/story/grand-theft-auto-rockstar-games",
+      "urlToImage": "https://media.gq.com/photos/6afdf7fd8caf1422281e4dd6/16:9/w_1280,c_limit/GTA%206%20copy.jpg",
+      "publishedAt": "2026-11-19T14:00:00Z",
+      "content": "Since 1984, when Elite first used procedural generation to conjure an entire galaxy on a computer screen, game designers have learned to produce universes from scant technological resources. But in t… [+2381 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "80.lv"
+      },
+      "author": "Kseniya Serebrennikova",
+      "title": "Rockstar Confirms GTA 6 Won't Get 60 FPS Mode - 80 Level",
+      "description": "Even PlayStation 5 Pro users will have to enjoy the ride at 30 FPS.",
+      "url": "https://80.lv/articles/rockstar-confirms-gta-6-won-t-get-60-fps-mode",
+      "urlToImage": "https://cdn.80.lv/api/upload/meta/51094/images/6afef9a6bdd7a/contain_1200x630.jpg",
+      "publishedAt": "2026-11-19T13:32:18Z",
+      "content": "If you were hoping to get an insanely visually rich 60-FPS experience in GTA 6, we have bad news for you. Rockstar isn't planning to add any mode higher than the existing 30 FPS, not even 40 FPS. Tha… [+531 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Kim Lyons",
+      "title": "PlayStation Network outage has been resolved after it was down for thousands as 'GTA' launches today - Yahoo Tech",
+      "description": "Downdetector was showing a spike in outages on the PS network",
+      "url": "https://tech.yahoo.com/gaming/breaking-news/article/playstation-network-outage-has-been-resolved-after-it-was-down-for-thousands-as-gta-launches-today-130407145.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/6d2d55862d501f6b339a1736def9815395c52f953e6da312b8efbaa3b655d26a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2026-01%2Ff6710040-e6e7-11f0-9f7f-19982b1c3465",
+      "publishedAt": "2026-11-19T13:04:07Z",
+      "content": "PlayStation Network services have been restored after thousands of users reported outages while preparing their consoles for the launch of Grand Theft Auto VI.\r\nThe website outage trackerDowndetector… [+1785 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Iranintl.com"
+      },
+      "author": "Hooman Abedi",
+      "title": "GTA 6 costs, slow internet frustrate Iranian gamers, fuel satire - Iran International",
+      "description": "The release of Grand Theft Auto VI has sparked excitement, frustration and political satire among Iranian gamers, who face soaring prices, slow internet speeds and barriers to international payments.",
+      "url": "https://www.iranintl.com/en/202611194415",
+      "urlToImage": "https://i.iranintl.com/images/rdk9umy0/production/bfd6d4e6039d050ca7fc7f744700828d2ed2fffc-8009x5342.jpg?rect=0,569,8009,4205&w=1200&h=630&q=66&fit=max&auto=format",
+      "publishedAt": "2026-11-19T13:01:29Z",
+      "content": "Iran faces a peak gas deficit of about 430 million cubic meters daily, compared with 300 million before US-Israeli strikes damaged its energy infrastructure.\r\nHouseholds take priority, but how much o… [+5378 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Ben Lovejoy",
+      "title": "OLED iMac plans may be cancelled by Apple for two reasons - 9to5Mac",
+      "description": "Apple is considering abandoning plans to launch an OLED iMac, according to a new supply chain report. The news comes...",
+      "url": "https://9to5mac.com/2026/11/19/oled-imac-plans-may-be-cancelled-by-apple-for-two-reasons/",
+      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/11/OLED-iMac-may-be-cancelled-by-Apple-for-two-reasons.jpg?quality=82&strip=all&resize=1200,628",
+      "publishedAt": "2026-11-19T12:51:00Z",
+      "content": "Apple is considering abandoning plans to launch an OLED iMac, according to a new supply chain report. The news comes just weeks after the first OLED Mac was launched in the form of the new touchscree… [+1648 chars]"
     },
     {
       "source": {
@@ -602,6 +771,19 @@
     },
     {
       "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Tristan Ogilvie",
+      "title": "GTA 6's Prologue Can Go Way More Differently Than You Might Think - IGN",
+      "description": "GTA 6's prologue can go more way more differently than you might think.",
+      "url": "https://www.ign.com/articles/gta-6s-prologue-can-go-way-more-differently-than-you-might-think",
+      "urlToImage": "https://assets-prd.ignimgs.com/2026/11/19/prologue-blog-1795085546484.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "publishedAt": "2026-11-19T10:30:00Z",
+      "content": "Although it may seem like youre being overwhelmed from all angles by the police after Lucias bungled robbery in GTA 6s prologue, it is technically possible to evade them and make a clean getaway. Tha… [+6117 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -615,19 +797,6 @@
     },
     {
       "source": {
-        "id": "mashable",
-        "name": "Mashable"
-      },
-      "author": "Matt Binder, Timothy Beck Werth",
-      "title": "Is PlayStation down? Some gamers report problems with PlayStation servers amid 'GTA 6' launch. - Mashable",
-      "description": "Do you hear that sound? It's the sound of millions of gamers firing up their PlayStations at once.",
-      "url": "https://mashable.com/entertainment/gta-6-launch-day-check-for-playstation-outage-xbox-status",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/00oKmyeqqtSUWmQyV7zo2sR/hero-image.fill.size_1200x675.v1795065282.jpg",
-      "publishedAt": "2026-11-19T05:38:28Z",
-      "content": "access blocked\r\nYour access to the internet has been suspended for minutes for repeatedly attempting to visit blocked websites.\r\nYou are logged in as (IP Address: ).\r\n{\"en\":{\"access_disabled\":\"Intern… [+5666 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -638,6 +807,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/18biz-nvidia-call-cwjh/18biz-nvidia-call-cwjh-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-19T05:11:14Z",
       "content": "At an all-hands meeting with employees, Colette Kress sought to put the indiscretions of Nvidia’s co-founder, Jensen Huang, behind them."
+    },
+    {
+      "source": {
+        "id": "polygon",
+        "name": "Polygon"
+      },
+      "author": "Giovanni Colantonio",
+      "title": "All Cheat Codes in GTA 6 - Polygon.com",
+      "description": "Grand Theft Auto 6 features a huge list of cheats. Here's how to unlock them all, and what each one does.",
+      "url": "https://www.polygon.com/gta-6-cheat-codes-list-unlock/",
+      "urlToImage": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-6-jasopn-lucia-bank-robbery.jpg?w=1600&h=900&fit=crop",
+      "publishedAt": "2026-11-19T05:01:18Z",
+      "content": "The best part about any Grand Theft Auto game is the cheats, and Grand Theft Auto 6 delivers on that front. Rockstar's latest includes a whole mess of password-protected secrets that will really let … [+11923 chars]"
     },
     {
       "source": {
@@ -681,6 +863,19 @@
     {
       "source": {
         "id": null,
+        "name": "SamMobile"
+      },
+      "author": "SamMobile",
+      "title": "Samsung just broke an 8-year habit with the One UI 9.5 beta - SamMobile",
+      "description": null,
+      "url": "https://www.sammobile.com/news/samsung-broke-8-year-habit-one-ui-9-5-beta/",
+      "urlToImage": null,
+      "publishedAt": "2026-11-19T02:04:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
         "name": "RoadandTrack.com"
       },
       "author": "Emmet White",
@@ -690,19 +885,6 @@
       "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/658c2e55-36b0-48ad-a877-cab10950d3a2.jpg?crop=0.773xw:0.87xh;0.099xw,0.051xh&resize=1200:*",
       "publishedAt": "2026-11-19T01:00:00Z",
       "content": "Taking a vintage muscle car and swapping in modern components to make it run better or add power is a story as old as, well, the LS2 V-8. Vintage Moderns new Fastback Mustang turns that formula upsid… [+3020 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Push Square"
-      },
-      "author": "Sammy Barker",
-      "title": "New GTA 6 Players, Be Careful When Claiming Your GTA+ Pre-Order Bonus - Push Square",
-      "description": "Heads up",
-      "url": "https://www.pushsquare.com/news/2026/11/new-gta-6-players-be-careful-when-claiming-your-gtaplus-pre-order-bonus",
-      "urlToImage": "https://images.pushsquare.com/aa41bf83ff550/1280x720.jpg",
-      "publishedAt": "2026-11-19T01:00:00Z",
-      "content": "Image: Push Square\r\nAll GTA 6 pre-orders come with a free month of GTA+, which nets you some in-game bonuses like a free vehicle, garage, and higher selling prices.\r\nBut before you excitedly claim yo… [+1131 chars]"
     },
     {
       "source": {
@@ -745,6 +927,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "GamesRadar+"
+      },
+      "author": "Josh West",
+      "title": "How weapon ownership works in GTA 6 - GamesRadar+",
+      "description": "The difference between owned weapons, unowned weapons, and unique weapon variants in GTA 6",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-weapon-ownership-explained/",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/o974sHhptt5kXR6fW5fXzV-1920-80.jpg",
+      "publishedAt": "2026-11-19T00:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -768,6 +963,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/08/multimedia/insider-nvidia/08nvidia-what-we-know-gbfm-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-18T23:52:05Z",
       "content": "A global reporting effort by The New York Times included many twists and turns, from surprising photos and shipment records to a big break through astonishing tips from sources."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sammyguru.com"
+      },
+      "author": "David Buliga",
+      "title": "Exclusive: Galaxy Studio Has an 870mAh Battery, Wear Detection and a 3.5mm Jack - SammyGuru",
+      "description": "Exclusive APK findings reveal Samsung's Galaxy Studio headphones with ANC, 360 Audio, an 870mAh battery, wear detection, and USB-C and 3.5mm wired audio.",
+      "url": "https://sammyguru.com/samsung-galaxy-studio-features-specs-exclusive/",
+      "urlToImage": "https://sammyguru.com/wp-content/uploads/2026/11/galaxy-studio-controls-featured-cf11cf6f5e.jpg",
+      "publishedAt": "2026-11-18T23:26:04Z",
+      "content": "SammyGuru is reader-supported. We have affiliate and sponsored partnerships, so we may earn a commission when you buy through links on our site, at no extra cost to you. Posts may contain sponsored o… [+7539 chars]"
     },
     {
       "source": {
@@ -797,19 +1005,6 @@
     },
     {
       "source": {
-        "id": "techcrunch",
-        "name": "TechCrunch"
-      },
-      "author": "Sarah Perez",
-      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web - TechCrunch",
-      "description": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
-      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
-      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305773211.jpg?w=594",
-      "publishedAt": "2026-11-18T22:58:11Z",
-      "content": "Microsoft CEO Satya Nadella predicts that the rise of AI agents is going to reshape the economics of the internet, impacting the business models of the companies that rely on advertising and what he … [+1446 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "9to5google.com"
       },
@@ -823,19 +1018,6 @@
     },
     {
       "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Bethany Heitman",
-      "title": "51+ tech gifts anyone would be excited to unwrap - NBC News",
-      "description": "Shop the best tech gifts of 2026, including the Oura Ring 5, Nintendo Switch 2, a screen-free kids’ phone, a retro camcorder and a brand new laptop from Dell.",
-      "url": "https://www.nbcnews.com/select/shopping/best-tech-gifts-2026-rcna610086",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261112-best-tech-gifts-kb-main-edca80.jpg",
-      "publishedAt": "2026-11-18T21:30:00Z",
-      "content": "Whether youre shopping for a gamer, a frequent flyer, a music lover or that person who has to try every new gadget, tech gifts are some of the most exciting to give and receive. The best ones become … [+10302 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Video Games Chronicle"
       },
@@ -846,19 +1028,6 @@
       "urlToImage": "https://www.videogameschronicle.com/files/2026/11/gta-grand-theft-auto-6-pic15.jpg",
       "publishedAt": "2026-11-18T20:53:44Z",
       "content": "US Congressman Tim Burchett has spoken out against Grand Theft Auto 6, accusing the game of being a “how-to video” on committing crime.\r\nSpeaking with reporters on the eve of GTA 6’s release, Burchet… [+1724 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Marcus Mendes",
-      "title": "Instagram finally lets users edit Stories after publishing, but there’s a catch - 9to5Mac",
-      "description": "Every once in a while, Instagram rolls out an update that addresses one of its users’ most longstanding requests. Today is one of those days.",
-      "url": "https://9to5mac.com/2026/11/18/instagram-finally-lets-users-edit-stories-after-publishing-but-theres-a-catch/",
-      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/instagram-app-icon-new.jpg?quality=82&strip=all&resize=1200,628",
-      "publishedAt": "2026-11-18T20:48:00Z",
-      "content": "Every once in a while, Instagram rolls out an update that addresses one of its users most longstanding requests. Today is one of those days.\r\nAs spotted by The Verge, Instagram head Adam Mosseri conf… [+1132 chars]"
     },
     {
       "source": {
@@ -888,19 +1057,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "MacRumors"
-      },
-      "author": "Hartley Charlton",
-      "title": "iPhone 20 Pro Rumored to Return to Titanium - MacRumors",
-      "description": "Apple's rumored \"iPhone 20 Pro\" could return to titanium as part of a more rounded design, according to the leaker known as \"Fixed...",
-      "url": "https://www.macrumors.com/2026/11/18/iphone-20-pro-rumored-to-return-to-titanium/",
-      "urlToImage": "https://images.macrumors.com/t/FywzQnaWyiH-guHncrSr6CrQ1XE=/2000x/article-new/2026/11/Titanium-iPhone-15-Pro.jpg",
-      "publishedAt": "2026-11-18T17:13:27Z",
-      "content": "Apple's rumored \"iPhone 20 Pro\" could return to titanium as part of a more rounded design, according to the leaker known as \"Fixed Focus Digital.\"\r\nIn a new post on Weibo, the leaker said the iPhone … [+3654 chars]"
-    },
-    {
-      "source": {
         "id": "associated-press",
         "name": "Associated Press"
       },
@@ -914,71 +1070,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "9to5Mac"
-      },
-      "author": "Ryan Christoffel",
-      "title": "iPhone 18, iPhone Air 2 get new release timing updates - 9to5Mac",
-      "description": "iPhone 18 and iPhone Air 2 were absent from Apple's fall lineup, but they're still coming—and a new report covers release timing.",
-      "url": "https://9to5mac.com/2026/11/18/iphone-18-iphone-air-2-get-new-release-timing-updates/",
-      "urlToImage": "https://9to5mac.com/wp-content/uploads/sites/6/2025/11/iphone-air-2-camera-concept-blue.jpg?quality=82&strip=all&resize=1200,628",
-      "publishedAt": "2026-11-18T15:09:00Z",
-      "content": "Apple only launched high-end ‘Pro’ and ‘Duo’ iPhones this fall, marking a departure from previous years when more affordable models debuted too. But iPhone 18 and iPhone Air 2 are still coming, and a… [+1485 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PCGamesN"
-      },
-      "author": null,
-      "title": "Grand Theft Auto 6 is the big release in November 2026, but there are other games to consider for something different - PCGamesN",
-      "description": "Grand Theft Auto 6 is the big release coming in November 2026, but there are other exciting titles, too, and you can pick them all up on G2A.com.",
-      "url": "https://www.pcgamesn.com/november-2026-g2a",
-      "urlToImage": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/11/gta-6-rockstar-development.jpg",
-      "publishedAt": "2026-11-18T15:01:16Z",
-      "content": "The time is finally here. After years of waiting, Grand Theft Auto is upon us. While it'll take up the majority of players' time in November 2026, there are still some other games to keep on your rad… [+3660 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TrueAchievements"
-      },
-      "author": null,
-      "title": "Grand Theft Auto VI Xbox achievements revealed - TrueAchievements",
-      "description": "Now that GTA 6 has launched in New Zealand, we can check out its full Xbox achievement list. Be prepared for a grind because this will be a beast.",
-      "url": "https://www.trueachievements.com/news/grand-theft-auto-6-xbox-achievements",
-      "urlToImage": "https://www.trueachievements.com/imgs/181045/grand-theft-auto-6-xbox-achievements.jpg",
-      "publishedAt": "2026-11-18T14:06:55Z",
-      "content": "It has been a long wait, but Grand Theft Auto 6 is finally here. GTA fans in New Zealand are now starting their journeys in the open-world crime game, so we can check out its full Xbox achievement li… [+7388 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Video Games Chronicle"
-      },
-      "author": "Chris Scullion",
-      "title": "Grand Theft Auto 6 complete walkthrough hub - Video Games Chronicle",
-      "description": "Everything you need to know to complete GTA 6",
-      "url": "https://www.videogameschronicle.com/guide/grand-theft-auto-6-complete-walkthrough-hub/",
-      "urlToImage": "https://www.videogameschronicle.com/files/2026/10/grand-theft-auto-gta-6.jpg",
-      "publishedAt": "2026-11-18T12:37:06Z",
-      "content": "Grand Theft Auto 6 is finally here, and it’s easily one of the largest video games ever created.\r\nMaking your way through the State of Leonida can be a daunting prospect, and there may be parts of th… [+3002 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Insider-gaming.com"
-      },
-      "author": "Charlie Champion",
-      "title": "All GTA 6 Cheats—Best Grand Theft Auto 6 Cheat Codes - Insider Gaming",
-      "description": "Here's everything you need to know about cheats in Grand Theft Auto 6, including all of their inputs and what they do.",
-      "url": "https://insider-gaming.com/all-gta-6-cheats-best-grand-theft-auto-6-cheat-codes/",
-      "urlToImage": "https://insider-gaming.com/wp-content/uploads/2026/11/Vice_City_24-scaled.jpg",
-      "publishedAt": "2026-11-18T12:28:06Z",
-      "content": "Grand Theft Auto games have always been the perfect place to let loose and cause a little chaos, with their expansive open worlds giving you plenty of freedom to do whatever you want. GTA 6 is no dif… [+11693 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -989,19 +1080,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/17/multimedia/17biz-jensen-statement-vhjm/17biz-jensen-statement-vhjm-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-17T23:48:31Z",
       "content": "Mr. Huang resigned as chief executive of the company last week after revelations that he had affairs with an employee and a woman linked to Chinese intelligence."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Abcnews.com"
-      },
-      "author": "ABC News - Breaking News, Latest News and Videos",
-      "title": "What parents need to know about GTA 6 and kids - ABC News - Breaking News, Latest News and Videos",
-      "description": null,
-      "url": "https://abcnews.com/GMA/Family/parents-gta-6-kids/story?id\\\\u003d138089889",
-      "urlToImage": null,
-      "publishedAt": "2026-11-17T14:50:47Z",
-      "content": null
     },
     {
       "source": {
@@ -1093,19 +1171,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/15/multimedia/15xp-fan-fiction-tmqh/15xp-fan-fiction-tmqh-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-15T22:55:42Z",
       "content": "The archive, which is home to tales inspired by the likes of “Harry Potter” and “Heated Rivalry,” was taken down more than two weeks ago, leaving its fans bereft."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "David Streitfeld",
-      "title": "The Jensen Huang Scandal Has Shocked Even Scandal-Prone Silicon Valley",
-      "description": "As Jensen Huang abruptly departs, the tech community grapples with an eternal question: Why do the smartest and most successful men so often act so stupidly?",
-      "url": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-scandal-silicon-valley.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/15/multimedia/14bizsun-huang-valley-03-lpmz/14bizsun-huang-valley-03-lpmz-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-15T22:53:53Z",
-      "content": "As Jensen Huang abruptly departs, the tech community grapples with an eternal question: Why do the smartest and most successful men so often act so stupidly?"
     },
     {
       "source": {
