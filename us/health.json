@@ -1,7 +1,33 @@
 {
   "status": "ok",
-  "totalResults": 78,
+  "totalResults": 79,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Kevin Draper",
+      "title": "Judge Approves $7 Billion Settlement Over Claims That Roundup Caused Cancer",
+      "description": "The ruling, in a nationwide class-action suit, is expected to end tens of thousands of lawsuits by people claiming that Roundup caused non-Hodgkin lymphoma.",
+      "url": "https://www.nytimes.com/2026/11/20/business/judge-approves-7-billion-settlement-over-claims-that-roundup-caused-cancer.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/20/multimedia/20BIZ-ROUNDUP-fqct/20BIZ-ROUNDUP-fqct-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-21T03:23:04Z",
+      "content": "The ruling, in a nationwide class-action suit, is expected to end tens of thousands of lawsuits by people claiming that Roundup caused non-Hodgkin lymphoma."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Clay Risen",
+      "title": "Marsha Linehan Has Died. She Transformed Treatment for Personality Disorder.",
+      "description": "After her methods proved effective, she revealed that she had battled her own borderline personality disorder as a child.",
+      "url": "https://www.nytimes.com/2026/11/19/well/mind/marsha-linehan-dead.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/22/multimedia/18obit-linehan-lfcp-print1/18obit-linehan-lfcp-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-21T01:28:23Z",
+      "content": "After her methods proved effective, she revealed that she had battled her own borderline personality disorder as a child."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -30,6 +56,32 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "NBCSports.com"
+      },
+      "author": "Mike Florio",
+      "title": "Research moves closer to identifying CTE in living patients - NBC Sports",
+      "description": "The ability to detect CTE only through autopsies prevents football players from knowing whether they have it during their careers.",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/research-moves-closer-to-identifying-cte-in-living-patients",
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/82a76b3/2147483647/strip/true/crop/268x151+47+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2Faf%2F14%2F587e8d1c7bebaac926f9c6b08305%2Fbrain-scan-586732-e1506450764684.jpg",
+      "publishedAt": "2026-11-19T22:38:52Z",
+      "content": "The ability to detect CTE only through autopsies prevents football players from knowing whether they have it during their careers. Work continues to change that.\r\nVia ESPN, a pair of studies publishe… [+1882 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Margherita Bassi",
+      "title": "Why Nearly 1 in 7 College Students Have Tried Creatine - Gizmodo",
+      "description": "Creatine use among U.S. college students nearly doubled in 5 years, a new study finds. Here’s who’s trying it, and why researchers think it’s catching on.",
+      "url": "https://gizmodo.com/nearly-1-in-7-college-students-have-tried-this-muscle-supplement-heres-why-2000842661",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/11/creatine-and-protein-1200x675.jpg",
+      "publishedAt": "2026-11-19T21:50:44Z",
+      "content": "A few years ago, my brother became a committed gym bro. He researched effective workout routines, healthy protein-heavy diets, and the optimal supplement regime. It was in this context that I first h… [+3077 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -43,29 +95,55 @@
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
+        "id": "fox-news",
+        "name": "Fox News"
       },
-      "author": "Clay Risen",
-      "title": "Marsha Linehan Has Died. She Transformed Treatment for Personality Disorder.",
-      "description": "After her methods proved effective, she revealed that she had battled her own borderline personality disorder as a child.",
-      "url": "https://www.nytimes.com/2026/11/19/well/mind/marsha-linehan-dead.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/18obit-linehan-lfcp/18obit-linehan-lfcp-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-19T18:50:52Z",
-      "content": "After her methods proved effective, she revealed that she had battled her own borderline personality disorder as a child."
+      "author": null,
+      "title": "Popular alcoholic drinks linked to sudden kidney damage in 14-year study - Fox News",
+      "description": "Beer and hard liquor drinkers face a sharply higher risk of acute kidney injury, a UK Biobank study finds, while red and white wine showed no such link.",
+      "url": "https://www.foxnews.com/health/popular-alcoholic-drinks-linked-sudden-kidney-damage-14-year-study",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/cheers-beer-wine.gif",
+      "publishedAt": "2026-11-19T21:01:06Z",
+      "content": "People who regularly drink beer or hard liquor face a significantly higher risk of sudden kidney damage than light drinkers, while wine drinkers do not show the same increased risk, according to a la… [+3853 chars]"
     },
     {
       "source": {
-        "id": "espn",
-        "name": "ESPN"
+        "id": null,
+        "name": "WYFF4 Greenville"
       },
-      "author": "Shwetha Surendran and Mark Fainaru-Wada",
-      "title": "Studies: Blood test has potential to detect CTE in the living - ESPN",
-      "description": "A new blood test shows potential to detect advanced stages of chronic traumatic encephalopathy (CTE) in the living, according to two recent published studies.",
-      "url": "https://www.espn.com/nfl/story/_/id/50532686/studies-blood-test-potential-detect-cte-living",
-      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0904%2F260904_nfl_risk%2Dof%2Dcte_16x9.jpg",
-      "publishedAt": "2026-11-19T18:50:00Z",
-      "content": "Nov 19, 2026, 01:50 PM ET\r\nA new blood test shows potential to detect advanced stages of chronic traumatic encephalopathy (CTE) in the living, according to two recent studies published in the medical… [+3863 chars]"
+      "author": "Chloe McCoy",
+      "title": "Health officials warn after rabid cat, raccoon expose one person and one cat in SC - WYFF",
+      "description": "Health officials say a rabid cat and raccoon exposed one person and one cat in South Carolina, prompting a warning about vaccinations.",
+      "url": "https://www.wyff4.com/article/rabies-cases-vaccines-exposure/74481041",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/rabies-vaccine-1648241799.jpg?crop=1.00xw%3A0.991xh%3B0%2C0&resize=1200%3A*",
+      "publishedAt": "2026-11-19T20:22:22Z",
+      "content": "SPARTANBURG, S.C.Two animals and one person have been exposed to rabies in South Carolina, according to health officials.\r\nThe South Carolina Department of Public Health reported that a cat found nea… [+1484 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science.org"
+      },
+      "author": null,
+      "title": "Balancing redox-mediated cytotoxicity and catalysis in natural product biosynthesis - Science | AAAS",
+      "description": "Redox-mediated chemistry is central to both the biosynthesis and cytotoxicity of many natural products, yet how microbes balance these processes remains poorly understood. Here, we uncover a conserved mechanism that coordinates three redox-mediated ...",
+      "url": "https://www.science.org/doi/10.1126/science.aee2641",
+      "urlToImage": "https://www.science.org/cms/asset/2527a2da-9117-43e4-8c0d-96b7e917a103/science.aee2641-keyimage.gif",
+      "publishedAt": "2026-11-19T19:18:30Z",
+      "content": "eLetters is a forum for ongoing peer review. eLetters are not edited, proofread, or indexed, but they are screened. eLetters should provide substantive and scholarly commentary on the article. Neithe… [+506 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science.org"
+      },
+      "author": null,
+      "title": "A neural code for generative speech production in human Wernicke’s area - Science | AAAS",
+      "description": "Wernicke’s area in the posterior temporal lobe is classically defined by its role in speech comprehension, yet a paradox remains: Why does damage here also profoundly impair speech production? Using direct human brain recordings, cortical stimulation, ...",
+      "url": "https://www.science.org/doi/10.1126/science.aef8963",
+      "urlToImage": "https://www.science.org/cms/asset/7cdfd9c6-f278-4525-a1f0-0044fb858f35/science.aef8963-keyimage.gif",
+      "publishedAt": "2026-11-19T19:12:29Z",
+      "content": "eLetters is a forum for ongoing peer review. eLetters are not edited, proofread, or indexed, but they are screened. eLetters should provide substantive and scholarly commentary on the article. Neithe… [+506 chars]"
     },
     {
       "source": {
@@ -83,27 +161,53 @@
     {
       "source": {
         "id": null,
-        "name": "Crain's Chicago Business"
+        "name": "BBC News"
       },
       "author": null,
-      "title": "Hyde Park castle-in-the-sky condo sells for first time in five decades - Crain's Chicago Business",
-      "description": "The longtime home of an eminent University of Chicago scientist who died this year, the 1920s condo has stone arches, tall columns, balconies and other elements of a castle.",
-      "url": "https://www.chicagobusiness.com/real-estate/residential/ccb-bernard-roizman-hyde-park-castle-condo-20261118/",
-      "urlToImage": "https://www.chicagobusiness.com/resizer/v2/CZHBRQZE6VATPIMXWNKMBMB3SQ.jpg?auth=8afc58347b25f3cdce1b14dd934e4da35ab36dd2fefe9844809bbd3be8e8ae25",
-      "publishedAt": "2026-11-19T17:50:38Z",
-      "content": null
+      "title": "Ambulance service declares critical incident due to high demand - BBC",
+      "description": "LAS declares critical incident after more than 7,000 calls are made for three consecutive days.",
+      "url": "https://www.bbc.com/news/articles/cvp86l7j5ey8o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7688/live/22661750-e43d-11f1-8346-933d3547e297.png",
+      "publishedAt": "2026-11-19T18:37:19Z",
+      "content": "\"The number of calls has remained very high for several days, so we have declared a critical incident to take extra steps to reach patients who need us most urgently,\" said Craig Harman, chief operat… [+18 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "OregonLive"
+        "name": "Eatingwell.com"
       },
-      "author": "OregonLive.com",
-      "title": "Dear Doctor: I can get COVID and flu shots on the same day, but does that mean I should? - OregonLive.com",
+      "author": "Lauren Manaker M.S., RDN, LD, CLEC",
+      "title": "What Happens to Your Brain When You Drink a Diet Soda Every Day - AOL.com",
+      "description": "Is that bubbly diet soda doing more than quenching your thirst? Here’s what science says about its impact on your brain.",
+      "url": "https://www.eatingwell.com/does-diet-soda-affect-your-brain-12182043",
+      "urlToImage": "https://hermes.media.static.aol.com/media/2026/11/19/2ba75594-dbd5-34c6-a3a1-1d4886b6ec2b/83db6d9f-4f15-49f6-934b-b1de3fc6a8b6.jpg",
+      "publishedAt": "2026-11-19T18:00:00Z",
+      "content": "Reviewed by Dietitian Lisa Valente, M.S., RD\r\n<ul><li>Aspartame may influence brain health, affecting neurotransmitters, mood and headaches.\r\n</li><li>A daily diet soda could impact the gut-brain con… [+8531 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Queerty.com"
+      },
+      "author": "David Hudson",
+      "title": "Grindr’s new filter hasn’t been fully rolled out yet & it’s already causing controversy - Queerty",
+      "description": "Raising awareness about PrEP is a good thing, but some are questioning the way Grindr is doing it.",
+      "url": "https://www.queerty.com/grindrs-new-filter-hasnt-been-fully-rolled-out-yet-its-already-causing-controversy-20261119/",
+      "urlToImage": "https://queerty-wp.b-cdn.net/2026/08/grindr-sub-scaled.jpg?focus_crop=2560%2C1347%2C0.62%2C0.51&width=1200&height=630&quality=85&format=jpeg",
+      "publishedAt": "2026-11-19T16:00:00Z",
+      "content": "Grindr has rolled out some new features this week. This includes its new, top-tier Edge membership, which uses AI to help users better match with others.\r\nAlthough Edges $120-a-month price tag has gr… [+6482 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KTVB.com"
+      },
+      "author": "KTVB",
+      "title": "Chronic wasting disease detected in Idaho mule deer along Snake River - KTVB",
       "description": null,
-      "url": "https://www.oregonlive.com/advice/2026/11/dear-doctor-i-can-get-covid-and-flu-shots-on-the-same-day-but-does-that-mean-i-should.html",
+      "url": "https://www.ktvb.com/article/news/local/idaho/chronic-wasting-disease-detected-idaho-mule-deer-snake-river/277-c1b57284-5f93-4ddc-a5db-0c612fe0edf7",
       "urlToImage": null,
-      "publishedAt": "2026-11-19T15:00:00Z",
+      "publishedAt": "2026-11-19T15:10:00Z",
       "content": null
     },
     {
@@ -111,26 +215,65 @@
         "id": null,
         "name": "ScienceAlert"
       },
-      "author": "David Nield",
-      "title": "Scientists Link 2 Simple Eating Habits to Lasting Lower Weight - ScienceAlert",
-      "description": "In the hustle and bustle of modern life, the best weight-loss tips are simple ideas that will hopefully stick, and one study revealed a couple of new ones that qualify: fast for longer overnight and eat breakfast earlier.",
-      "url": "https://www.sciencealert.com/scientists-link-2-simple-eating-habits-to-lasting-lower-weight",
-      "urlToImage": "https://www.sciencealert.com/images/2026/10/Woman_Eating_With_Fork_Contemplating_With_Eyes_Closed.jpg",
-      "publishedAt": "2026-11-19T11:03:25Z",
-      "content": "In the hustle and bustle of modern life, the best weight-loss tips are simple ideas that will hopefully stick, and one study revealed a couple of new ones that qualify: fast for longer overnight and … [+4592 chars]"
+      "author": "Peter Dockrill",
+      "title": "This One Sleep Factor Matters More Than How Many Hours You Get, Study Suggests - ScienceAlert",
+      "description": "When it comes to sleep, it's easy to get caught up on numbers.",
+      "url": "https://www.sciencealert.com/this-one-sleep-factor-matters-more-than-how-many-hours-you-get-study-suggests",
+      "urlToImage": "https://www.sciencealert.com/images/2026/11/sleeping-woman.jpg",
+      "publishedAt": "2026-11-19T15:03:43Z",
+      "content": "When it comes to sleep, it's easy to get caught up on numbers.\r\nAfter all, there's a lot of advice out there on how many hours you should be getting for a healthy heart, or to lower your dementia ris… [+4689 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Gizmodo.com"
+        "name": "YourTango"
       },
-      "author": "Ed Cara",
-      "title": "Which Animal Germ Could Become the Next Major Human Disease? - Gizmodo",
-      "description": "Bird flu, coronaviruses, and many other unknown pathogens have the potential to jump into humans from animals and cause serious trouble.",
-      "url": "https://gizmodo.com/which-animal-germ-is-most-likely-to-become-the-next-major-human-disease-2000841153",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/11/Zoonotic-disease-Giz-Asks-1200x675.jpg",
-      "publishedAt": "2026-11-19T11:00:06Z",
-      "content": "Earlier this October, health officials in Europe reported the sort of news that might send a chill up people’s spines: they discovered the first known human case of a disease normally found in animal… [+18660 chars]"
+      "author": "The Mind's Journal",
+      "title": "People Who Don't Feel Anxious All The Time Know How To Regulate Themselves In 8 Easy Ways, Say Experts - YourTango",
+      "description": "According to experts, people who don't bleed and sweat anxiety all the time know a few tricks to keep themselves emotionally regulated.",
+      "url": "https://www.yourtango.com/self/people-dont-bleed-sweat-anxiety-regulate-themselves-easy-ways",
+      "urlToImage": "https://www.yourtango.com/sites/default/files/image_blog/2026-11/people-dont-bleed-sweat-anxiety-twenty-four-seven-habits-easily-regulate-themselves.png",
+      "publishedAt": "2026-11-19T14:44:11Z",
+      "content": "According to the American Psychological Association (APA), stress levels among American people have increased significantly in the past 10 years. The economy and workplace stress are the major factor… [+8528 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "News-Medical.Net"
+      },
+      "author": null,
+      "title": "Frequent night shifts linked to changes in heart structure and function - News-Medical",
+      "description": "Frequent night-shift work is associated with differences in the structure of the heart and how the heart muscle functions, according to a new study published today in the European Heart Journal – Cardiovascular Imaging.",
+      "url": "https://www.news-medical.net/news/20261119/Frequent-night-shifts-linked-to-changes-in-heart-structure-and-function.aspx",
+      "urlToImage": "https://www.news-medical.net/image-handler/picture/2017/1/Anatomy_of_Human_Heart.-Liya_Graphics_5ac9d64765b747899bc4a9ef77468432-620x480.jpg",
+      "publishedAt": "2026-11-19T12:39:00Z",
+      "content": "Frequent night-shift work is associated with differences in the structure of the heart andhow the heart muscle functions, according to a new study published today in the European Heart Journal – Card… [+4907 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "ScienceAlert",
+      "title": "Scientists Link 2 Simple Eating Habits to Lasting Lower Weight - ScienceAlert",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRDhIc1pQdDNSWk9uUDRBMzlXaGpRczBrRkRTek1ydXMyQWROQThWNzA3bzUteHVHTWs5bnV2ZElGdTN5TmlBQV81MzJaRVRIQ3FZR0pNMWNHSU5Rc1J5T2o2U2FrMk9LckF6bzNQeGdkMmxRMFVMQVhZemVCU3Zld1JUZzF2THByWjJ5QXR0UkRPUHlfRnc?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-11-19T11:03:25Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "Lexi Lonas Cochran",
+      "title": "Measles comeback puts daycares, schools on the front lines - The Hill",
+      "description": "Daycares and schools have a fight on their hands to keep students healthy after the U.S. officially lost its measles elimination status this week. As the highly contagious disease makes a comeback and vaccination rates dwindle, classrooms are prime targets fo…",
+      "url": "https://thehill.com/policy/healthcare/6228350-measles-status-daycares-schools-epidemic/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2026/11/measles_shot_mmr_south-carolina_03172026_AP26096555305099-2.jpg?w=1280",
+      "publishedAt": "2026-11-19T11:03:00Z",
+      "content": "Skip to content\r\nDaycares and schools have a fight on their hands to keep students healthy after the U.S. officially lost its measles elimination status this week.\r\nAs the highly contagious disease m… [+4896 chars]"
     },
     {
       "source": {
@@ -174,19 +317,6 @@
     {
       "source": {
         "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "Potatoes grown in simulated lunar soil match Earth-grown performance - Phys.org",
-      "description": "Researchers have shown that potatoes grown in simulated lunar soil amended with organic matter are safe to eat and can achieve growth and yields comparable to those produced on Earth. \"We found that potatoes can complete their entire life cycle in simulated l…",
-      "url": "https://phys.org/news/2026-11-potatoes-grown-simulated-lunar-soil.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/study-finds-potatoes-g.jpg",
-      "publishedAt": "2026-11-19T10:00:02Z",
-      "content": "Researchers have shown that potatoes grown in simulated lunar soil amended with organic matter are safe to eat and can achieve growth and yields comparable to those produced on Earth. \"We found that … [+3846 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "STAT"
       },
       "author": "Vishal Khetpal",
@@ -200,15 +330,15 @@
     {
       "source": {
         "id": null,
-        "name": "BBC News"
+        "name": "WGME"
       },
-      "author": null,
-      "title": "'Keep warm and meet friends': How older people stay well in winter - BBC",
-      "description": "As NHS winter pressures rise, older residents explain how they protect their health this season.",
-      "url": "https://www.bbc.com/news/articles/ck4gnqzz34djo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8294/live/76a4c6a0-e338-11f1-9479-d17d3e98c29d.png",
-      "publishedAt": "2026-11-19T07:30:09Z",
-      "content": "Busha Sharif, 71, from Eastville, said her children encourage her to get some fresh air whatever the weather."
+      "author": "WGME Staff",
+      "title": "3 deaths reported amid Washington County respiratory illness outbreak - WGME",
+      "description": "Maine CDC is monitoring a deadly respiratory illness outbreak in Washington County after 3 deaths. Officials cite elevated flu/COVID-19 and an isolated meningococcal case; Wreaths Across America confirms worker deaths.",
+      "url": "https://wgme.com/news/local/maine-cdc-tracks-flu-covid-19-and-one-meningococcal-case-after-two-respiratory-deaths",
+      "urlToImage": "https://wgme.com/resources/media2/16x9/3176/1320/0x1/90/9382fc00-ea3c-4541-847c-8e16f43f95fe-GettyImages456691988.jpg",
+      "publishedAt": "2026-11-19T09:25:30Z",
+      "content": "WASHINGTON COUNTY, Maine (WGME) -- The Maine CDC is monitoring a deadly outbreak of respiratory illnesses in Washington County after three people died.\r\nHealth officials say they are tracking higher-… [+705 chars]"
     },
     {
       "source": {
@@ -226,15 +356,15 @@
     {
       "source": {
         "id": null,
-        "name": "Kstp.com"
+        "name": "Jamanetwork.com"
       },
-      "author": "Ryan Pattee",
-      "title": "Minnesota to look at removing non-medical vaccine exemption this legislative session - 5 EYEWITNESS NEWS",
-      "description": "Minnesota families can request both medical and non-medical exemptions to vaccine requirements, but medical groups are trying to change that as measles cases rise.",
-      "url": "https://kstp.com/kstp-news/top-news/minnesota-to-look-at-removing-non-medical-vaccine-exemption-this-legislative-session/",
-      "urlToImage": "https://kstp.com/wp-content/uploads/2026/11/Religious-Ex-Removal.jpg",
-      "publishedAt": "2026-11-19T04:33:12Z",
-      "content": "Minnesota families can request both medical and non-medical exemptions to vaccine requirements, but medical groups are trying to change that as measles cases rise.\r\nThe number of Minnesota students w… [+2343 chars]"
+      "author": null,
+      "title": "IU Among US and Canadian Young Adults Attending College 1992-2023 - JAMA",
+      "description": "This meta-analysis investigates the evolution of intolerance of uncertainty (IU), a transdiagnostic risk factor for anxiety, in US and Canadian young adults attending college between 1992 and 2023.",
+      "url": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2856463",
+      "urlToImage": "https://cdn.jamanetwork.com/ama/content_public/journal/psych/0/yoi260055t1_1793809772.18733.png?Expires=2147483647&Signature=iqNRAairrlpENiGP6WQ0r6kQNz1INofD~RIFugt3Vgq5hyFfwslLNyR-SDCQuWa2GCpt2dii3mro8uPJdJsAlcVUW-4eWOIC3ljrbY~j2DBHX4tfB9h-x7MvZH0jrYIDNAL8Vq~Uufz8QygNrdU0d~6qLHa-US--8wmVIS0MLRxrxWT1fR5ywBh4eQkPRSvHMjityHJ27AcUVts4jyVwQsUYf3jfvDTuPGa-mGJfSkyVonBcbRMTMZJ8~-1xUAnZY~-9gHsUWgT4iIAS4mFkHvULMmnaLK4zGEdy-NQkBevinTLQ0ltu7wC4CDATiqhNaMvEZ8o7OpEiqrJdRvRfVw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
+      "publishedAt": "2026-11-19T06:18:32Z",
+      "content": "Key PointsQuestion \r\n How did intolerance of uncertainty, a transdiagnostic risk factor for anxiety, evolve in US and Canadian young adults attending college between 1992 and 2023?\r\nFindings \r\n In th… [+3135 chars]"
     },
     {
       "source": {
@@ -252,28 +382,41 @@
     {
       "source": {
         "id": null,
-        "name": "SciTechDaily"
+        "name": "FOX 31 Denver"
       },
-      "author": null,
-      "title": "A Study of 50,000 Children Reveals the Real Impact of Daily Iron Pills - SciTechDaily",
-      "description": "A major scientific review involving more than 50,000 children and adolescents reveals that daily iron supplementation can significantly reduce the risk of iron deficiency anemia.",
-      "url": "https://scitechdaily.com/a-study-of-50000-children-reveals-the-real-impact-of-daily-iron-pills/",
-      "urlToImage": null,
-      "publishedAt": "2026-11-19T01:33:44Z",
-      "content": "Iron supplements help the body produce hemoglobin, the protein in red blood cells that carries oxygen throughout the body. Commonly used to prevent and treat iron deficiency anemia, they can support … [+5446 chars]"
+      "author": "PJ Guidry",
+      "title": "Mpox case reported in the Denver metro area - KDVR",
+      "description": "Colorado health officials reported a case of mpox from a Denver resident in the metro area.",
+      "url": "https://kdvr.com/news/health/mpox-case-reported-in-the-denver-metro-area/",
+      "urlToImage": "https://kdvr.com/wp-content/uploads/sites/11/2024/12/67566e4a3d1d34.24669257.jpeg?w=1280",
+      "publishedAt": "2026-11-19T01:06:22Z",
+      "content": "DENVER (KDVR) Colorado health officials reported a case of mpox from a Denver resident in the metro area. According to the Colorado Department of Public Health and Environment website, the number of … [+1882 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "FOX 31 Denver"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": "KDVR",
-      "title": "Mpox case reported in the Denver metro area - KDVR",
+      "author": "Colorado Public Radio",
+      "title": "Looks like Colorado could be in for another bad flu season, and 3 out of 4 people aren’t vaccinated - Colorado Public Radio",
       "description": null,
-      "url": "https://kdvr.com/news/health/mpox-case-reported-in-the-denver-metro-area/",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRzF1MUNUSUhqYkY0VXk4ZXlwRE9KbHBtd1BEQ1NRN2J1ZE1lajIxYXotbE9DQkJSeFpva0FDcXFPS1lteWltRGtmUlpUWGFMcjlLM1lHY2RxYUxfX2tiWmdlNDJ1Q3pFdk1tNmRzMEJxSGo4X0VyRmotOWN1cjFoMzdB?oc=5",
       "urlToImage": null,
-      "publishedAt": "2026-11-19T01:06:22Z",
+      "publishedAt": "2026-11-19T01:05:39Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Fox News",
+      "title": "Flu activity rises to high levels across 6 US states: CDC says - New York Post",
+      "description": "CDC data shows an early US flu spike, with 2.6 million illnesses and 2,100 deaths reported so far.",
+      "url": "https://www.foxnews.com/health/flu-activity-rises-across-us-6-states-reach-high-levels-cdc-data-shows",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/149279860.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-11-19T00:51:00Z",
+      "content": "Cases of the flu are already cropping up across the country in an early spike.\r\nIn its weekly influenza update, the Centers for Disease Control and Prevention has alerted that seasonal flu activity i… [+2870 chars]"
     },
     {
       "source": {
@@ -281,25 +424,12 @@
         "name": "Daily Beast"
       },
       "author": "Christopher Buchanan",
-      "title": "RFK Jr.’s Measles Cure Theory Comes Back to Light - Yahoo",
+      "title": "RFK Jr.’s Measles Cure Theory Comes Back to Light - Yahoo News New Zealand",
       "description": "Health Secretary Robert F. Kennedy Jr. is under fire for telling a Pennsylvania religious community now ravaged by measles that the cure is not vaccination,...",
       "url": "https://www.thedailybeast.com/rfk-jrs-crackpot-measles-cure-comes-back-to-haunt-him/",
       "urlToImage": "https://s.yimg.com/lo/mysterio/api/46eebf716c1c59603f6bbd6590c7ecce17cb6e794209b6fa4731618f09dfcbf7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthedailybeast.com%2F4b75a1a28e6b305103eb802b0d510bbc.jpg",
       "publishedAt": "2026-11-18T23:59:14Z",
       "content": "Health Secretary Robert F. Kennedy Jr. is under fire for telling a Pennsylvania religious community now ravaged by measles that the cure is not vaccination, but \"chicken soup.\"\r\nResurfaced footage fr… [+3514 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Flu activity rises across US as 6 states reach high levels, CDC data shows - Fox News",
-      "description": "Cases of the flu are spiking early nationwide, with the CDC reporting Louisiana at very high activity and influenza A (H1N1) the top virus this season.",
-      "url": "https://www.foxnews.com/health/flu-activity-rises-across-us-6-states-reach-high-levels-cdc-data-shows",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/woman-sick-blowing-nose.jpg",
-      "publishedAt": "2026-11-18T22:33:23Z",
-      "content": "Cases of the flu are already cropping up across the country in an early spike.\r\nIn its weekly influenza update, the Centers for Disease Control and Prevention has alerted that seasonal flu activity i… [+2720 chars]"
     },
     {
       "source": {
@@ -381,19 +511,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "NewsCenterMaine.com WCSH-WLBZ"
-      },
-      "author": "newscentermaine.com",
-      "title": "3 dead after contracting respiratory viruses in Washington County - newscentermaine.com",
-      "description": null,
-      "url": "https://www.newscentermaine.com/article/news/health/3-dead-contracting-respiratory-viruses-washington-county-health-illness-maine/97-a1836dfe-fa44-4d0d-a508-85a007e19b99",
-      "urlToImage": null,
-      "publishedAt": "2026-11-18T20:53:00Z",
-      "content": null
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -404,6 +521,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/18SCI-NIH-CHIMPS-wmlq/18SCI-NIH-CHIMPS-wmlq-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-18T19:09:37Z",
       "content": "The National Institutes of Health, which stopped supporting invasive research on chimpanzees in 2015, previously said the animals were too old and frail to move."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Stem cell–derived nanoparticles modulate immune cells and help delay type 1 diabetes in mice - Phys.org",
+      "description": "In people with type 1 diabetes, the immune system mistakenly identifies insulin-producing cells in the pancreas as foreign and attacks them, leaving the body unable to properly regulate blood sugar. While insulin therapy helps manage the disease, it does not …",
+      "url": "https://phys.org/news/2026-11-stem-cellderived-nanoparticles-modulate-immune.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/stem-cell-derived-nano.jpg",
+      "publishedAt": "2026-11-18T18:20:01Z",
+      "content": "In people with type 1 diabetes, the immune system mistakenly identifies insulin-producing cells in the pancreas as foreign and attacks them, leaving the body unable to properly regulate blood sugar. … [+6616 chars]"
     },
     {
       "source": {
@@ -430,19 +560,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/03/multimedia/00SCI-US-CHINA-IP-01-qhfc/00SCI-US-CHINA-IP-01-qhfc-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-18T18:06:58Z",
       "content": "Concerns that well-funded Chinese companies will swoop in to grab new ideas for their own drug development are shaping an industry unaccustomed to such secrecy."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YourTango"
-      },
-      "author": "Lyss Micalizzi",
-      "title": "People Who Don’t Get Sad When It Gets Dark At 5 PM Usually Have 6 Specific Habits - YourTango",
-      "description": "Most of us want to crawl into bed the second it gets dark at 5 p.m., yet the people who stay upbeat all winter have six habits that keep them going.",
-      "url": "https://www.yourtango.com/self/winter-habits-of-people-dont-get-sad-sun-goes-down",
-      "urlToImage": "https://www.yourtango.com/sites/default/files/image_blog/2026-11/winter-habits-of-people-dont-get-sad-sun-goes-down.png",
-      "publishedAt": "2026-11-18T17:33:54Z",
-      "content": "Looking out the window at 5 p.m. and seeing pitch-black sky is enough to make almost anyone want to put on pajamas and call it a day. Once the weather turns cold and the days get shorter, slipping in… [+5411 chars]"
     },
     {
       "source": {
@@ -485,32 +602,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "TODAY"
-      },
-      "author": "Sarah Jacoby",
-      "title": "Eating Beans Every Day Is Healthy — If You Keep These 3 Things in Mind, Dietitian Says - TODAY.com",
-      "description": "Packed with protein and fiber, beans more than earn their place as a pantry staple. A dietitian shares tips for those who want to eat beans regularly or daily.",
-      "url": "https://www.today.com/health/diet-fitness/is-it-healthy-to-eat-beans-every-day-dietitian-rcna609662",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2026-11/beans-every-day-as11172026-630bb0.jpg",
-      "publishedAt": "2026-11-18T16:28:03Z",
-      "content": "Packed with plant protein and fiber, beans more than earn their place as a pantry staple. And theyre good enough for you that you could eat them every single day if you wanted. \r\nThe nutrients in bea… [+3355 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "Hypothalamic volume and cell-type changes in ageing and Alzheimer’s disease - Nature",
-      "description": "HypoAD, an atlas of the human hypothalamus in ageing and Alzheimer’s disease that&nbsp;combines high-resolution magnetic resonance imaging from 458 individuals with single-nucleus RNA sequencing of 614,403 nuclei, reveals that metabolism- and circadian-regula…",
-      "url": "https://www.nature.com/articles/s41586-026-11305-w",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11305-w/MediaObjects/41586_2026_11305_Fig1_HTML.png",
-      "publishedAt": "2026-11-18T16:07:39Z",
-      "content": "Volumetric analysis of imaging data\r\nThe brain MRI scans used in this study were obtained from two separate datasets. The first was from the AMBR study16. A second dataset from the CBA study17 was ad… [+35717 chars]"
-    },
-    {
-      "source": {
         "id": "associated-press",
         "name": "Associated Press"
       },
@@ -524,19 +615,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "WANE"
-      },
-      "author": "Lydia Reuille, Allie McKibben",
-      "title": "Reported measles cases surpass 200 in Indiana - WANE 15",
-      "description": "There are more than 100 reported measles cases in northeast Indiana alone.",
-      "url": "https://www.wane.com/news/local-news/reported-measles-cases-reach-200-in-indiana/",
-      "urlToImage": "https://www.wane.com/wp-content/uploads/sites/21/2026/09/measles-e1777646697583.jpg?w=1280",
-      "publishedAt": "2026-11-18T15:13:25Z",
-      "content": "FORT WAYNE, Ind. (WANE) — The Hoosier State is now up to 217 reported measles cases for this year, according to an update Tuesday from the Indiana Department of Health.\r\nMore than 100 of those report… [+4313 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -547,19 +625,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/18/travel/18trav101-seniors-illo/18trav101-seniors-illo-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-18T14:46:05Z",
       "content": "Aging issues — like changes in mobility, cognition and medical needs — seem to affect not whether many older people travel, but how. Here are some tips on how to vacation together."
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Amber Dance | Knowable Magazine",
-      "title": "From tick bite to meat allergy: Scientists investigate the mystery link - The Washington Post",
-      "description": "As ticks have spread northward, diagnoses of the condition known as alpha-gal syndrome have also increased. But there’s much that remains unknown about this sometimes life-threatening food allergy.",
-      "url": "https://www.washingtonpost.com/health/2026/11/18/tick-bite-meat-allergy-scientists-investigate-mystery-link/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MQXIYZFS7RFAHOKTMJI7NZH4FA_size-normalized.jpg&w=1440",
-      "publishedAt": "2026-11-18T14:32:03Z",
-      "content": "The rash first appeared not long after Sandra Tiguila finished a sausage breakfast sandwich. It spread to her arms and legs, with a burning sensation that would make sleep impossible. She tried cream… [+36 chars]"
     },
     {
       "source": {
@@ -577,15 +642,15 @@
     {
       "source": {
         "id": null,
-        "name": "AL.com"
+        "name": "ScienceAlert"
       },
-      "author": "AL.com",
-      "title": "New prostate cancer screening guidelines are a license to live - AL.com",
-      "description": null,
-      "url": "https://www.al.com/news/2026/11/new-prostate-cancer-screening-guidelines-are-a-license-to-live.html",
-      "urlToImage": null,
-      "publishedAt": "2026-11-18T12:00:00Z",
-      "content": null
+      "author": "Peter Dockrill",
+      "title": "Experimental Nose Drops Restored Fading Memory And Boosted Neuron Growth In Mice - ScienceAlert",
+      "description": "One of the biggest challenges in treating Alzheimer's disease is getting medication into the brain, because the blood-brain barrier prevents even beneficial substances from getting in.",
+      "url": "https://www.sciencealert.com/experimental-nose-drops-restored-fading-memory-and-boosted-neuron-growth-in-mice",
+      "urlToImage": "https://www.sciencealert.com/images/2026/11/liquid-dropper.jpg",
+      "publishedAt": "2026-11-18T12:03:18Z",
+      "content": "One of the biggest challenges in treating Alzheimer's disease is getting medication into the brain, because the blood-brain barrier prevents even beneficial substances from getting in.\r\nBut what if t… [+5284 chars]"
     },
     {
       "source": {
@@ -616,15 +681,28 @@
     {
       "source": {
         "id": null,
-        "name": "BBC News"
+        "name": "Health.com"
       },
-      "author": null,
-      "title": "'First of its kind' dialysis research could have global implications - BBC",
-      "description": "University of Bristol research finds dialysis should not be the default option for older people.",
-      "url": "https://www.bbc.com/news/articles/cwdd14gp6ql0o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6845/live/3bf5ac80-e285-11f1-b166-176de21e2352.jpg",
-      "publishedAt": "2026-11-18T06:16:23Z",
-      "content": "Caskey, a kidney consultant at Bristol NHS Foundation Trust, said the study found \"neither treatment option was superior to the other, but both provided similar overall length and quality of life\"."
+      "author": "https://www.facebook.com/Health/",
+      "title": "How Drinking Coffee Before Water in the Morning Could Influence Your Blood Pressure - Health.com",
+      "description": "Drinking coffee and skipping water in the morning may increase the risk of dehydration, a potential risk factor for increased blood pressure.",
+      "url": "https://www.health.com/blood-pressure-coffee-before-water-in-the-morning-12263445",
+      "urlToImage": "https://www.health.com/thmb/a62x-tfdVaiOrmzNg5aU1t2wx_c=/6000x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-GettyImages-1362172129-d49b763e549146149f69c8e455e72ec3.jpg",
+      "publishedAt": "2026-11-18T08:00:00Z",
+      "content": "Reaching for a cup of coffee first thing in the morning is routine for a lot of people. But having that cup of joe before water might leave you dehydrated. Dehydration, along with a couple other effe… [+4787 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The-independent.com"
+      },
+      "author": "Anthony Cuthbertson",
+      "title": "Scientists invent electric comb that restores hair growth ‘nearly 100%’ - The Independent",
+      "description": "Researchers say Detangle system could treat androgenetic alopecia, also known as male-pattern baldness",
+      "url": "https://www.the-independent.com/tech/hair-loss-electric-comb-bald-china-b3086861.html",
+      "urlToImage": "https://static.the-independent.com/2026/11/16/13/32/electric-comb-hair-loss-bald.png?trim=0,4,3,0&width=1200&height=800&crop=1200:800",
+      "publishedAt": "2026-11-18T04:24:00Z",
+      "content": "Scientists in China have invented a new type of comb that stimulates rapid hair regrowth and can help reverse baldness.\r\nResearchers claim the electronic comb, dubbed Detangle, is vastly more effecti… [+2568 chars]"
     },
     {
       "source": {
@@ -638,32 +716,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/17/multimedia/17DC-FDA-OVERTON-hpzm/17DC-FDA-OVERTON-hpzm-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-18T03:26:28Z",
       "content": "The Senate health committee was scheduled to vote on her nomination Wednesday morning after wrestling with concerns about her stance on abortion and vaccines."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Post Magazine"
-      },
-      "author": null,
-      "title": "Chinese scientists’ magic comb restores hair growth by nearly 100% in mice study - South China Morning Post",
-      "description": "The device generates a pulsed electric field while delivering medication deep into the hair follicle with a simple combing action.",
-      "url": "https://www.scmp.com/news/china/science/article/3374723/chinese-scientists-magic-comb-restores-hair-growth-nearly-100-mice-study",
-      "urlToImage": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/11/17/eedbe2e7-fc7e-4a5a-9d5e-f0eb4e07e846_4dd0dc34.jpg?itok=Sv0BRp0Z&v=1794905335",
-      "publishedAt": "2026-11-18T01:00:07Z",
-      "content": "For the more than 1.5 billion people worldwide who suffer from androgenetic alopecia, combing their hair before the mirror each morning is a routine that is often accompanied by quiet anxiety.\r\nHowev… [+423 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Medical Xpress"
-      },
-      "author": null,
-      "title": "Beer, but not wine, linked to higher risk of kidney injury - Medical Xpress",
-      "description": "Regular drinkers of beer or spirits may face a significantly greater risk of acute kidney injury, according to a new study that analyzed data from more than 250,000 U.K. adults. However, the same association was not found for wine drinkers.",
-      "url": "https://medicalxpress.com/news/2026-11-beer-wine-linked-higher-kidney.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/beer-and-spirits.jpg",
-      "publishedAt": "2026-11-18T00:00:17Z",
-      "content": "Regular drinkers of beer or spirits may face a significantly greater risk of acute kidney injury, according to a new study that analyzed data from more than 250,000 U.K. adults. However, the same ass… [+3426 chars]"
     },
     {
       "source": {
@@ -706,6 +758,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Newsnationnow.com"
+      },
+      "author": "Taylor Delandro",
+      "title": "Respiratory illnesses surge across US as CDC warns of unusual trends - NewsNation",
+      "description": "The CDC is monitoring four illnesses, including strep, rhinovirus, walking pneumonia and whooping cough.",
+      "url": "https://www.newsnationnow.com/health/respiratory-illnesses-surge-cdc-warning/",
+      "urlToImage": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/11/Untitled-November-17-2026-at-08.51.44-2.png?w=1280",
+      "publishedAt": "2026-11-17T17:00:59Z",
+      "content": "(NewsNation) Several respiratory illnesses are circulating across the U.S., with health officials warning some viruses are showing unusual trends for this time of year.\r\nAccording to the Centers for … [+2837 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -716,19 +781,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/16/science/16SCI-NIAID-02/16SCI-NIAID-02-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-17T16:54:30Z",
       "content": "Dr. John H. Powers III was appointed director of the National Institute of Allergy and Infectious Diseases, a powerful post held for decades by Dr. Anthony Fauci."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Medical Xpress"
-      },
-      "author": null,
-      "title": "Key immune driver of pancreatic cancer points to combination treatment for slowing progression - Medical Xpress",
-      "description": "Researchers from The University of Texas MD Anderson Cancer Center have discovered that the IL-18 inflammatory protein helps pancreatic tumors grow and evade the immune system, highlighting its potential as a therapeutic target for pancreatic cancer.",
-      "url": "https://medicalxpress.com/news/2026-11-key-immune-driver-pancreatic-cancer.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/scientists-identify-ke.jpg",
-      "publishedAt": "2026-11-17T14:40:01Z",
-      "content": "Researchers from The University of Texas MD Anderson Cancer Center have discovered that the IL-18 inflammatory protein helps pancreatic tumors grow and evade the immune system, highlighting its poten… [+3264 chars]"
     },
     {
       "source": {
@@ -755,32 +807,6 @@
       "urlToImage": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/jsc260013f1_1794320593.83176.png?Expires=2147483647&Signature=mlCeya-H8jvBnLSZxs2XvOKdQcmvTST0zKVuD0SFZVxW0Bw256YtLIPBTTw1uASMV9bU6qyh5vHPsdCRkAnq-A8cdnrLR4VqImXooxf0A0vN337jcTACYZ58ujgBRHp4jI3JGLmBJoyeh-kDbmXBjWXsGZvDXO6Z2Kf09VuTO965297xW4KPO6fGrDupaynj9hGa8xvfojdAEQN6banUYRxNyQsISeeeXN6H45N02PO2LqEXx-b590qtzTTaLsrOnEdyJghYLcc3HQCe0WAEUhio~i2ge96IPb~iycBmhhPIvI9TDDGplW5cS1mz7~dJY-9M-bninZQ7wkQZGmygrw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
       "publishedAt": "2026-11-17T13:27:07Z",
       "content": "Over the last few decades, obesity has become a major societal challenge, plagued by multiple different viewpoints about how to define the problem and how to solve it. Obesity is defined clinically b… [+39860 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Pancreatic cancer mystery deepens as researchers make unexpected discovery - Fox News",
-      "description": "University of Cincinnati study found Black patients' pancreatic tumors had more B cells and cells tied to drug resistance, pointing to tailored care.",
-      "url": "https://www.foxnews.com/health/pancreatic-cancer-mystery-deepens-researchers-make-unexpected-discovery",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/man-getting-immunotherapy.jpg",
-      "publishedAt": "2026-11-17T12:00:11Z",
-      "content": "A University of Cincinnati study found differences in pancreatic tumors that could help explain why that type of cancer affects some patients differently, potentially leading to more personalized tre… [+4928 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "Ozempic and Mounjaro may have a surprising effect on your brain - Science Daily",
-      "description": "Blockbuster weight loss drugs like Ozempic and Mounjaro may do more than help people shed pounds, with growing evidence suggesting they could also influence brain health. Although studies have linked GLP-1 medications to a lower risk of dementia, major trials…",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261116023401.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/human-brain-boost-power-spark.webp",
-      "publishedAt": "2026-11-17T11:53:28Z",
-      "content": "Popular medications used to treat obesity and type 2 diabetes, including semaglutide and tirzepatide, may have effects that extend beyond weight loss and blood sugar control. These drugs also influen… [+4260 chars]"
     },
     {
       "source": {
@@ -811,28 +837,15 @@
     {
       "source": {
         "id": null,
-        "name": "Nature.com"
+        "name": "ScienceAlert"
       },
-      "author": null,
-      "title": "Genetic variant that reshaped the human brain was inherited from Neanderthals - Nature",
-      "description": "DNA derived from the ancient hominin might make parts of our brains smaller — and protect against schizophrenia.",
-      "url": "https://www.nature.com/articles/d41586-026-03762-0",
-      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03762-0/d41586-026-03762-0_53983242.jpg",
-      "publishedAt": "2026-11-17T05:18:16Z",
-      "content": "The skulls of a human (left) and a Neanderthal (right).Credit: Philippe Psaila/Science Photo Library\r\nA genetic variant that seems to reduce the size of brain areas involved in visual processing come… [+2614 chars]"
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Christopher Rowland",
-      "title": "Hospitals Brace for Medicaid Work Rules and Deep Funding Cuts",
-      "description": "Health systems are racing to guide millions of patients through new eligibility hoops, slated to go into effect Jan. 1.",
-      "url": "https://www.nytimes.com/2026/11/11/business/hospitals-medicaid-cuts.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/10/multimedia/10biz-medicaid-01-zkhw/10biz-medicaid-01-zkhw-mediumSquareAt3X-v2.jpg",
-      "publishedAt": "2026-11-16T20:44:01Z",
-      "content": "Health systems are racing to guide millions of patients through new eligibility hoops, slated to go into effect Jan. 1."
+      "author": "Michelle Starr",
+      "title": "A Gene Inherited From Neanderthals Is Still Shaping Human Brains – And May Affect Schizophrenia Risk - ScienceAlert",
+      "description": "Tens of thousands of years ago, the last Neanderthal disappeared from our world.",
+      "url": "https://www.sciencealert.com/a-gene-inherited-from-neanderthals-is-still-shaping-human-brains-and-may-affect-schizophrenia-risk",
+      "urlToImage": "https://www.sciencealert.com/images/2026/11/skulls.png",
+      "publishedAt": "2026-11-16T20:02:51Z",
+      "content": "Tens of thousands of years ago, the last Neanderthal disappeared from our world.\r\nBut the ghost of this ancient human relative lives on its lingering traces haunting the Homo sapiens genetic code.\r\nI… [+7125 chars]"
     },
     {
       "source": {
@@ -859,6 +872,19 @@
       "urlToImage": "https://www.health.com/thmb/aztjdVKNQPFNKDyqK6G2IYuOrwg=/8256x0/filters:no_upscale():max_bytes(150000):strip_icc()/Health-GettyImages-2286508296-e0d30d56497d4b88ad38627e7230ad03.jpg",
       "publishedAt": "2026-11-16T13:55:00Z",
       "content": "GLP-1s have made a world of difference for Patricia Nece. Since the 68-year-old started the medication three years ago, her weight, blood pressure, and cholesterol have all gone down. But the biggest… [+8216 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Amanda Schupak",
+      "title": "‘A lot of women are angry’: What people don’t know about perimenopause - CNN",
+      "description": "Pain, brain fog and anxiety can hit in the years leading up to menopause — yet doctors often shrug off these symptoms. That’s starting to change.",
+      "url": "https://www.cnn.com/2026/11/16/health/perimenopause-missed-signs-symptoms-wellness",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20261014-perimenopause-body-language-final.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-11-16T13:00:15Z",
+      "content": "Half the worlds population faces an important health issue with wide-ranging symptoms insomnia, memory and cognition problems, achy muscles and joints, temperature dysregulation, depression and anxie… [+12903 chars]"
     },
     {
       "source": {
@@ -902,19 +928,6 @@
     {
       "source": {
         "id": null,
-        "name": "Jamanetwork.com"
-      },
-      "author": null,
-      "title": "Tirzepatide in Adolescents With Obesity The SURMOUNT-ADOLESCENTS Randomized Clinical Trial - JAMA",
-      "description": "This randomized clinical trial examines the efficacy and safety of once-weekly tirzepatide in adolescents with obesity or overweight with at least 1 obesity-related complication.",
-      "url": "https://jamanetwork.com/journals/jama/fullarticle/2856796",
-      "urlToImage": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/joi260133va_1794507217.55759.png?Expires=2147483647&Signature=fJl0~ZoCYOWLMrtwy9bzb3keUGa9~amVVmaeWMoCOeqZX-2ssd2WD5HoB1zxzts4Voeiut2vvcfA~SDF9GzZcfkkPFeSNZ5BGZbx~jyEyGyfax5dZTO~PIJQtBqsdENDCVJNZyjoBBRW3qH2xUfCEPLCWPLxwZNfR5L3fNB0uKB4EFjYRHv1ApQe9eg-KOG8KfDHcMjNrzzKV-Ra31cv9wqnYijysKArl1M1yG4M2vp-eRu4mhZOVFA~Yat4OufSw7uGagRnZsEFtH4hmE-wyItD0mrfY6bvmUuFvaIKwFTKwD8FxToBeL8H4y1DklB86y9WUe3Q6GPepYYk2FY16w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
-      "publishedAt": "2026-11-15T23:19:36Z",
-      "content": "Obesity in adolescents is a chronic disease and a major public health concern, affecting approximately 1 in 5 adolescents in the US.1,2 Beyond excess adiposity, obesity in adolescence is associated w… [+39115 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Real Simple"
       },
       "author": "https://www.facebook.com/realsimple/",
@@ -941,6 +954,19 @@
     {
       "source": {
         "id": null,
+        "name": "cleveland.com"
+      },
+      "author": "Cleveland.com",
+      "title": "Scientists compared antidepressants over the long term. Three drugs stood out - Cleveland.com",
+      "description": null,
+      "url": "https://www.cleveland.com/news/2026/11/scientists-compared-antidepressants-over-the-long-term-three-drugs-stood-out.html",
+      "urlToImage": null,
+      "publishedAt": "2026-11-15T10:30:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Jw.org"
       },
       "author": null,
@@ -950,19 +976,6 @@
       "urlToImage": "https://cms-imgp.jw-cdn.org/img/p/504000024/univ/art/504000024_univ_lsr_lg.jpg",
       "publishedAt": "2026-11-15T08:00:00Z",
       "content": "Ebola is one of the worlds most feared infectious diseases. Outbreaks can claim lives, overwhelm health services, and leave families and communities devastated.\r\n<ul><li>  The Ebola outbreak . . . in… [+3159 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Heritagefhredsprings.com"
-      },
-      "author": null,
-      "title": "Bonita Hunt Obituary Nov 15, 2026 - https://www.heritagefhredsprings.com/",
-      "description": "View Bonita Hunt's obituary, send flowers, find service dates, and sign the guestbook.",
-      "url": "https://www.heritagefhredsprings.com/obituaries/bonita-hunt",
-      "urlToImage": "https://cdn.tukioswebsites.com/social/facebook/fb_3/a68c6712-0136-433a-9d0e-e86b2e1aa825/e6c0ec4c796f184cc90f5ad2bffe3f86_video_c9c4878f942ba3ee0cd28054a223cb31",
-      "publishedAt": "2026-11-15T08:00:00Z",
-      "content": null
     },
     {
       "source": {

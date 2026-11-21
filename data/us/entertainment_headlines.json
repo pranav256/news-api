@@ -6,9 +6,22 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-20T22:23:35.409528+00:00",
+  "fetched_at": "2026-11-21T04:22:15.934454+00:00",
   "articles_count": 100,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Wesley Morris",
+      "title": "Playing ‘Key of Life,’ Stevie Wonder Invites All to Match His Joy",
+      "description": "Wonder’s optimism was refracted around Madison Square Garden as he performed his “Songs in the Key of Life” album on a 50th anniversary tour.",
+      "url": "https://www.nytimes.com/2026/11/20/arts/music/stevie-wonder-songs-in-the-key-of-life-tour.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/20/arts/20cul-stevie-wonder-02/20cul-stevie-wonder-02-mediumSquareAt3X-v2.jpg",
+      "publishedAt": "2026-11-21T02:36:21Z",
+      "content": "Wonder’s optimism was refracted around Madison Square Garden as he performed his “Songs in the Key of Life” album on a 50th anniversary tour."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -21,19 +34,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/20/multimedia/20cul-yang-apology-ztqb/20cul-yang-apology-ztqb-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-20T22:17:17Z",
       "content": "The former “Saturday Night Live” star used the slur when talking about the musician Regina Spektor in a recent episode of his “Las Culturistas” podcast."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Wesley Morris",
-      "title": "Playing ‘Key of Life,’ Stevie Wonder Invites All to Match His Joy",
-      "description": "Wonder’s optimism was refracted around Madison Square Garden as he performed his “Songs in the Key of Life” album on a 50th anniversary tour.",
-      "url": "https://www.nytimes.com/2026/11/20/arts/music/stevie-wonder-songs-in-the-key-of-life-tour.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/20/multimedia/20cul-stevie-wonder-tvqw/20cul-stevie-wonder-tvqw-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-20T21:56:26Z",
-      "content": "Wonder’s optimism was refracted around Madison Square Garden as he performed his “Songs in the Key of Life” album on a 50th anniversary tour."
     },
     {
       "source": {
@@ -58,7 +58,7 @@
       "description": "Anticipation was high after a 13-year gap in the game franchise. No movie has ever made more than $3 billion at the box office.",
       "url": "https://www.nytimes.com/2026/11/20/arts/grand-theft-auto-vi-sales-revenue.html",
       "urlToImage": null,
-      "publishedAt": "2026-11-20T21:21:39Z",
+      "publishedAt": "2026-11-20T21:21:40Z",
       "content": "Anticipation was high after a 13-year gap in the game franchise. No movie has ever made more than $3 billion at the box office."
     },
     {
@@ -187,7 +187,7 @@
       "title": "Handwritten Lyrics to Early Dylan Songs to Be Sold by Sotheby’s",
       "description": "The auction house estimates the manuscripts for “Masters of War” and “Subterranean Homesick Blues” could together draw bids totaling as much as $1 million.",
       "url": "https://www.nytimes.com/2026/11/20/arts/music/bob-dylan-handwritten-lyrics-sothebys-auction.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/20/multimedia/20cul-Dylan-Lyrics-vthf/20cul-Dylan-Lyrics-vthf-mediumSquareAt3X.jpg",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/21/multimedia/20cul-Dylan-Lyrics-vthf/20cul-Dylan-Lyrics-vthf-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-20T13:49:26Z",
       "content": "The auction house estimates the manuscripts for “Masters of War” and “Subterranean Homesick Blues” could together draw bids totaling as much as $1 million."
     },
@@ -336,6 +336,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Deadline"
+      },
+      "author": "Denise Petski",
+      "title": "Patrick Stewart Cause Of Death Revealed - Deadline",
+      "description": "We now have the official cause of death for Sir Patrick Stewart.",
+      "url": "http://deadline.com/2026/11/patrick-stewart-cause-of-death-1237229735/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2026/11/Sir-Patrick-Stewart.webp?w=681",
+      "publishedAt": "2026-11-20T01:16:00Z",
+      "content": "We now have the official cause of death for Sir Patrick Stewart. The star of Star Trek: The Next Generation, Star Trek: Picard, the X-Menfilm franchise and much more died October 28 from Alzheimer’s … [+2384 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -349,6 +362,19 @@
     },
     {
       "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Valerie Bertinelli shows off her stomach in new video as fans say she’s ‘aging backwards’ - Fox News",
+      "description": "Valerie Bertinelli lifted her sweater in a new Instagram video to show off her figure, and fans say she's \"aging backwards\" in the comments.",
+      "url": "https://www.foxnews.com/entertainment/valerie-bertinelli-shows-off-her-stomach-new-video-fans-say-shes-aging-backwards",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/valerie-bertinelli-lifetime-.jpg",
+      "publishedAt": "2026-11-20T00:56:41Z",
+      "content": "Valerie Bertinelli is celebrating her weight loss and embracing her new figure in a post on social media.\r\nIn a recent Instagram post, the 66-year-old actress shared a video of her showing off her ou… [+3225 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -359,6 +385,84 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/19/multimedia/19FD-gta-food-delivery1-hwvj/19FD-gta-food-delivery1-hwvj-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-19T23:19:32Z",
       "content": "The gamers staying home in droves have to be fed, and the meal business is more than ready to feed them."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deadline"
+      },
+      "author": "Glenn Garner",
+      "title": "Netflix’s ‘The Body’ Sparks 126K-Strong Petition To Remove “Blasphemous Anti-Christian” Show - Deadline",
+      "description": "As Netflix's 'The Body' surpasses 5M views in its first week, a petition to remove the show from the platform is also growing in numbers.",
+      "url": "http://deadline.com/2026/11/netflix-the-body-petition-remove-blasphemous-anti-christian-1237229570/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2026/11/The_Body_n_S1_E1_00_26_31_05RC_ffc72e.jpg?w=1024",
+      "publishedAt": "2026-11-19T22:30:00Z",
+      "content": "As Netflix‘s The Body surpasses 5M views in its first week, a petition to remove the show from the platform is also growing in numbers.\r\nCriticizing the “blasphemous anti-Christian series” from creat… [+2109 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Entertainment Weekly"
+      },
+      "author": "https://www.facebook.com/entertainmentweekly",
+      "title": "Jon Hamm becomes a dad for the first time at 55, welcoming baby boy with wife Anna Osceola - Entertainment Weekly",
+      "description": "Jon Hamm and wife Anna Osceola have welcomed their first child together. The couple’s newborn son marks the 55-year-old ‘Mad Men’ star’s first experience with fatherhood.",
+      "url": "https://ew.com/jon-hamm-becomes-first-time-dad-at-55-welcomes-baby-wife-anna-12265773",
+      "urlToImage": "https://ew.com/thmb/UPee61JvqPMlq-d-uWh7KEAgO_o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Jon-Hamm-Anna-Osceola-2025-Vanity-Fair-Oscar-Party-040326-c1c3e1a619aa49b29db5843b63591baa.jpg",
+      "publishedAt": "2026-11-19T22:04:54Z",
+      "content": "Let Jon Hamms fatherhood journey begin!\r\nThe Mad Men star and Anna Osceola, his wife of two years and partner of at least six, have officially welcomed a son. Sources close to the couple confirmed th… [+1372 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "William and Catherine's India tour was 'particularly special', aide says - BBC",
+      "description": "Prince William's most senior advisor described the royal couple as \"very much a team\".",
+      "url": "https://www.bbc.com/news/articles/cj04wzzy9yqro",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5916/live/037d4680-e459-11f1-9431-9fe383d2f2c7.jpg",
+      "publishedAt": "2026-11-19T22:02:06Z",
+      "content": "\"We cannot look into the eyes of the next generation and tell them that we knew what was happening, we knew what was at stake, and yet we did not do everything in our power to change it,\" Prince Will… [+145 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Page Six"
+      },
+      "author": "Audrey Rock",
+      "title": "Bruno Mars reveals devastating family loss: ‘Taught me everything I know’ - Page Six",
+      "description": "“In my eyes he was the greatest,” the hitmaker wrote.",
+      "url": "https://pagesix.com/2026/11/19/celebrity-news/bruno-mars-reveals-death-of-father-peter-hernandez/",
+      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/149420822.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-11-19T22:01:00Z",
+      "content": "Bruno Mars revealed the death of his father, Peter Hernandez, at the age of 74 in an emotional new social media post.\r\n“Last week I got to hug my father one last time,” the “Grenade” hitmaker wrote v… [+2589 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hollywood Reporter"
+      },
+      "author": "Caitlin Huston",
+      "title": "NBC Shakes Up Thanksgiving Broadcast With 9 Broadway Shows Performing a Medley - The Hollywood Reporter",
+      "description": "'Wicked,' 'Chicago,' 'Hamilton,' 'Schmigadoon!' and 'The Lost Boys' are among the shows participating.",
+      "url": "http://www.hollywoodreporter.com/tv/tv-news/nbc-thanksgiving-parade-2026-broadcast-broadway-shows-1236759417/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/GettyImages-2248804837.jpg?w=1440&h=810&crop=1",
+      "publishedAt": "2026-11-19T21:31:25Z",
+      "content": "NBC is making a big change for Broadway performers in this year’s Macy’s Thanksgiving Day Parade.\r\nRather than featuring individual performances, the telecast has gathered nine Broadway shows to sing… [+2684 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deadline"
+      },
+      "author": "Greg Evans",
+      "title": "Playbill Apologizes Over 'George Floyd Musical' Post; Show's Composer Fought BIPOC Nights - Deadline",
+      "description": "Playbill, the New York-based theater publication, apologized today for a jobs listing ad about a project called George Floyd: The Musical.",
+      "url": "http://deadline.com/2026/11/playbill-george-floyd-musical-busted-broadway-kevin-lynch-1237229358/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-2216418778.jpg?w=1024",
+      "publishedAt": "2026-11-19T21:09:00Z",
+      "content": "UPDATE, with new Playbill statement: Playbill, the ubiquitous and indispensable New York-based theater publication that features show synopsis, cast biographies and, on its website, stage-related job… [+8223 chars]"
     },
     {
       "source": {
@@ -388,6 +492,58 @@
     },
     {
       "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Liza Esquibias",
+      "title": "Shocking new details emerge in previous KJ Biermann case - USA Today",
+      "description": "Kroy \"KJ\" Biermann Jr. was charged with 16 sexual offenses, including incest, one year before incident leading to current sex crimes case.",
+      "url": "https://www.usatoday.com/story/entertainment/tv-streaming/2026/11/18/kim-zolciak-kids-kroy-kj-biermann-incest-child-molestation/92844449007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/09/USAT/91682021007-getty-images-143054840.jpg?crop=1749,984,x166,y268&width=1749&height=984&format=pjpg&auto=webp",
+      "publishedAt": "2026-11-19T20:37:00Z",
+      "content": "Editor's note: This story contains graphic descriptions that some readers may find disturbing.\r\nNew details are coming to light about Kroy \"KJ\" Biermann Jr.'s legal history as new court documents rev… [+6748 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Page Six"
+      },
+      "author": "Vanessa Serna",
+      "title": "Rob Lowe accuses Hollywood of blacklisting Ben Shapiro's 'Confession,' defends decision to star in right-wing movie - Page Six",
+      "description": "The actor portrayed Alexei, a former professor taken in as a prisoner in 1938 during Joseph Stalin’s Moscow reign.",
+      "url": "https://pagesix.com/2026/11/19/entertainment/rob-lowe-accuses-hollywood-of-blacklisting-ben-shapiros-confession-defends-decision-to-star-in-right-wing-movie/",
+      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/149392137.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-11-19T19:34:00Z",
+      "content": "Rob Lowe claims Hollywood blacklisted right-wing journalist Ben Shapiro’s historical drama “Confession.”\r\nThe “Parks and Recreation” star reflected on starring as Alexei, a former professor held as a… [+3452 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Variety"
+      },
+      "author": "Payton Turkeltaub",
+      "title": "Larry Poindexter, ‘S.W.A.T.’ and ‘Days Of Our Lives’ Actor, Dies at 66 - Variety",
+      "description": "Larry Poindexter, an actor who appeared in more than 175 film and TV shows including “The Lincoln Lawyer,” “S.W.A.T” and more, died Wednesday.",
+      "url": "https://variety.com/2026/tv/news/larry-poindexter-dead-swat-days-of-our-lives-1236952702/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2026/11/WriteGirls-Annual-Screenwriting-Workshop-1000.jpg?w=1000&h=563&crop=1",
+      "publishedAt": "2026-11-19T19:25:00Z",
+      "content": "Larry Poindexter, an actor who appeared in more than 175 film and TV shows including “The Lincoln Lawyer,” “S.W.A.T” and more, died Wednesday, his rep confirmed. He was 66.\r\nPoindexter had been hospi… [+1658 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Variety"
+      },
+      "author": "Joe Otterson",
+      "title": "‘Gilded Age’ Scores Early Season 5 Renewal at HBO - Variety",
+      "description": "\"The Gilded Age\" has been renewed for Season 5 at HBO, Variety has learned.",
+      "url": "https://variety.com/2026/tv/news/gilded-age-renewed-season-5-hbo-1236953443/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2026/11/Gilded-Age-carrie-coon.jpg?w=1000&h=563&crop=1",
+      "publishedAt": "2026-11-19T19:00:00Z",
+      "content": "“The Gilded Age” has been renewed for Season 5 at HBO, Variety has learned. \r\nThe news comes after the period drama has aired just three of its eight episodes for Season 4. This marks the earliest re… [+2967 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -402,28 +558,28 @@
     {
       "source": {
         "id": null,
-        "name": "TMZ"
+        "name": "Entertainment Weekly"
       },
-      "author": "TMZ",
-      "title": "Ken Urker's Mom Says He Injected Powerful Sedative He Thought Was Heroin - TMZ",
-      "description": null,
-      "url": "https://www.tmz.com/2026/11/19/ken-urker-mom-says-he-took-fake-drug-called-rhino/",
-      "urlToImage": null,
-      "publishedAt": "2026-11-19T18:10:12Z",
-      "content": null
+      "author": "https://www.facebook.com/entertainmentweekly",
+      "title": "‘Dancing With the Stars’ season 35 finale songs and dance styles revealed - Entertainment Weekly",
+      "description": "Another year of ‘Dancing With the Stars’ is coming to an end with the remaining five couples gearing up for their final dances on the Nov. 24 finale. Here are their finale songs and dance styles.",
+      "url": "https://ew.com/dancing-with-the-stars-season-35-finale-songs-dance-styles-revealed-12262457",
+      "urlToImage": "https://ew.com/thmb/gMrrHGDZhitIeOzwQKmCVcEKUp0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Dancing-with-the-Stars-cast-110326-0a4697b0fc954358a62dbfb5c829dd52.jpg",
+      "publishedAt": "2026-11-19T17:35:26Z",
+      "content": "Another year of Dancing With the Stars is coming to an end.\r\nThe season 35 finale, set for Nov. 24, will bring a bit of a switch-up to the ballroom, as announced by co-host Alfonso Ribeiro during the… [+2431 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Page Six"
+        "name": "Rogerebert.com"
       },
-      "author": "Jolie Zenna",
-      "title": "Jackson 5 star Marlon Jackson, 69, reveals Stage 4 prostate cancer diagnosis - Page Six",
-      "description": "The musician shared the devastating news on Tuesday.",
-      "url": "https://pagesix.com/2026/11/19/celebrity-news/jackson-5-star-marlon-jackson-69-reveals-stage-4-prostate-cancer-diagnosis/",
-      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/149396649.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-11-19T17:57:00Z",
-      "content": "Jackson 5 member Marlon Jackson has been secretly battling Stage 4 prostate cancer for the last four years.\r\nMarlon, who is one of Michael Jackson’s older brothers, shared the devastating news on Far… [+4121 chars]"
+      "author": null,
+      "title": "The Further Mis-Adventures of Cliff Booth review: Tarantino and Fincher make for strange bedfellows - Roger Ebert",
+      "description": "Shockingly leaden and even boring at times, a mash-up of two voices that never find harmony.",
+      "url": "https://www.rogerebert.com/reviews/the-further-mis-adventures-of-cliff-booth-quentin-tarantino-david-fincher-brad-pitt-movie-review-2026",
+      "urlToImage": "https://www.rogerebert.com/wp-content/uploads/2026/11/The-Further-Mis-Adventures-of-Cliff-Booth-2026.jpg",
+      "publishedAt": "2026-11-19T17:34:18Z",
+      "content": "The Further Mis-Adventures of Cliff Booth is Quentin Tarantinos attempt to take the Oscar-winning role of Cliff Booth (Brad Pitt) and turn him into a sort of Raylan Givens character, one that Elmore … [+6672 chars]"
     },
     {
       "source": {
@@ -453,6 +609,32 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "IndieWire"
+      },
+      "author": "Ben Travers",
+      "title": "‘Dig’ Review: Amy Poehler’s Talent-Rich Peacock Comedy Barely Scratches the Surface - IndieWire",
+      "description": "From the 'Parks and Recreation' team of Amy Poehler and Mike Schur, 'Dig' follows four women working at an archaeological excavation site in Greece.",
+      "url": "https://www.indiewire.com/criticism/shows/dig-review-amy-poehler-new-comedy-series-bad-1235229136/",
+      "urlToImage": "https://www.indiewire.com/wp-content/uploads/2026/11/Dig-series-Amy-Poehler-Peacock-show.jpg?w=650",
+      "publishedAt": "2026-11-19T17:00:00Z",
+      "content": "The great benefit of having clout in Hollywood — aside from fame, fortune, and a standing reservation at any restaurant in town — is being able to say “no.” You don’t have to take any job that pays. … [+7188 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Variety"
+      },
+      "author": "Tanya Fedak",
+      "title": "‘Invincible’ Season 5 Sets Release Date, Drops Burger Mart Teaser Trailer - Variety",
+      "description": "Prime Video has set the release date for Season 5 of “Invincible” alongside a teaser trailer featuring the series’ fast food chain, Burger Mart.",
+      "url": "https://variety.com/2026/tv/news/invincible-season-5-release-date-teaser-1236952556/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/05/Invincible.jpg?w=1000&h=563&crop=1",
+      "publishedAt": "2026-11-19T17:00:00Z",
+      "content": "Prime Video has set the release date for Season 5 of “Invincible” alongside a teaser trailer featuring the series’ beloved fast food chain, Burger Mart.\r\nPremiering on the streamer Feb. 17, the fifth… [+1527 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -479,29 +661,29 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "The A.V. Club"
+        "id": "nbc-news",
+        "name": "NBC News"
       },
-      "author": null,
-      "title": "The sisters Fanning join the French Resistance in The Nightingale trailer - A.V. Club",
-      "description": "The sisters Fanning join the French Resistance in The Nightingale trailer",
-      "url": "https://www.avclub.com/the-nightingale-elle-dakota-fanning-trailer",
-      "urlToImage": "https://www.avclub.com/wp-content/uploads/2026/11/19/MixCollage-19-Nov-2026-10-43-AM-8521.jpg",
-      "publishedAt": "2026-11-19T16:47:00Z",
-      "content": "Dakota and Elle Fanning have been fixtures of the entertainment industry for more or less 25 years, but they’re just now sharing the screen in the upcoming adaptation of Kristin Hannah’s novel The Ni… [+1183 chars]"
+      "author": "Doha Madani",
+      "title": "Jax Taylor, former ‘Vanderpump Rules’ and Bravo reality TV star, reveals cancer diagnosis - NBC News",
+      "description": "Jax Taylor, who was made famous on the Bravo reality series “Vanderpump Rules,” shared with fans Thursday that he was recently diagnosed with cancer.",
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/jax-taylor-former-vanderpump-rules-bravo-reality-tv-star-reveals-cance-rcna610217",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261119-jax-taylor-ch-0900-46dda9.jpg",
+      "publishedAt": "2026-11-19T16:19:17Z",
+      "content": "Jax Taylor, who was made famous on the Bravo reality series Vanderpump Rules, shared with fans Thursday that he was recently diagnosed with cancer. \r\nTaylor, 47, wrote on his Instagram account that h… [+2917 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Vulture"
+        "id": "business-insider",
+        "name": "Business Insider"
       },
-      "author": "Roxana Hadadi",
-      "title": "‘New Blood’ Broke the ‘Traitors’ Format - Vulture",
-      "description": "‘The Traitors’ may be spilling new blood, but it’s just not congealing as it should. This season on NBC suffered from shorter, inconsistently structured episodes and too many cliffhanger endings. Let’s not do this for season two.",
-      "url": "http://www.vulture.com/article/new-blood-broke-the-traitors-format.html",
-      "urlToImage": "https://pyxis.nymag.com/v1/imgs/4e5/73b/f4df8253ad3d43f5a016f8b7d26ab4c0db-NUP-210715-02930.1x.rsocial.w1200.jpg",
-      "publishedAt": "2026-11-19T16:08:00Z",
-      "content": "Spoilers follow for this season of The Traitors: New Blood through the tenth episode, The Sun, the Moon, and the Truth. \r\nIn the most recent The Traitors: New Blood episode, The Sun, the Moon, and th… [+6850 chars]"
+      "author": "Amanda Krause",
+      "title": "The Best and Worst Outfits at the 2026 CMA Awards, Photos - Business Insider",
+      "description": "Ella Langley, Taylor Swift, and Lainey Wilson were just some of the stars who had major fashion moments at the 2026 Country Music Association Awards.",
+      "url": "https://www.businessinsider.com/cma-awards-best-worst-outfits-2026-11#article",
+      "urlToImage": "https://i.insider.com/6aff0902d6c5d341c9b4af13?width=1200&format=jpeg",
+      "publishedAt": "2026-11-19T16:10:00Z",
+      "content": "Country stars traded in their boots and denim for heels and gemstones at the 2026 Country Music Association Awards.\r\nThe 60th annual CMA Awards, hosted in Nashville on Wednesday night, brought togeth… [+5600 chars]"
     },
     {
       "source": {
@@ -519,6 +701,19 @@
     {
       "source": {
         "id": null,
+        "name": "Rogerebert.com"
+      },
+      "author": null,
+      "title": "Fourth And Final Season of “Yellowjackets” Is All Bark, And No Bite - Roger Ebert",
+      "description": "The series is more interested in having them act like caricatures of the women we were introduced to in Season 1.",
+      "url": "https://www.rogerebert.com/streaming/yellowjackets-season-4-showtime-tv-review-2026",
+      "urlToImage": "https://www.rogerebert.com/wp-content/uploads/2026/11/Yellowjackets_S4_DS_0413_0673_RT.jpg",
+      "publishedAt": "2026-11-19T16:00:00Z",
+      "content": "When Yellowjackets premiered over five years ago, it felt like a breath of fresh air in a television landscape that felt desolate amid the COVID-19 pandemic. A series following a high school girls so… [+5699 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Deadline"
       },
       "author": "Rosy Cordero, Matt Grobar",
@@ -528,6 +723,19 @@
       "urlToImage": "https://deadline.com/wp-content/uploads/2026/11/Afterlife-with-Archie.jpg?w=1000",
       "publishedAt": "2026-11-19T16:00:00Z",
       "content": "EXCLUSIVE: Roberto Aguirre-Sacasa has found the new Archie, Veronica, Betty, Jughead and Sabrina the Teenage Witch for his new Disney+ series Afterlife with Archie, based on his comic book series of … [+5298 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Tom Parfitt",
+      "title": "The actor behind Jason in 'GTA 6' has finally been revealed. Here's where you've seen him before. - Yahoo Tech",
+      "description": "Dylan Rourke, who has appeared on \"Grey's Anatomy\" and \"Modern Family,\" plays one of the two leads in \"Grand Theft Auto VI.\"",
+      "url": "https://tech.yahoo.com/general/breaking-news/article/the-actor-behind-jason-in-gta-6-has-finally-been-revealed-heres-where-youve-seen-him-before-150006402.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/6200a3ccd8474977cf35e364f55578d9a3cf6c66622a82c0cb568fe486fdf90c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Flead-jason-gta-6_0623.jpg",
+      "publishedAt": "2026-11-19T15:41:22Z",
+      "content": "One of the biggest mysteries surrounding Grand Theft Auto VI has finally been solved.\r\nDylan Rourke is the actor behind Jason Duval, one of the two main characters in the year's most anticipated vide… [+2537 chars]"
     },
     {
       "source": {
@@ -558,41 +766,41 @@
     {
       "source": {
         "id": null,
-        "name": "Eurogamer.net"
+        "name": "Eonline.com"
       },
-      "author": "Sherif Saed",
-      "title": "Rockstar reveals full GTA 6 cast list, finally ending speculation about who plays Jason Duval in the game - Eurogamer.net",
-      "description": "We now know who plays Jason Duval in Grand Theft Auto 6, and every other character in the game.",
-      "url": "https://www.eurogamer.net/gta-6-full-cast-list-jason-duval-actor",
-      "urlToImage": "https://assetsio.gnwcdn.com/GTA_6_Steal_Vehicle_Header.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "publishedAt": "2026-11-19T15:07:00Z",
-      "content": "UPDATE 5PM GMT: Actors Manni L. Perez and Dylan Rourke have announced their involvement in GTA 6, in portraying Lucia and Jason, respectively, in the game.\r\nDylan Rourke wrote on Instagram: \"Years wi… [+2316 chars]"
+      "author": null,
+      "title": "Proof Travis Kelce is Down Bad for Taylor Swift's CMA Awards Performance - E! News",
+      "description": "Travis Kelce proved he is always Taylor Swift's no. 1 fan after she performed at the 2026 CMA Awards on Nov. 18, even though he didn't attend with his wife.",
+      "url": "https://www.eonline.com/news/1438245/travis-kelce-supports-taylor-swifts-2026-cma-awards-performance",
+      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/20260705/0ca316f7-bc77-4b74-9845-57d22a615000_1783292586.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
+      "publishedAt": "2026-11-19T15:15:00Z",
+      "content": "Taylor Swift is never on her own, kid.\r\nBest believe the singer was bejeweled when she walked in the room to perform her song \"I Knew It, I Knew You\" at the 2026 CMA Awards. And though Travis Kelcewa… [+855 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Brendan Morrow",
+      "title": "Pierce Brosnan reacts to Robert Pattinson's casting as James Bond - USA Today",
+      "description": "Pierce Brosnan is weighing in on his former costar Robert Pattinson being cast as the latest James Bond.",
+      "url": "https://www.usatoday.com/story/entertainment/movies/2026/11/19/robert-pattinson-james-bond-pierce-brosnan-reaction/92857817007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/19/USAT/92857988007-pattison-brosnan-2.png?crop=939,528,x0,y0&width=939&height=528&format=pjpg&auto=webp",
+      "publishedAt": "2026-11-19T14:34:00Z",
+      "content": "Pierce Brosnan is ready to pass the martini to a new 007.\r\nThe former James Bond actor, 73, reacted on Nov. 18 to news that Robert Pattinson has been cast as the famed British secret agent. In an Ins… [+3385 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "cleveland.com"
+        "name": "InStyle"
       },
-      "author": "Cleveland.com",
-      "title": "‘S.W.A.T.’ actor dies days after being struck by car - Cleveland.com",
-      "description": null,
-      "url": "https://www.cleveland.com/people/2026/11/beloved-tv-actor-dies-at-66-days-after-being-struck-by-car.html",
-      "urlToImage": null,
-      "publishedAt": "2026-11-19T14:48:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Hollywood Reporter"
-      },
-      "author": "Daniel Fienberg, Angie Han",
-      "title": "The Best Fall TV Shows Hurt So Good - The Hollywood Reporter",
-      "description": "Dead wives, school shootings, hate crimes: Television over the past few months piled on the misery. The best series found a way through it.",
-      "url": "http://www.hollywoodreporter.com/tv/tv-reviews/fall-tv-trauma-east-of-eden-tip-toe-black-doves-cupertino-1236757937/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/21rev_critics-SPLASH-2026.jpg?w=1440&h=810&crop=1",
-      "publishedAt": "2026-11-19T14:45:29Z",
-      "content": "ANGIE HAN How has your fall been, Dan? Mine has been perfectly fine — good, even, considering the recent turn of the political tide to add to the seasonal pleasures of Halloween and pumpkin-spice nov… [+9021 chars]"
+      "author": "https://www.facebook.com/InStyle",
+      "title": "Taylor Swift Goes Full Showgirl for Third CMA Awards Outfit in Bejeweled Minidress Dripping With Fringe - InStyle",
+      "description": "Taylor Swift glittered in a bejeweled minidress dripping with fringe for her second outfit change of the night at the 2026 CMA Awards on November 18.",
+      "url": "https://www.instyle.com/taylor-swift-sequin-minidress-fringe-sleeves-cma-awards-2026-12264512",
+      "urlToImage": "https://www.instyle.com/thmb/8cFjCMyJwnQO3LRiUEbpxbQlLSs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-23052621922-cd63ece1a1da4b57a6fa13994f0c96ff.jpg",
+      "publishedAt": "2026-11-19T14:23:06Z",
+      "content": "Best believe Taylor Swift was bejeweled when she walked onto the 2026 CMA Awards stage. After cueing nostalgia with a medley of I Knew It, I Knew You and her 2006 hit Our Song at the November 18 even… [+2088 chars]"
     },
     {
       "source": {
@@ -604,34 +812,8 @@
       "description": "The acclaimed work is by Jonathan Spector, who won a Tony Award in 2025 for a play about anti-vaxxers.",
       "url": "https://www.nytimes.com/2026/11/19/theater/birthright-broadway-israel.html",
       "urlToImage": "https://static01.nyt.com/images/2026/11/19/multimedia/19cul-broadway-birthright-sub-ktjz/19cul-broadway-birthright-sub-ktjz-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-19T14:00:09Z",
+      "publishedAt": "2026-11-19T14:00:10Z",
       "content": "The acclaimed work is by Jonathan Spector, who won a Tony Award in 2025 for a play about anti-vaxxers."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "TVInsider"
-      },
-      "author": "Martin Holmes",
-      "title": "Why Was Miranda Lambert & Kacey Musgraves’ CMA Awards Duet Censored? - TV Insider",
-      "description": "The country singers shared the stage after burying the hatchet.",
-      "url": "https://www.tvinsider.com/1304576/why-was-miranda-lambert-kacey-musgraves-cma-awards-duet-censored/",
-      "urlToImage": "https://www.tvinsider.com/wp-content/uploads/2026/11/kacey-musgraves-miranda-lambert-1420x798.jpg",
-      "publishedAt": "2026-11-19T13:58:48Z",
-      "content": "What To Know\r\n<ul><li>ABC muted parts of Kacey Musgraves and Miranda Lamberts performance at the 2026 CMA Awards.</li><li>The duet followed the singers reconciliation after a years-long feud.</li><li… [+3331 chars]"
-    },
-    {
-      "source": {
-        "id": "google-news",
-        "name": "Google News"
-      },
-      "author": "AP News",
-      "title": "A van Gogh with a complex past sells for a record $190 million at auction - AP News",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcFhicEp0ZWRrUE85a3h4b2plaDU4eTZSeWdSYTJaQndPeWl3dG9sWUhWLVkwcFNyZVV2X0JtOWVLakpLWDM0TEcwU2JyNjgxVVJERmFyZlNMSG9XTG1SMEVEcENVSzdlRnMxcWpSMjFLWkpXUWtGa25xZzFGUlJYSGpRVEtiaVo5Rzc4Wkk4LWFma1k3aDRN?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-11-19T13:27:00Z",
-      "content": null
     },
     {
       "source": {
@@ -649,54 +831,15 @@
     {
       "source": {
         "id": null,
-        "name": "The-independent.com"
+        "name": "Cosmopolitan.com"
       },
-      "author": "Anna Loren",
-      "title": "Taylor Swift loses it at CMA hosts’ joke about her wedding to Travis Kelce - The Independent",
-      "description": "The singer and the NFL player wed at Madison Square Garden in July",
-      "url": "https://www.the-independent.com/arts-entertainment/music/news/taylor-swift-cmas-wedding-joke-b3087867.html",
-      "urlToImage": "https://static.the-independent.com/2026/11/19/11/2026-11-19T005650Z_2109784064_HP1EMBJ02MOPG_RTRMADP_3_AWARDS-COUNTRY-MUSIC.JPG?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-      "publishedAt": "2026-11-19T12:22:00Z",
-      "content": "Taylor Swift laughed out loud at a joke about her star-studded wedding to Travis Kelce during the CMA Awards ceremony.\r\nSwift, 36, returned to the Nashville awards on 18 November after a 10-year abse… [+1906 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Florence Pugh hits out at weight loss and cosmetic surgery speculation - BBC",
-      "description": "The actress said how stressful\" it was with people \"talking about you... in ways you can't comprehend\".",
-      "url": "https://www.bbc.com/news/articles/cmge37e27r40o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/be9e/live/b423cbd0-e3fa-11f1-a1b0-810734adec41.jpg",
-      "publishedAt": "2026-11-19T12:17:32Z",
-      "content": "Pugh did not have comments turned on for her post, but it was liked by celebrities including Ashley James, who is known for speaking out about body positivity, plus Carol Vorderman, Zoe Ball, writer … [+59 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Tom Parfitt",
-      "title": "Samuel L. Jackson's 'Tulsa King' spinoff 'Frisco King' gets new trailer featuring Sylvester Stallone - Yahoo",
-      "description": "Taylor Sheridan's new Paramount+ crime drama premieres Dec. 18, with Jackson reprising his role as hitman Russell Lee Washington Jr.",
-      "url": "https://www.yahoo.com/entertainment/tv/article/samuel-l-jacksons-tulsa-king-spinoff-frisco-king-gets-new-trailer-featuring-sylvester-stallone-121041151.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/2c6492266cb9c505502bd7b257b2156ccc4566ffe8311dec9aa232559f1e153e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fsamuel-l-jackson_0382.png",
-      "publishedAt": "2026-11-19T12:10:41Z",
-      "content": "Samuel L. Jackson is bringing organized crime to the suburbs in Frisco King.\r\nA new trailer for Paramount+'s upcoming Tulsa King spinoff offers a close look at Jackson's character as he attempts to s… [+1646 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PEOPLE"
-      },
-      "author": "Becca Longmire",
-      "title": "Jax Taylor Reveals Cancer Diagnosis, Says ‘It’s Been a Really Scary Few Months’ (Exclusive) - Yahoo",
-      "description": "The ‘Vanderpump Rules’ alum, 47, shared on Instagram that doctors found a tumor on his kidney after he was hospitalized with kidney stones in July",
-      "url": "https://people.com/jax-taylor-reveals-cancer-diagnosis-says-its-been-scary-few-months-exclusive-12264354",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/ec1c47f14bb43de3314b4caccd8d873830a986334861daa17f198ff4d861e263/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F26aff36bf4b336491d75f7cbba0a4b0e.jpg",
-      "publishedAt": "2026-11-19T11:10:53Z",
-      "content": "NEED TO KNOW\r\n<ul><li>Jax Taylor has revealed that he's been diagnosed with cancer\r\n</li><li>The Vanderpump Rules alum, 47, shared on Instagram that doctors found a tumor on his left kidney after he … [+4943 chars]"
+      "author": "Mehera  Bonner",
+      "title": "Mood Behind the Scenes on ‘DWTS’ Set Is “Very Dark” According to Sources - Cosmopolitan",
+      "description": "Sources are speaking out about the mood on set of Dancing With the Stars, describing it as \"very dark.\"",
+      "url": "https://www.cosmopolitan.com/entertainment/tv/a74475538/dancing-with-the-stars-mood-on-set-very-dark/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/992d060c-52e7-42e3-a9e7-c6a735ef128a.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+      "publishedAt": "2026-11-19T12:30:00Z",
+      "content": "Dancing With the Stars is entering its final week, and sadly Harry Shum Jr. and Jenna Johnson wont be there. Despite getting perfect scores, the couple was voted off during the semifinals, and appare… [+1110 chars]"
     },
     {
       "source": {
@@ -736,32 +879,6 @@
       "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/812d/live/4b23fac0-e403-11f1-99b6-a35a62fa4264.jpg",
       "publishedAt": "2026-11-19T10:32:10Z",
       "content": "Rockstar Games, the developer behind the franchise, has revealed details of the game's soundtrack and some in-game radio stations, but has yet to release a complete list of songs featured in the game."
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "WSJ",
-      "title": "Parents Are Up in Arms Over School Photos That Look Like Mug Shots - WSJ",
-      "description": null,
-      "url": "https://www.wsj.com/lifestyle/parents-school-pictures-kids-don-t-smile-67b68f20",
-      "urlToImage": null,
-      "publishedAt": "2026-11-19T10:31:36Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Deadline"
-      },
-      "author": "Jake Kanter",
-      "title": "YouTube \"Investigating\" Russell Brand Prison Message Video - Deadline",
-      "description": "YouTube has said it is investigating after the UK government called on the Google-owned platform to remove Russell Brand's prison message video.",
-      "url": "http://deadline.com/2026/11/youtube-investigates-russell-brand-prison-message-video-1237228857/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2026/10/GettyImages-2302048153-e1795082674278.jpg?w=1024",
-      "publishedAt": "2026-11-19T10:26:00Z",
-      "content": "YouTube has said it is investigating after the UK government called on the Google-owned platform to remove Russell Brand‘s prison message video.\r\nOn Sunday, Brand’s wife, Laura Brand, delivered some … [+2060 chars]"
     },
     {
       "source": {
@@ -882,19 +999,6 @@
     },
     {
       "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "David Mack",
-      "title": "4DX: Sex scenes feel good in a place like this - CNN",
-      "description": "With “Wicker” and “Heated Rivalry,” 4DX cinemas have unlocked a horny new genre of entertainment — and new audiences seeking a thrill.",
-      "url": "https://www.cnn.com/2026/11/19/entertainment/4dx-heated-rivalry-wicker",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/connor-storrie-hudson-williams-1.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-11-19T09:00:15Z",
-      "content": "In a cavernous cinema in Times Square, once famous for its seedy theaters, a crowd of people is ogling one chiseled hunk go to town on another. But these arent perverts; theyre Heated Rivalry fans. A… [+7107 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -947,19 +1051,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "NPR"
-      },
-      "author": "Andrew Limbong",
-      "title": "'Huna' writer wins National Book Award for non-fiction, after not being allowed into the U.S. - NPR",
-      "description": "Abdelrahman ElGendy published a recent essay about being denied a visa to enter the U.S. for the ceremony. His book is a memoir about his time as a political prisoner in Egypt.",
-      "url": "https://www.npr.org/2026/11/19/nx-s1-6037553/huna-writer-wins-national-book-award-for-non-fiction-after-not-being-allowed-into-the-u-s",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1125+0+223/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4f%2F56%2F780b10f04562af1b3d88378e203d%2Fabdelrahman-elgendy-credit-fadel-dawod-1.png",
-      "publishedAt": "2026-11-19T06:13:22Z",
-      "content": "The writer Abdelrahman ElGendy won the non-fiction prize at this year's National Book Awards, for his book Huna. The memoir looks at the six years he spent as a political prisoner in Egypt. But ElGen… [+3203 chars]"
-    },
-    {
-      "source": {
         "id": "associated-press",
         "name": "Associated Press"
       },
@@ -973,16 +1064,29 @@
     },
     {
       "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
+        "id": null,
+        "name": "Page Six"
       },
-      "author": "Jeffrey Collins",
-      "title": "Susan Smith to ask for parole again 32 years after drowning her sons in a South Carolina lake - AP News",
-      "description": "Susan Smith, convicted of killing her two sons by rolling her car into a South Carolina lake in 1994, is up for parole again. Smith, now 55, was sentenced to life in prison for the drownings of 3-year-old Michael and 14-month-old Alex. Under South Carolina la…",
-      "url": "https://apnews.com/article/susan-smith-parole-children-killed-4e0bc24d28e529f6160324dc8bd9e2ed",
-      "urlToImage": "https://dims.apnews.com/dims4/default/b4a08d9/2147483647/strip/true/crop/1920x1080+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5a%2F6b%2F740a8c4bc589da697374b23805d6%2Fabb40bd2f6424391ba91aedfd4c71da6",
-      "publishedAt": "2026-11-19T05:01:00Z",
-      "content": "COLUMBIA, S.C. (AP) Susan Smith, who rolled her car into a South Carolina lake more than 30 years ago, killing her sons who were still strapped in their car seats, is up for parole again Thursday.\r\nS… [+3018 chars]"
+      "author": "Mekhi Seabrook",
+      "title": "L'Oréal Paris Women of Worth Celebration LA 2026 red carpet: Eva Longoria, Ariana Greenblatt, Kristen Bell and more - Page Six",
+      "description": "See all the stars’ best looks on the red carpet.",
+      "url": "https://pagesix.com/2026/11/18/photos/loreal-paris-women-of-worth-celebration-la-2026-red-carpet-eva-longoria-cara-delevingne-kristen-bell-and-more/",
+      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/newspress-collage-s5zw9qlic-1795060698886.jpg?quality=90&strip=all&1795042750&w=1200",
+      "publishedAt": "2026-11-19T03:47:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eonline.com"
+      },
+      "author": null,
+      "title": "CMA Awards: Tim McGraw’s Rare Red Carpet Moment With Daughters Audrey and Maggie Is All You Want to See - E! News",
+      "description": "Tim McGraw had two special guests with him on the red carpet at the Nov. 18 CMA Awards in Nashville: daughters Maggie, 28, and Audrey, 24. The trio were also joined by mom Faith Hill inside the show.",
+      "url": "https://www.eonline.com/news/1438240/cmas-2026-tim-mcgraw-faith-hills-daughters-audrey-maggie-attend",
+      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/20261118/d7c35c7d-f018-409a-8e76-eb93a9655e44_1795055353.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
+      "publishedAt": "2026-11-19T03:16:00Z",
+      "content": "Tim McGraw was happy to just see his daughters smile at the 2026 CMA Awards.\r\nThe I Like It, I Love It singer was joined by his and wife Faith Hills daughters Maggie, 28, and Audrey, 24, for the Nov.… [+683 chars]"
     },
     {
       "source": {
@@ -1000,41 +1104,15 @@
     {
       "source": {
         "id": null,
-        "name": "Rolling Stone"
+        "name": "Entertainment Weekly"
       },
-      "author": "Maya Georgi, Angie Martoccio",
-      "title": "Taylor Swift Throws It Back at the 2026 CMAs With ‘Our Song’ - Rolling Stone",
-      "description": "Taylor Swift performed at the CMAs for the first time in 13 years, singing \"I Knew It, I Knew You\" and \"Our Song.\"",
-      "url": "http://www.rollingstone.com/music/music-country/taylor-swift-cma-awards-performance-1235656541/",
-      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2026/11/taylor-perform-cma.jpg?crop=0px%2C16px%2C1800px%2C1014px&resize=1600%2C900",
-      "publishedAt": "2026-11-19T02:26:31Z",
-      "content": "It’s been 13 years since Taylor Swift last performed at the Country Music Association Awards (honestly, what other number would it be?). The superstar returned to the awards ceremony on Wednesday, pe… [+1842 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eonline.com"
-      },
-      "author": null,
-      "title": "Pregnant Brittany Mahomes Debuts Baby Bump on Red Carpet While Attending CMA Awards With Taylor Swift - E! News",
-      "description": "Patrick Mahomes’ pregnant wife Brittany Mahomes attended the 2026 CMA Awards—hosted by Lainey Wilson in Nashville Nov. 18—with Taylor Swift while sporting a dress that accented her baby bump.",
-      "url": "https://www.eonline.com/news/1438239/cma-awards-2026-pregnant-brittany-mahomes-debuts-baby-bump-on-red-carpet",
-      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/20261118/421bdbdb-9bf2-4a2a-afae-b670a987b657_1795048579.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
-      "publishedAt": "2026-11-19T02:05:00Z",
-      "content": "Brittany Mahomes scored extra points with her style at the 2026 CMA Awards.\r\nOne week after the wife of Kansas City Chiefs quarterback Patrick Mahomes announced she is pregnant with the couples fourt… [+813 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Deadline"
-      },
-      "author": "Tom Tapp",
-      "title": "Pierce Brosnan Bonds With Robert Pattinson Over 007 Role - Deadline",
-      "description": "Brosnan, who played Bond across four films from 1995-2002, had some words of wisdom for his former co-star.",
-      "url": "http://deadline.com/2026/11/pierce-brosnan-robert-pattinson-james-bond-advice-1237228669/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2026/11/brosnan-pattinson.png?w=994",
-      "publishedAt": "2026-11-19T01:35:00Z",
-      "content": "Former James Bond actor George Lazenby the other day called it “the most exclusive club in the world.”\r\nToday, another of the three other people in that club who are still alive greeted Robert Pattin… [+1222 chars]"
+      "author": "https://www.facebook.com/entertainmentweekly",
+      "title": "Khloé Kardashian labels herself ‘demisexual’ after 5 years of celibacy - Entertainment Weekly",
+      "description": "Khloé Kardashian is testing out a new sexual label — demisexual, or someone who is only able to be intimate with another if they’ve established a romantic or emotional bond.",
+      "url": "https://ew.com/khloe-kardashian-labels-herself-demisexual-after-5-years-celibacy-12263730",
+      "urlToImage": "https://ew.com/thmb/KxDTOzvF-_lhOPPoL-roCsM26bA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/khloe-kardashian-111826-1fafbf6bb63f43c0b638d26f2343e76d.jpg",
+      "publishedAt": "2026-11-19T01:48:28Z",
+      "content": "Khloé Kardashian is exploring a new frontier in sexual self-identification.\r\nOn the latest episode of Khloé in Wonderland, the podcast hosted by the youngest daughter of Robert Kardashian and Kris Je… [+2643 chars]"
     },
     {
       "source": {
@@ -1052,41 +1130,15 @@
     {
       "source": {
         "id": null,
-        "name": "Hollywood Reporter"
+        "name": "ARTnews"
       },
-      "author": "McKinley Franklin",
-      "title": "Rob Lowe Asked Ben Shapiro to Cast in Confession: Work With Left, Right Writers - The Hollywood Reporter",
-      "description": "The Daily Wire founder recently said he told the actor he was \"way too handsome\" to take on the role.",
-      "url": "http://www.hollywoodreporter.com/movies/movie-news/rob-lowe-asked-ben-shapiro-cast-confession-left-right-writers-1236758985/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/CONF_Still-Frame-Lowe-Nolte-H-2026.jpg?w=1296&h=730&crop=1",
-      "publishedAt": "2026-11-19T00:58:54Z",
-      "content": "Rob Lowe was ready to sign on to star in Ben Shapiro‘s Confession after he read the “fantastic” script written by the Daily Wire founder. \r\nThe Emmy nominee went on the Second Thought podcast Tuesday… [+1740 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Page Six"
-      },
-      "author": "Nate Grant, Lucas Widman",
-      "title": "Exclusive | Heidi Gardner was across the country when boyfriend Ray Tintori died suddenly at 43 - Page Six",
-      "description": "The comedian was reportedly thousands of miles away preparing for a show when her filmmaker boyfriend suddenly died.",
-      "url": "https://pagesix.com/2026/11/18/celebrity-news/heidi-gardner-was-across-the-country-when-boyfriend-ray-tintori-died/",
-      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/149269266.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-11-19T00:42:00Z",
-      "content": "Heidi Gardner was out of state when her boyfriend, filmmaker Ray Tintori, died suddenly at 43, a source told Page Six.\r\nThe former Saturday Night Live star, 43, was staying near Overland Park, Kansas… [+3005 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eonline.com"
-      },
-      "author": null,
-      "title": "Khloe Kardashian Shares Insight Into Recent Discovery About Her Sexuality - E! News",
-      "description": "Khloe Kardashian shared that she strongly identifies with being a demisexual after her friend Simon Huck explained the term to her on her Khloe in Wonder Land podcast.",
-      "url": "https://www.eonline.com/news/1438235/khloe-kardashian-shares-insight-into-sexuality-being-a-demisexual",
-      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2022210/rs_1200x1200-220310081201-1200-Khloe_Kardashian-SHEIN_X_100K_CHALLENGE_2021-gj.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
-      "publishedAt": "2026-11-19T00:05:00Z",
-      "content": "Im mortified that its even my truth, she toldElle in 2025. I get a little embarrassed. Im like, This is so pathetic, but once you get to a certain place, you think, No, this is so special.\r\nPlus, bri… [+449 chars]"
+      "author": "Daniel Cassady",
+      "title": "Van Gogh Slashes Auction Record at Sotheby’s, Selling for $190.4 M. - ARTnews.com",
+      "description": "A van Gogh painting sold at Sotheby's for $190.4 million, shattering the artist's record.",
+      "url": "https://www.artnews.com/art-news/market/van-gogh-auction-record-sothebys-chataigniers-en-fleurs-2026-1234806413/",
+      "urlToImage": "https://www.artnews.com/wp-content/uploads/2026/11/Chataigniers-en-fleurs-Van-Gogh-Sothebys.png?w=1024",
+      "publishedAt": "2026-11-18T23:26:00Z",
+      "content": "After a week dominated by a Nazi-era restitution dispute, Sotheby’s finally got to sell a $180 million Vincent van Gogh painting on Wednesday night—for more than it bargained for.\r\nVincent van Gogh’s… [+3258 chars]"
     },
     {
       "source": {
@@ -1103,6 +1155,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Daily Beast"
+      },
+      "author": "Dana Herrnstadt",
+      "title": "Exposed MAGA NFL Star Calls Out Next ‘Bachelor’ - The Daily Beast",
+      "description": "The leading man is “playing with fumes,” he said.",
+      "url": "https://www.thedailybeast.com/obsessed/maga-nfl-star-rob-gronkowski-calls-out-next-bachelor-sam-hartman",
+      "urlToImage": "https://media.thedailybeast.com/resizer/v2/PQYREWD3TRH33H6ESJ5OYNYS3Q.png?auth=2be8ed07c1a2e374a012ed56bad0970417070a2b904f5d6c39b8ed8633565b00&width=1200&height=630&focal=1500%2C844",
+      "publishedAt": "2026-11-18T23:03:20Z",
+      "content": "The leading man is playing with fumes, he said.\r\nAmber Searls-Imagn Images via Reuters Connect, Stephen Lew-Imagn Images\r\nMAGA-friendly Rob Gronkowski thinks Washington Commanders backup quarterback … [+1765 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1113,19 +1178,6 @@
       "urlToImage": null,
       "publishedAt": "2026-11-18T23:00:20Z",
       "content": "The eager-to-please movie charts the highs and lows of its bejowled title character, from his years coaching the Oakland Raiders to his video game celebrity."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Page Six"
-      },
-      "author": "Amanda Rubio",
-      "title": "NFL stars slam Sam Hartman’s ‘Bachelor’ casting: ‘You deserve a slap in the face’ - Page Six",
-      "description": "Two former football players took issue with Hartman promoting his new role midway through the NFL season.",
-      "url": "https://pagesix.com/2026/11/18/celebrity-news/nfl-stars-slam-sam-hartmans-bachelor-casting/",
-      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2026/11/149257439.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-11-18T22:15:00Z",
-      "content": "Rob Gronkowski and Julian Edelman aren’t holding back when it comes to Sam Hartman’s casting as the next “Bachelor.”\r\nDuring Monday’s episode of “The Gronk &amp; Jules Show,” Edelman, who spent 12 se… [+3617 chars]"
     },
     {
       "source": {
@@ -1142,45 +1194,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Cosmic Book News"
-      },
-      "author": null,
-      "title": "Sauron Kisses Celeborn In Rings of Power Season 3, Fans Erupt - Cosmic Book News",
-      "description": "Sauron kisses Celeborn in The Rings of Power Season 3 Episode 6, and Tolkien fans are torching Amazon as the clip goes viral.",
-      "url": "https://cosmicbook.news/sauron-celeborn-kiss",
-      "urlToImage": "https://cosmicbook.news/wp-content/uploads/2026/11/sauron-gay-rings-power-season-3.webp",
-      "publishedAt": "2026-11-18T22:03:33Z",
-      "content": "UPDATE: The kiss comes one week into the soft reboot that was supposed to win fans back.\r\nSauron kisses Celeborn in the latest episode of The Lord of the Rings: The Rings of Power, and Tolkien fans a… [+2801 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "WWD"
-      },
-      "author": "Noor Lobad",
-      "title": "Oprah Daily to Close at the End of 2026 - WWD",
-      "description": "Oprah Winfrey's Oprah Daily publication is shutting down after 26 years, according to an internal memo seen by WWD.",
-      "url": "http://wwd.com/business-news/media/opray-daily-shut-down-hearst-1239425960/",
-      "urlToImage": "https://wwd.com/wp-content/uploads/2025/10/anastasia-beverly-hills-photosc.jpg?crop=0px%2C109px%2C800px%2C448px&resize=1000%2C563",
-      "publishedAt": "2026-11-18T21:59:42Z",
-      "content": "This article was updated Nov. 19 at 10:05 a.m. EST.\r\nOprah Daily is shutting down. \r\nAccording to an internal memo sent to Hearst Magazines employees Wednesday and seen by WWD, the publisher is set t… [+1923 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Liza Esquibias",
-      "title": "Shocking new details emerge in previous KJ Biermann case - USA Today",
-      "description": "Kroy \"KJ\" Biermann Jr. was charged with 16 sexual offenses, including incest, one year before incident leading to current sex crimes case.",
-      "url": "https://www.usatoday.com/story/entertainment/tv-streaming/2026/11/18/kim-zolciak-kids-kroy-kj-biermann-incest-child-molestation/92844449007/",
-      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/09/USAT/91682021007-getty-images-143054840.jpg?crop=1749,984,x166,y268&width=1749&height=984&format=pjpg&auto=webp",
-      "publishedAt": "2026-11-18T21:36:00Z",
-      "content": "Editor's note: This story contains graphic descriptions that some readers may find disturbing.\r\nNew details are coming to light about Kroy \"KJ\" Biermann Jr.'s legal history as new court documents rev… [+6748 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1194,29 +1207,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "The-independent.com"
+        "id": "usa-today",
+        "name": "USA Today"
       },
-      "author": "Jacob Stolworthy",
-      "title": "Petition to cancel ‘blasphemous’ Netflix show signed over 100,000 times - The Independent",
-      "description": "Thousands of Catholic viewers have been left infuriated by the new series",
-      "url": "https://www.the-independent.com/arts-entertainment/tv/news/the-body-netflix-cast-tv-b3087037.html",
-      "urlToImage": "https://static.the-independent.com/2026/11/18/10/30/Screenshot-2026-11-18-at-10-38-10.png?trim=1,0,102,1&width=1200&height=800&crop=1200:800",
-      "publishedAt": "2026-11-18T21:27:00Z",
-      "content": "Over 100,000 people have called upon Netflix to cancel a new series for being blasphemous.\r\nComing-of-age drama The Body has become one of the streaming services most-watched shows of the month since… [+2007 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Complex"
-      },
-      "author": "Bernadette Giacomazzo",
-      "title": "Prince William Reportedly Wants Harry and Meghan to Give Up Royal Titles at Christmas Summit - Complex",
-      "description": "King Charles alone can't revoke the Sussex peerages. The reported push faces a legal hurdle that goes well beyond a royal Christmas conversation.",
-      "url": "https://www.complex.com/pop-culture/a/bernadette-giacomazzo/prince-william-title-removal-talks-prince-harry-meghan-markle",
-      "urlToImage": "https://images.complex.com/complex/image/upload/c_crop,h_1081,w_1920,x_0,y_0/g_auto:aoi_768_433_384_216,ar_1.91,c_fill,q_auto,w_1200/sanity-new/sqdl8v4pk12ecdbmps2x",
-      "publishedAt": "2026-11-18T20:54:16Z",
-      "content": "Prince William reportedly wants to use the royal family's Christmas gathering to convince King Charles III to strip Prince Harry and Meghan Markle of their Duke and Duchess of Sussex titles. Accordin… [+2889 chars]"
+      "author": "Brendan Morrow",
+      "title": "Florence Pugh slams 'disturbing' cosmetic surgery speculation - USA Today",
+      "description": "Florence Pugh is hitting back against \"disturbing\" speculation about her appearance. \"Guys. I turned 30. I'm a woman,\" she wrote on Instagram.",
+      "url": "https://www.usatoday.com/story/entertainment/movies/2026/11/18/florence-pugh-cosmetic-surgery-claims/92847138007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/18/USAT/92847522007-getty-images-2304999635.jpg?crop=8191,4609,x0,y427&width=3200&height=1801&format=pjpg&auto=webp",
+      "publishedAt": "2026-11-18T21:09:00Z",
+      "content": "Florence Pugh is hitting back against \"disturbing\" commentary about her appearance.\r\nThe \"Thunderbolts*\" star, 30, took to Instagram on Nov. 17 to slam a video that scrutinized her appearance and spe… [+4428 chars]"
     },
     {
       "source": {
@@ -1243,6 +1243,19 @@
       "urlToImage": null,
       "publishedAt": "2026-11-18T19:29:55Z",
       "content": "Seta Manoukian says there is no separation between her art and her spiritual practice."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eater"
+      },
+      "author": "Melissa McCart",
+      "title": "Michelin Guide Adds 12 More NYC Restaurants Ahead of December Awards - Eater New York",
+      "description": "The latest recommendations include Daniel Humm’s new restaurant, two of Sujan Sarkar’s Hudson Yards spots, and a Greenpoint Northern Mexican destination",
+      "url": "https://ny.eater.com/news/414985/michelin-guide-new-york-additions-2026-bib-gourmands-michelin-recommendations",
+      "urlToImage": "https://platform.ny.eater.com/wp-content/uploads/sites/6/2026/10/HUMM_9_01_26-12.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+      "publishedAt": "2026-11-18T19:26:15Z",
+      "content": "The Michelin Guide just added 12 more New York City restaurants to its recommendations ahead of Decembers annual awards ceremony on Monday, December 14. The large crop of new additions join the handf… [+5331 chars]"
     },
     {
       "source": {
@@ -1285,19 +1298,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Eonline.com"
-      },
-      "author": null,
-      "title": "Jenny McCarthy’s Son Evan Asher Tearfully Vows to Buy Back Family Home as They Move to Las Vegas - E! News",
-      "description": "Jenny McCarthy’s son Evan Asher broke down in tears while sharing the “saddest moment” of his life, moving out of his mom and stepdad Donnie Wahlberg’s home, noting he hopes to \"one day\" buy it back.",
-      "url": "https://www.eonline.com/news/1438219/jenny-mccarthys-son-evan-asher-vows-to-buy-back-home-after-las-vegas-move",
-      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/20261118/3617dd3c-a533-4365-a1ef-ebfa98ae96ea_1795026937.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
-      "publishedAt": "2026-11-18T18:44:00Z",
-      "content": "Jenny McCarthys son Evan Asher isnt masking his feelings about leaving his childhood home.\r\nOver a month after the Masked Singer judge confirmed she and her husband Donnie Wahlberg were moving from S… [+747 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1305,7 +1305,7 @@
       "title": "Jeff Bezos Says He Helped Pick Robert Pattinson as the New James Bond",
       "description": "The founder of Amazon said he was “heavily involved” in the casting process, which concluded just days ago.",
       "url": "https://www.nytimes.com/2026/11/18/movies/jeff-bezos-pick-robert-pattinson-james-bond.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/18cul-bond-bezos-jvcg/18cul-bond-bezos-jvcg-mediumSquareAt3X.jpg",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/21/multimedia/18cul-bond-bezos-jvcg/18cul-bond-bezos-jvcg-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-18T18:41:11Z",
       "content": "The founder of Amazon said he was “heavily involved” in the casting process, which concluded just days ago."
     }
