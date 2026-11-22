@@ -6,9 +6,35 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-22T08:54:58.805117+00:00",
-  "articles_count": 89,
+  "fetched_at": "2026-11-22T17:26:38.638720+00:00",
+  "articles_count": 94,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Chico Harlan and Lisa Friedman",
+      "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels",
+      "description": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.",
+      "url": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/22/multimedia/22cli-cop31-final3-fmcb/22cli-cop31-final3-fmcb-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-22T16:32:44Z",
+      "content": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Eli Saslow and Erin Schaff",
+      "title": "Looking for the Formula to Stop an Apocalypse",
+      "description": "Mike Winer and his colleagues are trying to build a mathematical safeguard to keep A.I. under human control. They fear they are running out of time.",
+      "url": "https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/22/multimedia/22AI-Safety-promo/22AI-Safety-promo-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-22T12:27:46Z",
+      "content": "Mike Winer and his colleagues are trying to build a mathematical safeguard to keep A.I. under human control. They fear they are running out of time."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -63,6 +89,32 @@
     },
     {
       "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Jacopo Prisco",
+      "title": "An extra ‘mini-moon’ will orbit Earth for the next months - CNN",
+      "description": "The temporary, tiny neighbor is an asteroid that astronomers say may stick around the planet until early December.",
+      "url": "https://www.cnn.com/2026/11/21/science/mini-moon-earth-2026-qq8",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/1-pia21259-copy.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-11-21T11:30:16Z",
+      "content": "Earth is currently hosting a second moon. Our planets gravity captured the tiny asteroid in April.\r\nThis temporary mini-moon about 2 meters (6 feet) in diameter will stick around until early December… [+4385 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": "Astitva Raj",
+      "title": "NASA's Curiosity Rover Spots Potato Chip-Shaped Rocks On Mars - NDTV",
+      "description": "According to NASA, the Nazca site is situated in a region of Mars where scientists have identified unusual disk-shaped structures within the bedrock.",
+      "url": "https://www.ndtv.com/science/nasas-curiosity-rover-spots-potato-chip-shaped-rocks-on-mars-12358620",
+      "urlToImage": "https://c.ndtvimg.com/2026-11/7b6s28s_potato-chip-shaped-structure-on-mars-bedrock_625x300_21_November_26.jpeg",
+      "publishedAt": "2026-11-21T11:18:06Z",
+      "content": "NASA scientists are studying unusual rock formations on Mars that look like potato chips, with curled and uneven shapes appearing to be embedded in the planet's bedrock. The researchers are trying to… [+1694 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -102,6 +154,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "The call of the seamount: Two new armored tardigrades described in the Atlantic - Phys.org",
+      "description": "An international team led by researchers from Senckenberg am Meer in Wilhelmshaven has described two new species of marine tardigrades. The tiny marine organisms were discovered in the sediment of the Senghor Seamount off the coast of Cape Verde. According to…",
+      "url": "https://phys.org/news/2026-11-seamount-armored-tardigrades-atlantic.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/the-call-of-the-seamou.jpg",
+      "publishedAt": "2026-11-21T02:00:01Z",
+      "content": "An international team led by researchers from Senckenberg am Meer in Wilhelmshaven has described two new species of marine tardigrades. The tiny marine organisms were discovered in the sediment of th… [+5580 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -112,6 +177,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/22/multimedia/18obit-linehan-lfcp-print1/18obit-linehan-lfcp-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-21T01:28:24Z",
       "content": "After her methods proved effective, she revealed that she had battled her own borderline personality disorder as a child."
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Juliette Arcodia, Ryan Chandler",
+      "title": "Giant landscapes simulating the moon and Mars debut in Texas — look inside - NBC News",
+      "description": "The Texas A&M University Space Institute, which opened Friday, boasts enormous indoor landscapes that simulate the terrain on the surfaces of the moon and Mars.",
+      "url": "https://www.nbcnews.com/science/space/moon-mars-landscapes-texas-space-institute-nasa-rcna609897",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261119-texas-space-institute-emily-oswold-ew-232p-79901a.jpg",
+      "publishedAt": "2026-11-20T22:41:24Z",
+      "content": null
     },
     {
       "source": {
@@ -154,6 +232,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Tereza Pultarova",
+      "title": "Don't turn the moon into the Wild West, scientists warn - Space",
+      "description": "A lunar gold rush could destroy the valuable lunar environment and obscure valuable scientific material.",
+      "url": "https://www.space.com/astronomy/moon/dont-turn-the-moon-into-the-wild-west-scientists-warn",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/QqobdB5e8LcM5ERUWc2mqV-1927-80.jpg",
+      "publishedAt": "2026-11-20T21:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -170,19 +261,6 @@
         "id": "ars-technica",
         "name": "Ars Technica"
       },
-      "author": "Jacek Krywko",
-      "title": "Watching as a giant star swallowed its neighbor and exploded - Ars Technica",
-      "description": "A recent brightening turned out to be from a star orbiting inside another.",
-      "url": "https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-2.png",
-      "publishedAt": "2026-11-20T20:41:17Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
-      },
       "author": "Stephen Clark",
       "title": "NASA’s new Moon plan is taking shape, but some big questions remain - Ars Technica",
       "description": "We tend to have a lot of technical discussion and debate. That point will continue to be debated.\"",
@@ -190,6 +268,19 @@
       "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/flight15_catch-1152x648.jpg",
       "publishedAt": "2026-11-20T20:26:33Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Matthew Phelan",
+      "title": "Astronomers Find Triple Star System That ‘Should Not Exist’—and It’s Just 28 Light-Years Away - Gizmodo",
+      "description": "Astronomers have traced a red dwarf’s puzzling movements to a star system unlike anything they’ve ever seen in our region of the galaxy: a unique triple star system located just 28 light-years away.",
+      "url": "https://gizmodo.com/astronomers-find-triple-star-system-that-should-not-exist-and-its-just-28-light-years-away-2000843257",
+      "urlToImage": "https://gizmodo.com/app/uploads/2026/11/Triple_Star_System_Welopoai-1200x675.jpg",
+      "publishedAt": "2026-11-20T20:15:37Z",
+      "content": "Astronomers noticed something odd while hunting for exoplanets in a star system just 28 light-years away from Earth. A powerful gravitational force was tugging mightily at the red dwarf star at the h… [+4143 chars]"
     },
     {
       "source": {
@@ -233,15 +324,15 @@
     {
       "source": {
         "id": null,
-        "name": "My Modern Met"
+        "name": "Nature.com"
       },
-      "author": "Regina Sienra",
-      "title": "NASA’s Voyager 1 Reaches a Historic Distance of One Light-Day From Earth - My Modern Met",
-      "description": "“Voyager 1 crossing the light-day threshold is yet another historic feat on an extraordinary voyage of discovery.”",
-      "url": "https://mymodernmet.com/voyager-1-one-light-day-away-from-earth/",
-      "urlToImage": "https://mymodernmet.com/wp/wp-content/uploads/2026/11/voyager-1-light-day-fb.jpg",
-      "publishedAt": "2026-11-20T18:31:51Z",
-      "content": "Voyager 1, depicted in this artist’s concept, reached one light-day from Earth on Nov. 18, 2026. (Photo: NASA/JPL-Caltech)\r\nNASA’s Voyager 1 has made history. After nearly 50 years of travel, the spa… [+2485 chars]"
+      "author": null,
+      "title": "‘I had felt overconfident’: senior scientists reveal mistakes that aided discovery - Nature",
+      "description": "Five experienced researchers, including a Nobel prizewinner, revisit the dead ends, bloopers and moments of stubborn certainty that shaped their science.",
+      "url": "https://www.nature.com/articles/d41586-026-03590-2",
+      "urlToImage": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03590-2/d41586-026-03590-2_53993150.jpg",
+      "publishedAt": "2026-11-20T19:17:37Z",
+      "content": "Physicist Peter Shawhan and his team perfected not finding gravitational waves at the Laser Interferometer Gravitational Wave Observatory (LIGO) facility in Livingston, Louisiana until they did. Cred… [+12456 chars]"
     },
     {
       "source": {
@@ -294,6 +385,32 @@
       "urlToImage": "https://assets.iflscience.com/assets/articleNo/85248/aImg/93680/bepi-sixth-flyby-meta.jpg",
       "publishedAt": "2026-11-20T17:33:33Z",
       "content": "For the second time in history, Mercury has an orbiter around it. The BepiColombo mission follows in the footsteps of NASAs MESSENGER but in a step further, in a couple of weeks it will separate so t… [+4836 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Live Science"
+      },
+      "author": "Joanna Thompson",
+      "title": "James Webb telescope spots giant star swallowing its companion in first-ever observations of a stellar merger - Live Science",
+      "description": "Astronomers using the James Webb Space Telescope followed up on years-old observations to confirm the first recorded act of a giant star swallowing its companion. The stellar cannibalism occurred just next door, in the Andromeda galaxy.",
+      "url": "https://www.livescience.com/space/astronomers-spot-giant-star-swallowing-its-companion-in-first-ever-observations-of-a-stellar-merger",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/6WTdSErCWeS8t5puPmhPhc-2000-80.jpg",
+      "publishedAt": "2026-11-20T17:12:24Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phys.Org"
+      },
+      "author": "Paul Arnold",
+      "title": "Killer whales became fearsome predators long before scientists thought - Phys.org",
+      "description": "Killer whales, or orcas, are among the ocean's most formidable predators, hunting everything from fish and seals to other whales. But how and when these members of the dolphin family evolved into such effective hunters has long been something of a mystery.",
+      "url": "https://phys.org/news/2026-11-killer-whales-fearsome-predators-scientists.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/killer-whales-became-f.jpg",
+      "publishedAt": "2026-11-20T17:00:02Z",
+      "content": "Killer whales, or orcas, are among the ocean's most formidable predators, hunting everything from fish and seals to other whales. But how and when these members of the dolphin family evolved into suc… [+3777 chars]"
     },
     {
       "source": {
@@ -479,6 +596,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Michelle Starr",
+      "title": "NASA Orbiter Snaps What Looks Like an Eerie Forest Growing on The Frozen Dunes of Mars - ScienceAlert",
+      "description": "To the best of all humanity's understanding – which is significant – nothing seems to grow on the red planet.",
+      "url": "https://www.sciencealert.com/nasa-orbiter-snaps-what-looks-like-an-eerie-forest-growing-on-the-frozen-dunes-of-mars",
+      "urlToImage": "https://www.sciencealert.com/images/2026/11/mars-forests-1200x675.png",
+      "publishedAt": "2026-11-20T01:03:49Z",
+      "content": "To the best of all humanity's understanding which is significant nothing seems to grow on the red planet.\r\nNary a rover nor an orbiter has ever caught wind of a single alga, cactus, or spindly tumble… [+3326 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -489,45 +619,6 @@
       "urlToImage": null,
       "publishedAt": "2026-11-20T01:01:41Z",
       "content": "Biotechs are racing to create A.I. models of human cells, hoping to speed drug development and slow aging. Can computers match the complexity of life?"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Michelle Starr",
-      "title": "NASA Orbiter Snaps What Looks Like an Eerie Forest Growing on The Frozen Dunes of Mars - Yahoo Tech",
-      "description": "A forest that never was, on a world we'll never know.",
-      "url": "https://www.sciencealert.com/nasa-orbiter-snaps-what-looks-like-an-eerie-forest-growing-on-the-frozen-dunes-of-mars",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/3bdaf429016bee0ec7fe610f258c55222f43acac51b84b7ede7ce90783bfb656/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsciencealert_160%2Fc901808130b9a53b898183ae8eb58f3c.png",
-      "publishedAt": "2026-11-20T01:00:00Z",
-      "content": "To the best of all humanity's understanding which is significant nothing seems to grow on the red planet.\r\nNary a rover nor an orbiter has ever caught wind of a single alga, cactus, or spindly tumble… [+3285 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "EurekAlert"
-      },
-      "author": null,
-      "title": "Astronomers discover remarkable triple-star system just 28 light-years from Earth - EurekAlert!",
-      "description": "A search for planets has uncovered one of the most unusual stellar systems ever identified in Earth&rsquo;s cosmic neighbourhood.",
-      "url": "https://www.eurekalert.org/news-releases/1152534",
-      "urlToImage": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/a2b10ce2-4148-4477-bf92-a3b35aea7559/Rendition/thumbnail/Content/Public",
-      "publishedAt": "2026-11-19T23:39:19Z",
-      "content": "image: Artistic illustration of the Welopai triple-star system, located just 28 light-years from Earth. The system consists of a red dwarf star (right) and a closely orbiting white dwarf (left), with… [+5197 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "If tiny 'primordial' black holes exist, here's how we might find them - Phys.org",
-      "description": "Scientists have hypothesized that, in the fraction of a second following the Big Bang, minute black holes may have been forged within tiny, dense pockets that collapsed under their own gravity. If these primordial black holes are ever found, they could repres…",
-      "url": "https://phys.org/news/2026-11-tiny-primordial-black-holes.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/if-tiny-primordial-bla.jpg",
-      "publishedAt": "2026-11-19T22:40:07Z",
-      "content": "Scientists have hypothesized that, in the fraction of a second following the Big Bang, minute black holes may have been forged within tiny, dense pockets that collapsed under their own gravity. If th… [+7387 chars]"
     },
     {
       "source": {
@@ -622,6 +713,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Science.org"
+      },
+      "author": null,
+      "title": "Telemetric calorimetry for wireless continuous reaction profiling - Science | AAAS",
+      "description": "Real-time monitoring of chemical reactions is often achieved with specialized instrumentation along with custom-designed reactors or intrusive sampling. In this study, we introduce reaction telemetry, a wireless analytical strategy that enables remote, ...",
+      "url": "https://www.science.org/doi/10.1126/science.aei7840",
+      "urlToImage": "https://www.science.org/cms/asset/98e9c36f-15b9-4da0-bf36-7f7960fc296e/science.aei7840-keyimage.gif",
+      "publishedAt": "2026-11-19T19:04:29Z",
+      "content": "eLetters is a forum for ongoing peer review. eLetters are not edited, proofread, or indexed, but they are screened. eLetters should provide substantive and scholarly commentary on the article. Neithe… [+506 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -658,19 +762,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-Brazil-Indigenous-tvjz/18int-Brazil-Indigenous-tvjz-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-19T16:34:42Z",
       "content": "A group of 20 people emerged from the forest and asked for food, an Indigenous peoples’ rights group said, raising fears that environmental degradation had left them with no choice but to reach out."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": "Sanjukta Mondal",
-      "title": "Dark personality traits linked to better chance at getting a second date - Phys.org",
-      "description": "Some personalities stand out on the first date and end up being asked for a second date, but not the ones we expect. While very few people want to date people with dark traits like psychopathy and sadism, they seem to make a good first impression. Psychopathy…",
-      "url": "https://phys.org/news/2026-11-dark-personality-traits-linked-chance.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/dark-personality-trait.jpg",
-      "publishedAt": "2026-11-19T15:50:01Z",
-      "content": "Some personalities stand out on the first date and end up being asked for a second date, but not the ones we expect. While very few people want to date people with dark traits like psychopathy and sa… [+5437 chars]"
     },
     {
       "source": {
@@ -727,19 +818,6 @@
     {
       "source": {
         "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "Programmable functional RNA design with a virtual scientist - Nature",
-      "description": "RhoAgent designs functional RNA molecules by constraining secondary structure, base interactions and functional motifs.",
-      "url": "https://www.nature.com/articles/s41587-026-03362-3",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41587-026-03362-3/MediaObjects/41587_2026_3362_Fig1_HTML.png",
-      "publishedAt": "2026-11-19T10:42:27Z",
-      "content": "<li>Doudna, J. A. &amp; Cech, T. R. The chemical repertoire of natural ribozymes. Nature418, 222228 (2002).\r\nArticle \r\n CAS \r\n PubMed \r\nGoogle Scholar \r\n</li><li>Mandal, M. &amp; Breaker, R. R. Gene … [+12416 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "NASA"
       },
       "author": "Cecilia Chirenti, Robert Nemiroff, Jerry Bonnell, Keighley Rockcliffe",
@@ -765,19 +843,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Nature.com"
-      },
-      "author": null,
-      "title": "Injury-induced signalling coordinates immunity and cannibalism in locusts - Nature",
-      "description": "Studies in migratory locusts identify a dual role of volatile guaiacol emission, enhancing survival of individual insects following minor injury but attracting cannibalistic attack once an injury severity threshold has been exceeded.",
-      "url": "https://www.nature.com/articles/s41586-026-11297-7",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11297-7/MediaObjects/41586_2026_11297_Fig1_HTML.png",
-      "publishedAt": "2026-11-18T22:12:47Z",
-      "content": "Insects\r\nGregarious and solitarious L. migratoria used in this study were originally collected in Guangxi, China, and subsequently maintained at the Shenzhen Agricultural Genomics Institute, Chinese … [+42828 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -788,6 +853,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/18CLI-COP-NEPAL1-kwcm/18CLI-COP-NEPAL1-kwcm-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-18T20:08:36Z",
       "content": "A deadly glacier collapse left the country with $5 billion in recovery costs. So far, few have stepped up with aid."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Daisy Dobrijevic",
+      "title": "Earth is missing over a billion years of geological history. Scientists may have discovered why - Space",
+      "description": "The answer to one of Earth's greatest geological mysteries may lie deep beneath our feet.",
+      "url": "https://www.space.com/astronomy/earth/earth-is-missing-over-a-billion-years-of-geological-history-scientists-may-have-discovered-why",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/Ct8s5Y3wQjNajro5V9RcA8-2000-80.jpg",
+      "publishedAt": "2026-11-18T20:00:00Z",
+      "content": null
     },
     {
       "source": {
@@ -831,28 +909,15 @@
     {
       "source": {
         "id": null,
-        "name": "Space.com"
+        "name": "Live Science"
       },
-      "author": "Chelsea Gohd",
-      "title": "Supernova explodes before astronomers' eyes photo of the day for Nov. 18, 2026 - Space",
-      "description": "That's pretty close for such a colossal combustion.",
-      "url": "https://www.space.com/astronomy/a-newfound-supernova-explodes-50-million-light-years-away-space-photo-of-the-day-for-nov-18-2026",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/v583SwZv7rvgLJMokxsVvW-1920-80.png",
-      "publishedAt": "2026-11-18T15:00:00Z",
+      "author": "Owen Jarus",
+      "title": "Eagles hunt baboons weighing up to 60 pounds, raising questions about whether birds of prey hunted ancient humans - Live Science",
+      "description": "Eagles appear to be hunting and killing adult baboons, study finds. Does that mean they could have hunted ancient human relatives?",
+      "url": "https://www.livescience.com/archaeology/human-evolution/eagles-hunt-baboons-weighing-up-to-60-pounds-raising-questions-about-whether-birds-of-prey-hunted-ancient-humans",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/2tjBDMhK434uPrMQCsqytJ-1270-80.jpg",
+      "publishedAt": "2026-11-18T09:00:00Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Wiley.com"
-      },
-      "author": null,
-      "title": "Signs of Eagle Predation on a 22-kg Adult Primate - Wiley Online Library",
-      "description": "Objectives\nSome researchers have adopted a 20 kg upper limit to avian predation on primates, with no confirmed cases exceeding 13 kg. Here, we report evidence of eagle interactions with adult male o...",
-      "url": "https://onlinelibrary.wiley.com/doi/10.1002/ajpa.70377",
-      "urlToImage": "https://onlinelibrary.wiley.com/cms/asset/9feb10dd-72dc-4a2d-97f0-7fae7ba70e7c/ajpa.v191.3.cover.jpg?trick=1795230066275",
-      "publishedAt": "2026-11-18T09:49:11Z",
-      "content": "1 Introduction\r\nThe frequency of avian predation on primates and the selective importance of large raptors during primate evolution are topics of enduring debate (McGraw and Berger 2013). Much of thi… [+42024 chars]"
     },
     {
       "source": {
@@ -986,6 +1051,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Peter Dockrill",
+      "title": "People With Psychopathic Traits Were 25% More Likely to Get a Second Date, Study Finds - ScienceAlert",
+      "description": "Sometimes, from the very first moment you meet a person, you can tell there's something special about them.",
+      "url": "https://www.sciencealert.com/people-with-psychopathic-traits-rated-more-highly-in-a-dating-experiment",
+      "urlToImage": "https://www.sciencealert.com/images/2026/11/man-and-woman.jpg",
+      "publishedAt": "2026-11-17T12:03:16Z",
+      "content": "Sometimes, from the very first moment you meet a person, you can tell there's something special about them.\r\nIt's hard to define. But it's a powerful feeling, and it makes you want to see them again.… [+4888 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1035,6 +1113,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/16/multimedia/16CLI-INDUSTRY-wklv/16CLI-INDUSTRY-wklv-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-17T00:59:21Z",
       "content": "Senator Alan Armstrong hired his former company’s top lawyer temporarily, while the chamber drafted a sweeping energy bill. Ethics officials signed off on the unusual arrangement."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Quanta Magazine"
+      },
+      "author": null,
+      "title": "What Makes Up the Cosmos? A 20-Year Survey Hints That Something Is Missing. - Quanta Magazine",
+      "description": "An era-defining galaxy survey has released its final results. They don’t quite fit the leading theory of cosmology.",
+      "url": "https://www.quantamagazine.org/what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missing-20261116/",
+      "urlToImage": "https://www.quantamagazine.org/wp-content/uploads/2026/11/DES-cr.CTIO-NOIRLab-NSF-AURA-T.-Matsopoulos-Social.jpg",
+      "publishedAt": "2026-11-16T15:18:29Z",
+      "content": "In 2024, the DESI collaboration dropped a bombshell report. When researchers added their shells to the existing dossier, they couldnt get the Lambda-CDM model to fit all the data. What fit better was… [+2862 chars]"
     },
     {
       "source": {
@@ -1116,19 +1207,6 @@
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Taylor Mitchell Brown",
-      "title": "‘Birdbrain’ Is a Misnomer. Crows Make Decisions Faster Than We Can",
-      "description": "In a recent experiment, crows could process and respond to visual cues at twice the speed as humans and monkeys.",
-      "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
-      "urlToImage": null,
-      "publishedAt": "2026-11-15T10:00:36Z",
-      "content": "In a recent experiment, crows could process and respond to visual cues at twice the speed as humans and monkeys."
-    },
-    {
-      "source": {
         "id": null,
         "name": "Discoverwildlife.com"
       },
@@ -1152,19 +1230,6 @@
       "urlToImage": "https://www.bgr.com/img/gallery/most-drivers-dont-realize-this-handy-car-gadget-is-actually-illegal-in-some-states/l-intro-1794359494.jpg",
       "publishedAt": "2026-11-15T00:17:00Z",
       "content": "Some drivers hoping to avoid speeding tickets have opted for devices like laser jammers to lessen their chances of getting pulled over. These gadgets use laser technology to help drivers avoid sticky… [+1590 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Discoverwildlife.com"
-      },
-      "author": "Melissa Hobson",
-      "title": "“Bubbles are coming up all over the place.” One mile below the surface of the ocean, it fizzes like Champagne - BBC Wildlife Magazine",
-      "description": "A rare phenomenon is happening on an underwater volcano in the Pacific Ocean – amazing scientists",
-      "url": "https://www.discoverwildlife.com/environment/champagne-vent",
-      "urlToImage": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/bd67160e-a859-432f-8867-8ccff1b2c592/thumbnails/744a303b-ea90-4b19-a365-9db2809c3c89.jpg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&platform=WEB&w=1200",
-      "publishedAt": "2026-11-14T10:57:48Z",
-      "content": "The Champagne Vent is helping scientists to understand how human activities that produce carbon dioxide could impact marine life \r\nTheres an underwater volcano where liquid carbon dioxide (CO2) spurt… [+3925 chars]"
     }
   ]
 }

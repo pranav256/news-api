@@ -6,9 +6,35 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-22T08:54:58.805117+00:00",
-  "articles_count": 42,
+  "fetched_at": "2026-11-22T17:26:38.638720+00:00",
+  "articles_count": 43,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Chico Harlan and Lisa Friedman",
+      "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels",
+      "description": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.",
+      "url": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/22/multimedia/22cli-cop31-final3-fmcb/22cli-cop31-final3-fmcb-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-22T16:32:44Z",
+      "content": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Eli Saslow and Erin Schaff",
+      "title": "Looking for the Formula to Stop an Apocalypse",
+      "description": "Mike Winer and his colleagues are trying to build a mathematical safeguard to keep A.I. under human control. They fear they are running out of time.",
+      "url": "https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/22/multimedia/22AI-Safety-promo/22AI-Safety-promo-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-22T12:27:46Z",
+      "content": "Mike Winer and his colleagues are trying to build a mathematical safeguard to keep A.I. under human control. They fear they are running out of time."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -541,19 +567,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/11/business/11BIZ-CANCER-DRUG/11BIZ-CANCER-DRUG-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-15T20:33:07Z",
       "content": "The treatment, called ivonescimab, has become a symbol of China’s rise in drug development."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Taylor Mitchell Brown",
-      "title": "‘Birdbrain’ Is a Misnomer. Crows Make Decisions Faster Than We Can",
-      "description": "In a recent experiment, crows could process and respond to visual cues at twice the speed as humans and monkeys.",
-      "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
-      "urlToImage": null,
-      "publishedAt": "2026-11-15T10:00:36Z",
-      "content": "In a recent experiment, crows could process and respond to visual cues at twice the speed as humans and monkeys."
     }
   ],
   "query": "science research discovery space"
