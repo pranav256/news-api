@@ -6,9 +6,22 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-22T17:26:38.638720+00:00",
-  "articles_count": 94,
+  "fetched_at": "2026-11-22T22:52:00.341181+00:00",
+  "articles_count": 100,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Richard Sandomir",
+      "title": "Donald Hooton Sr., Who Crusaded Against Steroids in Sports, Has Died",
+      "description": "After the suicide of his son, a high school pitcher who used steroids, Donald Hooton Sr. delivered blistering testimony before Congress. He was 76.",
+      "url": "https://www.nytimes.com/2026/11/22/us/donald-hooton-sr-dead.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/18obit-hooton-03-gpht/18obit-hooton-03-gpht-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-22T19:10:04Z",
+      "content": "After the suicide of his son, a high school pitcher who used steroids, Donald Hooton Sr. delivered blistering testimony before Congress. He was 76."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -18,8 +31,8 @@
       "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels",
       "description": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.",
       "url": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/22/multimedia/22cli-cop31-final3-fmcb/22cli-cop31-final3-fmcb-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-22T16:32:44Z",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/22/multimedia/22cli-cop31-final3-fmcb/22cli-cop31-final3-fmcb-mediumSquareAt3X-v2.jpg",
+      "publishedAt": "2026-11-22T18:20:39Z",
       "content": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas."
     },
     {
@@ -60,6 +73,45 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/20/multimedia/20SCI-AI-RIEMANN-01-jtkm/20SCI-AI-RIEMANN-01-jtkm-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-21T16:52:42Z",
       "content": "If confirmed, the proof of the Riemann hypothesis would cement the sense that A.I. might be capable of mastering any problem in the field."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Hanneke Weitering, Elizabeth Howell",
+      "title": "On this day in space! Nov. 21, 1676: Danish astronomer discovers speed of light — by accident — while observing Jupiter's moon Io - Space",
+      "description": "Before Rømer figured it out, scientists thought that light travels instantaneously, or infinitely fast.",
+      "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-21-2026",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/hDwaad2isLaVa7K7amh3qf-1920-80.jpg",
+      "publishedAt": "2026-11-21T16:20:37Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Time may be far stranger than we realize. Scientists have a way to test it - ScienceDaily",
+      "description": "Time may be far stranger than we realize, and scientists have proposed a way to detect clocks experiencing multiple flows of time simultaneously. Using atomic clocks with dramatically enhanced sensitivity, researchers hope to reveal a never-before-observed qu…",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/physics-time-flow-illustration.webp",
+      "publishedAt": "2026-11-21T15:11:22Z",
+      "content": "We measure time constantly, from the ticking hands of a clock to the changing numbers on a smartphone screen. Yet despite how familiar time seems, physicists still do not fully understand its fundame… [+4599 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Scientists say the human family tree may need a radical rewrite - ScienceDaily",
+      "description": "The human family tree may need a major overhaul. New research from Monash University challenges the traditional classification of our ancient ancestors, arguing that species such as Australopithecus and Paranthropus should be grouped within our own genus, Hom…",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261118074039.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/paranthropus-skull.webp",
+      "publishedAt": "2026-11-21T13:46:52Z",
+      "content": "The human family tree may be due for a major rewrite. New research from Monash University challenges the traditional way scientists classify our ancient ancestors, suggesting that several groups long… [+6890 chars]"
     },
     {
       "source": {
@@ -115,6 +167,32 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Mike Wall",
+      "title": "European-Japanese BepiColombo probe arrives in orbit around Mercury today - Space",
+      "description": "It's a moment more than eight years in the making.",
+      "url": "https://www.space.com/space-exploration/missions/esa-jaxa-bepicolomobo-mission-mercury-orbit-arrival",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/d7pYhNBUCPVYiaqD7aQLwE-2560-80.jpg",
+      "publishedAt": "2026-11-21T11:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Elisha Sauers",
+      "title": "Voyager 1 hit one light day but isn't sending home any data right now - Mashable",
+      "description": "A record-setting signal, full of dead air.",
+      "url": "https://mashable.com/science/nasa-voyager-1-data-outage-continues-past-one-light-day",
+      "urlToImage": "https://helios-i.mashable.com/imagery/articles/00ppVHgN2i8YqFUB9Qv2j2y/hero-image.fill.size_1200x675.v1795210480.jpg",
+      "publishedAt": "2026-11-21T10:18:51Z",
+      "content": null
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -138,6 +216,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/18/us/promo-nat-doctoral-student-data-2026-11-18-lost-gen-survey-promos/promo-nat-doctoral-student-data-2026-11-18-lost-gen-survey-promos-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-21T07:47:27Z",
       "content": "Falling international enrollment drove most of the decline, but there were also fewer American students starting doctoral programs in 2025."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Richard Speed",
+      "title": "NASA Mars rover and orbiter suffer glitches - The Register",
+      "description": "It isn't only systems on Earth suffering technical problems",
+      "url": "https://www.theregister.com/science/2026/11/21/nasa-mars-rover-and-orbiter-suffer-glitches/5311360",
+      "urlToImage": "https://image.theregister.com/226873.jpg?imageId=226873&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "publishedAt": "2026-11-21T07:47:00Z",
+      "content": "It's been a bad few weeks for technology on and off the planet, as NASA reported problems with its Perseverance Mars rover and Odyssey orbiter this week.\r\nFor Perseverance, the problem seems to be a … [+2768 chars]"
     },
     {
       "source": {
@@ -177,6 +268,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/22/multimedia/18obit-linehan-lfcp-print1/18obit-linehan-lfcp-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-21T01:28:24Z",
       "content": "After her methods proved effective, she revealed that she had battled her own borderline personality disorder as a child."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "SciTechDaily"
+      },
+      "author": null,
+      "title": "Does the Sun Have a Secret Companion? A Controversial Theory Could Explain Earth’s Mass Extinctions - SciTechDaily",
+      "description": "A mysterious star hiding near our Sun could be triggering deadly comet showers every 26 million years, potentially linking it to Earth's greatest mass extinctions.",
+      "url": "https://scitechdaily.com/does-the-sun-have-a-secret-companion-a-controversial-theory-could-explain-earths-mass-extinctions/",
+      "urlToImage": null,
+      "publishedAt": "2026-11-20T23:56:38Z",
+      "content": "A mysterious star hiding near our Sun could be triggering deadly comet showers every 26 million years, potentially linking it to Earth’s greatest mass extinctions. Credit: Stock\r\nA mysterious 26-mill… [+6123 chars]"
     },
     {
       "source": {
@@ -311,19 +415,6 @@
     {
       "source": {
         "id": null,
-        "name": "Space.com"
-      },
-      "author": "Mike Wall",
-      "title": "Trouble at Mars: NASA's Perseverance rover, Odyssey orbiter halt science work due to glitches - Space",
-      "description": "\"The team is hopeful the rover could return to science by the end of November.\"",
-      "url": "https://www.space.com/astronomy/mars/trouble-at-mars-nasas-perseverance-rover-odyssey-orbiter-halt-science-work-due-to-glitches",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/47TSjax8rWx4cPw6p8CEJe-1920-80.jpg",
-      "publishedAt": "2026-11-20T19:50:15Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Nature.com"
       },
       "author": null,
@@ -363,6 +454,19 @@
     {
       "source": {
         "id": null,
+        "name": "Phys.Org"
+      },
+      "author": null,
+      "title": "Spiders, beetles and one garage alligator: Largest study to date reveals wildlife sharing our indoor spaces - Phys.org",
+      "description": "An international team of researchers is revealing the largest study to date detailing the wide range of insects, arachnids and other organisms that live in homes and other indoor environments across the United States and Canada. The researchers have compiled …",
+      "url": "https://phys.org/news/2026-11-spiders-beetles-garage-alligator-largest.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/largest-study-to-date.jpg",
+      "publishedAt": "2026-11-20T18:00:06Z",
+      "content": "An international team of researchers is revealing the largest study to date detailing the wide range of insects, arachnids and other organisms that live in homes and other indoor environments across … [+6582 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Space.com"
       },
       "author": "Mike Wall",
@@ -372,19 +476,6 @@
       "urlToImage": "https://cdn.mos.cms.futurecdn.net/ugf6BTHPoeoNQ3J9iuTShh-2560-80.jpg",
       "publishedAt": "2026-11-20T17:47:00Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "IFLScience"
-      },
-      "author": "Alfredo Carpineti",
-      "title": "After 8 Years, Many Flybys, And A Daring Maneuver, BepiColombo Has Finally Arrived At Mercury - IFLScience",
-      "description": "On November 21, after travelling 6 billion miles, the spacecraft will become the second-ever mission to orbit Mercury.",
-      "url": "https://www.iflscience.com/after-8-years-many-flybys-and-a-daring-maneuver-bepicolombo-has-finally-arrived-at-mercury-85248",
-      "urlToImage": "https://assets.iflscience.com/assets/articleNo/85248/aImg/93680/bepi-sixth-flyby-meta.jpg",
-      "publishedAt": "2026-11-20T17:33:33Z",
-      "content": "For the second time in history, Mercury has an orbiter around it. The BepiColombo mission follows in the footsteps of NASAs MESSENGER but in a step further, in a couple of weeks it will separate so t… [+4836 chars]"
     },
     {
       "source": {
@@ -596,19 +687,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "ScienceAlert"
-      },
-      "author": "Michelle Starr",
-      "title": "NASA Orbiter Snaps What Looks Like an Eerie Forest Growing on The Frozen Dunes of Mars - ScienceAlert",
-      "description": "To the best of all humanity's understanding – which is significant – nothing seems to grow on the red planet.",
-      "url": "https://www.sciencealert.com/nasa-orbiter-snaps-what-looks-like-an-eerie-forest-growing-on-the-frozen-dunes-of-mars",
-      "urlToImage": "https://www.sciencealert.com/images/2026/11/mars-forests-1200x675.png",
-      "publishedAt": "2026-11-20T01:03:49Z",
-      "content": "To the best of all humanity's understanding which is significant nothing seems to grow on the red planet.\r\nNary a rover nor an orbiter has ever caught wind of a single alga, cactus, or spindly tumble… [+3326 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -619,6 +697,19 @@
       "urlToImage": null,
       "publishedAt": "2026-11-20T01:01:41Z",
       "content": "Biotechs are racing to create A.I. models of human cells, hoping to speed drug development and slow aging. Can computers match the complexity of life?"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ScienceAlert"
+      },
+      "author": "Michelle Starr",
+      "title": "NASA Orbiter Snaps What Looks Like an Eerie Forest Growing on The Frozen Dunes of Mars - Yahoo News Singapore",
+      "description": "A forest that never was, on a world we'll never know.",
+      "url": "https://www.sciencealert.com/nasa-orbiter-snaps-what-looks-like-an-eerie-forest-growing-on-the-frozen-dunes-of-mars",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/3bdaf429016bee0ec7fe610f258c55222f43acac51b84b7ede7ce90783bfb656/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsciencealert_160%2Fc901808130b9a53b898183ae8eb58f3c.png",
+      "publishedAt": "2026-11-20T01:00:00Z",
+      "content": "To the best of all humanity's understanding which is significant nothing seems to grow on the red planet.\r\nNary a rover nor an orbiter has ever caught wind of a single alga, cactus, or spindly tumble… [+3285 chars]"
     },
     {
       "source": {
@@ -661,32 +752,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Gizmodo.com"
-      },
-      "author": "Gayoung Lee",
-      "title": "Physicists Just Sent an Unblockable Message Encoded in Gravity—Using a 1950s Elevator - Gizmodo",
-      "description": "A study published yesterday in Science Advances asked what the team calls a “fundamental” question: “Can information be transmitted through an unblockable channel?” Modern wireless communication depends on electromagnetism, which is easily blocked. But gravit…",
-      "url": "https://gizmodo.com/physicists-just-sent-an-unblockable-message-encoded-in-gravity-using-a-1950s-elevator-2000842537",
-      "urlToImage": "https://gizmodo.com/app/uploads/2026/11/university-of-queensland-elevator-gravimeter-experiment-1200x675.jpg",
-      "publishedAt": "2026-11-19T20:55:32Z",
-      "content": "Okayand I dont say this lightlyheres a seriously weird one. Scientists managed to transmit a message through a brick wall using two unusual ingredients: an old elevator and gravity.\r\nA study publishe… [+3507 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Phys.Org"
-      },
-      "author": null,
-      "title": "Why do so many people have Neanderthal DNA? - Phys.org",
-      "description": "Neanderthal DNA makes up about 2% of the genome of most non-Africans. When and how did that mixing take place, and what does it mean for modern humans?",
-      "url": "https://phys.org/news/2026-11-people-neanderthal-dna.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/neanderthal.jpg",
-      "publishedAt": "2026-11-19T20:40:04Z",
-      "content": "Neanderthal DNA makes up about 2% of the genome of most non-Africans. When and how did that mixing take place, and what does it mean for modern humans?\r\nWe put these questions to David Reich, profess… [+3630 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -697,19 +762,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/17/science/17CLI-SEABED-MINING/17CLI-SEABED-MINING-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-19T20:31:15Z",
       "content": "It’s unclear whether the Trump administration will proceed with a lease sale set for Thursday to permit companies to mine the ocean floor off American Samoa."
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Space.com"
-      },
-      "author": "Andrew Jones",
-      "title": "No more asteroid landing: Engine trouble forces Japan's Hayabusa2 probe to change plans - Space",
-      "description": "JAXA has abandoned its plan to rendezvous with the asteroid 1998 KY26, switching to a high-speed flyby of 2015 BM510.",
-      "url": "https://www.space.com/space-exploration/asteroid-comet-missions/no-more-asteroid-landing-engine-trouble-forces-japans-hayabusa2-probe-to-change-plans",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/eu2FmcRSGP2BEPSmedZjm6-2000-80.jpg",
-      "publishedAt": "2026-11-19T20:00:00Z",
-      "content": null
     },
     {
       "source": {
@@ -799,7 +851,7 @@
       "description": "From the Arctic to the tropics, unusual weather and extreme heat is sparking worry about how quickly humans are reshaping the Earth’s natural processes.",
       "url": "https://www.nytimes.com/2026/11/18/climate/cop31-climate-global-warming.html",
       "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/18cli-cop31-disruption-top-fctl/18cli-cop31-disruption-top-fctl-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-19T13:56:48Z",
+      "publishedAt": "2026-11-19T13:56:49Z",
       "content": "From the Arctic to the tropics, unusual weather and extreme heat is sparking worry about how quickly humans are reshaping the Earth’s natural processes."
     },
     {
@@ -814,6 +866,19 @@
       "urlToImage": "https://s.yimg.com/lo/mysterio/api/b7d4fd5c8409a9d65531d48729a608fb645e12b68ab86839dd39cdefdd727ea8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpopular_mechanics_642%2Fef723fef27f877d6e64290af264b11b3.jpg",
       "publishedAt": "2026-11-19T13:30:00Z",
       "content": "What does it mean for a species to go extinct? At first glance, the idea is pretty simple: Here today, gone tomorrow. But this uncomplicated view of existence on the planet is what leads some compani… [+3880 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ctinsider.com"
+      },
+      "author": "Jordan Nathaniel Fenster",
+      "title": "Invasive marine worm found in Long Island Sound. It’s the first confirmed East Coast record - CT Insider",
+      "description": "Researchers confirmed Boccardia proboscidea was found in lobster traps in Long Island Sound, making it the first record of the species on the East Coast.",
+      "url": "https://www.ctinsider.com/connecticut/article/connecticut-ct-boccardia-worm-long-island-sound-22537045.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/67/76/40/31451152/5/rawImage.jpg",
+      "publishedAt": "2026-11-19T09:04:06Z",
+      "content": "Boccardia proboscidea, an invasive worm, was found for the first time in the Long Island Sound.\r\nCourtesy of Vasily Radashevsky\r\nBoccardia proboscidea, an invasive worm, was found for the first time … [+6523 chars]"
     },
     {
       "source": {
@@ -909,15 +974,15 @@
     {
       "source": {
         "id": null,
-        "name": "Live Science"
+        "name": "Phys.Org"
       },
-      "author": "Owen Jarus",
-      "title": "Eagles hunt baboons weighing up to 60 pounds, raising questions about whether birds of prey hunted ancient humans - Live Science",
-      "description": "Eagles appear to be hunting and killing adult baboons, study finds. Does that mean they could have hunted ancient human relatives?",
-      "url": "https://www.livescience.com/archaeology/human-evolution/eagles-hunt-baboons-weighing-up-to-60-pounds-raising-questions-about-whether-birds-of-prey-hunted-ancient-humans",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/2tjBDMhK434uPrMQCsqytJ-1270-80.jpg",
-      "publishedAt": "2026-11-18T09:00:00Z",
-      "content": null
+      "author": null,
+      "title": "Eagles preying on human-sized baboons upend existing evolutionary defense theory - Phys.org",
+      "description": "Researchers from the University of St Andrews have discovered that baboons the size of hominins (early human ancestors) are being preyed upon by eagles, reshaping the way scientists might think about predator–prey interactions during human evolution.",
+      "url": "https://phys.org/news/2026-11-eagles-preying-human-sized-baboons.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/eagles-preying-on-huma.jpg",
+      "publishedAt": "2026-11-18T09:00:02Z",
+      "content": "Researchers from the University of St Andrews have discovered that baboons the size of hominins (early human ancestors) are being preyed upon by eagles, reshaping the way scientists might think about… [+5410 chars]"
     },
     {
       "source": {
@@ -1025,6 +1090,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Newser"
+      },
+      "author": "Arden Dier",
+      "title": "Scientist Suggests Odd Space Object Is a Long-Lost Probe - Newser",
+      "description": "Study indicates 1998 KY26 is not a comet, while NASA backs asteroid theory",
+      "url": "https://www.newser.com/story/400172/scientist-suggests-odd-space-object-is-a-long-lost-probe.html",
+      "urlToImage": "https://cdn.newser.com/image/1725049-12-20261121055000.jpeg",
+      "publishedAt": "2026-11-17T17:15:00Z",
+      "content": "A mysterious object floating through space keeps refusing to play by the rules for space rocks, leaving experts flummoxed about its true nature. The 36-foot-wide 1998 KY26 zips around the sun in a wa… [+1304 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -1048,6 +1126,19 @@
       "urlToImage": "https://archaeologymag.com/wp-content/uploads/tree-rings-babylon-fell-1.jpg",
       "publishedAt": "2026-11-17T14:26:40Z",
       "content": "Historians know a great deal about ancient Mesopotamia, the region covering modern Iraq and parts of Syria and Turkey. Rulers and the order of their succession are well documented. Exact calendar dat… [+3598 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nautil.us"
+      },
+      "author": "David Nield",
+      "title": "Scientists Just Found Something Strange Under the Skin of Sea Pigs - Nautilus | Science Connected",
+      "description": "A rare, detailed look at an unusual deep-sea creature",
+      "url": "https://nautil.us/scientists-just-found-something-strange-under-the-skin-of-sea-pigs-1286685",
+      "urlToImage": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/01-sea-pig.jpg",
+      "publishedAt": "2026-11-17T13:01:21Z",
+      "content": "The translucent blobs of flesh that are sea pigs are some of the most unusual sights in the deep ocean. Theyre also difficult to study. Some of them live more than 32,800 feet below the surface, so g… [+2479 chars]"
     },
     {
       "source": {
@@ -1087,6 +1178,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/18sp-watches-atomic-inyt-02-hfvq/18sp-watches-atomic-inyt-02-hfvq-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-17T10:00:32Z",
       "content": "The optical atomic clock, which scientists say would be off by about a second over 14 billion years, is soon expected to become a primary reference."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Financial Times"
+      },
+      "author": null,
+      "title": "Best books of 2026: Environment, Science and Technology - Financial Times",
+      "description": "Pilita Clark, Clive Cookson and John Thornhill select their must-read titles",
+      "url": "https://www.ft.com/content/4270f175-374b-4766-a92e-9bff04844d4d?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F571b6550-b615-4169-a9db-bf0037174e2b.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "publishedAt": "2026-11-17T05:00:36Z",
+      "content": "Access to eight surprising articles a day, hand-picked by FT editors. For seamless reading, access content via the FT Edit page on FT.com and receive the FT Edit newsletter.\r\n<ul><li></li>FT Edit: Ac… [+23 chars]"
     },
     {
       "source": {
@@ -1181,19 +1285,6 @@
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Rebecca Robbins",
-      "title": "F.D.A. Rejects Closely Watched Lung Cancer Drug From China",
-      "description": "The treatment, called ivonescimab, has become a symbol of China’s rise in drug development.",
-      "url": "https://www.nytimes.com/2026/11/15/business/fda-lung-cancer-drug-china.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/11/business/11BIZ-CANCER-DRUG/11BIZ-CANCER-DRUG-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-15T20:33:07Z",
-      "content": "The treatment, called ivonescimab, has become a symbol of China’s rise in drug development."
-    },
-    {
-      "source": {
         "id": null,
         "name": "The Weather Channel"
       },
@@ -1217,19 +1308,6 @@
       "urlToImage": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/9ac494a4-627d-4fea-a827-dcf588dd6f96/f1c0b14b-6faf-4d11-9a1f-b498d1d6866f/thumbnails/3848efde-5c8c-4bbc-a1d1-92bb202d3bbc.jpg?appId=f347d34d-c1a6-4a00-b570-b78c2dcb3211&platform=WEB&w=1200",
       "publishedAt": "2026-11-15T09:18:14Z",
       "content": "Once I caught a common octopus in a rockpool. I was amazed when a black shape under a ledge morphed into a mass of tentacles and crawled, very obligingly, into my cheap net. \r\nAfter Id received accol… [+2061 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BGR"
-      },
-      "author": "Ethan Stinson",
-      "title": "Most Drivers Don't Realize This Handy Car Gadget Is Actually Illegal In Some States - BGR",
-      "description": "Radar detectors and laser jammers can help you avoid speeding tickets, but there's a problem. These handy car gadgets are actually illegal in some states.",
-      "url": "https://www.bgr.com/2313162/why-driver-gadget-illegal-us-states/",
-      "urlToImage": "https://www.bgr.com/img/gallery/most-drivers-dont-realize-this-handy-car-gadget-is-actually-illegal-in-some-states/l-intro-1794359494.jpg",
-      "publishedAt": "2026-11-15T00:17:00Z",
-      "content": "Some drivers hoping to avoid speeding tickets have opted for devices like laser jammers to lessen their chances of getting pulled over. These gadgets use laser technology to help drivers avoid sticky… [+1590 chars]"
     }
   ]
 }

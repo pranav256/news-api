@@ -6,9 +6,22 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-22T17:26:38.638720+00:00",
+  "fetched_at": "2026-11-22T22:52:00.341181+00:00",
   "articles_count": 43,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Richard Sandomir",
+      "title": "Donald Hooton Sr., Who Crusaded Against Steroids in Sports, Has Died",
+      "description": "After the suicide of his son, a high school pitcher who used steroids, Donald Hooton Sr. delivered blistering testimony before Congress. He was 76.",
+      "url": "https://www.nytimes.com/2026/11/22/us/donald-hooton-sr-dead.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/18obit-hooton-03-gpht/18obit-hooton-03-gpht-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-22T19:10:04Z",
+      "content": "After the suicide of his son, a high school pitcher who used steroids, Donald Hooton Sr. delivered blistering testimony before Congress. He was 76."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -18,8 +31,8 @@
       "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels",
       "description": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.",
       "url": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/22/multimedia/22cli-cop31-final3-fmcb/22cli-cop31-final3-fmcb-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-22T16:32:44Z",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/22/multimedia/22cli-cop31-final3-fmcb/22cli-cop31-final3-fmcb-mediumSquareAt3X-v2.jpg",
+      "publishedAt": "2026-11-22T18:20:39Z",
       "content": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas."
     },
     {
@@ -331,7 +344,7 @@
       "description": "From the Arctic to the tropics, unusual weather and extreme heat is sparking worry about how quickly humans are reshaping the Earth’s natural processes.",
       "url": "https://www.nytimes.com/2026/11/18/climate/cop31-climate-global-warming.html",
       "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/18cli-cop31-disruption-top-fctl/18cli-cop31-disruption-top-fctl-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-19T13:56:48Z",
+      "publishedAt": "2026-11-19T13:56:49Z",
       "content": "From the Arctic to the tropics, unusual weather and extreme heat is sparking worry about how quickly humans are reshaping the Earth’s natural processes."
     },
     {
@@ -554,19 +567,6 @@
       "urlToImage": "https://static01.nyt.com/images/2021/01/20/science/16sci-leonids/01sci-spacecalendar-leonids-mediumSquareAt3X-v3.jpg",
       "publishedAt": "2026-11-16T05:01:05Z",
       "content": "Known for bright, fast meteors with long tails, the Leonids come around every November. But the number of streaks visible per hour can be low."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Rebecca Robbins",
-      "title": "F.D.A. Rejects Closely Watched Lung Cancer Drug From China",
-      "description": "The treatment, called ivonescimab, has become a symbol of China’s rise in drug development.",
-      "url": "https://www.nytimes.com/2026/11/15/business/fda-lung-cancer-drug-china.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/11/business/11BIZ-CANCER-DRUG/11BIZ-CANCER-DRUG-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-15T20:33:07Z",
-      "content": "The treatment, called ivonescimab, has become a symbol of China’s rise in drug development."
     }
   ],
   "query": "science research discovery space"
