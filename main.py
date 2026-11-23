@@ -182,13 +182,16 @@ RSS_FEEDS: dict[str, dict[str, list[tuple[str, str]]]] = {
         ],
     },
     "ca": {
-        "general": [("CBC News", "https://www.cbc.ca/cmlink/rss-topstories")],
-        "business": [("CBC News", "https://www.cbc.ca/cmlink/rss-business")],
-        "health": [("CBC News", "https://www.cbc.ca/cmlink/rss-health")],
-        "science": [("CBC News", "https://www.cbc.ca/cmlink/rss-technology")],
-        "sports": [("CBC Sports", "https://www.cbc.ca/cmlink/rss-sports")],
-        "technology": [("CBC News", "https://www.cbc.ca/cmlink/rss-technology")],
-        "entertainment": [("CBC News", "https://www.cbc.ca/cmlink/rss-arts")],
+        "general": [
+            ("CBC News", "https://rss.cbc.ca/lineup/topstories.xml"),
+            ("Global News", "https://globalnews.ca/feed/"),
+        ],
+        "business": [("CBC News", "https://rss.cbc.ca/lineup/business.xml")],
+        "health": [("CBC News", "https://rss.cbc.ca/lineup/health.xml")],
+        "science": [("CBC News", "https://rss.cbc.ca/lineup/technology.xml")],
+        "sports": [("CBC Sports", "https://rss.cbc.ca/lineup/sports.xml")],
+        "technology": [("CBC News", "https://rss.cbc.ca/lineup/technology.xml")],
+        "entertainment": [("CBC News", "https://rss.cbc.ca/lineup/arts.xml")],
     },
     "au": {
         "general": [
