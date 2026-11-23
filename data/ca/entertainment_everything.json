@@ -5,9 +5,22 @@
   "providers": [
     "rss"
   ],
-  "fetched_at": "2026-11-23T04:37:33.159306+00:00",
+  "fetched_at": "2026-11-23T16:33:31.114213+00:00",
   "articles_count": 10,
   "articles": [
+    {
+      "source": {
+        "id": "global-news",
+        "name": "Global News"
+      },
+      "author": "Katie Scott",
+      "title": "Miley Cyrus marries drummer Maxx Morando in California wedding",
+      "description": "The Grammy-winning singer shared official photographs from their wedding day in Palm Springs, Calif. on Instagram, with the caption, \"M + M 11.21.26.\"",
+      "url": "https://globalnews.ca/news/12162226/miley-cyrus-married-maxx-morando-california-wedding/",
+      "urlToImage": "https://globalnews.ca/wp-content/uploads/2026/11/miley-cyrus-maxx-morando-married.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "publishedAt": "2026-11-23T15:25:43Z",
+      "content": "The Grammy-winning singer shared official photographs from their wedding day in Palm Springs, Calif. on Instagram, with the caption, \"M + M 11.21.26.\""
+    },
     {
       "source": {
         "id": "global-news",
@@ -124,19 +137,6 @@
       "urlToImage": "https://globalnews.ca/wp-content/uploads/2026/11/phil-collins-health-update.jpg?quality=65&strip=all&w=720&h=480&crop=1",
       "publishedAt": "2026-11-16T19:55:28Z",
       "content": "'There are lots of rumours about whether I’m going to sing, do a tour or an album, but you haven't heard the last of me, I can promise you that,' Phil Collins said."
-    },
-    {
-      "source": {
-        "id": "global-news",
-        "name": "Global News"
-      },
-      "author": "Rachel Goodman",
-      "title": "Russell Brand says ‘I am not guilty’ in YouTube statement read by his wife",
-      "description": "Brand's wife, Laura Brand, read a statement from him in a YouTube video posted to the channel where the couple would host a 'Sunday Service' together.",
-      "url": "https://globalnews.ca/news/12152634/russell-brand-says-he-is-not-guilty-youtube-video/",
-      "urlToImage": "https://globalnews.ca/wp-content/uploads/2026/11/russell-brand-rape-trial-jury-deliberations.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "publishedAt": "2026-11-16T17:35:06Z",
-      "content": "Brand's wife, Laura Brand, read a statement from him in a YouTube video posted to the channel where the couple would host a 'Sunday Service' together."
     }
   ],
   "query": "entertainment OR movie OR cinema OR music OR film"
