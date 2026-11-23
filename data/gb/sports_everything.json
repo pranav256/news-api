@@ -1,13 +1,13 @@
 {
-  "source": "rss_fallback",
+  "source": "everything",
   "country": "gb",
   "category": "sports",
   "providers": [
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-22T22:52:00.341181+00:00",
-  "articles_count": 61,
+  "fetched_at": "2026-11-23T03:53:36.689785+00:00",
+  "articles_count": 100,
   "articles": [
     {
       "source": {
@@ -15,12 +15,90 @@
         "name": "BBC Sport"
       },
       "author": null,
-      "title": "Match of the Day",
-      "description": "Highlights of Liverpool v Manchester United and Hull City v Brighton.",
-      "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/images/ic/240x135/p0pp3162.jpg",
-      "publishedAt": "2026-11-22T23:22:56Z",
-      "content": "Highlights of Liverpool v Manchester United and Hull City v Brighton."
+      "title": "Did Liverpool 'get lucky' with red card decision?",
+      "description": "Match of the Day pundits Danny Murphy and Ashley Young believe that Liverpool were perhaps \"lucky\" when Manchester United's Leny Yoro was sent off in the 8th-minute at Anfield.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq23jmklrj33o?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97fd/live/e0c07400-e6c9-11f1-99b6-a35a62fa4264.jpg",
+      "publishedAt": "2026-11-22T23:59:59Z",
+      "content": "Match of the Day pundits Danny Murphy and Ashley Young believe that Liverpool were perhaps \"lucky\" when Manchester United's Leny Yoro was sent off in the 8th-minute at Anfield."
+    },
+    {
+      "source": {
+        "id": "bbc-sport",
+        "name": "BBC Sport"
+      },
+      "author": null,
+      "title": "How 'outstanding' Tzolakis kept Brighton at bay",
+      "description": "Match of the Day pundit Danny Murphy looks at how Hull goalkeeper Konstantinos Tzolakis was able to thwart high-flying Brighton in their 2-0 win over the Seagulls at the MKM Stadium.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm702nzyl8pzo?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee71/live/9b96d180-e6ce-11f1-99a1-253766e7ad8b.jpg",
+      "publishedAt": "2026-11-22T23:59:57Z",
+      "content": "Match of the Day pundit Danny Murphy looks at how Hull goalkeeper Konstantinos Tzolakis was able to thwart high-flying Brighton in their 2-0 win over the Seagulls at the MKM Stadium."
+    },
+    {
+      "source": {
+        "id": "bbc-sport",
+        "name": "BBC Sport"
+      },
+      "author": null,
+      "title": "A 'wow' player - why Ngumoha is already a Liverpool game-changer",
+      "description": "Match of the Day pundit Danny Murphy explains how Rio Ngumoha showed everyone what he is capable of in Liverpool's 4-0 win over Manchester United.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmn80y5w84qqo?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81a2/live/669edd40-e6c1-11f1-99a1-253766e7ad8b.png",
+      "publishedAt": "2026-11-22T23:20:16Z",
+      "content": "Match of the Day pundit Danny Murphy explains how Rio Ngumoha showed everyone what he is capable of in Liverpool's 4-0 win over Manchester United."
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Tom Lutz in New York and agencies",
+      "title": "Mets reportedly agree $450m contract with Tarik Skubal, richest deal for pitcher in MLB history",
+      "description": "Ace’s contract reportedly for nine years Mets have missed playoffs for last two seasons The New York Mets look to have sealed the biggest deal of MLB’s offseason by signing free agent pitcher Tarik Skubal. The New York Post’s Jon Heyman reported that the deal is worth $450m over nine years, the largest contract for a pitcher in baseball history. The previous record was for the $325m, 12-year deal Yoshinobu Yamamoto signed with the Dodgers in 2024. Continue reading...",
+      "url": "https://www.theguardian.com/sport/2026/nov/22/tarik-skubal-new-york-mets-reported-deal-contract",
+      "urlToImage": "https://i.guim.co.uk/img/media/43179824af3ae4d1651ab19890a048d52a810d7e/512_0_6130_4904/master/6130.jpg?width=140&quality=85&auto=format&fit=max&s=279b5dfe068b3a764fbcd7541a64bb14",
+      "publishedAt": "2026-11-22T22:25:59Z",
+      "content": "Ace’s contract reportedly for nine years Mets have missed playoffs for last two seasons The New York Mets look to have sealed the biggest deal of MLB’s offseason by signing free agent pitcher Tarik Skubal. The New York Post’s Jon Heyman reported that the deal is worth $450m over nine years, the largest contract for a pitcher in baseball history. The previous record was for the $325m, 12-year deal Yoshinobu Yamamoto signed with the Dodgers in 2024. Continue reading..."
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Agencies",
+      "title": "European football: Barcelona roar back from two goals down to sink Villarreal",
+      "description": "Barça prevail 3-2 despite Lamine Yamal’s missed penalty Atalanta snatch point in thrilling 4-4 draw with Inter Barcelona came back from two goals behind to beat Villarreal 3-2 at home on Sunday and restore their three-point lead at the top of La Liga. Two goals inside seven minutes from Tajon Buchanan and Tani Oluwaseyi gave Villarreal a commanding lead at Camp Nou and things got worse for Barça when winger Lamine Yamal missed a first-half penalty. Continue reading...",
+      "url": "https://www.theguardian.com/football/2026/nov/22/european-football-barcelona-villarreal-juventus-milan-inter",
+      "urlToImage": "https://i.guim.co.uk/img/media/e156c5f2d84c63c34abb465b35688771f70fdb64/0_0_2350_1880/master/2350.jpg?width=140&quality=85&auto=format&fit=max&s=47026d23bd0d42bf8fe223e1cfb712a6",
+      "publishedAt": "2026-11-22T22:20:43Z",
+      "content": "Barça prevail 3-2 despite Lamine Yamal’s missed penalty Atalanta snatch point in thrilling 4-4 draw with Inter Barcelona came back from two goals behind to beat Villarreal 3-2 at home on Sunday and restore their three-point lead at the top of La Liga. Two goals inside seven minutes from Tajon Buchanan and Tani Oluwaseyi gave Villarreal a commanding lead at Camp Nou and things got worse for Barça when winger Lamine Yamal missed a first-half penalty. Continue reading..."
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Agencies",
+      "title": "NFL roundup: Chiefs, Lions and Bills march on; Metcalf ejected for eye poke in Steelers loss",
+      "description": "Bears also continue strong start to season Ravens go down to sixth-straight loss Greg Rousseau had two sacks, including his team-leading 10th of the season, and Buffalo’s defense bailed out the Bills’ sputtering Josh Allen-led offense in a win over the injury-depleted division rival Miami Dolphins (1-9). Allen was limited to a four-yard touchdown pass to DJ Moore with two interceptions in an outing during which Buffalo settled for three field goals on five drives inside Miami’s 20. James Cook scored on a one-yard run for Buffalo (9-1) and had 89 yards rushing to become the NFL’s second player to score a TD and top 75 yards rushing in nine consecutive outings. Miami has lost four straight and are off to their worst start to a season since going 0-13 to open 2007. Continue reading...",
+      "url": "https://www.theguardian.com/sport/2026/nov/22/nfl-roundup-sunday-football-scores",
+      "urlToImage": "https://i.guim.co.uk/img/media/e08614ee19cae07351a2c8a1502bc38cbf7b6157/223_0_1905_1524/master/1905.jpg?width=140&quality=85&auto=format&fit=max&s=0d9cedfdd4c8dbe8fe788409b3872ed5",
+      "publishedAt": "2026-11-22T21:57:54Z",
+      "content": "Bears also continue strong start to season Ravens go down to sixth-straight loss Greg Rousseau had two sacks, including his team-leading 10th of the season, and Buffalo’s defense bailed out the Bills’ sputtering Josh Allen-led offense in a win over the injury-depleted division rival Miami Dolphins (1-9). Allen was limited to a four-yard touchdown pass to DJ Moore with two interceptions in an outing during which Buffalo settled for three field goals on five drives inside Miami’s 20. James Cook scored on a one-yard run for Buffalo (9-1) and had 89 yards rushing to become the NFL’s second player to score a TD and top 75 yards rushing in nine consecutive outings. Miami has lost four straight and are off to their worst start to a season since going 0-13 to open 2007. Continue reading..."
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Press Association",
+      "title": "Gerwyn Price ends barren run with Grand Slam of Darts win: ‘Now they can stop talking’",
+      "description": "Price beats Gian van Veen 16-11 to secure title Welshman lost ‘so many finals’ in four years of pain Gerwyn Price finally ended his major trophy drought by winning the Grand Slam of Darts and is delighted to silence his critics. The Welshman had not won a major televised event since 2022 and may have thought it might not happen again after losing three finals this year alone. But with Luke Littler and Luke Humphries exiting early, Price took his chance with a brilliant 16-11 win over Gian van Veen in Wolverhampton. Price claimed Grand Slam glory for the fourth time, but this one will surely mean the most to him. Continue reading...",
+      "url": "https://www.theguardian.com/sport/2026/nov/22/gerwyn-price-ends-barren-run-with-grand-slam-victory-in-wolverhampton",
+      "urlToImage": "https://i.guim.co.uk/img/media/96ff4bbe1b63f81685e8b1f12942277b77085c43/556_584_3811_3050/master/3811.jpg?width=140&quality=85&auto=format&fit=max&s=14eaa6ced8f4f512d6fccc5860d12cf3",
+      "publishedAt": "2026-11-22T21:54:55Z",
+      "content": "Price beats Gian van Veen 16-11 to secure title Welshman lost ‘so many finals’ in four years of pain Gerwyn Price finally ended his major trophy drought by winning the Grand Slam of Darts and is delighted to silence his critics. The Welshman had not won a major televised event since 2022 and may have thought it might not happen again after losing three finals this year alone. But with Luke Littler and Luke Humphries exiting early, Price took his chance with a brilliant 16-11 win over Gian van Veen in Wolverhampton. Price claimed Grand Slam glory for the fourth time, but this one will surely mean the most to him. Continue reading..."
     },
     {
       "source": {
@@ -60,6 +138,32 @@
       "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e813/live/77008940-e6bc-11f1-a094-5fdc692f3e33.jpg",
       "publishedAt": "2026-11-22T21:36:00Z",
       "content": "Mauricio Pochettino believes even the best team in the world could have conceded four goals at Liverpool in Manchester United's circumstances - but should the Red Devils have done more in defeat?"
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Andy Hunter at Anfield",
+      "title": "‘It’s painful for me’: Pochettino criticises Yoro red card in Anfield humiliation",
+      "description": "Manchester United lose 4-0 to Liverpool after early red Argentinian suffers club’s joint-heaviest debut defeat Mauricio Pochettino argued that Leny Yoro was wrongly sent off and that Manchester United were earlier denied a penalty against Liverpool after suffering the joint-heaviest debut defeat in the club’s history. Liverpool’s emphatic 4-0 win ensured Pochettino equalled Lal Hilditch’s unwanted record from 1926 of losing his first United game by such a scoreline. United’s 34 goals conceded across all competitions this season are the most by any team in European football’s top five leagues. Continue reading...",
+      "url": "https://www.theguardian.com/football/2026/nov/22/mauricio-pochettino-manchester-united-reign-begins-with-anfield-humiliation-liverpool",
+      "urlToImage": "https://i.guim.co.uk/img/media/835e2e3b4d08888bd283f79764d8ad1403316dcb/1444_813_3420_2736/master/3420.jpg?width=140&quality=85&auto=format&fit=max&s=0594b2b49de2f7df6c51210fa6d74e63",
+      "publishedAt": "2026-11-22T21:31:03Z",
+      "content": "Manchester United lose 4-0 to Liverpool after early red Argentinian suffers club’s joint-heaviest debut defeat Mauricio Pochettino argued that Leny Yoro was wrongly sent off and that Manchester United were earlier denied a penalty against Liverpool after suffering the joint-heaviest debut defeat in the club’s history. Liverpool’s emphatic 4-0 win ensured Pochettino equalled Lal Hilditch’s unwanted record from 1926 of losing his first United game by such a scoreline. United’s 34 goals conceded across all competitions this season are the most by any team in European football’s top five leagues. Continue reading..."
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Graham Searles",
+      "title": "NFL week 11: Dolphins 9-26 Bills, Buccaneers 21-31 Lions, Saints 13-21 Bears, and more – as it happened",
+      "description": "Lions and Bears move to 8-2 with comfortable wins Panthers beat Ravens 35-33 in rollercoaster thriller TOUCHDOWN! Ravens 9-0 Panthers 11:21, 1st quarter J Brissett to R Bateman for 52 yards J Williams one yard rush Continue reading...",
+      "url": "https://www.theguardian.com/sport/live/2026/nov/22/nfl-week-11-dolphins-v-bills-buccaneers-v-lions-saints-v-bears-and-more-live",
+      "urlToImage": "https://i.guim.co.uk/img/media/660d192ec81384cdf9bd425079b418d167ea7860/898_12_3567_2853/master/3567.jpg?width=140&quality=85&auto=format&fit=max&s=10fac938722dc8412e0b0c20138f06f3",
+      "publishedAt": "2026-11-22T21:29:02Z",
+      "content": "Lions and Bears move to 8-2 with comfortable wins Panthers beat Ravens 35-33 in rollercoaster thriller TOUCHDOWN! Ravens 9-0 Panthers 11:21, 1st quarter J Brissett to R Bateman for 52 yards J Williams one yard rush Continue reading..."
     },
     {
       "source": {
@@ -115,6 +219,32 @@
     },
     {
       "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Jamie Jackson at Anfield",
+      "title": "Pochettino’s new-manager bounce falls flat with De Ligt move a disastrous step | Jamie Jackson",
+      "description": "Decision to pick the Dutch defender over Harry Maguire backfired as Manchester United fell apart in the Anfield bearpit Chaotic, bewildering, and on this evidence in a relegation dogfight: welcome to the three‑ring circus that is Manchester United, Mauricio Pochettino. This ended as a 4-0 rout in favour of Liverpool, the new head coach overseeing the poorest opening result of the eight who have followed Sir Alex Ferguson since May 2013. Factor in this result coming against United’s fiercest rivals and Pochettino’s despair is complete. Continue reading...",
+      "url": "https://www.theguardian.com/football/2026/nov/22/mauricio-pochettino-matthijs-de-ligt-harry-maguire-manchester-united-liverpool-premier-league",
+      "urlToImage": "https://i.guim.co.uk/img/media/2e5a4478b3bf6d18edc1a5b8efc06cb3779d0585/119_0_3133_2506/master/3133.jpg?width=140&quality=85&auto=format&fit=max&s=7e5218036dc8d5af89f2994335bd682e",
+      "publishedAt": "2026-11-22T20:58:35Z",
+      "content": "Decision to pick the Dutch defender over Harry Maguire backfired as Manchester United fell apart in the Anfield bearpit Chaotic, bewildering, and on this evidence in a relegation dogfight: welcome to the three‑ring circus that is Manchester United, Mauricio Pochettino. This ended as a 4-0 rout in favour of Liverpool, the new head coach overseeing the poorest opening result of the eight who have followed Sir Alex Ferguson since May 2013. Factor in this result coming against United’s fiercest rivals and Pochettino’s despair is complete. Continue reading..."
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Tumaini Carayol",
+      "title": "Alcaraz puts Zverev in shade as world’s best beats No 1 for first ATP Finals title",
+      "description": "Spaniard wins final 6-2, 7-6 (7) against new world No 1 Alcaraz the fourth to win career grand slam and ATP Finals The titles of ATP world No 1 and the best male tennis player in the world are carried by two different names. This has always been clear throughout this messy, injury-ravaged men’s season but it was underlined in the grand finale as Carlos Alcaraz ended his campaign with a statement victory, defeating the top-ranked player, Alexander Zverev, 6-2, 7-6 (7) to win the ATP Finals for the first time. So much of Alcaraz’s fortunes this season were defined by the wrist injury that forced him out for four and a half months during the spring and summer. No matter, he still managed to tick the two most important items off his to-do list this year. Continue reading...",
+      "url": "https://www.theguardian.com/sport/2026/nov/22/carlos-alcaraz-first-atp-finals-title-alexander-zverev-tennis",
+      "urlToImage": "https://i.guim.co.uk/img/media/6984924ff8a89514c7d1768a9f1d06d27e7fd5e8/699_0_6990_5592/master/6990.jpg?width=140&quality=85&auto=format&fit=max&s=bc265ab671b511a033505a6ccb93eea2",
+      "publishedAt": "2026-11-22T20:43:11Z",
+      "content": "Spaniard wins final 6-2, 7-6 (7) against new world No 1 Alcaraz the fourth to win career grand slam and ATP Finals The titles of ATP world No 1 and the best male tennis player in the world are carried by two different names. This has always been clear throughout this messy, injury-ravaged men’s season but it was underlined in the grand finale as Carlos Alcaraz ended his campaign with a statement victory, defeating the top-ranked player, Alexander Zverev, 6-2, 7-6 (7) to win the ATP Finals for the first time. So much of Alcaraz’s fortunes this season were defined by the wrist injury that forced him out for four and a half months during the spring and summer. No matter, he still managed to tick the two most important items off his to-do list this year. Continue reading..."
+    },
+    {
+      "source": {
         "id": "bbc-sport",
         "name": "BBC Sport"
       },
@@ -154,6 +284,19 @@
     },
     {
       "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Daniel Harris",
+      "title": "Carlos Alcaraz beats Alexander Zverev to seal ATP Finals glory – as it happened",
+      "description": "Carlos Alcaraz was far too good for Alexander Zverev, beating the new world No 1 6-2 7-6(7) to win the ATP Finals for the first time On my goodness! Bocelli is back for Il Canto degli Italiani. Tuuuuuune! So what’s going to happen? I thought you’d never ask. I’m going for Alcaraz in two, 7-6 6-4. Continue reading...",
+      "url": "https://www.theguardian.com/sport/live/2026/nov/22/atp-finals-tennis-alexander-zverev-carlos-alcaraz-final-live",
+      "urlToImage": "https://i.guim.co.uk/img/media/9a63c7367ffa2464916b9832c7257b96d833d5ae/405_0_3019_2416/master/3019.jpg?width=140&quality=85&auto=format&fit=max&s=4cdaca50b0b6f74a4bb16309b51b6835",
+      "publishedAt": "2026-11-22T19:58:20Z",
+      "content": "Carlos Alcaraz was far too good for Alexander Zverev, beating the new world No 1 6-2 7-6(7) to win the ATP Finals for the first time On my goodness! Bocelli is back for Il Canto degli Italiani. Tuuuuuune! So what’s going to happen? I thought you’d never ask. I’m going for Alcaraz in two, 7-6 6-4. Continue reading..."
+    },
+    {
+      "source": {
         "id": "bbc-sport",
         "name": "BBC Sport"
       },
@@ -180,6 +323,19 @@
     },
     {
       "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Rob Smyth",
+      "title": "Liverpool 4-0 Manchester United: Premier League – as it happened",
+      "description": "Mauricio Pochettino suffered a nightmare start at Anfield, where Man Utd were reduced to 10 men and taken apart by Liverpool “Rob ‘Bob’ Smyth, as I live and breathe,” writes Ian Copestake. “Glad this game is in such .... hands. I will miss it, though. I am in the city as I need a break from looking after mother, and I don’t need this stress/catharsis. What I need is a curry, so damn the lot of youse.” For youse are all fu- well, never mind . Continue reading...",
+      "url": "https://www.theguardian.com/football/live/2026/nov/22/liverpool-v-manchester-united-premier-league-live",
+      "urlToImage": "https://i.guim.co.uk/img/media/d4a5199620b561b3b83196069de23b871de98e73/1033_363_4530_3625/master/4530.jpg?width=140&quality=85&auto=format&fit=max&s=4b7f215f65be18e5696ff0dc42aa7c37",
+      "publishedAt": "2026-11-22T19:16:35Z",
+      "content": "Mauricio Pochettino suffered a nightmare start at Anfield, where Man Utd were reduced to 10 men and taken apart by Liverpool “Rob ‘Bob’ Smyth, as I live and breathe,” writes Ian Copestake. “Glad this game is in such .... hands. I will miss it, though. I am in the city as I need a break from looking after mother, and I don’t need this stress/catharsis. What I need is a curry, so damn the lot of youse.” For youse are all fu- well, never mind . Continue reading..."
+    },
+    {
+      "source": {
         "id": "bbc-sport",
         "name": "BBC Sport"
       },
@@ -203,19 +359,6 @@
       "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7609/live/a91923c0-e6a7-11f1-a094-5fdc692f3e33.jpg",
       "publishedAt": "2026-11-22T19:03:24Z",
       "content": "Manchester United's new head coach Mauricio Pochettino says his side must transform \"anger\" from their thumping at the hands of Liverpool into \"energy\" to improve under his reign."
-    },
-    {
-      "source": {
-        "id": "bbc-sport",
-        "name": "BBC Sport"
-      },
-      "author": null,
-      "title": "Yoro sees red as Ngumoha shines - Liverpool v Man Utd player ratings",
-      "description": "How Liverpool and Manchester United's players rated following their Premier League match.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c933gzxk66yyo?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d14/live/a0909ae0-e6b0-11f1-99a1-253766e7ad8b.jpg",
-      "publishedAt": "2026-11-22T18:28:51Z",
-      "content": "How Liverpool and Manchester United's players rated following their Premier League match."
     },
     {
       "source": {
@@ -323,6 +466,19 @@
     },
     {
       "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "John Brewin and Emillia Hawkins",
+      "title": "Arsenal 0-0 West Ham, Manchester City 1-3 Tottenham: WSL clockwatch – as it happened",
+      "description": "Another Gunners draw placed pressure on Renée Slegers while Tottenham pulled off one of the shocks of the season Shaw strikes for City! Rose wins the ball high up the pitch before passing to Shaw, who is left in plenty of space in the box. The striker then has plenty of time to slide the ball home. Continue reading...",
+      "url": "https://www.theguardian.com/football/live/2026/nov/22/wsl-manchester-city-tottenham-birmingham-manchester-united-arsenal-west-ham-live",
+      "urlToImage": "https://i.guim.co.uk/img/media/7ab4dc7049511ddfac950d07fb846013cf69e6de/458_491_1886_1509/master/1886.jpg?width=140&quality=85&auto=format&fit=max&s=780deb113a78709c8224663ee69854f0",
+      "publishedAt": "2026-11-22T16:57:45Z",
+      "content": "Another Gunners draw placed pressure on Renée Slegers while Tottenham pulled off one of the shocks of the season Shaw strikes for City! Rose wins the ball high up the pitch before passing to Shaw, who is left in plenty of space in the box. The striker then has plenty of time to slide the ball home. Continue reading..."
+    },
+    {
+      "source": {
         "id": "bbc-sport",
         "name": "BBC Sport"
       },
@@ -333,6 +489,45 @@
       "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4747/live/e517d950-e69f-11f1-99a1-253766e7ad8b.jpg",
       "publishedAt": "2026-11-22T16:25:35Z",
       "content": "Women's Champions League qualification may have seemed fanciful for Tottenham at the start of the season - but they are firmly in the mix after winning at Manchester City."
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Dominic Booth",
+      "title": "Hull City 2-0 Brighton: Premier League – as it happened",
+      "description": "Brighton’s top-four hopes took a hit as Oli McBurnie grabbed two stoppage-time goals after Costinha was sent off Fabian Hürzeler sounded a little way of Hull in his pre-match press conference, citing the Tigers’ narrow 1-0 defeat to table-topping (and possible title rivals) Arsenal as a template for how today’s game might go. “I think they do an impressive job,” Hürzeler said. “They had a brilliant start in the Premier League. They are very structured. Against Arsenal, I think Arsenal suffered. They [Arsenal] didn’t create a lot of big chances, and therefore we need to be patient because we also know that Hull are really good in transition. Continue reading...",
+      "url": "https://www.theguardian.com/football/live/2026/nov/22/hull-city-v-brighton-premier-league-live",
+      "urlToImage": "https://i.guim.co.uk/img/media/76d3c665d355710829468ed90a4ed011c740f316/809_299_2440_1953/master/2440.jpg?width=140&quality=85&auto=format&fit=max&s=a1ef5c10ede4a64108c56e92fd70916d",
+      "publishedAt": "2026-11-22T16:15:25Z",
+      "content": "Brighton’s top-four hopes took a hit as Oli McBurnie grabbed two stoppage-time goals after Costinha was sent off Fabian Hürzeler sounded a little way of Hull in his pre-match press conference, citing the Tigers’ narrow 1-0 defeat to table-topping (and possible title rivals) Arsenal as a template for how today’s game might go. “I think they do an impressive job,” Hürzeler said. “They had a brilliant start in the Premier League. They are very structured. Against Arsenal, I think Arsenal suffered. They [Arsenal] didn’t create a lot of big chances, and therefore we need to be patient because we also know that Hull are really good in transition. Continue reading..."
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Aaron Bower at the MKM Stadium",
+      "title": "McBurnie’s added-time double snatches win for Hull to shock 10-man Brighton",
+      "description": "Amid the talk of Brighton being surprise title contenders this season, these are perhaps the afternoons which show the margin that still exists, and how the Premier League can provide the most punishing of wake-up calls at any moment. Make no mistake about it, Fabian Hürzeler’s side will play far worse than this over the next few months and win. They are still second in the table. How they left Hull without even a point almost defies belief given the dominance they enjoyed for large parts of the contest. But for all the statement victories and the headline-grabbing moments , these games are the ones which can trip you up the most. Continue reading...",
+      "url": "https://www.theguardian.com/football/2026/nov/22/hull-brighton-premier-league-match-report",
+      "urlToImage": "https://i.guim.co.uk/img/media/a031f718e08daf83f40bfd6d6b0d289d49346209/604_120_3916_3133/master/3916.jpg?width=140&quality=85&auto=format&fit=max&s=3e5d6f717c71910c3dd7d28fd5f6aba4",
+      "publishedAt": "2026-11-22T16:10:48Z",
+      "content": "Amid the talk of Brighton being surprise title contenders this season, these are perhaps the afternoons which show the margin that still exists, and how the Premier League can provide the most punishing of wake-up calls at any moment. Make no mistake about it, Fabian Hürzeler’s side will play far worse than this over the next few months and win. They are still second in the table. How they left Hull without even a point almost defies belief given the dominance they enjoyed for large parts of the contest. But for all the statement victories and the headline-grabbing moments , these games are the ones which can trip you up the most. Continue reading..."
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Guardian sport",
+      "title": "ESPN mourns ‘one of the best human beings ever’ after NFL analyst Tom Jackson dies at 75",
+      "description": "Former player known for partnership with Chris Berman Jackson was member of Broncos for 14 seasons ESPN is mourning “one of the most influential and beloved figures” in the broadcaster’s history after the death of Tom Jackson at the age of 75. Jackson played for the Denver Broncos for 14 seasons at linebacker, and was a two-time All-Pro selection, before turning to broadcasting after his playing career ended in 1986. He was a key part of ESPN’s NFL coverage, most notably alongside Chris Berman, for 29 years before his retirement in 2016. Continue reading...",
+      "url": "https://www.theguardian.com/sport/2026/nov/22/espn-mourns-one-of-the-best-human-beings-ever-after-nfl-analyst-tom-jackson-dies-at-75",
+      "urlToImage": "https://i.guim.co.uk/img/media/7e44e5d1ef98d27a408172d3fb88c1b816aaa7cc/94_0_2812_2250/master/2812.jpg?width=140&quality=85&auto=format&fit=max&s=c3efe75cecdbc462d8ba62cf381d8449",
+      "publishedAt": "2026-11-22T16:09:22Z",
+      "content": "Former player known for partnership with Chris Berman Jackson was member of Broncos for 14 seasons ESPN is mourning “one of the most influential and beloved figures” in the broadcaster’s history after the death of Tom Jackson at the age of 75. Jackson played for the Denver Broncos for 14 seasons at linebacker, and was a two-time All-Pro selection, before turning to broadcasting after his playing career ended in 1986. He was a key part of ESPN’s NFL coverage, most notably alongside Chris Berman, for 29 years before his retirement in 2016. Continue reading..."
     },
     {
       "source": {
@@ -349,6 +544,19 @@
     },
     {
       "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Reuters",
+      "title": "Marc Márquez claims record-equalling eighth MotoGP world title in Portugal",
+      "description": "Spaniard matches Giacomo Agostini’s premier-class tally Márquez defends his title despite double surgery in May Marc Márquez sealed the 2026 MotoGP world title at the Portuguese Grand Prix on Sunday, after his eighth-placed finish proved enough to establish an unassailable lead in the overall standings. The Ducati rider needed to finish in the top nine in Sunday’s race and despite starting second on the grid, Márquez rode with caution to finish eighth and seal the title with a round to spare. The Spaniard’s eighth premier-class title puts him alongside the great Giacomo Agostini at the top of motorcycle racing’s all-time standings. Continue reading...",
+      "url": "https://www.theguardian.com/sport/2026/nov/22/marc-marquez-claims-eighth-motogp-world-title",
+      "urlToImage": "https://i.guim.co.uk/img/media/2117e7846babfe872897b50715741c9d6e22e48a/457_0_4819_3857/master/4819.jpg?width=140&quality=85&auto=format&fit=max&s=fad94dc6a5c482e05aa7252cce42cb9f",
+      "publishedAt": "2026-11-22T15:26:16Z",
+      "content": "Spaniard matches Giacomo Agostini’s premier-class tally Márquez defends his title despite double surgery in May Marc Márquez sealed the 2026 MotoGP world title at the Portuguese Grand Prix on Sunday, after his eighth-placed finish proved enough to establish an unassailable lead in the overall standings. The Ducati rider needed to finish in the top nine in Sunday’s race and despite starting second on the grid, Márquez rode with caution to finish eighth and seal the title with a round to spare. The Spaniard’s eighth premier-class title puts him alongside the great Giacomo Agostini at the top of motorcycle racing’s all-time standings. Continue reading..."
+    },
+    {
+      "source": {
         "id": "bbc-sport",
         "name": "BBC Sport"
       },
@@ -359,6 +567,19 @@
       "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2e4/live/299e0eb0-e681-11f1-a5bc-ddaec99ca2c4.jpg",
       "publishedAt": "2026-11-22T15:17:49Z",
       "content": "Chinese snooker player Liu Wenwei is suspended from \"attending or competing on the World Snooker Tour with immediate effect\" amid an investigation into match-fixing."
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Press Association",
+      "title": "Blackburn earn derby draw for Mowbray and extend Burnley’s wait for home win",
+      "description": "Todd Cantwell’s penalty earned Blackburn a 2-2 draw at Burnley in their first match since Tony Mowbray stepped back because of health issues. In a gripping, physical East Lancashire derby, the home side led twice, through Largie Ramazani’s rising first-half drive and Jaydon Banel’s steered finish after the break. But Andri Gudjohnsen scored Blackburn’s first equaliser, then earned the penalty which Cantwell converted. Continue reading...",
+      "url": "https://www.theguardian.com/football/2026/nov/22/burnley-blackburn-championship-match-report",
+      "urlToImage": "https://i.guim.co.uk/img/media/2c45cfda91deef2290dded2e8a84f5f69bbb04dd/96_0_2585_2069/master/2585.jpg?width=140&quality=85&auto=format&fit=max&s=ee137eb9a99b3726a3c384e66f03ef10",
+      "publishedAt": "2026-11-22T15:12:24Z",
+      "content": "Todd Cantwell’s penalty earned Blackburn a 2-2 draw at Burnley in their first match since Tony Mowbray stepped back because of health issues. In a gripping, physical East Lancashire derby, the home side led twice, through Largie Ramazani’s rising first-half drive and Jaydon Banel’s steered finish after the break. But Andri Gudjohnsen scored Blackburn’s first equaliser, then earned the penalty which Cantwell converted. Continue reading..."
     },
     {
       "source": {
@@ -375,6 +596,19 @@
     },
     {
       "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Tom Garry at the Joie Stadium",
+      "title": "Manchester City’s WSL title bid hit by Spurs after Vinberg and Naz’s late double",
+      "description": "This most unpredictable and evenly contested Women’s Super League campaign took another unexpected twist as Manchester City missed the chance to return to the top of the table as they suffered a second successive defeat, by virtue of a terrific performance from a Tottenham side who moved within three points of the European places. The shock result came just 24 hours after City’s title rivals Chelsea had dropped points at Liverpool. It was the first time City had failed to win a home league match during Andrée Jeglertz’s 16 months in charge, let alone lose. Continue reading...",
+      "url": "https://www.theguardian.com/football/2026/nov/22/manchester-city-tottenham-wsl-match-report",
+      "urlToImage": "https://i.guim.co.uk/img/media/d90d803821ea4deeb7f953d937fb129cc1a2c521/276_0_1858_1487/master/1858.jpg?width=140&quality=85&auto=format&fit=max&s=cc855ccca0eee790d4aadead2ba3af07",
+      "publishedAt": "2026-11-22T14:59:23Z",
+      "content": "This most unpredictable and evenly contested Women’s Super League campaign took another unexpected twist as Manchester City missed the chance to return to the top of the table as they suffered a second successive defeat, by virtue of a terrific performance from a Tottenham side who moved within three points of the European places. The shock result came just 24 hours after City’s title rivals Chelsea had dropped points at Liverpool. It was the first time City had failed to win a home league match during Andrée Jeglertz’s 16 months in charge, let alone lose. Continue reading..."
+    },
+    {
+      "source": {
         "id": "bbc-sport",
         "name": "BBC Sport"
       },
@@ -388,6 +622,19 @@
     },
     {
       "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Agencies",
+      "title": "NFL’s Jaylen Harrell reportedly assaulted driver before crash that left player seriously injured",
+      "description": "Incident occurred in Tampa on Friday morning Crash leaves linebacker with serious injuries Tampa police are investigating whether Tennessee Titans linebacker Jaylen Harrell assaulted a rideshare driver before a crash that left the NFL player in hospital. The Tampa ⁠Police Department, in ⁠a preliminary report, said Harrell was in the back seat of the car around 8.45am on Friday in the backseat when “he reportedly assaulted the driver while ⁠the vehicle was in motion.” The driver then swerved, struck another car and collided ⁠with a utility pole, per the police report. Continue reading...",
+      "url": "https://www.theguardian.com/sport/2026/nov/22/titans-jaylen-harrell-reportedly-assaulted-driver-before-crash-that-left-player-seriously-injured",
+      "urlToImage": "https://i.guim.co.uk/img/media/14bce411e4743792ae90c93a826dfa5d2b57373c/441_0_4413_3531/master/4413.jpg?width=140&quality=85&auto=format&fit=max&s=a0365066d5bf960064ac5f14e925ceaf",
+      "publishedAt": "2026-11-22T13:25:37Z",
+      "content": "Incident occurred in Tampa on Friday morning Crash leaves linebacker with serious injuries Tampa police are investigating whether Tennessee Titans linebacker Jaylen Harrell assaulted a rideshare driver before a crash that left the NFL player in hospital. The Tampa ⁠Police Department, in ⁠a preliminary report, said Harrell was in the back seat of the car around 8.45am on Friday in the backseat when “he reportedly assaulted the driver while ⁠the vehicle was in motion.” The driver then swerved, struck another car and collided ⁠with a utility pole, per the police report. Continue reading..."
+    },
+    {
+      "source": {
         "id": "bbc-sport",
         "name": "BBC Sport"
       },
@@ -398,6 +645,45 @@
       "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec8a/live/e4531aa0-f1de-11ef-9e61-71ee71f26eb1.png",
       "publishedAt": "2026-11-22T12:45:57Z",
       "content": "In his latest BBC Sport column, England World Cup winner Matt Dawson reflects on Steve Borthwick's side's record win over New Zealand and previews the final round of Nations Championship fixtures."
+    },
+    {
+      "source": {
+        "id": "bbc-sport",
+        "name": "BBC Sport"
+      },
+      "author": null,
+      "title": "Watford seek sixth manager in 18 months after sacking Dionisi",
+      "description": "Watford sack head coach Alessio Dionisi after 18 games in charge.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cyvz6r4g1jqo?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e672/live/da29eaa0-adfc-11f1-8169-6fdea7f79791.jpg",
+      "publishedAt": "2026-11-22T12:00:45Z",
+      "content": "Watford sack head coach Alessio Dionisi after 18 games in charge."
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Dominic Booth (now) Emillia Hawkins (earlier)",
+      "title": "Fernandes puts contract talks on hold; Liverpool v Manchester United buildup and more – matchday live",
+      "description": "The latest Premier League and WSL news and buildup, as Bruno Fernandes revealed contract talks with Manchester United have been paused The Tottenham head coach Roberto De Zerbi compared Luca Williams-Barnett to Lamine Yamal following his heroics against Ipswich. He said: “Luca is a special player. I’m not surprised because his talent is bigger than you think. He played very well. He’s lucky because he’s playing in a top club with top team-mates. Continue reading...",
+      "url": "https://www.theguardian.com/football/live/2026/nov/22/liverpool-v-manchester-united-buildup-and-more-premier-league-news-matchday-live",
+      "urlToImage": "https://i.guim.co.uk/img/media/05fc711a1690bb75157556422c2683ba3395a06f/911_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=c46f69b85b8ff613bad9f3c6d84cdeed",
+      "publishedAt": "2026-11-22T12:00:05Z",
+      "content": "The latest Premier League and WSL news and buildup, as Bruno Fernandes revealed contract talks with Manchester United have been paused The Tottenham head coach Roberto De Zerbi compared Luca Williams-Barnett to Lamine Yamal following his heroics against Ipswich. He said: “Luca is a special player. I’m not surprised because his talent is bigger than you think. He played very well. He’s lucky because he’s playing in a top club with top team-mates. Continue reading..."
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Giles Richards in Las Vegas",
+      "title": "Max Verstappen says George Russell is ‘so far below my level’ after Vegas win",
+      "description": "Red Bull driver delighted rival crashed out of grand prix Leclerc and Hamilton relationship is ‘unmanageable’ Max Verstappen escalated his feud with George Russell after a stunning victory at the Las Vegas Grand Prix , stating the British driver was barely worth consideration because he was “so far below my level”. The Dutchman competed with Russell for much of the race in Nevada but it was the Red Bull driver who came out on top and Russell ultimately fell to ninth after he suffered a lock-up late in the race. Continue reading...",
+      "url": "https://www.theguardian.com/sport/2026/nov/22/max-verstappen-george-russell-las-vegas-gp-formula-one",
+      "urlToImage": "https://i.guim.co.uk/img/media/7b058d455219210daab6a78fc0833fcf02ef0168/0_206_2336_1868/master/2336.jpg?width=140&quality=85&auto=format&fit=max&s=c3423fea95e45aa02d278a2a3c00b5a2",
+      "publishedAt": "2026-11-22T11:49:11Z",
+      "content": "Red Bull driver delighted rival crashed out of grand prix Leclerc and Hamilton relationship is ‘unmanageable’ Max Verstappen escalated his feud with George Russell after a stunning victory at the Las Vegas Grand Prix , stating the British driver was barely worth consideration because he was “so far below my level”. The Dutchman competed with Russell for much of the race in Nevada but it was the Red Bull driver who came out on top and Russell ultimately fell to ninth after he suffered a lock-up late in the race. Continue reading..."
     },
     {
       "source": {
@@ -466,6 +752,19 @@
     },
     {
       "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Ben Bloom at the Bet365 Stadium",
+      "title": "Robins ‘aims for the stars’ as Stoke dream of Premier League return",
+      "description": "The Championship’s form side climbed to second after holding on resiliently with 10 men to knock Birmingham off the summit There have been false dawns before. Plenty of them. This time last year, with Christmas on the near horizon, Stoke sat second in the Championship table and were beginning to wonder whether they might allow themselves to dream. So hopeless was their subsequent run that by the onset of spring they were forced to consider a potential relegation fight. Experience has taught the benefit of pragmatism, so no one will be getting ahead of themselves just yet. But this weekend was supposed to be the big test for Mark Robins’s team and few considered they would pass it quite so resoundingly. Continue reading...",
+      "url": "https://www.theguardian.com/football/2026/nov/22/mark-robins-stoke-birmingham-championship-premier-league-promotion",
+      "urlToImage": "https://i.guim.co.uk/img/media/af7fbf085ba15e87e4e285c14565ba656a8028b7/187_0_2238_1791/master/2238.jpg?width=140&quality=85&auto=format&fit=max&s=e6ac373650668b6b5e5ec4160fd006a3",
+      "publishedAt": "2026-11-22T08:00:22Z",
+      "content": "The Championship’s form side climbed to second after holding on resiliently with 10 men to knock Birmingham off the summit There have been false dawns before. Plenty of them. This time last year, with Christmas on the near horizon, Stoke sat second in the Championship table and were beginning to wonder whether they might allow themselves to dream. So hopeless was their subsequent run that by the onset of spring they were forced to consider a potential relegation fight. Experience has taught the benefit of pragmatism, so no one will be getting ahead of themselves just yet. But this weekend was supposed to be the big test for Mark Robins’s team and few considered they would pass it quite so resoundingly. Continue reading..."
+    },
+    {
+      "source": {
         "id": "bbc-sport",
         "name": "BBC Sport"
       },
@@ -479,6 +778,97 @@
     },
     {
       "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Krishani Dhanji",
+      "title": "Max Verstappen wins Las Vegas Grand Prix: Formula One 2026 – as it happened",
+      "description": "Lando Norris finishes second and Oscar Piastri third Any thoughts? Get in touch with an email Lap 2/50 Oscar Piastri has done some fast overtaking, moving himself up from 17 to 12, now sitting behind Carlos Sainz . Continue reading...",
+      "url": "https://www.theguardian.com/sport/live/2026/nov/22/las-vegas-grand-prix-formula-one-2026-race-updates-live",
+      "urlToImage": "https://i.guim.co.uk/img/media/0e1e25e345ae136abd5b4d9c660839454e3b5265/50_0_3416_2735/master/3416.jpg?width=140&quality=85&auto=format&fit=max&s=58377a16a2739fb11388dbdb6b9b41ee",
+      "publishedAt": "2026-11-22T06:14:07Z",
+      "content": "Lando Norris finishes second and Oscar Piastri third Any thoughts? Get in touch with an email Lap 2/50 Oscar Piastri has done some fast overtaking, moving himself up from 17 to 12, now sitting behind Carlos Sainz . Continue reading..."
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Giles Richards in Las Vegas",
+      "title": "Max Verstappen claims dramatic Las Vegas F1 GP win after Ferraris collide",
+      "description": "Dutchman under siege before pulling clear in the final lap Charles Leclerc and Lewis Hamilton again clash on track For a race still in its infancy, this year’s Las Vegas Grand Prix provided a spectacle for the ages. The victory for Max Verstappen once more exemplified why he must be acknowledged as one of the greats of Formula One after a compelling race-long battle where the lead changed 34 times but on every occasion, and most important on the last lap, it was the Red Bull driver who had his nose in front. This was a race unique to this season and not seen in the sport for a long time, an old-school duel of slipstreaming and the sort of over-the-top extravaganza perfect for Las Vegas, Cirque du Soleil fashioned from carbon fibre and noise. Continue reading...",
+      "url": "https://www.theguardian.com/sport/2026/nov/22/max-verstappen-touches-perfection-in-dramatic-las-vegas-grand-prix-win",
+      "urlToImage": "https://i.guim.co.uk/img/media/d0a9ab789d250cb38b422c64b38f325f59d9c741/503_0_4225_3380/master/4225.jpg?width=140&quality=85&auto=format&fit=max&s=7814071f4d133d98a91318b6a0d52dab",
+      "publishedAt": "2026-11-22T06:08:03Z",
+      "content": "Dutchman under siege before pulling clear in the final lap Charles Leclerc and Lewis Hamilton again clash on track For a race still in its infancy, this year’s Las Vegas Grand Prix provided a spectacle for the ages. The victory for Max Verstappen once more exemplified why he must be acknowledged as one of the greats of Formula One after a compelling race-long battle where the lead changed 34 times but on every occasion, and most important on the last lap, it was the Red Bull driver who had his nose in front. This was a race unique to this season and not seen in the sport for a long time, an old-school duel of slipstreaming and the sort of over-the-top extravaganza perfect for Las Vegas, Cirque du Soleil fashioned from carbon fibre and noise. Continue reading..."
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Pablo Iglesias Maurer at Audi Field",
+      "title": "Champion’s corner: KC Current win first NWSL Championship with 2-1 stunner over Spirit",
+      "description": "Current’s opener came direct from a corner kick Debinha, Trinity Rodman trade goals in stoppage time Washington Spirit lose third consecutive NWSL final Read Jeff Rueter’s minute-by-minute report It took five years, 90 minutes and a goal for the ages, but the Kansas City Current have their first-ever NWSL championship. Riding a wave of momentum created by a 54th-minute Olimpico from midfielder Vanessa DiBernardo, and capping it off with an all-important breakaway winner from Debinha, the Current silenced the partisan, sellout crowd at the heavily-favored Washington Spirit’s home ground with a 2-1 victory on Saturday. Continue reading...",
+      "url": "https://www.theguardian.com/football/2026/nov/21/nwsl-championship-washington-spirit-kansas-city-current",
+      "urlToImage": "https://i.guim.co.uk/img/media/546fafdee8a7c55af0f3197c68e9e63455348a3f/311_0_4057_3247/master/4057.jpg?width=140&quality=85&auto=format&fit=max&s=2208080e7b45fe3b49cc71f6ca1de2dc",
+      "publishedAt": "2026-11-22T03:55:43Z",
+      "content": "Current’s opener came direct from a corner kick Debinha, Trinity Rodman trade goals in stoppage time Washington Spirit lose third consecutive NWSL final Read Jeff Rueter’s minute-by-minute report It took five years, 90 minutes and a goal for the ages, but the Kansas City Current have their first-ever NWSL championship. Riding a wave of momentum created by a 54th-minute Olimpico from midfielder Vanessa DiBernardo, and capping it off with an all-important breakaway winner from Debinha, the Current silenced the partisan, sellout crowd at the heavily-favored Washington Spirit’s home ground with a 2-1 victory on Saturday. Continue reading..."
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "'Unbelievable' - how Spurs teenager Williams-Barnett impressed on first start",
+      "description": "Match of the Day pundit Joe Hart explains how teenager Luca Williams-Barnett caused problems for Ipswich Town on his first Premier League start for Tottenham in their 2-0 home win.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm5y149qg4yqo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6cf6/live/116c8440-e607-11f1-99a1-253766e7ad8b.jpg",
+      "publishedAt": "2026-11-22T00:13:01Z",
+      "content": "Match of the Day pundit Joe Hart explains how teenager Luca Williams-Barnett caused problems for Ipswich Town on his first Premier League start for Tottenham in their 2-0 home win.\r\nMATCH REPORT: Pre… [+76 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "I wish referee had opportunity to see 'handball' again - Hart",
+      "description": "Match of the Day pundits Joe Hart and Alan Shearer disagree with Morgan Rogers being penalised for handball, as the Chelsea forward \"didn't make himself bigger\" with the use of his arms in his side's 4-1 defeat to Leeds United in the Premier League.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cme3dvk1kzgqo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2b7c/live/99f4c5e0-e600-11f1-a094-5fdc692f3e33.jpg",
+      "publishedAt": "2026-11-22T00:08:13Z",
+      "content": "Match of the Day pundits Joe Hart and Alan Shearer look at the decision to award Leeds a penalty for handball by Chelsea's Morgan Rogers.\r\nMATCH REPORT: Premier League - Chelsea 1-4 Leeds United\r\nAva… [+23 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Andy Campbell",
+      "title": "Naderi's 'lucky punch' keeps Rangers in touch",
+      "description": "On a Saturday laden with Scottish Premiership goals, Ryan Naderi's was far from the most impressive - but vital for Rangers all the same.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckzd930mjp1po",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e4b0/live/ab978b20-e600-11f1-b58d-2d14eb0c7952.jpg",
+      "publishedAt": "2026-11-21T23:49:30Z",
+      "content": "Manager Derek McInnes was similarly delighted.\r\n\"When the game is still in the balance and you're putting a bit of pressure on, it's good to know that you've got a bit of evidence there that you can … [+583 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "France thrash Argentina to reach Nations Championship final",
+      "description": "France beat Argentina 45-17 in Paris to set up a clash with South Africa in the Nations Championship final at the Allianz Stadium.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/videos/cm879py9n9xwo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/24fa/live/17e5fbe0-e601-11f1-99b6-a35a62fa4264.jpg",
+      "publishedAt": "2026-11-21T23:22:40Z",
+      "content": "France beat Argentina 45-17 in Paris to set up a clash with South Africa in the Nations Championship final at the Allianz Stadium.\r\nMATCH REPORT: Nations Championship - France 45-17 Argentina\r\nAvaila… [+20 chars]"
+    },
+    {
+      "source": {
         "id": "bbc-sport",
         "name": "BBC Sport"
       },
@@ -489,6 +879,32 @@
       "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24fa/live/17e5fbe0-e601-11f1-99b6-a35a62fa4264.jpg",
       "publishedAt": "2026-11-21T23:22:40Z",
       "content": "France beat Argentina 45-17 in Paris to set up a clash with South Africa in the Nations Championship final at the Allianz Stadium."
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "London City keep up title hunt with emphatic win over Crystal Palace",
+      "description": "London City Lionesses stay in the hunt for the Women's Super League title, with a statement second-half performance to give them a 6-2 win over Crystal Palace.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6n83rrknrj2o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6419/live/3883b000-e5e2-11f1-99a1-253766e7ad8b.jpg",
+      "publishedAt": "2026-11-21T23:14:10Z",
+      "content": "London City Lionesses stay in the hunt for the Women's Super League title, with a statement second-half performance to give them a 6-2 win over Crystal Palace.\r\nMATCH REPORT: WSL - London City Liones… [+51 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Colin Moffat",
+      "title": "'They looked like a team again' - Hearts roar back with Dundee demolition",
+      "description": "After a worrying week before the international break, Hearts respond is style by thrashing Dundee 8-0 at Dens Park.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm9w98y28djno",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4cf3/live/0bdf2a10-e5fc-11f1-9cff-035604b6272d.jpg",
+      "publishedAt": "2026-11-21T22:45:05Z",
+      "content": "There were some fine finishes, a deft first-time effort from Sabah Kerjota being the pick of the bunch, a lot of shoddy defending, and a red card for the hosts before the hour with the score at 4-0.\r… [+700 chars]"
     },
     {
       "source": {
@@ -518,6 +934,58 @@
     },
     {
       "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Alastair Telfer",
+      "title": "France secure Nations Championship final with Springboks",
+      "description": "France dispatch Argentina in Paris to book their spot against South Africa in the Nations Championship final at Allianz Stadium next Sunday.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c3zxv4e5g5g5o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/594b/live/6226ae90-e5f0-11f1-b1d8-fd34c88a50a0.jpg",
+      "publishedAt": "2026-11-21T22:22:36Z",
+      "content": "Nations Championship\r\nFrance (14) 45\r\nTries: Guillard, Mauvaka, Gourgues 2, Gailleton, Duguid, Bielle-Biarrey Cons: Gourgues 5\r\nArgentina (10) 17\r\nTries: Piccardo, Matera Con: Albornoz 2 Pen: Alborno… [+1887 chars]"
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Louise Taylor at St James' Park",
+      "title": "‘Obviously it’s not good’: Arteta sweating over David Raya’s fitness after injury",
+      "description": "Keeper close to tears at Newcastle after hurting shoulder Arsenal held 2-2, with Jaissle hailing ‘excellent’ display Arsenal were left sweating on the fitness of their goalkeeper David Raya after the Spaniard was forced off with a shoulder injury during the second half of the 2-2 draw at Newcastle on Saturday evening. It left Mikel Arteta’s side six points clear of Brighton and Manchester City at the top of the Premier League but Arsenal’s manager was more concerned about Raya following an accidental collision with Newcastle’s William Osula. The Spaniard was helped off in evident pain and looked close to tears. Continue reading...",
+      "url": "https://www.theguardian.com/football/2026/nov/21/david-raya-shoulder-injury-arsenal-newcastle-mikel-arteta",
+      "urlToImage": "https://i.guim.co.uk/img/media/3bbb589d9e517a18cfef57d7776dd498a4d5caeb/33_42_928_742/master/928.jpg?width=140&quality=85&auto=format&fit=max&s=4d42beaf30774bbb3cc822764d63b224",
+      "publishedAt": "2026-11-21T21:48:21Z",
+      "content": "Keeper close to tears at Newcastle after hurting shoulder Arsenal held 2-2, with Jaissle hailing ‘excellent’ display Arsenal were left sweating on the fitness of their goalkeeper David Raya after the Spaniard was forced off with a shoulder injury during the second half of the 2-2 draw at Newcastle on Saturday evening. It left Mikel Arteta’s side six points clear of Brighton and Manchester City at the top of the Premier League but Arsenal’s manager was more concerned about Raya following an accidental collision with Newcastle’s William Osula. The Spaniard was helped off in evident pain and looked close to tears. Continue reading..."
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Alex Howell",
+      "title": "Raya set to have scan on injury - how much would Arsenal miss him?",
+      "description": "Arsenal goalkeeper David Raya is set to have a scan on his shoulder after going off injured during Saturday's 2-2 draw with Newcastle.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckx28w9ree9vo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b3a1/live/dec0b5d0-e5ec-11f1-99a1-253766e7ad8b.jpg",
+      "publishedAt": "2026-11-21T21:14:08Z",
+      "content": "Injuries are never good news, but Arsenal's latest one to first-choice goalkeeper David Raya has come in the worst possible position.\r\nThe 31-year-old was forced to leave the pitch 70 minutes into Sa… [+1736 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Matt Gault",
+      "title": "Farrell defends Prendergast after SA camp comments",
+      "description": "Ireland head coach Andy Farrell praises Sam Prendergast's performance in Saturday's victory over South Africa and expresses his displeasure at the Springboks' comments about the fly-half during the week.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqrkgxzjjvy4o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7c35/live/d8ee7780-e5ee-11f1-b1d8-fd34c88a50a0.jpg",
+      "publishedAt": "2026-11-21T21:12:24Z",
+      "content": "Ireland head coach Andy Farrell praised Sam Prendergast's performance in Saturday's victory over South Africa and expressed his displeasure at the Springboks' comments about the fly-half during the w… [+1231 chars]"
+    },
+    {
+      "source": {
         "id": "bbc-sport",
         "name": "BBC Sport"
       },
@@ -528,6 +996,71 @@
       "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/985d/live/32b585d0-e5e3-11f1-9ab8-8737221634d6.jpg",
       "publishedAt": "2026-11-21T20:39:51Z",
       "content": "Ireland put a string of deflating losses against the world's best teams behind them with a hard-fought 20-17 win over South Africa in Dublin."
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Rugby Union Weekly: Record-breaking win for England against New Zealand",
+      "description": "The winning margin of 25 points is England's biggest ever against New Zealand",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pp8yst?at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p0lwzcxx.jpg",
+      "publishedAt": "2026-11-21T20:37:00Z",
+      "content": "Available for 29 days\r\nIt was an historic day at the Allianz as England beat the All Blacks 37-12 and the winning margin of 25 points is the biggest ever against a New Zealand side. Chris, Paul Grays… [+911 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Hirst key for Stoke, injuries derail Millwall - Sam Parkin's EFL takeaways",
+      "description": "After the last international break of the year, Final score pundit and former Swindon Town, Luton Town and Northampton Town striker selects his takeaways from the Championship, League One and League Two.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6r7g8253e3yo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/93db/live/2d4a1790-801e-11f0-ab3e-bd52082cd0ae.png",
+      "publishedAt": "2026-11-21T20:36:43Z",
+      "content": "Stoke City are the Championship's form team, having taken 32 points from the last 39, but can they stay the distance in the promotion race?\r\nParkin: \"I think everyone, probably me included, is really… [+1224 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "AC Milan monitoring Man Utd's Fernandes - Sunday's gossip",
+      "description": "AC Milan monitoring Manchester United midfielder Bruno Fernandes, Arsenal pair yet to start talks on new deals and Trabzonspor renew interest in Tottenham forward Richarlison, plus more.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq8j4e8nlvm1o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6a72/live/543c3860-e5da-11f1-99a1-253766e7ad8b.png",
+      "publishedAt": "2026-11-21T20:35:12Z",
+      "content": "AC Milan are monitoring Manchester United midfielder Bruno Fernandes, Arsenal pair are yet to start talks on new deals and Trabzonspor renew their interest in Tottenham forward Richarlison.\r\nAC Milan… [+2075 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "'We lost two points' - Arteta on 'unacceptable' Newcastle draw",
+      "description": "Arsenal manager Mikel Arteta says his side squandered the chance to take all three points after their 2-2 draw against Newcastle United at St James' Park. The result sees the reigning Premier League champions go six points clear at the top of the table.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ck1wrdd9ew11o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cd03/live/b44acb50-e5e8-11f1-a094-5fdc692f3e33.jpg",
+      "publishedAt": "2026-11-21T20:30:50Z",
+      "content": "Arsenal manager Mikel Arteta says his side squandered the chance to take all three points after their 2-2 draw against Newcastle United at St James' Park. The result sees the reigning Premier League … [+143 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Arsenal go six points clear after lively draw at Newcastle",
+      "description": "Noni Madueke's second-half goal earns Arsenal a 2-2 draw against Newcastle United at St James' Park, as the reigning champions move six points clear at the top of the Premier League table.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm702zzl66l6o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/52d9/live/fcb7f580-e5e2-11f1-99a1-253766e7ad8b.jpg",
+      "publishedAt": "2026-11-21T19:59:35Z",
+      "content": "Noni Madueke's second-half goal earns Arsenal a 2-2 draw against Newcastle United at St James' Park, as the reigning champions move six points clear at the top of the Premier League table.\r\nMATCH REP… [+78 chars]"
     },
     {
       "source": {
@@ -544,16 +1077,29 @@
     },
     {
       "source": {
-        "id": "bbc-sport",
-        "name": "BBC Sport"
+        "id": "bbc-news",
+        "name": "BBC News"
       },
       "author": null,
       "title": "Evanilson strikes again as Bournemouth beat Forest",
       "description": "Evanilson scores in his sixth consecutive Premier League game, as Bournemouth defeat Nottingham Forest 2-0 at the Vitality Stadium.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm4gn997yry2o?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0efb/live/0c0d5f70-e5cf-11f1-a094-5fdc692f3e33.jpg",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm4gn997yry2o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0efb/live/0c0d5f70-e5cf-11f1-a094-5fdc692f3e33.jpg",
       "publishedAt": "2026-11-21T19:59:17Z",
-      "content": "Evanilson scores in his sixth consecutive Premier League game, as Bournemouth defeat Nottingham Forest 2-0 at the Vitality Stadium."
+      "content": "Evanilson scores in his sixth consecutive Premier League game, as Bournemouth defeat Nottingham Forest 2-0 at the Vitality Stadium.\r\nMATCH REPORT: Premier League - Bournemouth 2-0 Nottingham Forest \r… [+27 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Leeds dominate Chelsea for first Stamford Bridge win since 1999",
+      "description": "Noah Okafor scores twice to deliver Leeds United's first win at Chelsea in 27 years, in an impressive 4-1 victory at Stamford Bridge.  They move up to sixth in the Premier League.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c3ewvkk4qgxjo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ed41/live/db5e04d0-e5d6-11f1-99b6-a35a62fa4264.jpg",
+      "publishedAt": "2026-11-21T19:59:13Z",
+      "content": "Noah Okafor scores twice to deliver Leeds United's first win at Chelsea in 27 years, in an impressive 4-1 victory at Stamford Bridge.\r\nMATCH REPORT: Premier League - Chelsea 1-4 Leeds United\r\nAvailab… [+19 chars]"
     },
     {
       "source": {
@@ -570,6 +1116,19 @@
     },
     {
       "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Man City drop points to Fulham despite superb Anderson volley",
+      "description": "Elliot Anderson's fantastic volley earns Manchester City a first Premier League point in over a month as they come from behind to hold Fulham.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c30rkq9xyk8eo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/aed1/live/772ed3d0-e5cd-11f1-99a1-253766e7ad8b.jpg",
+      "publishedAt": "2026-11-21T19:59:08Z",
+      "content": "Elliot Anderson's fantastic volley earns Manchester City a first Premier League point in over a month against Fulham.\r\nMATCH REPORT: Premier League - Manchester City 1-1 Fulham \r\nAvailable to UK user… [+6 chars]"
+    },
+    {
+      "source": {
         "id": "bbc-sport",
         "name": "BBC Sport"
       },
@@ -580,6 +1139,19 @@
       "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aed1/live/772ed3d0-e5cd-11f1-99a1-253766e7ad8b.jpg",
       "publishedAt": "2026-11-21T19:59:08Z",
       "content": "Elliot Anderson's fantastic volley earns Manchester City a first Premier League point in over a month as they come from behind to hold Fulham."
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Teenager Williams-Barnett shines as Spurs beat Ipswich",
+      "description": "Tottenham Hotspur teenager Luca Williams-Barnett starres for Roberto de Zerbi's side as they comfortably beat Ipswich Town.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c3174qq2j82zo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/67dd/live/c58c8e30-e5cf-11f1-99b6-a35a62fa4264.jpg",
+      "publishedAt": "2026-11-21T19:59:02Z",
+      "content": "Tottenham Hotspur teenager Luca Williams-Barnett shines for Roberto de Zerbi's side as they comfortably beat Ipswich Town.\r\nMATCH REPORT: Premier League - Tottenham Hotspur 2-0 Ipswich Town\r\nAvailabl… [+18 chars]"
     },
     {
       "source": {
@@ -596,16 +1168,29 @@
     },
     {
       "source": {
-        "id": "bbc-sport",
-        "name": "BBC Sport"
+        "id": "bbc-news",
+        "name": "BBC News"
       },
       "author": null,
       "title": "Villa's home woes continue as Sunderland earn point",
       "description": "Aston Villa's struggles at home this season continue as they are held to a goalless draw by Sunderland in the Premier League.",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c5j9m227l42do?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0228/live/9a476370-e5e4-11f1-99a1-253766e7ad8b.jpg",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5j9m227l42do",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0228/live/9a476370-e5e4-11f1-99a1-253766e7ad8b.jpg",
       "publishedAt": "2026-11-21T19:58:56Z",
-      "content": "Aston Villa's struggles at home this season continue as they are held to a goalless draw by Sunderland in the Premier League."
+      "content": "Aston Villa's struggles at home this season continue as they are held to a goalless draw by Sunderland in the Premier League. \r\nMATCH REPORT: Premier League - Aston Villa 0-0 Sunderland\r\nAvailable to… [+14 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Coventry beat Palace in Frank's first game after late own goal",
+      "description": "A Dwight McNeil own goal in the 85th minute gives Coventry City a 3-2 win to move three points clear of the relegation zone, as Thomas Frank's first game in charge at Crystal Palace ends in defeat in the Premier League.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c8wy5ddky5n9o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ca40/live/81c33140-e5cf-11f1-a094-5fdc692f3e33.jpg",
+      "publishedAt": "2026-11-21T19:58:52Z",
+      "content": "A Dwight McNeil own goal in the 85th minute gives Coventry City a 3-2 win to move three points clear of the relegation zone, as Thomas Frank's first game in charge at Crystal Palace ends in defeat in… [+113 chars]"
     },
     {
       "source": {
@@ -635,6 +1220,45 @@
     },
     {
       "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Chris McKenna",
+      "title": "'The world got to see today' - who is new Spurs star Williams-Barnett?",
+      "description": "BBC Sport looks at Tottenham's new teenage star after Luca Williams-Barnett makes a superb full Premier League debut for Spurs",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm9d7jg50e12o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fccd/live/a1406b50-e5de-11f1-99b6-a35a62fa4264.jpg",
+      "publishedAt": "2026-11-21T19:21:01Z",
+      "content": "Luca Williams-Barnett's performance in his first Premier League start was that good it had two of his Tottenham team-mates labelling him \"incredible\".\r\nThe 18-year-old winger delivered the opener wit… [+1410 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Grace Wheeler",
+      "title": "Sale and Trailfinders open PWR season with wins",
+      "description": "Gloucester-Hartpury lose their opening PWR match of the season to Sale, two days after the departure of head coach Dan Murphy.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c5y4j8yre8y7o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e635/live/d1637230-e5db-11f1-9ab8-8737221634d6.jpg",
+      "publishedAt": "2026-11-21T19:04:21Z",
+      "content": "Former champions Gloucester-Hartpury made a losing start to the new Premiership Women's Rugby season, going down 31-17 to Sale Sharks two days after the departure of head coach Dan Murphy.\r\nMurphy's … [+937 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Nizaar Kinsella",
+      "title": "'Fragile' and 'miles off it' - Alonso's Chelsea honeymoon is over",
+      "description": "The honeymoon period is over for Chelsea manager Xabi Alonso, who is now in firefighting mode after a 4-1 defeat by Leeds at Stamford Bridge.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwe8944d004yo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0a7a/live/8ad75db0-e5d9-11f1-9ab8-8737221634d6.jpg",
+      "publishedAt": "2026-11-21T19:04:09Z",
+      "content": "In Alonso's defence, Chelsea had problems before his arrival.\r\nThey finished 10th last season, having been outrun in 37 of their 38 matches, and had three managers during a chaotic campaign.\r\nRemarka… [+1581 chars]"
+    },
+    {
+      "source": {
         "id": "bbc-sport",
         "name": "BBC Sport"
       },
@@ -648,160 +1272,43 @@
     },
     {
       "source": {
-        "id": "bbc-sport",
-        "name": "BBC Sport"
+        "id": "bbc-news",
+        "name": "BBC News"
       },
-      "author": null,
-      "title": "England beat New Zealand by record margin",
-      "description": "England stun New Zealand, beating the three-time world champions by 25 points - compounding the All Blacks' disappointment after their loss to Wales last week.",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/videos/c6742znzggeyo?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4b8/live/234086c0-e5c7-11f1-a094-5fdc692f3e33.jpg",
-      "publishedAt": "2026-11-21T16:28:09Z",
-      "content": "England stun New Zealand, beating the three-time world champions by 25 points - compounding the All Blacks' disappointment after their loss to Wales last week."
+      "author": "Matt Gault",
+      "title": "Ireland beat world champions South Africa in thriller",
+      "description": "Ireland exact revenge on world champions South Africa with a thrilling win in Dublin after England's victory over New Zealand dashed Andy Farrell's side's hopes of reaching next weekend's Nations Championship final.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqe9k2v4xjeko",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/8675/live/10c6f970-e5db-11f1-9ab8-8737221634d6.jpg",
+      "publishedAt": "2026-11-21T18:46:29Z",
+      "content": "After an explosive build-up headlined by Erasmus, who was banned for six matches on Tuesday after questioning the integrity of match officials in last week's game against France, Saturday's contest i… [+1742 chars]"
     },
     {
       "source": {
-        "id": "bbc-sport",
-        "name": "BBC Sport"
+        "id": "bbc-news",
+        "name": "BBC News"
       },
       "author": null,
-      "title": "Fernandez dropped, Anderson scores - Man City's £327m midfield dilemma",
-      "description": "Manchester City spent £327m overhauling their midfield in the summer - but how does Enzo Maresca find the right balance?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cxe8944j188yo?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2997/live/fc265c50-e5c0-11f1-a188-ff49e70cc466.jpg",
-      "publishedAt": "2026-11-21T16:07:19Z",
-      "content": "Manchester City spent £327m overhauling their midfield in the summer - but how does Enzo Maresca find the right balance?"
+      "title": "Keating stars as Liverpool hold high-flying Chelsea to goalless draw",
+      "description": "Chelsea miss the chance to consolidate their lead over Manchester City at the top of the Women's Super League as they fail to breach a stubborn Liverpool at the sunny St Helen's Stadium.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmde1ll6pgj3o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4b74/live/92725440-e5ba-11f1-99b6-a35a62fa4264.jpg",
+      "publishedAt": "2026-11-21T18:34:55Z",
+      "content": "Chelsea miss the chance to consolidate their lead over Manchester City at the top of the Women's Super League as they fail to breach a stubborn Liverpool at the sunny St Helen's Stadium.\r\nMATCH REPOR… [+58 chars]"
     },
     {
       "source": {
-        "id": "bbc-sport",
-        "name": "BBC Sport"
+        "id": "bbc-news",
+        "name": "BBC News"
       },
       "author": null,
-      "title": "The art of protection - inside an F1 helmet factory",
-      "description": "Inside the extraordinary world of Formula 1 helmets, where precision engineering, personal expression and life-saving technology join forces.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cm20vpq8z6n4o?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ae4/live/a165cb70-e35e-11f1-99a1-253766e7ad8b.jpg",
-      "publishedAt": "2026-11-20T06:29:04Z",
-      "content": "Inside the extraordinary world of Formula 1 helmets, where precision engineering, personal expression and life-saving technology join forces."
-    },
-    {
-      "source": {
-        "id": "bbc-sport",
-        "name": "BBC Sport"
-      },
-      "author": null,
-      "title": "Vote for the first BBC Men's Footballer of the Year",
-      "description": "Jude Bellingham, Harry Kane, Kylian Mbappe, Rodri and Lamine Yamal are shortlisted for the BBC's Men's Footballer of the Year award.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c61wrqr7l1d8o?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eca1/live/e82d49d0-e335-11f1-a094-5fdc692f3e33.jpg",
-      "publishedAt": "2026-11-19T06:30:04Z",
-      "content": "Jude Bellingham, Harry Kane, Kylian Mbappe, Rodri and Lamine Yamal are shortlisted for the BBC's Men's Footballer of the Year award."
-    },
-    {
-      "source": {
-        "id": "bbc-sport",
-        "name": "BBC Sport"
-      },
-      "author": null,
-      "title": "The sandpaper plot - who was there, who said what?",
-      "description": "As Cameron Bancroft's explosive allegations raise more questions about the sandpaper scandal, BBC Sport looks at who was there and what they have said since.",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cqwy41w3zydgo?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5ea/live/792a2740-e35f-11f1-a898-e7da1c1ebbf0.jpg",
-      "publishedAt": "2026-11-18T16:13:04Z",
-      "content": "As Cameron Bancroft's explosive allegations raise more questions about the sandpaper scandal, BBC Sport looks at who was there and what they have said since."
-    },
-    {
-      "source": {
-        "id": "bbc-sport",
-        "name": "BBC Sport"
-      },
-      "author": null,
-      "title": "The Briton scouted while watching a friend, now on the brink of the NFL",
-      "description": "Emmanuel Oyebadejo was supposed to be studying medicine and playing basketball. How did he become tipped to make British history in a completely different sport?",
-      "url": "https://www.bbc.co.uk/sport/american-football/articles/cm0ev1d54n52o?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40f1/live/24c1ebf0-e26c-11f1-a094-5fdc692f3e33.jpg",
-      "publishedAt": "2026-11-17T06:43:42Z",
-      "content": "Emmanuel Oyebadejo was supposed to be studying medicine and playing basketball. How did he become tipped to make British history in a completely different sport?"
-    },
-    {
-      "source": {
-        "id": "bbc-sport",
-        "name": "BBC Sport"
-      },
-      "author": null,
-      "title": "Formula 1's one-race wonders",
-      "description": "Making it to Formula 1 is the undoubted pinnacle of any racing driver’s career – but what became of some of those who only had one shot?",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cqp9dr4kedd3o?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ee4/live/0fa3dfd0-e041-11f1-88e1-eb4e155225b3.png",
-      "publishedAt": "2026-11-16T06:53:18Z",
-      "content": "Making it to Formula 1 is the undoubted pinnacle of any racing driver’s career – but what became of some of those who only had one shot?"
-    },
-    {
-      "source": {
-        "id": "bbc-sport",
-        "name": "BBC Sport"
-      },
-      "author": null,
-      "title": "Whatever happened to the diamond that went missing in F1 crash?",
-      "description": "Whatever happened to the diamond that went missing after the Formula 1 car it was attached to crashed?",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c60735md0jrpo?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8b0/live/da7ae610-deaa-11f1-8253-3f203a001288.jpg",
-      "publishedAt": "2026-11-13T06:12:20Z",
-      "content": "Whatever happened to the diamond that went missing after the Formula 1 car it was attached to crashed?"
-    },
-    {
-      "source": {
-        "id": "bbc-sport",
-        "name": "BBC Sport"
-      },
-      "author": null,
-      "title": "Antonelli - the boy 'born in a garage' who became world champion",
-      "description": "Kimi Antonelli was a natural driver at the age of three, according to his dad. Here's how he developed to become the F1 champion at the age of 20.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/c0rdvxdwwwwo?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c15/live/b16a1f00-94a6-11f1-afe9-fb1a837ec5d9.jpg",
-      "publishedAt": "2026-11-01T22:25:01Z",
-      "content": "Kimi Antonelli was a natural driver at the age of three, according to his dad. Here's how he developed to become the F1 champion at the age of 20."
-    },
-    {
-      "source": {
-        "id": "bbc-sport",
-        "name": "BBC Sport"
-      },
-      "author": null,
-      "title": "'I would do it again' - Kaepernick reflects on price of protest, 10 years on",
-      "description": "In his first interview with BBC Sport since taking the knee for the first time, Colin Kaepernick reflects on his journey.",
-      "url": "https://www.bbc.co.uk/sport/american-football/articles/cm3el5dnpxp2o?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/410e/live/ed2848e0-c882-11f1-a2e8-f71844f8002e.jpg",
-      "publishedAt": "2026-10-27T06:15:24Z",
-      "content": "In his first interview with BBC Sport since taking the knee for the first time, Colin Kaepernick reflects on his journey."
-    },
-    {
-      "source": {
-        "id": "bbc-sport",
-        "name": "BBC Sport"
-      },
-      "author": null,
-      "title": "Race, illness, injury, repeat - REDs and why men are suffering in silence",
-      "description": "British long-distance runner Jake Smith was enduring a relentless pattern of race, illness, injury, repeat - he had no idea he had REDs and was under-fuelling.",
-      "url": "https://www.bbc.co.uk/sport/articles/ck054n5nqlv5o?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8eee/live/9ed65800-c975-11f1-80fc-ab418b149008.jpg",
-      "publishedAt": "2026-10-20T05:45:34Z",
-      "content": "British long-distance runner Jake Smith was enduring a relentless pattern of race, illness, injury, repeat - he had no idea he had REDs and was under-fuelling."
-    },
-    {
-      "source": {
-        "id": "bbc-sport",
-        "name": "BBC Sport"
-      },
-      "author": null,
-      "title": "Find out more here",
-      "description": "Get the latest transfer news and gossip ahead of the new season",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ce8e6y90g2jo?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c4c/live/3fd8b150-a764-11f1-aed2-8d6da8d75094.jpg",
-      "publishedAt": "2026-06-08T10:33:57Z",
-      "content": "Get the latest transfer news and gossip ahead of the new season"
+      "title": "Williams-Barnett's talent bigger than performance - De Zerbi",
+      "description": "Tottenham Hotspur head coach Roberto De Zerbi is full of praise for teenager Luca Williams-Barnett who was at the heart of a 2-0 win over Ipswich Town.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6wy4gg24vlno",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/501c/live/0f0616f0-e5d8-11f1-a094-5fdc692f3e33.jpg",
+      "publishedAt": "2026-11-21T18:32:27Z",
+      "content": "Tottenham Hotspur head coach Roberto De Zerbi is full of praise for teenager Luca Williams-Barnett who was at the heart of a 2-0 win over Ipswich Town. \r\nMATCH REPORT: Premier League - Tottenham Hots… [+48 chars]"
     }
   ],
-  "query": "sports match score tournament cricket football"
+  "query": "sports OR match OR tournament OR score OR cricket OR football"
 }

@@ -1,7 +1,33 @@
 {
   "status": "ok",
-  "totalResults": 34,
+  "totalResults": 62,
   "articles": [
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "description": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg",
+      "publishedAt": "2026-11-23T00:50:35Z",
+      "content": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels"
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Tobi Thomas Health and inequalities correspondent",
+      "title": "Patients may miss out on NHS weight-loss jabs in England after GP funding withdrawn",
+      "description": "Inquiry finds most integrated care boards have scrapped payments to GPs for prescribing and monitoring the drug Patients who are eligible for potentially life-changing weight-loss injections on the NHS risk missing out after most integrated care boards (ICBs) in England withdrew funding for GP services, an investigation has found. The inquiry, conducted by the GP magazine Pulse, found that 21 of 36 ICBs have scrapped payments to practices for prescribing and monitoring Mounjaro, also known as tirzepatide. A further nine never had a local enhanced service and only four still retain one. Continue reading...",
+      "url": "https://www.theguardian.com/science/2026/nov/23/patients-miss-out-nhs-weight-loss-mounjaro-gp-funding-withdrawn",
+      "urlToImage": "https://i.guim.co.uk/img/media/351d70fe40e6459e9f0f7d906661c7edf4d72593/575_0_4326_3461/master/4326.jpg?width=140&quality=85&auto=format&fit=max&s=ed768e0db2ffd85cfe3b61e4a1e27b42",
+      "publishedAt": "2026-11-23T00:01:40Z",
+      "content": "Inquiry finds most integrated care boards have scrapped payments to GPs for prescribing and monitoring the drug Patients who are eligible for potentially life-changing weight-loss injections on the NHS risk missing out after most integrated care boards (ICBs) in England withdrew funding for GP services, an investigation has found. The inquiry, conducted by the GP magazine Pulse, found that 21 of 36 ICBs have scrapped payments to practices for prescribing and monitoring Mounjaro, also known as tirzepatide. A further nine never had a local enhanced service and only four still retain one. Continue reading..."
+    },
     {
       "source": {
         "id": "bbc-news",
@@ -17,16 +43,16 @@
     },
     {
       "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
+        "id": "the-guardian",
+        "name": "The Guardian"
       },
-      "author": null,
-      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-      "description": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
-      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg",
-      "publishedAt": "2026-11-22T18:17:59Z",
-      "content": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels."
+      "author": "Nicola Davis Science correspondent",
+      "title": "CEO of funding agency for UK science and research criticised by union over cuts",
+      "description": "Exclusive: Prospect’s Mike Clancy tells Ian Chapman at UKRI that union has ‘lost confidence’ in his leadership A trade union that counts scientists and engineers among its members says it has lost confidence in the leader of the UK’s national funding agency for science and research, citing concerns about plans for major cuts. The letter from Mike Clancy, the general secretary of Prospect, to Ian Chapman, the chief executive of UK Research and Innovation (UKRI), is the latest development in a row over changes in funding for projects and research facilities. Continue reading...",
+      "url": "https://www.theguardian.com/education/2026/nov/22/prospect-union-leader-uk-funding-agency-science-research-ukri",
+      "urlToImage": "https://i.guim.co.uk/img/media/9350c277cd73ad7cf6c87f3b2d28a0d673278d82/1297_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=c8366ae3c1a6cdb0ed17451e19d541ff",
+      "publishedAt": "2026-11-22T12:00:28Z",
+      "content": "Exclusive: Prospect’s Mike Clancy tells Ian Chapman at UKRI that union has ‘lost confidence’ in his leadership A trade union that counts scientists and engineers among its members says it has lost confidence in the leader of the UK’s national funding agency for science and research, citing concerns about plans for major cuts. The letter from Mike Clancy, the general secretary of Prospect, to Ian Chapman, the chief executive of UK Research and Innovation (UKRI), is the latest development in a row over changes in funding for projects and research facilities. Continue reading..."
     },
     {
       "source": {
@@ -40,6 +66,19 @@
       "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eca5/live/034a6cb0-e4c7-11f1-a094-5fdc692f3e33.png",
       "publishedAt": "2026-11-22T10:44:12Z",
       "content": "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun."
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "William Christou",
+      "title": "It will soon be too late to regulate use of autonomous weapons, warns Red Cross",
+      "description": "Warning about putting ‘genie back in the bottle’ comes as UN conference fails to agree on regulation instrument The International Committee of the Red Cross and rights groups have warned that it will soon be too late to put the “genie back in the bottle” as the development of autonomous weapons appears to outpace efforts to regulate them. The stark warning came as more than 120 member states of the UN Convention on Certain Conventional Weapons concluded a week-long conference in Geneva. Continue reading...",
+      "url": "https://www.theguardian.com/science/2026/nov/22/red-cross-warns-too-late-regulate-autonomous-weapons-united-nations",
+      "urlToImage": "https://i.guim.co.uk/img/media/e83253eef2712121e66a9774fee97fca01778307/875_229_5546_4437/master/5546.jpg?width=140&quality=85&auto=format&fit=max&s=d69854bb96be9dea188f9ed66bad2c16",
+      "publishedAt": "2026-11-22T09:00:22Z",
+      "content": "Warning about putting ‘genie back in the bottle’ comes as UN conference fails to agree on regulation instrument The International Committee of the Red Cross and rights groups have warned that it will soon be too late to put the “genie back in the bottle” as the development of autonomous weapons appears to outpace efforts to regulate them. The stark warning came as more than 120 member states of the UN Convention on Certain Conventional Weapons concluded a week-long conference in Geneva. Continue reading..."
     },
     {
       "source": {
@@ -95,6 +134,19 @@
     },
     {
       "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Frances Mao in Geneva and Patrick Wintour",
+      "title": "International UN talks on controlling use of autonomous weapons collapse",
+      "description": "Week-long efforts fail to establish negotiating mandate on AI warfare after Russian ‘filibustering’ Week-long efforts to agree a negotiating mandate for a legally binding international treaty to control the use of autonomous weapons collapsed just before 5am after all-night talks failed to overcome Russian objections. Despite an overwhelming majority of states at the UN’s Convention on Certain Conventional Weapons (CCW) in Geneva wanting to agree a negotiating mandate leading to a legally binding treaty, the need for consensus forced the conference to adopt a much weaker option. Continue reading...",
+      "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+      "urlToImage": "https://i.guim.co.uk/img/media/247601abada695f09f302253178bbc8f6e58cd42/415_0_4165_3333/master/4165.jpg?width=140&quality=85&auto=format&fit=max&s=19283afd22dbc9bfead542bffab860d5",
+      "publishedAt": "2026-11-21T16:36:11Z",
+      "content": "Week-long efforts fail to establish negotiating mandate on AI warfare after Russian ‘filibustering’ Week-long efforts to agree a negotiating mandate for a legally binding international treaty to control the use of autonomous weapons collapsed just before 5am after all-night talks failed to overcome Russian objections. Despite an overwhelming majority of states at the UN’s Convention on Certain Conventional Weapons (CCW) in Geneva wanting to agree a negotiating mandate leading to a legally binding treaty, the need for consensus forced the conference to adopt a much weaker option. Continue reading..."
+    },
+    {
+      "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
@@ -121,6 +173,19 @@
     },
     {
       "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Kayode Akintola",
+      "title": "Beating Ebola takes more than medicine – I saw what worked in west Africa a decade ago | Kayode Akintola",
+      "description": "The outbreak in DR Congo is shaping up to be the worst ever, but the support of local faith leaders – and adequate funding – will be needed to bring it under control Ebola is terrifying: I know, because I lived through the world’s worst outbreak of the disease . That was in west Africa between 2013 and 2016, when anyone infected by the virus had a nearly 40% chance of dying . There were 28,600 cases and 11,300 deaths then. Now a rare strain of Ebola is spreading in the eastern Democratic Republic of the Congo, much more quickly than a decade ago in Sierra Leone, Liberia and neighbouring countries. It is the 17th outbreak in DR Congo and already its worst, with more than 5,000 deaths . The UN is warning that the spread of the disease is outstripping the response, and it is widely expected to become the worst Ebola outbreak in history. There is no proven vaccine or treatment yet for the Bundibugyo variant; almost 50% of those infected have died . Continue reading...",
+      "url": "https://www.theguardian.com/global-development/2026/nov/21/ebola-outbreak-congo-worst-ever",
+      "urlToImage": "https://i.guim.co.uk/img/media/37984494d48dabb3ff70d4a8b149ac4137e2ed76/630_0_3540_2832/master/3540.jpg?width=140&quality=85&auto=format&fit=max&s=7ca2219efccb1b01897ace81d269c109",
+      "publishedAt": "2026-11-21T06:00:53Z",
+      "content": "The outbreak in DR Congo is shaping up to be the worst ever, but the support of local faith leaders – and adequate funding – will be needed to bring it under control Ebola is terrifying: I know, because I lived through the world’s worst outbreak of the disease . That was in west Africa between 2013 and 2016, when anyone infected by the virus had a nearly 40% chance of dying . There were 28,600 cases and 11,300 deaths then. Now a rare strain of Ebola is spreading in the eastern Democratic Republic of the Congo, much more quickly than a decade ago in Sierra Leone, Liberia and neighbouring countries. It is the 17th outbreak in DR Congo and already its worst, with more than 5,000 deaths . The UN is warning that the spread of the disease is outstripping the response, and it is widely expected to become the worst Ebola outbreak in history. There is no proven vaccine or treatment yet for the Bundibugyo variant; almost 50% of those infected have died . Continue reading..."
+    },
+    {
+      "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
@@ -134,6 +199,19 @@
     },
     {
       "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Presented by Ian Sample , with Jessica Glenza , produced by Ellie Sans and Joshan Chana , the executive producer was Ellie Bury",
+      "title": "Measles is officially back in the USA. Will Maha pay the price? - video",
+      "description": "This week the US lost its measles elimination status, an official recognition that the infectious disease is endemic in the country after being eliminated for 26 years. To find out what this means in practical terms for citizens, Ian Sample hears from the Guardian US health reporter Jessica Glenza. She explains why it comes at an already difficult time for the health secretary, Robert F Kennedy Jr, and his Make America Healthy Again movement, and what newly elected Democrats will be focusing on when it comes to health Continue reading...",
+      "url": "https://www.theguardian.com/science/video/2026/nov/20/measles-is-officially-back-in-the-usa-will-maha-pay-the-price-video",
+      "urlToImage": "https://i.guim.co.uk/img/media/507237693f77908c1a836e9797ff84cabae560f0/477_0_4759_3808/master/4759.jpg?width=140&quality=85&auto=format&fit=max&s=57ac386bdc3e4658b3a695bfd3617271",
+      "publishedAt": "2026-11-20T11:40:07Z",
+      "content": "This week the US lost its measles elimination status, an official recognition that the infectious disease is endemic in the country after being eliminated for 26 years. To find out what this means in practical terms for citizens, Ian Sample hears from the Guardian US health reporter Jessica Glenza. She explains why it comes at an already difficult time for the health secretary, Robert F Kennedy Jr, and his Make America Healthy Again movement, and what newly elected Democrats will be focusing on when it comes to health Continue reading..."
+    },
+    {
+      "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
@@ -144,6 +222,19 @@
       "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3050/live/eba8d700-de8a-11f1-b88b-3f1671ea859d.jpg",
       "publishedAt": "2026-11-20T10:24:52Z",
       "content": "The government wants more homes to have heat pumps to cut fossil fuel use and drive down energy bills."
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Helena Horton",
+      "title": "Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’",
+      "description": "Cancer undetectable for one in 12 patients in daraxonrasib trial, while nearly all participants’ tumours stopped growing A pill that can shrink and potentially eliminate pancreas tumours is being hailed as the biggest breakthrough treatment for the cancer in decades. In one in 12 of the patients given the drug, daraxonrasib , during a trial, the cancer became undetectable, and the tumours stopped growing in almost all of the 61 patients. The trial participants had recently been diagnosed with advanced pancreatic cancer that had spread to other parts of the body. Continue reading...",
+      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+      "urlToImage": "https://i.guim.co.uk/img/media/d7bac7cca6890657580a396f9255cf7d7b3d2874/1250_0_6250_5000/master/6250.jpg?width=140&quality=85&auto=format&fit=max&s=a39b86006934a5fbc1b4dadf13458620",
+      "publishedAt": "2026-11-20T09:36:10Z",
+      "content": "Cancer undetectable for one in 12 patients in daraxonrasib trial, while nearly all participants’ tumours stopped growing A pill that can shrink and potentially eliminate pancreas tumours is being hailed as the biggest breakthrough treatment for the cancer in decades. In one in 12 of the patients given the drug, daraxonrasib , during a trial, the cancer became undetectable, and the tumours stopped growing in almost all of the 61 patients. The trial participants had recently been diagnosed with advanced pancreatic cancer that had spread to other parts of the body. Continue reading..."
     },
     {
       "source": {
@@ -173,6 +264,32 @@
     },
     {
       "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Ian Sample Science editor",
+      "title": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
+      "description": "BepiColombo double probe will map planet’s surface and study its interior to shed light on its unusually large core After a voyage of more than eight years and 6bn miles, a joint European-Japanese space mission has arrived at Mercury and is preparing to swing into orbit around the tiny, barely explored world. The BepiColombo mission will become only the second in history to circle the first rock from the sun and the smallest planet in the solar system when flight controllers fire the spacecraft’s thrusters on Saturday and send it into orbit. Continue reading...",
+      "url": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
+      "urlToImage": "https://i.guim.co.uk/img/media/910dcaf9ff433ebd4d751fd1b66d69ac4d3214ec/310_0_2501_2001/master/2501.jpg?width=140&quality=85&auto=format&fit=max&s=f9c10eba59643de1f8399ad2cf23f22f",
+      "publishedAt": "2026-11-20T00:01:15Z",
+      "content": "BepiColombo double probe will map planet’s surface and study its interior to shed light on its unusually large core After a voyage of more than eight years and 6bn miles, a joint European-Japanese space mission has arrived at Mercury and is preparing to swing into orbit around the tiny, barely explored world. The BepiColombo mission will become only the second in history to circle the first rock from the sun and the smallest planet in the solar system when flight controllers fire the spacecraft’s thrusters on Saturday and send it into orbit. Continue reading..."
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Donna Lu Assistant editor, climate, environment and science",
+      "title": "An elevator, a brick wall and a bathroom: scientists use gravity to send ‘practically unblockable’ message",
+      "description": "Australian physicists chose to transmit the word ‘gravity’ in binary code through brick wall Get our breaking news email , free app or daily news podcast Australian scientists have used gravity as a means of communication, in a proof-of-concept experiment involving a snail-paced 1950s elevator, a brick wall and a men’s bathroom. Physicists at the University of Queensland have used gravity to transmit a “practically unblockable” message about 70cm through a brick wall, by sending an elevator up and down between two floors and measuring changes in the gravitational field as a result of the movement. Continue reading...",
+      "url": "https://www.theguardian.com/science/2026/nov/20/scientists-communicate-using-gravity-elevator-brick-wall-bathroom-experiment",
+      "urlToImage": "https://i.guim.co.uk/img/media/9c8e312834f5121b01c6908ad465910f3ea52394/81_0_800_640/master/800.jpg?width=140&quality=85&auto=format&fit=max&s=c4f4272c390dc53f69e1f5e940abdde3",
+      "publishedAt": "2026-11-19T23:30:26Z",
+      "content": "Australian physicists chose to transmit the word ‘gravity’ in binary code through brick wall Get our breaking news email , free app or daily news podcast Australian scientists have used gravity as a means of communication, in a proof-of-concept experiment involving a snail-paced 1950s elevator, a brick wall and a men’s bathroom. Physicists at the University of Queensland have used gravity to transmit a “practically unblockable” message about 70cm through a brick wall, by sending an elevator up and down between two floors and measuring changes in the gravitational field as a result of the movement. Continue reading..."
+    },
+    {
+      "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
@@ -183,6 +300,19 @@
       "urlToImage": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg",
       "publishedAt": "2026-11-19T21:00:00Z",
       "content": "SpaceX is on the verge of making space affordable."
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Edward Helmore and agencies",
+      "title": "Spuds in space: scientists say potatoes could be key food source for future moon base",
+      "description": "New report details how potatoes were successfully cultivated in simulated lunar soil The humble potato could be the key to sustaining human life on the moon , according to a new scientific report asserting that prolonged lunar exploration will depend on life support systems capable of producing food there. Potatoes are an ideal candidate for farming on the moon, scientists on a project backed by the US space agency Nasa concluded, after they succeeded in growing them in simulated lunar soil. Continue reading...",
+      "url": "https://www.theguardian.com/science/2026/nov/19/potatoes-moon-base-nasa",
+      "urlToImage": "https://i.guim.co.uk/img/media/1b58e880a26d75fd8535eee7f2a2ed104e5db70c/174_0_2314_1853/master/2314.jpg?width=140&quality=85&auto=format&fit=max&s=defdc78a97f85098fcf5641469a003ae",
+      "publishedAt": "2026-11-19T18:49:54Z",
+      "content": "New report details how potatoes were successfully cultivated in simulated lunar soil The humble potato could be the key to sustaining human life on the moon , according to a new scientific report asserting that prolonged lunar exploration will depend on life support systems capable of producing food there. Potatoes are an ideal candidate for farming on the moon, scientists on a project backed by the US space agency Nasa concluded, after they succeeded in growing them in simulated lunar soil. Continue reading..."
     },
     {
       "source": {
@@ -209,6 +339,19 @@
       "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f49/live/977f9e30-e3f2-11f1-a1b0-810734adec41.jpg",
       "publishedAt": "2026-11-19T09:21:54Z",
       "content": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods."
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Fiona Harvey, Graham Readfearn and Damien Gayle in Antalya",
+      "title": "IPCC report delay will threaten global effort to tackle climate crisis, says top scientist",
+      "description": "Johan Rockström, one of world’s leading climate experts, says slowing down scientific work puts cooperation at risk Climate science is “foundational” to the Paris agreement and worldwide progress on tackling global heating, and attempts to delay new scientific reports threaten global cooperation on tackling the crisis, one of the world’s leading climate scientists has warned. Johan Rockström, the director of the Potsdam Institute for Climate Impact Research, said the world’s leading body of climate scientists, the Intergovernmental Panel on Climate Change, must be allowed to work as quickly as possible on its next comprehensive assessment of global knowledge of the climate systems . Continue reading...",
+      "url": "https://www.theguardian.com/science/2026/nov/19/ipcc-report-delay-climate-crisis-scientist",
+      "urlToImage": "https://i.guim.co.uk/img/media/9f57ba9d5e7f9ed5bfc10dd82f5dcdcde10b2020/497_0_3703_2962/master/3703.jpg?width=140&quality=85&auto=format&fit=max&s=d584aa31cc111b9e9a02f2521a765572",
+      "publishedAt": "2026-11-19T07:16:45Z",
+      "content": "Johan Rockström, one of world’s leading climate experts, says slowing down scientific work puts cooperation at risk Climate science is “foundational” to the Paris agreement and worldwide progress on tackling global heating, and attempts to delay new scientific reports threaten global cooperation on tackling the crisis, one of the world’s leading climate scientists has warned. Johan Rockström, the director of the Potsdam Institute for Climate Impact Research, said the world’s leading body of climate scientists, the Intergovernmental Panel on Climate Change, must be allowed to work as quickly as possible on its next comprehensive assessment of global knowledge of the climate systems . Continue reading..."
     },
     {
       "source": {
@@ -251,6 +394,58 @@
     },
     {
       "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Melody Schreiber",
+      "title": "Senate committee rejects Trump nominee to lead National Science Foundation",
+      "description": "Committee chair Bill Cassidy, a Republican, said Jim O’Neill ‘did not do enough to stand up for science’ in previous posts Jim O’Neill will not undergo a confirmation hearing on Wednesday to head he National Science Foundation (NSF) because he “did not do enough to stand up for science” in his previous position, said Bill Cassidy, a Republican from Louisiana who is chair of the Senate committee on health, education, labor and pensions. This ends O’Neill’s run for the top US scientific organization, an embattled independent federal agency that has seen major budget cuts and grant freezes under the Trump administration . The next NSF nominee will face a Democratic-led Senate. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/nov/18/trump-national-science-foundation-nominee",
+      "urlToImage": "https://i.guim.co.uk/img/media/5d438907b5a800f954658ec6bbd4a935fef933b8/333_0_3334_2667/master/3334.jpg?width=140&quality=85&auto=format&fit=max&s=e05808206ced07032730f19b61799917",
+      "publishedAt": "2026-11-18T17:46:34Z",
+      "content": "Committee chair Bill Cassidy, a Republican, said Jim O’Neill ‘did not do enough to stand up for science’ in previous posts Jim O’Neill will not undergo a confirmation hearing on Wednesday to head he National Science Foundation (NSF) because he “did not do enough to stand up for science” in his previous position, said Bill Cassidy, a Republican from Louisiana who is chair of the Senate committee on health, education, labor and pensions. This ends O’Neill’s run for the top US scientific organization, an embattled independent federal agency that has seen major budget cuts and grant freezes under the Trump administration . The next NSF nominee will face a Democratic-led Senate. Continue reading..."
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Kim Heacox",
+      "title": "After 49 years, Nasa’s Voyager 1 is one light-day away from us. Can we save this ‘pale blue dot’? | Kim Heacox",
+      "description": "Since the spacecraft’s 1977 launch, our wonderful and terrible species has done great damage to our planet. Voyager has offered us a clear view of ourselves Imagine traveling nonstop for 49 years, alone in the dark with no destination in sight, powered by curiosity and engineering. Further imagine making that journey not at bullet train or jet plane speed, but much faster: at 37,800 miles per hour, free from friction in a vast sea of cold, soundless space, bombarded by radiation and cosmic rays yet still able to communicate with folks back home. Continue reading...",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/18/nasa-voyager-1-pale-blue-dot",
+      "urlToImage": "https://i.guim.co.uk/img/media/dc0fad56b1b1eaa91b8cd09ea4c2a7af3e4071b3/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=a63735a142422cc4d915598f5e169a7c",
+      "publishedAt": "2026-11-18T11:00:56Z",
+      "content": "Since the spacecraft’s 1977 launch, our wonderful and terrible species has done great damage to our planet. Voyager has offered us a clear view of ourselves Imagine traveling nonstop for 49 years, alone in the dark with no destination in sight, powered by curiosity and engineering. Further imagine making that journey not at bullet train or jet plane speed, but much faster: at 37,800 miles per hour, free from friction in a vast sea of cold, soundless space, bombarded by radiation and cosmic rays yet still able to communicate with folks back home. Continue reading..."
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Presented by Madeleine Finlay , produced by Madeleine Finlay and Joshan Chana , graphics by Natalie Gegan",
+      "title": "Nasa’s Voyager 1 just reached a massive milestone in space - video",
+      "description": "Nasa sent the Voyager 1 and 2 probes into space almost 50 years ago to explore the outer reaches of our solar system. Now Voyager 1, the farthest human-made object from Earth, is about to reach a distance of one light-day away from our planet. To find out more about its astonishing journey, Madeleine Finlay hears from Jim Bell, a planetary scientist and professor at Arizona State University’s school of Earth and space exploration. He explains the seismic impact the mission has had on our understanding of the solar system, and where Voyager 1 could be heading now it has left the heliosphere Continue reading...",
+      "url": "https://www.theguardian.com/science/video/2026/nov/18/nasas-voyager-1-just-reached-a-massive-milestone-in-space-video",
+      "urlToImage": "https://i.guim.co.uk/img/media/14863ccc4648286512010dada9efe720242720ab/0_0_2000_1600/master/2000.jpg?width=140&quality=85&auto=format&fit=max&s=ecd6e07f6c5df78c0c26961d0d790b48",
+      "publishedAt": "2026-11-18T10:39:51Z",
+      "content": "Nasa sent the Voyager 1 and 2 probes into space almost 50 years ago to explore the outer reaches of our solar system. Now Voyager 1, the farthest human-made object from Earth, is about to reach a distance of one light-day away from our planet. To find out more about its astonishing journey, Madeleine Finlay hears from Jim Bell, a planetary scientist and professor at Arizona State University’s school of Earth and space exploration. He explains the seismic impact the mission has had on our understanding of the solar system, and where Voyager 1 could be heading now it has left the heliosphere Continue reading..."
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Rory Carroll Ireland correspondent",
+      "title": "Body found in Derry bog decapitated more than 2,000 years ago, coroner finds",
+      "description": "Inquest-style inquiry concludes iron age remains are of 15- to 22-year-old female who may have been ritually sacrificed A coroner’s investigation into Northern Ireland ’s most venerable cold case has concluded that the victim was decapitated more than 2,000 years ago. The inquest-style inquiry determined that Ballymacombs More Woman – the name given to iron age remains found in a County Derry bog three years ago – was between 15 and 22 years old when she was beheaded from behind with a bladed weapon. Continue reading...",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/18/ballymacombs-more-woman-derry-bog-decapitated-2000-years-ago",
+      "urlToImage": "https://i.guim.co.uk/img/media/1254c03014b10a8e18a804f40e4827cc74b580fe/96_0_3547_2837/master/3547.jpg?width=140&quality=85&auto=format&fit=max&s=553c991f0045f64135610c21c47ada0b",
+      "publishedAt": "2026-11-18T08:00:36Z",
+      "content": "Inquest-style inquiry concludes iron age remains are of 15- to 22-year-old female who may have been ritually sacrificed A coroner’s investigation into Northern Ireland ’s most venerable cold case has concluded that the victim was decapitated more than 2,000 years ago. The inquest-style inquiry determined that Ballymacombs More Woman – the name given to iron age remains found in a County Derry bog three years ago – was between 15 and 22 years old when she was beheaded from behind with a bladed weapon. Continue reading..."
+    },
+    {
+      "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
@@ -264,6 +459,32 @@
     },
     {
       "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Susanna Rustin",
+      "title": "Would more hands-on dads create a more peaceful world? This pioneering scientist thinks so",
+      "description": "Sarah Blaffer Hrdy unpicked Darwinian sexism to rewrite the story of evolution. Now, she’s turned her attention to the nature of fatherhood ‘Spit here, dear,” Sarah Blaffer Hrdy said to her husband, Dan, handing him a vial when he arrived in New York after the birth of the couple’s first grandchild. It was 2014 and Hrdy was conducting an experiment. Having recorded a 63% jump in oxytocin in her saliva after spending hours cuddling the baby, she wanted to find out if something similar would happen to his hormones. It did, although it took a day longer. In her latest book, Father Time: A Natural History of Men and Babies , Hrdy records with justified pride that “this was the first time anyone had demonstrated a bump in oxytocin levels among doting grandparents”. Continue reading...",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/17/would-more-hands-on-dads-create-a-more-peaceful-world-this-pioneering-scientist-thinks-so",
+      "urlToImage": "https://i.guim.co.uk/img/media/40c0c920738f41915f503bc0fa668bb53b5043d9/1513_352_3221_2577/master/3221.jpg?width=140&quality=85&auto=format&fit=max&s=84d70fa115ac14ba21e008f31480f58f",
+      "publishedAt": "2026-11-17T10:00:10Z",
+      "content": "Sarah Blaffer Hrdy unpicked Darwinian sexism to rewrite the story of evolution. Now, she’s turned her attention to the nature of fatherhood ‘Spit here, dear,” Sarah Blaffer Hrdy said to her husband, Dan, handing him a vial when he arrived in New York after the birth of the couple’s first grandchild. It was 2014 and Hrdy was conducting an experiment. Having recorded a 63% jump in oxytocin in her saliva after spending hours cuddling the baby, she wanted to find out if something similar would happen to his hormones. It did, although it took a day longer. In her latest book, Father Time: A Natural History of Men and Babies , Hrdy records with justified pride that “this was the first time anyone had demonstrated a bump in oxytocin levels among doting grandparents”. Continue reading..."
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Presented and produced by Madeleine Finlay, sound design by Joel Cox, the executive producer was Ellie Bury",
+      "title": "Nasa’s Voyager 1 probe in sight of an incredible milestone – podcast",
+      "description": "Nasa sent the Voyager 1 and 2 probes into space almost 50 years ago to explore the outer reaches of our solar system. Now Voyager 1, the farthest human-made object from Earth, is about to reach a distance of one light-day away from our planet. To find out more about its astonishing journey, Madeleine Finlay hears from Jim Bell, a planetary scientist and professor at Arizona State University’s school of Earth and space exploration. He explains the seismic impact the mission has had on our understanding of the solar system, and where Voyager 1 could be heading now it has left the heliosphere Support the Guardian: theguardian.com/sciencepod Continue reading...",
+      "url": "https://www.theguardian.com/science/audio/2026/nov/17/nasa-voyager-1-probe-incredible-milestone-podcast",
+      "urlToImage": "https://i.guim.co.uk/img/media/8954e2e4d0145706637eee857c8558065c569427/93_0_2415_1931/master/2415.jpg?width=140&quality=85&auto=format&fit=max&s=7238af314d473e09be4e288283308217",
+      "publishedAt": "2026-11-17T05:00:04Z",
+      "content": "Nasa sent the Voyager 1 and 2 probes into space almost 50 years ago to explore the outer reaches of our solar system. Now Voyager 1, the farthest human-made object from Earth, is about to reach a distance of one light-day away from our planet. To find out more about its astonishing journey, Madeleine Finlay hears from Jim Bell, a planetary scientist and professor at Arizona State University’s school of Earth and space exploration. He explains the seismic impact the mission has had on our understanding of the solar system, and where Voyager 1 could be heading now it has left the heliosphere Support the Guardian: theguardian.com/sciencepod Continue reading..."
+    },
+    {
+      "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
@@ -274,6 +495,32 @@
       "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36ed/live/38190870-df6d-11f1-8112-6b9154c79b48.jpg",
       "publishedAt": "2026-11-16T06:11:42Z",
       "content": "Pupils at First Tower School get a visit from a University of Cambridge astronomer."
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Tim Dowling",
+      "title": "Gout is on the rise – and excruciating. Why are sufferers still judged for it?",
+      "description": "About 1.6 million people in the UK have this agonising condition, but it is often viewed as a comical malady brought on by overconsumption and idleness. What can be done to end the stigma? Brett McAllister-Byrne was in his early 30s when he first noticed a sharp ache in his ankle and big toe. “I felt it the night after playing football, and I thought I must have had a knock or something,” he says. “But then it just got worse and worse.” The next morning McAllister-Byrne, an urban planner, was in too much pain to go to work. When he described the episode to his family, they suggested it might be gout. “I was like, really?” he says. “Can you get that in your 30s?” Continue reading...",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/15/gout-is-on-the-rise-and-excruciating-why-are-sufferers-still-judged-for-it",
+      "urlToImage": "https://i.guim.co.uk/img/media/016add37396a0395dc0a24bb3e5ffa7d5677e476/1027_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=344263d11fdf55be6530095afb79e0f3",
+      "publishedAt": "2026-11-15T14:00:16Z",
+      "content": "About 1.6 million people in the UK have this agonising condition, but it is often viewed as a comical malady brought on by overconsumption and idleness. What can be done to end the stigma? Brett McAllister-Byrne was in his early 30s when he first noticed a sharp ache in his ankle and big toe. “I felt it the night after playing football, and I thought I must have had a knock or something,” he says. “But then it just got worse and worse.” The next morning McAllister-Byrne, an urban planner, was in too much pain to go to work. When he described the episode to his family, they suggested it might be gout. “I was like, really?” he says. “Can you get that in your 30s?” Continue reading..."
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": null,
+      "title": "SpaceX’s Starship returns to launch pad from orbit – video",
+      "description": "The top part of SpaceX’s megarocket Starship returned to its Texas launch tower on Saturday, a milestone in the company’s efforts to make the craft suitable for human spaceflight. Starship’s 15th test flight was envisioned as a historic double-catch mission, where all parts of the rocket would be returned intact, but the lower booster section malfunctioned and activated an automated abort, exploding over the ocean SpaceX’s Starship returns to launch pad from orbit in victory for company Continue reading...",
+      "url": "https://www.theguardian.com/science/video/2026/nov/15/spacex-starship-returns-launch-pad-video",
+      "urlToImage": "https://i.guim.co.uk/img/media/881d3a2a96f8b46d670aabbc9af94561da99efd1/311_0_3113_2490/master/3113.jpg?width=140&quality=85&auto=format&fit=max&s=8e41909241fe9e2a14ab70d6948c4552",
+      "publishedAt": "2026-11-15T12:26:27Z",
+      "content": "The top part of SpaceX’s megarocket Starship returned to its Texas launch tower on Saturday, a milestone in the company’s efforts to make the craft suitable for human spaceflight. Starship’s 15th test flight was envisioned as a historic double-catch mission, where all parts of the rocket would be returned intact, but the lower booster section malfunctioned and activated an automated abort, exploding over the ocean SpaceX’s Starship returns to launch pad from orbit in victory for company Continue reading..."
     },
     {
       "source": {
@@ -316,6 +563,32 @@
     },
     {
       "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Presented by Madeleine Finlay, with Ian Sample, produced by Joshan Chana, sound design by Joel Cox, the executive producer was Ellie Bury",
+      "title": "Is BMI working? Cop31 latest, the science of great conversation – podcast",
+      "description": "Madeleine Finlay and co-host Ian Sample discuss the three science stories you need to know about this week, including an alternative to BMI for diagnosing obesity which could ‘prevent misdiagnosis for millions’. Also on the agenda: an update from this year’s Cop climate conference in Turkey, and a study that claims to have found the key to better conversations with the help of a concept from physics Follow the Guardian’s coverage of Cop31 Want to have a better chat? Scientists say the secret is ‘pink noise’ Continue reading...",
+      "url": "https://www.theguardian.com/science/audio/2026/nov/12/is-bmi-working-cop31-latest-the-science-of-great-conversation-podcast",
+      "urlToImage": "https://i.guim.co.uk/img/media/041d3d8ace011ec0920c266be0c5365873485259/550_0_5480_4386/master/5480.jpg?width=140&quality=85&auto=format&fit=max&s=f64388170931692b34d8737ab28c367e",
+      "publishedAt": "2026-11-12T05:00:09Z",
+      "content": "Madeleine Finlay and co-host Ian Sample discuss the three science stories you need to know about this week, including an alternative to BMI for diagnosing obesity which could ‘prevent misdiagnosis for millions’. Also on the agenda: an update from this year’s Cop climate conference in Turkey, and a study that claims to have found the key to better conversations with the help of a concept from physics Follow the Guardian’s coverage of Cop31 Want to have a better chat? Scientists say the secret is ‘pink noise’ Continue reading..."
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Presented by Ian Sample, produced by Joshan Chana and Nonyelum Okonkwo, sound design by Joel Cox, the executive producer was Ellie Bury",
+      "title": "Winter depression is real. Here’s what can help - podcast",
+      "description": "As the nights draw in, many of us can experience low mood. But for a small proportion of people a more intense depression develops through the winter months. It’s a phenomenon that since the 1980s has been labelled seasonal affective disorder, or Sad, and can be debilitating for sufferers. To find out more about the latest scientific understanding of Sad, Ian Sample speaks to Russell Foster, professor of circadian neuroscience at the University of Oxford. He explains what scientists think the mechanism for the condition could be and what the evidence says about the best way to tackle it. • In the UK and Ireland, Samaritans can be contacted on freephone 116 123. In the US, you can call or text the 988 Suicide & Crisis Lifeline at 988 or chat at 988lifeline.org . In Australia, the crisis support service Lifeline is 13 11 14. Other international helplines can be found at befrienders.org Support the Guardian: theguardian.com/sciencepod Continue reading...",
+      "url": "https://www.theguardian.com/science/audio/2026/nov/10/why-we-get-sad-and-what-helps-podcast",
+      "urlToImage": "https://i.guim.co.uk/img/media/2fb3c474432680b8e1868fa166d9da77235b8f54/364_0_3560_2848/master/3560.jpg?width=140&quality=85&auto=format&fit=max&s=8a719560df3942f18cf264ec5a2ed4e8",
+      "publishedAt": "2026-11-10T07:00:52Z",
+      "content": "As the nights draw in, many of us can experience low mood. But for a small proportion of people a more intense depression develops through the winter months. It’s a phenomenon that since the 1980s has been labelled seasonal affective disorder, or Sad, and can be debilitating for sufferers. To find out more about the latest scientific understanding of Sad, Ian Sample speaks to Russell Foster, professor of circadian neuroscience at the University of Oxford. He explains what scientists think the mechanism for the condition could be and what the evidence says about the best way to tackle it. • In the UK and Ireland, Samaritans can be contacted on freephone 116 123. In the US, you can call or text the 988 Suicide & Crisis Lifeline at 988 or chat at 988lifeline.org . In Australia, the crisis support service Lifeline is 13 11 14. Other international helplines can be found at befrienders.org Support the Guardian: theguardian.com/sciencepod Continue reading..."
+    },
+    {
+      "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
@@ -329,6 +602,58 @@
     },
     {
       "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Alex Bellos",
+      "title": "Did you solve it? The multi-choice maths quiz taking over the world",
+      "description": "The answer to today’s Kangaroo puzzle Earlier today I set you the following problem from the international maths Kangaroo, a multiple choice challenge taken by more than seven million children every year. (For more details about this extraordinary event see the original story .) Here is is again with the solution. 2 3 4 5 6 Continue reading...",
+      "url": "https://www.theguardian.com/science/2026/nov/09/did-you-solve-it-the-multi-choice-maths-quiz-taking-over-the-world",
+      "urlToImage": "https://i.guim.co.uk/img/media/b69cbc4589e73c13f4eba6de973c91fa7fc03459/448_0_5120_4096/master/5120.jpg?width=140&quality=85&auto=format&fit=max&s=a3f74f3745efdaba8ccae669207071f7",
+      "publishedAt": "2026-11-09T17:00:14Z",
+      "content": "The answer to today’s Kangaroo puzzle Earlier today I set you the following problem from the international maths Kangaroo, a multiple choice challenge taken by more than seven million children every year. (For more details about this extraordinary event see the original story .) Here is is again with the solution. 2 3 4 5 6 Continue reading..."
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Alex Bellos",
+      "title": "Can you solve it? The multi-choice maths quiz taking over the world",
+      "description": "This Kangaroo is jumping! There is nothing in education quite like the Kangaroo. A multiple-choice maths challenge sat by more than seven million children in around 120 countries, from Afghanistan to Zimbabwe, it is arguably the world’s most widely-taken primary and secondary school test. Today’s puzzle is taken from the 2024 Kangaroo. But before we get there, some background. 2 3 4 5 6 Continue reading...",
+      "url": "https://www.theguardian.com/science/2026/nov/09/can-you-solve-it-the-multi-choice-maths-quiz-taking-over-the-world",
+      "urlToImage": "https://i.guim.co.uk/img/media/6b89783df089d3d23a5cd815995e0b6348cc1fbf/292_0_2917_2334/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=b66b4894bc036f735a69234494df6ccd",
+      "publishedAt": "2026-11-09T07:10:02Z",
+      "content": "This Kangaroo is jumping! There is nothing in education quite like the Kangaroo. A multiple-choice maths challenge sat by more than seven million children in around 120 countries, from Afghanistan to Zimbabwe, it is arguably the world’s most widely-taken primary and secondary school test. Today’s puzzle is taken from the 2024 Kangaroo. But before we get there, some background. 2 3 4 5 6 Continue reading..."
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Editorial",
+      "title": "The Guardian view on Ordnance Survey maps: still a superior way to navigate the landscape | Editorial",
+      "description": "The 225th anniversary of the organisation’s first publication is an opportunity to celebrate its unique contribution to our sense of place In his one-paragraph short story , On Exactitude in Science, Jorge Luis Borges imagines an empire in which the level of cartographical ambition is so high that a map is made on a one-to-one scale with the imperial territory. The quest for perfect accuracy doesn’t end well. But the earliest map-makers for Ordnance Survey, which this week marked the 225th anniversary of its first publication, might have empathised with the obsessive dedication. The 1801 OS map of Kent was 10 years in the making, its military-led production inspired by fears of Napoleonic invasion. But as Rachel Hewitt points out in Map of a Nation , her stirring account of the Ordnance Survey’s early years, its genesis also lay in an Enlightenment-based enthusiasm for comprehending and accurately representing reality. During the course of the 19th century, the entirety of the British isles was meticulously mapped through fog, rain, wind and sun, in what was described as “a wild and arduous exercise”. The surveyors, armed with theodolites, measuring chains and notebooks, saw themselves as footsoldiers serving in the ranks of Reason as they brought intellectual order to the landscape. Continue reading...",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/08/the-guardian-view-on-ordnance-survey-maps-still-a-superior-way-to-navigate-the-landscape",
+      "urlToImage": "https://i.guim.co.uk/img/media/ec507f898c8712d6292203f5a3f49fcdd6125086/79_0_4801_3840/master/4801.jpg?width=140&quality=85&auto=format&fit=max&s=ea06881c9a075b21c65ba95ddd188fef",
+      "publishedAt": "2026-11-08T17:25:45Z",
+      "content": "The 225th anniversary of the organisation’s first publication is an opportunity to celebrate its unique contribution to our sense of place In his one-paragraph short story , On Exactitude in Science, Jorge Luis Borges imagines an empire in which the level of cartographical ambition is so high that a map is made on a one-to-one scale with the imperial territory. The quest for perfect accuracy doesn’t end well. But the earliest map-makers for Ordnance Survey, which this week marked the 225th anniversary of its first publication, might have empathised with the obsessive dedication. The 1801 OS map of Kent was 10 years in the making, its military-led production inspired by fears of Napoleonic invasion. But as Rachel Hewitt points out in Map of a Nation , her stirring account of the Ordnance Survey’s early years, its genesis also lay in an Enlightenment-based enthusiasm for comprehending and accurately representing reality. During the course of the 19th century, the entirety of the British isles was meticulously mapped through fog, rain, wind and sun, in what was described as “a wild and arduous exercise”. The surveyors, armed with theodolites, measuring chains and notebooks, saw themselves as footsoldiers serving in the ranks of Reason as they brought intellectual order to the landscape. Continue reading..."
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Steve Jones",
+      "title": "Steve Jones on dangerous tech innovations – cartoon",
+      "description": "Continue reading...",
+      "url": "https://www.theguardian.com/commentisfree/picture/2026/nov/07/steve-jones-dangerous-tech-innovations-cartoon-ai-fire",
+      "urlToImage": "https://i.guim.co.uk/img/media/86994054c0f6a4c972c5c9ffc994a75e79ab91f4/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=a9ee0f23697571494e489a42eaa27b93",
+      "publishedAt": "2026-11-07T11:00:09Z",
+      "content": "Continue reading..."
+    },
+    {
+      "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
@@ -339,6 +664,19 @@
       "urlToImage": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg",
       "publishedAt": "2026-11-05T21:00:00Z",
       "content": "A glimpse into the world of the incredibly tiny"
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Ian Sample Science editor",
+      "title": "From gold rush to cosmic questions: a South Dakota mine and the search for the secrets of the universe",
+      "description": "A mile beneath the Black Hills, scientists are building giant detectors to analyse neutrino particles – and possibly find the answer to existence For more than a century, the mining town of Lead, in the Black Hills of South Dakota, attracted workers with a taste for gold. Now, a flagship experiment being built in the old mine is drawing scientists in search of more intriguing riches: answers to the deepest mysteries of the universe. Construction of the Deep Underground Neutrino Experiment (Dune) in the former Homestake mine is due to start on Monday. Engineers will begin assembling four giant detectors inside caverns blasted from rock a mile underground. Continue reading...",
+      "url": "https://www.theguardian.com/science/2026/oct/31/south-dakota-mine-search-secrets-universe-dark-matter-antimatter",
+      "urlToImage": "https://i.guim.co.uk/img/media/8eca246a9cb5325c1bd90194772aa2f335828e45/101_0_1201_961/master/1201.jpg?width=140&quality=85&auto=format&fit=max&s=70fbe5b6ed13583cb9fbedab52f1ab91",
+      "publishedAt": "2026-10-31T11:00:40Z",
+      "content": "A mile beneath the Black Hills, scientists are building giant detectors to analyse neutrino particles – and possibly find the answer to existence For more than a century, the mining town of Lead, in the Black Hills of South Dakota, attracted workers with a taste for gold. Now, a flagship experiment being built in the old mine is drawing scientists in search of more intriguing riches: answers to the deepest mysteries of the universe. Construction of the Deep Underground Neutrino Experiment (Dune) in the former Homestake mine is due to start on Monday. Engineers will begin assembling four giant detectors inside caverns blasted from rock a mile underground. Continue reading..."
     },
     {
       "source": {
@@ -368,6 +706,19 @@
     },
     {
       "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Alex Bellos",
+      "title": "Did you solve it? A magical melody from the Mozart of math",
+      "description": "The solution to today’s puzzles Earlier today, I set a puzzle by UCLA professor Terry Tao, who is widely regarded as one of the world’s top mathematicians. Here it is again with solutions. a regular plant produces a single coin per day a mother plant produces a single coin and two seeds per day. (A seed will grow into a regular plant the following day.) Continue reading...",
+      "url": "https://www.theguardian.com/science/2026/oct/26/did-you-solve-it-a-magical-melody-from-the-mozart-of-math",
+      "urlToImage": "https://i.guim.co.uk/img/media/97f776c16e317a5dd1ab0589da566143efea364b/0_0_2960_2366/master/2960.jpg?width=140&quality=85&auto=format&fit=max&s=d75cd61bc2d79db1c2c7137f1ddc56f6",
+      "publishedAt": "2026-10-26T17:00:47Z",
+      "content": "The solution to today’s puzzles Earlier today, I set a puzzle by UCLA professor Terry Tao, who is widely regarded as one of the world’s top mathematicians. Here it is again with solutions. a regular plant produces a single coin per day a mother plant produces a single coin and two seeds per day. (A seed will grow into a regular plant the following day.) Continue reading..."
+    },
+    {
+      "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
@@ -378,6 +729,19 @@
       "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85dc/live/45574340-ce23-11f1-9f18-490cec60aa0f.jpg",
       "publishedAt": "2026-10-26T14:54:40Z",
       "content": "A stretch of water in the west of the continent is now called the Amos Channel after the ex-BBC journalist."
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Alex Bellos",
+      "title": "Can you solve it? A magical melody from the Mozart of math",
+      "description": "Terence Tao teaser time UPDATE: Read the solutions here Today’s puzzle is set by Terence Tao, who may be the world’s most famous mathematician. Tao, aged 51, has been a global phenomenon since the age of ten, when he became the youngest competitor at the International Maths Olympiad, a record he still holds. For the last three decades he has been a professor at UCLA, where he has been garlanded with prizes, and where one of his colleagues famously said: “Terry is like Mozart: mathematics just flows out of him.” a regular plant produces a single coin per day a mother plant produces a single coin and two seeds per day. (A seed will grow into a regular plant the following day.) Continue reading...",
+      "url": "https://www.theguardian.com/science/2026/oct/26/can-you-solve-it-a-magical-melody-from-the-mozart-of-math",
+      "urlToImage": "https://i.guim.co.uk/img/media/04cf688744f96001476288753c3f94a32627f9d2/0_0_4167_3335/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=c931d29d4464a34e14ed7da5c4c9d87f",
+      "publishedAt": "2026-10-26T07:10:24Z",
+      "content": "Terence Tao teaser time UPDATE: Read the solutions here Today’s puzzle is set by Terence Tao, who may be the world’s most famous mathematician. Tao, aged 51, has been a global phenomenon since the age of ten, when he became the youngest competitor at the International Maths Olympiad, a record he still holds. For the last three decades he has been a professor at UCLA, where he has been garlanded with prizes, and where one of his colleagues famously said: “Terry is like Mozart: mathematics just flows out of him.” a regular plant produces a single coin per day a mother plant produces a single coin and two seeds per day. (A seed will grow into a regular plant the following day.) Continue reading..."
     },
     {
       "source": {

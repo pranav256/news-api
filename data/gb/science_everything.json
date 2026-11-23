@@ -1,14 +1,40 @@
 {
-  "source": "rss_fallback",
+  "source": "everything",
   "country": "gb",
   "category": "science",
   "providers": [
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-22T22:52:00.341181+00:00",
-  "articles_count": 34,
+  "fetched_at": "2026-11-23T03:53:36.689785+00:00",
+  "articles_count": 100,
   "articles": [
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "description": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg",
+      "publishedAt": "2026-11-23T00:50:35Z",
+      "content": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels"
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Tobi Thomas Health and inequalities correspondent",
+      "title": "Patients may miss out on NHS weight-loss jabs in England after GP funding withdrawn",
+      "description": "Inquiry finds most integrated care boards have scrapped payments to GPs for prescribing and monitoring the drug Patients who are eligible for potentially life-changing weight-loss injections on the NHS risk missing out after most integrated care boards (ICBs) in England withdrew funding for GP services, an investigation has found. The inquiry, conducted by the GP magazine Pulse, found that 21 of 36 ICBs have scrapped payments to practices for prescribing and monitoring Mounjaro, also known as tirzepatide. A further nine never had a local enhanced service and only four still retain one. Continue reading...",
+      "url": "https://www.theguardian.com/science/2026/nov/23/patients-miss-out-nhs-weight-loss-mounjaro-gp-funding-withdrawn",
+      "urlToImage": "https://i.guim.co.uk/img/media/351d70fe40e6459e9f0f7d906661c7edf4d72593/575_0_4326_3461/master/4326.jpg?width=140&quality=85&auto=format&fit=max&s=ed768e0db2ffd85cfe3b61e4a1e27b42",
+      "publishedAt": "2026-11-23T00:01:40Z",
+      "content": "Inquiry finds most integrated care boards have scrapped payments to GPs for prescribing and monitoring the drug Patients who are eligible for potentially life-changing weight-loss injections on the NHS risk missing out after most integrated care boards (ICBs) in England withdrew funding for GP services, an investigation has found. The inquiry, conducted by the GP magazine Pulse, found that 21 of 36 ICBs have scrapped payments to practices for prescribing and monitoring Mounjaro, also known as tirzepatide. A further nine never had a local enhanced service and only four still retain one. Continue reading..."
+    },
     {
       "source": {
         "id": "bbc-news",
@@ -24,16 +50,16 @@
     },
     {
       "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
+        "id": "the-guardian",
+        "name": "The Guardian"
       },
-      "author": null,
-      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-      "description": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
-      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg",
-      "publishedAt": "2026-11-22T18:17:59Z",
-      "content": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels."
+      "author": "Nicola Davis Science correspondent",
+      "title": "CEO of funding agency for UK science and research criticised by union over cuts",
+      "description": "Exclusive: Prospect’s Mike Clancy tells Ian Chapman at UKRI that union has ‘lost confidence’ in his leadership A trade union that counts scientists and engineers among its members says it has lost confidence in the leader of the UK’s national funding agency for science and research, citing concerns about plans for major cuts. The letter from Mike Clancy, the general secretary of Prospect, to Ian Chapman, the chief executive of UK Research and Innovation (UKRI), is the latest development in a row over changes in funding for projects and research facilities. Continue reading...",
+      "url": "https://www.theguardian.com/education/2026/nov/22/prospect-union-leader-uk-funding-agency-science-research-ukri",
+      "urlToImage": "https://i.guim.co.uk/img/media/9350c277cd73ad7cf6c87f3b2d28a0d673278d82/1297_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=c8366ae3c1a6cdb0ed17451e19d541ff",
+      "publishedAt": "2026-11-22T12:00:28Z",
+      "content": "Exclusive: Prospect’s Mike Clancy tells Ian Chapman at UKRI that union has ‘lost confidence’ in his leadership A trade union that counts scientists and engineers among its members says it has lost confidence in the leader of the UK’s national funding agency for science and research, citing concerns about plans for major cuts. The letter from Mike Clancy, the general secretary of Prospect, to Ian Chapman, the chief executive of UK Research and Innovation (UKRI), is the latest development in a row over changes in funding for projects and research facilities. Continue reading..."
     },
     {
       "source": {
@@ -47,6 +73,19 @@
       "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eca5/live/034a6cb0-e4c7-11f1-a094-5fdc692f3e33.png",
       "publishedAt": "2026-11-22T10:44:12Z",
       "content": "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun."
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "William Christou",
+      "title": "It will soon be too late to regulate use of autonomous weapons, warns Red Cross",
+      "description": "Warning about putting ‘genie back in the bottle’ comes as UN conference fails to agree on regulation instrument The International Committee of the Red Cross and rights groups have warned that it will soon be too late to put the “genie back in the bottle” as the development of autonomous weapons appears to outpace efforts to regulate them. The stark warning came as more than 120 member states of the UN Convention on Certain Conventional Weapons concluded a week-long conference in Geneva. Continue reading...",
+      "url": "https://www.theguardian.com/science/2026/nov/22/red-cross-warns-too-late-regulate-autonomous-weapons-united-nations",
+      "urlToImage": "https://i.guim.co.uk/img/media/e83253eef2712121e66a9774fee97fca01778307/875_229_5546_4437/master/5546.jpg?width=140&quality=85&auto=format&fit=max&s=d69854bb96be9dea188f9ed66bad2c16",
+      "publishedAt": "2026-11-22T09:00:22Z",
+      "content": "Warning about putting ‘genie back in the bottle’ comes as UN conference fails to agree on regulation instrument The International Committee of the Red Cross and rights groups have warned that it will soon be too late to put the “genie back in the bottle” as the development of autonomous weapons appears to outpace efforts to regulate them. The stark warning came as more than 120 member states of the UN Convention on Certain Conventional Weapons concluded a week-long conference in Geneva. Continue reading..."
     },
     {
       "source": {
@@ -79,6 +118,19 @@
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "author": "Bea Swallow",
+      "title": "Parents urged to spot online stalking warning signs as cases rise",
+      "description": "From fake profiles to unwanted contact, specialists explain the signs parents should take seriously.",
+      "url": "https://www.bbc.co.uk/news/articles/c674pejp1110o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6755/live/028a3f80-e1de-11f1-911e-f985fea51b18.jpg",
+      "publishedAt": "2026-11-22T00:07:32Z",
+      "content": "Police guidance , externaldescribes stalking as repeated, unwanted behaviour that is fixated or obsessive and affects a person's daily life.\r\nWhile many people associate stalking with being followed … [+1118 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
       "author": null,
       "title": "Will COP31 end with a new global climate deal?",
       "description": "BBC Climate editor Justin Rowlatt reports from the COP 31 UN climate summit in Antalya, Turkey.",
@@ -86,6 +138,19 @@
       "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/511b/live/004fea80-e5fd-11f1-a094-5fdc692f3e33.jpg",
       "publishedAt": "2026-11-21T22:44:52Z",
       "content": "BBC Climate editor Justin Rowlatt reports from the COP 31 UN climate summit in Antalya, Turkey."
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Alastair Telfer",
+      "title": "France secure Nations Championship final with Springboks",
+      "description": "France dispatch Argentina in Paris to book their spot against South Africa in the Nations Championship final at Allianz Stadium next Sunday.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c3zxv4e5g5g5o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/594b/live/6226ae90-e5f0-11f1-b1d8-fd34c88a50a0.jpg",
+      "publishedAt": "2026-11-21T22:22:36Z",
+      "content": "Nations Championship\r\nFrance (14) 45\r\nTries: Guillard, Mauvaka, Gourgues 2, Gailleton, Duguid, Bielle-Biarrey Cons: Gourgues 5\r\nArgentina (10) 17\r\nTries: Piccardo, Matera Con: Albornoz 2 Pen: Alborno… [+1887 chars]"
     },
     {
       "source": {
@@ -105,6 +170,58 @@
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "author": "Matt Gault",
+      "title": "Farrell defends Prendergast after SA camp comments",
+      "description": "Ireland head coach Andy Farrell praises Sam Prendergast's performance in Saturday's victory over South Africa and expresses his displeasure at the Springboks' comments about the fly-half during the week.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqrkgxzjjvy4o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7c35/live/d8ee7780-e5ee-11f1-b1d8-fd34c88a50a0.jpg",
+      "publishedAt": "2026-11-21T21:12:24Z",
+      "content": "Ireland head coach Andy Farrell praised Sam Prendergast's performance in Saturday's victory over South Africa and expressed his displeasure at the Springboks' comments about the fly-half during the w… [+1231 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Former journalist and Lost Lives author David McKittrick dies",
+      "description": "David McKittrick was best known for his work during the Troubles, and his book Lost Lives.",
+      "url": "https://www.bbc.co.uk/news/articles/cmkgd515jp47o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4051/live/fa8d1420-e5bf-11f1-a188-ff49e70cc466.jpg",
+      "publishedAt": "2026-11-21T16:47:33Z",
+      "content": "The renowned journalist and author David McKittrick has died at the age of 77.\r\nMcKittrick was best known for his work during the Troubles, and the book Lost Lives.\r\nThe book detailed the people who … [+1074 chars]"
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Frances Mao in Geneva and Patrick Wintour",
+      "title": "International UN talks on controlling use of autonomous weapons collapse",
+      "description": "Week-long efforts fail to establish negotiating mandate on AI warfare after Russian ‘filibustering’ Week-long efforts to agree a negotiating mandate for a legally binding international treaty to control the use of autonomous weapons collapsed just before 5am after all-night talks failed to overcome Russian objections. Despite an overwhelming majority of states at the UN’s Convention on Certain Conventional Weapons (CCW) in Geneva wanting to agree a negotiating mandate leading to a legally binding treaty, the need for consensus forced the conference to adopt a much weaker option. Continue reading...",
+      "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+      "urlToImage": "https://i.guim.co.uk/img/media/247601abada695f09f302253178bbc8f6e58cd42/415_0_4165_3333/master/4165.jpg?width=140&quality=85&auto=format&fit=max&s=19283afd22dbc9bfead542bffab860d5",
+      "publishedAt": "2026-11-21T16:36:11Z",
+      "content": "Week-long efforts fail to establish negotiating mandate on AI warfare after Russian ‘filibustering’ Week-long efforts to agree a negotiating mandate for a legally binding international treaty to control the use of autonomous weapons collapsed just before 5am after all-night talks failed to overcome Russian objections. Despite an overwhelming majority of states at the UN’s Convention on Certain Conventional Weapons (CCW) in Geneva wanting to agree a negotiating mandate leading to a legally binding treaty, the need for consensus forced the conference to adopt a much weaker option. Continue reading..."
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Tom English",
+      "title": "McConnell shines as 11-try Scotland dismantle Japan",
+      "description": "A Liam McConnell hat-trick in only his third appearance inspires Scotland in an 11-try Nations Championship rout of Japan at Murrayfield.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmx2x00w08keo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/50cd/live/3dcd9c90-e5c1-11f1-a188-ff49e70cc466.jpg",
+      "publishedAt": "2026-11-21T16:23:11Z",
+      "content": "Gregor Townsend changed most of his team from the win over the Wallabies last Sunday, but the second string, if you can call them that, were at it right from the start.\r\nDobie's box-kick was spilled … [+2596 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
       "author": null,
       "title": "Hormuz swim highlights environmental cost of war",
       "description": "Ocean campaigner Lewis Pugh completes Hormuz challenge and warns of lasting environmental damage.",
@@ -112,6 +229,19 @@
       "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af51/live/b6455810-e5c2-11f1-a188-ff49e70cc466.jpg",
       "publishedAt": "2026-11-21T16:12:31Z",
       "content": "Ocean campaigner Lewis Pugh completes Hormuz challenge and warns of lasting environmental damage."
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Mike Henson",
+      "title": "Ex-captain Moody joins England side to face haka",
+      "description": "Former England captain Lewis Moody joins the current team to face New Zealand's haka in an emotional start to Saturday's Test match at Allianz Stadium.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c5vg2ppp90w8o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4d0c/live/0a8a2760-e5ba-11f1-99b6-a35a62fa4264.jpg",
+      "publishedAt": "2026-11-21T15:03:48Z",
+      "content": "With Twickenham energised, England started the match fast, with Henry Slade getting on the end of a Fin Smith grubber kick to score the first try after just four minutes.\r\nAll of England's players ar… [+855 chars]"
     },
     {
       "source": {
@@ -131,6 +261,123 @@
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "author": "Gareth Wyn Williams",
+      "title": "I lost my dad, mum and sister to the same aggressive brain cancer",
+      "description": "A charity says it's \"highly unusual\" to have three members of the same family die of the disease.",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gn0313098o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2f88/live/08dfaa90-e4dc-11f1-9cc5-e9713e77fd78.jpg",
+      "publishedAt": "2026-11-21T09:50:49Z",
+      "content": "Hugh Adams from Brain Tumour Research said it remains one of the most underfunded areas of cancer research.\r\nThere are around 150 different types of brain tumour ranging from slow-growing to aggressi… [+1739 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Emilia Belli",
+      "title": "Staff gagging clauses lifted ahead of probe into culture at data watchdog",
+      "description": "Ministers are expected to publish the details of how an independent review of the working environment at the Information Commission will be carried out next week.",
+      "url": "https://www.bbc.co.uk/news/articles/cwdr1xyzr5lmo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/578a/live/71169aa0-e505-11f1-b40b-5f46e8cf687c.jpg",
+      "publishedAt": "2026-11-21T06:01:04Z",
+      "content": "Non-disclosure agreements (NDAs) signed by staff at the UK's information watchdog will be lifted to allow them to speak out about its culture, the government has confirmed.\r\nMinisters are expected to… [+5615 chars]"
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Kayode Akintola",
+      "title": "Beating Ebola takes more than medicine – I saw what worked in west Africa a decade ago | Kayode Akintola",
+      "description": "The outbreak in DR Congo is shaping up to be the worst ever, but the support of local faith leaders – and adequate funding – will be needed to bring it under control Ebola is terrifying: I know, because I lived through the world’s worst outbreak of the disease . That was in west Africa between 2013 and 2016, when anyone infected by the virus had a nearly 40% chance of dying . There were 28,600 cases and 11,300 deaths then. Now a rare strain of Ebola is spreading in the eastern Democratic Republic of the Congo, much more quickly than a decade ago in Sierra Leone, Liberia and neighbouring countries. It is the 17th outbreak in DR Congo and already its worst, with more than 5,000 deaths . The UN is warning that the spread of the disease is outstripping the response, and it is widely expected to become the worst Ebola outbreak in history. There is no proven vaccine or treatment yet for the Bundibugyo variant; almost 50% of those infected have died . Continue reading...",
+      "url": "https://www.theguardian.com/global-development/2026/nov/21/ebola-outbreak-congo-worst-ever",
+      "urlToImage": "https://i.guim.co.uk/img/media/37984494d48dabb3ff70d4a8b149ac4137e2ed76/630_0_3540_2832/master/3540.jpg?width=140&quality=85&auto=format&fit=max&s=7ca2219efccb1b01897ace81d269c109",
+      "publishedAt": "2026-11-21T06:00:53Z",
+      "content": "The outbreak in DR Congo is shaping up to be the worst ever, but the support of local faith leaders – and adequate funding – will be needed to bring it under control Ebola is terrifying: I know, because I lived through the world’s worst outbreak of the disease . That was in west Africa between 2013 and 2016, when anyone infected by the virus had a nearly 40% chance of dying . There were 28,600 cases and 11,300 deaths then. Now a rare strain of Ebola is spreading in the eastern Democratic Republic of the Congo, much more quickly than a decade ago in Sierra Leone, Liberia and neighbouring countries. It is the 17th outbreak in DR Congo and already its worst, with more than 5,000 deaths . The UN is warning that the spread of the disease is outstripping the response, and it is widely expected to become the worst Ebola outbreak in history. There is no proven vaccine or treatment yet for the Bundibugyo variant; almost 50% of those infected have died . Continue reading..."
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Madeline Halpert",
+      "title": "Judge approves $7.25bn settlement for Roundup weedkiller cancer claims",
+      "description": "The settlement will be paid by Bayer to users who already have non-Hodgkin lymphoma and those who fall ill in the future.",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg21gyl650o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/39e3/live/c6e1e8a0-e559-11f1-b23f-abf0ac4ebbc0.jpg",
+      "publishedAt": "2026-11-21T03:49:09Z",
+      "content": "A Missouri judge on Friday approved a $7.25bn (£5.5bn) settlement stemming from lawsuits alleging that Bayer's weedkiller Roundup causes cancer. \r\nJudge Timothy Boyer said the settlement was \"fair, r… [+1883 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Liv McMahon, Imran Rahman-Jones",
+      "title": "Can AI really help spot Black Friday deals? We put it to the test",
+      "description": "We put four AI models to the test to see if they could save us money on a new TV.",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dcbf/live/85d51550-e435-11f1-8346-933d3547e297.jpg",
+      "publishedAt": "2026-11-21T00:06:11Z",
+      "content": "Whether it's scrolling through endless choice, spotting fake reviews, or working out if a \"deal\" is a deal at all, Black Friday sums up a lot of online woes.\r\nRetailers promise bargains - but the she… [+1438 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Nat Wright",
+      "title": "Sales of baby sleeping bag halted by Next after new mum raises alarm",
+      "description": "The sleeping bag’s neck hole was far too big, meaning Emma's baby daughter could wriggle down and it could cover her face.",
+      "url": "https://www.bbc.co.uk/news/articles/cw9874p114dro",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5fff/live/40c02ae0-e50c-11f1-b40b-5f46e8cf687c.jpg",
+      "publishedAt": "2026-11-21T00:02:09Z",
+      "content": "A spokesperson for Next said: \"We can confirm the item has been removed from our website and all stores. A product recall is in place, and we are contacting all customers who purchased the item direc… [+1530 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Madeline Halpert",
+      "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+      "description": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
+      "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4622/live/d8e189d0-e52b-11f1-964d-a1d5fe40573e.jpg",
+      "publishedAt": "2026-11-21T00:01:39Z",
+      "content": "New York City's official overseeing the closure of the city's most notorious jail hopes a new plan from Mayor Zohran Mamdani will lead to \"a moment of transformation\" for how people are detained in t… [+3846 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Gavin Butler",
+      "title": "Dead pets were meant to be cremated - then their bodies appeared on a livestream",
+      "description": "Grieving Filipinos confront a distressing reality: their dogs and cats may not have received the send-off they paid for.",
+      "url": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c4bc/live/7ab356d0-e4f5-11f1-a094-5fdc692f3e33.jpg",
+      "publishedAt": "2026-11-20T23:20:33Z",
+      "content": "One woman whose dog was suspected to have been found among the dumped bodies told the BBC she couldn't speak about it because she was \"feeling weak\".\r\n\"I haven't slept for three days from all the cry… [+2299 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Kali Hays",
+      "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+      "description": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+      "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/78a0/live/a0688a80-e531-11f1-99b6-a35a62fa4264.jpg",
+      "publishedAt": "2026-11-20T23:08:57Z",
+      "content": "An Anthropic employee and mathematician claims to have used the company's artificial intelligence (AI) chatbot to prove the famed Riemann hypothesis.\r\nLevent Alpöge said, external on Friday, a day af… [+3366 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
       "author": null,
       "title": "Birds killed in blaze at one of the largest foie gras farms in the US",
       "description": "Hundreds of young birds were also rescued from the fire, which comes as foie gras is under renewed scrutiny over animal welfare concerns.",
@@ -144,6 +391,97 @@
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "author": "Rachel Clun",
+      "title": "Trump threatens ban on US firms building AI data centres overseas",
+      "description": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/09a4/live/7e18d7e0-e514-11f1-b40b-5f46e8cf687c.jpg",
+      "publishedAt": "2026-11-20T19:51:52Z",
+      "content": "Donald Trump has said he will ban US companies from building AI data centres overseas, threatening a \"tremendous tax\" for tech firms who do so.\r\n\"We're going to keep it all in this country,\" the US p… [+2700 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Emma Middleton",
+      "title": "A men's netball World Cup - not a question of if, but when?",
+      "description": "England and Jamaica's men's netball teams will act as curtain-raisers for the women's sides in this weekend's Horizon Series in London - and as the sport grows, an inaugural men's World Cup is on the cards.",
+      "url": "https://www.bbc.co.uk/sport/netball/articles/c60evgr13deyo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/da8e/live/36d953b0-e4d7-11f1-ae38-71bf515761f1.jpg",
+      "publishedAt": "2026-11-20T18:00:20Z",
+      "content": "The narrative of women's sport fighting for recognition in a historically male-dominated space is a familiar one, but in netball - traditionally a female sport - it is quite the opposite.\r\nYet in rec… [+1802 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Brandon Drenon",
+      "title": "'What happens in GTA 6 stays in GTA 6': Police across US warn fans about taking the game to their real lives",
+      "description": "GTA 6 fans waited over a decade for this moment, and now police are reminding them \"real-life laws don't come with cheat codes, respawns, or mission restarts\".",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2e0e9138o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2ffb/live/ebe9c590-e4f6-11f1-a8e4-b1e12a49db15.jpg",
+      "publishedAt": "2026-11-20T16:29:18Z",
+      "content": "Police departments are reminding Americans that street racing, auto theft and gun violence are still crimes in real life, as excitement over Grand Theft Auto 6, a game following the lives of career c… [+2611 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Henry Zeffman",
+      "title": "Henry Zeffman: Burnham's first taste of EU deal-making unlikely to be his last",
+      "description": "The prime minister is learning how complex EU negotiations can be - but it is unlikely to deter him from seeking closer ties.",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gn092gydwo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/263a/live/6036f4c0-e4f9-11f1-a094-5fdc692f3e33.jpg",
+      "publishedAt": "2026-11-20T15:47:45Z",
+      "content": "At the dramatic conclusion of his first party conference speech as Labour leader in September - a moment he has been dreaming of for decades - the prime minister vowed to get closer to the EU.\r\nOver … [+3034 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Man arrested after 'knives and other weapons' seized from train",
+      "description": "Army bomb disposal experts were called out following reports of a man 'acting suspiciously' on the train.",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy9dg89w20o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d47e/live/096b13f0-e4d7-11f1-ae38-71bf515761f1.jpg",
+      "publishedAt": "2026-11-20T11:47:53Z",
+      "content": "A man has been arrested after police seized \"knives and other offensive weapons\" on a train arriving at Edinburgh's Waverley station.\r\nOfficers from the British Transport Police (BTP) met the service… [+1085 chars]"
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Presented by Ian Sample , with Jessica Glenza , produced by Ellie Sans and Joshan Chana , the executive producer was Ellie Bury",
+      "title": "Measles is officially back in the USA. Will Maha pay the price? - video",
+      "description": "This week the US lost its measles elimination status, an official recognition that the infectious disease is endemic in the country after being eliminated for 26 years. To find out what this means in practical terms for citizens, Ian Sample hears from the Guardian US health reporter Jessica Glenza. She explains why it comes at an already difficult time for the health secretary, Robert F Kennedy Jr, and his Make America Healthy Again movement, and what newly elected Democrats will be focusing on when it comes to health Continue reading...",
+      "url": "https://www.theguardian.com/science/video/2026/nov/20/measles-is-officially-back-in-the-usa-will-maha-pay-the-price-video",
+      "urlToImage": "https://i.guim.co.uk/img/media/507237693f77908c1a836e9797ff84cabae560f0/477_0_4759_3808/master/4759.jpg?width=140&quality=85&auto=format&fit=max&s=57ac386bdc3e4658b3a695bfd3617271",
+      "publishedAt": "2026-11-20T11:40:07Z",
+      "content": "This week the US lost its measles elimination status, an official recognition that the infectious disease is endemic in the country after being eliminated for 26 years. To find out what this means in practical terms for citizens, Ian Sample hears from the Guardian US health reporter Jessica Glenza. She explains why it comes at an already difficult time for the health secretary, Robert F Kennedy Jr, and his Make America Healthy Again movement, and what newly elected Democrats will be focusing on when it comes to health Continue reading..."
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Grace Wood",
+      "title": "Stabbed councillor 'protecting staff member during street clean'",
+      "description": "Bradford councillor Ibrar Ali remains in hospital in a stable condition after he was stabbed.",
+      "url": "https://www.bbc.co.uk/news/articles/c6lymr180dgyo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bc67/live/17204b50-e4d7-11f1-ae38-71bf515761f1.jpg",
+      "publishedAt": "2026-11-20T11:32:47Z",
+      "content": "A councillor was trying to protect a member of council staff when he was stabbed while doing community work in his ward, his family has said.\r\nCouncillor Ibrar Ali remains in hospital in a stable con… [+1328 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
       "author": null,
       "title": "What are heat pumps and how much do they cost?",
       "description": "The government wants more homes to have heat pumps to cut fossil fuel use and drive down energy bills.",
@@ -151,6 +489,45 @@
       "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3050/live/eba8d700-de8a-11f1-b88b-3f1671ea859d.jpg",
       "publishedAt": "2026-11-20T10:24:52Z",
       "content": "The government wants more homes to have heat pumps to cut fossil fuel use and drive down energy bills."
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Helena Horton",
+      "title": "Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’",
+      "description": "Cancer undetectable for one in 12 patients in daraxonrasib trial, while nearly all participants’ tumours stopped growing A pill that can shrink and potentially eliminate pancreas tumours is being hailed as the biggest breakthrough treatment for the cancer in decades. In one in 12 of the patients given the drug, daraxonrasib , during a trial, the cancer became undetectable, and the tumours stopped growing in almost all of the 61 patients. The trial participants had recently been diagnosed with advanced pancreatic cancer that had spread to other parts of the body. Continue reading...",
+      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+      "urlToImage": "https://i.guim.co.uk/img/media/d7bac7cca6890657580a396f9255cf7d7b3d2874/1250_0_6250_5000/master/6250.jpg?width=140&quality=85&auto=format&fit=max&s=a39b86006934a5fbc1b4dadf13458620",
+      "publishedAt": "2026-11-20T09:36:10Z",
+      "content": "Cancer undetectable for one in 12 patients in daraxonrasib trial, while nearly all participants’ tumours stopped growing A pill that can shrink and potentially eliminate pancreas tumours is being hailed as the biggest breakthrough treatment for the cancer in decades. In one in 12 of the patients given the drug, daraxonrasib , during a trial, the cancer became undetectable, and the tumours stopped growing in almost all of the 61 patients. The trial participants had recently been diagnosed with advanced pancreatic cancer that had spread to other parts of the body. Continue reading..."
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Tinned goods and UHT milk boost retail sales after 'Be Ready' campaign launch",
+      "description": "People stocking up on long-life food drove retail sales higher October, according to official data.",
+      "url": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/55f3/live/5b4f20a0-e4b2-11f1-a1dc-9f4190df3aa7.jpg",
+      "publishedAt": "2026-11-20T07:30:13Z",
+      "content": "Retail sales rose in October, driven by people buying long-life food such as tinned goods and UHT milk, according to official figures.\r\nSales volumes were 0.7% higher as people responded to the gover… [+446 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Inga Stracke",
+      "title": "The art of protection - inside an F1 helmet factory",
+      "description": "Inside the extraordinary world of Formula 1 helmets, where precision engineering, personal expression and life-saving technology join forces.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cm20vpq8z6n4o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3ae4/live/a165cb70-e35e-11f1-99a1-253766e7ad8b.jpg",
+      "publishedAt": "2026-11-20T06:29:04Z",
+      "content": "An F1 helmet is a remarkable marriage of science and aesthetics.\r\nConstructed using advanced composite materials, including carbon fibre, it must be exceptionally strong while remaining light enough … [+3381 chars]"
     },
     {
       "source": {
@@ -170,6 +547,32 @@
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "author": "Cameron Weldon",
+      "title": "Survey reveals 'major increase' in cost of living",
+      "description": "More than two thirds of respondents reported noticing rises in the cost of living.",
+      "url": "https://www.bbc.co.uk/news/articles/cq772r7kk315o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/54b6/live/f36ecac0-e435-11f1-8346-933d3547e297.jpg",
+      "publishedAt": "2026-11-20T06:12:28Z",
+      "content": "There has been \"a major increase\" in the overall cost of living in the past 12 months in Guernsey, Jersey and the Isle of Man, a survey has found.\r\nIsland Global Research, a market research and consu… [+1441 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Rebecca Morelle, Alison Francis, Tony Jolliffe",
+      "title": "Mysterious Mercury is about to get a visitor - after spacecraft's eight-year epic voyage",
+      "description": "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun.",
+      "url": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/62f0/live/43fac6d0-e277-11f1-a094-5fdc692f3e33.png",
+      "publishedAt": "2026-11-20T05:59:56Z",
+      "content": "Unusually, this is a sort of \"buy one get one free\" mission - there are two spacecraft onboard.\r\nA few weeks after arriving at Mercury they will separate. \r\nA European Space Agency (ESA) craft will s… [+1171 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
       "author": null,
       "title": "More climate money for Africa? Europe says use what's already pledged",
       "description": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
@@ -183,6 +586,71 @@
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "author": "Michelle Roberts",
+      "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
+      "description": "Daily pill daraxonrasib appears to shrink and possibly even eliminate tumours in some patients with one of the deadliest cancers.",
+      "url": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6ca3/live/9b3a4680-e445-11f1-9192-3924a59e54c7.jpg",
+      "publishedAt": "2026-11-20T00:08:22Z",
+      "content": "Dr Wungki Park, from Memorial Sloan Kettering Cancer Center in the US and who is involved in the trial, said the results were extremely encouraging so far. \r\n\"We are beginning to see not only a highe… [+1551 chars]"
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Ian Sample Science editor",
+      "title": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
+      "description": "BepiColombo double probe will map planet’s surface and study its interior to shed light on its unusually large core After a voyage of more than eight years and 6bn miles, a joint European-Japanese space mission has arrived at Mercury and is preparing to swing into orbit around the tiny, barely explored world. The BepiColombo mission will become only the second in history to circle the first rock from the sun and the smallest planet in the solar system when flight controllers fire the spacecraft’s thrusters on Saturday and send it into orbit. Continue reading...",
+      "url": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
+      "urlToImage": "https://i.guim.co.uk/img/media/910dcaf9ff433ebd4d751fd1b66d69ac4d3214ec/310_0_2501_2001/master/2501.jpg?width=140&quality=85&auto=format&fit=max&s=f9c10eba59643de1f8399ad2cf23f22f",
+      "publishedAt": "2026-11-20T00:01:15Z",
+      "content": "BepiColombo double probe will map planet’s surface and study its interior to shed light on its unusually large core After a voyage of more than eight years and 6bn miles, a joint European-Japanese space mission has arrived at Mercury and is preparing to swing into orbit around the tiny, barely explored world. The BepiColombo mission will become only the second in history to circle the first rock from the sun and the smallest planet in the solar system when flight controllers fire the spacecraft’s thrusters on Saturday and send it into orbit. Continue reading..."
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Donna Lu Assistant editor, climate, environment and science",
+      "title": "An elevator, a brick wall and a bathroom: scientists use gravity to send ‘practically unblockable’ message",
+      "description": "Australian physicists chose to transmit the word ‘gravity’ in binary code through brick wall Get our breaking news email , free app or daily news podcast Australian scientists have used gravity as a means of communication, in a proof-of-concept experiment involving a snail-paced 1950s elevator, a brick wall and a men’s bathroom. Physicists at the University of Queensland have used gravity to transmit a “practically unblockable” message about 70cm through a brick wall, by sending an elevator up and down between two floors and measuring changes in the gravitational field as a result of the movement. Continue reading...",
+      "url": "https://www.theguardian.com/science/2026/nov/20/scientists-communicate-using-gravity-elevator-brick-wall-bathroom-experiment",
+      "urlToImage": "https://i.guim.co.uk/img/media/9c8e312834f5121b01c6908ad465910f3ea52394/81_0_800_640/master/800.jpg?width=140&quality=85&auto=format&fit=max&s=c4f4272c390dc53f69e1f5e940abdde3",
+      "publishedAt": "2026-11-19T23:30:26Z",
+      "content": "Australian physicists chose to transmit the word ‘gravity’ in binary code through brick wall Get our breaking news email , free app or daily news podcast Australian scientists have used gravity as a means of communication, in a proof-of-concept experiment involving a snail-paced 1950s elevator, a brick wall and a men’s bathroom. Physicists at the University of Queensland have used gravity to transmit a “practically unblockable” message about 70cm through a brick wall, by sending an elevator up and down between two floors and measuring changes in the gravitational field as a result of the movement. Continue reading..."
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Kali Hays, Rachel Clun",
+      "title": "Anthropic becomes most valuable AI firm as shares soar in stock market debut",
+      "description": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+      "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9b7d/live/94082910-e452-11f1-a094-5fdc692f3e33.jpg",
+      "publishedAt": "2026-11-19T21:38:42Z",
+      "content": "While the basics of the technology have been around for decades, the more recent advent of more powerful computers and related components have allowed the processing of more data than ever.\r\nThe resu… [+3184 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Ruth Comerford",
+      "title": "London school first in England to win global prize",
+      "description": "Swiss Cottage School picked up the Community Collaboration award for its work with SEND pupils.",
+      "url": "https://www.bbc.co.uk/news/articles/cmx27p3l1ex9o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5ada/live/9b8d8120-e3f9-11f1-a1b0-810734adec41.jpg",
+      "publishedAt": "2026-11-19T21:09:20Z",
+      "content": "London's Swiss Cottage School, Development &amp; Research Centre has become the first English school to win a World's Best School Prize.\r\nThe global awards, founded by T4 Education in 2022, recognise… [+1007 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
       "author": null,
       "title": "BBC Inside Science",
       "description": "SpaceX is on the verge of making space affordable.",
@@ -190,6 +658,71 @@
       "urlToImage": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg",
       "publishedAt": "2026-11-19T21:00:00Z",
       "content": "SpaceX is on the verge of making space affordable."
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Edward Helmore and agencies",
+      "title": "Spuds in space: scientists say potatoes could be key food source for future moon base",
+      "description": "New report details how potatoes were successfully cultivated in simulated lunar soil The humble potato could be the key to sustaining human life on the moon , according to a new scientific report asserting that prolonged lunar exploration will depend on life support systems capable of producing food there. Potatoes are an ideal candidate for farming on the moon, scientists on a project backed by the US space agency Nasa concluded, after they succeeded in growing them in simulated lunar soil. Continue reading...",
+      "url": "https://www.theguardian.com/science/2026/nov/19/potatoes-moon-base-nasa",
+      "urlToImage": "https://i.guim.co.uk/img/media/1b58e880a26d75fd8535eee7f2a2ed104e5db70c/174_0_2314_1853/master/2314.jpg?width=140&quality=85&auto=format&fit=max&s=defdc78a97f85098fcf5641469a003ae",
+      "publishedAt": "2026-11-19T18:49:54Z",
+      "content": "New report details how potatoes were successfully cultivated in simulated lunar soil The humble potato could be the key to sustaining human life on the moon , according to a new scientific report asserting that prolonged lunar exploration will depend on life support systems capable of producing food there. Potatoes are an ideal candidate for farming on the moon, scientists on a project backed by the US space agency Nasa concluded, after they succeeded in growing them in simulated lunar soil. Continue reading..."
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "BBC Inside Science",
+      "description": "SpaceX is on the verge of making space affordable.",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct978m?at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p0m1ww2j.jpg",
+      "publishedAt": "2026-11-19T17:00:00Z",
+      "content": "Available for 34 days\r\nSpaceX has successfully caught the upper stage of its enormous Starship rocket for the first time.\r\nIt's a major milestone in the company's ambition to make the entire rocket r… [+1082 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Chris Vallance",
+      "title": "Dutch watchdog tells people not to buy AI smart glasses",
+      "description": "Tests of glasses showed some misread medicine instructions or pretended to have called an ambulance",
+      "url": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/69d9/live/ba4e8a90-e41d-11f1-9e08-55a8a3b48445.jpg",
+      "publishedAt": "2026-11-19T16:33:17Z",
+      "content": "The Dutch privacy watchdog the AP has told people not to buy smart glasses, saying they can get things dangerously wrong.\r\nIt said in its tests of six glasses available on the Dutch market, the devic… [+1506 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Charlie Buckland",
+      "title": "Glampsite owner appeals £135k bill after blocking neighbours from using their driveway",
+      "description": "Carol Esteban had told Neil and Nadine Gould their right to use the shared driveway ended opposite their front door.",
+      "url": "https://www.bbc.co.uk/news/articles/c65y1xwen7wdo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0043/live/a4993100-e422-11f1-9e08-55a8a3b48445.jpg",
+      "publishedAt": "2026-11-19T15:02:22Z",
+      "content": "A glampsite owner is challenging a court order to pay £135,000 in legal costs after she tried to block her neighbours from parking their car in their own garden.\r\nCarol Esteban told her neighbours Ne… [+1831 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Helen Briggs",
+      "title": "Wading bird called Phil tracked in epic migration to Siberia and back",
+      "description": "A bird has astonished conservationists by completing a 6,800-mile round trip to Siberia and back.",
+      "url": "https://www.bbc.co.uk/news/articles/c6qj5dl29zqro",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8a1f/live/36fc5700-e411-11f1-b37c-b3a71d7200af.jpg",
+      "publishedAt": "2026-11-19T13:35:29Z",
+      "content": "Scientists say Phil's extraordinary travels highlight the importance of protecting the world's wetlands, which are havens for millions of migratory birds each year.\r\nDr Nigel Clark, of the conservati… [+985 chars]"
     },
     {
       "source": {
@@ -210,12 +743,77 @@
         "name": "BBC News"
       },
       "author": null,
+      "title": "Mothballed Scottish spaceport helps inspire new BBC sci-fi thriller",
+      "description": "Sutherland is set in the Scottish Highlands and deep space, with its first episodes expected next year.",
+      "url": "https://www.bbc.co.uk/news/articles/cm86836gqdg7o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0aef/live/850d75d0-e404-11f1-877f-2bb5452e5ffc.jpg",
+      "publishedAt": "2026-11-19T11:00:05Z",
+      "content": "The series was written and created by James Smythe, whose previous work includes the mystery thriller miniseries All Her Fault.\r\nMbatha-Raw, who has played roles in US shows Loki and The Morning Show… [+514 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Ffion Wynne",
+      "title": "Player handed eight-year ban for throwing rock at ref",
+      "description": "Ecuadorian footballer Jhon Perlaza is banned for eight years after throwing a stone at an assistant referee during a third-tier match.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqlyk9yzkz2no",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2ce7/live/ebfdab50-e3fc-11f1-a1b0-810734adec41.jpg",
+      "publishedAt": "2026-11-19T10:20:58Z",
+      "content": "An Ecuadorian footballer has been banned for eight years for throwing a rock at an assistant referee, leaving him requiring surgery to his face.\r\nJhon Perlaza was playing for Club Ciudad de Yantzaza … [+1615 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC Radio 4",
+      "title": "Ishtar, the Mesopotamian goddess of love, sex and war",
+      "description": "The Mesopotamian goddess Ishtar was transgressive and multifaceted – potentially to the point of paradox. As the goddess of love and sex, she was responsible for the fertility of life on earth. As the goddess of war, she was also incredibly bloodthirsty, veng…",
+      "url": "https://www.bbc.co.uk/programmes/m003339v",
+      "urlToImage": "https://ichef.bbci.co.uk/images/ic/480xn/p0p7k696.jpg",
+      "publishedAt": "2026-11-19T09:45:00Z",
+      "content": "The Mesopotamian goddess Ishtar was transgressive and multifaceted potentially to the point of paradox. As the goddess of love and sex, she was responsible for the fertility of life on earth. As the … [+2534 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
       "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
       "description": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods.",
       "url": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
       "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f49/live/977f9e30-e3f2-11f1-a1b0-810734adec41.jpg",
       "publishedAt": "2026-11-19T09:21:54Z",
       "content": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods."
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Fiona Harvey, Graham Readfearn and Damien Gayle in Antalya",
+      "title": "IPCC report delay will threaten global effort to tackle climate crisis, says top scientist",
+      "description": "Johan Rockström, one of world’s leading climate experts, says slowing down scientific work puts cooperation at risk Climate science is “foundational” to the Paris agreement and worldwide progress on tackling global heating, and attempts to delay new scientific reports threaten global cooperation on tackling the crisis, one of the world’s leading climate scientists has warned. Johan Rockström, the director of the Potsdam Institute for Climate Impact Research, said the world’s leading body of climate scientists, the Intergovernmental Panel on Climate Change, must be allowed to work as quickly as possible on its next comprehensive assessment of global knowledge of the climate systems . Continue reading...",
+      "url": "https://www.theguardian.com/science/2026/nov/19/ipcc-report-delay-climate-crisis-scientist",
+      "urlToImage": "https://i.guim.co.uk/img/media/9f57ba9d5e7f9ed5bfc10dd82f5dcdcde10b2020/497_0_3703_2962/master/3703.jpg?width=140&quality=85&auto=format&fit=max&s=d584aa31cc111b9e9a02f2521a765572",
+      "publishedAt": "2026-11-19T07:16:45Z",
+      "content": "Johan Rockström, one of world’s leading climate experts, says slowing down scientific work puts cooperation at risk Climate science is “foundational” to the Paris agreement and worldwide progress on tackling global heating, and attempts to delay new scientific reports threaten global cooperation on tackling the crisis, one of the world’s leading climate scientists has warned. Johan Rockström, the director of the Potsdam Institute for Climate Impact Research, said the world’s leading body of climate scientists, the Intergovernmental Panel on Climate Change, must be allowed to work as quickly as possible on its next comprehensive assessment of global knowledge of the climate systems . Continue reading..."
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Tolu Adeoye",
+      "title": "Elephant & Castle traders 'shut out' of new centre",
+      "description": "Former shopping centre traders say too few affordable units are on offer at the new £500m site.",
+      "url": "https://www.bbc.co.uk/news/articles/c5gm3ylmj0xwo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e713/live/46ceae00-e38d-11f1-99b6-a35a62fa4264.jpg",
+      "publishedAt": "2026-11-19T05:53:05Z",
+      "content": "Samuel Botchway ran laptop and phone repair shop Sam Computer Lab in the old centre, was among those evicted in 2020 and wants to return.\r\n\"Most of us now, we are struggling to pay the bills. \r\n\"I wa… [+464 chars]"
     },
     {
       "source": {
@@ -236,12 +834,51 @@
         "name": "BBC News"
       },
       "author": null,
+      "title": "India's religious make-up - what a new Pew study says about Hindus and Muslims",
+      "description": "India will remain predominantly Hindu, though its Muslim population is projected to grow faster, according to a new survey.",
+      "url": "https://www.bbc.co.uk/news/articles/cqd01epyrz1do",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fde6/live/889408a0-e250-11f1-ad39-a14279638f62.jpg",
+      "publishedAt": "2026-11-19T00:38:52Z",
+      "content": "It tracks seven religious groups between 2020 and 2070, assuming recent demographic trends continue. Using census and survey data, it establishes each group's size and age profile in 2020, and factor… [+1404 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "George Sandeman",
+      "title": "Is your child lying to you? That might not be a bad thing",
+      "description": "Parents may be annoyed when their kids lie but experts explain why it is part of their development.",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg2mp0de2jo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1c92/live/965cda20-e273-11f1-99a1-253766e7ad8b.jpg",
+      "publishedAt": "2026-11-19T00:12:57Z",
+      "content": "The mum-of-three recalls one occasion when her eldest son borrowed his brother's bike and broke it after crashing it into a car. Initially, he tried to lie about what happened.\r\n\"I said to him, 'You'… [+884 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
       "title": "The seven Anthropic founders who are about to become multi-billionaires",
       "description": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
       "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
       "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f70c/live/7ee6d930-e346-11f1-99aa-0f40b013ad11.jpg",
       "publishedAt": "2026-11-18T23:42:07Z",
       "content": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich."
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Kali Hays, Samira Hussain",
+      "title": "Claude-maker Anthropic poised for $1.4tn stock market debut",
+      "description": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
+      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg",
+      "publishedAt": "2026-11-18T23:36:04Z",
+      "content": "Anthropic is poised to hit a value of at least $1.4 trillion (£1.1 trillion) when it debuts on the public stock market.\r\nThe artificial intelligence (AI) company behind the popular chatbot Claude sai… [+2894 chars]"
     },
     {
       "source": {
@@ -255,6 +892,292 @@
       "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8e9/live/3c97d280-e38e-11f1-bc86-33d7d6275eba.jpg",
       "publishedAt": "2026-11-18T20:29:18Z",
       "content": "Entire neighbourhoods remain under water as disruptions impact schools, roads, hospitals and airports."
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Melody Schreiber",
+      "title": "Senate committee rejects Trump nominee to lead National Science Foundation",
+      "description": "Committee chair Bill Cassidy, a Republican, said Jim O’Neill ‘did not do enough to stand up for science’ in previous posts Jim O’Neill will not undergo a confirmation hearing on Wednesday to head he National Science Foundation (NSF) because he “did not do enough to stand up for science” in his previous position, said Bill Cassidy, a Republican from Louisiana who is chair of the Senate committee on health, education, labor and pensions. This ends O’Neill’s run for the top US scientific organization, an embattled independent federal agency that has seen major budget cuts and grant freezes under the Trump administration . The next NSF nominee will face a Democratic-led Senate. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/nov/18/trump-national-science-foundation-nominee",
+      "urlToImage": "https://i.guim.co.uk/img/media/5d438907b5a800f954658ec6bbd4a935fef933b8/333_0_3334_2667/master/3334.jpg?width=140&quality=85&auto=format&fit=max&s=e05808206ced07032730f19b61799917",
+      "publishedAt": "2026-11-18T17:46:34Z",
+      "content": "Committee chair Bill Cassidy, a Republican, said Jim O’Neill ‘did not do enough to stand up for science’ in previous posts Jim O’Neill will not undergo a confirmation hearing on Wednesday to head he National Science Foundation (NSF) because he “did not do enough to stand up for science” in his previous position, said Bill Cassidy, a Republican from Louisiana who is chair of the Senate committee on health, education, labor and pensions. This ends O’Neill’s run for the top US scientific organization, an embattled independent federal agency that has seen major budget cuts and grant freezes under the Trump administration . The next NSF nominee will face a Democratic-led Senate. Continue reading..."
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Sophie Hurcom",
+      "title": "Prem opens registration for expansion to 12 teams",
+      "description": "Prem Rugby opens a registration process for teams to apply with the aim of expanding the league to 12 clubs for the 2029-30 season.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cje39nwzryw3o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/22d1/live/e971c500-e367-11f1-9f51-4bfc31543510.jpg",
+      "publishedAt": "2026-11-18T16:46:45Z",
+      "content": "Massie-Taylor is currently in the United States along with Charlotte Samuelson, Prem chief operating officer, and representatives of investment group CVC, who own a minority stake in the league, meet… [+1600 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Tyrone Smith",
+      "title": "Pressley calls for national centre to enhance Scottish game",
+      "description": "Scotland would benefit from the creation of a national football centre, argues Dundee head coach Steven Pressley, who likens the current structure of the game to building on sand.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmvg28v270yzo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/759f/live/82b10c50-e361-11f1-a898-e7da1c1ebbf0.jpg",
+      "publishedAt": "2026-11-18T15:07:43Z",
+      "content": "Scotland would benefit from the creation of a national football centre, argues Dundee head coach Steven Pressley, who likens the current structure of the game to building on sand.\r\nThe health of Scot… [+1292 chars]"
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Kim Heacox",
+      "title": "After 49 years, Nasa’s Voyager 1 is one light-day away from us. Can we save this ‘pale blue dot’? | Kim Heacox",
+      "description": "Since the spacecraft’s 1977 launch, our wonderful and terrible species has done great damage to our planet. Voyager has offered us a clear view of ourselves Imagine traveling nonstop for 49 years, alone in the dark with no destination in sight, powered by curiosity and engineering. Further imagine making that journey not at bullet train or jet plane speed, but much faster: at 37,800 miles per hour, free from friction in a vast sea of cold, soundless space, bombarded by radiation and cosmic rays yet still able to communicate with folks back home. Continue reading...",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/18/nasa-voyager-1-pale-blue-dot",
+      "urlToImage": "https://i.guim.co.uk/img/media/dc0fad56b1b1eaa91b8cd09ea4c2a7af3e4071b3/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=a63735a142422cc4d915598f5e169a7c",
+      "publishedAt": "2026-11-18T11:00:56Z",
+      "content": "Since the spacecraft’s 1977 launch, our wonderful and terrible species has done great damage to our planet. Voyager has offered us a clear view of ourselves Imagine traveling nonstop for 49 years, alone in the dark with no destination in sight, powered by curiosity and engineering. Further imagine making that journey not at bullet train or jet plane speed, but much faster: at 37,800 miles per hour, free from friction in a vast sea of cold, soundless space, bombarded by radiation and cosmic rays yet still able to communicate with folks back home. Continue reading..."
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Presented by Madeleine Finlay , produced by Madeleine Finlay and Joshan Chana , graphics by Natalie Gegan",
+      "title": "Nasa’s Voyager 1 just reached a massive milestone in space - video",
+      "description": "Nasa sent the Voyager 1 and 2 probes into space almost 50 years ago to explore the outer reaches of our solar system. Now Voyager 1, the farthest human-made object from Earth, is about to reach a distance of one light-day away from our planet. To find out more about its astonishing journey, Madeleine Finlay hears from Jim Bell, a planetary scientist and professor at Arizona State University’s school of Earth and space exploration. He explains the seismic impact the mission has had on our understanding of the solar system, and where Voyager 1 could be heading now it has left the heliosphere Continue reading...",
+      "url": "https://www.theguardian.com/science/video/2026/nov/18/nasas-voyager-1-just-reached-a-massive-milestone-in-space-video",
+      "urlToImage": "https://i.guim.co.uk/img/media/14863ccc4648286512010dada9efe720242720ab/0_0_2000_1600/master/2000.jpg?width=140&quality=85&auto=format&fit=max&s=ecd6e07f6c5df78c0c26961d0d790b48",
+      "publishedAt": "2026-11-18T10:39:51Z",
+      "content": "Nasa sent the Voyager 1 and 2 probes into space almost 50 years ago to explore the outer reaches of our solar system. Now Voyager 1, the farthest human-made object from Earth, is about to reach a distance of one light-day away from our planet. To find out more about its astonishing journey, Madeleine Finlay hears from Jim Bell, a planetary scientist and professor at Arizona State University’s school of Earth and space exploration. He explains the seismic impact the mission has had on our understanding of the solar system, and where Voyager 1 could be heading now it has left the heliosphere Continue reading..."
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Rory Carroll Ireland correspondent",
+      "title": "Body found in Derry bog decapitated more than 2,000 years ago, coroner finds",
+      "description": "Inquest-style inquiry concludes iron age remains are of 15- to 22-year-old female who may have been ritually sacrificed A coroner’s investigation into Northern Ireland ’s most venerable cold case has concluded that the victim was decapitated more than 2,000 years ago. The inquest-style inquiry determined that Ballymacombs More Woman – the name given to iron age remains found in a County Derry bog three years ago – was between 15 and 22 years old when she was beheaded from behind with a bladed weapon. Continue reading...",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/18/ballymacombs-more-woman-derry-bog-decapitated-2000-years-ago",
+      "urlToImage": "https://i.guim.co.uk/img/media/1254c03014b10a8e18a804f40e4827cc74b580fe/96_0_3547_2837/master/3547.jpg?width=140&quality=85&auto=format&fit=max&s=553c991f0045f64135610c21c47ada0b",
+      "publishedAt": "2026-11-18T08:00:36Z",
+      "content": "Inquest-style inquiry concludes iron age remains are of 15- to 22-year-old female who may have been ritually sacrificed A coroner’s investigation into Northern Ireland ’s most venerable cold case has concluded that the victim was decapitated more than 2,000 years ago. The inquest-style inquiry determined that Ballymacombs More Woman – the name given to iron age remains found in a County Derry bog three years ago – was between 15 and 22 years old when she was beheaded from behind with a bladed weapon. Continue reading..."
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Gareth Griffiths",
+      "title": "Wales show they have bench impact in All Blacks win",
+      "description": "Wales made a record amount of tackles in the win against New Zealand, with contributions from the whole squad.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm4gnp53x9rzo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/5463/live/bab34c80-e280-11f1-b166-176de21e2352.png",
+      "publishedAt": "2026-11-18T06:14:11Z",
+      "content": "Thomas has been Wales' third-choice loose-head in recent times behind Nicky Smith and Rhys Carre.\r\nHe found himself promoted to the bench last Saturday, with Smith starting and Carre left out of the … [+1286 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Michael Race",
+      "title": "How important are Nvidia and Jensen Huang to the US economy?",
+      "description": "The former Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+      "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8241/live/e3e3a9c0-e2a7-11f1-8226-87dfa5049e9a.jpg",
+      "publishedAt": "2026-11-18T06:04:21Z",
+      "content": "Nvidia and its co-founder Jensen Huang have been at the centre of the Artificial Intelligence (AI) spending boom.\r\nNo company or chief executive has arguably been more consequential to the developmen… [+2390 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Katy Prickett",
+      "title": "'Human' is Cambridge Dictionary Word of the Year",
+      "description": "The growth of AI means we need to say when something is made by humans, says the book's editor.",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2ev38k4yno",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9606/live/60cdf4b0-e274-11f1-99b6-a35a62fa4264.jpg",
+      "publishedAt": "2026-11-18T05:39:39Z",
+      "content": "\"Human\" is the Cambridge Dictionary's Word of the Year defined as \"having the qualities, faults, and feelings that people have, as opposed to gods, animals, or machines\".\r\n\"The growth of AI means it … [+1344 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Watch: Marco Rubio says recent tech outages are 'completely unrelated' to one another",
+      "description": "Microsoft, major US banks, Apple and Air Traffic authorities have been hit over recent days by tech glitches.",
+      "url": "https://www.bbc.co.uk/news/videos/cx1l0vm87yl9o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/493a/live/9d5c2350-e30c-11f1-99a1-253766e7ad8b.jpg",
+      "publishedAt": "2026-11-18T05:10:02Z",
+      "content": "Recent tech outages across the US are \"completely unrelated\" to one another, US Secretary of State Marco Rubio has said.\r\nMicrosoft outlook went down for nearly an entire day, a tech glitch briefly g… [+466 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Claire Keenan",
+      "title": "Security flaw found in Java, world's third-largest programming language",
+      "description": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programmes.",
+      "url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d641/live/9437db30-e30b-11f1-99b6-a35a62fa4264.jpg",
+      "publishedAt": "2026-11-18T05:03:38Z",
+      "content": "A cyber-security company has used artificial intelligence (AI) to uncover a security flaw in the hugely popular computer language program Java. \r\nThe tech start-up Calif which recently identified a c… [+4317 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Simon Atkinson, Tiffanie Turnbull",
+      "title": "Cricket Australia sets up 'safe space' for players to share sandpapergate experiences",
+      "description": "The 2018 scandal has resurfaced this month after Usman Khawaja claimed the entire team knew about the cheating plot.",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/c58j48elrwvyo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/1f06/live/70d8cee0-e303-11f1-ab28-8b9b038f8766.jpg",
+      "publishedAt": "2026-11-18T03:52:56Z",
+      "content": "An expedited investigation at the time found three players knew about the plan: captain Steve Smith, vice-captain David Warner and fellow batter Cameron Bancroft. They all faced lengthy bans.\r\nHoweve… [+1612 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Max Matza",
+      "title": "Irishman charged with destroying US military aircraft with axe",
+      "description": "The $60m (£45m) plane was destroyed in an hours-long raid by an anti-war protester, according to the FBI.",
+      "url": "https://www.bbc.co.uk/news/articles/cwd01jjl5zzzo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/60e7/live/998637c0-e2ee-11f1-8fb4-dbb4511af007.jpg",
+      "publishedAt": "2026-11-18T02:00:37Z",
+      "content": "US officials have charged an Irishman with destroying a $60m (£45m) American military aircraft after he allegedly snuck onto the tarmac of an airport in Ireland. \r\nDaithi O'Corrain, 48, is accused of… [+2218 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Annabel Rackham",
+      "title": "Largest British study to check social media ban's effect on youth mental health",
+      "description": "Ten different research teams will look at how well teenagers are coping without social media.",
+      "url": "https://www.bbc.co.uk/news/articles/cm0evw0d2wq4o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/02cd/live/6ddfb5f0-e2bd-11f1-a094-5fdc692f3e33.jpg",
+      "publishedAt": "2026-11-18T00:49:31Z",
+      "content": "The work, funded by health charity The Wellcome Trust, will help inform future online safety policies in the UK and internationally, with some early results available before the ban happens. \r\nResear… [+1276 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Miho Tanaka",
+      "title": "Government risks missing climate targets if EV rules weakened, adviser warns",
+      "description": "The UK could miss legally binding climate targets if EV targets are cut, an adviser warns",
+      "url": "https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/36bf/live/43e4a6f0-e29c-11f1-8dda-8925a81c3da5.jpg",
+      "publishedAt": "2026-11-18T00:44:48Z",
+      "content": "The UK is likely to miss legally binding climate targets if the government reduces electric vehicle (EV) targets, independent adviser the Climate Change Committee (CCC) has warned.\r\nIn a letter to Tr… [+1736 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Steffan Messenger, Lucy Ballinger",
+      "title": "I want to know if toxic lagoon fire caused my husband's rare deadly cancer",
+      "description": "Steve Williams died of lung cancer 14 years after falling in to a lake at a toxic waste dump fire.",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y2e4qd9yo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c13f/live/e2d77640-e26d-11f1-b19c-7b42f37bea48.jpg",
+      "publishedAt": "2026-11-17T22:02:03Z",
+      "content": "The council said it took \"its responsibilities for protecting public health and the environment extremely seriously\" and had carried out \"extensive investigations over many years\" into the Llwyneinio… [+1461 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Aleem Maqbool",
+      "title": "Church of England should protect 'every belief', King says",
+      "description": "King Charles III was speaking at the opening of General Synod, the Church of England's national assembly",
+      "url": "https://www.bbc.co.uk/news/articles/cwy80x44vxk7o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/54d5/live/44d27670-e2a9-11f1-8226-87dfa5049e9a.jpg",
+      "publishedAt": "2026-11-17T19:29:44Z",
+      "content": "King Charles has said the Church of England does not just protect the Christian faith, but also the space \"for every belief\" within British society.\r\nHe was speaking in his role as Supreme Governor o… [+1454 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Alba Morgade, Paul Kirby",
+      "title": "Who to watch in Spain's election race",
+      "description": "Spain votes on 29 November, with the conservatives and the far right favourites to win after eight years of Socialist-led rule.",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/35a3/live/3ec32a00-df88-11f1-a5d4-0b20a170e974.jpg",
+      "publishedAt": "2026-11-17T18:13:45Z",
+      "content": "Isabel Díaz Ayuso, 48, has been president of the Madrid region since 2019 and has become one of the most influential figures within the People's Party. She leads one of the PP's strongest electoral b… [+1727 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Oysters breeding in firth for first time in more than 100 years",
+      "description": "The shellfish are believed to have been fished to extinction in the Dornoch Firth.",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y18npxggpo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3798/live/f674e850-e294-11f1-8dda-8925a81c3da5.jpg",
+      "publishedAt": "2026-11-17T15:08:38Z",
+      "content": "Prof Bill Sanderson said: \"When we began Deep 12 years ago, it was among the first native European oyster restoration projects, so we have been trailblazing all the way.\r\n\"The oysters here are now re… [+646 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Mike Henson",
+      "title": "England stars to help launch Moody MND challenge at All Blacks clash",
+      "description": "Lewis Moody says he has been buoyed by the current England team's support as he launches his latest challenge in aid of Motor Neurone Disease (MND) research.",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmlywv05zqzwo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2f2c/live/f6e06740-e287-11f1-b5d8-418a23bac683.jpg",
+      "publishedAt": "2026-11-17T13:30:53Z",
+      "content": "Lewis Moody says he has been buoyed by the England team's support as he launches his latest challenge in aid of Motor Neurone Disease (MND) research at Saturday's match against New Zealand at Allianz… [+1949 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Isabella Boneham",
+      "title": "MP to challenge 'ill-thought' Shakespeare move",
+      "description": "Manuela Perteghella said the decision to move the Institute to Birmingham is 'shocking'.",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wgejy5qq8o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e983/live/c903f930-e283-11f1-b166-176de21e2352.png",
+      "publishedAt": "2026-11-17T12:29:02Z",
+      "content": "The MP for Stratford-upon-Avon has described plans to move the Shakespeare Institute to Birmingham as \"ill-thought\" and \"shocking\".\r\nThe postgraduate research institute is due to leave its historic h… [+1018 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "Kumail Jaffer",
+      "title": "London falling behind EU capitals on air pollution",
+      "description": "Analysis finds London is falling behind major European cities when it comes to reducing air pollution.",
+      "url": "https://www.bbc.co.uk/news/articles/cmd91xw33g1eo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6323/live/5015fd40-e277-11f1-ad71-0bc71faa76c4.jpg",
+      "publishedAt": "2026-11-17T12:13:41Z",
+      "content": "London is far behind other major European cities such as Copenhagen, Berlin and Brussels when it comes to clean air, new research has revealed.\r\nAnalysis from Clean Cities places Greater London 16th … [+2615 chars]"
     },
     {
       "source": {
@@ -274,13 +1197,13 @@
         "id": "bbc-news",
         "name": "BBC News"
       },
-      "author": null,
-      "title": "Pupils fascinated by space get astronomy lesson",
-      "description": "Pupils at First Tower School get a visit from a University of Cambridge astronomer.",
-      "url": "https://www.bbc.co.uk/news/articles/c67428w9vvkqo?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36ed/live/38190870-df6d-11f1-8112-6b9154c79b48.jpg",
-      "publishedAt": "2026-11-16T06:11:42Z",
-      "content": "Pupils at First Tower School get a visit from a University of Cambridge astronomer."
+      "author": "Osmond Chia",
+      "title": "How new US chip restrictions on South East Asia will hit China",
+      "description": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
+      "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bfea/live/8fbafe20-e225-11f1-ae7e-97d0d3a43181.jpg",
+      "publishedAt": "2026-11-17T10:22:09Z",
+      "content": "As US President Donald Trump heads to China, his adminisration has renewed efforts to curb Beijing's access to advanced semiconductors.\r\nOn Monday, Washington announced new interim rules that will in… [+1235 chars]"
     },
     {
       "source": {
@@ -288,12 +1211,25 @@
         "name": "BBC News"
       },
       "author": null,
-      "title": "SpaceX catches part of its Starship rocket on return to Earth",
-      "description": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
-      "url": "https://www.bbc.co.uk/news/videos/cw23j8pkk421o?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad8a/live/4ee27b50-e07f-11f1-ad8f-c7361b83fb03.jpg",
-      "publishedAt": "2026-11-14T23:15:10Z",
-      "content": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\"."
+      "title": "'Whale snot' drones used to collect DNA from blowhole spout",
+      "description": "Researchers from the University of St Andrews flew drones into whale blowhole exhalations to collect genetic information.",
+      "url": "https://www.bbc.co.uk/news/articles/cm36gej8yyd4o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a782/live/764f1450-e26e-11f1-b19c-7b42f37bea48.jpg",
+      "publishedAt": "2026-11-17T10:09:10Z",
+      "content": "Prior to the University of St Andrews project, only one North Pacific humpback whole genome was publicly available.\r\nDr O'Mahony, who led the project, described the research as a world first.\r\n\"We wi… [+521 chars]"
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Susanna Rustin",
+      "title": "Would more hands-on dads create a more peaceful world? This pioneering scientist thinks so",
+      "description": "Sarah Blaffer Hrdy unpicked Darwinian sexism to rewrite the story of evolution. Now, she’s turned her attention to the nature of fatherhood ‘Spit here, dear,” Sarah Blaffer Hrdy said to her husband, Dan, handing him a vial when he arrived in New York after the birth of the couple’s first grandchild. It was 2014 and Hrdy was conducting an experiment. Having recorded a 63% jump in oxytocin in her saliva after spending hours cuddling the baby, she wanted to find out if something similar would happen to his hormones. It did, although it took a day longer. In her latest book, Father Time: A Natural History of Men and Babies , Hrdy records with justified pride that “this was the first time anyone had demonstrated a bump in oxytocin levels among doting grandparents”. Continue reading...",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/17/would-more-hands-on-dads-create-a-more-peaceful-world-this-pioneering-scientist-thinks-so",
+      "urlToImage": "https://i.guim.co.uk/img/media/40c0c920738f41915f503bc0fa668bb53b5043d9/1513_352_3221_2577/master/3221.jpg?width=140&quality=85&auto=format&fit=max&s=84d70fa115ac14ba21e008f31480f58f",
+      "publishedAt": "2026-11-17T10:00:10Z",
+      "content": "Sarah Blaffer Hrdy unpicked Darwinian sexism to rewrite the story of evolution. Now, she’s turned her attention to the nature of fatherhood ‘Spit here, dear,” Sarah Blaffer Hrdy said to her husband, Dan, handing him a vial when he arrived in New York after the birth of the couple’s first grandchild. It was 2014 and Hrdy was conducting an experiment. Having recorded a 63% jump in oxytocin in her saliva after spending hours cuddling the baby, she wanted to find out if something similar would happen to his hormones. It did, although it took a day longer. In her latest book, Father Time: A Natural History of Men and Babies , Hrdy records with justified pride that “this was the first time anyone had demonstrated a bump in oxytocin levels among doting grandparents”. Continue reading..."
     },
     {
       "source": {
@@ -301,156 +1237,78 @@
         "name": "BBC News"
       },
       "author": null,
-      "title": "SpaceX successfully catches top of huge Starship rocket for first time",
-      "description": "The rocket stage was caught mid air using huge mechanical arms nicknamed \"chopsticks\".",
-      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7be/live/5c1b5060-e077-11f1-9ec0-713bf094c3d1.png",
-      "publishedAt": "2026-11-14T22:15:52Z",
-      "content": "The rocket stage was caught mid air using huge mechanical arms nicknamed \"chopsticks\"."
+      "title": "Inside Health",
+      "description": "Black Friday and Christmas shoppers are warned fake cosmetics can contain toxic chemicals.",
+      "url": "https://www.bbc.co.uk/sounds/play/m00349fg?at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p0m1r8h6.jpg",
+      "publishedAt": "2026-11-17T10:00:00Z",
+      "content": "Available for over a year\r\nShopping in a cost of living crisis means more of us are looking for bargains. But ahead of Black Friday and the Christmas shopping rush, experts are warning consumers to b… [+1416 chars]"
     },
     {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
-      "author": null,
-      "title": "BBC Inside Science",
-      "description": "China: climate saviour or global villain?",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct978l?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg",
-      "publishedAt": "2026-11-12T21:00:00Z",
-      "content": "China: climate saviour or global villain?"
+      "author": "Jo Wade",
+      "title": "How and when to see the peak of the Leonid meteor shower",
+      "description": "The Leonid meteor shower, known for its bright and fast meteors, is set to peak on Tuesday night.",
+      "url": "https://www.bbc.co.uk/weather/articles/c6742xzg3eljo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/52ad/live/8061a130-e1b8-11f1-9a3f-99aca912798e.jpg",
+      "publishedAt": "2026-11-17T08:01:47Z",
+      "content": "Experts advise finding a safe, dark location away from sources of light pollution such as street lights.\r\nThe meteors will be visible with the naked eye, with no binoculars or telescope required.\r\nHo… [+623 chars]"
     },
     {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
-      "author": null,
-      "title": "The superpower battle over energy – and what it means for your bills",
-      "description": "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?",
-      "url": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b1f/live/f53bf9d0-dc57-11f1-b441-2b33b063138f.jpg",
-      "publishedAt": "2026-11-10T00:08:28Z",
-      "content": "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?"
+      "author": "Amy Clarke",
+      "title": "Met says sex workers more willing to report crimes",
+      "description": "A trust-building pilot was launched by the force that has faced criticism over failings linked to the Simon Levy case.",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgm84xrp70o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2bf4/live/8bef8280-c7df-11f1-9a39-31b474234113.jpg",
+      "publishedAt": "2026-11-17T06:11:00Z",
+      "content": "Supt Rob Gibbs said women involved in street-based sex work were \"among the most vulnerable people in our communities\".\r\nHe said: \"Many have endured years of violence, exploitation and abuse while fe… [+2164 chars]"
+    },
+    {
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "author": "Presented and produced by Madeleine Finlay, sound design by Joel Cox, the executive producer was Ellie Bury",
+      "title": "Nasa’s Voyager 1 probe in sight of an incredible milestone – podcast",
+      "description": "Nasa sent the Voyager 1 and 2 probes into space almost 50 years ago to explore the outer reaches of our solar system. Now Voyager 1, the farthest human-made object from Earth, is about to reach a distance of one light-day away from our planet. To find out more about its astonishing journey, Madeleine Finlay hears from Jim Bell, a planetary scientist and professor at Arizona State University’s school of Earth and space exploration. He explains the seismic impact the mission has had on our understanding of the solar system, and where Voyager 1 could be heading now it has left the heliosphere Support the Guardian: theguardian.com/sciencepod Continue reading...",
+      "url": "https://www.theguardian.com/science/audio/2026/nov/17/nasa-voyager-1-probe-incredible-milestone-podcast",
+      "urlToImage": "https://i.guim.co.uk/img/media/8954e2e4d0145706637eee857c8558065c569427/93_0_2415_1931/master/2415.jpg?width=140&quality=85&auto=format&fit=max&s=7238af314d473e09be4e288283308217",
+      "publishedAt": "2026-11-17T05:00:04Z",
+      "content": "Nasa sent the Voyager 1 and 2 probes into space almost 50 years ago to explore the outer reaches of our solar system. Now Voyager 1, the farthest human-made object from Earth, is about to reach a distance of one light-day away from our planet. To find out more about its astonishing journey, Madeleine Finlay hears from Jim Bell, a planetary scientist and professor at Arizona State University’s school of Earth and space exploration. He explains the seismic impact the mission has had on our understanding of the solar system, and where Voyager 1 could be heading now it has left the heliosphere Support the Guardian: theguardian.com/sciencepod Continue reading..."
     },
     {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
-      "author": null,
-      "title": "BBC Inside Science",
-      "description": "A glimpse into the world of the incredibly tiny",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct978k?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg",
-      "publishedAt": "2026-11-05T21:00:00Z",
-      "content": "A glimpse into the world of the incredibly tiny"
+      "author": "Nikhil Inamdar",
+      "title": "The AI start-ups fixing India's broken roads and messy land records",
+      "description": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.",
+      "url": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/886f/live/a4a715f0-c892-11f1-b0a4-81e564f1cfaa.jpg",
+      "publishedAt": "2026-11-16T23:25:53Z",
+      "content": "The app is among a burgeoning list of Indian start-ups trying to address some of India's most complex challenges in sectors ranging from legal-tech to healthcare, infrastructure, education and agricu… [+3321 chars]"
     },
     {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
-      "author": null,
-      "title": "BBC Inside Science",
-      "description": "Time is running out for one of the most ambitious environmental pledges in history.",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct978j?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg",
-      "publishedAt": "2026-10-29T21:00:00Z",
-      "content": "Time is running out for one of the most ambitious environmental pledges in history."
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "A bust-up between mathematicians is fuelling fears that AI could undermine science",
-      "description": "AI has made some awesome scientific discoveries. But now, questions are being raised about its accuracy",
-      "url": "https://www.bbc.co.uk/news/articles/c6gelgxjwzdzo?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1f6/live/c49501d0-cdf4-11f1-a64c-550be9e3c66b.jpg",
-      "publishedAt": "2026-10-28T01:01:02Z",
-      "content": "AI has made some awesome scientific discoveries. But now, questions are being raised about its accuracy"
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Part of Antarctica named after former BBC science correspondent",
-      "description": "A stretch of water in the west of the continent is now called the Amos Channel after the ex-BBC journalist.",
-      "url": "https://www.bbc.co.uk/news/articles/ckvg7w919x09o?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85dc/live/45574340-ce23-11f1-9f18-490cec60aa0f.jpg",
-      "publishedAt": "2026-10-26T14:54:40Z",
-      "content": "A stretch of water in the west of the continent is now called the Amos Channel after the ex-BBC journalist."
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Mission blasts off for Mars to grab a piece of its moon",
-      "description": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
-      "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f0e/live/0a4e2af0-cbff-11f1-bc2e-018d645d8d21.jpg",
-      "publishedAt": "2026-10-19T19:45:46Z",
-      "content": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth."
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "World's oldest shipwreck found off coast of Turkey",
-      "description": "Archaeologists say the wreck is up to 4,700 years old, dating to the Early Bronze Age.",
-      "url": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19d5/live/72e7aa00-c71d-11f1-a82f-35874a3aae81.jpg",
-      "publishedAt": "2026-10-14T05:00:35Z",
-      "content": "Archaeologists say the wreck is up to 4,700 years old, dating to the Early Bronze Age."
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "How cleaning up the air is speeding up global warming - and revealing a bigger problem",
-      "description": "A curious online row over this summer's heatwaves points to a wider - and worrying - shift in climate science.",
-      "url": "https://www.bbc.co.uk/news/articles/c20917w25n4o?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88c3/live/6d5a64f0-ac39-11f1-bc1f-3f186ca4140c.jpg",
-      "publishedAt": "2026-09-08T23:11:52Z",
-      "content": "A curious online row over this summer's heatwaves points to a wider - and worrying - shift in climate science."
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "How the UK's extreme heat is shifting the conversation about air-con",
-      "description": "Should we embrace air conditioning despite its costs and consequences?",
-      "url": "https://www.bbc.co.uk/news/articles/cy5dw4plzvlo?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/555e/live/7e207690-8b4f-11f1-b8ee-9b3c26ad07bb.jpg",
-      "publishedAt": "2026-07-29T23:33:01Z",
-      "content": "Should we embrace air conditioning despite its costs and consequences?"
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "The hidden cost of the night shift and how to sleep it off",
-      "description": "More than three million people in the UK work night shifts, which can greatly impact their health. What can be done to help them?",
-      "url": "https://www.bbc.co.uk/news/articles/cp9errxl97go?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b5c/live/1c3f9550-8064-11f1-926f-c90d1bcfbc84.jpg",
-      "publishedAt": "2026-07-19T00:01:55Z",
-      "content": "More than three million people in the UK work night shifts, which can greatly impact their health. What can be done to help them?"
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Forensic expert says his analysis raises doubts about how Epstein died",
+      "description": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
+      "url": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f4ce/live/59eafa00-e1c3-11f1-8a52-0b287ff76f43.jpg",
+      "publishedAt": "2026-11-16T18:57:48Z",
+      "content": "This article contains distressing details and references to suicide \r\nA forensic expert has said he believes that convicted sex offender Jeffery Epstein's death in prison was the result of a homicide… [+3742 chars]"
     }
   ],
-  "query": "science research discovery space"
+  "query": "science OR research OR discovery OR space OR astronomy"
 }

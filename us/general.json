@@ -1,32 +1,71 @@
 {
   "status": "ok",
-  "totalResults": 45,
+  "totalResults": 63,
   "articles": [
     {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Bernard Mokam and Georgia Gee",
-      "title": "Delta Delays Flights as Thanksgiving Travel Begins, After Automated System Falters",
-      "description": "The system that faltered is used to calculate the weight and balance of departing flights. The disruptions came after a nationwide ground stop that canceled thousands of flights last weekend.",
-      "url": "https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/22/multimedia/22nat-delta-outage2-bzlp/22nat-delta-outage2-bzlp-mediumSquareAt3X-v4.jpg",
-      "publishedAt": "2026-11-22T21:14:10Z",
-      "content": "The system that faltered is used to calculate the weight and balance of departing flights. The disruptions came after a nationwide ground stop that canceled thousands of flights last weekend."
+      "author": "Jonathan Swan, Julian E. Barnes and Maggie Haberman",
+      "title": "U.S. Tracked Alice Huang’s Contacts With China Spy Agency During Nvidia Affair",
+      "description": "U.S. intelligence is said to show that the woman at the heart of the A.I. chip scandal was in touch with China’s Ministry of State Security during the period when she was in a relationship with Jensen Huang.",
+      "url": "https://www.nytimes.com/2026/11/22/us/politics/alice-huang-china-spy-agency-nvidia.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/22/multimedia/22dc-spy-chip-fpvj/22dc-spy-chip-fpvj-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-23T02:17:16Z",
+      "content": "U.S. intelligence is said to show that the woman at the heart of the A.I. chip scandal was in touch with China’s Ministry of State Security during the period when she was in a relationship with Jensen Huang."
+    },
+    {
+      "source": {
+        "id": "npr-news",
+        "name": "NPR News"
+      },
+      "author": "Chandelis Duster",
+      "title": "Do not feed the animals. Vets explain why hats, coins and shoes can be deadly.",
+      "description": "It's not easy to retrieve foreign objects from animals once ingested. Some things can be grabbed using an endoscope. But if an item gets far into the intestinal tract, surgery isn't always possible.",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6049723/do-not-feed-the-animals-vets-explain-why-hats-coins-and-shoes-can-be-deadly",
+      "urlToImage": null,
+      "publishedAt": "2026-11-23T01:53:48Z",
+      "content": "It's not easy to retrieve foreign objects from animals once ingested. Some things can be grabbed using an endoscope. But if an item gets far into the intestinal tract, surgery isn't always possible."
     },
     {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "John Yoon",
-      "title": "Democrat Chuck Hubbard Defeats 11-Term Republican Virginia Foxx in North Carolina",
-      "description": "Chuck Hubbard, a retired journalist, defeated Representative Virginia Foxx in a conservative district.",
-      "url": "https://www.nytimes.com/2026/11/22/us/virginia-foxx-chuck-hubbard-north-carolina-house.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/12/multimedia/00pol-hfo-NC-5-01-tklh/00pol-hfo-NC-5-01-tklh-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-22T18:37:10Z",
-      "content": "Chuck Hubbard, a retired journalist, defeated Representative Virginia Foxx in a conservative district."
+      "author": "Ephrat Livni",
+      "title": "Israeli Political Leaders Denounce ‘Jewish Terrorism’ After West Bank Attacks",
+      "description": "Extremist settlers carried out a spate of violent raids in Palestinian villages over the weekend, spurring opponents of the Netanyahu government to demand a forceful response.",
+      "url": "https://www.nytimes.com/2026/11/22/world/middleeast/israeli-political-leaders-decry-jewish-terrorism-after-west-bank-attacks.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-westbank-settler-violence01-photo-vqmk/22int-westbank-settler-violence01-photo-vqmk-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-23T01:32:02Z",
+      "content": "Extremist settlers carried out a spate of violent raids in Palestinian villages over the weekend, spurring opponents of the Netanyahu government to demand a forceful response."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Maria Abi-Habib",
+      "title": "Is Mexico Stepping Up in the War on Drugs?",
+      "description": "With several powerful drug kingpins recently taken down by Mexican forces, some experts see what may be a new chapter beginning in Mexico.",
+      "url": "https://www.nytimes.com/2026/11/22/world/americas/mexico-us-cartel-arrests.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-mexico-analysis01a-photo-wkjz/22int-mexico-analysis01a-photo-wkjz-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-23T01:26:59Z",
+      "content": "With several powerful drug kingpins recently taken down by Mexican forces, some experts see what may be a new chapter beginning in Mexico."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Bayliss Wagner",
+      "title": "Why Democrat Abdul El-Sayed is Talking Up ‘TrumpCare’",
+      "description": "Senator-elect Abdul El-Sayed’s pitch for working together to enact universal health care illustrates how some newly elected Democrats are approaching the president.",
+      "url": "https://www.nytimes.com/2026/11/22/us/politics/el-sayed-trump-health-care.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/22/multimedia/22pol-el-sayed-trump-flpb/22pol-el-sayed-trump-flpb-mediumSquareAt3X-v2.jpg",
+      "publishedAt": "2026-11-23T00:27:25Z",
+      "content": "Senator-elect Abdul El-Sayed’s pitch for working together to enact universal health care illustrates how some newly elected Democrats are approaching the president."
     },
     {
       "source": {
@@ -38,7 +77,7 @@
       "description": "After sweeping midterm wins, Democrats have secured the largest House majority in a national election for either party in three decades.",
       "url": "https://www.nytimes.com/2026/11/22/us/politics/democrats-midterm-house-majority-record.html",
       "urlToImage": null,
-      "publishedAt": "2026-11-22T18:23:08Z",
+      "publishedAt": "2026-11-22T23:30:08Z",
       "content": "After sweeping midterm wins, Democrats have secured the largest House majority in a national election for either party in three decades."
     },
     {
@@ -46,13 +85,52 @@
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Chico Harlan and Lisa Friedman",
-      "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels",
-      "description": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.",
-      "url": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/22/multimedia/22cli-cop31-final3-fmcb/22cli-cop31-final3-fmcb-mediumSquareAt3X-v2.jpg",
-      "publishedAt": "2026-11-22T18:20:39Z",
-      "content": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas."
+      "author": "John Yoon",
+      "title": "Democrat Chuck Hubbard Defeats 11-Term Republican Virginia Foxx in North Carolina",
+      "description": "Chuck Hubbard, a retired journalist, defeated Representative Virginia Foxx in a conservative district.",
+      "url": "https://www.nytimes.com/2026/11/22/us/virginia-foxx-chuck-hubbard-north-carolina-house.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/12/multimedia/00pol-hfo-NC-5-01-tklh/00pol-hfo-NC-5-01-tklh-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-22T23:28:41Z",
+      "content": "Chuck Hubbard, a retired journalist, defeated Representative Virginia Foxx in a conservative district."
+    },
+    {
+      "source": {
+        "id": "npr-news",
+        "name": "NPR News"
+      },
+      "author": "Rachel Waldholz",
+      "title": "What it's like at a climate conference as talks collapse",
+      "description": "After two weeks of negotiations, international climate talks fail to reach an agreement. NPR's Rachel Waldholz was in Turkey for the conference.",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6050248/what-its-like-at-a-climate-conference-as-talks-collapse",
+      "urlToImage": null,
+      "publishedAt": "2026-11-22T22:40:23Z",
+      "content": "After two weeks of negotiations, international climate talks fail to reach an agreement. NPR's Rachel Waldholz was in Turkey for the conference."
+    },
+    {
+      "source": {
+        "id": "npr-news",
+        "name": "NPR News"
+      },
+      "author": "Alaena Hunt",
+      "title": "Philly festival-goers say pickles are a real big dill",
+      "description": "Influencer and pickle enthusiast Dan Pancoast gives a first hand account of the festivities at the \"The Big Dill\" festival in Philadelphia.",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6038939/philly-festival-goers-say-pickles-are-a-real-big-dill",
+      "urlToImage": null,
+      "publishedAt": "2026-11-22T22:40:19Z",
+      "content": "Influencer and pickle enthusiast Dan Pancoast gives a first hand account of the festivities at the \"The Big Dill\" festival in Philadelphia."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Richard Sandomir",
+      "title": "Donald Hooton Sr., Who Crusaded Against Steroids in Sports, Has Died",
+      "description": "After the suicide of his son, a high school pitcher who used steroids, Donald Hooton Sr. delivered blistering testimony before Congress. He was 76.",
+      "url": "https://www.nytimes.com/2026/11/22/us/donald-hooton-sr-dead.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/18obit-hooton-03-gpht/18obit-hooton-03-gpht-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-22T19:10:04Z",
+      "content": "After the suicide of his son, a high school pitcher who used steroids, Donald Hooton Sr. delivered blistering testimony before Congress. He was 76."
     },
     {
       "source": {
@@ -72,6 +150,32 @@
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
+      "author": "Gregory Schmidt",
+      "title": "Rather Than Sell Their House, They Became Landlords Instead",
+      "description": "Homeowners say the rental income helps them cover their mortgage payments, but they must also learn to handle needed repairs and confront bad tenants.",
+      "url": "https://www.nytimes.com/2026/11/22/business/mortgage-rates-housing-landlords.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/22/multimedia/22biz-accidental-landlords-pzlf/22biz-accidental-landlords-pzlf-mediumSquareAt3X-v2.jpg",
+      "publishedAt": "2026-11-22T18:05:48Z",
+      "content": "Homeowners say the rental income helps them cover their mortgage payments, but they must also learn to handle needed repairs and confront bad tenants."
+    },
+    {
+      "source": {
+        "id": "npr-news",
+        "name": "NPR News"
+      },
+      "author": "Jane Arraf",
+      "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
+      "description": "In a pilot project in a village in southern Lebanon, Israeli forces have left and the Lebanese army moved it. But villagers who return find their houses wrecked.",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes",
+      "urlToImage": null,
+      "publishedAt": "2026-11-22T17:44:52Z",
+      "content": "In a pilot project in a village in southern Lebanon, Israeli forces have left and the Lebanese army moved it. But villagers who return find their houses wrecked."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
       "author": "David French",
       "title": "Why Are We at the Mercy of the World’s Weirdest Men?",
       "description": "No kings isn’t just about Trump.",
@@ -82,55 +186,81 @@
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
+        "id": "npr-news",
+        "name": "NPR News"
       },
-      "author": "Marcus Olang’, Amanda Su and Emma Kumer",
-      "title": "What Does It Actually Mean to Write ‘Like a Human’?",
-      "description": "The hunt for A.I. writing has turned many of us into detectives. A Kenyan writer asks what we’re really looking for.",
-      "url": "https://www.nytimes.com/2026/11/22/opinion/ai-writing-technology-human-colonialism.html",
+      "author": "Kate Bartlett",
+      "title": "Meet the young authors! A literacy program inspires kids in South Africa",
+      "description": "South Africa is working to overcome a children's literacy crisis. In one Johannesburg township, a reading club is instilling a love of books in kids — and inspiring them to become authors.",
+      "url": "https://www.npr.org/2026/11/22/g-s1-154387/books-children-authors-south-africa-literacy",
       "urlToImage": null,
-      "publishedAt": "2026-11-22T17:25:09Z",
-      "content": "The hunt for A.I. writing has turned many of us into detectives. A Kenyan writer asks what we’re really looking for."
+      "publishedAt": "2026-11-22T17:34:20Z",
+      "content": "South Africa is working to overcome a children's literacy crisis. In one Johannesburg township, a reading club is instilling a love of books in kids — and inspiring them to become authors."
+    },
+    {
+      "source": {
+        "id": "npr-news",
+        "name": "NPR News"
+      },
+      "author": "Lauren Sommer",
+      "title": "Climate change talks fall apart in final hours over fossil fuels",
+      "description": "Some 200 countries gathered in Antalya, Turkey, for COP31, the annual climate negotiations. Countries failed to reach an agreement over fossil fuels - the primary driver of global warming.",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
+      "urlToImage": null,
+      "publishedAt": "2026-11-22T16:33:22Z",
+      "content": "Some 200 countries gathered in Antalya, Turkey, for COP31, the annual climate negotiations. Countries failed to reach an agreement over fossil fuels - the primary driver of global warming."
     },
     {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Emily Davies",
-      "title": "Is Annie Andrews Too Real for the Senate? South Carolinians Are About to Find Out.",
-      "description": "The pediatrician, who once compared JD Vance to the herpes virus, notched one of the most shocking upsets of the midterm elections by defeating Senator Darline Graham.",
-      "url": "https://www.nytimes.com/2026/11/22/us/politics/annie-andrews-south-carolina-senate.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/21/multimedia/21pol-andrews-sc-SWAP-vtqg/21pol-andrews-sc-SWAP-vtqg-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-22T16:56:09Z",
-      "content": "The pediatrician, who once compared JD Vance to the herpes virus, notched one of the most shocking upsets of the midterm elections by defeating Senator Darline Graham."
+      "author": "Rebecca Chao and Ishani Desai",
+      "title": "How a Crash Into a Cruise Ship in New Orleans Became a ‘Miracle on the Mississippi’",
+      "description": "When a 525-foot tanker struck the docked American Heritage riverboat on Nov. 13, a rescue operation turned tragedy into triumph and led the nearly 200 aboard to safety.",
+      "url": "https://www.nytimes.com/2026/11/22/us/new-orleans-riverboat-crash-tanker-tick-tock.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/00xp-boat-nola-02-vtfg/00xp-boat-nola-02-vtfg-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-22T16:32:19Z",
+      "content": "When a 525-foot tanker struck the docked American Heritage riverboat on Nov. 13, a rescue operation turned tragedy into triumph and led the nearly 200 aboard to safety."
     },
     {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Bayliss Wagner",
-      "title": "Republicans Debate Why They Lost the Midterms, and if Trump Is to Blame",
-      "description": "A divide is emerging in the party over what caused its wipeout midterm defeats, foreshadowing a battle over how to move forward before 2028.",
-      "url": "https://www.nytimes.com/2026/11/22/us/politics/republican-midterm-loss-debate-trump.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/22/multimedia/22pol-gop-reflection-SWAP-mblz/22pol-gop-reflection-SWAP-mblz-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-22T12:30:24Z",
-      "content": "A divide is emerging in the party over what caused its wipeout midterm defeats, foreshadowing a battle over how to move forward before 2028."
+      "author": "Lisa Rabasca Roepe",
+      "title": "How Six Americans Under 40 Are Saving for Retirement",
+      "description": "Whether they take a traditional path or go their own way, some younger workers are managing to build a nest egg while juggling other financial challenges.",
+      "url": "https://www.nytimes.com/2026/11/22/business/retirement-millennials-gen-z.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/17/multimedia/00bizsun-retiring-save-01-v2-kqfw/00bizsun-retiring-save-01-v2-kqfw-mediumSquareAt3X-v3.jpg",
+      "publishedAt": "2026-11-22T14:35:24Z",
+      "content": "Whether they take a traditional path or go their own way, some younger workers are managing to build a nest egg while juggling other financial challenges."
     },
     {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Eli Saslow and Erin Schaff",
-      "title": "Looking for the Formula to Stop an Apocalypse",
-      "description": "Mike Winer and his colleagues are trying to build a mathematical safeguard to keep A.I. under human control. They fear they are running out of time.",
-      "url": "https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/22/multimedia/22AI-Safety-promo/22AI-Safety-promo-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-22T12:27:46Z",
-      "content": "Mike Winer and his colleagues are trying to build a mathematical safeguard to keep A.I. under human control. They fear they are running out of time."
+      "author": "Ishani Desai",
+      "title": "A Riverboat Captain Recalls a Crash on the Mississippi",
+      "description": "Capt. Len Stewart had mere seconds to react before a 525-foot tanker crashed into the American Heritage, a riverboat in New Orleans with nearly 200 passengers on board.",
+      "url": "https://www.nytimes.com/2026/11/22/us/new-orleans-riverboat-crash-captain.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/22/multimedia/22XP-RIVERBOAT-CAPTAIN-mgpb/22XP-RIVERBOAT-CAPTAIN-mgpb-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-22T14:02:55Z",
+      "content": "Capt. Len Stewart had mere seconds to react before a 525-foot tanker crashed into the American Heritage, a riverboat in New Orleans with nearly 200 passengers on board."
+    },
+    {
+      "source": {
+        "id": "npr-news",
+        "name": "NPR News"
+      },
+      "author": "Jackie Fortiér",
+      "title": "Medicare looks a bit different in 2027, so don't miss open enrollment",
+      "description": "Open enrollment for Medicare runs through Dec. 7, and there are a few different pitfalls people should watch out for this year. Your drug plan or Medicare Advantage plan could be changing a lot.",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027",
+      "urlToImage": null,
+      "publishedAt": "2026-11-22T13:11:04Z",
+      "content": "Open enrollment for Medicare runs through Dec. 7, and there are a few different pitfalls people should watch out for this year. Your drug plan or Medicare Advantage plan could be changing a lot."
     },
     {
       "source": {
@@ -147,81 +277,328 @@
     },
     {
       "source": {
+        "id": "npr-news",
+        "name": "NPR News"
+      },
+      "author": "Alina Selyukh",
+      "title": "He expected a small-business loan. He got a 7-year nightmare",
+      "description": "America's fastest-growing source of funding for small businesses is also one of the least regulated. One man has waged a long, lonely fight to recoup its punishing cost.",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-5752261/small-business-loan-merchant-cash-advance",
+      "urlToImage": null,
+      "publishedAt": "2026-11-22T10:00:00Z",
+      "content": "America's fastest-growing source of funding for small businesses is also one of the least regulated. One man has waged a long, lonely fight to recoup its punishing cost."
+    },
+    {
+      "source": {
+        "id": "npr-news",
+        "name": "NPR News"
+      },
+      "author": "Janet W. Lee",
+      "title": "NPR's Senior Podcast Challenge: Early entries we love",
+      "description": "People 65 and older have been submitting stories for a chance to win our grand prize — a visit to NPR watch your podcast air live on Weekend Edition . There's still time to enter!",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6044221/npr-senior-podcast-challenge-early-entries",
+      "urlToImage": null,
+      "publishedAt": "2026-11-22T10:00:00Z",
+      "content": "People 65 and older have been submitting stories for a chance to win our grand prize — a visit to NPR watch your podcast air live on Weekend Edition . There's still time to enter!"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Alexis Soloski and Sela Shiloni",
-      "title": "Andrew Scott on the Shattering Feat of Playing Ian Charleson in ‘Elsinore’",
-      "description": "Scott is the subject of Oscar chatter for his performance recreating the last months of Ian Charleson for the biopic “Elsinore.”",
-      "url": "https://www.nytimes.com/2026/11/22/movies/andrew-scott-elsinore-ian-charleson.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/29/multimedia/29cul-andrew-scott-02-whmk/29cul-andrew-scott-02-whmk-mediumSquareAt3X-v2.jpg",
-      "publishedAt": "2026-11-22T10:00:45Z",
-      "content": "Scott is the subject of Oscar chatter for his performance recreating the last months of Ian Charleson for the biopic “Elsinore.”"
+      "author": "Hurubie Meko",
+      "title": "The District Attorney Who Declined to Charge the Men Accused of Sexually Assaulting Jane Doe",
+      "description": "Matthew Van Houten, a district attorney in upstate New York, faced backlash over how he handled a woman’s rape allegation. He says he followed the law.",
+      "url": "https://www.nytimes.com/2026/11/22/nyregion/cornell-jane-doe-case.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/03/multimedia/00met-da-cornell1-bhgk/00met-da-cornell1-bhgk-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-22T08:00:15Z",
+      "content": "Matthew Van Houten, a district attorney in upstate New York, faced backlash over how he handled a woman’s rape allegation. He says he followed the law."
     },
     {
       "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
+        "id": "the-new-york-times",
+        "name": "The New York Times"
       },
-      "author": "Ariana Eunjung Cha",
-      "title": "Virginia reports young child has died of measles, first since 1978 - The Washington Post",
-      "description": "Virginia is the latest state where the resurgent measles virus has turned deadly.",
-      "url": "https://www.washingtonpost.com/health/2026/11/21/virginia-reports-young-child-has-died-measles-first-since-1978/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https%3A%2F%2Farc-anglerfish-washpost-prod-washpost.s3.amazonaws.com%2Fpublic%2FBCKVMGZE6COT4ES6IYEBUKVJIE_size-normalized.jpg&w=1200",
-      "publishedAt": "2026-11-21T21:23:59Z",
-      "content": "Virginia reported its first measles death since 1978, a young child under 5 years old, the latest state where the resurgent virus has turned deadly.\r\nState health officials have been tracking an incr… [+1571 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "Teddy Ricketson",
-      "title": "No. 10 BYU survives upset scare against Kansas with triple-overtime win, keeping Big 12 and CFP hopes alive - Yahoo Sports",
-      "description": "BYU improves to 6-2 in conference play, needing a No. 12 Texas Tech loss to enter the Big 12 title game picture.",
-      "url": "https://sports.yahoo.com/college-football/breaking-news/article/no-10-byu-survives-upset-scare-against-kansas-with-triple-overtime-win-keeping-big-12-and-cfp-hopes-alive-211234541.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/ac6e7b36c46fe278db0b0b67cac152ffec11ef3fe66fdba9ff30196856d09b0e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2Ffe2eb37b-03e4-4c1a-a027-4766ac89b38a",
-      "publishedAt": "2026-11-21T21:12:34Z",
-      "content": "No. 10 BYU took on Kansas on Saturday afternoon and the Big 12 matchup went to triple overtime which, by rule, turned the game into a battle of alternating two-point attempts.\r\nKansas got the ball fi… [+1736 chars]"
+      "author": "Timothy Garton Ash",
+      "title": "Europe Needs to Save Itself",
+      "description": "It’s easy to hope that our good old post-1945 Uncle Sam, holding his security umbrella over European and Asian allies, is back again. He isn’t.",
+      "url": "https://www.nytimes.com/2026/11/22/opinion/europe-us-congress-allies.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/22/opinion/22gartonash/23belluz-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-22T07:23:08Z",
+      "content": "It’s easy to hope that our good old post-1945 Uncle Sam, holding his security umbrella over European and Asian allies, is back again. He isn’t."
     },
     {
       "source": {
         "id": "espn",
         "name": "ESPN"
       },
-      "author": null,
-      "title": "Nebraska snaps AP Top 25 losing skid, upsets Ohio State - ESPN",
-      "description": "Nebraska broke its 31-game losing streak against AP Top 25 opponents with a 31-28 victory over No. 16 Ohio State on Saturday.",
-      "url": "https://www.espn.com/college-football/story/_/id/50553426/nebraska-snaps-ap-top-25-losing-skid-upsets-ohio-state",
-      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1121%2Fr1749055_1296x729_16%2D9.jpg",
-      "publishedAt": "2026-11-21T20:50:00Z",
-      "content": "Nov 21, 2026, 03:50 PM ET\r\nLINCOLN, Neb. -- A decade's worth of pent-up frustration came pouring out after Nebraska went into victory formation, Anthony Colandrea took one last snap and kneeled, and … [+3675 chars]"
+      "author": "Jeff Kassouf",
+      "title": "Kansas City wins 1st NWSL Championship as Rodman, Spirit lose 3rd straight final - ESPN",
+      "description": "The Kansas City Current won their first NWSL Championship, defeating the Washington Spirit 2-1 to hand the Spirit a third consecutive loss in the league final.",
+      "url": "https://www.espn.com/soccer/story/_/id/50557858/nwsl-championship-kansas-city-current-washington-spirit",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1122%2Fr1749421_1296x729_16%2D9.jpg",
+      "publishedAt": "2026-11-22T03:37:00Z",
+      "content": "WASHINGTON -- The Kansas City Current won their first NWSL Championship on Saturday, defeating the Washington Spirit 2-1 at Audi Field to hand the Spirit a third consecutive loss in the league final … [+3343 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hill",
+        "name": "The Hill"
+      },
+      "author": "Sarah Davis",
+      "title": "Washington governor decries ‘out-of-control’ ICE at Seattle airport - The Hill",
+      "description": "Washington Gov. Bob Ferguson (D) condemned Immigration and Customs Enforcement’s (ICE) operations at the Seattle-Tacoma International Airport on Saturday, in which masked federal agents detained two people.  The Democratic governor responded to a report from …",
+      "url": "https://thehill.com/homenews/state-watch/6235558-ferguson-condemns-ice-airport-detention/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2022/08/CA_fergusonbob_getty-e1784220060875.jpg?w=1280",
+      "publishedAt": "2026-11-22T01:57:00Z",
+      "content": "Skip to content\r\nWashington Gov. Bob Ferguson (D) condemned Immigration and Customs Enforcement’s (ICE) operations at the Seattle-Tacoma International Airport on Saturday, in which masked federal age… [+2538 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "The Official Website of the Ultimate Fighting Championship"
+        "name": "CBS Sports"
       },
-      "author": null,
-      "title": "Main Card Results | UFC Qatar - UFC.com",
-      "description": "Live Results, Highlights, Post-Fight Interviews With The Main Card Winners And More From UFC Fight Night: Procházka vs Stirling, Live From ABHA Arena In Doha, Qatar On November 21",
-      "url": "https://www.ufc.com/news/ufc-qatar-results-prochazka-vs-stirling",
-      "urlToImage": "https://ufc.com/images/styles/card/s3/2026-10/112126-ufc-fight-night-prochazka-vs-stirling-EVENT-ART.jpg?itok=X01LbBWs",
-      "publishedAt": "2026-11-21T20:33:46Z",
-      "content": "Throughout the contest, Sterling looked to use his strikes to create grappling opportunities, but he was frequently stifled by Vallejos defensive abilities and athleticism. On the feet, the 24-year-o… [+489 chars]"
+      "author": "Shehan Jeyarajah",
+      "title": "College football winners, losers: Luck runs out for Indiana, Oregon rounding into form - CBS Sports",
+      "description": "Plus, Ohio State hit a historic low against Nebraska, while Tennessee made a major statement in the College Football Playoff race",
+      "url": "https://www.cbssports.com/college-football/news/college-football-winners-losers-indiana-oregon/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2026/11/22/2186c7ba-8658-4907-bc83-6fe137d0810a/thumbnail/1200x675/277c0089e2acaa01c8efe6fb62817d95/wl-iu-1.jpg",
+      "publishedAt": "2026-11-22T01:41:28Z",
+      "content": "College football's Week 12 didn't have much to offer on paper. There was only one ranked matchup on the schedule, with most of the top teams instead dodging tough games. \r\nAs always, the sport delive… [+8268 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "InStyle"
+        "name": "Eonline.com"
       },
-      "author": "https://www.facebook.com/InStyle",
-      "title": "Miley Cyrus, 33, Steps Out in Head-to-Toe Black for Wedding Rehearsal Dinner With Maxx Morando, 28 - InStyle",
-      "description": "Miley Cyrus and Maxx Morando arrived at their SoCal wedding rehearsal dinner in head-to-toe black outfits on November 20. Noah Cyrus, Tish Cyrus, and more family members joined the couple at a restaurant near their Palm Springs wedding venue. Read more about …",
-      "url": "https://www.instyle.com/miley-cyrus-wedding-rehearsal-dinner-outfit-12270286",
-      "urlToImage": "https://www.instyle.com/thmb/0-ZGeDnE6uATdT0phwDDmnHKSrc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Miley1-a30d2d00331a4a8ab0814b0d39f0005c.jpg",
-      "publishedAt": "2026-11-21T20:30:34Z",
-      "content": "Miley Cyrus, 33, and Maxx Morando, 28, are ready to tie the knot. On November 20, hours before their highly anticipated Palm Springs wedding, the couple stepped out with family and friends for an int… [+1982 chars]"
+      "author": null,
+      "title": "Jessica Simpson Will Take Your Breath Away With Brunette Hair Transformation - E! News",
+      "description": "Jessica Simpson showed off her darkest hair in years as she debuted a new brunette hair transformation on Instagram Nov. 21: \"She says brunettes have fun and then some.\"",
+      "url": "https://www.eonline.com/news/1438316/jessica-simpson-debuts-brunette-hair-transformation",
+      "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/20261121/6f4cc9e5-ad43-4016-8584-439637109500_1795311101.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
+      "publishedAt": "2026-11-22T01:38:00Z",
+      "content": "Jessica Simpson is rocking an irresistible new look.\r\nThe With You singer debuted her darkest hair color in years, trading her signature blonde locks for a rich chocolate brown.\r\nSimpson revealed her… [+741 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "'El Chapo Isidro': Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out - BBC",
+      "description": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+      "url": "https://www.bbc.com/news/articles/ckz749ey0r75o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg",
+      "publishedAt": "2026-11-22T01:25:03Z",
+      "content": "The US Consulate General in the city of Hermosillo said it was \"monitoring reports of ongoing security operations, armed clashes, road blockades, and vehicle fires that occurred overnight in Ahome, G… [+68 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TheStreet"
+      },
+      "author": "TheStreet",
+      "title": "GTA 6’s $3.79 billion debut sends Apple stock investors an unmistakable signal - TheStreet",
+      "description": null,
+      "url": "https://www.thestreet.com/investing/stocks/gta-6-apple-innovation",
+      "urlToImage": null,
+      "publishedAt": "2026-11-22T01:17:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hollywood Reporter"
+      },
+      "author": "Lexi Carson",
+      "title": "Miley Cyrus and Maxx Morando Are Married - The Hollywood Reporter",
+      "description": "The couple began dating in 2021 after meeting on a blind date.",
+      "url": "http://www.hollywoodreporter.com/lifestyle/lifestyle-news/miley-cyrus-maxx-morando-married-1236760559/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/miley-maxx.jpg?w=1440&h=810&crop=1",
+      "publishedAt": "2026-11-22T01:08:13Z",
+      "content": "Miley Cyrus and Maxx Morando are married. \r\nThe couple tied the knot Saturday in Palm Springs, California, according to Entertainment Tonight. TMZ first reported that Cyrus, 33, and Morando, 28, were… [+1427 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Jay Busbee",
+      "title": "No. 9 Tennessee outlasts LSU thanks to 2 late TD runs by QB Faizon Brandon, sending Lane Kiffin and Co. home with another 'L' - Yahoo Sports",
+      "description": "Tennessee's own offense almost spoiled the party at Neyland Stadium before its freshman QB saved the day.",
+      "url": "https://sports.yahoo.com/college-football/breaking-news/article/no-9-tennessee-outlasts-lsu-thanks-to-2-late-td-runs-by-qb-faizon-brandon-sending-lane-kiffin-and-co-home-with-another-l-004046811.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/7b8a6011919ef85f12c447c8f7988f41ab6fa7c23b29d06cbd0497c156a0423e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F4f9b4aa6-694a-4b85-acda-dec52f934d5c",
+      "publishedAt": "2026-11-22T00:40:00Z",
+      "content": "KNOXVILLE, Tenn. The plane circling above Neyland Stadium set the day's tone early, trailing a DOLLY HATED KIFFIN banner. Below, a DJ near the statue of Tennessee's venerated General Robert Neyland p… [+6749 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Techpowerup.com"
+      },
+      "author": null,
+      "title": "Intel Nova Lake-H Spec Sheet Shows Up With a 4.8 GHz Boost and 25 W TDP - TechPowerUp",
+      "description": "As we move closer to Nova Lake's eventual launch, more and more details are surfacing about the various lineups under that umbrella. We covered the sighting of the 28-core Intel \"Nova Lake-S\" desktop CPU on Openbenchmark today, and now we have an early look a…",
+      "url": "https://www.techpowerup.com/355088/intel-nova-lake-h-spec-sheet-shows-up-with-a-4-8-ghz-boost-and-25-w-tdp",
+      "urlToImage": "https://www.techpowerup.com/img/Y7BA9RlPFUnjumbD.jpg",
+      "publishedAt": "2026-11-21T23:58:48Z",
+      "content": "As we move closer to Nova Lake's eventual launch, more and more details are surfacing about the various lineups under that umbrella. We covered the sighting of the 28-core Intel \"Nova Lake-S\" desktop… [+1683 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hollywood Reporter"
+      },
+      "author": "Lexi Carson",
+      "title": "Luca Guadagnino Says His ‘American Psycho’ Movie Not Moving Forward - The Hollywood Reporter",
+      "description": "Scott Z. Burns penned a script for Lionsgate's new take on the Bret Easton Ellis novel, which was previously adapted into a 2000 film starring Christian Bale as Patrick Bateman.",
+      "url": "http://www.hollywoodreporter.com/movies/movie-news/luca-guadagnino-american-psycho-movie-not-moving-forward-1236760596/",
+      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/01/MCDAMPS_EC020-H-2024.jpg?w=1296&h=730&crop=1",
+      "publishedAt": "2026-11-21T23:45:13Z",
+      "content": "Luca Guadagnino‘s adaptation of American Psycho is no longer moving forward.\r\nWhile appearing on Deadline‘s Crew Call podcast with Anthony D’Alessandro, Guadagnino confirmed that his new adaptation o… [+1660 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "San Francisco Chronicle"
+      },
+      "author": "Anthony Edwards",
+      "title": "Monster king tides are set to flood the Bay Area. Here are days and times they’ll be highest - San Francisco Chronicle",
+      "description": "Huge El Niño-fueled tides are about to flood coastal California. This calendar shows what days and times they will be the highest.",
+      "url": "https://www.sfchronicle.com/weather/article/king-tide-ocean-water-bay-area-22457105.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/70/00/02/31457437/5/rawImage.jpg",
+      "publishedAt": "2026-11-21T23:04:46Z",
+      "content": "Heavy rain causes flooding along The Embarcadero on Nov. 18. Tides are expected to be the highest on record in San Francisco next week.\r\nWeston Turtle Fudge/S.F. Chronicle\r\nEl Niño is pushing tides a… [+1643 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Tom  Ignudo",
+      "title": "Princeton University student detained by ICE at Reagan Airport after conference - CBS News",
+      "description": "Eva Yi Xie, a third-year Ph.D. Princeton student, was detained following a presentation she gave at the Society for Neuroscience.",
+      "url": "https://www.cbsnews.com/philadelphia/news/princeton-student-ice/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/21/ea3a8214-910e-4204-9906-b274fd0bbfcf/thumbnail/1200x630/eae675016c1c820add4f84e3e650712f/gettyimages-2274498190.jpg",
+      "publishedAt": "2026-11-21T22:50:00Z",
+      "content": "A Princeton University student was detained by U.S. Immigration and Customs Enforcement this week at Ronald Reagan National Airport in Washington, D.C., after attending a neuroscience conference, the… [+2186 chars]"
+    },
+    {
+      "source": {
+        "id": "npr-news",
+        "name": "NPR News"
+      },
+      "author": "The Associated Press",
+      "title": "Trump orders federal contractors to check with White House before responding to Congress",
+      "description": "President Trump is directing federal contractors to consult the White House about inquiries from Congress and to withhold any communications that his administration considers privileged.",
+      "url": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
+      "urlToImage": null,
+      "publishedAt": "2026-11-21T22:40:36Z",
+      "content": "President Trump is directing federal contractors to consult the White House about inquiries from Congress and to withhold any communications that his administration considers privileged."
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "Geoff Mulvihill",
+      "title": "Virginia reports young child is the state’s first measles death in 2026 - AP News",
+      "description": "Virginia officials say a young child who tested positive for measles has died. It is the state's first death related to the highly contagious virus this year. The death comes days after the U.S. lost its designation of having eliminated measles. There have be…",
+      "url": "https://apnews.com/article/measles-child-dies-virginia-e0c572252ece06a106cbe4d890e9fd70",
+      "urlToImage": "https://dims.apnews.com/dims4/default/3efed4e/2147483647/strip/true/crop/4500x3000+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F23%2Fcb%2F47222a362541161c89f65bc5f8de%2F57fe8fdbcd3f411ba7056d889f302e06",
+      "publishedAt": "2026-11-21T22:07:00Z",
+      "content": "A young child has died in Virginia after testing positive for measles, officials said, the first deadly case in the state this year. \r\nThe Virginia Department of Health reported the death Friday, say… [+1237 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Lock of former US President George Washington's hair sells for $4,000 - BBC",
+      "description": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+      "url": "https://www.bbc.com/news/articles/cwe9k23dpz0do",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5138/live/c4d4d0c0-e5ec-11f1-ad4d-5dd9d517a6dd.jpg",
+      "publishedAt": "2026-11-21T22:01:19Z",
+      "content": "Gadsby, a resident of what in 1799 was the town of Alexandria in Virginia, entertained Washington for dinner shortly before his death later that year, according to a testament given in 1928 by Gadsby… [+95 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "AFP",
+      "title": "Nvidia faces US accounting probe amid deepening turmoil: media - Yahoo Finance",
+      "description": "US securities regulators are investigating the accounting practices of Nvidia, according to US media, adding to the turmoil engulfing the artificial intellig...",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-faces-us-accounting-probe-215354861.html",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/64c8ed2f1268337d2a4946cf55b9f54d773f4e2ec001febcda481f94bcf76d59/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fafp.com%2F9a8c63272dcadfc4928bf0c648de19f5.jpg_up.jpg",
+      "publishedAt": "2026-11-21T21:53:54Z",
+      "content": "US President Donald Trump, pictured (right) alongside Jensen Huang at a September 2026 White House meeting, has called for the Nvidia CEO to be reinstated (Kent NISHIMURA)\r\nUS securities regulators a… [+2298 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Maegan Vazquez",
+      "title": "Trump says Cornyn blocked judicial pick because his ‘feelings were hurt’ - The Washington Post",
+      "description": "In response, outgoing Sen. John Cornyn (R-Texas) criticized the president’s nomination and said he had put forward his own candidate.",
+      "url": "https://www.washingtonpost.com/politics/2026/11/21/trump-says-cornyn-blocked-judicial-pick-because-his-feelings-were-hurt/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fwapo%2FPW24AS3GSSLSCPCBNJQP6PBQAU.JPG&w=1200",
+      "publishedAt": "2026-11-21T21:49:13Z",
+      "content": "Virginia reported its first measles death since 1978, a young child under 5 years old, the latest state where the resurgent virus has turned deadly.\r\nState health officials have been tracking an incr… [+1571 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": "Gregory Svirnovskiy",
+      "title": "Trump says latest FBI hack could have ‘positive’ impacts - Politico",
+      "description": "“Maybe we’ll learn things that we would have never learned otherwise,” the president told Fox on Saturday.",
+      "url": "https://www.politico.com/news/2026/11/21/trump-fbi-hack-cybersecurity-01179574",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F15%2F9a%2F09641af74d8a92d2d91deec09bbb%2Fbiden-laptop-fbi-officials-charged-2-56.jpg",
+      "publishedAt": "2026-11-21T21:41:00Z",
+      "content": "President Donald Trump on Saturday acknowledged yet another cyberattack had hit the federal government but told Fox News he thinks the hack could come with benefits.\r\nMaybe well learn things that we … [+464 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Anthony Ha",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance - TechCrunch",
+      "description": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/05/signal-app-icon-phone.jpg?resize=1200,800",
+      "publishedAt": "2026-11-21T21:37:10Z",
+      "content": "Signal announced Friday that its limiting users ability to take screenshots within the secure messaging app  a response to what President Meredith Whittaker described as the existential threat of ope… [+1009 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": "Casey He",
+      "title": "AI’s blue state reckoning is growing - Politico",
+      "description": "Newly minted legislative leaders and lawmakers in states with a new Democratic trifecta are gearing up for tougher regulations on data centers and AI.",
+      "url": "https://www.politico.com/news/2026/11/21/state-democrats-ai-data-center-regulation-01179300",
+      "urlToImage": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F2e%2F1c%2Fb46e341a44758759b2b300e45bf5%2Ftech-giants-data-centers-3-166.jpg",
+      "publishedAt": "2026-11-21T21:00:00Z",
+      "content": "The midterm blue wave could supercharge a new front in the fight over data centers and artificial intelligence, as Democrats prepare to flex their newfound power in statehouses.\r\nAfter voters deliver… [+957 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": "Will Stone",
+      "title": "Bayer reaches Roundup settlement that could cost the company billions - NPR",
+      "description": "The money will go to thousands of people who have been or will be diagnosed with non-Hodgkin lymphoma – a blood cancer linked to the herbicide.<br><br>",
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5265x2962+0+281/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F67%2Fa1%2F2a7c9b0b4b1783ffed73a002a6ad%2Fgettyimages-2283306424.jpg",
+      "publishedAt": "2026-11-21T20:37:35Z",
+      "content": "The agrochemical and biotech giant Bayer has agreed to pay billions of dollars to people who sued the company alleging the weed-killer Roundup caused their cancer.\r\nOn Friday, a judge in Missouri gav… [+2815 chars]"
     },
     {
       "source": {
@@ -251,55 +628,16 @@
     },
     {
       "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
       },
-      "author": "Joey Cappelletti",
-      "title": "Democrats who swept into the Senate promised change. A leadership vote is testing them early - AP News",
-      "description": "The Democratic Party’s incoming senators face an early test of their campaign promises to shake up Washington as they decide who will lead their new majority. Current leader Chuck Schumer of New York faces a challenge from Maryland's Chris Van Hollen, who's p…",
-      "url": "https://apnews.com/article/schumer-vanhollen-majority-leader-progressives-new-senators-b7785d0b6aee5f4844f55b650a231f5d",
-      "urlToImage": "https://dims.apnews.com/dims4/default/cf4c638/2147483647/strip/true/crop/3000x2000+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6d%2F1d%2Fe627d8ad214adc767cd661619b2a%2F78f0e1ba27254458818f8d5da9922585",
-      "publishedAt": "2026-11-21T19:52:00Z",
-      "content": "WASHINGTON (AP) The Democratic Partys incoming senators havent even been sworn into office yet, but the decision over who will lead their new majority is already testing the promise of change they ma… [+8791 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Cara  Tabachnick",
-      "title": "Lock of George Washington's hair sold at auction for $4,000 - CBS News",
-      "description": "South Carolina-based auction house Richmond Auctions said George Washington's lock of hair was sold for $4,000.",
-      "url": "https://www.cbsnews.com/news/george-washington-lock-of-hair-auction/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/21/0ec8af76-5654-4fa3-bbb9-df28a3e5bd0c/thumbnail/1200x630/e642bfb3ba0c222ebb56516f69861ea4/split-2-diagonal-1920x1080.jpg",
-      "publishedAt": "2026-11-21T18:54:00Z",
-      "content": "A lock of hair from America's founding father, George Washington, was sold at auction Saturday for $4,000, according to the South Carolina-based auction house Richmond Auctions.\r\nThe auction house sa… [+1990 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": null,
-      "title": "Trump vows to work with Democrats to cap credit card interest rates - CBS News",
-      "description": "President Trump says he will work with the incoming Democratic Congress to cap credit card interest rates.",
-      "url": "https://www.cbsnews.com/news/trump-credit-card-rates-democrats-politics/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/14/ca3d845e-2e76-4093-9b96-5798868f6369/thumbnail/1200x630g3/9332f7876c080ed03093c3d2d3f0256a/gettyimages-2302566480.jpg",
-      "publishedAt": "2026-11-21T18:27:57Z",
-      "content": "President Trump said he would work with the incoming Democratic Congress to cap credit card interest rates, hoping to fulfill a promise he made on the 2024 campaign trail but couldn't deliver on beca… [+2439 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Frank  Andrews",
-      "title": "Live Updates: Trump says he wants \"permanent\" deal with Iran; warns next move may not come until 2027 - CBS News",
-      "description": "Despite rising tension, President Trump told an Israeli outlet he may not make a decision on his next move in the Iran war until 2027.",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/21/7b8db557-c10a-4e28-9651-f04b2fb59085/thumbnail/1200x630/f1f01dc70b3dee71db9876ec6023cd3c/2026-11-20t110959z-602263553-rc2kroa2p306-rtrmadp-3-iran-crisis.jpg",
-      "publishedAt": "2026-11-21T18:00:00Z",
-      "content": "Gadi Eisenkot, who has been tasked with forming the next Israeli government, vowed Friday not to let coalition-building talks drag on as his wide-ranging bloc faces divisions on the way forward.\r\nThe… [+1184 chars]"
+      "author": "WSJ",
+      "title": "Ukraine Is Racing to Keep Its Booming Defense Industry From Stalling - WSJ",
+      "description": null,
+      "url": "https://www.wsj.com/world/ukraine-is-racing-to-keep-its-booming-defense-industry-from-stalling-7e8f4b8c",
+      "urlToImage": null,
+      "publishedAt": "2026-11-21T19:31:09Z",
+      "content": null
     },
     {
       "source": {
@@ -329,29 +667,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "MacRumors"
+        "id": "bleacher-report",
+        "name": "Bleacher Report"
       },
-      "author": "Mitchel Broussard",
-      "title": "Apple Black Friday Deals Available Now: AirPods, Apple Watches, MacBooks, and More - MacRumors",
-      "description": "Black Friday is getting closer and closer, taking place on Friday, November 27 in 2026. As always, this will be the best time of the year to shop for...",
-      "url": "https://www.macrumors.com/2026/11/21/apple-black-friday-deals-available-now-2026/",
-      "urlToImage": "https://images.macrumors.com/t/y1HuPRSv1e6To4GeIAoCGSn6QrU=/2500x/article-new/2026/11/Black-Friday-Deals-26-4.jpg",
-      "publishedAt": "2026-11-21T17:17:48Z",
-      "content": "Black Friday is getting closer and closer, taking place on Friday, November 27 in 2026. As always, this will be the best time of the year to shop for great deals, including popular Apple products lik… [+13074 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Angela Yang",
-      "title": "These fans waited over a decade for ‘GTA VI.’ Here’s how they celebrated. - NBC News",
-      "description": "From transforming their homes into “Grand Theft Auto”-inspired playgrounds to clearing their calendars at all costs, die-hard fans of the franchise pulled out all the stops for the arrival of “GTA VI.”",
-      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/grand-theft-auto-six-fans-reaction-celebration-player-profiles-rcna609640",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261120-GTA-main-didier-figueroa-jg-ad15b3.jpg",
-      "publishedAt": "2026-11-21T17:00:42Z",
-      "content": "Gabryel Johnson\r\nAge: 28\r\nLocation: North Louisiana\r\nGabryel Johnson, an assistant manager at a store in Louisiana, put in three days worth of PTO specifically to play the game upon launch. She said … [+2031 chars]"
+      "author": "Mike Chiari",
+      "title": "Miami Fan's GTA 6 Sign About Lucia Goes Viral in Trending Photo from ESPN College GameDay - Bleacher Report",
+      "description": "A University of Miami fan drew the attention of ESPN College GameDay on Saturday with a funny sign referencing the newly released Grand Theft Auto VI video game.",
+      "url": "https://bleacherreport.com/articles/25536053-miami-fans-gta-6-sign-about-lucia-goes-viral-trending-photo-espn-college-gameday",
+      "urlToImage": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-11/2301605318_large_cropped.jpg?w=1120&h=630",
+      "publishedAt": "2026-11-21T17:04:32Z",
+      "content": "A University of Miami fan drew the attention of ESPN College GameDay on Saturday with a funny sign referencing the newly released Grand Theft Auto VI video game.\r\nThe sign, which was posted on Colleg… [+426 chars]"
     },
     {
       "source": {
@@ -368,94 +693,42 @@
     },
     {
       "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
+        "id": "google-news",
+        "name": "Google News"
       },
-      "author": null,
-      "title": "Catherine, Princess of Wales, speaks about healing from cancer in new documentary: \"Cancer does change you\" - CBS News",
-      "description": "The princess reflects on her cancer journey in the documentary and speaks to others about their experiences.",
-      "url": "https://www.cbsnews.com/news/catherine-princess-of-wales-heal-documentary-cancer-healing/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/21/649d1b44-a5e0-44c4-9e97-91b20f37124d/thumbnail/1200x630/412a644880fd19d806ed1f2756167ba7/gettyimages-2305678493.jpg",
-      "publishedAt": "2026-11-21T16:01:17Z",
-      "content": "Britain's Catherine, Princess of Wales, opens up about finding hope and joy amid uncertainty in a new documentary exploring life since her cancer diagnosis in 2024.\r\n\"Heal\" follows 44-year-old Cather… [+1811 chars]"
-    },
-    {
-      "source": {
-        "id": "axios",
-        "name": "Axios"
-      },
-      "author": "Ben Berkowitz",
-      "title": "Trump says FBI hack might expose Russia \"hoax\" - Axios",
-      "description": "\"I always like to put things in a positive spin,\" Trump said.",
-      "url": "https://www.axios.com/2026/11/21/trump-russia-fbi-hack",
-      "urlToImage": "https://images.axios.com/lUsFk2ORO1WgsPsthFXs6WTRKaw=/0x538:6000x3913/1366x768/2026/11/21/1795275483215.jpeg",
-      "publishedAt": "2026-11-21T15:57:21Z",
-      "content": "Driving the news: CNN and NBC reported Friday night that the FBI was looking into an apparent breach of the National Crime Information Center, which connects local and national law enforcement for in… [+1111 chars]"
+      "author": "NBC News",
+      "title": "Facing economic pain and Russia threats, U.K.’s Burnham looks to rewrite Brexit with new deal - NBC News",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS2JGZWZ5YnBaN0tfT1hfRkpGTTVUNmxXYmttQUlaLXl4ZVMzeUlZcnBhTlExWXlkdXVuQ2FaMjVQa3pBdmhrMUllN2toZkc5WXEzX0lXMGhUNHJaQ1VNMjZJQU1NX0psWUR2bTJlY0dPTUVwZU9WVGpSMW9rUWpZTUdsMzlILUdwc3NIbWExS3BoUy1xVkZrb1VZcElVLTF3ZXVSQ2R0ZnVhbU1iSHpXbmNoZFh0dkFId1E?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2026-11-21T15:10:07Z",
+      "content": null
     },
     {
       "source": {
         "id": null,
-        "name": "Techpowerup.com"
+        "name": "NPR"
       },
-      "author": null,
-      "title": "28-Core Intel \"Nova Lake-S\" Appears in Testing Running at 5.2 GHz - TechPowerUp",
-      "description": "Intel's single-compute die \"Nova Lake-S\" variant has been spotted with a 28-core configuration and a boost frequency of 5.2 GHz, according to the OpenBenchmark testing suite. During the tests, a processor named Intel 0000 appeared with the \"NVL\" identifier, s…",
-      "url": "https://www.techpowerup.com/355078/28-core-intel-nova-lake-s-appears-in-testing-running-at-5-2-ghz",
-      "urlToImage": "https://www.techpowerup.com/img/Vow6gHxihRQkcvBZ.jpg",
-      "publishedAt": "2026-11-21T15:39:12Z",
-      "content": "Intel's single-compute die \"Nova Lake-S\" variant has been spotted with a 28-core configuration and a boost frequency of 5.2 GHz, according to the OpenBenchmark testing suite. During the tests, a proc… [+1592 chars]"
+      "author": "Imogen Foulkes",
+      "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules - NPR",
+      "description": "U.N. talks in Geneva have failed to deliver binding rules on autonomous weapons, as humanitarian groups warn that military AI is advancing far faster than diplomacy.",
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4146x2332+0+216/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F77%2F65%2Fec3be56f4a8caadcaf913863094e%2Fap26320313350560.jpg",
+      "publishedAt": "2026-11-21T14:18:17Z",
+      "content": "GENEVA Diplomats meeting at the United Nations in Geneva have agreed to start discussing options to regulate lethal autonomous weapons, often called \"killer robots.\" \r\nAfter a week of negotiations th… [+4128 chars]"
     },
     {
       "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
+        "id": "the-new-york-times",
+        "name": "The New York Times"
       },
-      "author": "Jamey Keaten",
-      "title": "Nations agree to extend talks on AI killer robots but no firm commitment to rein them in - AP News",
-      "description": "Efforts to establish rules for AI-powered killer robots and drones have run aground. U.N.-backed talks in Geneva ended Saturday with an agreement to extend discussions for two more years. Countries agreed to \"elaborate\" a possible accord by 2028 but didn't co…",
-      "url": "https://apnews.com/article/un-drones-robots-un-lethal-ai-weapons-ebe057d2a47cde53100970c8f648e7fa",
-      "urlToImage": "https://dims.apnews.com/dims4/default/3c32fac/2147483647/strip/true/crop/4146x2764+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F5a%2F38%2Fc7cbdf853a8bc969855c575e3600%2F10948e04be254325ac10825b27df7b8f",
-      "publishedAt": "2026-11-21T15:18:00Z",
-      "content": "GENEVA (AP) Efforts to set firm rules on AI-powered killer robots and drones ran aground Saturday as U.N.-backed talks in Geneva produced a softened agreement to extend discussions for two more years… [+3488 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "Time may be far stranger than we realize. Scientists have a way to test it - ScienceDaily",
-      "description": "Time may be far stranger than we realize, and scientists have proposed a way to detect clocks experiencing multiple flows of time simultaneously. Using atomic clocks with dramatically enhanced sensitivity, researchers hope to reveal a never-before-observed qu…",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/physics-time-flow-illustration.webp",
-      "publishedAt": "2026-11-21T15:11:22Z",
-      "content": "We measure time constantly, from the ticking hands of a clock to the changing numbers on a smartphone screen. Yet despite how familiar time seems, physicists still do not fully understand its fundame… [+4599 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Wccftech"
-      },
-      "author": "Alessio Palumbo",
-      "title": "Grand Theft Auto VI PS5 Streams/Captures Get DLSS 5 and Frame Generation on PC Through Veyra/Neural Screen, But Gameplay Still Runs at 30FPS (with More Latency) - Wccftech",
-      "description": "Veyra and Neural Screen can inject DLSS 5 and Frame Generation into Grand Theft Auto VI, but add latency and the real frame rate is still 30.",
-      "url": "https://wccftech.com/grand-theft-auto-vi-ps5-dlss-5-frame-generation-pc-veyra-neural-screen/",
-      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2026/11/veyra-nr-GTAVI-HD-1920x1103.jpeg",
-      "publishedAt": "2026-11-21T15:00:00Z",
-      "content": "PC gamers' enormous thirst for Grand Theft Auto VI is leading them to go to extraordinary lengths to play Rockstar's latest masterpiece on their PC with additional features. \r\nA few days ago, we repo… [+3152 chars]"
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Noah Robertson, Michael Birnbaum",
-      "title": "GOP set to block Trump Pentagon picks as other military moves face headwinds - The Washington Post",
-      "description": "Senate Republicans won’t advance two political nominees for key policy jobs. The administration’s nominees to lead the Army and Navy also have encountered resistance, as has its ask for hundreds of billions of dollars in defense funding.",
-      "url": "https://www.washingtonpost.com/national-security/2026/11/21/gop-set-block-trump-pentagon-picks-other-military-moves-face-headwinds/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2UQSN2LTRHYLFJ65AWPAAV7R2Y_size-normalized.JPG&w=1440",
-      "publishedAt": "2026-11-21T14:31:38Z",
-      "content": "Senate Republicans are poised to block at least two of President Donald Trumps nominees for senior Pentagon roles, escalating intense policy disagreements within the GOP, according to current and for… [+38 chars]"
+      "author": "Maia Spoto and Lucy Lu",
+      "title": "A Punk Rocker’s Painful Wait for Wheelchair Repairs",
+      "description": "Two private equity-backed companies now dominate the U.S. wheelchair market. For users, extended repair times can be dangerous and frustrating.",
+      "url": "https://www.nytimes.com/2026/11/21/us/wheelchair-repair-delays-public-equity.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/21/multimedia/00nat-wheelchair-repairs-mcft/00nat-wheelchair-repairs-mcft-mediumSquareAt3X-v2.jpg",
+      "publishedAt": "2026-11-21T13:57:49Z",
+      "content": "Two private equity-backed companies now dominate the U.S. wheelchair market. For users, extended repair times can be dangerous and frustrating."
     },
     {
       "source": {
@@ -499,67 +772,28 @@
     {
       "source": {
         "id": null,
-        "name": "Barron's"
-      },
-      "author": "Maya Drew Smith, Martin Baccardax, Alex Rosenberg, Emily Russell, George Glover",
-      "title": "Stock Market News From Nov. 20, 2026: S&P 500 Ends Week in Correction Territory - Barron's",
-      "description": "The Dow, S&P 500, and Nasdaq tumbled, with the S&P 500 entering correction, after the AI trade wiped out.",
-      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-112026",
-      "urlToImage": "https://images.barrons.com/im-783602/social",
-      "publishedAt": "2026-11-21T00:39:00Z",
-      "content": "The S&amp;P 500 ended the week in correction territory and riding its longest losing streak since 2020.\r\nThe market benchmark fell 3.7%. The Dow Jones Industrial Average dropped 950 points, or 1.9%. … [+801 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "PBS"
+        "name": "AccuWeather.com"
       },
       "author": null,
-      "title": "Fiona's caretakers and fans mourn the beloved hippo after her death at Cincinnati Zoo - PBS",
-      "description": "Born prematurely almost a decade ago and given slim odds of survival, Fiona became not only a source of hometown pride but also a worldwide symbol of hope and inspiration for many.",
-      "url": "https://www.pbs.org/newshour/nation/fionas-caretakers-and-fans-mourn-the-beloved-hippo-after-her-death-at-cincinnati-zoo",
-      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-19T221650Z_879513361_RC2AROAQZILZ_RTRMADP_3_USA-FIONA-1024x669.jpg",
-      "publishedAt": "2026-11-20T23:39:39Z",
-      "content": "CINCINNATI (AP) A necropsy on Fiona the hippo showed that the hat she swallowed nearly two weeks ago was caught in the middle of her small intestine, causing her death this week, the Cincinnati Zoo s… [+5403 chars]"
+      "title": "Supermoon could worsen king tide flooding before Thanksgiving - AccuWeather",
+      "description": "The upcoming Beaver Moon will be the first of three consecutive supermoons, with its stronger tidal pull potentially pushing water onto low-lying coastal roads and sidewalks through Thanksgiving.",
+      "url": "https://www.accuweather.com/en/space-news/full-beaver-supermoon-november-2026/1961930",
+      "urlToImage": "https://cms.accuweather.com/wp-content/uploads/2026/11/AP25309631723949.jpg?w=768",
+      "publishedAt": "2026-11-20T18:12:03Z",
+      "content": "The upcoming Beaver Moon will be the first of three consecutive supermoons, with its stronger tidal pull potentially pushing water onto low-lying coastal roads and sidewalks through Thanksgiving.\r\nA … [+2873 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Hollywood Reporter"
+        "name": "Space.com"
       },
-      "author": "Jackie Strause",
-      "title": "‘Yellowjackets’ Creators on Closing Their Survival Story, Killing Characters and Thoughts on Spinoffs: “This Was Meant to Be the Final End” - The Hollywood Reporter",
-      "description": "Ashley Lyle and Bart Nickerson hope to leave viewers satisfied when the fourth and final season of the Showtime hit releases its series finale: \"We do feel like this closes the book, and I think that's important.\"",
-      "url": "http://www.hollywoodreporter.com/tv/tv-features/yellowjackets-creators-finale-ending-show-no-spinoffs-1236760260/",
-      "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/Yellowjackets_408_EM_0629_0619_RT.jpg?w=1440&h=810&crop=1",
-      "publishedAt": "2026-11-20T23:06:19Z",
-      "content": "[This story contains mild spoilers from the premiere of Yellowjackets season four.]\r\nThe end is near for Yellowjackets. The fourth and final season of Showtime‘s hit survival story has begun, and the… [+15202 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Live Science"
-      },
-      "author": "Joanna Thompson",
-      "title": "James Webb telescope spots giant star swallowing its companion in first-ever observations of a stellar merger - Live Science",
-      "description": "Astronomers using the James Webb Space Telescope followed up on years-old observations to confirm the first recorded act of a giant star swallowing its companion. The stellar cannibalism occurred just next door, in the Andromeda galaxy.",
-      "url": "https://www.livescience.com/space/astronomers-spot-giant-star-swallowing-its-companion-in-first-ever-observations-of-a-stellar-merger",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/6WTdSErCWeS8t5puPmhPhc-2000-80.jpg",
-      "publishedAt": "2026-11-20T17:12:24Z",
+      "author": "Mike Wall",
+      "title": "SpaceX Dragon cargo capsule heads home to Earth from the ISS - Space",
+      "description": "Undocking occurred at 12:05 p.m. EST today (Nov. 20).",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-crs-35-dragon-iss-cargo-mission-return-to-earth",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/ugf6BTHPoeoNQ3J9iuTShh-2560-80.jpg",
+      "publishedAt": "2026-11-20T17:47:00Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": "al-jazeera-english",
-        "name": "Al Jazeera English"
-      },
-      "author": "Simon Speakman Cordall",
-      "title": "10 years after divisive Brexit referendum, UK weighs a ‘Breturn’ to the EU - Al Jazeera",
-      "description": "Prime Minister Andy Burnham returns from the UK-EU summit with a potential new deal and a new start.",
-      "url": "https://www.aljazeera.com/news/2026/11/20/10-years-after-divisive-brexit-referendum-uk-weighs-a-breturn-to-the-eu",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ae34c26ed650-1793281062.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-11-20T16:43:36Z",
-      "content": "A decade after the narrow vote to leave the EU, the United Kingdom is showing every sign of buyers remorse.\r\nFor many, the bitterly fought contest over the referendum on whether to leave the EU was u… [+6013 chars]"
     },
     {
       "source": {

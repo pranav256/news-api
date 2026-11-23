@@ -1,14 +1,27 @@
 {
-  "source": "rss_fallback",
+  "source": "everything",
   "country": "us",
   "category": "science",
   "providers": [
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-22T22:52:00.341181+00:00",
-  "articles_count": 43,
+  "fetched_at": "2026-11-23T03:53:36.689785+00:00",
+  "articles_count": 100,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Chico Harlan and Lisa Friedman",
+      "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels",
+      "description": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.",
+      "url": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/22/multimedia/22cli-cop31-final3-fmcb/22cli-cop31-final3-fmcb-mediumSquareAt3X-v2.jpg",
+      "publishedAt": "2026-11-23T02:01:42Z",
+      "content": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -27,19 +40,6 @@
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Chico Harlan and Lisa Friedman",
-      "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels",
-      "description": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.",
-      "url": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/22/multimedia/22cli-cop31-final3-fmcb/22cli-cop31-final3-fmcb-mediumSquareAt3X-v2.jpg",
-      "publishedAt": "2026-11-22T18:20:39Z",
-      "content": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "Eli Saslow and Erin Schaff",
       "title": "Looking for the Formula to Stop an Apocalypse",
       "description": "Mike Winer and his colleagues are trying to build a mathematical safeguard to keep A.I. under human control. They fear they are running out of time.",
@@ -47,6 +47,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/22/multimedia/22AI-Safety-promo/22AI-Safety-promo-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-22T12:27:46Z",
       "content": "Mike Winer and his colleagues are trying to build a mathematical safeguard to keep A.I. under human control. They fear they are running out of time."
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Kelsey Ramirez",
+      "title": "I have 42 trees and bushes in my yard – this leaf blower is saving my sanity",
+      "description": "The Tornado Pro handheld leaf blower charges via USB-C in 45 minutes and features a built-in flashlight. It is now available with an exclusive 20% discount.",
+      "url": "https://www.foxnews.com/deals/tornado-pro",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/Tornado-Pro-1.jpg",
+      "publishedAt": "2026-11-22T02:49:36Z",
+      "content": "Last year, my husband removed 27 bushes from our yard, but we still have 42 more. Every year in November (when Texas autumn begins), I watch from my office window as each leaf that falls adds one mor… [+2180 chars]"
     },
     {
       "source": {
@@ -63,6 +76,136 @@
     },
     {
       "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "“We’re All Going to Die”!? Neil deGrasse Tyson on Space Mysteries, Aliens & AI",
+      "description": "Some strange things are happening out in space and down here on Earth. Earlier this week, astrophysicist Neil deGrasse Tyson joined Aishah Hasnie to unpack a fast-moving object known as 1998 KY26 orbiting the Sun, UAP discussions, and the physics behind what …",
+      "url": "https://radio.foxnews.com/2026/11/21/were-all-going-to-die-neil-degrasse-tyson-on-space-mysteries-aliens-ai/",
+      "urlToImage": "https://static-radio.foxnews.com/radio.foxnews.com/content/uploads/2026/10/FEATURED_IMAGE_THE_FOX_NEWS_RUNDOWN_PODCAST.jpg",
+      "publishedAt": "2026-11-21T23:51:03Z",
+      "content": "Some strange things are happening out in space and down here on Earth.\r\nEarlier this week, astrophysicist Neil deGrasse Tyson joined Aishah Hasnie to unpack a fast-moving object known as 1998 KY26 or… [+948 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Marlene Lenthang, Abigail Brubaker",
+      "title": "At least four injured after rapper OsamaSon’s New York show",
+      "description": "At least four people were injured following rapper OsamaSon’s concert in New York City on Thursday evening, police said.",
+      "url": "https://www.nbcnews.com/news/us-news/least-four-injured-rapper-osamasons-new-york-show-rcna610614",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2026-11/261121-OsamaSon-louisville-ww-1322-032792.jpg",
+      "publishedAt": "2026-11-21T22:39:59Z",
+      "content": "At least four people were injured following rapper OsamaSon’s concert in New York City on Thursday evening, police said. Just before 11:30 p.m., police responded to the Terminal 5 concert venue in th… [+820 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Shayna Jacobs",
+      "title": "Princeton neuroscientist detained by ICE at D.C. airport after leaving conference",
+      "description": "U.S. Immigration and Customs Enforcement arrested a Princeton University Ph.D.",
+      "url": "https://www.nbcnews.com/news/us-news/princeton-neuroscientist-eva-yi-xie-ice-detained-rcna610603",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2025-04/250401-princeton-university-cs-6a0257.jpg",
+      "publishedAt": "2026-11-21T21:22:17Z",
+      "content": "U.S. Immigration and Customs Enforcement arrested a Princeton University Ph.D. student at Ronald Reagan Washington National Airport on Thursday as she was preparing to fly back to New Jersey after pr… [+3509 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Jolie Kerr",
+      "title": "21 habits of people whose homes are always tidy",
+      "description": "Washington Post: The '2-minute rule', cleaning as you cook, using 'dwell time' and more.",
+      "url": "https://www.washingtonpost.com/home/2026/11/15/21-easy-ways-keep-your-home-looking-tidy/",
+      "urlToImage": "https://www.nzherald.co.nz/resizer/v2/MM67WEKXTE5EHZDYDFRVOLBFIQ.jpg?auth=979b7d0a4d2b0c06f509c61ecf521284a09332f9aa7f27ce3a5bc39a9fbc285a",
+      "publishedAt": "2026-11-21T21:00:00Z",
+      "content": "2. Dont put things down, put them away\r\nHaving a place for everything makes this habit easier to commit to: instead of putting things down when youre done with them, put them away. This applies to ev… [+6162 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Angelica Stabile",
+      "title": "Grand Theft Auto VI mania could endanger marriages as relationship coach exposes red flag",
+      "description": "Couples brace for Grand Theft Auto VI's release as relationship expert Matthew Hussey shares advice on balancing gaming passion with real relationships.",
+      "url": "https://www.foxnews.com/health/grand-theft-auto-vi-mania-endanger-marriages-relationship-coach-exposes-red-flag",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/59f4511b-man-video-game-ignoring-woman.jpg",
+      "publishedAt": "2026-11-21T20:53:49Z",
+      "content": "The long-awaited arrival of Grand Theft Auto (GTA) VI has become a craze among gamers, and a point of contention between couples.\r\nAhead of the video games release on Nov. 19, couples on social media… [+5159 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Angelica Stabile",
+      "title": "Grand Theft Auto VI mania could endanger marriages as relationship coach exposes red flag",
+      "description": "Couples brace for Grand Theft Auto VI's release as relationship expert Matthew Hussey shares advice on balancing gaming passion with real relationships.",
+      "url": "https://www.foxnews.com/lifestyle/grand-theft-auto-vi-mania-endanger-marriages-relationship-coach-exposes-red-flag",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/59f4511b-man-video-game-ignoring-woman.jpg",
+      "publishedAt": "2026-11-21T20:53:49Z",
+      "content": "The long-awaited arrival of Grand Theft Auto (GTA) VI has become a craze among gamers, and a point of contention between couples.\r\nAhead of the video games release on Nov. 19, couples on social media… [+5159 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Julia Fields, Christopher Murray",
+      "title": "Gifts for men who say they don't want anything (but really do)",
+      "description": "Find top Black Friday deals on gifts from reputable brands like Apple, YETI and DeWalt, with options for every guy, from AirPods and power drills to slippers, dashcams and more.",
+      "url": "https://www.foxnews.com/deals/gifts-for-him",
+      "urlToImage": "https://m.media-amazon.com/images/I/41H6Yf+StsL._SL500_.jpg",
+      "publishedAt": "2026-11-21T20:38:58Z",
+      "content": "Whether he loves coffee, hiking, reading or relaxing on the couch, we've found the right gift for every man in your life — even if he's not easy to buy for. From Apple AirPods to a Citizen watch to a… [+13761 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Matt Urben, Falcons Wire",
+      "title": "Falcons salary cap: 25 highest-paid players currently on the roster",
+      "description": "Looking at the 25 highest-paid players on the Falcons' roster",
+      "url": "https://thefalconswire.usatoday.com/story/sports/nfl/falcons/2026/11/21/falcons-salary-cap-highest-paid/92898872007/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/a3ee10a3985c45ccc38c01cbbb3f47100ce55f32c93c4a39ab1edd123562f6af/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fatlanta_falcon_wire_usa_today_sports_articles_463%2Ffd4aa7c421d1de40e6246136d676dbfb.jpg",
+      "publishedAt": "2026-11-21T18:31:27Z",
+      "content": "With a 3-7 record, the Atlanta Falcons do not appear to be track to end their eight-year playoff drought this season. Even in the lowly NFC South, the team sits in last place with two losses against … [+2128 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Deirdre Bardolf",
+      "title": "Thousands of bags were stuck at airports as passengers now urged to track luggage, pack lighter",
+      "description": "Travel experts say AirTag luggage tracker and airline app alerts can protect checked bags after the Federal Aviation Administration halted flights nationwide recently.",
+      "url": "https://www.foxnews.com/travel/thousands-bags-were-stuck-airports-passengers-now-urged-track-luggage-pack-lighter",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/ddd04b4c-luggage-4.jpg",
+      "publishedAt": "2026-11-21T18:26:10Z",
+      "content": "Travelers whose flights were disrupted by last week's nationwide Federal Aviation Administration ground stop faced another headache once they finally landed. They didn't know if their checked bags ma… [+3973 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Angela Yang",
+      "title": "These fans waited over a decade for ‘GTA VI.’ Here’s how they celebrated.",
+      "description": "From transforming their homes into “Grand Theft Auto”-inspired playgrounds to clearing their calendars at all costs, die-hard fans of the franchise pulled out all the stops for the arrival of “GTA VI.”",
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/grand-theft-auto-six-fans-reaction-celebration-player-profiles-rcna609640",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2026-11/261120-GTA-main-didier-figueroa-jg-ad15b3.jpg",
+      "publishedAt": "2026-11-21T17:00:00Z",
+      "content": "From transforming their homes into “Grand Theft Auto”-inspired playgrounds to clearing their calendars at all costs, die-hard fans of the franchise pulled out all the stops for the arrival of “GTA VI… [+10069 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -73,6 +216,84 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/20/multimedia/20SCI-AI-RIEMANN-01-jtkm/20SCI-AI-RIEMANN-01-jtkm-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-21T16:52:42Z",
       "content": "If confirmed, the proof of the Riemann hypothesis would cement the sense that A.I. might be capable of mastering any problem in the field."
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Joe Kinsey",
+      "title": "Star golfer Charley Hull gave up smoking, now she's making another major life change, Hooters movie news & CFB",
+      "description": "Charley Hull says she'll swap her smartphone for a Nokia phone over the holidays, ditching texting and social media for a full month of detox.",
+      "url": "https://www.foxnews.com/outkick-sports/star-golfer-charley-hull-gave-up-smoking-now-shes-making-another-major-life-change-hooters-movie-news-cfb",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/charley-hull-aramco-championship-shadow-creek.jpg",
+      "publishedAt": "2026-11-21T15:10:23Z",
+      "content": "Welcome to Screencaps, \"America's Best Daily Column,\" as named by the readers. Screencaps, which publishes seven days a week, is a mix of sports, pop culture, and emails from sane readers from around… [+8260 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Andrea Margolis",
+      "title": "History buff links prominent colonial New Yorker to notorious pirate heist",
+      "description": "Amateur historian James Bailey says colonial records suggest Thomas Jones, the namesake of Jones Beach, helped pirate Capt. Henry Every dodge authorities.",
+      "url": "https://www.foxnews.com/travel/history-buff-links-prominent-colonial-new-yorker-notorious-pirate-heist",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/NY-JONES-BEACH-PIRATE-STORY-HISTORY-ARCHAEOLOGY-3.jpg",
+      "publishedAt": "2026-11-21T15:00:35Z",
+      "content": "An amateur historian believes he's found clues suggesting a link between a notorious 17th-century pirate and the namesake of New York's famous Jones Beach and says he has the documents to back it up.… [+3913 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Andrés Soto",
+      "title": "The Lakers are playing bad basketball. And winning anyways",
+      "description": "The Lakers escaped yet again against another bottom of the barrel team. The margin for error is shrinking in LA.",
+      "url": "https://www.usatoday.com/story/sports/nba/lakers/2026/11/21/lakers-kings-offensive-struggles/92895032007/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/43974e01d713e6f3f0e5b1aa9564d23459e1873f0047dd4020bf646ee5b846e1/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F41016b56f3a5ced7074192e0bd2fb6ef.jpg",
+      "publishedAt": "2026-11-21T14:22:41Z",
+      "content": "LOS ANGELES Walker Kessler let out a sigh before taking his seat at the podium at Crypto.com Arena on Friday, Nov. 20.\r\n\"A win is a win,\" he muttered.\r\nAs much of a cliche as that saying is, it still… [+4906 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Michael Dorgan",
+      "title": "How a $1B Obama-era solar plant went bankrupt twice, leaving taxpayers with the tab",
+      "description": "Crescent Dunes sold for just $7 million after more than $1 billion in federal backing, with the estimated taxpayer tab potentially reaching $507 million.",
+      "url": "https://www.foxnews.com/politics/how-1-obama-era-solar-plant-went-bankrupt-twice-costing-taxpayers-508m",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/crescent-dunes.gif",
+      "publishedAt": "2026-11-21T13:59:39Z",
+      "content": "TONOPAH, Nev. An Obama-era solar power plant once hailed as a \"clean energy marvel\" and backed by more than $1 billion in federal support has gone bankrupt for a second time and sold for just $7 mill… [+14744 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Logan Brown, Ducks Wire",
+      "title": "Everything Dan Lanning said after Oregon's win over Michigan State",
+      "description": "Dan Lanning opened up on Oregon's dominant win over Michigan State on the road and what it means for the Ducks moving forward.",
+      "url": "https://duckswire.usatoday.com/story/sports/college/ducks/football/2026/11/21/oregon-football-dan-lanning-michigan-state-postgame/92893152007/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/f332dd2e80410edaced2e15df2f862d74022be6d368516ebd5b05296cb5bb240/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fducks_wire_usa_today_articles_200%2Fa0f98ced2b50151a1c649fc7bfb155db.jpg",
+      "publishedAt": "2026-11-21T13:27:29Z",
+      "content": "It took longer than expected, but the Oregon Ducks pulled away from the Michigan State Spartans at halftime and cruised to a 45-7 win on the road on Friday night behind a potent rushing attack.\r\nDesp… [+16391 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Angelica Stabile",
+      "title": "Jennifer Aniston’s secret to staying fit at 57 starts with one simple workout routine",
+      "description": "Jennifer Aniston trains three to four times a week with PVOLVE, and a trainer says consistency plus added weight training are key to her fitness success.",
+      "url": "https://www.foxnews.com/health/jennifer-aniston-secret-staying-fit-57-starts-one-simple-workout-routine",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/aniston-pvolve-split-2.jpg",
+      "publishedAt": "2026-11-21T13:00:00Z",
+      "content": "At 57 years old, Jennifer Aniston seems to be defying the laws of aging but it doesnt come without hard work.\r\nThe \"Friends\" actress has been public about practicing PVOLVE, a functional fitness meth… [+4591 chars]"
     },
     {
       "source": {
@@ -89,6 +310,19 @@
     },
     {
       "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Paul Bretl, Jaguars Wire",
+      "title": "Jaguars rank in top half of NFL in salary cap space after latest moves",
+      "description": "After the Jacksonville Jaguars latest salary cap moves, the team now ranks in the top half of the NFL in available cap space.",
+      "url": "https://jaguarswire.usatoday.com/story/sports/nfl/jaguars/2026/11/21/jaguars-create-over-6-million-salary-cap-space-recent-days/92896575007/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/d964cf6a22515ec75b6903154ef9c9d5b452f9482b037ef01b31061e2000acc1/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fjacksonville_jaguars_wire_usa_today_sports_articles_630%2Ff2d99a1e2bbd594c4f15328e335d65c0.jpg",
+      "publishedAt": "2026-11-21T12:50:58Z",
+      "content": "After the Jacksonville Jaguars latest salary cap moves, the team now ranks in the top half of the NFL in available cap space.\r\nIn recent days, Spotrac has reported that the Jaguars restructured the c… [+781 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -99,6 +333,123 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/20/multimedia/20CLI-COP-CATS-stillpromo/20CLI-COP-CATS-stillpromo-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-21T12:31:35Z",
       "content": "A feline research center in Turkey uses air-conditioning and pools to keep residents comfortable as their numbers recover. And yes, they like to swim."
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Ed Jr Easton, Chiefs Wire",
+      "title": "Clark Hunt spoke with GM Brett Veach before signing Justin Tucker",
+      "description": "During his press conference, Kansas City Chiefs CEO Clark Hunt recalled talk with GM Brett Veach before signing Justin Tucker | @EdEastonJr",
+      "url": "https://chiefswire.usatoday.com/story/sports/nfl/chiefs/2026/11/21/kansas-city-chiefs-ceo-clark-hunt-spoke-with-gm-brett-veach-before-signing-justin-tucker/92876911007/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/46baa1798b1293d5949d3daa8a932026adc18e8e0fb0c73be745f3eb872ebf39/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fkansas_city_chiefs_wire_usa_today_sports_articles_178%2F9db8c2b175a5b962414b8f37dbce3231.jpg",
+      "publishedAt": "2026-11-21T12:02:01Z",
+      "content": "Kansas City Chiefs CEO Clark Hunt recently spoke with reporters. He said he spoke with general manager Brett Veach before signing kicker Justin Tucker to the practice squad.\r\n\"Brett (Veach) and I did… [+932 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Alba Cuebas-Fantauzzi",
+      "title": "DEPROGRAMMED: He lived as a woman for six years, hit ‘rock bottom’ and found Jesus. Then he detransitioned.",
+      "description": "After six years living as a woman, Diego Arellan says pain, rejection and suicidal thoughts led him to become a Christian through his sister's testimony.",
+      "url": "https://www.foxnews.com/media/deprogrammed-lived-woman-six-years-hit-rock-bottom-found-jesus-detransitioned",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/before-after-detransition-diego-christianity.png",
+      "publishedAt": "2026-11-21T12:00:28Z",
+      "content": "This story discusses suicide. If you or someone you know is having thoughts of suicide, please contact the Suicide and Crisis Lifeline at 988 or 800-273-TALK (8255).\r\nDiego Arellan said he had never … [+3722 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Cara Tabachnick, Lana Zak",
+      "title": "Why the Army says it needs to detonate unstable explosives in Iowa",
+      "description": "A federal court indefinitely suspended the U.S. Army's plans to detonate 68 drums of lead azide in Iowa after communities raised concerns.",
+      "url": "https://www.cbsnews.com/news/lead-azide-detonation-iowa-army-explosives/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/20/a79a9150-aa6c-4e96-bd3b-b58abff5e64a/thumbnail/1200x630/5babee0aa9ef978b2cd957afe4739a3d/cbsn-fusion-the-us-wants-to-detonate-unstable-explosives-in-iowa-that-could-affect-thousands-of-americans-thumbnail.jpg",
+      "publishedAt": "2026-11-21T12:00:15Z",
+      "content": "A federal court on Friday suspended the U.S. Army's plans to detonate several tons of unstable explosives at a munitions plant in Iowa after community outcry about the risk of toxic lead particles sp… [+6444 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": null,
+      "title": "Recipe: Sheet Pan Chicken, Brussels Sprouts & Acorn Squash",
+      "description": "From Hitchcock Farms: This chicken entrée recipe offers a place of pride for one of their favorite vegetables.",
+      "url": "https://www.cbsnews.com/news/recipe-sheet-pan-chicken-brussels-sprouts-acorn-squash-hitchcock-farms/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/20/eb2b9ef5-e4ca-4cba-a961-7a1ddb6c6676/thumbnail/1200x630/c6316011cd012c6635f1c2fab7451d0a/hitchcock-farms-sheet-pan-chicken-brussels-sprouts-acorn-squash.jpg",
+      "publishedAt": "2026-11-21T11:36:19Z",
+      "content": "Hitchcock Farms, in Salinas, Calif., has been growing Brussels sprouts for generations (including purple Brussels sprouts, available seasonally). They offer \"Sunday Morning\" viewers this chicken entr… [+1768 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": null,
+      "title": "Recipe: Sallie Ann Robinson's Sweet Potato Cornbread",
+      "description": "The James Beard Award-winner, born and raised on Daufuskie Island off the coast of South Carolina, shares recipes that celebrate the culinary heritage of her Gullah and Indigenous American ancestors.",
+      "url": "https://www.cbsnews.com/news/recipe-sallie-ann-robinsons-sweet-potato-cornbread/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/20/cac8bbb3-c77d-4566-98a1-dfae25a584c6/thumbnail/1200x630/817c68879201c297bd0cc8894fe753cf/sallie-ann-robinsons-kitchen-university-press-of-florida-1280.jpg",
+      "publishedAt": "2026-11-21T11:19:19Z",
+      "content": "In her 2019 cookbook \"Sallie Ann Robinson's Kitchen: Food and Family Lore from the Lowcountry\" (published by University Press of Florida), Sallie Ann Robinson, a chef and food writer born and raised … [+2302 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Mark Giannotto",
+      "title": "NBA team grades: Report card for all 30 teams after the first month",
+      "description": "It's time to hand out grades for every team after the first month of the NBA season. Six earned an A, while 10 received a D or F.",
+      "url": "https://www.usatoday.com/story/sports/nba/2026/11/21/nba-team-grades-opening-month-2026-27-season/92831630007/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/5f7f4ee072f732d27927c057809a9c60c256fd2ee724f79e673e9759fdb111e7/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F3d9b4ccb1a4238589a21de3c14416d8e.jpg",
+      "publishedAt": "2026-11-21T11:07:49Z",
+      "content": "The first month of the 2026-27 NBA season is in the books, and it's time to take stock of what's happened so far. Let's hand out some early grades.\r\nIt might be too soon to draw sweeping conclusions,… [+23302 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Lauryn Overhultz, Stephanie Nolasco, Ashley Papa",
+      "title": "Meghan Markle’s brand gets Oprah push, but expert says duchess still has ‘a credibility problem’",
+      "description": "Oprah Winfrey's \"Favorite Things\" list features Meghan Markle's As Ever gift basket, but experts say the duchess still faces a \"credibility problem.\"",
+      "url": "https://www.foxnews.com/entertainment/meghan-markle-brand-gets-oprah-push-expert-says-duchess-still-credibility-problem",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/meghan-markle-with-love-meghan-netflix-cooking.jpg",
+      "publishedAt": "2026-11-21T11:00:45Z",
+      "content": "Meghan Markle may have Oprah Winfrey's stamp of approval, but experts say even the queen of daytime television can't guarantee the Duchess of Sussex something money can't buy: credibility.\r\nWinfrey's… [+4937 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Marc Siegel",
+      "title": "DR MARC SIEGEL: Cruise ships can be petri dishes for viruses. Calm may be the best cure",
+      "description": "The CDC reports 148 aboard Princess Cruises' Caribbean Princess fell ill with stomach illness, as norovirus causes over 90% of cruise ship outbreaks.",
+      "url": "https://www.foxnews.com/opinion/dr-marc-siegel-cruise-ships-petri-dishes-viruses-calm-best-cure",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/05/mv-hondius-cruise-01.jpg",
+      "publishedAt": "2026-11-21T10:50:28Z",
+      "content": "Fear is more contagious than any pathogen, especially on a cruise ship with a captive audience and a mysterious outbreak.\r\nAs reported this week by Fox News Digital, \"A Caribbean cruise has taken an … [+5812 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "Three Superpowers, One Room: What Came Out of Shenzhen?",
+      "description": "Following President Trump’s trip to Asia and a first-ever trilateral meeting with the leaders of China and Russia, foreign policy experts are weighing what was accomplished on the world stage. Former national security advisor to Vice President Dick Cheney and…",
+      "url": "https://radio.foxnews.com/2026/11/21/three-superpowers-one-room-what-came-out-of-shenzhen/",
+      "urlToImage": "https://static-radio.foxnews.com/radio.foxnews.com/content/uploads/2026/10/FEATURED_IMAGE_THE_FOX_NEWS_RUNDOWN_PODCAST.jpg",
+      "publishedAt": "2026-11-21T10:47:03Z",
+      "content": "Following President Trump’s trip to Asia and a first-ever trilateral meeting with the leaders of China and Russia, foreign policy experts are weighing what was accomplished on the world stage. Former… [+905 chars]"
     },
     {
       "source": {
@@ -128,6 +479,45 @@
     },
     {
       "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Matt Legros, Seahawks Wire",
+      "title": "Seahawks should consider signing Darius Slayton in free agency",
+      "description": "The Seahawks have an urgent need to add a No. 2 receiver to their offense this season, and Darius Slayton is a clear solution to that problem.",
+      "url": "https://seahawkswire.usatoday.com/story/sports/nfl/seahawks/2026/11/20/seattle-seahawks-should-sign-former-giants-wr-darius-slayton/92828400007/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/c9ee852a01184c9976c7b5657f2436c1c4992e4e6e83ab23f07bb598f569500e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fseattle_seahawks_wire_usa_today_sports_articles_798%2F0e835f9bdb4656fb3d45d65d5c6c5cdf.jpg",
+      "publishedAt": "2026-11-21T03:59:19Z",
+      "content": "The Seattle Seahawks have a compelling reason to pursue Darius Slayton in free agency, as he may be a player capable of supplying the team with high-end secondary production opposite Jaxon Smith-Njig… [+1444 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Evan Perez",
+      "title": "The FBI was hacked again, this time the breach targeted its crime database | CNN Politics",
+      "description": "The FBI is investigating an apparent breach of its nationwide criminal information database that serves as a lifeline between federal, state and local law enforcement, two people briefed on the investigation said.",
+      "url": "https://www.cnn.com/2026/11/20/politics/fbi-hacked-again-target-crime-database",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1242409189-20261116192227691.jpg?c=original",
+      "publishedAt": "2026-11-21T02:16:34Z",
+      "content": "The FBI is investigating an apparent breach of its nationwide criminal information database that serves as a lifeline between federal, state and local law enforcement, two people briefed on the inves… [+2037 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Logan Newman",
+      "title": "Wisconsin football loses commitment of four-star Chandler (AZ) athlete Jai Jones",
+      "description": "Jai Jones, an ALL-USA wide receiver and cornerback from Arizona, announced his decommitment from the Wisconsin Badgers on Friday.",
+      "url": "https://www.usatoday.com/story/sports/high-school/football/2026/11/20/chandler-arizona-jai-jones-decommits-from-wisconsin-football/92888226007/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/80631960d20cec69307b4154a549876b11937b2d6d0b0980cd4b26a0523a9298/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2Fbf1ff9385daab45d959f8712f7bc161e.jpg",
+      "publishedAt": "2026-11-21T01:53:56Z",
+      "content": "Following a recent rough stretch on the field, Wisconsin football has also suffered a setback in the recruiting space.\r\nOn Friday, Nov. 20, four-star athlete Jai Jones announced his decommitment from… [+1630 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -138,6 +528,97 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/22/multimedia/18obit-linehan-lfcp-print1/18obit-linehan-lfcp-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-21T01:28:24Z",
       "content": "After her methods proved effective, she revealed that she had battled her own borderline personality disorder as a child."
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Khloe Quill",
+      "title": "New drug combo shrinks tumors in most patients facing aggressive cancer type",
+      "description": "The pancreatic cancer pill daraxonrasib shrank tumors in 60.7% of patients when paired with chemotherapy, with 8.2% seeing tumors vanish on scans.",
+      "url": "https://www.foxnews.com/health/new-drug-combo-shrinks-tumors-most-patients-aggressive-cancer-type",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/man-taking-pill.jpg",
+      "publishedAt": "2026-11-21T01:07:32Z",
+      "content": "Pairing an experimental pill with standard chemotherapy shrank tumors or halted growth in most patients with advanced pancreatic cancer, according to early clinical trial results presented Friday at … [+4156 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Rachel Wolf",
+      "title": "'Enough': Protesters decry antisemitism after Hunter College student event including Jewish group is canceled",
+      "description": "Pro-Israel rally organizers at Hunter College say the cancelled Cultural Arts Night shows antisemitism at CUNY as counter-protesters chanted nearby.",
+      "url": "https://www.foxnews.com/media/enough-protesters-decry-antisemitism-after-hunter-college-student-event-including-jewish-group-canceled",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/HUNTER-COLLEGE-RALLY-ANTISEMITISM-NOV-19.jpg",
+      "publishedAt": "2026-11-21T01:04:24Z",
+      "content": "A crowd gathered on Thursday outside of Hunter College to protest after the school's student government seemingly canceled an event due to the participation of a Jewish organization.\r\nOn one side of … [+9972 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Elizabeth Germino, Aliza Chasan",
+      "title": "DEA dismantles first nitazene synthesis lab in the U.S.",
+      "description": "The Drug Enforcement Administration's forensic testing confirmed the lab in Louisiana was manufacturing etonitazene, an extremely potent synthetic opioid belonging to a class of drugs known as nitazenes.",
+      "url": "https://www.cbsnews.com/news/louisiana-nitazenes-bust/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/21/7eb692bb-6def-497c-8c3b-430faec6f411/thumbnail/1200x630/98e64e1b074f769f728f6fd9d27652a7/dea-louisiana-drug-lab-bust.png",
+      "publishedAt": "2026-11-21T00:53:29Z",
+      "content": "The first nitazene synthesis laboratory in the U.S. has been dismantled by local and federal authorities.  \r\nThe lab, discovered earlier this month in Louisiana, was thought to be producing fentanyl.… [+2155 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Callie Fin",
+      "title": "Raiders owner Mark Davis 'hurt' by 'Madden' movie's portrayal of Al Davis | Exclusive",
+      "description": "Raiders owner Mark Davis says Prime Video's \"Madden\" movie unfairly portrays his late father, Al Davis, and defies his legacy.",
+      "url": "https://www.usatoday.com/story/sports/nfl/raiders/2026/11/20/mark-davis-says-madden-movie-unfairly-portrays-late-raiders-owner-al-davis/92887586007/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/79cfa6a3486c3100ba15b97640c305151a4457147c8d0bdb18ca511def48ef0e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F430fa8db152182a344a7ee5bfd1903c7.jpg",
+      "publishedAt": "2026-11-21T00:53:27Z",
+      "content": "Las Vegas Raiders owner Mark Davis has \"a million WTF moments in a day,\" and the latest one is thanks to Prime Video's \"Madden,\" he told USA TODAY Sports over the phone Friday in the aftermath of the… [+5110 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Bonny Chu",
+      "title": "Zoo shares autopsy findings following Fiona the hippo’s heartbreaking death",
+      "description": "Cincinnati Zoo’s director of animal health, Dr. Mike Wenninger, said a postmortem examination has revealed where the hat was lodged inside Fiona’s digestive tract.",
+      "url": "https://www.foxnews.com/us/zoo-shares-autopsy-findings-fiona-hippos-heartbreaking-death",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/CINCINNATI-ZOO-FIONA-THE-HIPPO-DEATH-TIMELINE-4.jpg",
+      "publishedAt": "2026-11-20T23:54:13Z",
+      "content": "The Cincinnati Zoo on Friday released new autopsy findings after the death of Fiona, the hippo whose battle after swallowing a visitor's hat left people across the nation heartbroken.\r\nA postmortem e… [+3053 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Joshua Nelson",
+      "title": "Locals of Michigan city with largest Muslim population in US call El-Sayed election victory 'needed' change",
+      "description": "Dearborn, Michigan, locals are celebrating Sen.-elect Abdul El-Sayed's historic win as the first Muslim American elected to the U.S. Senate.",
+      "url": "https://www.foxnews.com/media/locals-michigan-city-largest-muslim-population-us-call-el-sayed-election-victory-needed-change",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/abdul-el-sayed-november-2026.jpg",
+      "publishedAt": "2026-11-20T23:51:50Z",
+      "content": "Dearborn, Michigan, locals praised Sen.-elect Abdul El-Sayeds election to the U.S. Senate, citing that the Great Lakes State \"needed a change.\"\r\n\"I feel good because it's like we needed a change in M… [+4648 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Berkeley Jr Lovelace",
+      "title": "New cervical cancer guidance to favor HPV screening over traditional Pap tests",
+      "description": "New cervical cancer guidance to recommend for the first time that women ages 30 to 65 be screened for HPV rather than with the traditional Pap test.",
+      "url": "https://www.nbcnews.com/health/womens-health/cervical-cancer-screening-federal-guidance-hpv-tests-pap-smear-rcna610282",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2026-11/261119-cervical-cancer-screening-pap-hpv-ew-455p-345e13.jpg",
+      "publishedAt": "2026-11-20T22:33:19Z",
+      "content": "For the first time, federal gudiance is poised to steer women ages 30 to 65 toward an HPV test rather than the traditional Pap smear. Women can also opt for a self-administered HPV test, a major chan… [+5695 chars]"
     },
     {
       "source": {
@@ -167,6 +648,32 @@
     },
     {
       "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Glenn Erby, Eagles Wire",
+      "title": "Eagles rule out Zack Baun and Dontayvion Wicks for game vs. Steelers",
+      "description": "Zack Baun and Dontayvion Wicks are out against Pittsburgh. DeVonta Smith has no game designation after two straight full practices",
+      "url": "https://theeagleswire.usatoday.com/story/sports/nfl/eagles/2026/11/20/eagles-steelers-friday-injury-report-zack-baun-dontayvion-wicks/92884040007/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/6c4037c710ee0fb3c73c6f4d62ed97d0294d465d1a3b25b22ca51546e955cb7f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fphiladelphia_eagles_wire_usa_today_sports_articles_352%2Fed59386af765c27528a3bff29a012dd6.jpg",
+      "publishedAt": "2026-11-20T21:05:22Z",
+      "content": "The Philadelphia Eagles will face the Pittsburgh Steelers on Sunday without linebacker Zack Baun and wide receiver Dontayvion Wicks. The Eagles ruled both out Friday and listed linebacker Smael Mondo… [+1978 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Bethany Heitman",
+      "title": "Wired headphones are making a comeback — here’s why",
+      "description": "Wired headphones are making a comeback. Here are the top-rated wired earbuds and headphones, including Bose’s new release and Apple’s original earbuds.",
+      "url": "https://www.nbcnews.com/select/shopping/best-wired-headphones-rcna610454",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2026-11/261116-best-wired-headphones-lf-main-84ce4e.jpg",
+      "publishedAt": "2026-11-20T21:05:00Z",
+      "content": "For most of the last decade, corded headphones have been nearly nonexistent. Phone makers dropped the headphone jack, AirPods became the go-to, and a tangle of wire hanging from your ears started to … [+5798 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -177,6 +684,188 @@
       "urlToImage": null,
       "publishedAt": "2026-11-20T20:45:05Z",
       "content": "Launched in 1977, the hardy spacecraft is still sending messages back home from a staggering distance in interstellar space."
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Megan Cerullo",
+      "title": "Can Anthropic win hearts and minds by curing hearts and minds?",
+      "description": "Anthropic says Claude Science can drive breakthroughs in drug discovery. It could also open lucrative commercial opportunities, experts say.",
+      "url": "https://www.cbsnews.com/news/anthropic-drug-discovery-claude-science-ipo/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/20/5c33f6a6-ae8a-486a-bd91-9e64b48dc29f/thumbnail/1200x630/c2b898aa9cf22a2f23286e632b193795/gettyimages-2284782063.jpg",
+      "publishedAt": "2026-11-20T20:37:16Z",
+      "content": "Fresh off its record-setting initial public offering, Anthropic now must show investors that it can sustain growth and generate profits. The company has a plan for that: curing some of the world's gn… [+3528 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Clemente Almanza, OKC Thunder Wire",
+      "title": "Lu Dort pens thank-you letter over emotional OKC return: 'It’s always love'",
+      "description": "Lu Dort pens thank-you letter over emotional OKC return: 'It’s always love.'",
+      "url": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/11/20/lu-dort-pens-thank-you-letter-over-emotional-okc-return-its-always-love/92882633007/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/e465f847a8bff06d9e04ff4aaff0c8dd2088e5ea7c6addff53b67b5d69beed84/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthunder_wire_usa_today_sports_articles_686%2F241ea16675af7b5450d762de970282ca.jpg",
+      "publishedAt": "2026-11-20T20:05:49Z",
+      "content": "Add as a preferred source\r\nInside the visitors' locker room, Lu Dort couldn't shake off the weirdness he felt in his highly-anticipated return to Paycom Center. The Oklahoma City Thunder couldn't mus… [+1914 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Julia Fields",
+      "title": "Shop Black Friday gift deals for everyone, with stocking stuffers starting at $7",
+      "description": "Black Friday deals include Ugg boots at 30% off, a Le Creuset enameled cast iron Dutch oven for $280 and Bose QuietComfort headphones at 53% off this holiday season.",
+      "url": "https://www.foxnews.com/deals/black-friday-gift-deals",
+      "urlToImage": "https://m.media-amazon.com/images/I/31Ij0YEsf1L._SL500_.jpg",
+      "publishedAt": "2026-11-20T19:53:26Z",
+      "content": "With the holidays quickly approaching, take advantage of Black Friday deals across retailers to check off your gift list, while saving some money. Several retailers have discounts over 50% right now,… [+6264 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Kurt Knutsson CyberGuy Report",
+      "title": "Uber Parking could save you from circling the block",
+      "description": "Uber Parking launches in 15 U.S. cities after the SpotHero deal, offering upfront prices, Uber One credits, and a future role for robotaxis in garages.",
+      "url": "https://www.foxnews.com/tech/uber-parking-save-circling-block",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/uber-pickup-zone-lax-terminal.jpg",
+      "publishedAt": "2026-11-20T19:30:41Z",
+      "content": "You finally make it downtown for dinner, but now comes the real challenge. Finding somewhere to park. You circle the block once, then again. Before you know it, you're late and getting frustrated. So… [+11005 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Morgan Phillips, Ashley DiMella",
+      "title": "Tech outage cascade exposes US vulnerabilities to foreign cyber threats",
+      "description": "Six days of outages hit Microsoft 365, banks and NSA Net, and experts like Tommy Waller warn the disruptions may be more than just a coincidence.",
+      "url": "https://www.foxnews.com/politics/tech-outage-cascade-exposes-us-vulnerabilities-foreign-cyber-threats",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/NSA-canceled-flights.jpg",
+      "publishedAt": "2026-11-20T19:23:24Z",
+      "content": "U.S. adversaries have spent years developing ways to disrupt the country's critical infrastructure in a conflict, and the wave of technology disruptions affecting everything from banks to the Nationa… [+7114 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Armando Salguero",
+      "title": "NFL suspension was most tolerable thing Puka Nacua has endured this week because he's now out for the season",
+      "description": "Puka Nacua underwent MCL surgery and is likely lost for the season, Los Angeles Rams coach Sean McVay says, casting doubt on his return timeline.",
+      "url": "https://www.foxnews.com/outkick-sports/nfl-suspension-most-tolerable-thing-puka-nacua-endured-week-out-season",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/12/puka-nacua-los-angeles-rams.jpg",
+      "publishedAt": "2026-11-20T19:10:28Z",
+      "content": "It turns out the NFL suspension of Puka Nacua announced this week was not the worst news for the Los Angeles Rams wide receiver because he is likely out for the remainder of the season.\r\nRams coach S… [+2143 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Glenn Erby, Ravens Wire",
+      "title": "Jesse Minter expects Marlon Humphrey back with the Ravens on Monday",
+      "description": "Jesse Minter expects Marlon Humphrey back Monday after the Ravens deactivated the cornerback for Sunday’s game against the Panthers",
+      "url": "https://ravenswire.usatoday.com/story/sports/nfl/ravens/2026/11/20/ravens-marlon-humphrey-expected-back-monday-jesse-minter/92881301007/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/e35ff2bf4c43d86acf1da0b840d2957ece23522684ff36143c331021a687576d/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbaltimore_ravens_wire_usa_today_sports_articles_532%2Fa257df51db344d7d0890cdc92f635220.jpg",
+      "publishedAt": "2026-11-20T18:47:06Z",
+      "content": "Baltimore Ravens coach Jesse Minter expects cornerback Marlon Humphrey back at the team's facility Monday, a day after Humphrey will sit out against the Carolina Panthers. Minter gave that timeline F… [+1746 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Christian D'Andrea, For The Win",
+      "title": "How much will Daniel Jones make NOT to play for the Colts anymore?",
+      "description": "Signing Jones to an $88 million contract extension in the spring means lots of dead salary cap space for 2027.",
+      "url": "https://ftw.usatoday.com/story/sports/nfl/2026/11/20/how-much-will-daniel-jones-make-not-to-play-for-colts-salary-cap/92880743007/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/488eb4b3fe8cc3f9e36b77da7cb3fa3d28fabeb938db5adcb5d2663b15acefc7/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fftw_outdoors_usa_today_article_609%2Fedc072afd167d6618ac9b372ceb64db2.jpg",
+      "publishedAt": "2026-11-20T18:38:24Z",
+      "content": "The Indianapolis Colts came to the familiar end of the Daniel Jones football life cycle. After exceeding low expectations and signing a big contract, he's been yet again cast off to the wastelands of… [+2524 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Marvin Uzor, Raiders Wire",
+      "title": "Raiders vs. Broncos key matchups start with keeping Nik Bonitto at bay",
+      "description": "Nik Bonitto's pass rush, a Denver defense that struggles with tight ends and a thin Raiders interior line headline Sunday's key matchups",
+      "url": "https://raiderswire.usatoday.com/story/sports/nfl/raiders/2026/11/20/raiders-broncos-key-matchups-week-11/92879284007/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/e88e0fa0066bcc217f87215118e0c7caf86dc86396e4221911b45a274422edf4/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flas_vegas_raiders_wire_usa_today_sports_articles_842%2F2264dfb83a5522523e6b1834f59cb0c7.jpg",
+      "publishedAt": "2026-11-20T18:32:09Z",
+      "content": "The Denver Broncos punt on 44.4% of their drives, a higher rate than every NFL team but one, per Sharp Football Analysis. They're still 7-2 because their defense keeps covering for an offense that st… [+2686 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Golfweek Tim Schmitt",
+      "title": "Ben Crenshaw's emotional plea on boyhood golf course could save it forever",
+      "description": "Ben Crenshaw is fighting to save the historic Lions Municipal Golf Course as Austin nears a deal to preserve it.",
+      "url": "https://golfweek.usatoday.com/story/sports/golf/courses/2026/11/20/ben-crenshaw-emotional-plea-save-austin-texas-golf-course/92861742007/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/458cec3fc116449bada729a2ab6a0715bfdc5dce9bc9b921f945b29fd8947179/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_golfweek_articles_635%2F1e4c404651baee34a359bbcb84d0467e.jpg",
+      "publishedAt": "2026-11-20T18:20:53Z",
+      "content": "Ben Crenshaw stood before the Austin City Council this week and made one more emotional plea for the golf course that helped shape his life.\r\n\"Muny is far more than a golf course,\" Crenshaw said of h… [+6081 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Kole Musgrove, Seahawks Wire",
+      "title": "Seahawks restructure the contracts of 3 star players",
+      "description": "Seattle has created $9.88 million in cap space with these contract restructures.",
+      "url": "https://seahawkswire.usatoday.com/story/sports/nfl/seahawks/2026/11/20/sam-darnold-julian-love-and-ernest-jones-have-deals-restructured/92880386007/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/455355307c61158c526a42d973cfc00b55b7317761a2dd04179052376f8f0e77/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fseattle_seahawks_wire_usa_today_sports_articles_798%2F871c39750b502eab0bf9e90528f6b6ef.jpg",
+      "publishedAt": "2026-11-20T18:11:21Z",
+      "content": "The Seattle Seahawks may be on their Bye Week, but that's not stopping general manager John Schneider from staying busy. On Friday morning, a trio of transactions took place at the Virginia Mason Ath… [+2220 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Sage Anderson",
+      "title": "This compact power station can keep a small fridge running, and it’s now 52% off",
+      "description": "The Bluetti Elite 100 Mini is more than $400 and at its lowest price ever. The compact 1kWh power station can run Wi-Fi or a small fridge for over a day.",
+      "url": "https://www.nbcnews.com/select/shopping/bluetti-elite-mini-power-station-deal-of-the-day-2026-rcna610434",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2026-11/261120-dotd-bluetti-power-station-lf-main-af1e60.jpg",
+      "publishedAt": "2026-11-20T17:35:00Z",
+      "content": "If you’ve ever lost power during a winter storm and watched your phone battery tick down by candlelight, you know how fast an outage can go from inconvenient to full-blown stressful. Getting a portab… [+3140 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Glenn Erby, Eagles Wire",
+      "title": "Zack Baun and Smael Mondon miss final Eagles practice before Steelers game",
+      "description": "Zack Baun and Smael Mondon Jr. missed Friday practice, leaving Jihaad Campbell and Jeremiah Trotter Jr. in line to start Sunday",
+      "url": "https://theeagleswire.usatoday.com/story/sports/nfl/eagles/2026/11/20/eagles-zack-baun-smael-mondon-friday-practice-steelers/92879543007/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/a9bcb1d3411d8b96a52fe9751d837432da13ae9c88d64b98a853d68c50c77951/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fphiladelphia_eagles_wire_usa_today_sports_articles_352%2Fc0fc7e7aa9e2fe677476915b67b2b516.jpg",
+      "publishedAt": "2026-11-20T17:24:49Z",
+      "content": "Philadelphia Eagles linebackers Zack Baun and Smael Mondon Jr. missed practice Friday, according to The Philadelphia Inquirer's Jeff McLane, putting both players in jeopardy for Week 11. Baun has mis… [+1561 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Alejandro Avila",
+      "title": "Detroit Pistons to host Muslim Night with El-Sayed shoutout, Gaza donations; no Christian-focused event",
+      "description": "Detroit Pistons' American Muslim Night bundles halal food, a prayer space, and a $33 ticket package with a video saluting Senator-elect Abdul El-Sayed.",
+      "url": "https://www.foxnews.com/outkick-sports/nba-detroit-pistons-host-muslim-night-abdul-el-sayed-shoutout-gaza-relief-charity",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/abdul-el-sayed-michigan-fox-news.jpg",
+      "publishedAt": "2026-11-20T17:09:29Z",
+      "content": "Halal concessions, a dedicated prayer space, and a video shoutout to Senator-elect Abdul El-Sayed are all part of the Detroit Pistons' third annual American Muslim Night on Sunday, Nov. 29, against t… [+3034 chars]"
     },
     {
       "source": {
@@ -193,6 +882,45 @@
     },
     {
       "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Stefan Becket",
+      "title": "New UFO files show contractor planned vault for \"exotic material\"",
+      "description": "The Pentagon's latest batch of UFO files includes a report from a government contractor detailing plans for an underground vault to store \"exotic material or tissue\" it was seeking.",
+      "url": "https://www.cbsnews.com/news/ufo-files-pentagon-contractor/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/20/b927b4a4-8fcb-4361-ada8-b28de36e7d97/thumbnail/1200x630/22f9744f657bc1cee5bd7fdb348266cf/screenshot-2026-11-20-at-10-47-10-am.png",
+      "publishedAt": "2026-11-20T15:57:55Z",
+      "content": "Washington — The Pentagon released a new batch of UFO files on Friday, including one report from a government contractor detailing plans for an underground vault to store \"exotic material or tissue\" … [+3739 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "David Hookstead",
+      "title": "From panic rooms to private bowling alleys, Reddit reveals what only rich people have at home",
+      "description": "Reddit users reveal the luxury home features only the wealthy enjoy, from panic rooms and wine cellars to chef's kitchens and hidden fridges.",
+      "url": "https://www.foxnews.com/outkick-culture/panic-rooms-private-bowling-alleys-reddit-reveals-rich-people-home",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/wealthy-estates.jpg",
+      "publishedAt": "2026-11-20T15:57:45Z",
+      "content": "What's an item you might only find in a wealthy person's house?\r\nAs readers know, I'm fascinated by the topics you can find on Reddit. It's truly one of the most entertaining places on the internet.\r… [+5050 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Scooby Axson",
+      "title": "Shohei Ohtani's unusual New Balance deal is making MLB history",
+      "description": "Apparel company New Balance and Los Angeles Dodgers star Shohei Ohtani extend their partnership for the remainder of his playing career.",
+      "url": "https://www.usatoday.com/story/sports/mlb/dodgers/2026/11/20/shohei-ohtani-new-balance-deal-mlb-history/92876431007/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/d6c60985862d2a3dd182d5b15a58e6b9dfe9b4702484a8cea0e123f7545f6cba/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F4b044b59a49d47255951c776d6633dfe.jpg",
+      "publishedAt": "2026-11-20T15:20:41Z",
+      "content": "Los Angeles Dodgers superstar Shohei Ohtani has set records and made history since he signed to play in Major League Baseball. Now the four-time MVP is making endorsement history.\r\nOhtani has extende… [+1989 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -203,6 +931,32 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/19/multimedia/19CLI-COP31-SCENE-top-qltf/19CLI-COP31-SCENE-top-qltf-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-20T15:20:14Z",
       "content": "A record number of people are attending the U.N. climate talks in Turkey, which has become part trade show, part carnival, part climate therapy session."
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Geoffrey A Knox, Jets Wire",
+      "title": "Geno Smith, Garrett Wilson add context to Jets red zone inefficiency",
+      "description": "The Jets' inability to finish drives has become a glaring problem, and two of their most important offensive players aren't avoiding the conversation.",
+      "url": "https://jetswire.usatoday.com/story/sports/nfl/jets/2026/11/20/geno-smith-garrett-wilson-add-context-jets-red-zone-inefficiency/92848738007/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/1b0569db4817e9562ca4247ddf6130a4197679a4cd02201e540de831a8944b6f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fny_jets_wire_usa_today_sports_articles_149%2F23595bb17a650fc9269661c6050d58db.jpg",
+      "publishedAt": "2026-11-20T14:44:53Z",
+      "content": "There's something particularly frustrating about watching an offense move the football, only to have everything fall apart when the end zone is finally within reach. The New York Jets have become all… [+3125 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Rob Wile",
+      "title": "Anthropic shares tank after blockbuster IPO, pulling the rest of the market down",
+      "description": "A bruising stock market sell off looked set to continued despite a record-setting IPO by Anthropic and hopes it would revive sentiment on the AI trade.",
+      "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2026-11/2612118-anthropic-logo-ww-1239-35b0c8.jpg",
+      "publishedAt": "2026-11-20T14:20:57Z",
+      "content": "A bruising stock market sell-off looked set to continue Friday, despite high hopes that Anthropics record-setting IPO a day earlier would revive sentiment around the flagging AI trade.\r\nInstead, Frid… [+2371 chars]"
     },
     {
       "source": {
@@ -219,6 +973,97 @@
     },
     {
       "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Amarachi Orie",
+      "title": "Older people with religious or spiritual beliefs enjoy better quality of life, study suggests | CNN",
+      "description": "Older adults who are religious or spiritual enjoy a better quality of life than those without faith in a higher power, a study of more than 5,000 people has found.",
+      "url": "https://www.cnn.com/2026/11/20/health/religious-spiritual-older-adults-intl-scli-wellness",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1869556819.jpg?c=original",
+      "publishedAt": "2026-11-20T14:11:09Z",
+      "content": "Older adults who are religious or spiritual enjoy a better quality of life than those without faith in a higher power, a study of more than 5,000 people has found. Public health researchers at the Un… [+7148 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Mark Osborne, Rob Marciano",
+      "title": "Flooding prompts hundreds of water rescues in Florida",
+      "description": "The St. Johns River reached a new record high, crossing over 18 feet for the first time ever.",
+      "url": "https://www.cbsnews.com/news/florida-flooding-rain-brevard-county/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/20/5d5c85cb-16f8-44dc-8119-3baf33bdcf7a/thumbnail/1200x630/3665f59d608ebf14453e1721767a6d55/ap26323714134181.jpg",
+      "publishedAt": "2026-11-20T14:05:32Z",
+      "content": "Extreme flooding in central Florida has led to hundreds of water rescues due to more than 2 feet of rain over the past two days in some locations — and the threat is not over.\r\nThere have been more t… [+2017 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Clemente Almanza, OKC Thunder Wire",
+      "title": "Full injury report for Friday's Pelicans vs. Thunder matchup",
+      "description": "Full injury report for Friday's New Orleans Pelicans vs. Oklahoma City Thunder matchup.",
+      "url": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/11/20/full-injury-report-for-fridays-pelicans-vs-thunder-matchup/92870705007/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/6e3d3bb34294424799e0a2b011f3d5683ecf38b1725accc8ad294dd4b740239f/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthunder_wire_usa_today_sports_articles_686%2Feb06eec3c2710be7c8362fbef885c7ec.jpg",
+      "publishedAt": "2026-11-20T14:01:49Z",
+      "content": "The Oklahoma City Thunder play the New Orleans Pelicans on Wednesday, and if you're looking to do some last-minute betting research, you're in luck! We'll give you the latest point spread, money line… [+1303 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Mehek Cooke",
+      "title": "Trump can finally deliver the immigration bargain Reagan was promised",
+      "description": "Attorney Mehek Cooke argues that Trump can fix Reagan's failed 1986 amnesty bargain by mandating E-Verify and codifying border security before any legal relief expands.",
+      "url": "https://www.foxnews.com/opinion/trump-finally-deliver-immigration-bargain-reagan-was-promised",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/04/trump-border.jpg",
+      "publishedAt": "2026-11-20T13:50:37Z",
+      "content": "Washington broke immigration and now offers America two politically convenient but false extremes: deport everyone or grant blanket amnesty. This choice prevents us from solving a problem intentional… [+5511 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Matt Richardson",
+      "title": "Credit card balances just rose by $22 billion. Here are 3 ways to deal with your debt now.",
+      "description": "With credit card balances surging again, borrowers should examine the ways in which they can tackle their debt.",
+      "url": "https://www.cbsnews.com/news/credit-card-balances-rose-22-billion-ways-to-deal-with-debt/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/13/2c95b34c-f8ca-49f8-8dfb-e6c0d1408c98/thumbnail/1200x630/ac51c82176824bbef904e683e259200e/gettyimages-475279818.jpg",
+      "publishedAt": "2026-11-20T13:17:47Z",
+      "content": "If your credit card bill keeps increasing each month, it may help to know that you're not the only one. Credit card debt remains a considerable financial burden for Americans, a report released by th… [+4127 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Andrea Margolis",
+      "title": "1,800-year-old Roman toddler's grave found frozen in time, and it still had toys inside",
+      "description": "A Roman child burial in the Tomis necropolis revealed clay toys, bronze amulets and flower garlands preserved for 1,800 years in an intact sarcophagus in Romania.",
+      "url": "https://www.foxnews.com/travel/1800-year-old-roman-toddler-grave-found-frozen-time-toys-inside",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/ROMANIA-ANCIENT-ROMAN-CHILD-ARCHAEOLOGY-DISCOVERY-HISTORY-1.jpg",
+      "publishedAt": "2026-11-20T13:00:38Z",
+      "content": "Archaeologists in Romania have unsealed an intact 1,800-year-old Roman child's sarcophagus finding clay toys, protective amulets and preserved flower garlands buried alongside the toddler's remains.\r… [+4214 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Robert Schmad",
+      "title": "America's largest IPO ever carries potentially seismic implications for political spending ahead of 2028",
+      "description": "Anthropic makes its stock market debut Thursday at a $1.5 trillion valuation as its seven co-founders each pledge to give away 80% of their equity.",
+      "url": "https://www.foxnews.com/politics/americas-largest-ipo-carries-seismic-implications-political-spending-ahead-2028",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/dario-amodei-mark-zuckerberg-trump-ai-briefing.jpg",
+      "publishedAt": "2026-11-20T13:00:30Z",
+      "content": "Anthropic’s Thursday stock market debut, valued at around $1.5 trillion, is the largest in American history and, given promises made by its founders, is likely the preface to a similarly historic flo… [+8516 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -229,6 +1074,71 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/20/multimedia/20cli-permitting-senate-HFO2-qlhz/20cli-permitting-senate-HFO2-qlhz-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-20T12:31:59Z",
       "content": "The bill would overhaul federal environmental laws to make it easier to build everything from gas pipelines to wind farms. But it faces hurdles in the House."
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Brandon Walker, Broncos Wire",
+      "title": "Broncos LB Alex Singleton talks Bo Nix, Sean Payton and more with Rich Eisen",
+      "description": "Broncos LB Alex Singleton joined Rich Eisen to talk about the state of the team going into the second half of the season.",
+      "url": "https://broncoswire.usatoday.com/story/sports/nfl/broncos/2026/11/20/denver-broncos-alex-singleton-on-bo-nix-and-sean-payton/92828093007/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/01941378c87d913fa17821f7f92df9316d5498f0a06e2312c71f000c4b94171c/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdenver_broncos_wire_usa_today_sports_articles_584%2F2dcf044fa5edea058788fedb7e0c771d.jpg",
+      "publishedAt": "2026-11-20T12:00:40Z",
+      "content": "The Denver Broncos' bye week provided an opportunity for players to rest and recover from a brutal first half of the schedule before gearing up for the final\r\nDuring the bye week, Broncos linebacker … [+2615 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Melissa Rudy",
+      "title": "Mysterious illness tied to breast implants shares symptoms with MS, but key questions remain",
+      "description": "Christina Applegate suspects her breast implants could be behind joint pain and other symptoms, saying she plans to discuss it with her doctors.",
+      "url": "https://www.foxnews.com/health/mysterious-illness-tied-breast-implants-shares-symptoms-ms-key-questions-remain",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/woman-holding-breast-implants.jpg",
+      "publishedAt": "2026-11-20T12:00:00Z",
+      "content": "Weeks after Christina Applegate revealed she had been misdiagnosed with multiple sclerosis, the actress has shared a suspicion that her breast implants could be to blame for her symptoms.\r\nOn a Nov. … [+7599 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Todd Brock, Cowboys Wire",
+      "title": "Cowboys Headlines: Parker's awkward presser, Turpin back at KR, Dak tops dubious list",
+      "description": "Christian Parker's awkward presser leaves more questions than answers, KaVontae Turpin will return kicks again, and Dak Prescott tops a dubious list.",
+      "url": "https://cowboyswire.usatoday.com/story/sports/nfl/cowboys/2026/11/20/news-headlines-november-19-2026-christian-parker-presser-dak-prescott-most-betrayed-qb/92870813007/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/843d55923644d50668bba41da9c12b2a63a5d7c0728707f580284523d9a87ce6/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdallas_cowboys_wire_usa_today_sports_articles_693%2F4840becb5dff3af2054d813c4f7b1aae.jpg",
+      "publishedAt": "2026-11-20T11:06:51Z",
+      "content": "Christian Parker's weekly press conference topped the headlines on Thursday, but while the Cowboys' first-year defensive coordinator gave plenty of answers regarding the stripping of his playcalling … [+4284 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Robert Schmad",
+      "title": "Elon Musk's space giant cozies up to Dem power brokers as party vows to put his empire under siege",
+      "description": "Elon Musk's SpaceX hired five Democratic lobbyists as Democrats promise probes into Ukraine satellite claims, Pentagon reliance and Chinese investors.",
+      "url": "https://www.foxnews.com/politics/elon-musks-space-giant-cozies-up-dem-power-brokers-party-vows-put-his-empire-under-siege",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/05/elon-musk.jpg",
+      "publishedAt": "2026-11-20T11:00:32Z",
+      "content": "Elon Musks SpaceX has hired a team of veteran Washington lobbyists with Democratic connections as the party prepares to take control of Congress and intensify scrutiny of his business empire.\r\nDemocr… [+3215 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Coke Morgan Stewart",
+      "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
+      "description": "The DOJ's embrace of fair use for AI training breaks with the White House's own framework, as OpenAI, Microsoft and news groups battle over copyright.",
+      "url": "https://www.foxnews.com/opinion/americans-dont-choose-between-ai-future-ripping-off-copyright-owners",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/Sam_Altman_UAE.jpg",
+      "publishedAt": "2026-11-20T10:06:43Z",
+      "content": "One of the biggest court battles over artificial intelligence (AI) is putting an age-old legal principle to the test and raising important questions about the Trump administration's AI policy.\r\nSever… [+5909 chars]"
     },
     {
       "source": {
@@ -245,6 +1155,58 @@
     },
     {
       "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Douglas MacKinnon",
+      "title": "‘Austin Powers’ star Mike Myers seems to think liberal Hollywood is just ‘groovy’",
+      "description": "Mike Myers teased political commentary for Austin Powers in a Variety interview posted on Veterans Day, Nov. 11, saying \"the world has happened.\"",
+      "url": "https://www.foxnews.com/opinion/austin-powers-star-mike-myers-liberal-hollywood-groovy",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/Dr-Evil-screenshot.png",
+      "publishedAt": "2026-11-20T10:00:43Z",
+      "content": "On Veterans Day, Nov. 11, Variety posted a quick interview with actor Mike Myers on X that has over 600,000 views and counting. At the outset, I should state that I have long been a fan of Myers. Par… [+5789 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Landon Mion",
+      "title": "Pro-life group says Trump admin didn't give key abortion drug commitments before Overton FDA nomination pulled",
+      "description": "Susan B. Anthony Pro-Life America opposed Heidi Overton's FDA confirmation until the Trump administration committed to ending mail-order abortion drugs.",
+      "url": "https://www.foxnews.com/politics/pro-life-group-says-trump-admin-didnt-give-key-abortion-drug-commitments-overton-fda-nomination-pulled",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/heidi-overton.png",
+      "publishedAt": "2026-11-20T05:32:52Z",
+      "content": "A leading pro-life group said it opposed advancing Heidi Overton's nomination to lead the Food and Drug Administration without commitments from the Trump administration on abortion drug policy. The W… [+7223 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Issy Ronald",
+      "title": "Ten years on, is the UK preparing to undo Brexit? | CNN",
+      "description": "Leaders from the United Kingdom and European Union are meeting for a landmark summit as British Prime Minister Andy Burnham pushes for a closer relationship with the bloc a decade after the Brexit vote.",
+      "url": "https://www.cnn.com/2026/11/20/uk/united-kingdom-uk-brexit-vote-intl",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap26322537590934.jpg?c=original",
+      "publishedAt": "2026-11-20T05:01:15Z",
+      "content": "Leaders from the United Kingdom and European Union will meet for a landmark summit on Friday as British Prime Minister Andy Burnham pushes for a closer relationship with the bloc a decade after the B… [+6767 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Sahil Kapur",
+      "title": "Senate passes bill simplifying permitting rules to build in America, sending it to House",
+      "description": "The Senate voted 62-33 on Thursday night to pass a sweeping bill to simplify and overhaul permitting rules for energy and infrastructure projects.",
+      "url": "https://www.nbcnews.com/politics/congress/senate-passes-sweeping-bill-simplifying-permitting-rules-build-america-rcna610196",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2026-11/261119-act-rs-d23ebe.jpg",
+      "publishedAt": "2026-11-20T03:09:51Z",
+      "content": "WASHINGTON — The Senate voted 62-33 on Thursday night to pass a sweeping bill to simplify and overhaul permitting rules for energy and infrastructure projects. The bill, called the Bipartisan America… [+3210 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -258,316 +1220,95 @@
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
+        "id": "fox-news",
+        "name": "Fox News"
       },
-      "author": "Claire Brown",
-      "title": "Unexpected Fallout From the Iran War",
-      "description": "Global oil shocks are accelerating the shift to electric vehicles and renewable energy, a new report finds.",
-      "url": "https://www.nytimes.com/2026/11/19/climate/iea-energy-transition-electric-cars.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/19/multimedia/19cli-newsletter-energy-lzwh/19cli-newsletter-energy-lzwh-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-19T21:40:38Z",
-      "content": "Global oil shocks are accelerating the shift to electric vehicles and renewable energy, a new report finds."
+      "author": "Brian Flood",
+      "title": "Trump clears hurdle in $15 billion lawsuit against New York Times",
+      "description": "President Donald Trump’s legal team celebrated Thursday after a judge denied The New York Times’ motion to dismiss a $15 billion defamation lawsuit against the paper.",
+      "url": "https://www.foxnews.com/media/trump-clears-hurdle-15-billion-lawsuit-against-new-york-times",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Trump-New-York-Times.jpg",
+      "publishedAt": "2026-11-20T00:02:15Z",
+      "content": "President Donald Trumps legal team is celebrating Thursday after a judge denied The New York Times motion to dismiss the presidents $15 billion defamation lawsuit against the paper.\r\nU.S. District Ju… [+3896 chars]"
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
+        "id": "nbc-news",
+        "name": "NBC News"
       },
-      "author": "Andrew Jacobs",
-      "title": "Studies Could Pave Way for Blood Test to Detect C.T.E. in Living Patients",
-      "description": "An unusual protein may turn out to be a way to diagnose the chronic brain disease, which disproportionately affects athletes in contact sports.",
-      "url": "https://www.nytimes.com/2026/11/19/science/cte-blood-test-diagnosis.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/19/multimedia/19SCI-CTESTUDIES-wczp/19SCI-CTESTUDIES-wczp-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-19T21:08:14Z",
-      "content": "An unusual protein may turn out to be a way to diagnose the chronic brain disease, which disproportionately affects athletes in contact sports."
+      "author": "Evan Bush",
+      "title": "El Niño strikes again, breaking rain records in San Francisco and along Florida’s Atlantic coast",
+      "description": "A strong El Nino is once again rearing its head, with storms breaking rainfall records and causing coastal flooding in both California and Florida.",
+      "url": "https://www.nbcnews.com/weather/storms/rain-records-storms-san-francisco-florida-el-nino-rcna610332",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2026-11/261119-san-francisco-ew-615p-cc7271.jpg",
+      "publishedAt": "2026-11-19T23:49:36Z",
+      "content": "As storms pound both coasts on Wednesday and Thursday, a strong El Niño is once again rearing its head, breaking rainfall records and causing coastal flooding in California and Florida. Downtown San … [+3892 chars]"
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
+        "id": "nbc-news",
+        "name": "NBC News"
       },
-      "author": "Quinn Glabicki",
-      "title": "Judge Finds Trump’s Planned Seabed Mining Auction Violated Law",
-      "description": "It’s unclear whether the Trump administration will proceed with a lease sale set for Thursday to permit companies to mine the ocean floor off American Samoa.",
-      "url": "https://www.nytimes.com/2026/11/17/climate/seabed-mining-lease-auction.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/17/science/17CLI-SEABED-MINING/17CLI-SEABED-MINING-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-19T20:31:15Z",
-      "content": "It’s unclear whether the Trump administration will proceed with a lease sale set for Thursday to permit companies to mine the ocean floor off American Samoa."
+      "author": "Zoe Malin",
+      "title": "Talking Shop with comedian Heather McMahan",
+      "description": "Comedian Heather McMahan is going on tour in 2027. She’s not traveling without her favorite packing cubes, snacks, lashes and compression socks.",
+      "url": "https://www.nbcnews.com/select/shopping/heather-mcmahan-favorite-things-rcna610295",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2026-11/261118-talking-shop-heather-mcmahan-dj-main-d5e1f6.jpg",
+      "publishedAt": "2026-11-19T22:35:00Z",
+      "content": "Talking Shop is our series where we talk to interesting people about their most interesting buys. \r\nOne of the things Heather McMahan has become an expert in throughout her career as a comedian is tr… [+5694 chars]"
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
+        "id": "usa-today",
+        "name": "USA Today"
       },
-      "author": "Brad Plumer",
-      "title": "The Permitting Bill Is Splitting the Environmental Movement",
-      "description": "Speeding up approvals for clean energy could help fight global warming — but many green groups fear its other provisions go too far.",
-      "url": "https://www.nytimes.com/2026/11/18/climate/permitting-bill-baaja-environmentalists-energy.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/18cli-permitting-debate-stillpromo/18cli-permitting-debate-stillpromo-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-19T17:50:00Z",
-      "content": "Speeding up approvals for clean energy could help fight global warming — but many green groups fear its other provisions go too far."
+      "author": "Blake Schuster, Jared Beilby",
+      "title": "NFL, MLB campaign donations topped $1 million for midterms. Was it worth it?",
+      "description": "USA TODAY Sports analyzed NFL and MLB PAC spending to see which candidates got money, which parties benefited and who won. See the results.",
+      "url": "https://www.usatoday.com/story/sports/2026/11/19/nfl-mlb-pac-political-donations-2026-election/92664626007/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/fe31d916fae78642a0f5415297a5289eb6a65d87e76361263164de475943c7d3/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F69d8271e1375b7bafc29865cd85c580e.png",
+      "publishedAt": "2026-11-19T22:08:08Z",
+      "content": "The political action committees of Major League Baseball and the National Football League gave more than $1 million dollars combined to candidates during the midterm elections, and each came away wit… [+5039 chars]"
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
+        "id": "usa-today",
+        "name": "USA Today"
       },
-      "author": "Zane Irwin",
-      "title": "Uncontacted Awá of Brazil Emerge From Rainforest Seeking Food",
-      "description": "A group of 20 people emerged from the forest and asked for food, an Indigenous peoples’ rights group said, raising fears that environmental degradation had left them with no choice but to reach out.",
-      "url": "https://www.nytimes.com/2026/11/18/world/americas/brazil-amazon-indigenous-contact.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-Brazil-Indigenous-tvjz/18int-Brazil-Indigenous-tvjz-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-19T16:34:42Z",
-      "content": "A group of 20 people emerged from the forest and asked for food, an Indigenous peoples’ rights group said, raising fears that environmental degradation had left them with no choice but to reach out."
+      "author": "Golfweek Beth Ann Nichols",
+      "title": "After 66 at CME, Charley Hull dishes on the detox needed to win in 2016",
+      "description": "Asked how her game has changed over the past 10 years, Hull said she didn't take golf seriously back then.",
+      "url": "https://golfweek.usatoday.com/story/sports/golf/lpga/2026/11/19/charley-hull-lpga-cme-detox/92865644007/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/20fb23aca2d9919273d8bffb3df229ddd1c3af9228bba3447f61f33478a7a0de/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_golfweek_articles_635%2F044d8bf038a97249ca416ea527c509ca.jpg",
+      "publishedAt": "2026-11-19T21:55:07Z",
+      "content": "NAPLES, FL Charley Hull won the CME Group Tour Championship 10 years ago. Much has changed since then, including the winner's check, which has ballooned from $500,000 to $4 million. After an opening … [+4061 chars]"
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
+        "id": "cbs-news",
+        "name": "CBS News"
       },
-      "author": "K. R. Callaway",
-      "title": "Inca Children Were Given Cocaine and Ayahuasca Before Being Sacrificed",
-      "description": "A toxicological study of frozen mummies from the Andes sheds light on what happened before a sacred ritual of the Inca Empire.",
-      "url": "https://www.nytimes.com/2026/11/18/science/inca-children-drugs-cocaine-ayahuasca-sacrifices.html",
-      "urlToImage": null,
-      "publishedAt": "2026-11-19T14:50:13Z",
-      "content": "A toxicological study of frozen mummies from the Andes sheds light on what happened before a sacred ritual of the Inca Empire."
+      "author": "Megan Cerullo",
+      "title": "Consumers stock doomsday pantries as tech outages cause jitters",
+      "description": "Companies such as Costco and Walmart are seeing a surge in sales for generators, canned goods and other disaster-preparedness staples.",
+      "url": "https://www.cbsnews.com/news/doomsday-prepping-scenarios-walmart-costco-technology-outages/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/19/930dc987-2d21-4598-ae0c-944fde6a9113/thumbnail/1200x630/f8a6b8a7e2a2f4f2524a993171257519/gettyimages-2209167716.jpg",
+      "publishedAt": "2026-11-19T21:54:18Z",
+      "content": "Public anxiety over a string of technology failures is driving some Americans to plan for the worst. \r\nJittery shoppers are stocking up on generators, shelf-stable canned goods, bottled water and oth… [+3579 chars]"
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
+        "id": "nbc-news",
+        "name": "NBC News"
       },
-      "author": "David Gelles",
-      "title": "‘Shocking’ Signs of Climate Change Add Urgency to COP31 Talks",
-      "description": "From the Arctic to the tropics, unusual weather and extreme heat is sparking worry about how quickly humans are reshaping the Earth’s natural processes.",
-      "url": "https://www.nytimes.com/2026/11/18/climate/cop31-climate-global-warming.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/18cli-cop31-disruption-top-fctl/18cli-cop31-disruption-top-fctl-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-19T13:56:49Z",
-      "content": "From the Arctic to the tropics, unusual weather and extreme heat is sparking worry about how quickly humans are reshaping the Earth’s natural processes."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "David Gelles and Lisa Friedman",
-      "title": "Nepal Came to COP31 in Dire Need. It’s a Test for the World.",
-      "description": "A deadly glacier collapse left the country with $5 billion in recovery costs. So far, few have stepped up with aid.",
-      "url": "https://www.nytimes.com/2026/11/18/climate/nepal-disaster-aid-cop31.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/18CLI-COP-NEPAL1-kwcm/18CLI-COP-NEPAL1-kwcm-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-18T20:08:36Z",
-      "content": "A deadly glacier collapse left the country with $5 billion in recovery costs. So far, few have stepped up with aid."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Emily Anthes",
-      "title": "N.I.H. Will Move Final Group of Retired Research Chimps to Sanctuary",
-      "description": "The National Institutes of Health, which stopped supporting invasive research on chimpanzees in 2015, previously said the animals were too old and frail to move.",
-      "url": "https://www.nytimes.com/2026/11/18/science/nih-chimpanzees-sanctuary.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/18SCI-NIH-CHIMPS-wmlq/18SCI-NIH-CHIMPS-wmlq-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-18T19:09:37Z",
-      "content": "The National Institutes of Health, which stopped supporting invasive research on chimpanzees in 2015, previously said the animals were too old and frail to move."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Gina Kolata",
-      "title": "An Unspoken Rule Spreads Through Biotech: Share Nothing",
-      "description": "Concerns that well-funded Chinese companies will swoop in to grab new ideas for their own drug development are shaping an industry unaccustomed to such secrecy.",
-      "url": "https://www.nytimes.com/2026/11/17/science/fearing-chinese-rivals-us-biotech-adopts-a-new-norm-share-nothing.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/03/multimedia/00SCI-US-CHINA-IP-01-qhfc/00SCI-US-CHINA-IP-01-qhfc-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-18T18:06:58Z",
-      "content": "Concerns that well-funded Chinese companies will swoop in to grab new ideas for their own drug development are shaping an industry unaccustomed to such secrecy."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Eric Boodman",
-      "title": "California Research Measure Is a Windfall for a Billionaire’s Pet Project",
-      "description": "A recently passed ballot proposition allows for billions of dollars in resources to be directed to one particular research institute. Critics contend the move could be unconstitutional.",
-      "url": "https://www.nytimes.com/2026/11/18/science/california-prop-38-gary-michelson.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/17/science/17SCI-PROP-38-FINE-PRINT/17SCI-PROP-38-FINE-PRINT-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-18T16:59:40Z",
-      "content": "A recently passed ballot proposition allows for billions of dollars in resources to be directed to one particular research institute. Critics contend the move could be unconstitutional."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Christina Jewett",
-      "title": "White House Withdraws Nomination of Heidi Overton to Be F.D.A. Commissioner",
-      "description": "The Senate health committee was scheduled to vote on her nomination Wednesday morning after wrestling with concerns about her stance on abortion and vaccines.",
-      "url": "https://www.nytimes.com/2026/11/17/us/overton-fda-nomination-withdrawn.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/17/multimedia/17DC-FDA-OVERTON-hpzm/17DC-FDA-OVERTON-hpzm-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-18T03:26:28Z",
-      "content": "The Senate health committee was scheduled to vote on her nomination Wednesday morning after wrestling with concerns about her stance on abortion and vaccines."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Brad Plumer",
-      "title": "Permitting Bill Would Charge Data Centers Billions for Power",
-      "description": "The permitting bill could make it easier to build data centers for A.I. but a novel provision would also force data centers to pay much more for power.",
-      "url": "https://www.nytimes.com/2026/11/16/climate/permitting-bill-data-centers-electricity-rates.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/16/multimedia/16cli-permitting-data-centers-01-qhbt/16cli-permitting-data-centers-01-qhbt-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-18T00:59:09Z",
-      "content": "The permitting bill could make it easier to build data centers for A.I. but a novel provision would also force data centers to pay much more for power."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "David Quammen",
-      "title": "How the Measles Virus Makes Your Immune System Forget",
-      "description": "The United States has lost its measles-elimination status, signaling the return of a virus that can cause lasting health consequences.",
-      "url": "https://www.nytimes.com/2026/11/17/science/measles-virus-immune-system.html",
-      "urlToImage": null,
-      "publishedAt": "2026-11-17T19:22:45Z",
-      "content": "The United States has lost its measles-elimination status, signaling the return of a virus that can cause lasting health consequences."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "K. R. Callaway",
-      "title": "A New, Bold Antarctic Rescue: Bringing Shackleton’s Outpost Back to Life",
-      "description": "An abandoned station manager’s villa — the site of a historic effort to save the explorer’s marooned crew — has now been restored. Take a tour inside.",
-      "url": "https://www.nytimes.com/2026/11/17/science/ernest-shackleton-antarctic-south-georgia-villa.html",
-      "urlToImage": null,
-      "publishedAt": "2026-11-17T19:21:15Z",
-      "content": "An abandoned station manager’s villa — the site of a historic effort to save the explorer’s marooned crew — has now been restored. Take a tour inside."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Jonathan Moens",
-      "title": "A.I.’s People-Pleasing Problem",
-      "description": "A new report found that popular chatbots often abandon scientific facts to affirm users’ beliefs.",
-      "url": "https://www.nytimes.com/2026/11/17/climate/climate-chatbots-people-pleasers.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/17/multimedia/17cli-newsletter-chatbots-sub-whjm/17cli-newsletter-chatbots-sub-whjm-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-17T19:16:41Z",
-      "content": "A new report found that popular chatbots often abandon scientific facts to affirm users’ beliefs."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Emily Baumgaertner Nunn",
-      "title": "What Can Genes Reveal About Chronic Pain?",
-      "description": "The largest genetic study of pain to date identified new biological roots in the brain — and gave hints for research into both prevention and treatment.",
-      "url": "https://www.nytimes.com/2026/11/17/science/genes-chronic-pain.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/17/science/17SCI-PAIN-GENES/17SCI-PAIN-GENES-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-17T18:53:19Z",
-      "content": "The largest genetic study of pain to date identified new biological roots in the brain — and gave hints for research into both prevention and treatment."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Benjamin Mueller",
-      "title": "John H. Powers III to Lead NIAID Amid Turmoil",
-      "description": "Dr. John H. Powers III was appointed director of the National Institute of Allergy and Infectious Diseases, a powerful post held for decades by Dr. Anthony Fauci.",
-      "url": "https://www.nytimes.com/2026/11/16/science/niaid-chief-john-powers.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/16/science/16SCI-NIAID-02/16SCI-NIAID-02-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-17T16:54:30Z",
-      "content": "Dr. John H. Powers III was appointed director of the National Institute of Allergy and Infectious Diseases, a powerful post held for decades by Dr. Anthony Fauci."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Chico Harlan",
-      "title": "There’s a New Push at COP31 in Turkey: Electrification",
-      "description": "With war squeezing global oil and gas supplies, leaders at COP31 are backing a plan that would mirror China’s rapid grid expansion.",
-      "url": "https://www.nytimes.com/2026/11/17/climate/cop31-turkey-electrification.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/17/multimedia/17CLI-COP-ELECTRIC-01-vwcp/17CLI-COP-ELECTRIC-01-vwcp-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-17T10:03:56Z",
-      "content": "With war squeezing global oil and gas supplies, leaders at COP31 are backing a plan that would mirror China’s rapid grid expansion."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Penelope Colston",
-      "title": "A More Precise Clock Is on Its Way",
-      "description": "The optical atomic clock, which scientists say would be off by about a second over 14 billion years, is soon expected to become a primary reference.",
-      "url": "https://www.nytimes.com/2026/11/17/fashion/optical-atomic-clocks-rolex.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/18sp-watches-atomic-inyt-02-hfvq/18sp-watches-atomic-inyt-02-hfvq-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-17T10:00:32Z",
-      "content": "The optical atomic clock, which scientists say would be off by about a second over 14 billion years, is soon expected to become a primary reference."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Alexander Nazaryan",
-      "title": "Scientists Are Stumped by This Strange Object in Space",
-      "description": "The rocky body called 1998 KY26 is moving in ways that gravity alone cannot explain. So far, no one knows why.",
-      "url": "https://www.nytimes.com/2026/11/16/science/1998-ky26-asteroid-comet.html",
-      "urlToImage": null,
-      "publishedAt": "2026-11-17T01:37:38Z",
-      "content": "The rocky body called 1998 KY26 is moving in ways that gravity alone cannot explain. So far, no one knows why."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Evan Halper",
-      "title": "Pipeline Executive Worked for Alan Armstrong During Permitting Push",
-      "description": "Senator Alan Armstrong hired his former company’s top lawyer temporarily, while the chamber drafted a sweeping energy bill. Ethics officials signed off on the unusual arrangement.",
-      "url": "https://www.nytimes.com/2026/11/16/climate/alan-armstrong-oklahoma.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/16/multimedia/16CLI-INDUSTRY-wklv/16CLI-INDUSTRY-wklv-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-17T00:59:21Z",
-      "content": "Senator Alan Armstrong hired his former company’s top lawyer temporarily, while the chamber drafted a sweeping energy bill. Ethics officials signed off on the unusual arrangement."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Lisa Miller and Lexi Parra",
-      "title": "This Cancer Kills Children in a Year. Research Has Been Stalled for a Year.",
-      "description": "For 27 years, the Pediatric Brain Tumor Consortium worked to save kids with brain cancer. But just before 5-year-old Ryleigh Schecter was diagnosed, the government shut it down.",
-      "url": "https://www.nytimes.com/2026/11/15/well/brain-cancer-children-dipg.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/10/28/us/00well-science-patient-promo/00well-science-patient-promo-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-16T15:03:46Z",
-      "content": "For 27 years, the Pediatric Brain Tumor Consortium worked to save kids with brain cancer. But just before 5-year-old Ryleigh Schecter was diagnosed, the government shut it down."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Katrina Miller",
-      "title": "How to Watch the 2026 Leonids Meteor Shower",
-      "description": "Known for bright, fast meteors with long tails, the Leonids come around every November. But the number of streaks visible per hour can be low.",
-      "url": "https://www.nytimes.com/2026/11/16/science/leonids-meteor-shower-peak.html",
-      "urlToImage": "https://static01.nyt.com/images/2021/01/20/science/16sci-leonids/01sci-spacecalendar-leonids-mediumSquareAt3X-v3.jpg",
-      "publishedAt": "2026-11-16T05:01:05Z",
-      "content": "Known for bright, fast meteors with long tails, the Leonids come around every November. But the number of streaks visible per hour can be low."
+      "author": "Zoe Malin",
+      "title": "How to find worthwhile deals during Black Friday and Cyber Monday: a step-by-step, expert-approved guide",
+      "description": "Are Black Friday and Cyber Monday deals actually worth it? Shopping experts share tips on what to buy, what to skip and how to find genuine discounts.",
+      "url": "https://www.nbcnews.com/select/shopping/black-friday-cyber-monday-2026-shopping-guide-rcna610248",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2026-11/261117-bfcm-skip-buy-kb-main-3dda0a.jpg",
+      "publishedAt": "2026-11-19T21:48:02Z",
+      "content": "Retailers started rolling out their early Black Friday and Cyber Monday deals this week, so Im sure youve asked yourself: are these discounts actually worth it? Ive covered the massive sales for over… [+14495 chars]"
     }
   ],
-  "query": "science research discovery space"
+  "query": "science OR research OR discovery OR space OR astronomy"
 }
