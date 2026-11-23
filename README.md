@@ -22,6 +22,8 @@ Countries:
 | India | `in` |
 | United States | `us` |
 | United Kingdom | `gb` |
+| Canada | `ca` |
+| Australia | `au` |
 
 Categories:
 

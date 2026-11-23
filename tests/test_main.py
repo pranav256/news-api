@@ -122,7 +122,7 @@ class ConfigurationTests(unittest.TestCase):
         self.assertEqual(main.load_api_keys(environment), ["one", "two", "three"])
 
     def test_request_budget_has_safety_reserve(self):
-        self.assertEqual(main.calculate_run_budget(4), 26)
+        self.assertEqual(main.calculate_run_budget(4), 31)
         self.assertEqual(main.calculate_run_budget(0), 0)
 
     def test_root_response_keeps_flask_contract(self):
@@ -155,7 +155,7 @@ class ConfigurationTests(unittest.TestCase):
         self.assertEqual(state.budget.used, 2)
 
     def test_newsapi_headline_countries_and_categories_fully_configured(self):
-        self.assertEqual(main.NEWSAPI_HEADLINE_COUNTRIES, {"in", "us", "gb"})
+        self.assertEqual(main.NEWSAPI_HEADLINE_COUNTRIES, {"in", "us", "gb", "ca", "au"})
         self.assertEqual(set(main.EVERYTHING_CATEGORIES), set(main.CATEGORIES))
         for cat in main.CATEGORIES:
             self.assertIn(cat, main.EVERYTHING_QUERIES)

@@ -35,7 +35,7 @@ except ImportError:  # RSS-only local runs remain possible without the package.
 BASE_DIR = Path(__file__).resolve().parent
 DATA_DIR = BASE_DIR / "data"
 
-COUNTRIES = ("in", "us", "gb")
+COUNTRIES = ("in", "us", "gb", "ca", "au")
 CATEGORIES = (
     "general",
     "business",
@@ -61,7 +61,7 @@ EVERYTHING_QUERIES = {
 # count against this budget, so they are used for country/category coverage.
 REQUESTS_PER_KEY_PER_DAY = 100
 RUNS_PER_DAY = 12  # GitHub Actions runs every two hours.
-BUDGET_SAFETY_FACTOR = 0.80
+BUDGET_SAFETY_FACTOR = 0.95
 MAX_RETRIES = 2
 HEADLINE_PAGE_SIZE = 100
 RSS_TIMEOUT_SECONDS = int(os.environ.get("RSS_TIMEOUT_SECONDS", "20"))
@@ -81,12 +81,14 @@ LEGACY_KEY_ENV_NAMES = (
 
 # NewsAPI top-headlines are enabled for all supported countries.
 # If a category returns empty results from NewsAPI, RSS feeds provide coverage.
-NEWSAPI_HEADLINE_COUNTRIES = {"in", "us", "gb"}
+NEWSAPI_HEADLINE_COUNTRIES = {"in", "us", "gb", "ca", "au"}
 
 COUNTRY_SOURCES = {
     "in": "the-times-of-india,the-hindu,ndtv,india-today,business-standard",
     "us": "cnn,fox-news,nbc-news,abc-news,cbs-news,usa-today,the-washington-post",
     "gb": "bbc-news,the-guardian,independent,telegraph,daily-mail,reuters",
+    "ca": "cbc-news,the-globe-and-mail,financial-post",
+    "au": "abc-news-au,news-com-au",
 }
 
 
@@ -177,6 +179,36 @@ RSS_FEEDS: dict[str, dict[str, list[tuple[str, str]]]] = {
         ],
         "entertainment": [
             ("BBC News", "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml"),
+        ],
+    },
+    "ca": {
+        "general": [("CBC News", "https://www.cbc.ca/cmlink/rss-topstories")],
+        "business": [("CBC News", "https://www.cbc.ca/cmlink/rss-business")],
+        "health": [("CBC News", "https://www.cbc.ca/cmlink/rss-health")],
+        "science": [("CBC News", "https://www.cbc.ca/cmlink/rss-technology")],
+        "sports": [("CBC Sports", "https://www.cbc.ca/cmlink/rss-sports")],
+        "technology": [("CBC News", "https://www.cbc.ca/cmlink/rss-technology")],
+        "entertainment": [("CBC News", "https://www.cbc.ca/cmlink/rss-arts")],
+    },
+    "au": {
+        "general": [
+            ("ABC News Australia", "https://www.abc.net.au/news/feed/51120/rss.xml"),
+            ("The Sydney Morning Herald", "https://www.smh.com.au/rss/feed.xml"),
+        ],
+        "business": [
+            ("ABC News Australia", "https://www.abc.net.au/news/feed/51892/rss.xml"),
+            ("The Sydney Morning Herald", "https://www.smh.com.au/rss/business.xml"),
+        ],
+        "health": [("ABC News Australia", "https://www.abc.net.au/news/feed/492/rss.xml")],
+        "science": [("ABC News Australia", "https://www.abc.net.au/news/feed/2090/rss.xml")],
+        "sports": [
+            ("ABC News Australia", "https://www.abc.net.au/news/feed/45924/rss.xml"),
+            ("The Sydney Morning Herald", "https://www.smh.com.au/rss/sport.xml"),
+        ],
+        "technology": [("ABC News Australia", "https://www.abc.net.au/news/feed/2942460/rss.xml")],
+        "entertainment": [
+            ("The Sydney Morning Herald", "https://www.smh.com.au/rss/lifestyle.xml"),
+            ("The Age", "https://www.theage.com.au/rss/culture.xml"),
         ],
     },
 }
