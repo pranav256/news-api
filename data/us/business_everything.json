@@ -6,7 +6,7 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-23T04:09:16.809097+00:00",
+  "fetched_at": "2026-11-23T04:22:03.282639+00:00",
   "articles_count": 100,
   "articles": [
     {
@@ -177,6 +177,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/21/business/21sunbiz-aiprep-illo/21sunbiz-aiprep-illo-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-22T09:28:04Z",
       "content": "One person’s attempt to prepare for the unthinkable."
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Kaicey Baylor",
+      "title": "Teens arrested after series of armed robberies at Baltimore businesses",
+      "description": "Four teen boys have been arrested in connection with a series of armed robberies in Baltimore.",
+      "url": "https://www.cbsnews.com/baltimore/news/teens-arrested-series-of-armed-robberies-at-royal-farms/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/22/910417b8-4601-4e29-9e24-9db2b3a0f3aa/thumbnail/1200x630/0cac1c31fc3c3894b7a95107ca6da412/royal-farms.png",
+      "publishedAt": "2026-11-22T04:15:00Z",
+      "content": "Four teen boys have been arrested in connection with a series of armed robberies in Baltimore overnight.\r\nBaltimore Police said officers responded to several armed robberies at businesses on Holabird… [+2086 chars]"
     },
     {
       "source": {
@@ -1295,19 +1308,6 @@
       "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/01/06/583ba3e8-a4f5-43d0-8c09-831df515a5e6/thumbnail/1200x630/c2c8d9bb07f13fe55e6514b6588f128f/cbsn-fusion-stock-markets-react-to-news-of-potential-us-investments-in-venezuela-thumbnail.jpg",
       "publishedAt": "2026-11-20T20:57:54Z",
       "content": "Technology stocks plunged on Friday, dimming investor cheer over Anthropic's high-profile IPO this week amid mounting concerns about the health of the artificial intelligence sector. \r\nThe Nasdaq Com… [+3023 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Is GTA 6 Taking Down the U.S. Economy?",
-      "description": "Is ‘Grand Theft Auto 6’ causing a nationwide productivity crisis, or just giving gamers an excuse to skip work? In today’s Friday edition of ‘Will Cain Country,’ Will and The Crew dive into the cultural frenzy surrounding the blockbuster video game’s release,…",
-      "url": "https://radio.foxnews.com/2026/11/20/is-gta-6-taking-down-the-u-s-economy/",
-      "urlToImage": "https://static-radio.foxnews.com/radio.foxnews.com/content/uploads/2025/06/FEATURED_IMAGE__WILL_CAIN_COUNTRY.jpg",
-      "publishedAt": "2026-11-20T20:49:54Z",
-      "content": "Is ‘Grand Theft Auto 6’ causing a nationwide productivity crisis, or just giving gamers an excuse to skip work? In today’s Friday edition of ‘Will Cain Country,’ Will and The Crew dive into the cultu… [+730 chars]"
     }
   ],
   "query": "market OR economy OR finance OR stock OR business"
