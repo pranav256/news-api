@@ -92,6 +92,23 @@ class FeedUtilityTests(unittest.TestCase):
 
         self.assertEqual(result[0]["url"], "https://example.com/atom-story")
 
+    def test_parse_rss_extracts_image_from_description_html(self):
+        xml = """
+        <rss>
+          <channel>
+            <item>
+              <title>Headline with inline image</title>
+              <link>https://example.com/story-with-image</link>
+              <description>&lt;img src="https://example.com/inline-image.jpg" /&gt; Story details here</description>
+              <pubDate>Thu, 02 Oct 2026 12:00:00 GMT</pubDate>
+            </item>
+          </channel>
+        </rss>
+        """
+        result = main.parse_rss(xml, "Inline News", "2026-10-02T13:00:00+00:00")
+        self.assertEqual(result[0]["urlToImage"], "https://example.com/inline-image.jpg")
+        self.assertEqual(result[0]["description"], "Story details here")
+
 
 class ConfigurationTests(unittest.TestCase):
     def test_load_api_keys_detects_combined_and_legacy_values_without_duplicates(self):
@@ -136,6 +153,25 @@ class ConfigurationTests(unittest.TestCase):
         self.assertEqual(result, {"status": "ok", "articles": []})
         self.assertEqual(FakeClient.calls, ["first", "second"])
         self.assertEqual(state.budget.used, 2)
+
+    def test_newsapi_headline_countries_and_categories_fully_configured(self):
+        self.assertEqual(main.NEWSAPI_HEADLINE_COUNTRIES, {"in", "us", "gb"})
+        self.assertEqual(set(main.EVERYTHING_CATEGORIES), set(main.CATEGORIES))
+        for cat in main.CATEGORIES:
+            self.assertIn(cat, main.EVERYTHING_QUERIES)
+
+    def test_budget_exhaustion_does_not_record_api_failure(self):
+        class FakeClient:
+            def __init__(self, api_key):
+                pass
+            def get_top_headlines(self, **kwargs):
+                return {"status": "ok", "articles": []}
+
+        state = main.ScrapeState(main.KeyPool(["first"]), main.RequestBudget(0))
+        with patch.object(main, "NewsApiClient", FakeClient):
+            result = main.fetch_newsapi_headlines("us", "general", state)
+        self.assertIsNone(result)
+        self.assertEqual(state.api_failures, [])
 
 
 if __name__ == "__main__":

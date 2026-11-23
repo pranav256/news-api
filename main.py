@@ -45,14 +45,16 @@ CATEGORIES = (
     "technology",
     "entertainment",
 )
-EVERYTHING_CATEGORIES = ("business", "health", "science", "sports", "technology")
+EVERYTHING_CATEGORIES = CATEGORIES
 
 EVERYTHING_QUERIES = {
-    "business": "market economy finance stock",
-    "health": "medical health research wellness",
-    "science": "science research discovery space",
-    "sports": "sports match score tournament cricket football",
-    "technology": "technology AI software startup",
+    "general": "breaking OR news OR politics OR world OR national",
+    "business": "market OR economy OR finance OR stock OR business",
+    "health": "medical OR health OR research OR wellness OR disease",
+    "science": "science OR research OR discovery OR space OR astronomy",
+    "sports": "sports OR match OR tournament OR score OR cricket OR football",
+    "technology": "technology OR AI OR software OR startup OR tech",
+    "entertainment": "entertainment OR movie OR cinema OR music OR film",
 }
 
 # The Developer plan allows 100 requests/day per key.  RSS requests do not
@@ -77,10 +79,9 @@ LEGACY_KEY_ENV_NAMES = (
     "SEVENTHAPI",
 )
 
-# NewsAPI currently documents country/category headline queries for the US.
-# India and the UK are supplied by RSS instead of repeatedly accepting empty
-# successful NewsAPI responses.
-NEWSAPI_HEADLINE_COUNTRIES = {"us"}
+# NewsAPI top-headlines are enabled for all supported countries.
+# If a category returns empty results from NewsAPI, RSS feeds provide coverage.
+NEWSAPI_HEADLINE_COUNTRIES = {"in", "us", "gb"}
 
 COUNTRY_SOURCES = {
     "in": "the-times-of-india,the-hindu,ndtv,india-today,business-standard",
@@ -89,16 +90,18 @@ COUNTRY_SOURCES = {
 }
 
 
-# (display name, feed URL).  These are intentionally kept as configuration so
-# a broken publisher feed can be replaced without changing the parser.
+# (display name, feed URL).  Configured with multi-publisher redundancy so a
+# failure in one source does not drop category coverage.
 RSS_FEEDS: dict[str, dict[str, list[tuple[str, str]]]] = {
     "in": {
         "general": [
             ("NDTV", "https://feeds.feedburner.com/ndtvnews-latest"),
             ("The Hindu", "https://www.thehindu.com/news/national/feeder/default.rss"),
+            ("Times of India", "https://timesofindia.indiatimes.com/rssfeedstopstories.cms"),
         ],
         "business": [
             ("The Hindu", "https://www.thehindu.com/business/feeder/default.rss"),
+            ("Times of India", "https://timesofindia.indiatimes.com/rssfeeds/1898055.cms"),
         ],
         "health": [
             ("The Hindu", "https://www.thehindu.com/sci-tech/health/feeder/default.rss"),
@@ -108,34 +111,73 @@ RSS_FEEDS: dict[str, dict[str, list[tuple[str, str]]]] = {
         ],
         "sports": [
             ("The Hindu", "https://www.thehindu.com/sport/feeder/default.rss"),
+            ("Times of India", "https://timesofindia.indiatimes.com/rssfeeds/4719148.cms"),
+            ("NDTV Sports", "https://feeds.feedburner.com/ndtvsports-latest"),
         ],
         "technology": [
             ("The Hindu", "https://www.thehindu.com/sci-tech/technology/feeder/default.rss"),
+            ("Times of India", "https://timesofindia.indiatimes.com/rssfeeds/66949542.cms"),
+            ("NDTV Gadgets", "https://feeds.feedburner.com/gadgets360-latest"),
         ],
         "entertainment": [
             ("The Hindu", "https://www.thehindu.com/entertainment/feeder/default.rss"),
+            ("NDTV Movies", "https://feeds.feedburner.com/ndtvmovies-latest"),
         ],
     },
     "us": {
-        "general": [("The New York Times", "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml")],
-        "business": [("The New York Times", "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml")],
-        "health": [("The New York Times", "https://rss.nytimes.com/services/xml/rss/nyt/Health.xml")],
-        "science": [("The New York Times", "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml")],
+        "general": [
+            ("The New York Times", "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"),
+            ("NPR News", "https://feeds.npr.org/1001/rss.xml"),
+        ],
+        "business": [
+            ("The New York Times", "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml"),
+        ],
+        "health": [
+            ("The New York Times", "https://rss.nytimes.com/services/xml/rss/nyt/Health.xml"),
+        ],
+        "science": [
+            ("The New York Times", "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml"),
+        ],
         "sports": [
             ("The New York Times", "https://rss.nytimes.com/services/xml/rss/nyt/Sports.xml"),
-            ("ESPN", "https://www.espn.com/espn/rss/news"),
+            ("CBS Sports", "https://www.cbssports.com/rss/headlines/"),
+            ("Yahoo Sports", "https://sports.yahoo.com/rss/"),
         ],
-        "technology": [("The New York Times", "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml")],
-        "entertainment": [("The New York Times", "https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml")],
+        "technology": [
+            ("The New York Times", "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"),
+            ("Wired", "https://www.wired.com/feed/rss"),
+        ],
+        "entertainment": [
+            ("The New York Times", "https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml"),
+        ],
     },
     "gb": {
-        "general": [("BBC News", "https://feeds.bbci.co.uk/news/rss.xml")],
-        "business": [("BBC News", "https://feeds.bbci.co.uk/news/business/rss.xml")],
-        "health": [("BBC News", "https://feeds.bbci.co.uk/news/health/rss.xml")],
-        "science": [("BBC News", "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml")],
-        "sports": [("BBC Sport", "https://feeds.bbci.co.uk/sport/rss.xml")],
-        "technology": [("BBC News", "https://feeds.bbci.co.uk/news/technology/rss.xml")],
-        "entertainment": [("BBC News", "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml")],
+        "general": [
+            ("BBC News", "https://feeds.bbci.co.uk/news/rss.xml"),
+            ("The Guardian", "https://www.theguardian.com/uk/rss"),
+        ],
+        "business": [
+            ("BBC News", "https://feeds.bbci.co.uk/news/business/rss.xml"),
+            ("The Guardian", "https://www.theguardian.com/business/rss"),
+        ],
+        "health": [
+            ("BBC News", "https://feeds.bbci.co.uk/news/health/rss.xml"),
+        ],
+        "science": [
+            ("BBC News", "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"),
+            ("The Guardian", "https://www.theguardian.com/science/rss"),
+        ],
+        "sports": [
+            ("BBC Sport", "https://feeds.bbci.co.uk/sport/rss.xml"),
+            ("The Guardian", "https://www.theguardian.com/sport/rss"),
+        ],
+        "technology": [
+            ("BBC News", "https://feeds.bbci.co.uk/news/technology/rss.xml"),
+            ("The Guardian", "https://www.theguardian.com/technology/rss"),
+        ],
+        "entertainment": [
+            ("BBC News", "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml"),
+        ],
     },
 }
 
@@ -296,10 +338,15 @@ def parse_rss(xml_data: str | bytes, source_name: str, fetched_at: str) -> list[
         if not title or not link:
             continue
 
-        description = _clean_text(
-            _child_text(entry, {"description", "summary", "encoded", "content"})
-        )
+        raw_desc = _child_text(entry, {"description", "summary", "encoded", "content"})
+        description = _clean_text(raw_desc)
         image_url = _child_attribute(entry, {"content", "thumbnail", "enclosure"}, "url")
+        if not image_url:
+            image_url = _child_attribute(entry, {"content", "thumbnail", "enclosure"}, "href")
+        if not image_url and raw_desc and "<img" in raw_desc:
+            img_match = re.search(r'<img[^>]+src=["\'](https?://[^"\']+)["\']', raw_desc, re.IGNORECASE)
+            if img_match:
+                image_url = img_match.group(1)
         published = _child_text(entry, {"pubdate", "published", "updated", "date"})
 
         articles.append(
@@ -338,8 +385,8 @@ def fetch_rss_feed(url: str, source_name: str, fetched_at: str) -> list[dict[str
     request = urllib.request.Request(
         url,
         headers={
-            "User-Agent": "news-api-static-feed/2.0 (+https://github.com/pranav256/news-api)",
-            "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 (compatible; news-api-static-feed/2.0; +https://github.com/pranav256/news-api)",
+            "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
         },
     )
     with urllib.request.urlopen(request, timeout=RSS_TIMEOUT_SECONDS) as response:
@@ -410,10 +457,8 @@ def fetch_with_retry(
         if key_index in state.key_pool.disabled:
             continue
         if not state.budget.consume():
-            message = f"{label}: request budget exhausted"
-            state.api_failures.append(message)
-            print(f"    {message}")
-            break
+            print(f"    {label}: request budget limit reached ({state.budget.limit})")
+            return None
 
         attempts += 1
         try:
@@ -597,16 +642,24 @@ def main(argv: list[str] | None = None) -> int:
     print("\nPHASE 1: RSS feeds and headline-compatible files")
     print("-" * 64)
     for country in COUNTRIES:
+        country_headlines: list[dict[str, Any]] = []
         for category in CATEGORIES:
             print(f"  [{country}/{category}]", end="", flush=True)
             rss_result = fetch_rss_articles(country, category, fetched_at, state)
             rss_cache[(country, category)] = rss_result
 
-            newsapi_response = fetch_newsapi_headlines(country, category, state)
+            if state.budget.remaining == 0 and state.key_pool.keys:
+                print(" (budget limit reached, using RSS)", end="", flush=True)
+                newsapi_response = None
+            else:
+                newsapi_response = fetch_newsapi_headlines(country, category, state)
+
             api_articles = response_articles(newsapi_response)
             articles = deduplicate(api_articles + rss_result.articles)
+            country_headlines.extend(articles[:10])
+
             providers: list[str] = []
-            if newsapi_response is not None:
+            if newsapi_response is not None and api_articles:
                 providers.append("newsapi")
             if rss_result.succeeded:
                 providers.append("rss")
@@ -633,18 +686,43 @@ def main(argv: list[str] | None = None) -> int:
                 dry_run=args.dry_run,
             )
 
+        # Generate combined top stories across categories for this country
+        combined_articles = deduplicate(country_headlines)
+        if combined_articles:
+            print(f"  [{country}/all] {len(combined_articles)} combined top stories")
+            write_feed_pair(
+                country=country,
+                category="all",
+                articles=combined_articles,
+                data_payload=data_response(
+                    source="top_headlines_all",
+                    country=country,
+                    category="all",
+                    fetched_at=fetched_at,
+                    articles=combined_articles,
+                    providers=["combined"],
+                ),
+                provider_succeeded=True,
+                state=state,
+                dry_run=args.dry_run,
+            )
+
     print("\nPHASE 2: Deep category feeds")
     print("-" * 64)
     for country in COUNTRIES:
         for category in EVERYTHING_CATEGORIES:
             query = EVERYTHING_QUERIES[category]
             print(f"  [{country}/{category}] q='{query}'", end="", flush=True)
-            rss_result = rss_cache[(country, category)]
-            newsapi_response = fetch_newsapi_everything(country, category, query, state)
+            rss_result = rss_cache.get((country, category)) or RSSResult()
+            if state.budget.remaining == 0 and state.key_pool.keys:
+                print(" (budget limit reached, using RSS)", end="", flush=True)
+                newsapi_response = None
+            else:
+                newsapi_response = fetch_newsapi_everything(country, category, query, state)
             api_articles = response_articles(newsapi_response)
             articles = deduplicate(api_articles + rss_result.articles)
             providers: list[str] = []
-            if newsapi_response is not None:
+            if newsapi_response is not None and api_articles:
                 providers.append("newsapi")
             if rss_result.succeeded:
                 providers.append("rss")

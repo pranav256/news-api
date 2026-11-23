@@ -8,10 +8,11 @@ the generated data changes.
 
 ## Public API
 
-The original Flask-compatible paths are preserved:
+The original Flask-compatible paths are preserved, alongside a combined top-stories feed:
 
 ```text
 https://raw.githubusercontent.com/pranav256/news-api/main/{country}/{category}.json
+https://raw.githubusercontent.com/pranav256/news-api/main/{country}/all.json
 ```
 
 Countries:
@@ -25,6 +26,7 @@ Countries:
 Categories:
 
 ```text
+all             # Top stories combined across all categories
 general
 business
 health
@@ -34,10 +36,11 @@ technology
 entertainment
 ```
 
-Example:
+Examples:
 
 ```text
 https://raw.githubusercontent.com/pranav256/news-api/main/us/general.json
+https://raw.githubusercontent.com/pranav256/news-api/main/in/all.json
 ```
 
 The root files keep a NewsAPI-compatible response shape:
@@ -60,13 +63,13 @@ data/{country}/{category}_everything.json
 data/status.json
 ```
 
-The headline files combine NewsAPI and RSS articles. NewsAPI is used for US
-headline queries and deeper searches when the request budget allows it. RSS
-feeds provide coverage for all countries and categories, including India and
-the UK where NewsAPI can return an empty successful response.
+The headline files combine NewsAPI and RSS articles. NewsAPI is queried for
+top headlines across all countries (`in`, `us`, `gb`) and deeper searches across all
+categories when the request budget allows it. Multi-publisher RSS feeds provide resilient
+fallback coverage and merge additional articles for comprehensive reporting.
 
-The `everything` files contain NewsAPI deep-search results when available and
-fall back to the relevant RSS category feed when they are not.
+The `everything` files contain NewsAPI deep-search results with flexible `OR` boolean queries
+across all 7 categories, falling back to merged RSS category feeds when needed.
 
 ## API keys
 
