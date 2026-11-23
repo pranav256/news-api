@@ -183,15 +183,18 @@ RSS_FEEDS: dict[str, dict[str, list[tuple[str, str]]]] = {
     },
     "ca": {
         "general": [
-            ("CBC News", "https://rss.cbc.ca/lineup/topstories.xml"),
             ("Global News", "https://globalnews.ca/feed/"),
+            ("Global National", "https://globalnews.ca/national/feed/"),
         ],
-        "business": [("CBC News", "https://rss.cbc.ca/lineup/business.xml")],
-        "health": [("CBC News", "https://rss.cbc.ca/lineup/health.xml")],
-        "science": [("CBC News", "https://rss.cbc.ca/lineup/technology.xml")],
-        "sports": [("CBC Sports", "https://rss.cbc.ca/lineup/sports.xml")],
-        "technology": [("CBC News", "https://rss.cbc.ca/lineup/technology.xml")],
-        "entertainment": [("CBC News", "https://rss.cbc.ca/lineup/arts.xml")],
+        "business": [("Global News", "https://globalnews.ca/money/feed/")],
+        "health": [("Global News", "https://globalnews.ca/tag/health/feed/")],
+        "science": [("Global News", "https://globalnews.ca/tag/science/feed/")],
+        "sports": [
+            ("Sportsnet", "https://www.sportsnet.ca/feed/"),
+            ("Global News", "https://globalnews.ca/sports/feed/"),
+        ],
+        "technology": [("Global News", "https://globalnews.ca/tag/technology/feed/")],
+        "entertainment": [("Global News", "https://globalnews.ca/entertainment/feed/")],
     },
     "au": {
         "general": [
