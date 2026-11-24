@@ -6,9 +6,48 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-24T03:29:03.392183+00:00",
-  "articles_count": 82,
+  "fetched_at": "2026-11-24T14:19:33.166462+00:00",
+  "articles_count": 81,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Christopher Rowland",
+      "title": "Medicare Hospice Caps Leave Patients Without Care",
+      "description": "Critics say the payment limits to companies penalize patients who are not dying on the government’s timetable.",
+      "url": "https://www.nytimes.com/2026/11/24/business/medicare-hospice-caps-patients-lose-care.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/23/multimedia/23biz-hospice-01-mpjw/23biz-hospice-01-mpjw-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-24T10:02:48Z",
+      "content": "Critics say the payment limits to companies penalize patients who are not dying on the government’s timetable."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Matthew Shaer",
+      "title": "Why So Many of Us Have Chronic Back Pain, and Why It Won’t Go Away",
+      "description": "More than half a billion people globally suffer from some form of back pain. And the numbers are only growing, with no reliable solution in sight.",
+      "url": "https://www.nytimes.com/2026/11/24/magazine/back-pain-chronic-treatment.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/12/06/magazine/06mag-pain-01/06mag-pain-01-mediumSquareAt3X-v4.jpg",
+      "publishedAt": "2026-11-24T10:01:57Z",
+      "content": "More than half a billion people globally suffer from some form of back pain. And the numbers are only growing, with no reliable solution in sight."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Awais Aftab",
+      "title": "What Personality Can Tell Us About Mental Health",
+      "description": "Psychologists and psychiatrists have long considered the role of personality in understanding mental illness and treatment. Now, science is bridging the gap.",
+      "url": "https://www.nytimes.com/2026/11/24/science/personality-mental-health.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/24/science/24SCI-AFTAB-PERSONALITY/24SCI-AFTAB-PERSONALITY-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-24T08:00:12Z",
+      "content": "Psychologists and psychiatrists have long considered the role of personality in understanding mental illness and treatment. Now, science is bridging the gap."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -58,8 +97,34 @@
       "description": "The Trump administration restarted the process for funding four large research networks after postponing it earlier this year.",
       "url": "https://www.nytimes.com/2026/11/20/science/hiv-research-funding-nih.html",
       "urlToImage": "https://static01.nyt.com/images/2026/12/20/multimedia/20sci-nih-sub-bvjh/20sci-nih-sub-bvjh-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-23T15:36:19Z",
+      "publishedAt": "2026-11-23T15:36:20Z",
       "content": "The Trump administration restarted the process for funding four large research networks after postponing it earlier this year."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Dr. Louai Razzouk",
+      "title": "Heart attacks are on the rise under 40 — the hidden drivers and warning signs you might miss - New York Post",
+      "description": "Recent data suggests that about 1 in 5 heart attack patients is 40 or younger, while hospitalization rates among adults ages 18 to 44 have climbed significantly.",
+      "url": "https://nypost.com/2026/11/23/health/heart-attacks-on-the-rise-under-40-warning-signs-you-might-miss/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/crop-41918388_e0423c.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-11-23T11:00:00Z",
+      "content": "When you’re young, its easy to feel invincible. But that sense of safety can mask a troubling shift in cardiovascular health.\r\nA disease long associated with older men is increasingly affecting young… [+5303 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WMUR Manchester"
+      },
+      "author": "Maria Wilson, Jackson Stoever",
+      "title": "'I was willing to try anything': NH mother sets record for living year with pig kidney transplant - WMUR",
+      "description": "Exactly one year ago, Molly Falco, 58, was the fourth person to receive a genetically modified pig kidney at Massachusetts General Hospital in Boston. Now, she's set the record for living the longest time with a non-human organ.",
+      "url": "https://www.wmur.com/article/nh-woman-sets-record-for-longest-time-with-pig-kidney/74502286",
+      "urlToImage": "https://kubrick.htvapps.com/vidthumb/fe92d2ef-37a4-456e-9bd0-027aac9a3593/e49d10bb-9a6d-4333-817e-98f40bcca0b1.jpg?crop=0.824xw%3A0.823xh%3B0.0914xw%2C0&resize=1200%3A*",
+      "publishedAt": "2026-11-23T10:49:00Z",
+      "content": "LYNDEBOROUGH, N.H.Exactly one year ago, Molly Falco, 58, was the fourth person to receive a genetically modified pig kidney at Massachusetts General Hospital in Boston. \r\nNow, she's set the record fo… [+3178 chars]"
     },
     {
       "source": {
@@ -73,6 +138,19 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/23/multimedia/23biz-cvs-lkcq/23biz-cvs-lkcq-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-23T10:03:26Z",
       "content": "Lawmakers are warning that spinning off the health care conglomerate’s drugstores will not end scrutiny over its power."
+    },
+    {
+      "source": {
+        "id": "the-times-of-india",
+        "name": "The Times of India"
+      },
+      "author": "TOI Lifestyle Desk",
+      "title": "​6 hidden signs of heart trouble you should never ignore, US-based cardiologist warns: One of them starts in your legs​ - The Times of India",
+      "description": "When it comes to heart disease, most people think it starts and ends with chest pain or shortness of breath. Think sudden palpitations, losing breath, feeling nauseous, and being sent to a cardiac emergency out of nowhere. Usually, that’s the common perceptio…",
+      "url": "https://timesofindia.indiatimes.com/etimes/wellness/6-hidden-signs-of-heart-trouble-you-should-never-ignore-us-based-cardiologist-warns-one-of-them-starts-in-your-legs/photostory/136086165.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-136086166,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-11-23T01:18:35Z",
+      "content": "When it comes to heart disease, most people think it starts and ends with chest pain or shortness of breath. Think sudden palpitations, losing breath, feeling nauseous, and being sent to a cardiac em… [+918 chars]"
     },
     {
       "source": {
@@ -90,19 +168,6 @@
     {
       "source": {
         "id": null,
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Can AI spot breast cancer earlier? NHS launches world's largest trial to find out - BBC",
-      "description": "Researchers will test the technology in breast cancer screening which could ease pressure on the NHS.",
-      "url": "https://www.bbc.com/news/articles/cmpdwnw3nvzjo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6158/live/7701a960-e298-11f1-8dda-8925a81c3da5.jpg",
-      "publishedAt": "2026-11-23T00:49:22Z",
-      "content": "Prof Fiona Gilbert, department of radiology, University of Cambridge, honorary consultant at Addenbrooke's Hospital, and co-chief investigator said: \"Millions of women have a mammogram each year and … [+51 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "WLTX.com"
       },
       "author": "WLTX",
@@ -112,6 +177,32 @@
       "urlToImage": null,
       "publishedAt": "2026-11-22T22:21:00Z",
       "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Science Daily"
+      },
+      "author": null,
+      "title": "Common medications may secretly rewire your gut, with effects lasting for years - ScienceDaily",
+      "description": "Medications taken years or even long ago may leave lasting changes in your gut microbiome, according to a study of more than 2,500 people. Researchers discovered that common drugs, including antidepressants, blood pressure medications, and anxiety treatments,…",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261120071501.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/1920/bacteria-intestinal-microbiome-in-digestive-tract.webp",
+      "publishedAt": "2026-11-22T21:36:54Z",
+      "content": "Medications you stopped taking years ago may still be influencing the bacteria living in your gut. A large study from the University of Tartu Institute of Genomics has found that many commonly prescr… [+5198 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Thefp.com"
+      },
+      "author": "Arthur Brooks",
+      "title": "Thanksgiving Dinner Might Be Killing You - The Free Press",
+      "description": "Your difficult relatives, friends, and colleagues may be doing more than getting on your nerves, writes Arthur Brooks. They could be making you older. So should you cut them off?",
+      "url": "https://www.thefp.com/p/thanksgiving-dinner-might-be-killing-family-happy-politics",
+      "urlToImage": "https://substackcdn.com/image/fetch/$s_!Qqj9!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faf99640c-8fd2-4e7d-b801-2363eaa614d8_2000x1125.jpeg",
+      "publishedAt": "2026-11-22T21:36:07Z",
+      "content": "Thanksgiving dinner might be killing you.\r\nNo, this isnt a column introducing the newest internet diet fad based on sketchy science and scare tactics. It isnt about the food at all. Its actually abou… [+1340 chars]"
     },
     {
       "source": {
@@ -167,6 +258,19 @@
     },
     {
       "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": null,
+      "title": "Virginia reports first measles-linked death of 2026 in child younger than 5 - Al Jazeera",
+      "description": "The death comes within days of health experts stripping the US of its measles elimination status, amid uptick in cases.",
+      "url": "https://www.aljazeera.com/news/2026/11/22/virginia-reports-first-measles-linked-death-of-2026-in-child-younger-than-5",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afb96c11f41c-1794873025.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-11-22T18:11:07Z",
+      "content": "A young child has died in Virginia, marking the first case of a measles-related death in the southern state for the year 2026.\r\nThe Virginia Department of Health made the announcement on Friday, just… [+2464 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "New York Post"
       },
@@ -207,6 +311,19 @@
     {
       "source": {
         "id": null,
+        "name": "Futurism"
+      },
+      "author": "Joe Wilkins",
+      "title": "Major Study Finds That the Internet, With All Its Intentionally Addictive Features Like Infinite Scrolling, Is Basically Cooking the Human Brain - Futurism",
+      "description": "A new study estimates that one-in-ten people on Earth suffer from problematic internet usage as a result of social media companies.",
+      "url": "https://futurism.com/health-medicine/study-infinite-scroll-vertical-video-destroying-brain",
+      "urlToImage": "https://futurism.com/wp-content/uploads/2026/11/study-scroll-vertical-destroying-brain.jpg?quality=85&w=1200",
+      "publishedAt": "2026-11-22T15:49:00Z",
+      "content": "Can’t-miss innovations from the bleeding edge of science and tech\r\nDoomscrolling might seem like a goofy side effect of our increasingly digitized lives, but some experts are now pegging the phenomen… [+1886 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "New York Post"
       },
       "author": "Rachel Sacks",
@@ -220,15 +337,15 @@
     {
       "source": {
         "id": null,
-        "name": "ScienceAlert"
+        "name": "BBC News"
       },
-      "author": "Esra Öz",
-      "title": "People Exposed to Sugar Rationing in Early Life Appear Biologically Younger in Their 50s - ScienceAlert",
-      "description": "Could the sugar available before birth and in infancy have a connection to our health half a century later? A new study has found that people whose earliest development overlapped with Britain's sugar rationing had blood measurements in their 50s that suggest…",
-      "url": "https://www.sciencealert.com/people-exposed-to-sugar-rationing-in-early-life-appear-biologically-younger-in-their-50s",
-      "urlToImage": "https://www.sciencealert.com/images/2026/11/SugarFallingOffSpoonInGoldTones-1200x675.png",
-      "publishedAt": "2026-11-22T15:04:09Z",
-      "content": "Could the sugar available before birth and in infancy have a connection to our health half a century later? \r\nA new study has found that people whose earliest development overlapped with Britain's su… [+5173 chars]"
+      "author": null,
+      "title": "Third case of bird flu found in commercial poultry near Dereham - BBC",
+      "description": "The latest case is confirmed in Norfolk, just two weeks after the county's first case this season.",
+      "url": "https://www.bbc.com/news/articles/c6rrgz40gw07o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/32b3/live/388b6520-c226-11ef-a2ca-e99d0c9a24e3.png",
+      "publishedAt": "2026-11-22T15:22:39Z",
+      "content": "Christine Middlemiss, UK Chief Veterinary Officer, said: \"Having avian influenza confirmed in your flock can be devastating."
     },
     {
       "source": {
@@ -246,41 +363,15 @@
     {
       "source": {
         "id": null,
-        "name": "Real Simple"
+        "name": "GoodHousekeeping.com"
       },
-      "author": "https://www.facebook.com/realsimple/",
-      "title": "The One Protein for Maintaining Muscle as You Age, According to Dietitians - Real Simple",
-      "description": "Maintaining muscle as you age takes more than eating enough protein. Learn why cottage cheese may be an especially useful choice and how to incorporate it into your diet.",
-      "url": "https://www.realsimple.com/best-protein-for-maintaining-muscle-as-you-age-12254914",
-      "urlToImage": "https://www.realsimple.com/thmb/AWvjH_a4fY_YqfmWtoavKE7TKI0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/protein-sources-db685da84d494e288bf17248708d5f1c.jpg",
-      "publishedAt": "2026-11-22T14:15:00Z",
-      "content": "Protein gets plenty of attention for building and toning muscles, but merely keeping the muscle you already have becomes increasingly important as you age. Muscle loss begins around age 30 and can ev… [+4350 chars]"
-    },
-    {
-      "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Lucy Notarantonio",
-      "title": "My Neck Hurt After a Massage. 10 Days Later Terrifying Truth Was Revealed - Newsweek",
-      "description": "I left the massage feeling anything but zen. So much so, I didn’t return to work—ever again.",
-      "url": "https://www.newsweek.com/my-neck-hurt-after-a-massage-10-days-later-terrifying-truth-was-revealed-12719951",
-      "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2026/11/Copy-of-3-2-Split-Screen-53.png?w=1200&crop=1",
-      "publishedAt": "2026-11-22T14:00:00Z",
-      "content": "I was mentally exhausted as a team lead working in recruitment so thought Id treat myself to a massage to ease up the tension in my neck.\r\nBut as I left my self-care appointment, I felt anything but … [+6384 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Eatingwell.com"
-      },
-      "author": "https://www.facebook.com/EatingWell/",
-      "title": "5 Cancer Prevention Myths to Stop Believing—and What to Do Instead - EatingWell",
-      "description": "We asked a cancer prevention expert about what we can do to reduce our risk of these devastating diseases. Her advice is simple, sound—and doable.",
-      "url": "https://www.eatingwell.com/cancer-prevention-myths-12221219",
-      "urlToImage": "https://www.eatingwell.com/thmb/oMhyM-KO5ib5aKW30i8KNVP2TJA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/We-Asked-an-Oncologist-the-Biggest-Myths-About-Cancer-Prevention-This-Is-What-They-Said-f10bbbcf52ee431baa97f1102c6a0eeb.jpg",
-      "publishedAt": "2026-11-22T14:00:00Z",
-      "content": "Each year, more than 2 million people in the U.S. are told that they have cancer.Its not news anyone wants to hear, which is why cancer prevention is such an important discussion. \r\nThe thing with ca… [+6472 chars]"
+      "author": "Michelle Falci",
+      "title": "How to Get Rid of a Stuffy Nose ASAP, According to Doctors - AOL.com",
+      "description": "Experts share the safest and most effective treatment options for stuffy noses.",
+      "url": "https://www.goodhousekeeping.com/health/a74441393/stuffy-nose-relief/",
+      "urlToImage": "https://hermes.media.static.aol.com/media/2026/11/22/b27117e2-9923-30d1-bb2e-9223abf27110/2a9b71f4-85d9-4375-ac67-2077e4ac223a.jpeg",
+      "publishedAt": "2026-11-22T14:32:00Z",
+      "content": "A stuffy nose isnt just annoying. It can throw a wrench in your routine and make you feel crummy all day long. Luckily, there are a lot of effective ways to clear up congestion.\r\nAs respiratory virus… [+3295 chars]"
     },
     {
       "source": {
@@ -298,32 +389,6 @@
     {
       "source": {
         "id": null,
-        "name": "Phys.Org"
-      },
-      "author": "Ingrid Fadelli",
-      "title": "Parasite makes mice more attractive to blood-feeding bugs, which may aid its spread - Phys.org",
-      "description": "Some parasites, such as Trypanosoma rangeli and Trypanosoma cruzi, can be passed between mammals and blood-feeding insects called triatomine bugs. Bugs can acquire these parasites when feeding on infected mammals, while mammals can also become infected throug…",
-      "url": "https://phys.org/news/2026-11-parasite-mice-blood-bugs-aid.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/2026/a-parasite-makes-mice-1.jpg",
-      "publishedAt": "2026-11-22T13:00:02Z",
-      "content": "Some parasites, such as Trypanosoma rangeli and Trypanosoma cruzi, can be passed between mammals and blood-feeding insects called triatomine bugs. Bugs can acquire these parasites when feeding on inf… [+6186 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "9News.com KUSA"
-      },
-      "author": null,
-      "title": "Virginia child who tested positive for measles has died, state officials report - 9NEWS",
-      "description": "A child younger than 5 years old who tested positive for measles has died, Virginia state officials reported. Here's what we know. (Photo: CDC via AP)",
-      "url": "https://www.9news.com/article/news/nation-world/virginia-child-measles-death/507-228702d1-9552-4f39-bd35-5add0d90aaf9",
-      "urlToImage": "https://media.9news.com/assets/CCT/images/cd7f0717-522c-4921-a46b-f1ea71e9c507/20261122T112600/cd7f0717-522c-4921-a46b-f1ea71e9c507_1920x1080.jpg",
-      "publishedAt": "2026-11-22T12:35:00Z",
-      "content": "WASHINGTON A child younger than 5 who tested positive for measles has died, according to Virginia state officials. \r\nThe Virginia Department of Health made the announcement Friday, Nov. 20. It's the … [+2016 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "SciTechDaily"
       },
       "author": null,
@@ -333,19 +398,6 @@
       "urlToImage": null,
       "publishedAt": "2026-11-22T12:17:07Z",
       "content": "Maintaining stable blood sugar levels is essential for overall health because glucose is the body’s primary source of energy. Credit: Shutterstock\r\nScientists have discovered that a simple change in … [+3401 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "HuffPost"
-      },
-      "author": null,
-      "title": "Here's What It Means If You Get Winded From Walking Up The Stairs - HuffPost",
-      "description": "Most people have been out of breath after climbing the stairs — but is that normal?",
-      "url": "https://www.huffpost.com/entry/winded-walking-up-stairs-normal-health-gg_l_6aff2df1e4b0f8ebfa4ab500",
-      "urlToImage": "https://img.huffingtonpost.com/asset/695be9692b00004e196834e9.jpeg?cache=C9QrV2Wehz&ops=500_281%2Cscalefit_1200_630",
-      "publishedAt": "2026-11-22T12:00:18Z",
-      "content": "If youve ascended a flight or two of stairs, you likely know the feeling of being out of breath once you reach the top.\r\nIts a common occurrence among folks of all ages and fitness abilities. But is … [+5349 chars]"
     },
     {
       "source": {
@@ -388,29 +440,29 @@
     },
     {
       "source": {
-        "id": "newsweek",
-        "name": "Newsweek"
-      },
-      "author": "Melissa Fleur Afshar",
-      "title": "'I Truly Believed I Was Going To Be Paralyzed' - Newsweek",
-      "description": "Sara Heays was days from turning 21 when a day out began a years-long battle to reclaim her health and independence.",
-      "url": "https://www.newsweek.com/woman-shares-recovery-after-rope-swing-fall-12720100",
-      "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2026/11/Copy-of-3-2-Split-Screen-w-Square-inset-3.png?w=1200&crop=1",
-      "publishedAt": "2026-11-22T10:00:00Z",
-      "content": "All it took was one swing on familiar rope that changed the course of Sara Heays' life forever. \r\nThe New Zealander was about to turn 21 and was spending the day with family at Mount Victoriaa well-k… [+5681 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Eatingwell.com"
       },
       "author": "https://www.facebook.com/EatingWell/",
-      "title": "Dietitians Say Drinking These Juices Daily May Help Lower Cholesterol Naturally - EatingWell",
-      "description": "Looking to lower cholesterol? Dietitians share the best juices that support heart health—plus tips on choosing 100% fruit juice.",
-      "url": "https://www.eatingwell.com/best-juices-to-lower-cholesterol-12238108",
-      "urlToImage": "https://www.eatingwell.com/thmb/apzPC3gSszinBBai0lX5qFw1x_k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/The-Best-Juices-to-Help-Lower-Cholesterol-According-to-a-Dietitian-e8b597b5fae841c4ba039f391cfd45ed.jpg",
-      "publishedAt": "2026-11-22T09:30:00Z",
-      "content": "If youre trying to lower cholesterol, the foods you eat are important, and so is what you drink. In fact, The American Heart Association recommends eating four servings of fruits and five servings of… [+5911 chars]"
+      "title": "Why the Temperature of Your Tea Could Affect Heart Health—and Our Favorite Tea Brewing Tools for Better Cups - EatingWell",
+      "description": "A new study found a link between tea and heart health, citing that optimally brewed cups could improve vascular health. These are the tools we use to brew tea to the right temperature and strength.",
+      "url": "https://www.eatingwell.com/tea-heart-disease-study-temperature-tools-amazon-12267532",
+      "urlToImage": "https://www.eatingwell.com/thmb/wp1EdWcK4oeVpqq7d3AwnUFNG0E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/tea-tools-for-tracking-brewing-temperature-time-5831b828ffa8444dae0736dc7cfab920.jpg",
+      "publishedAt": "2026-11-22T08:15:00Z",
+      "content": "Many people drink tea daily, whether for taste, tradition, health benefits or a combination of the three. Despite the practice existing for centuries, were still digging into research on the extent o… [+2975 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Financial Times"
+      },
+      "author": null,
+      "title": "How measles spread across the world - Financial Times",
+      "description": "Vaccine misinformation, austerity and aid cuts have led to the resurgence of a disease once regarded as eliminated in rich countries",
+      "url": "https://www.ft.com/content/a71192b7-708c-4bd4-abb6-31c82113794a?syn-25a6b1a6\\\\u003d1",
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7532288c-9394-4a78-a2a6-24bb8ed612cc.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "publishedAt": "2026-11-22T05:02:06Z",
+      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
     },
     {
       "source": {
@@ -437,6 +489,19 @@
       "urlToImage": "https://www.sciencedaily.com/images/1920/colorful-neurons-in-alzheimers-disease.webp",
       "publishedAt": "2026-11-22T03:04:22Z",
       "content": "A gene that helps the brain contain harmful protein buildup may play a crucial role in Alzheimer's disease. Researchers at UVA Health have discovered that when this gene stops functioning properly, t… [+8400 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Boston Globe"
+      },
+      "author": null,
+      "title": "As measles outbreaks continue, do adults need to get a vaccine booster? Here’s what health experts say. - The Boston Globe",
+      "description": "The US lost its measles-free status earlier this week, leaving many adults to wonder if they need another measles shot.",
+      "url": "https://www.bostonglobe.com/2026/11/21/metro/measles-vaccine-outbreaks/",
+      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/S6WL35SJYD6GEXKIRPGRM4OSGY.jpg?auth=69ca9150a5ecccc39c8157f746ac263fc3f4bd802f99af49626de4a981a75f3c&width=1440",
+      "publishedAt": "2026-11-22T02:23:05Z",
+      "content": "The United States lost its measles elimination status this week after more than two decades as outbreaks of the highly infectious disease continue to spread, leaving many adults to wonder if they nee… [+3620 chars]"
     },
     {
       "source": {
@@ -506,6 +571,19 @@
     {
       "source": {
         "id": null,
+        "name": "Sooleader.com"
+      },
+      "author": "SooLeader Staff",
+      "title": "Michigan hunters urged to properly dispose of deer carcasses - SooLeader.com",
+      "description": "Deer parts and meat trimmings should be double-bagged for landfill disposal, while hunters quartering animals in the field should avoid brain and spinal tissue to limit spread of chronic wasting disease",
+      "url": "https://www.sooleader.com/local-news/michigan-hunters-urged-to-properly-dispose-of-deer-carcasses-13037176",
+      "urlToImage": "https://www.vmcdn.ca/f/files/sooleader/images/education/2026-11-19-msue-deer-nikkihersch.jpg;w=1200;h=1200;mode=crop",
+      "publishedAt": "2026-11-21T21:02:16Z",
+      "content": "NEWS RELEASEMICHIGAN STATE UNIVERSITY EXTENSION*************************Understanding Chronic Wasting Disease\r\nChronic Wasting Disease (CWD) is neurological disease that affects members of the cervid… [+9038 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Inc."
       },
       "author": "Esther Lian",
@@ -547,13 +625,13 @@
         "id": "the-washington-post",
         "name": "The Washington Post"
       },
-      "author": "Lena H. Sun, Rachel Roubein",
-      "title": "RFK Jr. vows to curb a measles crisis he initially underestimated - The Washington Post",
-      "description": "Federal officials must create a plan to regain measles elimination status. It won’t be easy, public health experts say.",
-      "url": "https://www.washingtonpost.com/health/2026/11/21/rfk-jr-vows-curb-measles-crisis-he-initially-underestimated/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X3QFQAYXAAOOCZC3QGUVS4T3VQ_size-normalized.jpg&w=1440",
+      "author": "Jennifer Fields",
+      "title": "Should you mask up for holiday travel? Here’s what experts say. - The Washington Post",
+      "description": "Many travelers have ditched their masks. But there are still good reasons to wear one when you fly.",
+      "url": "https://www.washingtonpost.com/wellness/2026/11/21/should-you-mask-up-holiday-travel-heres-what-experts-say/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/NCTLQXAGAFRQQYBQZCG23CXBIU.jpg&w=1440",
       "publishedAt": "2026-11-21T18:00:00Z",
-      "content": "Hours after the United States lost its measles-elimination status, erasing a landmark public health victory earned 26 years ago, Health Secretary Robert F. Kennedy Jr. declared the country would figh… [+27 chars]"
+      "content": "For many people, face masks are a relic of the covid-19 pandemic, something tucked away in a drawer and largely forgotten. But with flu season off to an early start, measles outbreaks all over the ne… [+192 chars]"
     },
     {
       "source": {
@@ -571,19 +649,6 @@
     {
       "source": {
         "id": null,
-        "name": "Verywellhealth.com"
-      },
-      "author": "https://www.facebook.com/verywell",
-      "title": "Dietitians Explain If Combining Turmeric and Pineapple Can Reduce Inflammation - Verywell Health",
-      "description": "Can turmeric with pineapple reduce inflammation? Learn what evidence says about curcumin, bromelain, absorption, and simple ways to enjoy both.",
-      "url": "https://www.verywellhealth.com/turmeric-pineapple-inflammation-12238008",
-      "urlToImage": "https://www.verywellhealth.com/thmb/ot7XIxuHj_M0GVYr4XySk6I4YLM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/VWH-GettyImages-1296876386-16dc3f92f3594178a94f7f6d78ae0356.jpg",
-      "publishedAt": "2026-11-21T16:00:00Z",
-      "content": "<ul><li>Combining turmeric and pineapple may offer the benefits of both foods, but it has not been proven to reduce inflammation.</li><li>Cook turmeric with healthy fats, like olive oil, to help your… [+4618 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Medical Xpress"
       },
       "author": null,
@@ -597,15 +662,28 @@
     {
       "source": {
         "id": null,
-        "name": "HuffPost"
+        "name": "SciTechDaily"
       },
       "author": null,
-      "title": "8 Subtle Ways Parents Create Anxiety Without Realizing It - HuffPost",
-      "description": "Experts break down the comments and behaviors from adults that make kids feel anxious.",
-      "url": "https://www.huffpost.com/entry/parents-kids-anxiety-subtle-goog_l_6afddbebe4b0976dc49e1a32",
-      "urlToImage": "https://img.huffingtonpost.com/asset/63c71ff422000034001c3328.jpeg?cache=Nfa60Uq8yi&ops=1200_630",
-      "publishedAt": "2026-11-21T12:00:17Z",
-      "content": "Anxiety isnt just an adult issue. Clinical research indicates that millions of children struggle with anxiety symptoms, with a recent analysis putting the number as high as 20.5% of youth worldwide.\r… [+13573 chars]"
+      "title": "A Major Review Reveals Three Antidepressants That May Outperform Prozac - SciTechDaily",
+      "description": "A massive review of 30,000 people suggests three antidepressants may outperform Prozac, but the findings reveal how much remains unknown about long-term depression treatment.",
+      "url": "https://scitechdaily.com/a-major-review-reveals-three-antidepressants-that-may-outperform-prozac/",
+      "urlToImage": null,
+      "publishedAt": "2026-11-21T12:37:41Z",
+      "content": "A major new review suggests that some of the world’s most widely used antidepressants may be better than others at keeping depression symptoms under control over time. Credit: Shutterstock\r\nA massive… [+6078 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Verywellhealth.com"
+      },
+      "author": "https://www.facebook.com/verywell",
+      "title": "The Best Morning Drink for Inflammation, According to a Dietitian - Verywell Health",
+      "description": "Dandelion tea may offer health benefits. A dietitian explains how it may reduce inflammation and offers antioxidant properties.",
+      "url": "https://www.verywellhealth.com/best-morning-drink-choice-for-inflammation-12197547",
+      "urlToImage": "https://www.verywellhealth.com/thmb/aFiIAkhwgqR22i3G-ULH04ifWaU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/VWH-GettyImages-1717178071-857a270403ef477aa9bf452a09043142.jpg",
+      "publishedAt": "2026-11-21T08:00:00Z",
+      "content": "<ul><li>Dandelion tea contains compounds that may help reduce inflammation and provide antioxidant benefits.</li><li>Drinking 13 cups of dandelion tea per day may offer benefits.</li><li>Check with a… [+3457 chars]"
     },
     {
       "source": {
@@ -661,6 +739,19 @@
     },
     {
       "source": {
+        "id": null,
+        "name": "Retractionwatch.com"
+      },
+      "author": null,
+      "title": "Lancet retracts report by former SickKids pediatrician on infant’s death from opioid poisoning - Retraction Watch",
+      "description": "The Lancet has retracted a 20-year-old case report of an infant’s death by opioid poisoning via breast milk, following an institutional investigation that concluded the authors falsified the report…",
+      "url": "https://retractionwatch.com/2026/11/20/lancet-gideon-koren-sickkids-toronto-infant-death-opioid-poisoning-breast-milk-retraction/",
+      "urlToImage": "https://retractionwatch.com/wp-content/uploads/2026/11/koren-lancet-retraction.png",
+      "publishedAt": "2026-11-20T23:00:01Z",
+      "content": "The Lancet has retracted a 20-year-old case report of an infants death by opioid poisoning via breast milk, following an institutional investigation that concluded the authors falsified the report by… [+5882 chars]"
+    },
+    {
+      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -671,19 +762,6 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/20/multimedia/20WELL-USPSTF1-hwlt/20WELL-USPSTF1-hwlt-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-20T22:29:07Z",
       "content": "Since March 2025, the work of the U.S. Preventive Services Task Force has been at a standstill."
-    },
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Gretchen Reynolds",
-      "title": "Column | Just one minute of this activity may cut blood sugar spikes by 40 percent - The Washington Post",
-      "description": "Frequent or prolonged rises in blood sugar can affect your health. This easy trick may help.",
-      "url": "https://www.washingtonpost.com/wellness/2026/11/20/just-one-minute-this-activity-may-cut-blood-sugar-spikes-by-40-percent/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/V3OFZEZMXLKG25VVBZGRMQ2FW4.jpg&w=1440",
-      "publishedAt": "2026-11-20T18:00:00Z",
-      "content": "The holidays are almost here, bringing with them joy, wonder, pies, cookie exchanges and possibly erratic blood sugar swings.\r\nWhich make the findings of a surprising new exercise study especially us… [+15 chars]"
     },
     {
       "source": {
@@ -714,19 +792,6 @@
     {
       "source": {
         "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "This simple habit is linked to a 33% lower risk of Alzheimer's - ScienceDaily",
-      "description": "Reading for pleasure may have surprisingly powerful benefits for the brain, with studies linking it to better memory, reduced stress, improved mental health, and a lower risk of dementia. Researchers highlight findings that just five minutes of fiction can re…",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261118065536.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/happy-senior-man-reading-book.webp",
-      "publishedAt": "2026-11-20T12:08:06Z",
-      "content": "Reading for enjoyment may offer far more than entertainment. Whether someone prefers a classic Jane Austen novel or a Heartstopper graphic novel, research suggests that reading for pleasure is associ… [+9401 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "KVUE.com"
       },
       "author": "KVUE",
@@ -736,19 +801,6 @@
       "urlToImage": null,
       "publishedAt": "2026-11-20T11:27:49Z",
       "content": null
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Conversation Africa"
-      },
-      "author": "Peter Alexander, Roslyn Henry",
-      "title": "Weight-loss drugs could free up an area of farmland larger than Italy – new study - The Conversation",
-      "description": "Ozempic, Wegovy and other drugs could have a significant effect on the environment. But medicine shouldn’t let an unhealthy and unsustainable food system off the hook.",
-      "url": "https://theconversation.com/weight-loss-drugs-could-free-up-an-area-of-farmland-larger-than-italy-new-study-291114",
-      "urlToImage": "https://images.theconversation.com/files/772449/original/file-20261117-64-vjzcoj.jpg?ixlib=rb-4.1.1&rect=0%2C596%2C7162%2C3581&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2026-11-20T09:38:51Z",
-      "content": "GLP-1 weight-loss medicines such as Ozempic and Wegovy could affect much more than the waistlines of the people who take them. If widely used, our new research suggests these appetite-suppressing med… [+4524 chars]"
     },
     {
       "source": {
@@ -765,19 +817,6 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Science Daily"
-      },
-      "author": null,
-      "title": "Powerful new weight-loss drug helps patients cut knee pain in half - ScienceDaily",
-      "description": "A powerful experimental weight-loss drug helped people with knee osteoarthritis lose about 25% of their body weight at the highest dose, while roughly two-thirds experienced at least a 50% reduction in knee pain. The findings suggest retatrutide could transfo…",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261118065534.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/knee-joint-cartilage-injury-arthritis-damage.webp",
-      "publishedAt": "2026-11-20T04:33:02Z",
-      "content": "For people living with painful knee osteoarthritis (OA), even simple activities like walking, climbing stairs, or getting out of a chair can become a struggle. Excess body weight can make these chall… [+6788 chars]"
-    },
-    {
-      "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
@@ -788,6 +827,19 @@
       "urlToImage": null,
       "publishedAt": "2026-11-20T01:01:41Z",
       "content": "Biotechs are racing to create A.I. models of human cells, hoping to speed drug development and slow aging. Can computers match the complexity of life?"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish - BBC",
+      "description": "Daily pill daraxonrasib appears to shrink and possibly even eliminate tumours in some patients with one of the deadliest cancers.",
+      "url": "https://www.bbc.com/news/articles/cqrmgjnzz9l0o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4568/live/3c973e20-e4be-11f1-99a1-253766e7ad8b.png",
+      "publishedAt": "2026-11-20T00:08:22Z",
+      "content": "Prof Elena Garralda, chair of a European cancer conference called EORTCNCIAACR Symposium 2026 where the work is being presented to other doctors, said: \"These results are exciting because they show t… [+145 chars]"
     },
     {
       "source": {
@@ -820,13 +872,13 @@
         "id": null,
         "name": "Science.org"
       },
-      "author": "Science | AAAS",
+      "author": null,
       "title": "A neural code for generative speech production in human Wernicke’s area - Science | AAAS",
-      "description": null,
+      "description": "Wernicke’s area in the posterior temporal lobe is classically defined by its role in speech comprehension, yet a paradox remains: Why does damage here also profoundly impair speech production? Using direct human brain recordings, cortical stimulation, ...",
       "url": "https://www.science.org/doi/10.1126/science.aef8963",
-      "urlToImage": null,
+      "urlToImage": "https://www.science.org/cms/asset/7cdfd9c6-f278-4525-a1f0-0044fb858f35/science.aef8963-keyimage.gif",
       "publishedAt": "2026-11-19T19:12:29Z",
-      "content": null
+      "content": "eLetters is a forum for ongoing peer review. eLetters are not edited, proofread, or indexed, but they are screened. eLetters should provide substantive and scholarly commentary on the article. Neithe… [+506 chars]"
     },
     {
       "source": {
@@ -840,32 +892,6 @@
       "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0904%2F260904_nfl_risk%2Dof%2Dcte_16x9.jpg",
       "publishedAt": "2026-11-19T18:50:00Z",
       "content": "Nov 19, 2026, 01:50 PM ET\r\nA new blood test shows potential to detect advanced stages of chronic traumatic encephalopathy (CTE) in the living, according to two recent studies published in the medical… [+3863 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Jamanetwork.com"
-      },
-      "author": null,
-      "title": "Medical Imaging and Pediatric and Adolescent Brain Tumor Risk - JAMA",
-      "description": "This retrospective cohort study quantifies brain tumor risk associated with ionizing radiation exposure from medical imaging in children and adolescents.",
-      "url": "https://jamanetwork.com/journals/jama/fullarticle/2857040",
-      "urlToImage": "https://cdn.jamanetwork.com/ama/content_public/journal/jama/0/joi260119t1_1794844842.41331.png?Expires=2147483647&Signature=VWYgaLtosnS9d3O3PichACBd8WpUJH0pOMKIrAhv~cKkrfebpEIZDsb6Tt7rDK7WeFAsrmL5hEgYjGhQGa3gxS2Z4VYRVmCYm40mBkeRDaHvkxRIwI4jnD8ujSWkNkp1AR2G27pWyocH-0nF2CXKLJ2odMOu9tlI9IgQKzkm0DMCdteelCmAZuKTFf5nf5EsKD-fBEHvyIGYvtSNpKlG~DSGLajGPoG2LCTk98c15GxhT6H5oVNX1R9JAbqfqR9tKCSfcXjtcvw59BXMclV24aMW6iB5yHPCiy97nq~LAe6umaPezLwTi86aFE~Hza9Cdd11OdqmIYCxbUfvCLP-WQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
-      "publishedAt": "2026-11-19T16:02:24Z",
-      "content": "Key PointsQuestion \r\n Among children and adolescents, is cumulative ionizing radiation exposure to the brain from medical imaging associated with increased risk of brain tumors?\r\nFindings \r\n In this … [+3020 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "nejm.org"
-      },
-      "author": null,
-      "title": "Assessing Multiple Treatment Regimens for Tuberculosis - NEJM",
-      "description": "Ganfeborole and BTZ-043 are new drugs that may improve tuberculosis treatment. In\nthis phase 2, randomized, controlled trial, we assigned participants with rifampin-susceptible\npulmonary tuberculos...",
-      "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2611913",
-      "urlToImage": "https://www.nejm.org/cms/asset/1b5e3c46-b7ec-4aca-b827-a8cbb5758a5b/nejmoa2611913_f1.jpg",
-      "publishedAt": "2026-11-19T12:57:36Z",
-      "content": "Copyright © 2026 \r\n Massachusetts Medical Society. \r\n All rights reserved, including those for text and data mining, AI training, and similar technologies. \r\n Electronic ISSN 1533-4406. Print ISSN 00… [+78 chars]"
     },
     {
       "source": {
@@ -889,7 +915,7 @@
       "title": "N.I.H. Will Move Final Group of Retired Research Chimps to Sanctuary",
       "description": "The National Institutes of Health, which stopped supporting invasive research on chimpanzees in 2015, previously said the animals were too old and frail to move.",
       "url": "https://www.nytimes.com/2026/11/18/science/nih-chimpanzees-sanctuary.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/18SCI-NIH-CHIMPS-wmlq/18SCI-NIH-CHIMPS-wmlq-mediumSquareAt3X.jpg",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/18SCI-NIH-CHIMPS-wmlq/18SCI-NIH-CHIMPS-wmlq-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-18T19:09:37Z",
       "content": "The National Institutes of Health, which stopped supporting invasive research on chimpanzees in 2015, previously said the animals were too old and frail to move."
     },
@@ -934,16 +960,16 @@
     },
     {
       "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
+        "id": null,
+        "name": "Verywellhealth.com"
       },
-      "author": "Laura Ungar",
-      "title": "With measles spreading, do you need a booster shot? - AP News",
-      "description": "Now that measles is back in the U.S., Mexico and Bolivia, some are asking if adults need a booster shot. Experts say the answer is generally no. Most people are already protected. Doctors say getting two doses of the MMR vaccine is the best way to protect aga…",
-      "url": "https://apnews.com/article/measles-mmr-booster-9d5dd493c125ee7b950eb24af303c6a5",
-      "urlToImage": "https://dims.apnews.com/dims4/default/7cea4f1/2147483647/strip/true/crop/2655x1860+0+0/resize/1200x841!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F92%2F11%2Fb13a208b8bc6c9c7ea66c83e7544%2Fdb2eca4fb33648a7aa481f6adc14aa48",
-      "publishedAt": "2026-11-18T15:41:00Z",
-      "content": "Now that measles is officially back in the U.S., some Americans are asking: Do adults need a booster shot?\r\nGenerally, experts say, the answer is no.\r\nMost people are protected without getting a boos… [+4377 chars]"
+      "author": "https://www.facebook.com/verywell",
+      "title": "Dietitians Share the 2 Best Fruits for Managing High Blood Sugar - Verywell Health",
+      "description": "We asked two registered dietitians for the best fruits to eat for managing high blood sugar.",
+      "url": "https://www.verywellhealth.com/best-fruits-managing-high-blood-sugar-12238092",
+      "urlToImage": "https://www.verywellhealth.com/thmb/DiZZvHqxumr4AuUVDXbucWbL1K0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/VWH-GettyImages-1503811895-7f28fd01f1e141b18eabc02828fa0283.jpg",
+      "publishedAt": "2026-11-18T15:00:00Z",
+      "content": "<ul><li>Raspberries are high in fiber and low in sugar, which can help manage blood sugar.</li><li>Avocados are rich in healthy fats and fiber and are naturally low in carbohydrates.</li><li>Eat frui… [+3401 chars]"
     },
     {
       "source": {
@@ -986,19 +1012,6 @@
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Benjamin Mueller",
-      "title": "John H. Powers III to Lead NIAID Amid Turmoil",
-      "description": "Dr. John H. Powers III was appointed director of the National Institute of Allergy and Infectious Diseases, a powerful post held for decades by Dr. Anthony Fauci.",
-      "url": "https://www.nytimes.com/2026/11/16/science/niaid-chief-john-powers.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/16/science/16SCI-NIAID-02/16SCI-NIAID-02-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-17T16:54:30Z",
-      "content": "Dr. John H. Powers III was appointed director of the National Institute of Allergy and Infectious Diseases, a powerful post held for decades by Dr. Anthony Fauci."
-    },
-    {
-      "source": {
         "id": null,
         "name": "BBC News"
       },
@@ -1009,6 +1022,19 @@
       "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0pn9srh.jpg",
       "publishedAt": "2026-11-17T10:00:00Z",
       "content": "Below are the recommended daily amounts from The NHS in the UK.\r\nMen, age 19 and over: 8.7mg\r\nWomen, age 19 to 49: 14.8mg (though those with heavy periods often need more)\r\nWomen, age 50 and over: 8.… [+2 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "nejm.org"
+      },
+      "author": null,
+      "title": "Semaglutide for the Treatment of Obesity in Children 6 to - NEJM",
+      "description": "Childhood obesity is a chronic, neurometabolic disease with limited options for medical\ntreatments that are efficacious and durable. Once-weekly subcutaneous semaglutide\nis approved for the treatme...",
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2604058",
+      "urlToImage": "https://www.nejm.org/cms/asset/4c798dc0-8074-4524-b559-e89781008201/nejmoa2604058_f1.jpg",
+      "publishedAt": "2026-11-17T03:54:05Z",
+      "content": "Copyright © 2026 \r\n Massachusetts Medical Society. \r\n All rights reserved, including those for text and data mining, AI training, and similar technologies. \r\n Electronic ISSN 1533-4406. Print ISSN 00… [+78 chars]"
     },
     {
       "source": {
@@ -1035,45 +1061,6 @@
       "urlToImage": "https://dims.apnews.com/dims4/default/1f1b5e6/2147483647/strip/true/crop/3060x3081+0+0/resize/1200x1208!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa0%2Fb5%2F0b9be94a6c88627c2e744b97981f%2Fc008438286634def8843708cd3344bf0",
       "publishedAt": "2026-11-16T20:00:00Z",
       "content": "For the first time in decades, U.S. doctors are sounding the alarm about babies coming into the world with measles.\r\nCongenital measles happens when a pregnant woman passes the virus to her fetus in … [+5228 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "nejm.org"
-      },
-      "author": "NEJM",
-      "title": "Semaglutide for the Treatment of Obesity in Children 6 to - NEJM",
-      "description": null,
-      "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2604058",
-      "urlToImage": null,
-      "publishedAt": "2026-11-16T15:18:10Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Michael Barbaro, Nina Agrawal, Alex Stern, Chris Benderev, Eric Krupke, Carlos Prieto, Marion Lozano, Rowan Niemisto, Dan Powell and Alyssa Moxley",
-      "title": "Finally, a Vaccine for Cancer",
-      "description": "An experimental vaccine has been found to prevent recurrence of melanoma. Scientists hope it won’t be the last.",
-      "url": "https://www.nytimes.com/2026/11/16/podcasts/the-daily/vaccine-cancer-melanoma.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/16/multimedia/16daily-cancer-vaccines-qwgh/16daily-cancer-vaccines-qwgh-mediumSquareAt3X-v2.jpg",
-      "publishedAt": "2026-11-16T11:00:08Z",
-      "content": "An experimental vaccine has been found to prevent recurrence of melanoma. Scientists hope it won’t be the last."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Sheri Fink",
-      "title": "American Global Health Aid Isn’t Dead. It’s Changing.",
-      "description": "The Trump administration promised to make aid programs more “America First.” Some countries are balking.",
-      "url": "https://www.nytimes.com/2026/11/16/world/american-global-health-aid-isnt-dead-its-changing.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/11/multimedia/00inv-ideas-globalhealth-01-gvhm/00inv-ideas-globalhealth-01-gvhm-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-16T10:00:31Z",
-      "content": "The Trump administration promised to make aid programs more “America First.” Some countries are balking."
     }
   ]
 }

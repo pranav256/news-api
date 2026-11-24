@@ -5,9 +5,22 @@
   "providers": [
     "rss"
   ],
-  "fetched_at": "2026-11-24T03:29:03.392183+00:00",
+  "fetched_at": "2026-11-24T14:19:33.166462+00:00",
   "articles_count": 10,
   "articles": [
+    {
+      "source": {
+        "id": "global-news",
+        "name": "Global News"
+      },
+      "author": "Alessia Maratta",
+      "title": "Montreal touts aerospace, AI in bid to host NATO defence bank",
+      "description": "The Defence, Security and Resilience Bank is expected to launch next year with about 50 employees, growing to as many as 700 within a decade.",
+      "url": "https://globalnews.ca/news/12163120/montreal-defence-security-and-resilience-bank-bid/",
+      "urlToImage": "https://globalnews.ca/wp-content/uploads/2026/11/CP177325562.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "publishedAt": "2026-11-24T10:00:48Z",
+      "content": "The Defence, Security and Resilience Bank is expected to launch next year with about 50 employees, growing to as many as 700 within a decade."
+    },
     {
       "source": {
         "id": "global-news",
@@ -124,19 +137,6 @@
       "urlToImage": "https://globalnews.ca/wp-content/uploads/2026/11/CP177258456-e1795009316921.jpg?quality=65&strip=all&w=720&h=480&crop=1",
       "publishedAt": "2026-11-18T13:52:05Z",
       "content": "As Nvidia delivered quarterly earnings on Tuesday, the company said it would not rehire co-founder Jensen Huang as CEO and would not take questions about his departure."
-    },
-    {
-      "source": {
-        "id": "global-news",
-        "name": "Global News"
-      },
-      "author": "Ari Rabinovitch",
-      "title": "All eyes on AI amid fears global economy could be ‘standing on one leg’",
-      "description": "Nvidia is set to report quarterly earnings and Anthropic is expected to go public this week as the International Monetary Fund gave a stern warning to investors.",
-      "url": "https://globalnews.ca/news/12154238/ai-nvidia-anthropic-imf/",
-      "urlToImage": "https://globalnews.ca/wp-content/uploads/2026/11/CP172577848-e1794937020299.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "publishedAt": "2026-11-17T18:25:01Z",
-      "content": "Nvidia is set to report quarterly earnings and Anthropic is expected to go public this week as the International Monetary Fund gave a stern warning to investors."
     }
   ]
 }
