@@ -6,9 +6,61 @@
     "newsapi",
     "rss"
   ],
-  "fetched_at": "2026-11-23T16:33:31.114213+00:00",
+  "fetched_at": "2026-11-24T03:29:03.392183+00:00",
   "articles_count": 100,
   "articles": [
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Eilene Zimmerman",
+      "title": "Meet NASA’s first and only female launch director",
+      "description": "Charlie Blackwell-Thompson is the first and only woman to serve as NASA’s launch director.",
+      "url": "https://www.nytimes.com/2026/11/23/science/space/women-charlie-blackwell-thompson-nasa.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/25/multimedia/25sp-women-thompson-inyt-01-cmlp/25sp-women-thompson-inyt-01-cmlp-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-23T21:19:11Z",
+      "content": "Charlie Blackwell-Thompson is the first and only woman to serve as NASA’s launch director."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Cade Metz",
+      "title": "The Race to Build a Quantum Computer Has Become a Sprint",
+      "description": "A rising technology based on “neutral atoms” has accelerated the competition — prompting many experts to believe that a usable machine could arrive this decade.",
+      "url": "https://www.nytimes.com/2026/11/20/science/quantum-computer-neutral-atoms.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/19/multimedia/19SCI-QUANTUM-COMPUTING-stillpromo/19SCI-QUANTUM-COMPUTING-stillpromo-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-23T19:55:42Z",
+      "content": "A rising technology based on “neutral atoms” has accelerated the competition — prompting many experts to believe that a usable machine could arrive this decade."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Chico Harlan and Lisa Friedman",
+      "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels",
+      "description": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.",
+      "url": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/22/multimedia/22cli-cop31-final3-fmcb/22cli-cop31-final3-fmcb-mediumSquareAt3X-v2.jpg",
+      "publishedAt": "2026-11-23T19:27:13Z",
+      "content": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas."
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": "Jay Bennett",
+      "title": "International Mission Arrives at Mercury to Study Its Mysteries",
+      "description": "BepiColombo is now the second spacecraft in history to orbit the planet closest to the sun.",
+      "url": "https://www.nytimes.com/2026/11/20/science/mercury-bepi-colombo-orbit.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/24/science/20SCI-MERCURY-BEPI1-lfkc/20SCI-MERCURY-BEPI1-lfkc-mediumSquareAt3X.jpg",
+      "publishedAt": "2026-11-23T18:29:03Z",
+      "content": "BepiColombo is now the second spacecraft in history to orbit the planet closest to the sun."
+    },
     {
       "source": {
         "id": "the-new-york-times",
@@ -50,16 +102,94 @@
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
+        "id": "cbs-news",
+        "name": "CBS News"
       },
-      "author": "Chico Harlan and Lisa Friedman",
-      "title": "COP31 Talks Collapse in Turkey in a Clash Over Fossil Fuels",
-      "description": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.",
-      "url": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/22/multimedia/22cli-cop31-final3-fmcb/22cli-cop31-final3-fmcb-mediumSquareAt3X-v2.jpg",
-      "publishedAt": "2026-11-23T02:01:42Z",
-      "content": "European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas."
+      "author": "Lesley Stahl, Ashley Velie",
+      "title": "60 Minute Transcript: The online community idolizing mass shooters",
+      "description": "Researchers have identified 12 attacks in the US in the last three years that were carried out by members in the TCC, a growing online community that idolizes mass shooters.",
+      "url": "https://www.cbsnews.com/news/inside-the-tcc-an-online-community-that-idolizes-mass-shooters-60-minute-transcript/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/22/a9ea85ae-4dcb-4fe1-be9d-196e7b7ed582/thumbnail/1200x630/3dd16d02beb2b5efbcdae50c6fd64343/tcc-transcript.jpg",
+      "publishedAt": "2026-11-23T00:59:41Z",
+      "content": "Columbine, Sandy Hook, Larkland: part of our American gallery of bloody, horrific school shootings, most carried out by teenagers. And in the last three years, many by members of something called TCC… [+10525 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Jon Wertheim, Aliza Chasan, Denise Schrier Cetta",
+      "title": "The $10 synthetic opioid that killed him.",
+      "description": "Nitazenes, a new class of synthetic opioid up to 80 times more potent than fentanyl, are among those being churned out by drug cartels.",
+      "url": "https://www.cbsnews.com/news/synthetic-opioids-nitazenes-cartel-chemists-60-minutes/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/22/47f94f08-5ee6-439f-bac8-f1cb10677437/thumbnail/1200x630/9c96ea34822dcea1f3d16b31d227357c/one-molecule-video-wertheim.jpg",
+      "publishedAt": "2026-11-23T00:59:38Z",
+      "content": "A painkiller addiction after a sports injury led to a promising young athlete's death.\r\nPills Qua Broughton bought over social media were found to contain a nitazene, a new synthetic opioid. Broughto… [+3243 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Jon Wertheim, Denise Schrier Cetta",
+      "title": "60 Minutes Transcript: How cartels make new synthetic opioids",
+      "description": "The DEA is confronting what it calls the deadliest drug threat the U.S. has faced: synthetic opioids. Drug cartels tweak one molecule at a time to evade law enforcement.",
+      "url": "https://www.cbsnews.com/news/drug-cartels-tweak-molecules-to-make-new-synthetic-opioids-60-minutes-transcript/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/22/0f1dc03c-912a-4648-80ed-32977c59b380/thumbnail/1200x630/88d613f883b23f7e56c49922022f7141/one-molecule-transcript.jpg",
+      "publishedAt": "2026-11-23T00:59:36Z",
+      "content": "The DEA, the U.S. Drug Enforcement Administration, is now confronting what it calls the greatest and most deadly drug threat the country has ever faced: synthetic opioids, which have killed more than… [+12760 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "How to Handle Politics at the Thanksgiving Table & New Year Goals with Vanessa Van Edwards",
+      "description": "As we prepare to gather with loved ones this Thanksgiving, the holiday comes with a side of tension and disagreement for many of us. Even with a long, bitter election season behind us, some political wounds still haven’t healed. Earlier this week, behavioral …",
+      "url": "https://radio.foxnews.com/2026/11/22/how-to-handle-politics-at-the-thanksgiving-table-new-year-goals-with-vanessa-van-edwards/",
+      "urlToImage": "https://static-radio.foxnews.com/radio.foxnews.com/content/uploads/2026/10/FEATURED_IMAGE_THE_FOX_NEWS_RUNDOWN_PODCAST.jpg",
+      "publishedAt": "2026-11-22T23:52:02Z",
+      "content": "As we prepare to gather with loved ones this Thanksgiving, the holiday comes with a side of tension and disagreement for many of us. Even with a long, bitter election season behind us, some political… [+975 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Fin Daniel Gómez, Zak Hudak, Joe Walsh",
+      "title": "Ossoff's broad and decisive Senate win fuels 2028 speculation",
+      "description": "Democratic Sen. Jon Ossoff's commanding victory in Georgia relied on a broad coalition, and this is fueling 2028 presidential interest in him, even though he says he'll be in the Senate for the next six years.",
+      "url": "https://www.cbsnews.com/news/jon-ossoff-2028-presidential-speculation-after-georgia-win/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/22/65242fe5-66a0-45da-895e-1269f899fad2/thumbnail/1200x630/46c18cee051c9567856290231fe10510/gettyimages-2302972723.jpg",
+      "publishedAt": "2026-11-22T21:06:12Z",
+      "content": "Washington — Democratic Sen. Jon Ossoff's commanding reelection victory in Georgia is drawing renewed attention to his potential as a 2028 presidential contender, as election data shows how he assemb… [+8372 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Sadie Chafe",
+      "title": "Common sleep habit linked to 50% higher death risk in heart patients, recent study finds",
+      "description": "A PLOS One study of 3,287 US adults with heart disease links sleeping nine or more hours to a 51% higher risk of all-cause mortality over 15 years.",
+      "url": "https://www.foxnews.com/health/common-sleep-habit-linked-50-higher-death-risk-heart-patients-recent-study-finds",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/woman-sleep-apnea-wearing-cpap-machines.jpg",
+      "publishedAt": "2026-11-22T20:30:36Z",
+      "content": "Adults with heart disease who sleep nine or more hours per night could be at a higher risk of death from both heart-related and non-heart-related causes than those who sleep seven to eight hours, acc… [+3460 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Amber Harding",
+      "title": "Massive 17-foot shark comes face-to-face with scientists in incredible deep-sea footage",
+      "description": "Viral video captures a massive bluntnose sixgill shark pressing her snout against a submersible window 1,700 feet beneath the Atlantic near the Bahamas.",
+      "url": "https://www.foxnews.com/outkick-sports/massive-17-foot-shark-face-to-face-scientists-incredible-deep-sea-footage",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/broadnose-sevengill-sharks-durban_001.jpg",
+      "publishedAt": "2026-11-22T19:36:49Z",
+      "content": "A video making the rounds on social media Sunday shows a massive deep-water shark getting up close and personal with a group of scientists inside a submersible.\r\nAnd when I say up close and personal,… [+3911 chars]"
     },
     {
       "source": {
@@ -73,6 +203,45 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/18/multimedia/18obit-hooton-03-gpht/18obit-hooton-03-gpht-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-22T19:10:04Z",
       "content": "After the suicide of his son, a high school pitcher who used steroids, Donald Hooton Sr. delivered blistering testimony before Congress. He was 76."
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Mike Bohn",
+      "title": "UFC Fight Night 294 post-event facts: Dan Hooker rights the ship",
+      "description": "Go inside the numbers after UFC Qatar, which saw Jiri Prochazka fall to a career-worst skid, while Dan Hooker broke out of one.",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/22/ufc-fight-night-294-post-event-facts-dan-hooker-ends-losing-skid/92878413007/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/c6421f5d45a3503eb8e4fde6f275a073284ff7ae6b1d7f82647354d79fee4a4c/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmma_junkie_usa_today_articles_344%2F36bef2ee820dfa4f950f54b8ad8f345e.jpg",
+      "publishedAt": "2026-11-22T18:00:29Z",
+      "content": "The UFC held its second event in Qatar on Saturday with UFC Fight Night 294 in Doha, and while it was a slow-paced event with eight decisions out of 12 bouts, the show closed with a bang.\r\nThat was c… [+3847 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Kurt Knutsson CyberGuy Report",
+      "title": "FDA clears tiny surgical robot to remove bladder tumors",
+      "description": "The FDA-authorized Virtuoso Endoscopy System uses needle-sized robotic arms to remove bladder tumors intact, helping pathologists assess detrusor muscle.",
+      "url": "https://www.foxnews.com/tech/fda-clears-tiny-surgical-robot-remove-bladder-tumors",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/fda-clears-surgical-robot-bladder-tumors.jpg",
+      "publishedAt": "2026-11-22T17:32:22Z",
+      "content": "If a doctor finds a tumor in your bladder, you want to know what you're dealing with. Is it cancer? Has it reached the bladder muscle? The tissue removed during surgery helps answer those questions. … [+9428 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Ashley Hume",
+      "title": "‘Dukes of Hazzard’ star Catherine Bach says co-star stripped naked except for cowboy hat to cheer her up",
+      "description": "Catherine Bach recalls James Best's hilarious naked prank on the \"Dukes of Hazzard\" set that lifted her homesickness, ending with 30 crew members bowing to him.",
+      "url": "https://www.foxnews.com/entertainment/dukes-hazzard-star-catherine-bach-says-co-star-stripped-naked-except-cowboy-hat-cheer-her-up",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/catherine-bach.jpg",
+      "publishedAt": "2026-11-22T17:00:04Z",
+      "content": "\"Dukes of Hazzard\" star Catherine Bach recalled a wild behind-the-scenes prank that her co-star, James Best, pulled on her while they were filming the iconic 1980s sitcom.\r\nThe 72-year-old actress re… [+7428 chars]"
     },
     {
       "source": {
@@ -203,19 +372,6 @@
       "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/Tornado-Pro-1.jpg",
       "publishedAt": "2026-11-22T02:49:36Z",
       "content": "Last year, my husband removed 27 bushes from our yard, but we still have 42 more. Every year in November (when Texas autumn begins), I watch from my office window as each leaf that falls adds one mor… [+2180 chars]"
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Jay Bennett",
-      "title": "International Mission Arrives at Mercury to Study Its Mysteries",
-      "description": "BepiColombo is now the second spacecraft in history to orbit the planet closest to the sun.",
-      "url": "https://www.nytimes.com/2026/11/20/science/mercury-bepi-colombo-orbit.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/20/multimedia/20SCI-MERCURY-BEPI1-lfkc/20SCI-MERCURY-BEPI1-lfkc-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-22T01:26:28Z",
-      "content": "BepiColombo is now the second spacecraft in history to orbit the planet closest to the sun."
     },
     {
       "source": {
@@ -765,19 +921,6 @@
     },
     {
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Cade Metz",
-      "title": "The Race to Build a Quantum Computer Has Become a Sprint",
-      "description": "A rising technology based on “neutral atoms” has accelerated the competition — prompting many experts to believe that a usable machine could arrive this decade.",
-      "url": "https://www.nytimes.com/2026/11/20/science/quantum-computer-neutral-atoms.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/19/multimedia/19SCI-QUANTUM-COMPUTING-stillpromo/19SCI-QUANTUM-COMPUTING-stillpromo-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-20T21:46:06Z",
-      "content": "A rising technology based on “neutral atoms” has accelerated the competition — prompting many experts to believe that a usable machine could arrive this decade."
-    },
-    {
-      "source": {
         "id": "usa-today",
         "name": "USA Today"
       },
@@ -1165,149 +1308,6 @@
       "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/13/2c95b34c-f8ca-49f8-8dfb-e6c0d1408c98/thumbnail/1200x630/ac51c82176824bbef904e683e259200e/gettyimages-475279818.jpg",
       "publishedAt": "2026-11-20T13:17:47Z",
       "content": "If your credit card bill keeps increasing each month, it may help to know that you're not the only one. Credit card debt remains a considerable financial burden for Americans, a report released by th… [+4127 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Andrea Margolis",
-      "title": "1,800-year-old Roman toddler's grave found frozen in time, and it still had toys inside",
-      "description": "A Roman child burial in the Tomis necropolis revealed clay toys, bronze amulets and flower garlands preserved for 1,800 years in an intact sarcophagus in Romania.",
-      "url": "https://www.foxnews.com/travel/1800-year-old-roman-toddler-grave-found-frozen-time-toys-inside",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/ROMANIA-ANCIENT-ROMAN-CHILD-ARCHAEOLOGY-DISCOVERY-HISTORY-1.jpg",
-      "publishedAt": "2026-11-20T13:00:38Z",
-      "content": "Archaeologists in Romania have unsealed an intact 1,800-year-old Roman child's sarcophagus finding clay toys, protective amulets and preserved flower garlands buried alongside the toddler's remains.\r… [+4214 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Robert Schmad",
-      "title": "America's largest IPO ever carries potentially seismic implications for political spending ahead of 2028",
-      "description": "Anthropic makes its stock market debut Thursday at a $1.5 trillion valuation as its seven co-founders each pledge to give away 80% of their equity.",
-      "url": "https://www.foxnews.com/politics/americas-largest-ipo-carries-seismic-implications-political-spending-ahead-2028",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/dario-amodei-mark-zuckerberg-trump-ai-briefing.jpg",
-      "publishedAt": "2026-11-20T13:00:30Z",
-      "content": "Anthropic’s Thursday stock market debut, valued at around $1.5 trillion, is the largest in American history and, given promises made by its founders, is likely the preface to a similarly historic flo… [+8516 chars]"
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Brad Plumer and Olivia Diaz",
-      "title": "Senate Passes Major Permitting Bill to Speed Up Energy Projects",
-      "description": "The bill would overhaul federal environmental laws to make it easier to build everything from gas pipelines to wind farms. But it faces hurdles in the House.",
-      "url": "https://www.nytimes.com/2026/11/19/climate/senate-passes-baaja-permitting-bill-energy.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/20/multimedia/20cli-permitting-senate-HFO2-qlhz/20cli-permitting-senate-HFO2-qlhz-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-20T12:31:59Z",
-      "content": "The bill would overhaul federal environmental laws to make it easier to build everything from gas pipelines to wind farms. But it faces hurdles in the House."
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Brandon Walker, Broncos Wire",
-      "title": "Broncos LB Alex Singleton talks Bo Nix, Sean Payton and more with Rich Eisen",
-      "description": "Broncos LB Alex Singleton joined Rich Eisen to talk about the state of the team going into the second half of the season.",
-      "url": "https://broncoswire.usatoday.com/story/sports/nfl/broncos/2026/11/20/denver-broncos-alex-singleton-on-bo-nix-and-sean-payton/92828093007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/01941378c87d913fa17821f7f92df9316d5498f0a06e2312c71f000c4b94171c/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdenver_broncos_wire_usa_today_sports_articles_584%2F2dcf044fa5edea058788fedb7e0c771d.jpg",
-      "publishedAt": "2026-11-20T12:00:40Z",
-      "content": "The Denver Broncos' bye week provided an opportunity for players to rest and recover from a brutal first half of the schedule before gearing up for the final\r\nDuring the bye week, Broncos linebacker … [+2615 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Melissa Rudy",
-      "title": "Mysterious illness tied to breast implants shares symptoms with MS, but key questions remain",
-      "description": "Christina Applegate suspects her breast implants could be behind joint pain and other symptoms, saying she plans to discuss it with her doctors.",
-      "url": "https://www.foxnews.com/health/mysterious-illness-tied-breast-implants-shares-symptoms-ms-key-questions-remain",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/woman-holding-breast-implants.jpg",
-      "publishedAt": "2026-11-20T12:00:00Z",
-      "content": "Weeks after Christina Applegate revealed she had been misdiagnosed with multiple sclerosis, the actress has shared a suspicion that her breast implants could be to blame for her symptoms.\r\nOn a Nov. … [+7599 chars]"
-    },
-    {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
-      "author": "Todd Brock, Cowboys Wire",
-      "title": "Cowboys Headlines: Parker's awkward presser, Turpin back at KR, Dak tops dubious list",
-      "description": "Christian Parker's awkward presser leaves more questions than answers, KaVontae Turpin will return kicks again, and Dak Prescott tops a dubious list.",
-      "url": "https://cowboyswire.usatoday.com/story/sports/nfl/cowboys/2026/11/20/news-headlines-november-19-2026-christian-parker-presser-dak-prescott-most-betrayed-qb/92870813007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/843d55923644d50668bba41da9c12b2a63a5d7c0728707f580284523d9a87ce6/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdallas_cowboys_wire_usa_today_sports_articles_693%2F4840becb5dff3af2054d813c4f7b1aae.jpg",
-      "publishedAt": "2026-11-20T11:06:51Z",
-      "content": "Christian Parker's weekly press conference topped the headlines on Thursday, but while the Cowboys' first-year defensive coordinator gave plenty of answers regarding the stripping of his playcalling … [+4284 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Robert Schmad",
-      "title": "Elon Musk's space giant cozies up to Dem power brokers as party vows to put his empire under siege",
-      "description": "Elon Musk's SpaceX hired five Democratic lobbyists as Democrats promise probes into Ukraine satellite claims, Pentagon reliance and Chinese investors.",
-      "url": "https://www.foxnews.com/politics/elon-musks-space-giant-cozies-up-dem-power-brokers-party-vows-put-his-empire-under-siege",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/05/elon-musk.jpg",
-      "publishedAt": "2026-11-20T11:00:32Z",
-      "content": "Elon Musks SpaceX has hired a team of veteran Washington lobbyists with Democratic connections as the party prepares to take control of Congress and intensify scrutiny of his business empire.\r\nDemocr… [+3215 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Coke Morgan Stewart",
-      "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
-      "description": "The DOJ's embrace of fair use for AI training breaks with the White House's own framework, as OpenAI, Microsoft and news groups battle over copyright.",
-      "url": "https://www.foxnews.com/opinion/americans-dont-choose-between-ai-future-ripping-off-copyright-owners",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/Sam_Altman_UAE.jpg",
-      "publishedAt": "2026-11-20T10:06:43Z",
-      "content": "One of the biggest court battles over artificial intelligence (AI) is putting an age-old legal principle to the test and raising important questions about the Trump administration's AI policy.\r\nSever… [+5909 chars]"
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Cade Metz",
-      "title": "Quantum Computing Is Even Weirder Than You Think",
-      "description": "In a new study, Google researchers demonstrated a strange phenomenon called quantum contextuality, in which a quantum machine’s data can change as the context does.",
-      "url": "https://www.nytimes.com/2026/11/20/science/quantum-contextuality.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/19/multimedia/19SCI-QUANTUM-CONTEXTUALITY-fwhv/19SCI-QUANTUM-CONTEXTUALITY-fwhv-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-20T10:02:37Z",
-      "content": "In a new study, Google researchers demonstrated a strange phenomenon called quantum contextuality, in which a quantum machine’s data can change as the context does."
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Douglas MacKinnon",
-      "title": "‘Austin Powers’ star Mike Myers seems to think liberal Hollywood is just ‘groovy’",
-      "description": "Mike Myers teased political commentary for Austin Powers in a Variety interview posted on Veterans Day, Nov. 11, saying \"the world has happened.\"",
-      "url": "https://www.foxnews.com/opinion/austin-powers-star-mike-myers-liberal-hollywood-groovy",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/Dr-Evil-screenshot.png",
-      "publishedAt": "2026-11-20T10:00:43Z",
-      "content": "On Veterans Day, Nov. 11, Variety posted a quick interview with actor Mike Myers on X that has over 600,000 views and counting. At the outset, I should state that I have long been a fan of Myers. Par… [+5789 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Landon Mion",
-      "title": "Pro-life group says Trump admin didn't give key abortion drug commitments before Overton FDA nomination pulled",
-      "description": "Susan B. Anthony Pro-Life America opposed Heidi Overton's FDA confirmation until the Trump administration committed to ending mail-order abortion drugs.",
-      "url": "https://www.foxnews.com/politics/pro-life-group-says-trump-admin-didnt-give-key-abortion-drug-commitments-overton-fda-nomination-pulled",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/heidi-overton.png",
-      "publishedAt": "2026-11-20T05:32:52Z",
-      "content": "A leading pro-life group said it opposed advancing Heidi Overton's nomination to lead the Food and Drug Administration without commitments from the Trump administration on abortion drug policy. The W… [+7223 chars]"
     }
   ],
   "query": "science OR research OR discovery OR space OR astronomy"
