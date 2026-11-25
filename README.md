@@ -7,7 +7,7 @@ scheduled scraper is written in Rust and uses public RSS/Atom feeds plus a
 targeted publisher listing, without NewsAPI requests or API keys. The previous
 Python scraper is preserved on the [`python` branch](https://github.com/pranav256/news-api/tree/python).
 It covers five countries and seven categories. The GitHub Actions
-workflow requests a refresh every two hours at minute 17 UTC and
+workflow requests a refresh every 30 minutes, at minutes 17 and 47 UTC, and
 commits only when the generated data changes. GitHub may delay or drop scheduled
 runs, so this is a target rather than a freshness guarantee.
 
