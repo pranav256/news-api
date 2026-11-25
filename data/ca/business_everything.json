@@ -5,9 +5,35 @@
   "providers": [
     "rss"
   ],
-  "fetched_at": "2026-11-24T14:19:33.166462+00:00",
+  "fetched_at": "2026-11-25T00:09:54.387694+00:00",
   "articles_count": 10,
   "articles": [
+    {
+      "source": {
+        "id": "global-news",
+        "name": "Global News"
+      },
+      "author": "Uday Rana",
+      "title": "This Black Friday, 6 in 10 Canadians plan to use credit for holiday shopping",
+      "description": "Around six in 10 (59 per cent) Canadians are planning to use their credit cards to make purchases for Black Friday, a new survey showed on Tuesday.",
+      "url": "https://globalnews.ca/news/12164263/black-friday-credit-card/",
+      "urlToImage": "https://globalnews.ca/wp-content/uploads/2026/11/Black-Friday-credit-card.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "publishedAt": "2026-11-24T17:57:27Z",
+      "content": "Around six in 10 (59 per cent) Canadians are planning to use their credit cards to make purchases for Black Friday, a new survey showed on Tuesday."
+    },
+    {
+      "source": {
+        "id": "global-news",
+        "name": "Global News"
+      },
+      "author": "Uday Rana",
+      "title": "Mortgage delinquencies at 13-year high as Canadians fall behind on payments",
+      "description": "The proportion of mortgage balances that were overdue for more than 90 days in July, August, and September rose to 0.32 per cent, a report from Equifax Canada shows.",
+      "url": "https://globalnews.ca/news/12164175/mortgage-delinquencies-2026/",
+      "urlToImage": "https://globalnews.ca/wp-content/uploads/2026/11/Mortgage-delinquencies-2026.jpg?quality=65&strip=all&w=720&h=480&crop=1",
+      "publishedAt": "2026-11-24T16:57:17Z",
+      "content": "The proportion of mortgage balances that were overdue for more than 90 days in July, August, and September rose to 0.32 per cent, a report from Equifax Canada shows."
+    },
     {
       "source": {
         "id": "global-news",
@@ -111,32 +137,6 @@
       "urlToImage": "https://globalnews.ca/wp-content/uploads/2026/11/CP177290964-e1795018761312.jpg?quality=65&strip=all&w=720&h=480&crop=1",
       "publishedAt": "2026-11-18T16:22:02Z",
       "content": "Wall Street is wobbling Wednesday, as Nvidia and other stocks tied to artificial intelligence keep swinging on uncertainty about how much strength is left in the AI boom."
-    },
-    {
-      "source": {
-        "id": "global-news",
-        "name": "Global News"
-      },
-      "author": "Uday Rana",
-      "title": "Loblaw now allows users to buy groceries via Meta’s Muse AI",
-      "description": "Meta said its new agentic AI 'can remember brand preferences and information like food allergies, making next week’s planning even easier.'",
-      "url": "https://globalnews.ca/news/12156176/loblaw-muse-ai/",
-      "urlToImage": "https://globalnews.ca/wp-content/uploads/2026/11/Loblaw-Muse-AI.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "publishedAt": "2026-11-18T16:18:01Z",
-      "content": "Meta said its new agentic AI 'can remember brand preferences and information like food allergies, making next week’s planning even easier.'"
-    },
-    {
-      "source": {
-        "id": "global-news",
-        "name": "Global News"
-      },
-      "author": "globalnewsdigital",
-      "title": "Nvidia slams the door on former CEO amid blowout earnings report",
-      "description": "As Nvidia delivered quarterly earnings on Tuesday, the company said it would not rehire co-founder Jensen Huang as CEO and would not take questions about his departure.",
-      "url": "https://globalnews.ca/news/12156015/nvidia-earnings-jensen-huang/",
-      "urlToImage": "https://globalnews.ca/wp-content/uploads/2026/11/CP177258456-e1795009316921.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "publishedAt": "2026-11-18T13:52:05Z",
-      "content": "As Nvidia delivered quarterly earnings on Tuesday, the company said it would not rehire co-founder Jensen Huang as CEO and would not take questions about his departure."
     }
   ],
   "query": "market OR economy OR finance OR stock OR business"
