@@ -1,466 +1,460 @@
 {
-  "schema_version": 1,
-  "generated_at": "2026-11-25T00:10:16.874029+00:00",
-  "run_started_at": "2026-11-25T00:09:54.387694+00:00",
-  "status": "ok",
-  "api_keys_detected": 7,
-  "newsapi_requests_used": 55,
-  "newsapi_requests_allowed": 55,
-  "rss_feeds_failed": 0,
+  "api_keys_detected": 0,
   "api_requests_failed": 0,
-  "rss_feeds_attempted": 58,
-  "rss_feeds_succeeded": 58,
-  "feeds_updated": 40,
-  "feeds_retained": 0,
+  "errors": [
+    "in/general Indian Express: HTTP status client error (403 Forbidden) for url (https://indianexpress.com/section/india/feed/)",
+    "in/business Indian Express: HTTP status client error (403 Forbidden) for url (https://indianexpress.com/section/business/feed/)",
+    "in/health Indian Express: HTTP status client error (403 Forbidden) for url (https://indianexpress.com/section/lifestyle/health/feed/)",
+    "in/science Indian Express: HTTP status client error (403 Forbidden) for url (https://indianexpress.com/section/technology/science/feed/)",
+    "in/sports Indian Express: HTTP status client error (403 Forbidden) for url (https://indianexpress.com/section/sports/feed/)",
+    "in/technology Indian Express: HTTP status client error (403 Forbidden) for url (https://indianexpress.com/section/technology/feed/)",
+    "in/entertainment Indian Express: HTTP status client error (403 Forbidden) for url (https://indianexpress.com/section/entertainment/feed/)"
+  ],
   "feeds": [
     {
-      "country": "in",
+      "articles_count": 281,
+      "attempted_at": "2026-11-25T07:21:44.929363Z",
       "category": "general",
-      "status": "updated",
-      "attempted_at": "2026-11-25T00:09:54.387694+00:00",
-      "last_successful_refresh": "2026-11-25T00:09:54.387694+00:00",
+      "country": "in",
+      "last_successful_refresh": "2026-11-25T07:21:44.929363Z",
       "providers": [
         "rss"
       ],
-      "articles_count": 100
+      "status": "updated"
     },
     {
-      "country": "in",
+      "articles_count": 98,
+      "attempted_at": "2026-11-25T07:21:44.929363Z",
       "category": "business",
-      "status": "updated",
-      "attempted_at": "2026-11-25T00:09:54.387694+00:00",
-      "last_successful_refresh": "2026-11-25T00:09:54.387694+00:00",
+      "country": "in",
+      "last_successful_refresh": "2026-11-25T07:21:44.929363Z",
       "providers": [
         "rss"
       ],
-      "articles_count": 80
+      "status": "updated"
     },
     {
-      "country": "in",
+      "articles_count": 87,
+      "attempted_at": "2026-11-25T07:21:44.929363Z",
       "category": "health",
-      "status": "updated",
-      "attempted_at": "2026-11-25T00:09:54.387694+00:00",
-      "last_successful_refresh": "2026-11-25T00:09:54.387694+00:00",
+      "country": "in",
+      "last_successful_refresh": "2026-11-25T07:21:44.929363Z",
       "providers": [
         "rss"
       ],
-      "articles_count": 60
+      "status": "updated"
     },
     {
-      "country": "in",
+      "articles_count": 60,
+      "attempted_at": "2026-11-25T07:21:44.929363Z",
       "category": "science",
-      "status": "updated",
-      "attempted_at": "2026-11-25T00:09:54.387694+00:00",
-      "last_successful_refresh": "2026-11-25T00:09:54.387694+00:00",
+      "country": "in",
+      "last_successful_refresh": "2026-11-25T07:21:44.929363Z",
       "providers": [
         "rss"
       ],
-      "articles_count": 60
+      "status": "updated"
     },
     {
-      "country": "in",
+      "articles_count": 144,
+      "attempted_at": "2026-11-25T07:21:44.929363Z",
       "category": "sports",
-      "status": "updated",
-      "attempted_at": "2026-11-25T00:09:54.387694+00:00",
-      "last_successful_refresh": "2026-11-25T00:09:54.387694+00:00",
+      "country": "in",
+      "last_successful_refresh": "2026-11-25T07:21:44.929363Z",
       "providers": [
         "rss"
       ],
-      "articles_count": 100
+      "status": "updated"
     },
     {
-      "country": "in",
+      "articles_count": 180,
+      "attempted_at": "2026-11-25T07:21:44.929363Z",
       "category": "technology",
-      "status": "updated",
-      "attempted_at": "2026-11-25T00:09:54.387694+00:00",
-      "last_successful_refresh": "2026-11-25T00:09:54.387694+00:00",
+      "country": "in",
+      "last_successful_refresh": "2026-11-25T07:21:44.929363Z",
       "providers": [
         "rss"
       ],
-      "articles_count": 100
+      "status": "updated"
     },
     {
-      "country": "in",
+      "articles_count": 160,
+      "attempted_at": "2026-11-25T07:21:44.929363Z",
       "category": "entertainment",
-      "status": "updated",
-      "attempted_at": "2026-11-25T00:09:54.387694+00:00",
-      "last_successful_refresh": "2026-11-25T00:09:54.387694+00:00",
+      "country": "in",
+      "last_successful_refresh": "2026-11-25T07:21:44.929363Z",
       "providers": [
         "rss"
       ],
-      "articles_count": 100
+      "status": "updated"
     },
     {
-      "country": "in",
+      "articles_count": 500,
+      "attempted_at": "2026-11-25T07:21:44.929363Z",
       "category": "all",
-      "status": "updated",
-      "attempted_at": "2026-11-25T00:09:54.387694+00:00",
-      "last_successful_refresh": "2026-11-25T00:09:54.387694+00:00",
+      "country": "in",
+      "last_successful_refresh": "2026-11-25T07:21:44.929363Z",
       "providers": [
         "combined"
       ],
-      "articles_count": 68
+      "status": "updated"
     },
     {
-      "country": "us",
+      "articles_count": 69,
+      "attempted_at": "2026-11-25T07:21:44.929363Z",
       "category": "general",
-      "status": "updated",
-      "attempted_at": "2026-11-25T00:09:54.387694+00:00",
-      "last_successful_refresh": "2026-11-25T00:09:54.387694+00:00",
+      "country": "us",
+      "last_successful_refresh": "2026-11-25T07:21:44.929363Z",
       "providers": [
-        "newsapi",
         "rss"
       ],
-      "articles_count": 62
+      "status": "updated"
     },
     {
-      "country": "us",
+      "articles_count": 114,
+      "attempted_at": "2026-11-25T07:21:44.929363Z",
       "category": "business",
-      "status": "updated",
-      "attempted_at": "2026-11-25T00:09:54.387694+00:00",
-      "last_successful_refresh": "2026-11-25T00:09:54.387694+00:00",
+      "country": "us",
+      "last_successful_refresh": "2026-11-25T07:21:44.929363Z",
       "providers": [
-        "newsapi",
         "rss"
       ],
-      "articles_count": 100
+      "status": "updated"
     },
     {
-      "country": "us",
+      "articles_count": 84,
+      "attempted_at": "2026-11-25T07:21:44.929363Z",
       "category": "health",
-      "status": "updated",
-      "attempted_at": "2026-11-25T00:09:54.387694+00:00",
-      "last_successful_refresh": "2026-11-25T00:09:54.387694+00:00",
+      "country": "us",
+      "last_successful_refresh": "2026-11-25T07:21:44.929363Z",
       "providers": [
-        "newsapi",
         "rss"
       ],
-      "articles_count": 77
+      "status": "updated"
     },
     {
-      "country": "us",
+      "articles_count": 102,
+      "attempted_at": "2026-11-25T07:21:44.929363Z",
       "category": "science",
-      "status": "updated",
-      "attempted_at": "2026-11-25T00:09:54.387694+00:00",
-      "last_successful_refresh": "2026-11-25T00:09:54.387694+00:00",
+      "country": "us",
+      "last_successful_refresh": "2026-11-25T07:21:44.929363Z",
       "providers": [
-        "newsapi",
         "rss"
       ],
-      "articles_count": 97
+      "status": "updated"
     },
     {
-      "country": "us",
+      "articles_count": 161,
+      "attempted_at": "2026-11-25T07:21:44.929363Z",
       "category": "sports",
-      "status": "updated",
-      "attempted_at": "2026-11-25T00:09:54.387694+00:00",
-      "last_successful_refresh": "2026-11-25T00:09:54.387694+00:00",
+      "country": "us",
+      "last_successful_refresh": "2026-11-25T07:21:44.929363Z",
       "providers": [
-        "newsapi",
         "rss"
       ],
-      "articles_count": 100
+      "status": "updated"
     },
     {
-      "country": "us",
+      "articles_count": 145,
+      "attempted_at": "2026-11-25T07:21:44.929363Z",
       "category": "technology",
-      "status": "updated",
-      "attempted_at": "2026-11-25T00:09:54.387694+00:00",
-      "last_successful_refresh": "2026-11-25T00:09:54.387694+00:00",
+      "country": "us",
+      "last_successful_refresh": "2026-11-25T07:21:44.929363Z",
       "providers": [
-        "newsapi",
         "rss"
       ],
-      "articles_count": 100
+      "status": "updated"
     },
     {
-      "country": "us",
+      "articles_count": 128,
+      "attempted_at": "2026-11-25T07:21:44.929363Z",
       "category": "entertainment",
-      "status": "updated",
-      "attempted_at": "2026-11-25T00:09:54.387694+00:00",
-      "last_successful_refresh": "2026-11-25T00:09:54.387694+00:00",
+      "country": "us",
+      "last_successful_refresh": "2026-11-25T07:21:44.929363Z",
       "providers": [
-        "newsapi",
         "rss"
       ],
-      "articles_count": 100
+      "status": "updated"
     },
     {
-      "country": "us",
+      "articles_count": 500,
+      "attempted_at": "2026-11-25T07:21:44.929363Z",
       "category": "all",
-      "status": "updated",
-      "attempted_at": "2026-11-25T00:09:54.387694+00:00",
-      "last_successful_refresh": "2026-11-25T00:09:54.387694+00:00",
+      "country": "us",
+      "last_successful_refresh": "2026-11-25T07:21:44.929363Z",
       "providers": [
         "combined"
       ],
-      "articles_count": 65
+      "status": "updated"
     },
     {
-      "country": "gb",
+      "articles_count": 196,
+      "attempted_at": "2026-11-25T07:21:44.929363Z",
       "category": "general",
-      "status": "updated",
-      "attempted_at": "2026-11-25T00:09:54.387694+00:00",
-      "last_successful_refresh": "2026-11-25T00:09:54.387694+00:00",
+      "country": "gb",
+      "last_successful_refresh": "2026-11-25T07:21:44.929363Z",
       "providers": [
         "rss"
       ],
-      "articles_count": 100
+      "status": "updated"
     },
     {
-      "country": "gb",
+      "articles_count": 81,
+      "attempted_at": "2026-11-25T07:21:44.929363Z",
       "category": "business",
-      "status": "updated",
-      "attempted_at": "2026-11-25T00:09:54.387694+00:00",
-      "last_successful_refresh": "2026-11-25T00:09:54.387694+00:00",
+      "country": "gb",
+      "last_successful_refresh": "2026-11-25T07:21:44.929363Z",
       "providers": [
         "rss"
       ],
-      "articles_count": 75
+      "status": "updated"
     },
     {
-      "country": "gb",
+      "articles_count": 75,
+      "attempted_at": "2026-11-25T07:21:44.929363Z",
       "category": "health",
-      "status": "updated",
-      "attempted_at": "2026-11-25T00:09:54.387694+00:00",
-      "last_successful_refresh": "2026-11-25T00:09:54.387694+00:00",
+      "country": "gb",
+      "last_successful_refresh": "2026-11-25T07:21:44.929363Z",
       "providers": [
         "rss"
       ],
-      "articles_count": 55
+      "status": "updated"
     },
     {
-      "country": "gb",
+      "articles_count": 65,
+      "attempted_at": "2026-11-25T07:21:44.929363Z",
       "category": "science",
-      "status": "updated",
-      "attempted_at": "2026-11-25T00:09:54.387694+00:00",
-      "last_successful_refresh": "2026-11-25T00:09:54.387694+00:00",
+      "country": "gb",
+      "last_successful_refresh": "2026-11-25T07:21:44.929363Z",
       "providers": [
         "rss"
       ],
-      "articles_count": 63
+      "status": "updated"
     },
     {
-      "country": "gb",
+      "articles_count": 96,
+      "attempted_at": "2026-11-25T07:21:44.929363Z",
       "category": "sports",
-      "status": "updated",
-      "attempted_at": "2026-11-25T00:09:54.387694+00:00",
-      "last_successful_refresh": "2026-11-25T00:09:54.387694+00:00",
+      "country": "gb",
+      "last_successful_refresh": "2026-11-25T07:21:44.929363Z",
       "providers": [
         "rss"
       ],
-      "articles_count": 87
+      "status": "updated"
     },
     {
-      "country": "gb",
+      "articles_count": 60,
+      "attempted_at": "2026-11-25T07:21:44.929363Z",
       "category": "technology",
-      "status": "updated",
-      "attempted_at": "2026-11-25T00:09:54.387694+00:00",
-      "last_successful_refresh": "2026-11-25T00:09:54.387694+00:00",
+      "country": "gb",
+      "last_successful_refresh": "2026-11-25T07:21:44.929363Z",
       "providers": [
         "rss"
       ],
-      "articles_count": 57
+      "status": "updated"
     },
     {
-      "country": "gb",
+      "articles_count": 49,
+      "attempted_at": "2026-11-25T07:21:44.929363Z",
       "category": "entertainment",
-      "status": "updated",
-      "attempted_at": "2026-11-25T00:09:54.387694+00:00",
-      "last_successful_refresh": "2026-11-25T00:09:54.387694+00:00",
+      "country": "gb",
+      "last_successful_refresh": "2026-11-25T07:21:44.929363Z",
       "providers": [
         "rss"
       ],
-      "articles_count": 21
+      "status": "updated"
     },
     {
-      "country": "gb",
+      "articles_count": 500,
+      "attempted_at": "2026-11-25T07:21:44.929363Z",
       "category": "all",
-      "status": "updated",
-      "attempted_at": "2026-11-25T00:09:54.387694+00:00",
-      "last_successful_refresh": "2026-11-25T00:09:54.387694+00:00",
+      "country": "gb",
+      "last_successful_refresh": "2026-11-25T07:21:44.929363Z",
       "providers": [
         "combined"
       ],
-      "articles_count": 63
+      "status": "updated"
     },
     {
-      "country": "ca",
+      "articles_count": 72,
+      "attempted_at": "2026-11-25T07:21:44.929363Z",
       "category": "general",
-      "status": "updated",
-      "attempted_at": "2026-11-25T00:09:54.387694+00:00",
-      "last_successful_refresh": "2026-11-25T00:09:54.387694+00:00",
+      "country": "ca",
+      "last_successful_refresh": "2026-11-25T07:21:44.929363Z",
       "providers": [
         "rss"
       ],
-      "articles_count": 18
+      "status": "updated"
     },
     {
-      "country": "ca",
+      "articles_count": 110,
+      "attempted_at": "2026-11-25T07:21:44.929363Z",
       "category": "business",
-      "status": "updated",
-      "attempted_at": "2026-11-25T00:09:54.387694+00:00",
-      "last_successful_refresh": "2026-11-25T00:09:54.387694+00:00",
+      "country": "ca",
+      "last_successful_refresh": "2026-11-25T07:21:44.929363Z",
       "providers": [
         "rss"
       ],
-      "articles_count": 10
+      "status": "updated"
     },
     {
-      "country": "ca",
+      "articles_count": 66,
+      "attempted_at": "2026-11-25T07:21:44.929363Z",
       "category": "health",
-      "status": "updated",
-      "attempted_at": "2026-11-25T00:09:54.387694+00:00",
-      "last_successful_refresh": "2026-11-25T00:09:54.387694+00:00",
+      "country": "ca",
+      "last_successful_refresh": "2026-11-25T07:21:44.929363Z",
       "providers": [
-        "rss"
+        "rss",
+        "publisher_listing"
       ],
-      "articles_count": 10
+      "status": "updated"
     },
     {
-      "country": "ca",
+      "articles_count": 35,
+      "attempted_at": "2026-11-25T07:21:44.929363Z",
       "category": "science",
-      "status": "updated",
-      "attempted_at": "2026-11-25T00:09:54.387694+00:00",
-      "last_successful_refresh": "2026-11-25T00:09:54.387694+00:00",
+      "country": "ca",
+      "last_successful_refresh": "2026-11-25T07:21:44.929363Z",
       "providers": [
         "rss"
       ],
-      "articles_count": 10
+      "status": "updated"
     },
     {
-      "country": "ca",
+      "articles_count": 101,
+      "attempted_at": "2026-11-25T07:21:44.929363Z",
       "category": "sports",
-      "status": "updated",
-      "attempted_at": "2026-11-25T00:09:54.387694+00:00",
-      "last_successful_refresh": "2026-11-25T00:09:54.387694+00:00",
+      "country": "ca",
+      "last_successful_refresh": "2026-11-25T07:21:44.929363Z",
       "providers": [
         "rss"
       ],
-      "articles_count": 74
+      "status": "updated"
     },
     {
-      "country": "ca",
+      "articles_count": 30,
+      "attempted_at": "2026-11-25T07:21:44.929363Z",
       "category": "technology",
-      "status": "updated",
-      "attempted_at": "2026-11-25T00:09:54.387694+00:00",
-      "last_successful_refresh": "2026-11-25T00:09:54.387694+00:00",
+      "country": "ca",
+      "last_successful_refresh": "2026-11-25T07:21:44.929363Z",
       "providers": [
         "rss"
       ],
-      "articles_count": 10
+      "status": "updated"
     },
     {
-      "country": "ca",
+      "articles_count": 35,
+      "attempted_at": "2026-11-25T07:21:44.929363Z",
       "category": "entertainment",
-      "status": "updated",
-      "attempted_at": "2026-11-25T00:09:54.387694+00:00",
-      "last_successful_refresh": "2026-11-25T00:09:54.387694+00:00",
+      "country": "ca",
+      "last_successful_refresh": "2026-11-25T07:21:44.929363Z",
       "providers": [
         "rss"
       ],
-      "articles_count": 10
+      "status": "updated"
     },
     {
-      "country": "ca",
+      "articles_count": 421,
+      "attempted_at": "2026-11-25T07:21:44.929363Z",
       "category": "all",
-      "status": "updated",
-      "attempted_at": "2026-11-25T00:09:54.387694+00:00",
-      "last_successful_refresh": "2026-11-25T00:09:54.387694+00:00",
+      "country": "ca",
+      "last_successful_refresh": "2026-11-25T07:21:44.929363Z",
       "providers": [
         "combined"
       ],
-      "articles_count": 70
+      "status": "updated"
     },
     {
-      "country": "au",
+      "articles_count": 109,
+      "attempted_at": "2026-11-25T07:21:44.929363Z",
       "category": "general",
-      "status": "updated",
-      "attempted_at": "2026-11-25T00:09:54.387694+00:00",
-      "last_successful_refresh": "2026-11-25T00:09:54.387694+00:00",
+      "country": "au",
+      "last_successful_refresh": "2026-11-25T07:21:44.929363Z",
       "providers": [
         "rss"
       ],
-      "articles_count": 45
+      "status": "updated"
     },
     {
-      "country": "au",
+      "articles_count": 83,
+      "attempted_at": "2026-11-25T07:21:44.929363Z",
       "category": "business",
-      "status": "updated",
-      "attempted_at": "2026-11-25T00:09:54.387694+00:00",
-      "last_successful_refresh": "2026-11-25T00:09:54.387694+00:00",
+      "country": "au",
+      "last_successful_refresh": "2026-11-25T07:21:44.929363Z",
       "providers": [
         "rss"
       ],
-      "articles_count": 45
+      "status": "updated"
     },
     {
-      "country": "au",
+      "articles_count": 64,
+      "attempted_at": "2026-11-25T07:21:44.929363Z",
       "category": "health",
-      "status": "updated",
-      "attempted_at": "2026-11-25T00:09:54.387694+00:00",
-      "last_successful_refresh": "2026-11-25T00:09:54.387694+00:00",
+      "country": "au",
+      "last_successful_refresh": "2026-11-25T07:21:44.929363Z",
       "providers": [
         "rss"
       ],
-      "articles_count": 25
+      "status": "updated"
     },
     {
-      "country": "au",
+      "articles_count": 50,
+      "attempted_at": "2026-11-25T07:21:44.929363Z",
       "category": "science",
-      "status": "updated",
-      "attempted_at": "2026-11-25T00:09:54.387694+00:00",
-      "last_successful_refresh": "2026-11-25T00:09:54.387694+00:00",
+      "country": "au",
+      "last_successful_refresh": "2026-11-25T07:21:44.929363Z",
       "providers": [
         "rss"
       ],
-      "articles_count": 25
+      "status": "updated"
     },
     {
-      "country": "au",
+      "articles_count": 90,
+      "attempted_at": "2026-11-25T07:21:44.929363Z",
       "category": "sports",
-      "status": "updated",
-      "attempted_at": "2026-11-25T00:09:54.387694+00:00",
-      "last_successful_refresh": "2026-11-25T00:09:54.387694+00:00",
+      "country": "au",
+      "last_successful_refresh": "2026-11-25T07:21:44.929363Z",
       "providers": [
         "rss"
       ],
-      "articles_count": 45
+      "status": "updated"
     },
     {
-      "country": "au",
+      "articles_count": 72,
+      "attempted_at": "2026-11-25T07:21:44.929363Z",
       "category": "technology",
-      "status": "updated",
-      "attempted_at": "2026-11-25T00:09:54.387694+00:00",
-      "last_successful_refresh": "2026-11-25T00:09:54.387694+00:00",
+      "country": "au",
+      "last_successful_refresh": "2026-11-25T07:21:44.929363Z",
       "providers": [
         "rss"
       ],
-      "articles_count": 25
+      "status": "updated"
     },
     {
-      "country": "au",
+      "articles_count": 93,
+      "attempted_at": "2026-11-25T07:21:44.929363Z",
       "category": "entertainment",
-      "status": "updated",
-      "attempted_at": "2026-11-25T00:09:54.387694+00:00",
-      "last_successful_refresh": "2026-11-25T00:09:54.387694+00:00",
+      "country": "au",
+      "last_successful_refresh": "2026-11-25T07:21:44.929363Z",
       "providers": [
         "rss"
       ],
-      "articles_count": 40
+      "status": "updated"
     },
     {
-      "country": "au",
+      "articles_count": 500,
+      "attempted_at": "2026-11-25T07:21:44.929363Z",
       "category": "all",
-      "status": "updated",
-      "attempted_at": "2026-11-25T00:09:54.387694+00:00",
-      "last_successful_refresh": "2026-11-25T00:09:54.387694+00:00",
+      "country": "au",
+      "last_successful_refresh": "2026-11-25T07:21:44.929363Z",
       "providers": [
         "combined"
       ],
-      "articles_count": 66
+      "status": "updated"
     }
   ],
+  "feeds_retained": 0,
+  "feeds_updated": 40,
   "files_updated": [
     "in/general.json",
     "data/in/general_headlines.json",
@@ -578,5 +572,16 @@
     "data/au/technology_everything.json",
     "data/au/entertainment_everything.json"
   ],
-  "errors": []
+  "generated_at": "2026-11-25T07:21:51.733637Z",
+  "listing_pages_attempted": 1,
+  "listing_pages_failed": 0,
+  "listing_pages_succeeded": 1,
+  "newsapi_requests_allowed": 0,
+  "newsapi_requests_used": 0,
+  "rss_feeds_attempted": 86,
+  "rss_feeds_failed": 7,
+  "rss_feeds_succeeded": 79,
+  "run_started_at": "2026-11-25T07:21:44.929363Z",
+  "schema_version": 1,
+  "status": "partial"
 }

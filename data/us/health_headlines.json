@@ -1,1014 +1,1104 @@
 {
-  "source": "top_headlines",
-  "country": "us",
-  "category": "health",
-  "providers": [
-    "newsapi",
-    "rss"
-  ],
-  "fetched_at": "2026-11-25T00:09:54.387694+00:00",
-  "articles_count": 77,
   "articles": [
     {
+      "author": "Kendall Crawford",
+      "content": "Seamstresses in Ohio and other states are making zippered shirts for cancer patients so they can more comfortably undergo chemotherapy treatments.",
+      "description": "Seamstresses in Ohio and other states are making zippered shirts for cancer patients so they can more comfortably undergo chemotherapy treatments.",
+      "publishedAt": "2026-11-24T21:19:27Z",
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
+        "id": "npr",
+        "name": "NPR"
       },
+      "title": "This group of seamstresses mends shirts to make chemo easier for cancer patients",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6044239-e1/this-group-of-seamstresses-mends-shirts-to-make-chemo-easier-for-cancer-patients",
+      "urlToImage": null
+    },
+    {
+      "author": "Michelle Aslam",
+      "content": "NPR's Juana Summers talks with Dr. Dan McCabe, medical director of the Iowa Poison Control Center, about how people can protect themselves after the Army detonates degraded lead azide.",
+      "description": "NPR's Juana Summers talks with Dr. Dan McCabe, medical director of the Iowa Poison Control Center, about how people can protect themselves after the Army detonates degraded lead azide.",
+      "publishedAt": "2026-11-24T21:16:46Z",
+      "source": {
+        "id": "npr",
+        "name": "NPR"
+      },
+      "title": "Here's the public health guidance for possible lead exposure in Iowa",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6052351/heres-the-public-health-guidance-for-possible-lead-exposure-in-iowa",
+      "urlToImage": null
+    },
+    {
       "author": "Roni Caryn Rabin",
-      "title": "The Mortality Gap Between Black and White Americans Is Shrinking",
+      "content": "A new report shows significant progress on racial health disparities, though many still persist.",
       "description": "A new report shows significant progress on racial health disparities, though many still persist.",
+      "publishedAt": "2026-11-24T19:00:00Z",
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "The Mortality Gap Between Black and White Americans Is Shrinking",
       "url": "https://www.nytimes.com/2026/11/24/well/black-white-americans-health-death-rates.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24WELL-DISPARITIES1-ztmq/24WELL-DISPARITIES1-ztmq-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-24T18:59:59Z",
-      "content": "A new report shows significant progress on racial health disparities, though many still persist."
+      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24WELL-DISPARITIES1-ztmq/24WELL-DISPARITIES1-ztmq-mediumSquareAt3X.jpg"
     },
     {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "Sheryl Gay Stolberg",
-      "title": "How a Scientist Behind the Mediterranean Diet Got Caught in Trump’s War on Harvard",
+      "content": "Walter Willett studies the link between diet and health, a high priority for Health Secretary Robert F. Kennedy Jr. His grants were frozen anyway.",
       "description": "Walter Willett studies the link between diet and health, a high priority for Health Secretary Robert F. Kennedy Jr. His grants were frozen anyway.",
-      "url": "https://www.nytimes.com/2026/11/23/us/politics/walter-willett-trump-harvard.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/20/multimedia/DC-WILLETT-HEADER-ALT-2-cgbm/DC-WILLETT-HEADER-ALT-2-cgbm-mediumSquareAt3X-v3.jpg",
       "publishedAt": "2026-11-24T18:21:19Z",
-      "content": "Walter Willett studies the link between diet and health, a high priority for Health Secretary Robert F. Kennedy Jr. His grants were frozen anyway."
-    },
-    {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
+      "title": "How a Scientist Behind the Mediterranean Diet Got Caught in Trump’s War on Harvard",
+      "url": "https://www.nytimes.com/2026/11/23/us/politics/walter-willett-trump-harvard.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/20/multimedia/DC-WILLETT-HEADER-ALT-2-cgbm/DC-WILLETT-HEADER-ALT-2-cgbm-mediumSquareAt3X-v3.jpg"
+    },
+    {
       "author": "Christopher Rowland",
-      "title": "Medicare Hospice Caps Leave Patients Without Care",
+      "content": "Critics say the payment limits to companies penalize patients who are not dying on the government’s timetable.",
       "description": "Critics say the payment limits to companies penalize patients who are not dying on the government’s timetable.",
-      "url": "https://www.nytimes.com/2026/11/24/business/medicare-hospice-caps-patients-lose-care.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/23/multimedia/23biz-hospice-01-mpjw/23biz-hospice-01-mpjw-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-24T10:02:48Z",
-      "content": "Critics say the payment limits to companies penalize patients who are not dying on the government’s timetable."
-    },
-    {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
+      "title": "Medicare Hospice Caps Leave Patients Without Care",
+      "url": "https://www.nytimes.com/2026/11/24/business/medicare-hospice-caps-patients-lose-care.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/23/multimedia/23biz-hospice-01-mpjw/23biz-hospice-01-mpjw-mediumSquareAt3X.jpg"
+    },
+    {
       "author": "Matthew Shaer",
-      "title": "Why So Many of Us Have Chronic Back Pain, and Why It Won’t Go Away",
+      "content": "More than half a billion people globally suffer from some form of back pain. And the numbers are only growing, with no reliable solution in sight.",
       "description": "More than half a billion people globally suffer from some form of back pain. And the numbers are only growing, with no reliable solution in sight.",
-      "url": "https://www.nytimes.com/2026/11/24/magazine/back-pain-chronic-treatment.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/12/06/magazine/06mag-pain-01/06mag-pain-01-mediumSquareAt3X-v4.jpg",
       "publishedAt": "2026-11-24T10:01:58Z",
-      "content": "More than half a billion people globally suffer from some form of back pain. And the numbers are only growing, with no reliable solution in sight."
-    },
-    {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
+      "title": "Why So Many of Us Have Chronic Back Pain, and Why It Won’t Go Away",
+      "url": "https://www.nytimes.com/2026/11/24/magazine/back-pain-chronic-treatment.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/12/06/magazine/06mag-pain-01/06mag-pain-01-mediumSquareAt3X-v4.jpg"
+    },
+    {
+      "author": "Kate Wells",
+      "content": "Doctors are fighting an uphill battle against disinformation about routine vitamin K shots given to newborns in the hospital. It helps prevent a rare but devastating bleeding disorder.",
+      "description": "Doctors are fighting an uphill battle against disinformation about routine vitamin K shots given to newborns in the hospital. It helps prevent a rare but devastating bleeding disorder.",
+      "publishedAt": "2026-11-24T10:00:00Z",
+      "source": {
+        "id": "npr",
+        "name": "NPR"
+      },
+      "title": "Doctors struggle to save babies after parents refuse vitamin K",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6001723/vitamin-k-deficiency-refusal-vaccine-misinformation-newborn-bleeding",
+      "urlToImage": null
+    },
+    {
+      "author": "Emmet Livingstone",
+      "content": "A landmark lawsuit in Congo sees 27 residents accuse a Chinese-owned copper and cobalt mine of poisoning their community and the government of failing to protect them.",
+      "description": "A landmark lawsuit in Congo sees 27 residents accuse a Chinese-owned copper and cobalt mine of poisoning their community and the government of failing to protect them.",
+      "publishedAt": "2026-11-24T10:00:00Z",
+      "source": {
+        "id": "npr",
+        "name": "NPR"
+      },
+      "title": "The human cost of the electric vehicle boom is at the center of a lawsuit in Congo",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6042912/drc-congo-mining-china-copper-colbalt-critical-minerals",
+      "urlToImage": null
+    },
+    {
       "author": "Awais Aftab",
-      "title": "What Personality Can Tell Us About Mental Health",
+      "content": "Psychologists and psychiatrists have long considered the role of personality in understanding mental illness and treatment. Now, science is bridging the gap.",
       "description": "Psychologists and psychiatrists have long considered the role of personality in understanding mental illness and treatment. Now, science is bridging the gap.",
-      "url": "https://www.nytimes.com/2026/11/24/science/personality-mental-health.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/24/science/24SCI-AFTAB-PERSONALITY/24SCI-AFTAB-PERSONALITY-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-24T08:00:12Z",
-      "content": "Psychologists and psychiatrists have long considered the role of personality in understanding mental illness and treatment. Now, science is bridging the gap."
-    },
-    {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
+      "title": "What Personality Can Tell Us About Mental Health",
+      "url": "https://www.nytimes.com/2026/11/24/science/personality-mental-health.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/24/science/24SCI-AFTAB-PERSONALITY/24SCI-AFTAB-PERSONALITY-mediumSquareAt3X.jpg"
+    },
+    {
       "author": "Vivian Yee",
-      "title": "More American Women Are Turning to Natural Family Planning, Study Shows",
+      "content": "Researchers found that more than 2.2 million women were using a fertility-awareness method, which requires them to chart their cycles closely.",
       "description": "Researchers found that more than 2.2 million women were using a fertility-awareness method, which requires them to chart their cycles closely.",
-      "url": "https://www.nytimes.com/2026/11/23/us/natural-family-planning-study.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/23/multimedia/23nat-birth-control-pmfb/23nat-birth-control-pmfb-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-24T03:06:01Z",
-      "content": "Researchers found that more than 2.2 million women were using a fertility-awareness method, which requires them to chart their cycles closely."
-    },
-    {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Apoorva Mandavilli",
-      "title": "Measles Is a Growing Risk for Adults in the United States",
-      "description": "The danger is greatest for those who are unvaccinated, but vaccinated people born before 1989 may no longer be sufficiently protected, medical experts said.",
-      "url": "https://www.nytimes.com/2026/11/23/health/measles-adults-vaccine-boosters.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/21/multimedia/21DC-MEASLES-ADULT-01-fbtw/21DC-MEASLES-ADULT-01-fbtw-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-23T22:19:34Z",
-      "content": "The danger is greatest for those who are unvaccinated, but vaccinated people born before 1989 may no longer be sufficiently protected, medical experts said."
+      "title": "More American Women Are Turning to Natural Family Planning, Study Shows",
+      "url": "https://www.nytimes.com/2026/11/23/us/natural-family-planning-study.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/23/multimedia/23nat-birth-control-pmfb/23nat-birth-control-pmfb-mediumSquareAt3X.jpg"
     },
     {
+      "author": "Apoorva Mandavilli",
+      "content": "The danger is greatest for those who are unvaccinated, but vaccinated people born before 1989 may no longer be sufficiently protected, medical experts said.",
+      "description": "The danger is greatest for those who are unvaccinated, but vaccinated people born before 1989 may no longer be sufficiently protected, medical experts said.",
+      "publishedAt": "2026-11-23T22:19:34Z",
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "Measles Is a Growing Risk for Adults in the United States",
+      "url": "https://www.nytimes.com/2026/11/23/health/measles-adults-vaccine-boosters.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/21/multimedia/21DC-MEASLES-ADULT-01-fbtw/21DC-MEASLES-ADULT-01-fbtw-mediumSquareAt3X.jpg"
+    },
+    {
+      "author": "WHAS11",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-23T16:24:00Z",
       "source": {
         "id": null,
         "name": "WHAS11.com"
       },
-      "author": "WHAS11",
       "title": "Farm-raised deer tests positive for Chronic Wasting Disease in this Kentucky county - WHAS11",
-      "description": null,
       "url": "https://www.whas11.com/article/life/animals/chronic-wasting-disease-shelby-county-deer-farm-kentucky/417-5c85d79a-11b1-4e04-8d84-99945ec97641",
-      "urlToImage": null,
-      "publishedAt": "2026-11-23T16:24:00Z",
-      "content": null
+      "urlToImage": null
     },
     {
+      "author": "Julie Rovner",
+      "content": "Several newly elected Democratic U.S. senators campaigned on Medicare for All. Could this be the time it actually gets traction?",
+      "description": "Several newly elected Democratic U.S. senators campaigned on Medicare for All. Could this be the time it actually gets traction?",
+      "publishedAt": "2026-11-23T16:00:49Z",
+      "source": {
+        "id": "npr",
+        "name": "NPR"
+      },
+      "title": "'Medicare for all' is back on the drawing board. Does it stand a better chance this time?",
+      "url": "https://www.npr.org/2026/11/23/nx-s1-6047706/health-medicare-for-all-chances",
+      "urlToImage": null
+    },
+    {
+      "author": "Benjamin Mueller and Apoorva Mandavilli",
+      "content": "The Trump administration restarted the process for funding four large research networks after postponing it earlier this year.",
+      "description": "The Trump administration restarted the process for funding four large research networks after postponing it earlier this year.",
+      "publishedAt": "2026-11-23T15:36:20Z",
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Benjamin Mueller and Apoorva Mandavilli",
       "title": "H.I.V. Research Networks May Again Seek Federal Funding, With a Twist",
-      "description": "The Trump administration restarted the process for funding four large research networks after postponing it earlier this year.",
       "url": "https://www.nytimes.com/2026/11/20/science/hiv-research-funding-nih.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/12/20/multimedia/20sci-nih-sub-bvjh/20sci-nih-sub-bvjh-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-23T15:36:20Z",
-      "content": "The Trump administration restarted the process for funding four large research networks after postponing it earlier this year."
+      "urlToImage": "https://static01.nyt.com/images/2026/12/20/multimedia/20sci-nih-sub-bvjh/20sci-nih-sub-bvjh-mediumSquareAt3X.jpg"
     },
     {
+      "author": "Rachel Sacks",
+      "content": "Here’s some food for thought.\r\nWe are what we eat, and numerous studies show that a steady supply of nutrients from foods like fatty fish, vegetables, fruits, whole grains, nuts and seeds supports br… [+2868 chars]",
+      "description": "We are what we eat, with research showing how our diets affect the brain, and how much damage may be done when it comes to memory.",
+      "publishedAt": "2026-11-23T14:59:00Z",
       "source": {
         "id": null,
         "name": "New York Post"
       },
-      "author": "Rachel Sacks",
       "title": "Losing your memory? A simple diet swap could help: study - New York Post",
-      "description": "We are what we eat, with research showing how our diets affect the brain, and how much damage may be done when it comes to memory.",
       "url": "https://nypost.com/2026/11/23/health/losing-your-memory-a-simple-diet-swap-could-help-study/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/crop-42058467.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-11-23T14:59:00Z",
-      "content": "Here’s some food for thought.\r\nWe are what we eat, and numerous studies show that a steady supply of nutrients from foods like fatty fish, vegetables, fruits, whole grains, nuts and seeds supports br… [+2868 chars]"
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/crop-42058467.jpg?quality=75&strip=all&w=1200"
     },
     {
+      "author": "PAULA SPAN",
+      "content": "Editor’s note:If you or someone you know may be experiencing a mental health crisis, contact the 988 Suicide &amp; Crisis Lifeline by dialing or texting 988.\r\n____\r\nHe was 72, a retired health admini… [+7927 chars]",
+      "description": "At least a third of people with dementia have access to guns. Health experts have worked for years to address the threat guns pose to their owners and others.",
+      "publishedAt": "2026-11-23T14:00:04Z",
       "source": {
         "id": null,
         "name": "Kffhealthnews.org"
       },
-      "author": "PAULA SPAN",
       "title": "When a WA gun owner showed early signs of dementia - The Seattle Times",
-      "description": "At least a third of people with dementia have access to guns. Health experts have worked for years to address the threat guns pose to their owners and others.",
       "url": "https://kffhealthnews.org/aging/new-old-age-guns-firearms-safety-dementia-weapons-suicide/?utm_campaign=KHN%20New%20from%20KHN&utm_medium=email&_hsenc=p2ANqtz--EFVjmPAmOFg-LmYWtwctVrKwcNCT7BgYvwAOx1G10g9-4g9IkwmuYbNYe8aBvATef6-Oebzhq5GnEj2sxOQiHm-Vq-A&_hsmi=448605383&utm_content=448605383&utm_source=hs_email",
-      "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2026/11/tzr-202611170400MCT_____PHOTO____LIFE-SRS-GUN-OWNERS-DEMENTIA-FILEPIC-DMT.jpg?d=1200x630",
-      "publishedAt": "2026-11-23T14:00:04Z",
-      "content": "Editor’s note:If you or someone you know may be experiencing a mental health crisis, contact the 988 Suicide &amp; Crisis Lifeline by dialing or texting 988.\r\n____\r\nHe was 72, a retired health admini… [+7927 chars]"
+      "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2026/11/tzr-202611170400MCT_____PHOTO____LIFE-SRS-GUN-OWNERS-DEMENTIA-FILEPIC-DMT.jpg?d=1200x630"
     },
     {
+      "author": "Gabrielle LaFrank",
+      "content": "by Gabrielle LaFrankBuzzFeed ContributorIm a lifestyle and pet writer with over a decade of experience in copywriting, covering viral animal moments, well-being topics, and lifestyle trends.",
+      "description": "From walking corpses to 'missing' medical devices, these horrific medical facts will make you want to forget you even have a body.",
+      "publishedAt": "2026-11-23T13:16:02Z",
       "source": {
         "id": "buzzfeed",
         "name": "Buzzfeed"
       },
-      "author": "Gabrielle LaFrank",
       "title": "19 Disturbing Medical Facts That’ll Make You Say, “There’s No Way That’s Actually True” - BuzzFeed",
-      "description": "From walking corpses to 'missing' medical devices, these horrific medical facts will make you want to forget you even have a body.",
       "url": "https://www.buzzfeed.com/gabriellelafrank/19x-disturbing-medical-facts",
-      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/17/08/thumb/GqPeLLx7U.jpg?crop=1249:654;1,142%26downsize=1250:*",
-      "publishedAt": "2026-11-23T13:16:02Z",
-      "content": "by Gabrielle LaFrankBuzzFeed ContributorIm a lifestyle and pet writer with over a decade of experience in copywriting, covering viral animal moments, well-being topics, and lifestyle trends."
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2026-10/17/08/thumb/GqPeLLx7U.jpg?crop=1249:654;1,142%26downsize=1250:*"
     },
     {
+      "author": "Jess Cockerill",
+      "content": "Tiny pieces of polystyrene that make their way into your food and, eventually, your colon, could be increasing your risk of colorectal cancer.\r\nIt's one of the world's most common plastics used in fo… [+4077 chars]",
+      "description": "Tiny pieces of polystyrene that make their way into your food and, eventually, your colon, could be increasing your risk of colorectal cancer.",
+      "publishedAt": "2026-11-23T12:02:48Z",
       "source": {
         "id": null,
         "name": "ScienceAlert"
       },
-      "author": "Jess Cockerill",
       "title": "Common Plastic Used in Food Packaging May Fuel Colon Cancer, Mouse Study Finds - ScienceAlert",
-      "description": "Tiny pieces of polystyrene that make their way into your food and, eventually, your colon, could be increasing your risk of colorectal cancer.",
       "url": "https://www.sciencealert.com/common-plastic-used-in-food-packaging-may-fuel-colon-cancer-mouse-study-finds",
-      "urlToImage": "https://www.sciencealert.com/images/2026/11/GettyImages-1295514302-2560x1440-1.jpg",
-      "publishedAt": "2026-11-23T12:02:48Z",
-      "content": "Tiny pieces of polystyrene that make their way into your food and, eventually, your colon, could be increasing your risk of colorectal cancer.\r\nIt's one of the world's most common plastics used in fo… [+4077 chars]"
+      "urlToImage": "https://www.sciencealert.com/images/2026/11/GettyImages-1295514302-2560x1440-1.jpg"
     },
     {
+      "author": null,
+      "content": "Pharmacy aisles and social media feeds are crowded with capsules, powders and gummies promising to boost libido and sexual performance. Yet according to physicians and clinical research, most over-th… [+4103 chars]",
+      "description": "Dr. Pablo Prichard shares why most sexual enhancement supplements fail and how L-arginine and L-citrulline may help blood flow and erectile dysfunction.",
+      "publishedAt": "2026-11-23T12:00:51Z",
       "source": {
         "id": "fox-news",
         "name": "Fox News"
       },
-      "author": null,
       "title": "Popular bedroom supplements often fail to deliver, says longevity physician - Fox News",
-      "description": "Dr. Pablo Prichard shares why most sexual enhancement supplements fail and how L-arginine and L-citrulline may help blood flow and erectile dysfunction.",
       "url": "https://www.foxnews.com/health/popular-bedroom-supplements-often-fail-deliver-says-longevity-physician",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/man-holding-pill-bottle.jpg",
-      "publishedAt": "2026-11-23T12:00:51Z",
-      "content": "Pharmacy aisles and social media feeds are crowded with capsules, powders and gummies promising to boost libido and sexual performance. Yet according to physicians and clinical research, most over-th… [+4103 chars]"
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/man-holding-pill-bottle.jpg"
     },
     {
+      "author": null,
+      "content": "Study design, participants and phenotypes\r\nThis study included 6,986 participants (Table 1), comprising 5,063 healthy controls, 732 individuals with probable AD, 732 with FTLD and 459 meeting Peterse… [+35177 chars]",
+      "description": "The generation of individual biophysical digital twins at massive scale from resting-state functional magnetic resonance imaging enables individualized insights into regional signatures and excitatory/inhibitory balance, with features that can be linked to ke…",
+      "publishedAt": "2026-11-23T11:20:24Z",
       "source": {
         "id": null,
         "name": "Nature.com"
       },
-      "author": null,
       "title": "Biophysical brain twins map the phenotype–expotype architecture of ageing and dementia - Nature",
-      "description": "The generation of individual biophysical digital twins at massive scale from resting-state functional magnetic resonance imaging enables individualized insights into regional signatures and excitatory/inhibitory balance, with features that can be linked to ke…",
       "url": "https://www.nature.com/articles/s41551-026-01823-3",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41551-026-01823-3/MediaObjects/41551_2026_1823_Fig1_HTML.png",
-      "publishedAt": "2026-11-23T11:20:24Z",
-      "content": "Study design, participants and phenotypes\r\nThis study included 6,986 participants (Table 1), comprising 5,063 healthy controls, 732 individuals with probable AD, 732 with FTLD and 459 meeting Peterse… [+35177 chars]"
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41551-026-01823-3/MediaObjects/41551_2026_1823_Fig1_HTML.png"
     },
     {
+      "author": "Dr. Louai Razzouk",
+      "content": "When you’re young, its easy to feel invincible. But that sense of safety can mask a troubling shift in cardiovascular health.\r\nA disease long associated with older men is increasingly affecting young… [+5303 chars]",
+      "description": "Recent data suggests that about 1 in 5 heart attack patients is 40 or younger, while hospitalization rates among adults ages 18 to 44 have climbed significantly.",
+      "publishedAt": "2026-11-23T11:00:00Z",
       "source": {
         "id": null,
         "name": "New York Post"
       },
-      "author": "Dr. Louai Razzouk",
       "title": "Heart attacks are on the rise under 40 — the hidden drivers and warning signs you might miss - New York Post",
-      "description": "Recent data suggests that about 1 in 5 heart attack patients is 40 or younger, while hospitalization rates among adults ages 18 to 44 have climbed significantly.",
       "url": "https://nypost.com/2026/11/23/health/heart-attacks-on-the-rise-under-40-warning-signs-you-might-miss/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/crop-41918388_e0423c.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-11-23T11:00:00Z",
-      "content": "When you’re young, its easy to feel invincible. But that sense of safety can mask a troubling shift in cardiovascular health.\r\nA disease long associated with older men is increasingly affecting young… [+5303 chars]"
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/crop-41918388_e0423c.jpg?quality=75&strip=all&w=1200"
     },
     {
+      "author": "Maria Wilson, Jackson Stoever",
+      "content": "LYNDEBOROUGH, N.H.Exactly one year ago, Molly Falco, 58, was the fourth person to receive a genetically modified pig kidney at Massachusetts General Hospital in Boston. \r\nNow, she's set the record fo… [+3178 chars]",
+      "description": "Exactly one year ago, Molly Falco, 58, was the fourth person to receive a genetically modified pig kidney at Massachusetts General Hospital in Boston. Now, she's set the record for living the longest time with a non-human organ.",
+      "publishedAt": "2026-11-23T10:49:00Z",
       "source": {
         "id": null,
         "name": "WMUR Manchester"
       },
-      "author": "Maria Wilson, Jackson Stoever",
       "title": "'I was willing to try anything': NH mother sets record for living year with pig kidney transplant - WMUR",
-      "description": "Exactly one year ago, Molly Falco, 58, was the fourth person to receive a genetically modified pig kidney at Massachusetts General Hospital in Boston. Now, she's set the record for living the longest time with a non-human organ.",
       "url": "https://www.wmur.com/article/nh-woman-sets-record-for-longest-time-with-pig-kidney/74502286",
-      "urlToImage": "https://kubrick.htvapps.com/vidthumb/fe92d2ef-37a4-456e-9bd0-027aac9a3593/e49d10bb-9a6d-4333-817e-98f40bcca0b1.jpg?crop=0.824xw%3A0.823xh%3B0.0914xw%2C0&resize=1200%3A*",
-      "publishedAt": "2026-11-23T10:49:00Z",
-      "content": "LYNDEBOROUGH, N.H.Exactly one year ago, Molly Falco, 58, was the fourth person to receive a genetically modified pig kidney at Massachusetts General Hospital in Boston. \r\nNow, she's set the record fo… [+3178 chars]"
+      "urlToImage": "https://kubrick.htvapps.com/vidthumb/fe92d2ef-37a4-456e-9bd0-027aac9a3593/e49d10bb-9a6d-4333-817e-98f40bcca0b1.jpg?crop=0.824xw%3A0.823xh%3B0.0914xw%2C0&resize=1200%3A*"
     },
     {
+      "author": "Reed Abelson and Rebecca Robbins",
+      "content": "Lawmakers are warning that spinning off the health care conglomerate’s drugstores will not end scrutiny over its power.",
+      "description": "Lawmakers are warning that spinning off the health care conglomerate’s drugstores will not end scrutiny over its power.",
+      "publishedAt": "2026-11-23T10:03:26Z",
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Reed Abelson and Rebecca Robbins",
       "title": "CVS Health’s Planned Breakup Hasn’t Quieted Antitrust Critics",
-      "description": "Lawmakers are warning that spinning off the health care conglomerate’s drugstores will not end scrutiny over its power.",
       "url": "https://www.nytimes.com/2026/11/23/business/cvs-pharmacy-health-federal-investigations-antitrust.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/23/multimedia/23biz-cvs-lkcq/23biz-cvs-lkcq-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-23T10:03:26Z",
-      "content": "Lawmakers are warning that spinning off the health care conglomerate’s drugstores will not end scrutiny over its power."
+      "urlToImage": "https://static01.nyt.com/images/2026/11/23/multimedia/23biz-cvs-lkcq/23biz-cvs-lkcq-mediumSquareAt3X.jpg"
     },
     {
+      "author": "Ari Daniel",
+      "content": "Wellness influencers say mushroom supplements can help with your gut health, focus and immune system. Here is where research suggests there are some links.",
+      "description": "Wellness influencers say mushroom supplements can help with your gut health, focus and immune system. Here is where research suggests there are some links.",
+      "publishedAt": "2026-11-23T10:00:00Z",
       "source": {
-        "id": null,
+        "id": "npr",
         "name": "NPR"
       },
-      "author": "Ari Daniel",
-      "title": "Mushroom supplements promise health benefits. What does the science say? - NPR",
-      "description": "Wellness influencers say mushroom supplements can help with your gut health, focus and immune system. Here is where research suggests there are some links.",
+      "title": "Mushroom supplements promise health benefits. What does the science say?",
       "url": "https://www.npr.org/2026/11/23/nx-s1-6047791/mushroom-supplements-health-research",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4800x2700+0+0/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F47%2F0f%2Fb7589e96433a89a0f02bd9f8db13%2Fnpr-mushrooms-1120-1.jpg",
-      "publishedAt": "2026-11-23T10:00:00Z",
-      "content": "Growing up in the French Alps, Julie Daoust fell for mushrooms early in life.\r\n\"So as a kid, we'd go out and forage,\" she recalls. \"We'd come across species like lion's mane or reishi. And I became m… [+5712 chars]"
+      "urlToImage": null
     },
     {
+      "author": "TOI Lifestyle Desk",
+      "content": "When it comes to heart disease, most people think it starts and ends with chest pain or shortness of breath. Think sudden palpitations, losing breath, feeling nauseous, and being sent to a cardiac em… [+918 chars]",
+      "description": "When it comes to heart disease, most people think it starts and ends with chest pain or shortness of breath. Think sudden palpitations, losing breath, feeling nauseous, and being sent to a cardiac emergency out of nowhere. Usually, that’s the common perceptio…",
+      "publishedAt": "2026-11-23T01:18:35Z",
       "source": {
         "id": "the-times-of-india",
         "name": "The Times of India"
       },
-      "author": "TOI Lifestyle Desk",
       "title": "​6 hidden signs of heart trouble you should never ignore, US-based cardiologist warns: One of them starts in your legs​ - The Times of India",
-      "description": "When it comes to heart disease, most people think it starts and ends with chest pain or shortness of breath. Think sudden palpitations, losing breath, feeling nauseous, and being sent to a cardiac emergency out of nowhere. Usually, that’s the common perceptio…",
       "url": "https://timesofindia.indiatimes.com/etimes/wellness/6-hidden-signs-of-heart-trouble-you-should-never-ignore-us-based-cardiologist-warns-one-of-them-starts-in-your-legs/photostory/136086165.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-136086166,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-11-23T01:18:35Z",
-      "content": "When it comes to heart disease, most people think it starts and ends with chest pain or shortness of breath. Think sudden palpitations, losing breath, feeling nauseous, and being sent to a cardiac em… [+918 chars]"
+      "urlToImage": "https://static.toiimg.com/thumb/msid-136086166,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
     },
     {
+      "author": "Peter Dockrill",
+      "content": "Vitamin D offers lots of benefits, with studies showing it plays an important role in several facets of our health, from boosting our immunity to helping us counter harmful diseases.\r\nAs long as we d… [+4171 chars]",
+      "description": "Vitamin D offers lots of benefits, with studies showing it plays an important role in several facets of our health, from boosting our immunity to helping us counter harmful diseases.",
+      "publishedAt": "2026-11-23T01:04:20Z",
       "source": {
         "id": null,
         "name": "ScienceAlert"
       },
-      "author": "Peter Dockrill",
       "title": "One Common Vitamin May Lower Toxic Alzheimer's Proteins, Research Suggests - ScienceAlert",
-      "description": "Vitamin D offers lots of benefits, with studies showing it plays an important role in several facets of our health, from boosting our immunity to helping us counter harmful diseases.",
       "url": "https://www.sciencealert.com/one-common-vitamin-may-lower-toxic-alzheimers-proteins-research-suggests",
-      "urlToImage": "https://www.sciencealert.com/images/2026/11/vitamins-spilled.jpg",
-      "publishedAt": "2026-11-23T01:04:20Z",
-      "content": "Vitamin D offers lots of benefits, with studies showing it plays an important role in several facets of our health, from boosting our immunity to helping us counter harmful diseases.\r\nAs long as we d… [+4171 chars]"
+      "urlToImage": "https://www.sciencealert.com/images/2026/11/vitamins-spilled.jpg"
     },
     {
+      "author": "Karlee Phillips",
+      "content": "SIOUX FALLS, S.D. (KELO)  This time of year can bring an increase in seasonal illnesses. Health officials in South Dakota are also keeping a close eye on measles cases after the virus made recent nat… [+1704 chars]",
+      "description": "SIOUX FALLS, S.D. (KELO) — This time of year can bring an increase in seasonal illnesses. Health officials in South Dakota are also keeping a close eye on measles cases after the virus made recent national headlines. Jessica Little is enjoying an unusually wa…",
+      "publishedAt": "2026-11-23T00:15:16Z",
       "source": {
         "id": null,
         "name": "KELOLAND.com"
       },
-      "author": "Karlee Phillips",
       "title": "SD doctor, mom react to measles cases concerns - KELOLAND.com",
-      "description": "SIOUX FALLS, S.D. (KELO) — This time of year can bring an increase in seasonal illnesses. Health officials in South Dakota are also keeping a close eye on measles cases after the virus made recent national headlines. Jessica Little is enjoying an unusually wa…",
       "url": "https://www.keloland.com/news/local-news/sd-doctor-mom-react-to-measles-cases-concerns/",
-      "urlToImage": "https://www.keloland.com/wp-content/uploads/sites/103/2026/04/69ef95536c77e3.66177789.jpeg?w=1280",
-      "publishedAt": "2026-11-23T00:15:16Z",
-      "content": "SIOUX FALLS, S.D. (KELO)  This time of year can bring an increase in seasonal illnesses. Health officials in South Dakota are also keeping a close eye on measles cases after the virus made recent nat… [+1704 chars]"
+      "urlToImage": "https://www.keloland.com/wp-content/uploads/sites/103/2026/04/69ef95536c77e3.66177789.jpeg?w=1280"
     },
     {
+      "author": "WLTX",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-22T22:21:00Z",
       "source": {
         "id": null,
         "name": "WLTX.com"
       },
-      "author": "WLTX",
       "title": "South Carolina flu hospitalizations nearly triple the usual pace ahead of Thanksgiving - WLTX",
-      "description": null,
       "url": "https://www.wltx.com/article/news/health/flu/south-carolina-flu-hospitalizations-nearly-triple-usual-pace-thanksgiving/101-c416c0e8-bcbf-448e-9839-6c10b67faa01",
-      "urlToImage": null,
-      "publishedAt": "2026-11-22T22:21:00Z",
-      "content": null
+      "urlToImage": null
     },
     {
+      "author": null,
+      "content": "Medications you stopped taking years ago may still be influencing the bacteria living in your gut. A large study from the University of Tartu Institute of Genomics has found that many commonly prescr… [+5198 chars]",
+      "description": "Medications taken years or even long ago may leave lasting changes in your gut microbiome, according to a study of more than 2,500 people. Researchers discovered that common drugs, including antidepressants, blood pressure medications, and anxiety treatments,…",
+      "publishedAt": "2026-11-22T21:36:54Z",
       "source": {
         "id": null,
         "name": "Science Daily"
       },
-      "author": null,
       "title": "Common medications may secretly rewire your gut, with effects lasting for years - ScienceDaily",
-      "description": "Medications taken years or even long ago may leave lasting changes in your gut microbiome, according to a study of more than 2,500 people. Researchers discovered that common drugs, including antidepressants, blood pressure medications, and anxiety treatments,…",
       "url": "https://www.sciencedaily.com/releases/2026/11/261120071501.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/bacteria-intestinal-microbiome-in-digestive-tract.webp",
-      "publishedAt": "2026-11-22T21:36:54Z",
-      "content": "Medications you stopped taking years ago may still be influencing the bacteria living in your gut. A large study from the University of Tartu Institute of Genomics has found that many commonly prescr… [+5198 chars]"
+      "urlToImage": "https://www.sciencedaily.com/images/1920/bacteria-intestinal-microbiome-in-digestive-tract.webp"
     },
     {
+      "author": "Arthur Brooks",
+      "content": "Thanksgiving dinner might be killing you.\r\nNo, this isnt a column introducing the newest internet diet fad based on sketchy science and scare tactics. It isnt about the food at all. Its actually abou… [+1340 chars]",
+      "description": "Your difficult relatives, friends, and colleagues may be doing more than getting on your nerves, writes Arthur Brooks. They could be making you older. So should you cut them off?",
+      "publishedAt": "2026-11-22T21:36:07Z",
       "source": {
         "id": null,
         "name": "Thefp.com"
       },
-      "author": "Arthur Brooks",
       "title": "Thanksgiving Dinner Might Be Killing You - The Free Press",
-      "description": "Your difficult relatives, friends, and colleagues may be doing more than getting on your nerves, writes Arthur Brooks. They could be making you older. So should you cut them off?",
       "url": "https://www.thefp.com/p/thanksgiving-dinner-might-be-killing-family-happy-politics",
-      "urlToImage": "https://substackcdn.com/image/fetch/$s_!Qqj9!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faf99640c-8fd2-4e7d-b801-2363eaa614d8_2000x1125.jpeg",
-      "publishedAt": "2026-11-22T21:36:07Z",
-      "content": "Thanksgiving dinner might be killing you.\r\nNo, this isnt a column introducing the newest internet diet fad based on sketchy science and scare tactics. It isnt about the food at all. Its actually abou… [+1340 chars]"
+      "urlToImage": "https://substackcdn.com/image/fetch/$s_!Qqj9!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faf99640c-8fd2-4e7d-b801-2363eaa614d8_2000x1125.jpeg"
     },
     {
+      "author": null,
+      "content": "A major research review led by Curtin University has found that people with type 2 diabetes face a significantly higher risk of developing Alzheimer's disease. The findings provide a clearer picture … [+1799 chars]",
+      "description": "People with type 2 diabetes face a 53% higher risk of developing Alzheimer’s disease, according to a major new review of 40 studies. Researchers estimate that nearly five out of every 1,000 people with type 2 diabetes develop Alzheimer’s each year. By focusin…",
+      "publishedAt": "2026-11-22T21:11:11Z",
       "source": {
         "id": null,
         "name": "Science Daily"
       },
-      "author": null,
       "title": "Type 2 diabetes linked to 53% higher Alzheimer’s risk, major review finds - ScienceDaily",
-      "description": "People with type 2 diabetes face a 53% higher risk of developing Alzheimer’s disease, according to a major new review of 40 studies. Researchers estimate that nearly five out of every 1,000 people with type 2 diabetes develop Alzheimer’s each year. By focusin…",
       "url": "https://www.sciencedaily.com/releases/2026/11/261121221124.htm",
-      "urlToImage": "https://www.sciencedaily.com/images/1920/senior-woman-aging-memory-loss-dementia-brain-puzzle-pieces.webp",
-      "publishedAt": "2026-11-22T21:11:11Z",
-      "content": "A major research review led by Curtin University has found that people with type 2 diabetes face a significantly higher risk of developing Alzheimer's disease. The findings provide a clearer picture … [+1799 chars]"
+      "urlToImage": "https://www.sciencedaily.com/images/1920/senior-woman-aging-memory-loss-dementia-brain-puzzle-pieces.webp"
     },
     {
+      "author": "Dario Radley",
+      "content": "People who carry a piece of DNA inherited from Neandertals have a slightly smaller occipital lobe, the brain area at the back of the head. The same piece goes with a lower risk of schizophrenia. Hugo… [+3528 chars]",
+      "description": "A Neandertal gene variant is linked to a smaller occipital lobe and about 10% lower schizophrenia risk, a new PNAS study of DAAM1 reports.",
+      "publishedAt": "2026-11-22T20:39:36Z",
       "source": {
         "id": null,
         "name": "Archaeologymag.com"
       },
-      "author": "Dario Radley",
       "title": "Neandertal gene variant in modern human genomes tied to lower schizophrenia risk, study finds - Archaeology News Online Magazine",
-      "description": "A Neandertal gene variant is linked to a smaller occipital lobe and about 10% lower schizophrenia risk, a new PNAS study of DAAM1 reports.",
       "url": "https://archaeologymag.com/2026/11/neandertal-gene-tied-to-lower-schizophrenia-risk/",
-      "urlToImage": "https://archaeologymag.com/wp-content/uploads/اumans-survived-neanderthals-extinct-1.jpg",
-      "publishedAt": "2026-11-22T20:39:36Z",
-      "content": "People who carry a piece of DNA inherited from Neandertals have a slightly smaller occipital lobe, the brain area at the back of the head. The same piece goes with a lower risk of schizophrenia. Hugo… [+3528 chars]"
+      "urlToImage": "https://archaeologymag.com/wp-content/uploads/اumans-survived-neanderthals-extinct-1.jpg"
     },
     {
+      "author": null,
+      "content": "Adults with heart disease who sleep nine or more hours per night could be at a higher risk of death from both heart-related and non-heart-related causes than those who sleep seven to eight hours, acc… [+3460 chars]",
+      "description": "A PLOS One study of 3,287 US adults with heart disease links sleeping nine or more hours to a 51% higher risk of all-cause mortality over 15 years.",
+      "publishedAt": "2026-11-22T20:30:36Z",
       "source": {
         "id": "fox-news",
         "name": "Fox News"
       },
-      "author": null,
       "title": "Common sleep habit linked to 50% higher death risk in heart patients, recent study finds - Fox News",
-      "description": "A PLOS One study of 3,287 US adults with heart disease links sleeping nine or more hours to a 51% higher risk of all-cause mortality over 15 years.",
       "url": "https://www.foxnews.com/health/common-sleep-habit-linked-50-higher-death-risk-heart-patients-recent-study-finds",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/woman-sleep-apnea-wearing-cpap-machines.jpg",
-      "publishedAt": "2026-11-22T20:30:36Z",
-      "content": "Adults with heart disease who sleep nine or more hours per night could be at a higher risk of death from both heart-related and non-heart-related causes than those who sleep seven to eight hours, acc… [+3460 chars]"
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/woman-sleep-apnea-wearing-cpap-machines.jpg"
     },
     {
+      "author": "Rachel Sacks",
+      "content": "‘Tis the season for food guilt.\r\nMore than half of Americans obsess over food, from proteinmaxxing and ingredient checking to which foods are considered “good” and which ones are “bad.”\r\nHowever, sci… [+3166 chars]",
+      "description": "While some foods are considered “bad” and unhealthy, science says some demonized foods pack quite the nutritious punch.",
+      "publishedAt": "2026-11-22T19:30:00Z",
       "source": {
         "id": null,
         "name": "New York Post"
       },
-      "author": "Rachel Sacks",
       "title": "4 demonized foods that are actually really good for you - New York Post",
-      "description": "While some foods are considered “bad” and unhealthy, science says some demonized foods pack quite the nutritious punch.",
       "url": "https://nypost.com/2026/11/22/health/4-demonized-foods-that-are-actually-really-good-for-you/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/149746488.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-11-22T19:30:00Z",
-      "content": "‘Tis the season for food guilt.\r\nMore than half of Americans obsess over food, from proteinmaxxing and ingredient checking to which foods are considered “good” and which ones are “bad.”\r\nHowever, sci… [+3166 chars]"
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/149746488.jpg?quality=75&strip=all&w=1200"
     },
     {
+      "author": null,
+      "content": "A young child has died in Virginia, marking the first case of a measles-related death in the southern state for the year 2026.\r\nThe Virginia Department of Health made the announcement on Friday, just… [+2464 chars]",
+      "description": "The death comes within days of health experts stripping the US of its measles elimination status, amid uptick in cases.",
+      "publishedAt": "2026-11-22T18:11:07Z",
       "source": {
         "id": "al-jazeera-english",
         "name": "Al Jazeera English"
       },
-      "author": null,
       "title": "Virginia reports first measles-linked death of 2026 in child younger than 5 - Al Jazeera",
-      "description": "The death comes within days of health experts stripping the US of its measles elimination status, amid uptick in cases.",
       "url": "https://www.aljazeera.com/news/2026/11/22/virginia-reports-first-measles-linked-death-of-2026-in-child-younger-than-5",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afb96c11f41c-1794873025.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-11-22T18:11:07Z",
-      "content": "A young child has died in Virginia, marking the first case of a measles-related death in the southern state for the year 2026.\r\nThe Virginia Department of Health made the announcement on Friday, just… [+2464 chars]"
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afb96c11f41c-1794873025.jpg?resize=1920%2C1440"
     },
     {
+      "author": "Kate Bartlett",
+      "content": "South Africa is working to overcome a children's literacy crisis. In one Johannesburg township, a reading club is instilling a love of books in kids — and inspiring them to become authors.",
+      "description": "South Africa is working to overcome a children's literacy crisis. In one Johannesburg township, a reading club is instilling a love of books in kids — and inspiring them to become authors.",
+      "publishedAt": "2026-11-22T17:34:20Z",
+      "source": {
+        "id": "npr",
+        "name": "NPR"
+      },
+      "title": "Meet the young authors! A literacy program inspires kids in South Africa",
+      "url": "https://www.npr.org/2026/11/22/g-s1-154387/books-children-authors-south-africa-literacy",
+      "urlToImage": null
+    },
+    {
+      "author": "Rachel Sacks",
+      "content": "Time to get hip to a new treatment for a debilitating and incurable condition that affects millions.\r\nIt’s no secret that the body begins to break down in several ways as we get older, from brain dec… [+3258 chars]",
+      "description": "A cutting-edge treatment may reverse what’s known as the “silent disease” that affects a quarter of women over 65.",
+      "publishedAt": "2026-11-22T17:02:00Z",
       "source": {
         "id": null,
         "name": "New York Post"
       },
-      "author": "Rachel Sacks",
       "title": "New treatment may reverse disease that plagues over a quarter of women over age 65 - New York Post",
-      "description": "A cutting-edge treatment may reverse what’s known as the “silent disease” that affects a quarter of women over 65.",
       "url": "https://nypost.com/2026/11/22/health/new-treatment-may-reverse-disease-that-plagues-women-over-65/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/crop-42043505.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-11-22T17:02:00Z",
-      "content": "Time to get hip to a new treatment for a debilitating and incurable condition that affects millions.\r\nIt’s no secret that the body begins to break down in several ways as we get older, from brain dec… [+3258 chars]"
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/crop-42043505.jpg?quality=75&strip=all&w=1200"
     },
     {
+      "author": "Jennifer Fields",
+      "content": "You probably already know that having relatives with certain diseases raises your risk of developing them yourself. But how much do you really know about your familys health history? You might know t… [+139 chars]",
+      "description": "From heart disease to depression, your relatives hold important clues about your health. Here’s how to ask the right questions.",
+      "publishedAt": "2026-11-22T16:03:06Z",
       "source": {
         "id": "the-washington-post",
         "name": "The Washington Post"
       },
-      "author": "Jennifer Fields",
       "title": "The health discussion you should have when you get together with family - The Washington Post",
-      "description": "From heart disease to depression, your relatives hold important clues about your health. Here’s how to ask the right questions.",
       "url": "https://www.washingtonpost.com/wellness/2026/11/22/health-discussion-you-should-have-when-you-get-together-with-family/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/3EZVYHCVU45IQ5C4FCUMGBTHWQ.jpg&w=1440",
-      "publishedAt": "2026-11-22T16:03:06Z",
-      "content": "You probably already know that having relatives with certain diseases raises your risk of developing them yourself. But how much do you really know about your familys health history? You might know t… [+139 chars]"
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/3EZVYHCVU45IQ5C4FCUMGBTHWQ.jpg&w=1440"
     },
     {
+      "author": "Kendra Broddus",
+      "content": "MANCHESTER, N.H.The American Cancer Society has made updates to its prostate cancer screening guidelines. \r\nOne in eight men will be diagnosed with prostate cancer in their lifetime, according to ACS… [+619 chars]",
+      "description": "The American Cancer Society has made updates to prostate cancer screening guidelines.",
+      "publishedAt": "2026-11-22T15:50:00Z",
       "source": {
         "id": null,
         "name": "WMUR Manchester"
       },
-      "author": "Kendra Broddus",
       "title": "American Cancer Society updates prostate cancer screening guidelines - WMUR",
-      "description": "The American Cancer Society has made updates to prostate cancer screening guidelines.",
       "url": "https://www.wmur.com/article/nh-updates-to-prostate-cancer-screening-guidelines/74501043",
-      "urlToImage": "https://kubrick.htvapps.com/vidthumb/c43fa7c3-90c8-471f-896a-8e5cd378e085/983dd1ca-6491-4ab4-9d8e-6d32ee24e7a1.jpg?crop=0.821xw%3A0.821xh%3B0.0733xw%2C0&resize=1200%3A*",
-      "publishedAt": "2026-11-22T15:50:00Z",
-      "content": "MANCHESTER, N.H.The American Cancer Society has made updates to its prostate cancer screening guidelines. \r\nOne in eight men will be diagnosed with prostate cancer in their lifetime, according to ACS… [+619 chars]"
+      "urlToImage": "https://kubrick.htvapps.com/vidthumb/c43fa7c3-90c8-471f-896a-8e5cd378e085/983dd1ca-6491-4ab4-9d8e-6d32ee24e7a1.jpg?crop=0.821xw%3A0.821xh%3B0.0733xw%2C0&resize=1200%3A*"
     },
     {
+      "author": "Joe Wilkins",
+      "content": "Can’t-miss innovations from the bleeding edge of science and tech\r\nDoomscrolling might seem like a goofy side effect of our increasingly digitized lives, but some experts are now pegging the phenomen… [+1886 chars]",
+      "description": "A new study estimates that one-in-ten people on Earth suffer from problematic internet usage as a result of social media companies.",
+      "publishedAt": "2026-11-22T15:49:00Z",
       "source": {
         "id": null,
         "name": "Futurism"
       },
-      "author": "Joe Wilkins",
       "title": "Major Study Finds That the Internet, With All Its Intentionally Addictive Features Like Infinite Scrolling, Is Basically Cooking the Human Brain - Futurism",
-      "description": "A new study estimates that one-in-ten people on Earth suffer from problematic internet usage as a result of social media companies.",
       "url": "https://futurism.com/health-medicine/study-infinite-scroll-vertical-video-destroying-brain",
-      "urlToImage": "https://futurism.com/wp-content/uploads/2026/11/study-scroll-vertical-destroying-brain.jpg?quality=85&w=1200",
-      "publishedAt": "2026-11-22T15:49:00Z",
-      "content": "Can’t-miss innovations from the bleeding edge of science and tech\r\nDoomscrolling might seem like a goofy side effect of our increasingly digitized lives, but some experts are now pegging the phenomen… [+1886 chars]"
+      "urlToImage": "https://futurism.com/wp-content/uploads/2026/11/study-scroll-vertical-destroying-brain.jpg?quality=85&w=1200"
     },
     {
+      "author": "Rachel Sacks",
+      "content": "Nearly 1 in 9 people have Alzheimer’s disease, a number that’s quickly growing.\r\nWith no known cure, many researchers focus on preventing and treating the disease, with new medical breakthroughs that… [+4205 chars]",
+      "description": "Certain lifestyle habits may help ward off the neurodegenerative condition, including a two-step routine experts say is very encouraging for aging brain health.",
+      "publishedAt": "2026-11-22T15:23:00Z",
       "source": {
         "id": null,
         "name": "New York Post"
       },
-      "author": "Rachel Sacks",
       "title": "Two-step routine could help ward off Alzheimer’s disease: study - New York Post",
-      "description": "Certain lifestyle habits may help ward off the neurodegenerative condition, including a two-step routine experts say is very encouraging for aging brain health.",
       "url": "https://nypost.com/2026/11/22/health/two-step-routine-could-help-ward-off-alzheimers-disease/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/crop-42042499.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-11-22T15:23:00Z",
-      "content": "Nearly 1 in 9 people have Alzheimer’s disease, a number that’s quickly growing.\r\nWith no known cure, many researchers focus on preventing and treating the disease, with new medical breakthroughs that… [+4205 chars]"
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2026/11/crop-42042499.jpg?quality=75&strip=all&w=1200"
     },
     {
+      "author": "Esra Öz",
+      "content": "Could the sugar available before birth and in infancy have a connection to our health half a century later? \r\nA new study has found that people whose earliest development overlapped with Britain's su… [+5173 chars]",
+      "description": "Could the sugar available before birth and in infancy have a connection to our health half a century later? A new study has found that people whose earliest development overlapped with Britain's sugar rationing had blood measurements in their 50s that suggest…",
+      "publishedAt": "2026-11-22T15:04:09Z",
       "source": {
         "id": null,
         "name": "ScienceAlert"
       },
-      "author": "Esra Öz",
       "title": "People Exposed to Sugar Rationing in Early Life Appear Biologically Younger in Their 50s - ScienceAlert",
-      "description": "Could the sugar available before birth and in infancy have a connection to our health half a century later? A new study has found that people whose earliest development overlapped with Britain's sugar rationing had blood measurements in their 50s that suggest…",
       "url": "https://www.sciencealert.com/people-exposed-to-sugar-rationing-in-early-life-appear-biologically-younger-in-their-50s",
-      "urlToImage": "https://www.sciencealert.com/images/2026/11/SugarFallingOffSpoonInGoldTones-1200x675.png",
-      "publishedAt": "2026-11-22T15:04:09Z",
-      "content": "Could the sugar available before birth and in infancy have a connection to our health half a century later? \r\nA new study has found that people whose earliest development overlapped with Britain's su… [+5173 chars]"
+      "urlToImage": "https://www.sciencealert.com/images/2026/11/SugarFallingOffSpoonInGoldTones-1200x675.png"
     },
     {
+      "author": "Lindsey Bever",
+      "content": "We all know hand hygiene and health-related cleanliness in general is important. Washing your hands before you eat, after you use the bathroom or when you know youve been exposed to germs can help pr… [+27 chars]",
+      "description": "Antibacterial soap may sound like the better choice. But experts say it makes sense only in a few specific situations.",
+      "publishedAt": "2026-11-22T14:33:01Z",
       "source": {
         "id": "the-washington-post",
         "name": "The Washington Post"
       },
-      "author": "Lindsey Bever",
       "title": "Antibacterial soap vs. regular soap: Which should you use? - The Washington Post",
-      "description": "Antibacterial soap may sound like the better choice. But experts say it makes sense only in a few specific situations.",
       "url": "https://www.washingtonpost.com/wellness/2026/11/22/antibacterial-soap-vs-regular-soap-which-should-you-use/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/4LBY6JBYSGRXVTVIMSSMFSKMAY.jpg&w=1440",
-      "publishedAt": "2026-11-22T14:33:01Z",
-      "content": "We all know hand hygiene and health-related cleanliness in general is important. Washing your hands before you eat, after you use the bathroom or when you know youve been exposed to germs can help pr… [+27 chars]"
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/4LBY6JBYSGRXVTVIMSSMFSKMAY.jpg&w=1440"
     },
     {
+      "author": "NPR",
+      "content": "TranscriptAYESHA RASCOE, HOST: \r\n Helping kids with ADHD get through their day is a constantly changing puzzle. One of the cheat codes that a lot of parents and teachers use is making sure these kids… [+4251 chars]",
+      "description": "Kids with ADHD get a big cognitive boost from exercise. NPR's Ayesha Roscoe talks with neuroscientist Nicole Logan about why, and about what type of exercise is best.",
+      "publishedAt": "2026-11-22T13:40:27Z",
       "source": {
         "id": null,
         "name": "NPR"
       },
-      "author": "NPR",
       "title": "The cheat code for kids with ADHD: getting lots of exercise - NPR",
-      "description": "Kids with ADHD get a big cognitive boost from exercise. NPR's Ayesha Roscoe talks with neuroscientist Nicole Logan about why, and about what type of exercise is best.",
       "url": "https://www.npr.org/2026/11/22/nx-s1-6046170/the-cheat-code-for-kids-with-adhd-getting-lots-of-exercise",
-      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
-      "publishedAt": "2026-11-22T13:40:27Z",
-      "content": "TranscriptAYESHA RASCOE, HOST: \r\n Helping kids with ADHD get through their day is a constantly changing puzzle. One of the cheat codes that a lot of parents and teachers use is making sure these kids… [+4251 chars]"
+      "urlToImage": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg"
     },
     {
+      "author": "Jackie Fortiér",
+      "content": "Open enrollment for Medicare runs through Dec. 7, and there are a few different pitfalls people should watch out for this year. Your drug plan or Medicare Advantage plan could be changing a lot.",
+      "description": "Open enrollment for Medicare runs through Dec. 7, and there are a few different pitfalls people should watch out for this year. Your drug plan or Medicare Advantage plan could be changing a lot.",
+      "publishedAt": "2026-11-22T13:11:04Z",
+      "source": {
+        "id": "npr",
+        "name": "NPR"
+      },
+      "title": "Medicare looks a bit different in 2027, so don't miss open enrollment",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027",
+      "urlToImage": null
+    },
+    {
+      "author": "Ian Taylor",
+      "content": "Should I exercise today? Unless you're getting married, have an injury or ran a marathon yesterday, then yes, you absolutely should do some exercise today.\r\nThe reasons are varied and manifold, but o… [+3504 chars]",
+      "description": "An exercise a day keeps the brain happy",
+      "publishedAt": "2026-11-22T10:30:00Z",
       "source": {
         "id": null,
         "name": "BBC Focus Magazine"
       },
-      "author": "Ian Taylor",
       "title": "We finally know what happens in your brain after just one exercise session – and it's remarkable - BBC Science Focus Magazine",
-      "description": "An exercise a day keeps the brain happy",
       "url": "https://www.sciencefocus.com/the-human-body/exercise-brain-activity",
-      "urlToImage": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/c44510f4-5d46-4d06-89a4-bf1169e09456/thumbnails/d7281cbe-e224-4a68-bc10-0dd504ed01fa.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&platform=WEB&w=1200",
-      "publishedAt": "2026-11-22T10:30:00Z",
-      "content": "Should I exercise today? Unless you're getting married, have an injury or ran a marathon yesterday, then yes, you absolutely should do some exercise today.\r\nThe reasons are varied and manifold, but o… [+3504 chars]"
+      "urlToImage": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/c44510f4-5d46-4d06-89a4-bf1169e09456/thumbnails/d7281cbe-e224-4a68-bc10-0dd504ed01fa.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&platform=WEB&w=1200"
     },
     {
+      "author": "Roni Caryn Rabin",
+      "content": "Experts hope that genetically modified pigs could one day provide a vast supply of organs for patients in need.",
+      "description": "Experts hope that genetically modified pigs could one day provide a vast supply of organs for patients in need.",
+      "publishedAt": "2026-11-22T10:00:57Z",
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Roni Caryn Rabin",
       "title": "Patient Marks One Year Living With Pig Kidney, a Transplant Milestone",
-      "description": "Experts hope that genetically modified pigs could one day provide a vast supply of organs for patients in need.",
       "url": "https://www.nytimes.com/2026/11/22/well/pig-kidney-transplant-milestone.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/22/multimedia/22WELL-PIG-KIDNEY7-gkmf/22WELL-PIG-KIDNEY7-gkmf-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-22T10:00:57Z",
-      "content": "Experts hope that genetically modified pigs could one day provide a vast supply of organs for patients in need."
+      "urlToImage": "https://static01.nyt.com/images/2026/11/22/multimedia/22WELL-PIG-KIDNEY7-gkmf/22WELL-PIG-KIDNEY7-gkmf-mediumSquareAt3X.jpg"
     },
     {
+      "author": "Ricky Podgorski",
+      "content": "LONDONDERRY, N.H.A new Department of Health and Human Services report says 6.3% of deaths in New Hampshire in early November were related to influenza and pneumonia.\r\nEmergency room visits for respir… [+1154 chars]",
+      "description": "A new Department of Health and Human Services report says 6.3% of deaths in New Hampshire in early November were related to influenza and pneumonia. With Thanksgiving just days away, some say their biggest concern is protecting older family members.",
+      "publishedAt": "2026-11-22T03:41:00Z",
       "source": {
         "id": null,
         "name": "WMUR Manchester"
       },
-      "author": "Ricky Podgorski",
       "title": "Flu-related deaths rise in New Hampshire ahead of Thanksgiving - WMUR",
-      "description": "A new Department of Health and Human Services report says 6.3% of deaths in New Hampshire in early November were related to influenza and pneumonia. With Thanksgiving just days away, some say their biggest concern is protecting older family members.",
       "url": "https://www.wmur.com/article/flu-related-deaths-new-hampshire-thanksgiving/74498913",
-      "urlToImage": "https://kubrick.htvapps.com/vidthumb/df43ca61-9be5-402b-ade1-0d57e1e823f6/f3e9445b-7f86-4a31-8bd2-8de0772c0f41.jpg?crop=0.805xw%3A0.803xh%3B0.101xw%2C0&resize=1200%3A*",
-      "publishedAt": "2026-11-22T03:41:00Z",
-      "content": "LONDONDERRY, N.H.A new Department of Health and Human Services report says 6.3% of deaths in New Hampshire in early November were related to influenza and pneumonia.\r\nEmergency room visits for respir… [+1154 chars]"
+      "urlToImage": "https://kubrick.htvapps.com/vidthumb/df43ca61-9be5-402b-ade1-0d57e1e823f6/f3e9445b-7f86-4a31-8bd2-8de0772c0f41.jpg?crop=0.805xw%3A0.803xh%3B0.101xw%2C0&resize=1200%3A*"
     },
     {
+      "author": "Jen Murphy and Theodore Tae",
+      "content": "Build muscle and fight the effects of bad posture with a few simple exercises.",
+      "description": "Build muscle and fight the effects of bad posture with a few simple exercises.",
+      "publishedAt": "2026-11-22T00:09:48Z",
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Jen Murphy and Theodore Tae",
       "title": "A Short Workout to Strengthen Your Neck",
-      "description": "Build muscle and fight the effects of bad posture with a few simple exercises.",
       "url": "https://www.nytimes.com/2026/11/21/well/move/neck-strengthening-workout.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/20/well/NECK-STRENGTHENING_ART-01/NECK-STRENGTHENING-35367-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-22T00:09:48Z",
-      "content": "Build muscle and fight the effects of bad posture with a few simple exercises."
+      "urlToImage": "https://static01.nyt.com/images/2026/11/20/well/NECK-STRENGTHENING_ART-01/NECK-STRENGTHENING-35367-mediumSquareAt3X.jpg"
     },
     {
+      "author": "Peter Dockrill",
+      "content": "A promising breakthrough in cancer treatment has given a young boy a new chance at life.\r\nChimeric Antigen Receptor (CAR) T cell therapy is an immunotherapy technique that involves taking a patient's… [+4201 chars]",
+      "description": "A promising breakthrough in cancer treatment has given a young boy a new chance at life.",
+      "publishedAt": "2026-11-21T22:03:45Z",
       "source": {
         "id": null,
         "name": "ScienceAlert"
       },
-      "author": "Peter Dockrill",
       "title": "A 3-Year-Old's Cancer Disappeared After Doctors Reprogrammed His Own Immune Cells - ScienceAlert",
-      "description": "A promising breakthrough in cancer treatment has given a young boy a new chance at life.",
       "url": "https://www.sciencealert.com/a-3-year-olds-metastatic-cancer-vanished-after-two-doses-of-experimental-therapy",
-      "urlToImage": "https://www.sciencealert.com/images/2026/11/metastatic-cancer.jpg",
-      "publishedAt": "2026-11-21T22:03:45Z",
-      "content": "A promising breakthrough in cancer treatment has given a young boy a new chance at life.\r\nChimeric Antigen Receptor (CAR) T cell therapy is an immunotherapy technique that involves taking a patient's… [+4201 chars]"
+      "urlToImage": "https://www.sciencealert.com/images/2026/11/metastatic-cancer.jpg"
     },
     {
+      "author": "SooLeader Staff",
+      "content": "NEWS RELEASEMICHIGAN STATE UNIVERSITY EXTENSION*************************Understanding Chronic Wasting Disease\r\nChronic Wasting Disease (CWD) is neurological disease that affects members of the cervid… [+9038 chars]",
+      "description": "Deer parts and meat trimmings should be double-bagged for landfill disposal, while hunters quartering animals in the field should avoid brain and spinal tissue to limit spread of chronic wasting disease",
+      "publishedAt": "2026-11-21T21:02:16Z",
       "source": {
         "id": null,
         "name": "Sooleader.com"
       },
-      "author": "SooLeader Staff",
       "title": "Michigan hunters urged to properly dispose of deer carcasses - SooLeader.com",
-      "description": "Deer parts and meat trimmings should be double-bagged for landfill disposal, while hunters quartering animals in the field should avoid brain and spinal tissue to limit spread of chronic wasting disease",
       "url": "https://www.sooleader.com/local-news/michigan-hunters-urged-to-properly-dispose-of-deer-carcasses-13037176",
-      "urlToImage": "https://www.vmcdn.ca/f/files/sooleader/images/education/2026-11-19-msue-deer-nikkihersch.jpg;w=1200;h=1200;mode=crop",
-      "publishedAt": "2026-11-21T21:02:16Z",
-      "content": "NEWS RELEASEMICHIGAN STATE UNIVERSITY EXTENSION*************************Understanding Chronic Wasting Disease\r\nChronic Wasting Disease (CWD) is neurological disease that affects members of the cervid… [+9038 chars]"
+      "urlToImage": "https://www.vmcdn.ca/f/files/sooleader/images/education/2026-11-19-msue-deer-nikkihersch.jpg;w=1200;h=1200;mode=crop"
     },
     {
+      "author": "Will Stone",
+      "content": "The money will go to thousands of people who have been or will be diagnosed with non-Hodgkin lymphoma – a blood cancer linked to the herbicide.",
+      "description": "The money will go to thousands of people who have been or will be diagnosed with non-Hodgkin lymphoma – a blood cancer linked to the herbicide.",
+      "publishedAt": "2026-11-21T20:37:35Z",
+      "source": {
+        "id": "npr",
+        "name": "NPR"
+      },
+      "title": "Bayer reaches Roundup settlement that could cost the company billions",
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement",
+      "urlToImage": null
+    },
+    {
+      "author": "Parade Editorial Team, Parade AI Desk, Leigh Weingus",
+      "content": "When youre trying to take care of your heart, trading chips and cookies for a healthier snack feels like an easy win. And in many ways, it is. Snacks tend to be the least planned part of the daygrabb… [+4197 chars]",
+      "description": "Your go-to heart-healthy snack may need one simple swap.",
+      "publishedAt": "2026-11-21T15:50:00Z",
       "source": {
         "id": null,
         "name": "Parade"
       },
-      "author": "Parade Editorial Team, Parade AI Desk, Leigh Weingus",
       "title": "Why Salted Pistachios Might Harm Your Blood Pressure, According to a Cardiologist - AOL.com",
-      "description": "Your go-to heart-healthy snack may need one simple swap.",
       "url": "https://parade.com/health/popular-heart-healthy-snack-blood-pressure-according-to-cardiologist",
-      "urlToImage": "https://hermes.media.static.aol.com/media/2026/11/21/f7e82f53-8708-32d2-9ebc-a3045939d3a5/d15238c2-c4c7-418d-bfb1-3d33e6a6a17a.jpg",
-      "publishedAt": "2026-11-21T15:50:00Z",
-      "content": "When youre trying to take care of your heart, trading chips and cookies for a healthier snack feels like an easy win. And in many ways, it is. Snacks tend to be the least planned part of the daygrabb… [+4197 chars]"
+      "urlToImage": "https://hermes.media.static.aol.com/media/2026/11/21/f7e82f53-8708-32d2-9ebc-a3045939d3a5/d15238c2-c4c7-418d-bfb1-3d33e6a6a17a.jpg"
     },
     {
+      "author": "Ryan Benk",
+      "content": "Amid ongoing measles outbreaks, Philadelphia neonatologist Joanna Parga-Belinkie talks with NPR's Scott Simon about how she keeps infants too young for the vaccine safe.",
+      "description": "Amid ongoing measles outbreaks, Philadelphia neonatologist Joanna Parga-Belinkie talks with NPR's Scott Simon about how she keeps infants too young for the vaccine safe.",
+      "publishedAt": "2026-11-21T12:40:10Z",
+      "source": {
+        "id": "npr",
+        "name": "NPR"
+      },
+      "title": "Philadelphia neonatologist Joanna Parga-Belinkie on keeping babies safe from measles",
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6038857/philadelphia-neonatologist-joanna-parga-belinkie-on-keeping-babies-safe-from-measles",
+      "urlToImage": null
+    },
+    {
+      "author": null,
+      "content": "A major new review suggests that some of the world’s most widely used antidepressants may be better than others at keeping depression symptoms under control over time. Credit: Shutterstock\r\nA massive… [+6078 chars]",
+      "description": "A massive review of 30,000 people suggests three antidepressants may outperform Prozac, but the findings reveal how much remains unknown about long-term depression treatment.",
+      "publishedAt": "2026-11-21T12:37:41Z",
       "source": {
         "id": null,
         "name": "SciTechDaily"
       },
-      "author": null,
       "title": "A Major Review Reveals Three Antidepressants That May Outperform Prozac - SciTechDaily",
-      "description": "A massive review of 30,000 people suggests three antidepressants may outperform Prozac, but the findings reveal how much remains unknown about long-term depression treatment.",
       "url": "https://scitechdaily.com/a-major-review-reveals-three-antidepressants-that-may-outperform-prozac/",
-      "urlToImage": null,
-      "publishedAt": "2026-11-21T12:37:41Z",
-      "content": "A major new review suggests that some of the world’s most widely used antidepressants may be better than others at keeping depression symptoms under control over time. Credit: Shutterstock\r\nA massive… [+6078 chars]"
+      "urlToImage": null
     },
     {
+      "author": "Daniella Gray, Breanne Cruz",
+      "content": "From the moment my daughter Leiah was born, there were already signs that something wasnt quite right. \r\nAs soon as I gave birth on December 2, 2024, the medical team noticed gurgling sounds, which i… [+6404 chars]",
+      "description": "I should have been bonding with my newborn. Instead, I was trying to understand how my tiny baby could have cancer.",
+      "publishedAt": "2026-11-21T10:00:00Z",
       "source": {
         "id": "newsweek",
         "name": "Newsweek"
       },
-      "author": "Daniella Gray, Breanne Cruz",
       "title": "I Knew Something Was Wrong With My Baby—Then My Worst Fears Came True - Newsweek",
-      "description": "I should have been bonding with my newborn. Instead, I was trying to understand how my tiny baby could have cancer.",
       "url": "https://www.newsweek.com/i-knew-something-was-wrong-with-my-baby-then-my-worst-fears-came-true-12738724",
-      "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2026/11/1-db8002.png?w=1200&crop=1",
-      "publishedAt": "2026-11-21T10:00:00Z",
-      "content": "From the moment my daughter Leiah was born, there were already signs that something wasnt quite right. \r\nAs soon as I gave birth on December 2, 2024, the medical team noticed gurgling sounds, which i… [+6404 chars]"
+      "urlToImage": "https://assets.newsweek.com/wp-content/uploads/2026/11/1-db8002.png?w=1200&crop=1"
     },
     {
+      "author": null,
+      "content": "Researchers found that study participants between the ages of 60 and 84 experienced significantly smaller waves of cerebrospinal fluid, or CSF, a colorless liquid that essentially washes the brain cl… [+4800 chars]",
+      "description": "Researchers found older study participants experienced smaller waves of the fluid that essentially clears the brain of toxic, memory-impairing proteins overnight.",
+      "publishedAt": "2026-11-21T08:00:00Z",
       "source": {
         "id": null,
         "name": "The Boston Globe"
       },
-      "author": null,
       "title": "MIT study finds processes that declutter brain during sleep are impaired in older adults - The Boston Globe",
-      "description": "Researchers found older study participants experienced smaller waves of the fluid that essentially clears the brain of toxic, memory-impairing proteins overnight.",
       "url": "https://www.bostonglobe.com/2026/11/21/metro/mit-sleep-study-shows-sleep-impairment-is-common-in-older-adults/",
-      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/NOKF3H4R77WXAZ65F4G5SD2VEI.jpg?auth=ce1f603e66a19189968dbc8e69338701b83e064f45b9ab82090e3eea57f31924&width=1440",
-      "publishedAt": "2026-11-21T08:00:00Z",
-      "content": "Researchers found that study participants between the ages of 60 and 84 experienced significantly smaller waves of cerebrospinal fluid, or CSF, a colorless liquid that essentially washes the brain cl… [+4800 chars]"
+      "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/NOKF3H4R77WXAZ65F4G5SD2VEI.jpg?auth=ce1f603e66a19189968dbc8e69338701b83e064f45b9ab82090e3eea57f31924&width=1440"
     },
     {
+      "author": "https://www.facebook.com/verywell",
+      "content": "<ul><li>Dandelion tea contains compounds that may help reduce inflammation and provide antioxidant benefits.</li><li>Drinking 13 cups of dandelion tea per day may offer benefits.</li><li>Check with a… [+3457 chars]",
+      "description": "Dandelion tea may offer health benefits. A dietitian explains how it may reduce inflammation and offers antioxidant properties.",
+      "publishedAt": "2026-11-21T08:00:00Z",
       "source": {
         "id": null,
         "name": "Verywellhealth.com"
       },
-      "author": "https://www.facebook.com/verywell",
       "title": "The Best Morning Drink for Inflammation, According to a Dietitian - Verywell Health",
-      "description": "Dandelion tea may offer health benefits. A dietitian explains how it may reduce inflammation and offers antioxidant properties.",
       "url": "https://www.verywellhealth.com/best-morning-drink-choice-for-inflammation-12197547",
-      "urlToImage": "https://www.verywellhealth.com/thmb/aFiIAkhwgqR22i3G-ULH04ifWaU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/VWH-GettyImages-1717178071-857a270403ef477aa9bf452a09043142.jpg",
-      "publishedAt": "2026-11-21T08:00:00Z",
-      "content": "<ul><li>Dandelion tea contains compounds that may help reduce inflammation and provide antioxidant benefits.</li><li>Drinking 13 cups of dandelion tea per day may offer benefits.</li><li>Check with a… [+3457 chars]"
+      "urlToImage": "https://www.verywellhealth.com/thmb/aFiIAkhwgqR22i3G-ULH04ifWaU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/VWH-GettyImages-1717178071-857a270403ef477aa9bf452a09043142.jpg"
     },
     {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "Kevin Draper",
-      "title": "Judge Approves $7 Billion Settlement Over Claims That Roundup Caused Cancer",
+      "content": "The ruling, in a nationwide class-action suit, is expected to end tens of thousands of lawsuits by people claiming that Roundup caused non-Hodgkin lymphoma.",
       "description": "The ruling, in a nationwide class-action suit, is expected to end tens of thousands of lawsuits by people claiming that Roundup caused non-Hodgkin lymphoma.",
-      "url": "https://www.nytimes.com/2026/11/20/business/bayer-settlement-roundup-cancer.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/20/multimedia/20BIZ-ROUNDUP-fqct/20BIZ-ROUNDUP-fqct-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-21T03:23:04Z",
-      "content": "The ruling, in a nationwide class-action suit, is expected to end tens of thousands of lawsuits by people claiming that Roundup caused non-Hodgkin lymphoma."
-    },
-    {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Clay Risen",
-      "title": "Marsha Linehan Has Died. She Transformed Treatment for Personality Disorder.",
-      "description": "After her methods proved effective, she revealed that she had battled her own borderline personality disorder as a child.",
-      "url": "https://www.nytimes.com/2026/11/19/well/mind/marsha-linehan-dead.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/22/multimedia/18obit-linehan-lfcp-print1/18obit-linehan-lfcp-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-21T01:28:24Z",
-      "content": "After her methods proved effective, she revealed that she had battled her own borderline personality disorder as a child."
+      "title": "Judge Approves $7 Billion Settlement Over Claims That Roundup Caused Cancer",
+      "url": "https://www.nytimes.com/2026/11/20/business/bayer-settlement-roundup-cancer.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/20/multimedia/20BIZ-ROUNDUP-fqct/20BIZ-ROUNDUP-fqct-mediumSquareAt3X.jpg"
     },
     {
+      "author": "Clay Risen",
+      "content": "After her methods proved effective, she revealed that she had battled her own borderline personality disorder as a child.",
+      "description": "After her methods proved effective, she revealed that she had battled her own borderline personality disorder as a child.",
+      "publishedAt": "2026-11-21T01:28:24Z",
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "Marsha Linehan Has Died. She Transformed Treatment for Personality Disorder.",
+      "url": "https://www.nytimes.com/2026/11/19/well/mind/marsha-linehan-dead.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/22/multimedia/18obit-linehan-lfcp-print1/18obit-linehan-lfcp-mediumSquareAt3X.jpg"
+    },
+    {
+      "author": "Marilyn Upchurch",
+      "content": "BERNALILLO COUNTY, N.M. (KRQE) According to state health officials, there is an ongoing outbreak of Shigella in Bernalillo County. Shigellosis is an illness that causes stomach issues. They fear the … [+2391 chars]",
+      "description": "BERNALILLO COUNTY, N.M. (KRQE) – According to state health officials, there is an ongoing outbreak of Shigella in Bernalillo County. Shigellosis is an illness that causes stomach issues. They fear the number of cases could be undercounted. “We have seen more …",
+      "publishedAt": "2026-11-21T00:27:19Z",
       "source": {
         "id": null,
         "name": "KRQE News 13"
       },
-      "author": "Marilyn Upchurch",
       "title": "NMDOH warns of Shigellosis outbreak in Bernalillo County - KRQE",
-      "description": "BERNALILLO COUNTY, N.M. (KRQE) – According to state health officials, there is an ongoing outbreak of Shigella in Bernalillo County. Shigellosis is an illness that causes stomach issues. They fear the number of cases could be undercounted. “We have seen more …",
       "url": "https://www.krqe.com/news/new-mexico/nmdoh-warns-of-shigellosis-outbreak-in-bernalillo-county/",
-      "urlToImage": "https://www.krqe.com/wp-content/uploads/sites/12/2026/11/1D4587D2B094D18F333F7956627A4290.jpg?w=1280",
-      "publishedAt": "2026-11-21T00:27:19Z",
-      "content": "BERNALILLO COUNTY, N.M. (KRQE) According to state health officials, there is an ongoing outbreak of Shigella in Bernalillo County. Shigellosis is an illness that causes stomach issues. They fear the … [+2391 chars]"
+      "urlToImage": "https://www.krqe.com/wp-content/uploads/sites/12/2026/11/1D4587D2B094D18F333F7956627A4290.jpg?w=1280"
     },
     {
+      "author": null,
+      "content": "The Lancet has retracted a 20-year-old case report of an infants death by opioid poisoning via breast milk, following an institutional investigation that concluded the authors falsified the report by… [+5882 chars]",
+      "description": "The Lancet has retracted a 20-year-old case report of an infant’s death by opioid poisoning via breast milk, following an institutional investigation that concluded the authors falsified the report…",
+      "publishedAt": "2026-11-20T23:00:01Z",
       "source": {
         "id": null,
         "name": "Retractionwatch.com"
       },
-      "author": null,
       "title": "Lancet retracts report by former SickKids pediatrician on infant’s death from opioid poisoning - Retraction Watch",
-      "description": "The Lancet has retracted a 20-year-old case report of an infant’s death by opioid poisoning via breast milk, following an institutional investigation that concluded the authors falsified the report…",
       "url": "https://retractionwatch.com/2026/11/20/lancet-gideon-koren-sickkids-toronto-infant-death-opioid-poisoning-breast-milk-retraction/",
-      "urlToImage": "https://retractionwatch.com/wp-content/uploads/2026/11/koren-lancet-retraction.png",
-      "publishedAt": "2026-11-20T23:00:01Z",
-      "content": "The Lancet has retracted a 20-year-old case report of an infants death by opioid poisoning via breast milk, following an institutional investigation that concluded the authors falsified the report by… [+5882 chars]"
+      "urlToImage": "https://retractionwatch.com/wp-content/uploads/2026/11/koren-lancet-retraction.png"
     },
     {
+      "author": "Berkeley Lovelace Jr.",
+      "content": "For the first time, federal guidance is poised to steer women ages 30 to 65 toward an HPV test rather than the traditional Pap smear. Women can also opt for a self-administered HPV test, a major chan… [+5695 chars]",
+      "description": "New cervical cancer guidance to recommend for the first time that women ages 30 to 65 be screened for HPV rather than with the traditional Pap test.",
+      "publishedAt": "2026-11-20T22:33:19Z",
       "source": {
         "id": "nbc-news",
         "name": "NBC News"
       },
-      "author": "Berkeley Lovelace Jr.",
       "title": "New cervical cancer guidance to favor HPV screening over traditional Pap tests - NBC News",
-      "description": "New cervical cancer guidance to recommend for the first time that women ages 30 to 65 be screened for HPV rather than with the traditional Pap test.",
       "url": "https://www.nbcnews.com/health/womens-health/cervical-cancer-screening-federal-guidance-hpv-tests-pap-smear-rcna610282",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261119-cervical-cancer-screening-pap-hpv-ew-455p-345e13.jpg",
-      "publishedAt": "2026-11-20T22:33:19Z",
-      "content": "For the first time, federal guidance is poised to steer women ages 30 to 65 toward an HPV test rather than the traditional Pap smear. Women can also opt for a self-administered HPV test, a major chan… [+5695 chars]"
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261119-cervical-cancer-screening-pap-hpv-ew-455p-345e13.jpg"
     },
     {
+      "author": null,
+      "content": "<li>Christ, J. P. et al. Incidence, prevalence, and trends in endometriosis diagnosis: a United States population-based study from 2006 to 2015. Am. J. Obstet. Gynecol.225, 500.e1500.e9 (2021).\r\nArti… [+22741 chars]",
+      "description": "Multiancestry genome-wide association coupled with integrative multiomics analyses identify risk loci for endometriosis and implicate key genes and pathways underlying its pathogenesis, including roles for immune cell types and cellular proliferation.",
+      "publishedAt": "2026-11-20T17:26:24Z",
       "source": {
         "id": null,
         "name": "Nature.com"
       },
-      "author": null,
       "title": "Multiancestry genome-wide association and integrative multiomics analyses implicate key pathways in endometriosis - Nature",
-      "description": "Multiancestry genome-wide association coupled with integrative multiomics analyses identify risk loci for endometriosis and implicate key genes and pathways underlying its pathogenesis, including roles for immune cell types and cellular proliferation.",
       "url": "https://www.nature.com/articles/s41588-026-02810-9",
-      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41588-026-02810-9/MediaObjects/41588_2026_2810_Fig1_HTML.png",
-      "publishedAt": "2026-11-20T17:26:24Z",
-      "content": "<li>Christ, J. P. et al. Incidence, prevalence, and trends in endometriosis diagnosis: a United States population-based study from 2006 to 2015. Am. J. Obstet. Gynecol.225, 500.e1500.e9 (2021).\r\nArti… [+22741 chars]"
+      "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41588-026-02810-9/MediaObjects/41588_2026_2810_Fig1_HTML.png"
     },
     {
+      "author": "Sanjukta Mondal",
+      "content": "High blood sugar, a major problem in type 2 diabetes, could become part of the solution in monitoring the disease. Researchers have developed an experimental implant called NeuroAxis that utilizes a … [+5007 chars]",
+      "description": "High blood sugar, a major problem in type 2 diabetes, could become part of the solution in monitoring the disease. Researchers have developed an experimental implant called NeuroAxis that utilizes a glucose fuel cell to harvest energy and sense metabolic fluc…",
+      "publishedAt": "2026-11-20T15:00:01Z",
       "source": {
         "id": null,
         "name": "Medical Xpress"
       },
-      "author": "Sanjukta Mondal",
       "title": "High blood sugar powers an experimental implant that helps improve glucose control in diabetes - Medical Xpress",
-      "description": "High blood sugar, a major problem in type 2 diabetes, could become part of the solution in monitoring the disease. Researchers have developed an experimental implant called NeuroAxis that utilizes a glucose fuel cell to harvest energy and sense metabolic fluc…",
       "url": "https://medicalxpress.com/news/2026-11-high-blood-sugar-powers-experimental.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/sugar-powered-implant.jpg",
-      "publishedAt": "2026-11-20T15:00:01Z",
-      "content": "High blood sugar, a major problem in type 2 diabetes, could become part of the solution in monitoring the disease. Researchers have developed an experimental implant called NeuroAxis that utilizes a … [+5007 chars]"
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/sugar-powered-implant.jpg"
     },
     {
+      "author": "Peter Alexander, Roslyn Henry",
+      "content": "GLP-1 weight-loss medicines such as Ozempic and Wegovy could affect much more than the waistlines of the people who take them. If widely used, our new research suggests these appetite-suppressing med… [+4524 chars]",
+      "description": "Ozempic, Wegovy and other drugs could have a significant effect on the environment. But medicine shouldn’t let an unhealthy and unsustainable food system off the hook.",
+      "publishedAt": "2026-11-20T09:38:51Z",
       "source": {
         "id": null,
         "name": "The Conversation Africa"
       },
-      "author": "Peter Alexander, Roslyn Henry",
       "title": "Weight-loss drugs could free up an area of farmland larger than Italy – new study - The Conversation",
-      "description": "Ozempic, Wegovy and other drugs could have a significant effect on the environment. But medicine shouldn’t let an unhealthy and unsustainable food system off the hook.",
       "url": "https://theconversation.com/weight-loss-drugs-could-free-up-an-area-of-farmland-larger-than-italy-new-study-291114",
-      "urlToImage": "https://images.theconversation.com/files/772449/original/file-20261117-64-vjzcoj.jpg?ixlib=rb-4.1.1&rect=0%2C596%2C7162%2C3581&q=45&auto=format&w=1356&h=668&fit=crop",
-      "publishedAt": "2026-11-20T09:38:51Z",
-      "content": "GLP-1 weight-loss medicines such as Ozempic and Wegovy could affect much more than the waistlines of the people who take them. If widely used, our new research suggests these appetite-suppressing med… [+4524 chars]"
+      "urlToImage": "https://images.theconversation.com/files/772449/original/file-20261117-64-vjzcoj.jpg?ixlib=rb-4.1.1&rect=0%2C596%2C7162%2C3581&q=45&auto=format&w=1356&h=668&fit=crop"
     },
     {
+      "author": "Carl Zimmer",
+      "content": "Biotechs are racing to create A.I. models of human cells, hoping to speed drug development and slow aging. Can computers match the complexity of life?",
+      "description": "Biotechs are racing to create A.I. models of human cells, hoping to speed drug development and slow aging. Can computers match the complexity of life?",
+      "publishedAt": "2026-11-20T01:01:41Z",
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Carl Zimmer",
       "title": "How Virtual Cells Could Transform Medicine",
-      "description": "Biotechs are racing to create A.I. models of human cells, hoping to speed drug development and slow aging. Can computers match the complexity of life?",
       "url": "https://www.nytimes.com/2026/11/18/science/ai-virtual-human-cells.html",
-      "urlToImage": null,
-      "publishedAt": "2026-11-20T01:01:41Z",
-      "content": "Biotechs are racing to create A.I. models of human cells, hoping to speed drug development and slow aging. Can computers match the complexity of life?"
+      "urlToImage": null
     },
     {
+      "author": null,
+      "content": "Prof Elena Garralda, chair of a European cancer conference called EORTCNCIAACR Symposium 2026 where the work is being presented to other doctors, said: \"These results are exciting because they show t… [+145 chars]",
+      "description": "Daily pill daraxonrasib appears to shrink and possibly even eliminate tumours in some patients with one of the deadliest cancers.",
+      "publishedAt": "2026-11-20T00:08:22Z",
       "source": {
         "id": null,
         "name": "BBC News"
       },
-      "author": null,
       "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish - BBC",
-      "description": "Daily pill daraxonrasib appears to shrink and possibly even eliminate tumours in some patients with one of the deadliest cancers.",
       "url": "https://www.bbc.com/news/articles/cqrmgjnzz9l0o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4568/live/3c973e20-e4be-11f1-99a1-253766e7ad8b.png",
-      "publishedAt": "2026-11-20T00:08:22Z",
-      "content": "Prof Elena Garralda, chair of a European cancer conference called EORTCNCIAACR Symposium 2026 where the work is being presented to other doctors, said: \"These results are exciting because they show t… [+145 chars]"
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4568/live/3c973e20-e4be-11f1-99a1-253766e7ad8b.png"
     },
     {
+      "author": "Andrew Jacobs",
+      "content": "An unusual protein may turn out to be a way to diagnose the chronic brain disease, which disproportionately affects athletes in contact sports.",
+      "description": "An unusual protein may turn out to be a way to diagnose the chronic brain disease, which disproportionately affects athletes in contact sports.",
+      "publishedAt": "2026-11-19T21:08:14Z",
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Andrew Jacobs",
       "title": "Studies Could Pave Way for Blood Test to Detect C.T.E. in Living Patients",
-      "description": "An unusual protein may turn out to be a way to diagnose the chronic brain disease, which disproportionately affects athletes in contact sports.",
       "url": "https://www.nytimes.com/2026/11/19/science/cte-blood-test-diagnosis.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/19/multimedia/19SCI-CTESTUDIES-wczp/19SCI-CTESTUDIES-wczp-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-19T21:08:14Z",
-      "content": "An unusual protein may turn out to be a way to diagnose the chronic brain disease, which disproportionately affects athletes in contact sports."
+      "urlToImage": "https://static01.nyt.com/images/2026/11/19/multimedia/19SCI-CTESTUDIES-wczp/19SCI-CTESTUDIES-wczp-mediumSquareAt3X.jpg"
     },
     {
+      "author": null,
+      "content": "People who regularly drink beer or hard liquor face a significantly higher risk of sudden kidney damage than light drinkers, while wine drinkers do not show the same increased risk, according to a la… [+3853 chars]",
+      "description": "Beer and hard liquor drinkers face a sharply higher risk of acute kidney injury, a UK Biobank study finds, while red and white wine showed no such link.",
+      "publishedAt": "2026-11-19T21:01:06Z",
       "source": {
         "id": "fox-news",
         "name": "Fox News"
       },
-      "author": null,
       "title": "Popular alcoholic drinks linked to sudden kidney damage in 14-year study - Fox News",
-      "description": "Beer and hard liquor drinkers face a sharply higher risk of acute kidney injury, a UK Biobank study finds, while red and white wine showed no such link.",
       "url": "https://www.foxnews.com/health/popular-alcoholic-drinks-linked-sudden-kidney-damage-14-year-study",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/cheers-beer-wine.gif",
-      "publishedAt": "2026-11-19T21:01:06Z",
-      "content": "People who regularly drink beer or hard liquor face a significantly higher risk of sudden kidney damage than light drinkers, while wine drinkers do not show the same increased risk, according to a la… [+3853 chars]"
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/cheers-beer-wine.gif"
     },
     {
+      "author": null,
+      "content": "eLetters is a forum for ongoing peer review. eLetters are not edited, proofread, or indexed, but they are screened. eLetters should provide substantive and scholarly commentary on the article. Neithe… [+506 chars]",
+      "description": "Wernicke’s area in the posterior temporal lobe is classically defined by its role in speech comprehension, yet a paradox remains: Why does damage here also profoundly impair speech production? Using direct human brain recordings, cortical stimulation, ...",
+      "publishedAt": "2026-11-19T19:12:29Z",
       "source": {
         "id": null,
         "name": "Science.org"
       },
-      "author": null,
       "title": "A neural code for generative speech production in human Wernicke’s area - Science | AAAS",
-      "description": "Wernicke’s area in the posterior temporal lobe is classically defined by its role in speech comprehension, yet a paradox remains: Why does damage here also profoundly impair speech production? Using direct human brain recordings, cortical stimulation, ...",
       "url": "https://www.science.org/doi/10.1126/science.aef8963",
-      "urlToImage": "https://www.science.org/cms/asset/7cdfd9c6-f278-4525-a1f0-0044fb858f35/science.aef8963-keyimage.gif",
-      "publishedAt": "2026-11-19T19:12:29Z",
-      "content": "eLetters is a forum for ongoing peer review. eLetters are not edited, proofread, or indexed, but they are screened. eLetters should provide substantive and scholarly commentary on the article. Neithe… [+506 chars]"
+      "urlToImage": "https://www.science.org/cms/asset/7cdfd9c6-f278-4525-a1f0-0044fb858f35/science.aef8963-keyimage.gif"
     },
     {
+      "author": "Shwetha Surendran and Mark Fainaru-Wada",
+      "content": "Nov 19, 2026, 01:50 PM ET\r\nA new blood test shows potential to detect advanced stages of chronic traumatic encephalopathy (CTE) in the living, according to two recent studies published in the medical… [+3863 chars]",
+      "description": "A new blood test shows potential to detect advanced stages of chronic traumatic encephalopathy (CTE) in the living, according to two recent published studies.",
+      "publishedAt": "2026-11-19T18:50:00Z",
       "source": {
         "id": "espn",
         "name": "ESPN"
       },
-      "author": "Shwetha Surendran and Mark Fainaru-Wada",
       "title": "Studies: Blood test has potential to detect CTE in the living - ESPN",
-      "description": "A new blood test shows potential to detect advanced stages of chronic traumatic encephalopathy (CTE) in the living, according to two recent published studies.",
       "url": "https://www.espn.com/nfl/story/_/id/50532686/studies-blood-test-potential-detect-cte-living",
-      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0904%2F260904_nfl_risk%2Dof%2Dcte_16x9.jpg",
-      "publishedAt": "2026-11-19T18:50:00Z",
-      "content": "Nov 19, 2026, 01:50 PM ET\r\nA new blood test shows potential to detect advanced stages of chronic traumatic encephalopathy (CTE) in the living, according to two recent studies published in the medical… [+3863 chars]"
+      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0904%2F260904_nfl_risk%2Dof%2Dcte_16x9.jpg"
     },
     {
+      "author": null,
+      "content": "Frequent night-shift work is associated with differences in the structure of the heart andhow the heart muscle functions, according to a new study published today in the European Heart Journal – Card… [+4907 chars]",
+      "description": "Frequent night-shift work is associated with differences in the structure of the heart and how the heart muscle functions, according to a new study published today in the European Heart Journal – Cardiovascular Imaging.",
+      "publishedAt": "2026-11-19T12:39:00Z",
       "source": {
         "id": null,
         "name": "News-Medical.Net"
       },
-      "author": null,
       "title": "Frequent night shifts linked to changes in heart structure and function - News-Medical",
-      "description": "Frequent night-shift work is associated with differences in the structure of the heart and how the heart muscle functions, according to a new study published today in the European Heart Journal – Cardiovascular Imaging.",
       "url": "https://www.news-medical.net/news/20261119/Frequent-night-shifts-linked-to-changes-in-heart-structure-and-function.aspx",
-      "urlToImage": "https://www.news-medical.net/image-handler/picture/2017/1/Anatomy_of_Human_Heart.-Liya_Graphics_5ac9d64765b747899bc4a9ef77468432-620x480.jpg",
-      "publishedAt": "2026-11-19T12:39:00Z",
-      "content": "Frequent night-shift work is associated with differences in the structure of the heart andhow the heart muscle functions, according to a new study published today in the European Heart Journal – Card… [+4907 chars]"
+      "urlToImage": "https://www.news-medical.net/image-handler/picture/2017/1/Anatomy_of_Human_Heart.-Liya_Graphics_5ac9d64765b747899bc4a9ef77468432-620x480.jpg"
     },
     {
+      "author": "https://www.facebook.com/EatingWell/",
+      "content": "Cannabis has become a normal part of daily life for millions of Americans. Dispensaries operate openly in many states, edibles are widely available and many people treat an occasional gummy as casual… [+5496 chars]",
+      "description": "A new study links regular cannabis use to a 40% higher stroke risk in adults. Learn how cannabis habits may affect your heart health according to research.",
+      "publishedAt": "2026-11-19T07:20:46Z",
       "source": {
         "id": null,
         "name": "Eatingwell.com"
       },
-      "author": "https://www.facebook.com/EatingWell/",
       "title": "This Habit Could Raise Your Stroke Risk by 40%, New Study Suggests - EatingWell",
-      "description": "A new study links regular cannabis use to a 40% higher stroke risk in adults. Learn how cannabis habits may affect your heart health according to research.",
       "url": "https://www.eatingwell.com/habit-could-raise-stroke-risk-study-12264238",
-      "urlToImage": "https://www.eatingwell.com/thmb/mA0SUq033wkPCj71Ihww99XHf6U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/This-Habit-Could-Raise-Your-Stroke-Risk-by-40-New-Study-Suggests-dbe2eb1244f84bdaa61a4c35694e98bf.jpg",
-      "publishedAt": "2026-11-19T07:20:46Z",
-      "content": "Cannabis has become a normal part of daily life for millions of Americans. Dispensaries operate openly in many states, edibles are widely available and many people treat an occasional gummy as casual… [+5496 chars]"
+      "urlToImage": "https://www.eatingwell.com/thmb/mA0SUq033wkPCj71Ihww99XHf6U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/This-Habit-Could-Raise-Your-Stroke-Risk-by-40-New-Study-Suggests-dbe2eb1244f84bdaa61a4c35694e98bf.jpg"
     },
     {
+      "author": "Amber Dance",
+      "content": "Sandra Tiguila, an adventurous eater, enjoyed a bison sausage breakfast sandwich while dining out in August of 2025. On the drive home, she noticed a rash appearing on her wrist. The burning sensatio… [+12017 chars]",
+      "description": "When alpha-gal syndrome first emerged, it was a baffling medical mystery. Today, diagnoses are rising, yet much about this potentially life-threatening condition remains unexplained.",
+      "publishedAt": "2026-11-19T02:53:45Z",
       "source": {
         "id": null,
         "name": "Knowablemagazine.org"
       },
-      "author": "Amber Dance",
       "title": "The quest to understand a tick-borne allergy to red meat - Knowable Magazine",
-      "description": "When alpha-gal syndrome first emerged, it was a baffling medical mystery. Today, diagnoses are rising, yet much about this potentially life-threatening condition remains unexplained.",
       "url": "https://knowablemagazine.org/content/article/health-disease/2026/red-meat-allergy-how-ticks-spread-alpha-gal-syndrome",
-      "urlToImage": "https://knowablemagazine.org/docserver/fulltext/alpha-gal-1200x630.jpg",
-      "publishedAt": "2026-11-19T02:53:45Z",
-      "content": "Sandra Tiguila, an adventurous eater, enjoyed a bison sausage breakfast sandwich while dining out in August of 2025. On the drive home, she noticed a rash appearing on her wrist. The burning sensatio… [+12017 chars]"
+      "urlToImage": "https://knowablemagazine.org/docserver/fulltext/alpha-gal-1200x630.jpg"
     },
     {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "Emily Anthes",
-      "title": "N.I.H. Will Move Final Group of Retired Research Chimps to Sanctuary",
+      "content": "The National Institutes of Health, which stopped supporting invasive research on chimpanzees in 2015, previously said the animals were too old and frail to move.",
       "description": "The National Institutes of Health, which stopped supporting invasive research on chimpanzees in 2015, previously said the animals were too old and frail to move.",
-      "url": "https://www.nytimes.com/2026/11/18/science/nih-chimpanzees-sanctuary.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/18SCI-NIH-CHIMPS-wmlq/18SCI-NIH-CHIMPS-wmlq-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-18T19:09:37Z",
-      "content": "The National Institutes of Health, which stopped supporting invasive research on chimpanzees in 2015, previously said the animals were too old and frail to move."
-    },
-    {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Gina Kolata",
-      "title": "An Unspoken Rule Spreads Through Biotech: Share Nothing",
-      "description": "Concerns that well-funded Chinese companies will swoop in to grab new ideas for their own drug development are shaping an industry unaccustomed to such secrecy.",
-      "url": "https://www.nytimes.com/2026/11/17/science/fearing-chinese-rivals-us-biotech-adopts-a-new-norm-share-nothing.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/03/multimedia/00SCI-US-CHINA-IP-01-qhfc/00SCI-US-CHINA-IP-01-qhfc-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-18T18:06:58Z",
-      "content": "Concerns that well-funded Chinese companies will swoop in to grab new ideas for their own drug development are shaping an industry unaccustomed to such secrecy."
+      "title": "N.I.H. Will Move Final Group of Retired Research Chimps to Sanctuary",
+      "url": "https://www.nytimes.com/2026/11/18/science/nih-chimpanzees-sanctuary.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/18SCI-NIH-CHIMPS-wmlq/18SCI-NIH-CHIMPS-wmlq-mediumSquareAt3X.jpg"
     },
     {
+      "author": "Gina Kolata",
+      "content": "Concerns that well-funded Chinese companies will swoop in to grab new ideas for their own drug development are shaping an industry unaccustomed to such secrecy.",
+      "description": "Concerns that well-funded Chinese companies will swoop in to grab new ideas for their own drug development are shaping an industry unaccustomed to such secrecy.",
+      "publishedAt": "2026-11-18T18:06:58Z",
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "An Unspoken Rule Spreads Through Biotech: Share Nothing",
+      "url": "https://www.nytimes.com/2026/11/17/science/fearing-chinese-rivals-us-biotech-adopts-a-new-norm-share-nothing.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/03/multimedia/00SCI-US-CHINA-IP-01-qhfc/00SCI-US-CHINA-IP-01-qhfc-mediumSquareAt3X.jpg"
+    },
+    {
+      "author": "Elie Dolgin",
+      "content": "Hit the gym or lose your muscle. Thats the warning many people hear when starting a GLP-1 weight-loss drug.\r\nNow, researchers in Australia have some of the first rigorous evidence that pumping iron i… [+72 chars]",
+      "description": "Researchers have some of the first rigorous evidence that pumping iron is worth the effort, though perhaps not for the reason most people expect.",
+      "publishedAt": "2026-11-18T18:00:00Z",
       "source": {
         "id": "the-washington-post",
         "name": "The Washington Post"
       },
-      "author": "Elie Dolgin",
       "title": "Lifting weights on a GLP-1 is critical — but not because it saves muscle - The Washington Post",
-      "description": "Researchers have some of the first rigorous evidence that pumping iron is worth the effort, though perhaps not for the reason most people expect.",
       "url": "https://www.washingtonpost.com/health/2026/11/18/lifting-weights-glp-1-is-critical-not-because-it-saves-muscle/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/5VYRD2LJZLPIZ35CGGSNURH5PA.jpg&w=1440",
-      "publishedAt": "2026-11-18T18:00:00Z",
-      "content": "Hit the gym or lose your muscle. Thats the warning many people hear when starting a GLP-1 weight-loss drug.\r\nNow, researchers in Australia have some of the first rigorous evidence that pumping iron i… [+72 chars]"
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/5VYRD2LJZLPIZ35CGGSNURH5PA.jpg&w=1440"
     },
     {
+      "author": null,
+      "content": "Officials at the Centers for Disease Control and Prevention reportedly declined to publish an alert to doctors about the risks of measles during pregnancy, according to reporting from The Washington … [+7431 chars]",
+      "description": "Scientists wanted to share research with physicians about the effects of the disease, but the Trump admin’s CDC declined their request.",
+      "publishedAt": "2026-11-18T17:11:11Z",
       "source": {
         "id": null,
         "name": "HuffPost"
       },
-      "author": null,
       "title": "A New Report Detailed The Risk Of Measles During Pregnancy. Scientists Say It Was Quietly Buried By The CDC. - HuffPost",
-      "description": "Scientists wanted to share research with physicians about the effects of the disease, but the Trump admin’s CDC declined their request.",
       "url": "https://www.huffpost.com/entry/measles-pregnancy-report-buried-by-cdc_l_6afc9503e4b076227f01219b",
-      "urlToImage": "https://img.huffingtonpost.com/asset/6afcd59a180000d4cc94c677.jpeg?ops=500_281%2Cscalefit_1200_630",
-      "publishedAt": "2026-11-18T17:11:11Z",
-      "content": "Officials at the Centers for Disease Control and Prevention reportedly declined to publish an alert to doctors about the risks of measles during pregnancy, according to reporting from The Washington … [+7431 chars]"
+      "urlToImage": "https://img.huffingtonpost.com/asset/6afcd59a180000d4cc94c677.jpeg?ops=500_281%2Cscalefit_1200_630"
     },
     {
+      "author": "https://www.facebook.com/verywell",
+      "content": "<ul><li>Raspberries are high in fiber and low in sugar, which can help manage blood sugar.</li><li>Avocados are rich in healthy fats and fiber and are naturally low in carbohydrates.</li><li>Eat frui… [+3401 chars]",
+      "description": "We asked two registered dietitians for the best fruits to eat for managing high blood sugar.",
+      "publishedAt": "2026-11-18T15:00:00Z",
       "source": {
         "id": null,
         "name": "Verywellhealth.com"
       },
-      "author": "https://www.facebook.com/verywell",
       "title": "Dietitians Share the 2 Best Fruits for Managing High Blood Sugar - Verywell Health",
-      "description": "We asked two registered dietitians for the best fruits to eat for managing high blood sugar.",
       "url": "https://www.verywellhealth.com/best-fruits-managing-high-blood-sugar-12238092",
-      "urlToImage": "https://www.verywellhealth.com/thmb/DiZZvHqxumr4AuUVDXbucWbL1K0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/VWH-GettyImages-1503811895-7f28fd01f1e141b18eabc02828fa0283.jpg",
-      "publishedAt": "2026-11-18T15:00:00Z",
-      "content": "<ul><li>Raspberries are high in fiber and low in sugar, which can help manage blood sugar.</li><li>Avocados are rich in healthy fats and fiber and are naturally low in carbohydrates.</li><li>Eat frui… [+3401 chars]"
+      "urlToImage": "https://www.verywellhealth.com/thmb/DiZZvHqxumr4AuUVDXbucWbL1K0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/VWH-GettyImages-1503811895-7f28fd01f1e141b18eabc02828fa0283.jpg"
     },
     {
+      "author": "Lise Funderburg",
+      "content": "Aging issues — like changes in mobility, cognition and medical needs — seem to affect not whether many older people travel, but how. Here are some tips on how to vacation together.",
+      "description": "Aging issues — like changes in mobility, cognition and medical needs — seem to affect not whether many older people travel, but how. Here are some tips on how to vacation together.",
+      "publishedAt": "2026-11-18T14:46:05Z",
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Lise Funderburg",
       "title": "How to Travel with Older Adults",
-      "description": "Aging issues — like changes in mobility, cognition and medical needs — seem to affect not whether many older people travel, but how. Here are some tips on how to vacation together.",
       "url": "https://www.nytimes.com/2026/11/18/travel/seniors-older-adults-travel-hotels-flights.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/22/travel/18trav101-seniors-illo/18trav101-seniors-illo-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-18T14:46:05Z",
-      "content": "Aging issues — like changes in mobility, cognition and medical needs — seem to affect not whether many older people travel, but how. Here are some tips on how to vacation together."
+      "urlToImage": "https://static01.nyt.com/images/2026/11/22/travel/18trav101-seniors-illo/18trav101-seniors-illo-mediumSquareAt3X.jpg"
     },
     {
+      "author": "Michael Irving",
+      "content": "A 47-year-old woman in Germany with three different autoimmune diseases entered complete remission after an experimental treatment that effectively reset her immune system.\r\nThe patient previously re… [+6672 chars]",
+      "description": "A 47-year-old woman in Germany with three different autoimmune diseases entered complete remission after an experimental treatment that effectively reset her immune system.",
+      "publishedAt": "2026-11-18T13:03:18Z",
       "source": {
         "id": null,
         "name": "ScienceAlert"
       },
-      "author": "Michael Irving",
       "title": "Woman With 3 Autoimmune Diseases Entered Remission After Immune 'Reset' - ScienceAlert",
-      "description": "A 47-year-old woman in Germany with three different autoimmune diseases entered complete remission after an experimental treatment that effectively reset her immune system.",
       "url": "https://www.sciencealert.com/a-woman-with-3-autoimmune-diseases-entered-remission-after-an-immune-reset",
-      "urlToImage": "https://www.sciencealert.com/images/2026/11/Science-Photo-Library-illustration-of-a-CAR-T-cell-1200x675.png",
-      "publishedAt": "2026-11-18T13:03:18Z",
-      "content": "A 47-year-old woman in Germany with three different autoimmune diseases entered complete remission after an experimental treatment that effectively reset her immune system.\r\nThe patient previously re… [+6672 chars]"
+      "urlToImage": "https://www.sciencealert.com/images/2026/11/Science-Photo-Library-illustration-of-a-CAR-T-cell-1200x675.png"
     },
     {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "Apoorva Mandavilli and Dani Blum",
-      "title": "Measles Is Officially Back in the United States. What Now?",
+      "content": "It may take years for the country to regain elimination status. In the meantime, communities will need to adopt numerous strategies to protect people.",
       "description": "It may take years for the country to regain elimination status. In the meantime, communities will need to adopt numerous strategies to protect people.",
-      "url": "https://www.nytimes.com/2026/11/17/us/measles-us-whats-next.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/17/multimedia/17dc-measles-look-forward-01-zkgv/17dc-measles-look-forward-01-zkgv-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-17T18:12:15Z",
-      "content": "It may take years for the country to regain elimination status. In the meantime, communities will need to adopt numerous strategies to protect people."
-    },
-    {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
+      "title": "Measles Is Officially Back in the United States. What Now?",
+      "url": "https://www.nytimes.com/2026/11/17/us/measles-us-whats-next.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/17/multimedia/17dc-measles-look-forward-01-zkgv/17dc-measles-look-forward-01-zkgv-mediumSquareAt3X.jpg"
+    },
+    {
       "author": "Benjamin Mueller",
-      "title": "John H. Powers III to Lead NIAID Amid Turmoil",
+      "content": "Dr. John H. Powers III was appointed director of the National Institute of Allergy and Infectious Diseases, a powerful post held for decades by Dr. Anthony Fauci.",
       "description": "Dr. John H. Powers III was appointed director of the National Institute of Allergy and Infectious Diseases, a powerful post held for decades by Dr. Anthony Fauci.",
-      "url": "https://www.nytimes.com/2026/11/16/science/niaid-chief-john-powers.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/16/science/16SCI-NIAID-02/16SCI-NIAID-02-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-17T16:54:30Z",
-      "content": "Dr. John H. Powers III was appointed director of the National Institute of Allergy and Infectious Diseases, a powerful post held for decades by Dr. Anthony Fauci."
-    },
-    {
       "source": {
-        "id": null,
-        "name": "Core77.com"
+        "id": "the-new-york-times",
+        "name": "The New York Times"
       },
-      "author": null,
-      "title": "Recycled Plastic, 3D-Printed Into Public Outdoor Gym Equipment - Core77",
-      "description": "These outdoor Gym Elements are by The New Raw, a Rotterdam-based design/fabrication studio. They comprise an outdoor gym placed along the Yellow Carpet, a 5km walking and running loop weaving through Rotterdam. Gym Elements is a series of outdoor fitness obje…",
-      "url": "https://www.core77.com/posts/145922/Recycled-Plastic-3D-Printed-Into-Public-Outdoor-Gym-Equipment",
-      "urlToImage": "https://s3files.core77.com/blog/images/lead_n_spotlight/1857274_lead_400_145922_.jpg",
-      "publishedAt": "2026-11-17T16:04:29Z",
-      "content": "These outdoor Gym Elements are by The New Raw, a Rotterdam-based design/fabrication studio. They comprise an outdoor gym placed along the Yellow Carpet, a 5km walking and running loop weaving through… [+924 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "nejm.org"
-      },
-      "author": null,
-      "title": "Semaglutide for the Treatment of Obesity in Children 6 to - NEJM",
-      "description": "Childhood obesity is a chronic, neurometabolic disease with limited options for medical\ntreatments that are efficacious and durable. Once-weekly subcutaneous semaglutide\nis approved for the treatme...",
-      "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2604058",
-      "urlToImage": "https://www.nejm.org/cms/asset/4c798dc0-8074-4524-b559-e89781008201/nejmoa2604058_f1.jpg",
-      "publishedAt": "2026-11-17T03:54:05Z",
-      "content": "Copyright © 2026 \r\n Massachusetts Medical Society. \r\n All rights reserved, including those for text and data mining, AI training, and similar technologies. \r\n Electronic ISSN 1533-4406. Print ISSN 00… [+78 chars]"
+      "title": "John H. Powers III to Lead NIAID Amid Turmoil",
+      "url": "https://www.nytimes.com/2026/11/16/science/niaid-chief-john-powers.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/16/science/16SCI-NIAID-02/16SCI-NIAID-02-mediumSquareAt3X.jpg"
     }
-  ]
+  ],
+  "articles_count": 84,
+  "category": "health",
+  "country": "us",
+  "fetched_at": "2026-11-25T07:21:44.929363Z",
+  "providers": [
+    "rss"
+  ],
+  "source": "top_headlines"
 }

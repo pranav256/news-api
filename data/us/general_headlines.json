@@ -1,819 +1,909 @@
 {
-  "source": "top_headlines",
-  "country": "us",
-  "category": "general",
-  "providers": [
-    "newsapi",
-    "rss"
-  ],
-  "fetched_at": "2026-11-25T00:09:54.387694+00:00",
-  "articles_count": 62,
   "articles": [
     {
+      "author": "The Associated Press",
+      "content": "Senegal won the Africa Cup on the field in Morocco in January and then lost it in a legal case in March because its players walked off the field in protest in second-half stoppage time.",
+      "description": "Senegal won the Africa Cup on the field in Morocco in January and then lost it in a legal case in March because its players walked off the field in protest in second-half stoppage time.",
+      "publishedAt": "2026-11-25T06:43:23Z",
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
+        "id": "npr-news",
+        "name": "NPR News"
       },
-      "author": "Glenn Thrush",
-      "title": "Prosecutor Urged Justice Dept. to Reconsider Charges Against Fugitive, Email Shows",
-      "description": "Aaron Reitz, the U.S. attorney in Houston, questioned the indictment of a Chicago doctor who fled the country after being accused of defrauding taxpayers. The man later donated to Mr. Reitz’s campaign.",
-      "url": "https://www.nytimes.com/2026/11/24/us/politics/aaron-reitz-justice-dept-anosh-ahmed.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-justice-lpcq/24dc-justice-lpcq-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-24T23:55:00Z",
-      "content": "Aaron Reitz, the U.S. attorney in Houston, questioned the indictment of a Chicago doctor who fled the country after being accused of defrauding taxpayers. The man later donated to Mr. Reitz’s campaign."
+      "title": "Africa Cup title given back to Senegal after sports court rules against Morocco",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-6053783/africa-cup-senegal-morocco",
+      "urlToImage": null
     },
     {
+      "author": "Alan Feuer and Hari Raj",
+      "content": "Kilmar Armando Abrego Garcia, who was wrongfully deported last year, has left for Spain. He faced the prospect that the Trump administration might deport him to Liberia.",
+      "description": "Kilmar Armando Abrego Garcia, who was wrongfully deported last year, has left for Spain. He faced the prospect that the Trump administration might deport him to Liberia.",
+      "publishedAt": "2026-11-25T06:43:00Z",
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Alan Feuer",
-      "title": "Abrego Garcia Will Voluntarily Leave U.S., Ending 20-Month Legal Ordeal",
-      "description": "Kilmar Armando Abrego Garcia, who was wrongfully deported last year, is leaving for Spain. He had faced the prospect that the Trump administration might deport him to Liberia.",
+      "title": "Abrego Garcia Voluntarily Leaves U.S., Ending 20-Month Legal Fight",
       "url": "https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-abrego-zvwj/24dc-abrego-zvwj-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-24T23:52:35Z",
-      "content": "Kilmar Armando Abrego Garcia, who was wrongfully deported last year, is leaving for Spain. He had faced the prospect that the Trump administration might deport him to Liberia."
+      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-abrego-zvwj/24dc-abrego-zvwj-mediumSquareAt3X.jpg"
     },
     {
+      "author": "Trish Bendix",
+      "content": "Seth Meyers congratulated the former New York mayor and Trump ally for “A, receiving the Presidential Medal of Freedom and B, still being alive.”",
+      "description": "Seth Meyers congratulated the former New York mayor and Trump ally for “A, receiving the Presidential Medal of Freedom and B, still being alive.”",
+      "publishedAt": "2026-11-25T06:31:34Z",
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Maia Spoto and Jack Healy",
-      "title": "An Explosion Is Coming to Iowa. And Residents Can’t Do a Thing About It.",
-      "description": "Residents of Middletown, which adjoins an Army facility where dangerous chemicals will be detonated Wednesday, are taping up their doors and getting ready to flee.",
-      "url": "https://www.nytimes.com/2026/11/24/us/iowa-ammunition-plant-lead-explosion-middletown.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24nat-iowa-blast-medical-1-tjmz/24nat-iowa-blast-medical-1-tjmz-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-24T23:36:56Z",
-      "content": "Residents of Middletown, which adjoins an Army facility where dangerous chemicals will be detonated Wednesday, are taping up their doors and getting ready to flee."
+      "title": "Late Night Rips Into Trump for Honoring Rudy Giuliani",
+      "url": "https://www.nytimes.com/2026/11/25/arts/television/late-night-rips-into-trump-for-honoring-rudy-giuliani.html",
+      "urlToImage": null
     },
     {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Devlin Barrett and Ana Swanson",
-      "title": "Blanche Downplays Questions Over Nvidia as Investigators Examine Company’s Customers",
-      "description": "Justice Department investigators have gathered evidence of Nvidia’s high-powered computer chips being illegally diverted by other firms to China, according to people familiar with the inquiries.",
-      "url": "https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-doj-nvidia-01-zpmh/24dc-doj-nvidia-01-zpmh-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-24T23:27:36Z",
-      "content": "Justice Department investigators have gathered evidence of Nvidia’s high-powered computer chips being illegally diverted by other firms to China, according to people familiar with the inquiries."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Stephen Witt",
-      "title": "Why Jensen Huang Was Reinstated at Nvidia",
-      "description": "If I were on the board at Nvidia, I would have voted to bring him back, too.",
-      "url": "https://www.nytimes.com/2026/11/24/opinion/jensen-huang-nvidia-ceo-reinstated.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24witt-vzbp/24witt-vzbp-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-24T23:08:14Z",
-      "content": "If I were on the board at Nvidia, I would have voted to bring him back, too."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Michael Levenson",
-      "title": "‘Carthage Resident Al Gore’ Buys His Hometown Tennessee Newspaper",
-      "description": "The Carthage Courier announced this week that the former vice president was buying the weekly paper, which has been publishing since 1913.",
-      "url": "https://www.nytimes.com/2026/11/24/business/media/al-gore-newspaper-carthage-courier.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24xp-gore-newpaper-qptl/24xp-gore-newpaper-qptl-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-24T23:06:01Z",
-      "content": "The Carthage Courier announced this week that the former vice president was buying the weekly paper, which has been publishing since 1913."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "Aaron Retica and Joey Solomon",
-      "title": "I Was Disabled in Middle Age. It Opened Up the World.",
+      "content": "Life on the wrong side of the Sharpie line is tough but instructive.",
       "description": "Life on the wrong side of the Sharpie line is tough but instructive.",
+      "publishedAt": "2026-11-25T06:01:34Z",
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "My Knee Is Wrecked. It Opened My Eyes.",
       "url": "https://www.nytimes.com/2026/11/24/opinion/disability-politics-trump-sharpie-line.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24retica-promo-zftk/24retica-promo-zftk-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-24T22:18:35Z",
-      "content": "Life on the wrong side of the Sharpie line is tough but instructive."
+      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24retica-promo-zftk/24retica-promo-zftk-mediumSquareAt3X.jpg"
     },
     {
+      "author": "Stephen Witt",
+      "content": "If I were on the board at Nvidia, I would have voted to bring him back, too.",
+      "description": "If I were on the board at Nvidia, I would have voted to bring him back, too.",
+      "publishedAt": "2026-11-25T03:56:57Z",
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Quinn Glabicki",
-      "title": "What to Know About the Planned Explosion in Middletown, Iowa",
-      "description": "The Army plans to blow up a stockpile of dangerously degrading explosives at a facility in southeastern Iowa on Wednesday morning, Army officials said Tuesday.",
-      "url": "https://www.nytimes.com/2026/11/21/climate/what-to-know-about-the-planned-explosion-in-iowa.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/21/multimedia/21CLI-IOWA-FAQ-tpqc/21CLI-IOWA-FAQ-tpqc-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-24T22:08:38Z",
-      "content": "The Army plans to blow up a stockpile of dangerously degrading explosives at a facility in southeastern Iowa on Wednesday morning, Army officials said Tuesday."
+      "title": "Why Jensen Huang Was Reinstated at Nvidia",
+      "url": "https://www.nytimes.com/2026/11/24/opinion/jensen-huang-nvidia-ceo-reinstated.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/26/multimedia/24witt-vzbp/24witt-vzbp-mediumSquareAt3X.jpg"
     },
     {
+      "author": "Ken Belson",
+      "content": "Mrs. Ford, who took over the team after the 2014 death of her husband, William Clay Ford Sr., was one of a handful of female owners in the N.F.L.",
+      "description": "Mrs. Ford, who took over the team after the 2014 death of her husband, William Clay Ford Sr., was one of a handful of female owners in the N.F.L.",
+      "publishedAt": "2026-11-25T03:52:08Z",
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Tripp Mickle and Kalley Huang",
-      "title": "Jensen Huang Apologizes to Nvidia Employees, Says He Is in Therapy",
-      "description": "A day after returning to his company, Mr. Huang acknowledged that he had violated Nvidia’s code of conduct and “made some terrible mistakes.”",
-      "url": "https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/NVIDIA-MEETING-1-ltjp/NVIDIA-MEETING-1-ltjp-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-24T21:46:11Z",
-      "content": "A day after returning to his company, Mr. Huang acknowledged that he had violated Nvidia’s code of conduct and “made some terrible mistakes.”"
+      "title": "Martha Firestone Ford, Owner of Detroit Lions, Dies at 101",
+      "url": "https://www.nytimes.com/2026/11/24/business/martha-firestone-ford-dead.html",
+      "urlToImage": "https://static01.nyt.com/images/2021/02/22/obituaries/Ford-01/merlin_184116561_86296d93-61d7-42f1-a351-868f49df8338-mediumSquareAt3X.jpg"
     },
     {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "David A. Fahrenthold, Zachary Small and Luke Broadwater",
-      "title": "Trump Ballroom and Other Projects Got $300 Million Donation Boost",
-      "description": "The Trump administration declined to say who donated those funds to an account funding presidential projects like the White House ballroom and the triumphal arch.",
-      "url": "https://www.nytimes.com/2026/11/24/us/politics/account-park-service-trump-ballroom-donation.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24DC-DONATION-fwlk/24DC-DONATION-fwlk-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-24T21:14:02Z",
-      "content": "The Trump administration declined to say who donated those funds to an account funding presidential projects like the White House ballroom and the triumphal arch."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "Evan Halper, Quinn Glabicki and Hiroko Tabuchi",
-      "title": "Army’s Iowa Ammunition Plant Explosion on Schedule for Wednesday Morning",
+      "content": "Freezing temperatures threaten to make the chemicals even more unstable, while winds could carry a toxic lead plume up to 100 miles away.",
       "description": "Freezing temperatures threaten to make the chemicals even more unstable, while winds could carry a toxic lead plume up to 100 miles away.",
+      "publishedAt": "2026-11-25T03:36:32Z",
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "Army’s Iowa Ammunition Plant Explosion on Schedule for Wednesday Morning",
       "url": "https://www.nytimes.com/2026/11/24/climate/iowa-army-ammunition-plant-explostion.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24CLI-IOWA-BLAST-PRESS1-hwmf/24CLI-IOWA-BLAST-PRESS1-hwmf-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-24T21:13:20Z",
-      "content": "Freezing temperatures threaten to make the chemicals even more unstable, while winds could carry a toxic lead plume up to 100 miles away."
+      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24CLI-IOWA-BLAST-PRESS1-hwmf/24CLI-IOWA-BLAST-PRESS1-hwmf-mediumSquareAt3X.jpg"
     },
     {
+      "author": "Julian E. Barnes, Maggie Haberman and Jonathan Swan",
+      "content": "After President Trump said Jensen Huang was not a security threat, U.S. intelligence agencies told aides to lawmakers there was no evidence the woman at the heart of the scandal took directions from the Chinese spy agency.",
+      "description": "After President Trump said Jensen Huang was not a security threat, U.S. intelligence agencies told aides to lawmakers there was no evidence the woman at the heart of the scandal took directions from the Chinese spy agency.",
+      "publishedAt": "2026-11-25T03:15:54Z",
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
+      "title": "Officials Brief Congressional Staff on Intelligence Surrounding Nvidia Affair",
+      "url": "https://www.nytimes.com/2026/11/24/us/politics/intelligence-nvidia-affair-congressional-briefing.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-spy-chip-02-tgvj/24dc-spy-chip-02-tgvj-mediumSquareAt3X.jpg"
+    },
+    {
+      "author": "Charlie Savage",
+      "content": "The acknowledgment came hours after the House’s top lawyer said the department mischaracterized his view on constitutional protections for lawmakers.",
+      "description": "The acknowledgment came hours after the House’s top lawyer said the department mischaracterized his view on constitutional protections for lawmakers.",
+      "publishedAt": "2026-11-25T02:20:55Z",
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "Justice Dept. Apologizes for Making False Statement to Judge in Omar Case",
+      "url": "https://www.nytimes.com/2026/11/24/us/politics/house-lawyer-ilhan-omar-search.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-omar-vbjl/24dc-omar-vbjl-mediumSquareAt3X.jpg"
+    },
+    {
+      "author": "Maia Spoto and Jack Healy",
+      "content": "Residents of Middletown, which adjoins an Army facility where dangerous chemicals will be detonated Wednesday, are taping up their doors and getting ready to flee.",
+      "description": "Residents of Middletown, which adjoins an Army facility where dangerous chemicals will be detonated Wednesday, are taping up their doors and getting ready to flee.",
+      "publishedAt": "2026-11-25T02:06:53Z",
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "An Explosion Is Coming to Iowa. And Residents Can’t Do a Thing About It.",
+      "url": "https://www.nytimes.com/2026/11/24/us/iowa-ammunition-plant-lead-explosion-middletown.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24nat-iowa-blast-medical-1-tjmz/24nat-iowa-blast-medical-1-tjmz-mediumSquareAt3X.jpg"
+    },
+    {
+      "author": "Annie Correal and Eric Schmitt",
+      "content": "The administration has halted military operations while it investigates an operation by Ecuadorean forces that killed an accused gang leader.",
+      "description": "The administration has halted military operations while it investigates an operation by Ecuadorean forces that killed an accused gang leader.",
+      "publishedAt": "2026-11-25T00:42:52Z",
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "Trump Administration Pauses Joint Operations With Ecuador",
+      "url": "https://www.nytimes.com/2026/11/24/world/americas/ecuador-us-military-operations-trump.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/10/23/world/24int-ecuador-us-strikes/24int-ecuador-us-strikes-mediumSquareAt3X.jpg"
+    },
+    {
+      "author": "Glenn Thrush",
+      "content": "Aaron Reitz, the U.S. attorney in Houston, questioned the indictment of a Chicago doctor who fled the country after being accused of defrauding taxpayers. The man later donated to Mr. Reitz’s campaign.",
+      "description": "Aaron Reitz, the U.S. attorney in Houston, questioned the indictment of a Chicago doctor who fled the country after being accused of defrauding taxpayers. The man later donated to Mr. Reitz’s campaign.",
+      "publishedAt": "2026-11-24T23:55:00Z",
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "Prosecutor Urged Justice Dept. to Reconsider Charges Against Fugitive, Email Shows",
+      "url": "https://www.nytimes.com/2026/11/24/us/politics/aaron-reitz-justice-dept-anosh-ahmed.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-justice-lpcq/24dc-justice-lpcq-mediumSquareAt3X.jpg"
+    },
+    {
+      "author": "Devlin Barrett and Ana Swanson",
+      "content": "Justice Department investigators have gathered evidence of Nvidia’s high-powered computer chips being illegally diverted by other firms to China, according to people familiar with the inquiries.",
+      "description": "Justice Department investigators have gathered evidence of Nvidia’s high-powered computer chips being illegally diverted by other firms to China, according to people familiar with the inquiries.",
+      "publishedAt": "2026-11-24T23:27:37Z",
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "Blanche Downplays Questions Over Nvidia as Investigators Examine Company’s Customers",
+      "url": "https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-doj-nvidia-01-zpmh/24dc-doj-nvidia-01-zpmh-mediumSquareAt3X.jpg"
+    },
+    {
+      "author": "Michael Levenson",
+      "content": "The Carthage Courier announced this week that the former vice president was buying the weekly paper, which has been publishing since 1913.",
+      "description": "The Carthage Courier announced this week that the former vice president was buying the weekly paper, which has been publishing since 1913.",
+      "publishedAt": "2026-11-24T23:06:01Z",
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "‘Carthage Resident Al Gore’ Buys His Hometown Tennessee Newspaper",
+      "url": "https://www.nytimes.com/2026/11/24/business/media/al-gore-newspaper-carthage-courier.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24xp-gore-newpaper-qptl/24xp-gore-newpaper-qptl-mediumSquareAt3X.jpg"
+    },
+    {
+      "author": "Quinn Glabicki",
+      "content": "The Army plans to blow up a stockpile of dangerously degrading explosives at a facility in southeastern Iowa on Wednesday morning, Army officials said Tuesday.",
+      "description": "The Army plans to blow up a stockpile of dangerously degrading explosives at a facility in southeastern Iowa on Wednesday morning, Army officials said Tuesday.",
+      "publishedAt": "2026-11-24T22:08:38Z",
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "What to Know About the Planned Explosion in Middletown, Iowa",
+      "url": "https://www.nytimes.com/2026/11/21/climate/what-to-know-about-the-planned-explosion-in-iowa.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/21/multimedia/21CLI-IOWA-FAQ-tpqc/21CLI-IOWA-FAQ-tpqc-mediumSquareAt3X.jpg"
+    },
+    {
+      "author": "Tripp Mickle and Kalley Huang",
+      "content": "A day after returning to his company, Mr. Huang acknowledged that he had violated Nvidia’s code of conduct and “made some terrible mistakes.”",
+      "description": "A day after returning to his company, Mr. Huang acknowledged that he had violated Nvidia’s code of conduct and “made some terrible mistakes.”",
+      "publishedAt": "2026-11-24T21:46:11Z",
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "Jensen Huang Apologizes to Nvidia Employees, Says He Is in Therapy",
+      "url": "https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/NVIDIA-MEETING-1-ltjp/NVIDIA-MEETING-1-ltjp-mediumSquareAt3X.jpg"
+    },
+    {
+      "author": "David A. Fahrenthold, Zachary Small and Luke Broadwater",
+      "content": "The Trump administration declined to say who donated those funds to an account funding presidential projects like the White House ballroom and the triumphal arch.",
+      "description": "The Trump administration declined to say who donated those funds to an account funding presidential projects like the White House ballroom and the triumphal arch.",
+      "publishedAt": "2026-11-24T21:14:02Z",
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "Trump Ballroom and Other Projects Got $300 Million Donation Boost",
+      "url": "https://www.nytimes.com/2026/11/24/us/politics/account-park-service-trump-ballroom-donation.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24DC-DONATION-fwlk/24DC-DONATION-fwlk-mediumSquareAt3X.jpg"
+    },
+    {
       "author": "Aruni Soni and Jason Karaian",
-      "title": "Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally",
+      "content": "Shares have veered wildly for days, pushed and pulled by the drama at Nvidia and the rise and fall of Anthropic’s stock after its blockbuster public offering.",
       "description": "Shares have veered wildly for days, pushed and pulled by the drama at Nvidia and the rise and fall of Anthropic’s stock after its blockbuster public offering.",
-      "url": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24biz-markets-zjwk/24biz-markets-zjwk-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-24T21:12:53Z",
-      "content": "Shares have veered wildly for days, pushed and pulled by the drama at Nvidia and the rise and fall of Anthropic’s stock after its blockbuster public offering."
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally",
+      "url": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24biz-markets-zjwk/24biz-markets-zjwk-mediumSquareAt3X.jpg"
     },
     {
-      "source": {
-        "id": "npr-news",
-        "name": "NPR News"
-      },
       "author": "Anna King",
-      "title": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
+      "content": "Washington's $9 billion industry grows more than 70% of the nation's fresh apples. Farmers are being pressed by high costs, tariffs and a strong dollar that diminishes foreign purchasing power.",
       "description": "Washington's $9 billion industry grows more than 70% of the nation's fresh apples. Farmers are being pressed by high costs, tariffs and a strong dollar that diminishes foreign purchasing power.",
-      "url": "https://www.npr.org/sections/the-picture-show/2026/11/24/g-s1-154620/how-high-costs-are-squeezing-apple-producers",
-      "urlToImage": null,
       "publishedAt": "2026-11-24T21:09:29Z",
-      "content": "Washington's $9 billion industry grows more than 70% of the nation's fresh apples. Farmers are being pressed by high costs, tariffs and a strong dollar that diminishes foreign purchasing power."
-    },
-    {
       "source": {
         "id": "npr-news",
         "name": "NPR News"
       },
+      "title": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
+      "url": "https://www.npr.org/sections/the-picture-show/2026/11/24/g-s1-154620/how-high-costs-are-squeezing-apple-producers",
+      "urlToImage": null
+    },
+    {
       "author": "Jenna McLaughlin",
-      "title": "The U.S. government is investigating Iranian ties to as many as 50 hacked commercial vessels",
+      "content": "The attacks, if officials who spoke to NPR are correct, may be the latest example of Iranian cyberattacks against global critical infrastructure during the war with the U.S.",
       "description": "The attacks, if officials who spoke to NPR are correct, may be the latest example of Iranian cyberattacks against global critical infrastructure during the war with the U.S.",
-      "url": "https://www.npr.org/2026/11/24/nx-s1-6052994/hack-commercial-vessels-iran",
-      "urlToImage": null,
       "publishedAt": "2026-11-24T21:04:50Z",
-      "content": "The attacks, if officials who spoke to NPR are correct, may be the latest example of Iranian cyberattacks against global critical infrastructure during the war with the U.S."
+      "source": {
+        "id": "npr-news",
+        "name": "NPR News"
+      },
+      "title": "The U.S. government is investigating Iranian ties to as many as 50 hacked commercial vessels",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6052994/hack-commercial-vessels-iran",
+      "urlToImage": null
     },
     {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "Robin Pogrebin",
-      "title": "Thelma Golden to Step Down as Head of Studio Museum in Harlem",
+      "content": "After 21 years at the helm of the Studio Museum in Harlem, where she completed its new home and helped redefine the art canon, Thelma Golden has decided it’s time to go.",
       "description": "After 21 years at the helm of the Studio Museum in Harlem, where she completed its new home and helped redefine the art canon, Thelma Golden has decided it’s time to go.",
-      "url": "https://www.nytimes.com/2026/11/24/arts/design/thelma-golden-steps-down-studio-museum-harlem.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24cul-thelma-studio-01-tjml/24cul-thelma-studio-01-tjml-mediumSquareAt3X-v2.jpg",
       "publishedAt": "2026-11-24T21:02:58Z",
-      "content": "After 21 years at the helm of the Studio Museum in Harlem, where she completed its new home and helped redefine the art canon, Thelma Golden has decided it’s time to go."
-    },
-    {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
+      "title": "Thelma Golden to Step Down as Head of Studio Museum in Harlem",
+      "url": "https://www.nytimes.com/2026/11/24/arts/design/thelma-golden-steps-down-studio-museum-harlem.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24cul-thelma-studio-01-tjml/24cul-thelma-studio-01-tjml-mediumSquareAt3X-v2.jpg"
+    },
+    {
       "author": "Katherine Rosman",
-      "title": "An Adored Manhattan Grocery, and Seinfeld Favorite, May Close Its Doors",
+      "content": "Zingone Bros. is beloved on the Upper West Side. That might not be enough to keep it open.",
       "description": "Zingone Bros. is beloved on the Upper West Side. That might not be enough to keep it open.",
-      "url": "https://www.nytimes.com/2026/11/24/nyregion/zingones-market-upper-west-wise-manhattan.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24met-zingones-01-thpf/24met-zingones-01-thpf-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-24T20:56:32Z",
-      "content": "Zingone Bros. is beloved on the Upper West Side. That might not be enough to keep it open."
-    },
-    {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
+      "title": "An Adored Manhattan Grocery, and Seinfeld Favorite, May Close Its Doors",
+      "url": "https://www.nytimes.com/2026/11/24/nyregion/zingones-market-upper-west-wise-manhattan.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24met-zingones-01-thpf/24met-zingones-01-thpf-mediumSquareAt3X.jpg"
+    },
+    {
       "author": "C.J. Robinson",
-      "title": "The Mississippi Senate Race Wasn’t Even This Year’s Biggest Upset",
+      "content": "We found the most unlikely winners of the 2026 midterms.",
       "description": "We found the most unlikely winners of the 2026 midterms.",
-      "url": "https://www.nytimes.com/2026/11/24/upshot/midterm-elections-upsets-predictions.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/17/multimedia/2026-11-12-senate-cook-index/2026-11-12-senate-cook-index-mediumSquareAt3X-v19.jpg",
       "publishedAt": "2026-11-24T20:19:49Z",
-      "content": "We found the most unlikely winners of the 2026 midterms."
-    },
-    {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
+      "title": "The Mississippi Senate Race Wasn’t Even This Year’s Biggest Upset",
+      "url": "https://www.nytimes.com/2026/11/24/upshot/midterm-elections-upsets-predictions.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/17/multimedia/2026-11-12-senate-cook-index/2026-11-12-senate-cook-index-mediumSquareAt3X-v19.jpg"
+    },
+    {
       "author": "Patricia Cohen",
-      "title": "Trump’s Nvidia Push Shows Companies’ Importance in Global Economic War",
+      "content": "Presidents before him have bailed out companies in times of national crisis. Mr. Trump went further: He staked the fortunes of the United States on those of a favored chief executive.",
       "description": "Presidents before him have bailed out companies in times of national crisis. Mr. Trump went further: He staked the fortunes of the United States on those of a favored chief executive.",
-      "url": "https://www.nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24Biz-nvidia-Trump-01-vqpj/24Biz-nvidia-Trump-01-vqpj-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-24T19:54:59Z",
-      "content": "Presidents before him have bailed out companies in times of national crisis. Mr. Trump went further: He staked the fortunes of the United States on those of a favored chief executive."
-    },
-    {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
+      "title": "Trump’s Nvidia Push Shows Companies’ Importance in Global Economic War",
+      "url": "https://www.nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24Biz-nvidia-Trump-01-vqpj/24Biz-nvidia-Trump-01-vqpj-mediumSquareAt3X.jpg"
+    },
+    {
       "author": "John Yoon and Emily Cochrane",
-      "title": "Broderick Wins Tennessee House Race, Giving Democrats Largest Majority in 30 Years",
+      "content": "Democrats’ midterm rout kept expanding in the House after a tech support worker ousted an eight-term Republican without having aired a single TV ad.",
       "description": "Democrats’ midterm rout kept expanding in the House after a tech support worker ousted an eight-term Republican without having aired a single TV ad.",
-      "url": "https://www.nytimes.com/2026/11/24/us/politics/tennessee-house-election-results-broderick-wins.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/23/multimedia/00pol-tennessee-upset-lqmv/00pol-tennessee-upset-lqmv-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-24T19:26:32Z",
-      "content": "Democrats’ midterm rout kept expanding in the House after a tech support worker ousted an eight-term Republican without having aired a single TV ad."
-    },
-    {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
+      "title": "Broderick Wins Tennessee House Race, Giving Democrats Largest Majority in 30 Years",
+      "url": "https://www.nytimes.com/2026/11/24/us/politics/tennessee-house-election-results-broderick-wins.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/23/multimedia/00pol-tennessee-upset-lqmv/00pol-tennessee-upset-lqmv-mediumSquareAt3X.jpg"
+    },
+    {
       "author": "Robin Pogrebin",
-      "title": "Smithsonian Boss Defends Autonomy After Report of Trump Overhaul Plan",
+      "content": "Lonnie Bunch wrote a letter intended to calm his staff after an outline of major personnel and programming changes was seen on a White House aide’s computer.",
       "description": "Lonnie Bunch wrote a letter intended to calm his staff after an outline of major personnel and programming changes was seen on a White House aide’s computer.",
-      "url": "https://www.nytimes.com/2026/11/24/arts/design/smithsonian-letter-lonnie-bunch-white-house.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24cul-bunch-letter-vmzl/24cul-bunch-letter-vmzl-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-24T19:25:21Z",
-      "content": "Lonnie Bunch wrote a letter intended to calm his staff after an outline of major personnel and programming changes was seen on a White House aide’s computer."
-    },
-    {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
+      "title": "Smithsonian Boss Defends Autonomy After Report of Trump Overhaul Plan",
+      "url": "https://www.nytimes.com/2026/11/24/arts/design/smithsonian-letter-lonnie-bunch-white-house.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24cul-bunch-letter-vmzl/24cul-bunch-letter-vmzl-mediumSquareAt3X.jpg"
+    },
+    {
       "author": "Ed Shanahan",
-      "title": "Sane Was a Prolific Graffiti Tagger in NYC. Now, a Couple is Working to Keep His Legacy Alive.",
+      "content": "A Queens couple is on a quest to keep the legacy of David Smith, better known as “Sane,” alive. In the 1980s, he was one of New York City’s most-wanted vandals.",
       "description": "A Queens couple is on a quest to keep the legacy of David Smith, better known as “Sane,” alive. In the 1980s, he was one of New York City’s most-wanted vandals.",
-      "url": "https://www.nytimes.com/2026/11/24/nyregion/graffiti-sane-nyc-david-smith-art.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/29/nyregion/29met-graffiti-sane-top/00met-graffiti-sane-top-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-24T17:29:28Z",
-      "content": "A Queens couple is on a quest to keep the legacy of David Smith, better known as “Sane,” alive. In the 1980s, he was one of New York City’s most-wanted vandals."
-    },
-    {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
+      "title": "Sane Was a Prolific Graffiti Tagger in NYC. Now, a Couple is Working to Keep His Legacy Alive.",
+      "url": "https://www.nytimes.com/2026/11/24/nyregion/graffiti-sane-nyc-david-smith-art.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/29/nyregion/29met-graffiti-sane-top/00met-graffiti-sane-top-mediumSquareAt3X.jpg"
+    },
+    {
       "author": null,
-      "title": "100 Notable Books of 2026",
+      "content": "Here is the standout fiction and nonfiction of the year, chosen by the staff of The New York Times Book Review.",
       "description": "Here is the standout fiction and nonfiction of the year, chosen by the staff of The New York Times Book Review.",
-      "url": "https://www.nytimes.com/2026/11/23/books/review/notable-books.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/24/books/24TBR-100Notables-MAIN/24TBR-100Notables-MAIN-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-24T14:41:03Z",
-      "content": "Here is the standout fiction and nonfiction of the year, chosen by the staff of The New York Times Book Review."
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "100 Notable Books of 2026",
+      "url": "https://www.nytimes.com/2026/11/23/books/review/notable-books.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/24/books/24TBR-100Notables-MAIN/24TBR-100Notables-MAIN-mediumSquareAt3X.jpg"
     },
     {
-      "source": {
-        "id": "npr-news",
-        "name": "NPR News"
-      },
       "author": "Rob Schmitz",
-      "title": "Who really owns the Albanian land Jared Kushner wants to turn into a 5-star resort?",
+      "content": "Albania's Prime Minister Edi Rama has vowed that Kushner's resort project will go ahead as planned. But an ongoing investigation by Albania's state prosecutor into forged land titles could halt the project.",
       "description": "Albania's Prime Minister Edi Rama has vowed that Kushner's resort project will go ahead as planned. But an ongoing investigation by Albania's state prosecutor into forged land titles could halt the project.",
-      "url": "https://www.npr.org/2026/11/24/g-s1-154623/albania-jared-kushner-land-deal-protests",
-      "urlToImage": null,
       "publishedAt": "2026-11-24T14:24:04Z",
-      "content": "Albania's Prime Minister Edi Rama has vowed that Kushner's resort project will go ahead as planned. But an ongoing investigation by Albania's state prosecutor into forged land titles could halt the project."
-    },
-    {
       "source": {
         "id": "npr-news",
         "name": "NPR News"
       },
+      "title": "Who really owns the Albanian land Jared Kushner wants to turn into a 5-star resort?",
+      "url": "https://www.npr.org/2026/11/24/g-s1-154623/albania-jared-kushner-land-deal-protests",
+      "urlToImage": null
+    },
+    {
       "author": "Brittney Melton",
-      "title": "Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct",
+      "content": "President Trump took credit for negotiating Jensen Huang's return as CEO of Nvidia. And, Rep. Jimmy Gomez, D-Calif., says his resignation will be effective Dec. 1.",
       "description": "President Trump took credit for negotiating Jensen Huang's return as CEO of Nvidia. And, Rep. Jimmy Gomez, D-Calif., says his resignation will be effective Dec. 1.",
-      "url": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez",
-      "urlToImage": null,
       "publishedAt": "2026-11-24T12:12:25Z",
-      "content": "President Trump took credit for negotiating Jensen Huang's return as CEO of Nvidia. And, Rep. Jimmy Gomez, D-Calif., says his resignation will be effective Dec. 1."
-    },
-    {
       "source": {
         "id": "npr-news",
         "name": "NPR News"
       },
+      "title": "Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct",
+      "url": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez",
+      "urlToImage": null
+    },
+    {
       "author": "Greg Rosalsky",
-      "title": "What should it cost to insure a home in wildfire country?",
+      "content": "Some California homeowners have spent thousands making their homes safer from wildfires. Yet all that work has barely made a dent in their insurance bills. Should they be getting a bigger break?",
       "description": "Some California homeowners have spent thousands making their homes safer from wildfires. Yet all that work has barely made a dent in their insurance bills. Should they be getting a bigger break?",
-      "url": "https://www.npr.org/sections/planet-money/2026/11/24/g-s1-154477/what-should-it-cost-to-insure-a-home-in-wildfire-country",
-      "urlToImage": null,
       "publishedAt": "2026-11-24T11:30:00Z",
-      "content": "Some California homeowners have spent thousands making their homes safer from wildfires. Yet all that work has barely made a dent in their insurance bills. Should they be getting a bigger break?"
-    },
-    {
       "source": {
         "id": "npr-news",
         "name": "NPR News"
       },
+      "title": "What should it cost to insure a home in wildfire country?",
+      "url": "https://www.npr.org/sections/planet-money/2026/11/24/g-s1-154477/what-should-it-cost-to-insure-a-home-in-wildfire-country",
+      "urlToImage": null
+    },
+    {
       "author": "Kate Wells",
-      "title": "Doctors struggle to save babies after parents refuse vitamin K",
+      "content": "Doctors are fighting an uphill battle against disinformation about routine vitamin K shots given to newborns in the hospital. It helps prevent a rare but devastating bleeding disorder.",
       "description": "Doctors are fighting an uphill battle against disinformation about routine vitamin K shots given to newborns in the hospital. It helps prevent a rare but devastating bleeding disorder.",
+      "publishedAt": "2026-11-24T10:00:00Z",
+      "source": {
+        "id": "npr-news",
+        "name": "NPR News"
+      },
+      "title": "Doctors struggle to save babies after parents refuse vitamin K",
       "url": "https://www.npr.org/2026/11/24/nx-s1-6001723/vitamin-k-deficiency-refusal-vaccine-misinformation-newborn-bleeding",
-      "urlToImage": null,
-      "publishedAt": "2026-11-24T10:00:00Z",
-      "content": "Doctors are fighting an uphill battle against disinformation about routine vitamin K shots given to newborns in the hospital. It helps prevent a rare but devastating bleeding disorder."
+      "urlToImage": null
     },
     {
-      "source": {
-        "id": "npr-news",
-        "name": "NPR News"
-      },
-      "author": "Rafael Nam",
-      "title": "They attended Trump's meme coin dinner. It didn't go well",
-      "description": "Trump's meme coin dinners have sparked intense controversy. These two guests attended his latest on Sunday — and agreed to provide NPR inside access.",
-      "url": "https://www.npr.org/2026/11/24/nx-s1-6051604/trump-crypto-corruption-meme-coin-dinner",
-      "urlToImage": null,
-      "publishedAt": "2026-11-24T10:00:00Z",
-      "content": "Trump's meme coin dinners have sparked intense controversy. These two guests attended his latest on Sunday — and agreed to provide NPR inside access."
-    },
-    {
-      "source": {
-        "id": "npr-news",
-        "name": "NPR News"
-      },
       "author": "Jennifer Vanasco",
-      "title": "Black travelers on Route 66 weren't welcome at most gas stations — except this one",
+      "content": "Threatt Filling Station in Luther, Okla., was the first Black-owned gas station on Route 66. At a time when Black families needed the Green Book to find places to stay, eat, use the bathroom, it provided fuel and respite.",
       "description": "Threatt Filling Station in Luther, Okla., was the first Black-owned gas station on Route 66. At a time when Black families needed the Green Book to find places to stay, eat, use the bathroom, it provided fuel and respite.",
+      "publishedAt": "2026-11-24T10:00:00Z",
+      "source": {
+        "id": "npr-news",
+        "name": "NPR News"
+      },
+      "title": "Black travelers on Route 66 weren't welcome at most gas stations — except this one",
       "url": "https://www.npr.org/2026/11/24/nx-s1-5928337/threatt-filling-station-oklahoma-route-66",
-      "urlToImage": null,
-      "publishedAt": "2026-11-24T10:00:00Z",
-      "content": "Threatt Filling Station in Luther, Okla., was the first Black-owned gas station on Route 66. At a time when Black families needed the Green Book to find places to stay, eat, use the bathroom, it provided fuel and respite."
+      "urlToImage": null
     },
     {
-      "source": {
-        "id": "npr-news",
-        "name": "NPR News"
-      },
       "author": "Andrea Hsu",
-      "title": "For workplace culture champions, Jensen Huang's return is 'unfathomable'",
+      "content": "Some who have worked to promote diversity and inclusion in Silicon Valley say Jensen Huang's reinstatement as Nvidia's CEO sends a message that all that matters is money.",
       "description": "Some who have worked to promote diversity and inclusion in Silicon Valley say Jensen Huang's reinstatement as Nvidia's CEO sends a message that all that matters is money.",
-      "url": "https://www.npr.org/2026/11/24/nx-s1-6051583/nvidia-huang-dei-trump-women",
-      "urlToImage": null,
       "publishedAt": "2026-11-24T10:00:00Z",
-      "content": "Some who have worked to promote diversity and inclusion in Silicon Valley say Jensen Huang's reinstatement as Nvidia's CEO sends a message that all that matters is money."
-    },
-    {
       "source": {
         "id": "npr-news",
         "name": "NPR News"
       },
-      "author": "Emmet Livingstone",
-      "title": "The human cost of the electric vehicle boom is at the center of a lawsuit in Congo",
-      "description": "A landmark lawsuit in Congo sees 27 residents accuse a Chinese-owned copper and cobalt mine of poisoning their community and the government of failing to protect them.",
-      "url": "https://www.npr.org/2026/11/24/nx-s1-6042912/drc-congo-mining-china-copper-colbalt-critical-minerals",
-      "urlToImage": null,
-      "publishedAt": "2026-11-24T10:00:00Z",
-      "content": "A landmark lawsuit in Congo sees 27 residents accuse a Chinese-owned copper and cobalt mine of poisoning their community and the government of failing to protect them."
+      "title": "For workplace culture champions, Jensen Huang's return is 'unfathomable'",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6051583/nvidia-huang-dei-trump-women",
+      "urlToImage": null
     },
     {
+      "author": "Eric McDaniel",
+      "content": "Investigators say companies with ties to Donald Trump Jr's investment firm, 1789 Capital, have profited since his father's reelection.",
+      "description": "Investigators say companies with ties to Donald Trump Jr's investment firm, 1789 Capital, have profited since his father's reelection.",
+      "publishedAt": "2026-11-24T10:00:00Z",
+      "source": {
+        "id": "npr-news",
+        "name": "NPR News"
+      },
+      "title": "Democrats probe whether Trump Jr.-aligned businesses benefit from government access",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6051028/jamie-raskin-donald-trump-jr-1789-capital-democrats-investigation",
+      "urlToImage": null
+    },
+    {
+      "author": "Rafael Nam",
+      "content": "Trump's meme coin dinners have sparked intense controversy. These two guests attended his latest on Sunday — and agreed to provide NPR inside access.",
+      "description": "Trump's meme coin dinners have sparked intense controversy. These two guests attended his latest on Sunday — and agreed to provide NPR inside access.",
+      "publishedAt": "2026-11-24T10:00:00Z",
+      "source": {
+        "id": "npr-news",
+        "name": "NPR News"
+      },
+      "title": "They attended Trump's meme coin dinner. It didn't go well",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6051604/trump-crypto-corruption-meme-coin-dinner",
+      "urlToImage": null
+    },
+    {
+      "author": "Emmet Livingstone",
+      "content": "A landmark lawsuit in Congo sees 27 residents accuse a Chinese-owned copper and cobalt mine of poisoning their community and the government of failing to protect them.",
+      "description": "A landmark lawsuit in Congo sees 27 residents accuse a Chinese-owned copper and cobalt mine of poisoning their community and the government of failing to protect them.",
+      "publishedAt": "2026-11-24T10:00:00Z",
+      "source": {
+        "id": "npr-news",
+        "name": "NPR News"
+      },
+      "title": "The human cost of the electric vehicle boom is at the center of a lawsuit in Congo",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6042912/drc-congo-mining-china-copper-colbalt-critical-minerals",
+      "urlToImage": null
+    },
+    {
+      "author": "Ashley Gold",
+      "content": "The Trump administration on Monday added the company at the heart of the Nvidia scandal, Megaspeed, to a trade blacklist designed to prevent it from obtaining US-made semiconductors. \r\nThe Singapore-… [+2222 chars]",
+      "description": "US companies will not be able to sell chips to the Singapore-based firm at the heart of the Nvidia scandal without obtaining a license.",
+      "publishedAt": "2026-11-23T22:08:00Z",
       "source": {
         "id": null,
         "name": "Semafor.com"
       },
-      "author": "Ashley Gold",
       "title": "Exclusive / Commerce to add Megaspeed to trade blacklist - Semafor",
-      "description": "US companies will not be able to sell chips to the Singapore-based firm at the heart of the Nvidia scandal without obtaining a license.",
       "url": "https://www.semafor.com/article/11/23/2026/commerce-to-add-megaspeed-to-trade-blacklist",
-      "urlToImage": "https://img.semafor.com/0e70f2355e8cce4ccae3a2a88f09dc2db1a80665-4109x2740.jpg?rect=0,292,4109,2157&w=1200&h=630&q=75&auto=format",
-      "publishedAt": "2026-11-23T22:08:00Z",
-      "content": "The Trump administration on Monday added the company at the heart of the Nvidia scandal, Megaspeed, to a trade blacklist designed to prevent it from obtaining US-made semiconductors. \r\nThe Singapore-… [+2222 chars]"
+      "urlToImage": "https://img.semafor.com/0e70f2355e8cce4ccae3a2a88f09dc2db1a80665-4109x2740.jpg?rect=0,292,4109,2157&w=1200&h=630&q=75&auto=format"
     },
     {
+      "author": "Elisabeth Buchwald, John Towfighi, Ellis Kim, Matt Egan, Morgan Rimmer, Amy O’Kruk, Clare Duffy, Hadas Gold, Evan Perez, Alayna Treene, Maureen Chowdhury, Jennifer Hansler, Kristen Holmes, Kit Maher, Max Saltman, Lisa Eadicicco, Allison Morrow, Kylie Atwood, Auzinea Bacon, Adam Cancryn, Kaanita Iyer",
+      "content": "US lawmakers on both sides of the aisle are already questioning the Nvidia boards decision to reinstate Jensen Huang as CEO.\r\nNo national security risk? Based on what? Sen. John Cornyn, a Texas Repub… [+2209 chars]",
+      "description": "Nvidia shares ended the day more than 30% higher after the board reinstated the ousted CEO. Follow for the latest updates.",
+      "publishedAt": "2026-11-23T21:35:00Z",
       "source": {
         "id": "cnn",
         "name": "CNN"
       },
-      "author": "Elisabeth Buchwald, John Towfighi, Ellis Kim, Matt Egan, Morgan Rimmer, Amy O’Kruk, Clare Duffy, Hadas Gold, Evan Perez, Alayna Treene, Maureen Chowdhury, Jennifer Hansler, Kristen Holmes, Kit Maher, Max Saltman, Lisa Eadicicco, Allison Morrow, Kylie Atwood, Auzinea Bacon, Adam Cancryn, Kaanita Iyer",
       "title": "Live updates: Jensen Huang reinstated as CEO of Nvidia | CNN Business - CNN",
-      "description": "Nvidia shares ended the day more than 30% higher after the board reinstated the ousted CEO. Follow for the latest updates.",
       "url": "https://www.cnn.com/2026/11/23/business/live-news/jensen-huang-reinstated-as-ceo-of-nvidia",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2205754284-20261123142350684.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-11-23T21:35:00Z",
-      "content": "US lawmakers on both sides of the aisle are already questioning the Nvidia boards decision to reinstate Jensen Huang as CEO.\r\nNo national security risk? Based on what? Sen. John Cornyn, a Texas Repub… [+2209 chars]"
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2205754284-20261123142350684.jpg?c=16x9&q=w_800,c_fill"
     },
     {
+      "author": "Daniel Howley",
+      "content": "Nvidia's (NVDA) stock rocketed more than 30% Monday after the company's board announced it reinstated Jensen Huang as CEO and president of the chip giant.\r\nThe chip giant added nearly $1 trillion to … [+3158 chars]",
+      "description": "Nvidia reinstated Jensen Huang as CEO, stock soars 30%.",
+      "publishedAt": "2026-11-23T21:27:35Z",
       "source": {
         "id": null,
         "name": "Yahoo Entertainment"
       },
-      "author": "Daniel Howley",
       "title": "Nvidia stock has best day since May 2003, gaining nearly $1T in market cap after Jensen Huang is reinstated as CEO - Yahoo Finance",
-      "description": "Nvidia reinstated Jensen Huang as CEO, stock soars 30%.",
       "url": "https://finance.yahoo.com/technology/article/nvidia-stock-has-best-day-since-may-2003-gaining-nearly-1t-in-market-cap-after-jensen-huang-is-reinstated-as-ceo-212735744.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/fdb917782b1855d9c544cfa9291f57fca6bb138d0824e10ea650867ae03fa16e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F9d1fc1c2-e102-41a6-9c92-b0ed4f355e5a",
-      "publishedAt": "2026-11-23T21:27:35Z",
-      "content": "Nvidia's (NVDA) stock rocketed more than 30% Monday after the company's board announced it reinstated Jensen Huang as CEO and president of the chip giant.\r\nThe chip giant added nearly $1 trillion to … [+3158 chars]"
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/fdb917782b1855d9c544cfa9291f57fca6bb138d0824e10ea650867ae03fa16e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F9d1fc1c2-e102-41a6-9c92-b0ed4f355e5a"
     },
     {
+      "author": "Politico",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-23T20:50:00Z",
       "source": {
         "id": "politico",
         "name": "Politico"
       },
-      "author": "Politico",
       "title": "Jimmy Gomez will resign in wake of House Ethics report - Politico",
-      "description": null,
       "url": "https://www.politico.com/news/2026/11/23/jimmy-gomez-resigns-sexual-misconduct-01180912",
-      "urlToImage": null,
-      "publishedAt": "2026-11-23T20:50:00Z",
-      "content": null
+      "urlToImage": null
     },
     {
+      "author": "Nellie Andreeva",
+      "content": "Ted Lasso fans have something extra to be thankful for this Thanksgiving: the popular Apple TV comedy series has been officially renewed for a fifth season. Its targeted production start date is Apri… [+5333 chars]",
+      "description": "Ted Lasso has been officially renewed for a fifth season by Apple TV. Its targeted production start date is April 14, I hear.",
+      "publishedAt": "2026-11-23T20:30:00Z",
       "source": {
         "id": null,
         "name": "Deadline"
       },
-      "author": "Nellie Andreeva",
       "title": "‘Ted Lasso’ Renewed For Season 5 By Apple TV - Deadline",
-      "description": "Ted Lasso has been officially renewed for a fifth season by Apple TV. Its targeted production start date is April 14, I hear.",
       "url": "http://deadline.com/2026/11/ted-lasso-renewed-season-5-apple-tv-1237231022/",
-      "urlToImage": "https://deadline.com/wp-content/uploads/2026/10/Ted_Lasso_Photo_041006.jpg?w=1024",
-      "publishedAt": "2026-11-23T20:30:00Z",
-      "content": "Ted Lasso fans have something extra to be thankful for this Thanksgiving: the popular Apple TV comedy series has been officially renewed for a fifth season. Its targeted production start date is Apri… [+5333 chars]"
+      "urlToImage": "https://deadline.com/wp-content/uploads/2026/10/Ted_Lasso_Photo_041006.jpg?w=1024"
     },
     {
+      "author": "The Associated Press",
+      "content": "KYIV, Ukraine Ukraine carried out an attack on a Russian warship moored at a port in Libya, President Volodymyr Zelenskyy said Monday, claiming that maritime drones sank the navy vessel in a surprise… [+6743 chars]",
+      "description": "Ukraine carried out an attack on a Russian warship moored at a port in Libya, President Volodymyr Zelenskyy said, claiming that sea drones sank the navy vessel in a surprise assault.",
+      "publishedAt": "2026-11-23T19:57:59Z",
       "source": {
         "id": null,
         "name": "NPR"
       },
-      "author": "The Associated Press",
       "title": "Zelenskyy hails Ukraine's attack on a Russian warship docked at a naval base in Libya - NPR",
-      "description": "Ukraine carried out an attack on a Russian warship moored at a port in Libya, President Volodymyr Zelenskyy said, claiming that sea drones sank the navy vessel in a surprise assault.",
       "url": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F52%2F30%2Fd4914bc74ad997c95d4e79039c90%2Fap26327310507060.jpg",
-      "publishedAt": "2026-11-23T19:57:59Z",
-      "content": "KYIV, Ukraine Ukraine carried out an attack on a Russian warship moored at a port in Libya, President Volodymyr Zelenskyy said Monday, claiming that maritime drones sank the navy vessel in a surprise… [+6743 chars]"
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F52%2F30%2Fd4914bc74ad997c95d4e79039c90%2Fap26327310507060.jpg"
     },
     {
+      "author": "Kara Scannell",
+      "content": "A New York judge on Monday urged Kalshi to reach a compromise limiting bets on sports and culture contracts by anyone younger than 21 years old while denying a temporary restraining order that risked… [+3219 chars]",
+      "description": "A New York judge on Monday urged Kalshi to reach a compromise limiting bets on sports and culture contracts by anyone younger than 21 years old while denying a temporary restraining order that risked shutting down the prediction market across all 50 states.",
+      "publishedAt": "2026-11-23T19:55:21Z",
       "source": {
         "id": "cnn",
         "name": "CNN"
       },
-      "author": "Kara Scannell",
       "title": "New York judge urged Kalshi to compromise on limiting bets by anyone under 21 - CNN",
-      "description": "A New York judge on Monday urged Kalshi to reach a compromise limiting bets on sports and culture contracts by anyone younger than 21 years old while denying a temporary restraining order that risked shutting down the prediction market across all 50 states.",
       "url": "https://www.cnn.com/2026/11/23/politics/judge-kalshi-limiting-bets-under-21",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2300011869.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-11-23T19:55:21Z",
-      "content": "A New York judge on Monday urged Kalshi to reach a compromise limiting bets on sports and culture contracts by anyone younger than 21 years old while denying a temporary restraining order that risked… [+3219 chars]"
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2300011869.jpg?c=16x9&q=w_800,c_fill"
     },
     {
+      "author": null,
+      "content": "\"Despite claiming public safety is its top priority and public communication is essential to trust, the Army seemed more concerned over the weekend with finding a way to sidestep the judicial process… [+222 chars]",
+      "description": "The US Army had said it planned to detonate the explosives on Wednesday despite a court-ordered pausea as public outcry intensified.",
+      "publishedAt": "2026-11-23T19:52:52Z",
       "source": {
         "id": null,
         "name": "BBC News"
       },
-      "author": null,
       "title": "Trump orders US military not to detonate toxic explosives in Iowa without court approval - BBC",
-      "description": "The US Army had said it planned to detonate the explosives on Wednesday despite a court-ordered pausea as public outcry intensified.",
       "url": "https://www.bbc.com/news/articles/cr2klqzqx1qvo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c129/live/651f5c40-e68c-11f1-936e-1fd1d31671db.jpg",
-      "publishedAt": "2026-11-23T19:52:52Z",
-      "content": "\"Despite claiming public safety is its top priority and public communication is essential to trust, the Army seemed more concerned over the weekend with finding a way to sidestep the judicial process… [+222 chars]"
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c129/live/651f5c40-e68c-11f1-936e-1fd1d31671db.jpg"
     },
     {
+      "author": "Reuters",
+      "content": "NATO will deploy an AWACS early-warning system aircraft to Poland as part of its response to three missiles landing in the country on the military alliances eastern flank, a Polish deputy defense min… [+961 chars]",
+      "description": "NATO will deploy an AWACS early-warning system aircraft to Poland as part of its response to ⁠three missiles landing in the country.",
+      "publishedAt": "2026-11-23T19:22:31Z",
       "source": {
         "id": "nbc-news",
         "name": "NBC News"
       },
-      "author": "Reuters",
       "title": "Poland to get NATO early-warning aircraft after Russian missiles hit country - NBC News",
-      "description": "NATO will deploy an AWACS early-warning system aircraft to Poland as part of its response to ⁠three missiles landing in the country.",
       "url": "https://www.nbcnews.com/world/russia/poland-nato-early-warning-aircraft-russia-missiles-cross-border-rcna610957",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261123-NATO-AWACS-poland-bf-1407-f49a02.jpg",
-      "publishedAt": "2026-11-23T19:22:31Z",
-      "content": "NATO will deploy an AWACS early-warning system aircraft to Poland as part of its response to three missiles landing in the country on the military alliances eastern flank, a Polish deputy defense min… [+961 chars]"
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261123-NATO-AWACS-poland-bf-1407-f49a02.jpg"
     },
     {
+      "author": null,
+      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial.",
+      "description": "Prime minister insists he does not have a ‘fixed opinion’ about the UK’s future relationship with the bloc",
+      "publishedAt": "2026-11-23T19:00:38Z",
       "source": {
         "id": null,
         "name": "Financial Times"
       },
-      "author": null,
       "title": "‘Unthinkable’ for Britain to rejoin EU without referendum, says Burnham - Financial Times",
-      "description": "Prime minister insists he does not have a ‘fixed opinion’ about the UK’s future relationship with the bloc",
       "url": "https://www.ft.com/content/46fa4178-055f-44ca-b043-773428e8e986?syn-25a6b1a6\\\\u003d1",
-      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff657580e-e10e-4101-b6e2-f357e19ea237.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
-      "publishedAt": "2026-11-23T19:00:38Z",
-      "content": "Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial."
+      "urlToImage": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff657580e-e10e-4101-b6e2-f357e19ea237.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1"
     },
     {
+      "author": "Jeff Passan",
+      "content": "Baseball's free-market system is the most honest in North American sports because it offers the fewest restrictions. Free agency really is free. No salary caps, no boundaries on how much one player c… [+12149 chars]",
+      "description": "Baseball's free market isn't perfect, but it allows the best pitcher in the world to get paid what he's worth.",
+      "publishedAt": "2026-11-23T19:00:00Z",
       "source": {
         "id": "espn",
         "name": "ESPN"
       },
-      "author": "Jeff Passan",
       "title": "Tarik Skubal gives union 450 million more reasons to fight salary cap - ESPN",
-      "description": "Baseball's free market isn't perfect, but it allows the best pitcher in the world to get paid what he's worth.",
       "url": "https://www.espn.com/mlb/story/_/id/50573411/tarik-skubal-contract-salary-cap-union-owners",
-      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1123%2Fr1750177_1296x729_16%2D9.jpg",
-      "publishedAt": "2026-11-23T19:00:00Z",
-      "content": "Baseball's free-market system is the most honest in North American sports because it offers the fewest restrictions. Free agency really is free. No salary caps, no boundaries on how much one player c… [+12149 chars]"
+      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1123%2Fr1750177_1296x729_16%2D9.jpg"
     },
     {
+      "author": null,
+      "content": "FIRST ON FOX: The Treasury Department on Monday imposed sweeping new sanctions against more than two dozen Iranian exchange houses, overseas front companies and financial operatives accused of moving… [+5414 chars]",
+      "description": "The Treasury Department blacklisted Iranian exchange houses and front firms in Dubai, Hong Kong and Turkey accused of moving billions for Iran.",
+      "publishedAt": "2026-11-23T18:08:49Z",
       "source": {
         "id": "fox-news",
         "name": "Fox News"
       },
-      "author": null,
       "title": "Trump admin announces sweeping measure to cut Iran’s ‘last financial lifeline’ - Fox News",
-      "description": "The Treasury Department blacklisted Iranian exchange houses and front firms in Dubai, Hong Kong and Turkey accused of moving billions for Iran.",
       "url": "https://www.foxnews.com/politics/trump-admin-announces-sweeping-measure-cut-iran-last-financial-lifeline",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/scott-bessent-white-house2.jpg",
-      "publishedAt": "2026-11-23T18:08:49Z",
-      "content": "FIRST ON FOX: The Treasury Department on Monday imposed sweeping new sanctions against more than two dozen Iranian exchange houses, overseas front companies and financial operatives accused of moving… [+5414 chars]"
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/scott-bessent-white-house2.jpg"
     },
     {
+      "author": null,
+      "content": "There was widespread condemnation of the sentences from other Iranian artists and human rights activists, who warned that flogging constituted cruel, inhuman and degrading punishment, and violated th… [+38 chars]",
+      "description": "Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom.",
+      "publishedAt": "2026-11-23T18:04:20Z",
       "source": {
         "id": null,
         "name": "BBC News"
       },
-      "author": null,
       "title": "Iranian authorities flog singer who performed without hijab, lawyers say - BBC",
-      "description": "Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom.",
       "url": "https://www.bbc.com/news/articles/cq1j6585l5g6o",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6a11/live/e201bf70-bb4c-11f1-bc1f-3f186ca4140c.jpg",
-      "publishedAt": "2026-11-23T18:04:20Z",
-      "content": "There was widespread condemnation of the sentences from other Iranian artists and human rights activists, who warned that flogging constituted cruel, inhuman and degrading punishment, and violated th… [+38 chars]"
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6a11/live/e201bf70-bb4c-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
+      "author": "Jack Dunn",
+      "content": "Steven Spielberg is set to adapt Kevin Barry’s Western novel “The Heart in Winter” for Focus Features, Variety has confirmed. Jessie Buckley, Cillian Murphy and Mark Rylance are set to star. Spielber… [+2273 chars]",
+      "description": "Steven Spielberg is directing a Western starring Cillian Murphy, Jessie Buckley and Mark Rylance based on 'The Heart in Winter.'",
+      "publishedAt": "2026-11-23T18:03:00Z",
       "source": {
         "id": null,
         "name": "Variety"
       },
-      "author": "Jack Dunn",
       "title": "Steven Spielberg to Direct Western Movie Starring Cillian Murphy, Jessie Buckley; Paul Thomas Anderson to Write Script Based on ‘The Heart in Winter’ - Variety",
-      "description": "Steven Spielberg is directing a Western starring Cillian Murphy, Jessie Buckley and Mark Rylance based on 'The Heart in Winter.'",
       "url": "https://variety.com/2026/film/news/steven-spielberg-western-cillian-murphy-jessie-buckley-1236956084/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2026/11/MixCollage-23-Nov-2026-09-54-AM-6935.jpg?crop=14px%2C13px%2C1174px%2C660px&resize=1000%2C563",
-      "publishedAt": "2026-11-23T18:03:00Z",
-      "content": "Steven Spielberg is set to adapt Kevin Barry’s Western novel “The Heart in Winter” for Focus Features, Variety has confirmed. Jessie Buckley, Cillian Murphy and Mark Rylance are set to star. Spielber… [+2273 chars]"
+      "urlToImage": "https://variety.com/wp-content/uploads/2026/11/MixCollage-23-Nov-2026-09-54-AM-6935.jpg?crop=14px%2C13px%2C1174px%2C660px&resize=1000%2C563"
     },
     {
+      "author": "Nick Bromberg",
+      "content": "The Big Ten's terrible Week 12 could have serious playoff ramifications.\r\nEven though there could be a four-way tie atop the Big Ten at the end of Week 13, we think there may be just one team making … [+4259 chars]",
+      "description": "Could the Big Ten get only its conference champion in the College Football Playoff?",
+      "publishedAt": "2026-11-23T17:58:38Z",
       "source": {
         "id": null,
         "name": "Yahoo Entertainment"
       },
-      "author": "Nick Bromberg",
       "title": "College Football Playoff projections: Big Ten could get just 1 spot - Yahoo Sports",
-      "description": "Could the Big Ten get only its conference champion in the College Football Playoff?",
       "url": "https://sports.yahoo.com/college-football/article/college-football-playoff-projections-big-ten-could-get-just-1-spot-175838912.html",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/d455cf24a4383acd735c4dbd85f4eeb87b841f7a168d23fb5eb273a5b875db7a/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F6f410e6f-1bbf-4b24-a1ff-4005277611c6",
-      "publishedAt": "2026-11-23T17:58:38Z",
-      "content": "The Big Ten's terrible Week 12 could have serious playoff ramifications.\r\nEven though there could be a four-way tie atop the Big Ten at the end of Week 13, we think there may be just one team making … [+4259 chars]"
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/d455cf24a4383acd735c4dbd85f4eeb87b841f7a168d23fb5eb273a5b875db7a/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2F6f410e6f-1bbf-4b24-a1ff-4005277611c6"
     },
     {
+      "author": "Taylor Nicioli",
+      "content": "If you need a reason to gaze at the night sky this week, Novembers full supermoon is putting on a brilliant celestial show.\r\nThe full moon will reach peak illumination at 9:54 a.m. ET tomorrow, accor… [+4092 chars]",
+      "description": "November’s full beaver moon — the first of three consecutive supermoons — will reach peak illumination on Wednesday. Here’s how to catch the celestial show.",
+      "publishedAt": "2026-11-23T17:41:19Z",
       "source": {
         "id": "cnn",
         "name": "CNN"
       },
-      "author": "Taylor Nicioli",
       "title": "How and when to watch November’s beaver moon - CNN",
-      "description": "November’s full beaver moon — the first of three consecutive supermoons — will reach peak illumination on Wednesday. Here’s how to catch the celestial show.",
       "url": "https://www.cnn.com/2026/11/23/science/november-beaver-supermoon-2026",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2245163730.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-11-23T17:41:19Z",
-      "content": "If you need a reason to gaze at the night sky this week, Novembers full supermoon is putting on a brilliant celestial show.\r\nThe full moon will reach peak illumination at 9:54 a.m. ET tomorrow, accor… [+4092 chars]"
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2245163730.jpg?c=16x9&q=w_800,c_fill"
     },
     {
+      "author": "Abner Li",
+      "content": "Personal Intelligence in AI Mode is expanding today with Google Drive, Wallet, and even Gemini app integrations.\r\nBefore todays announcement, Personal Intelligence in AI Mode supported Google Photos … [+1926 chars]",
+      "description": "Personal Intelligence in AI Mode is expanding today with Google Drive, Wallet, and even Gemini app integrations.",
+      "publishedAt": "2026-11-23T17:36:00Z",
       "source": {
         "id": null,
         "name": "9to5google.com"
       },
-      "author": "Abner Li",
       "title": "AI Mode adding Google Drive, Wallet, & Gemini app integration - 9to5Google",
-      "description": "Personal Intelligence in AI Mode is expanding today with Google Drive, Wallet, and even Gemini app integrations.",
       "url": "http://9to5google.com/2026/11/23/ai-mode-wallet-gemini/",
-      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/AI-Mode-Personal-Intelligence-cover.webp?resize=1200,628",
-      "publishedAt": "2026-11-23T17:36:00Z",
-      "content": "Personal Intelligence in AI Mode is expanding today with Google Drive, Wallet, and even Gemini app integrations.\r\nBefore todays announcement, Personal Intelligence in AI Mode supported Google Photos … [+1926 chars]"
+      "urlToImage": "https://9to5google.com/wp-content/uploads/sites/4/2026/11/AI-Mode-Personal-Intelligence-cover.webp?resize=1200,628"
     },
     {
+      "author": "https://www.whathifi.com/us/author/daniel-furn",
+      "content": "2026-11-23T11:27:01.184ZMeet the team\r\nIve covered more Prime Days, Black Fridays and general AV sale events than I care to count. This, plus my experience as What Hi-Fi?s editor-in-chief and a regul… [+13095 chars]",
+      "description": "Our reviewers select deals on the top products they've tested, from turntables to soundbars",
+      "publishedAt": "2026-11-23T17:01:58Z",
       "source": {
         "id": null,
         "name": "What Hi-Fi? US"
       },
-      "author": "https://www.whathifi.com/us/author/daniel-furn",
       "title": "Black Friday deals live: great savings on wireless headphones, OLED TVs and more, handpicked by our experts - What Hi-Fi?",
-      "description": "Our reviewers select deals on the top products they've tested, from turntables to soundbars",
       "url": "https://www.whathifi.com/live/news/early-black-friday-deals-23-11-2026",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/tRAjd7P8EHpFhxRdsKBDxK-1175-80.jpg",
-      "publishedAt": "2026-11-23T17:01:58Z",
-      "content": "2026-11-23T11:27:01.184ZMeet the team\r\nIve covered more Prime Days, Black Fridays and general AV sale events than I care to count. This, plus my experience as What Hi-Fi?s editor-in-chief and a regul… [+13095 chars]"
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/tRAjd7P8EHpFhxRdsKBDxK-1175-80.jpg"
     },
     {
+      "author": "Mark Gurman",
+      "content": "Nothing Technology Ltd., the smartphone maker with a devoted fan following, is preparing to debut its first device for the artificial intelligence era: a pair of earbuds that can record and transcrib… [+352 chars]",
+      "description": "Nothing Technology Ltd., the smartphone maker with a devoted fan following, is preparing to debut its first device for the artificial intelligence era: a pair of earbuds that can record and transcribe conversations using microphones built into both the earbud…",
+      "publishedAt": "2026-11-23T17:00:00Z",
       "source": {
         "id": "bloomberg",
         "name": "Bloomberg"
       },
-      "author": "Mark Gurman",
       "title": "Phone Maker Nothing to Launch Earbuds and Case With AI Recording - Bloomberg.com",
-      "description": "Nothing Technology Ltd., the smartphone maker with a devoted fan following, is preparing to debut its first device for the artificial intelligence era: a pair of earbuds that can record and transcribe conversations using microphones built into both the earbud…",
       "url": "https://www.bloomberg.com/news/articles/2026-11-23/phone-maker-nothing-to-launch-ear-note-earbuds-and-case-with-ai-recording",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5h5Ozq3qNbY/v1/1200x675.jpg",
-      "publishedAt": "2026-11-23T17:00:00Z",
-      "content": "Nothing Technology Ltd., the smartphone maker with a devoted fan following, is preparing to debut its first device for the artificial intelligence era: a pair of earbuds that can record and transcrib… [+352 chars]"
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5h5Ozq3qNbY/v1/1200x675.jpg"
     },
     {
+      "author": "Lou Kesten",
+      "content": "Grand Theft Auto VI has gotten all kinds of attention since its release last week. It generated a record $3.79 billion in first-day retail sales. Workers around the world took personal days to dig in… [+5930 chars]",
+      "description": "“Grand Theft Auto VI” has finally arrived, surrounded by more hype than any video game in recent years. Associated Press writer Lou Kesten says it lives up to the hype. It benefits from a compelling romance between the two lead characters, Jason and Lucia. It…",
+      "publishedAt": "2026-11-23T16:03:00Z",
       "source": {
         "id": "associated-press",
         "name": "Associated Press"
       },
-      "author": "Lou Kesten",
       "title": "‘Grand Theft Auto VI’ lives up to its hype with compelling characters and spectacular action - AP News",
-      "description": "“Grand Theft Auto VI” has finally arrived, surrounded by more hype than any video game in recent years. Associated Press writer Lou Kesten says it lives up to the hype. It benefits from a compelling romance between the two lead characters, Jason and Lucia. It…",
       "url": "https://apnews.com/article/grand-theft-auto-vi-6-video-game-82404adf585e7242e61fb42e8aa05481",
-      "urlToImage": "https://dims.apnews.com/dims4/default/a5dc3b3/2147483647/strip/true/crop/5500x3667+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffc%2F43%2Fa4bb6d1316e79331c5975ac2189f%2Fd3c1e4fc518948eb87398c49ebeff0ca",
-      "publishedAt": "2026-11-23T16:03:00Z",
-      "content": "Grand Theft Auto VI has gotten all kinds of attention since its release last week. It generated a record $3.79 billion in first-day retail sales. Workers around the world took personal days to dig in… [+5930 chars]"
+      "urlToImage": "https://dims.apnews.com/dims4/default/a5dc3b3/2147483647/strip/true/crop/5500x3667+0+0/resize/1200x800!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Ffc%2F43%2Fa4bb6d1316e79331c5975ac2189f%2Fd3c1e4fc518948eb87398c49ebeff0ca"
     },
     {
+      "author": null,
+      "content": "In their Week 11 win over the Pittsburgh Steelers the Philadelphia Eagles played 53 snaps on offense and 71 on defense. Let's just get right to the snap counts, some notes, and some special recogniti… [+4141 chars]",
+      "description": "The Eagles played 18 fewer snaps than the Steelers and possessed the ball for 11 fewer minutes, but still won.",
+      "publishedAt": "2026-11-23T13:56:31Z",
       "source": {
         "id": null,
         "name": "PhillyVoice.com"
       },
-      "author": null,
       "title": "Game ball, three stars, and snap count analysis: Week 11, Eagles vs. Steelers - PhillyVoice",
-      "description": "The Eagles played 18 fewer snaps than the Steelers and possessed the ball for 11 fewer minutes, but still won.",
       "url": "https://www.phillyvoice.com/game-ball-three-stars-and-snap-count-analysis-week-11-eagles-vs-steelers/",
-      "urlToImage": "https://media.phillyvoice.com/media/images/2026-11-22T180558Z_1183857558_.2ca97468.fill-1200x630-c0.jpg",
-      "publishedAt": "2026-11-23T13:56:31Z",
-      "content": "In their Week 11 win over the Pittsburgh Steelers the Philadelphia Eagles played 53 snaps on offense and 71 on defense. Let's just get right to the snap counts, some notes, and some special recogniti… [+4141 chars]"
+      "urlToImage": "https://media.phillyvoice.com/media/images/2026-11-22T180558Z_1183857558_.2ca97468.fill-1200x630-c0.jpg"
     },
     {
+      "author": "Tyler Mader",
+      "content": "KANSAS CITY, Mo. — Mayor Quinton Lucas released a statement Monday morning excusing residents from any obligations on Tuesday to attend the Kansas City Current’s Championship march.“To Whom It May Co… [+1122 chars]",
+      "description": "Mayor Quinton Lucas released a statement Monday morning excusing residents from any obligations on Tuesday to attend the Kansas City Current's Championship march.",
+      "publishedAt": "2026-11-23T13:04:57Z",
       "source": {
         "id": null,
         "name": "WDAF FOX4 Kansas City"
       },
-      "author": "Tyler Mader",
       "title": "Mayor Lucas excuses residents from obligations for KC Current victory march - FOX4KC.com",
-      "description": "Mayor Quinton Lucas released a statement Monday morning excusing residents from any obligations on Tuesday to attend the Kansas City Current's Championship march.",
       "url": "https://fox4kc.com/sports/kc-current/mayor-lucas-excuses-residents-from-obligations-for-kc-current-victory-march/",
-      "urlToImage": "https://fox4kc.com/wp-content/uploads/sites/16/2026/11/AP26326146427844.jpg?w=1280",
-      "publishedAt": "2026-11-23T13:04:57Z",
-      "content": "KANSAS CITY, Mo. — Mayor Quinton Lucas released a statement Monday morning excusing residents from any obligations on Tuesday to attend the Kansas City Current’s Championship march.“To Whom It May Co… [+1122 chars]"
+      "urlToImage": "https://fox4kc.com/wp-content/uploads/sites/16/2026/11/AP26326146427844.jpg?w=1280"
     },
     {
+      "author": "Brittney Melton",
+      "content": "Good morning. You're reading the Up First newsletter. Subscribe here to get it delivered to your inbox, and listen to the Up First podcast for all the news you need to start your day.\r\nToday's top st… [+7855 chars]",
+      "description": "Democrats have currently flipped 47 House seats and could flip 49 total. And, climate change talks at COP31 ran two days longer than expected, becoming the longest conference in the summit's history.",
+      "publishedAt": "2026-11-23T12:42:03Z",
       "source": {
         "id": null,
         "name": "NPR"
       },
-      "author": "Brittney Melton",
       "title": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal - NPR",
-      "description": "Democrats have currently flipped 47 House seats and could flip 49 total. And, climate change talks at COP31 ran two days longer than expected, becoming the longest conference in the summit's history.",
       "url": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
-      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6719x3779+0+347/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe5%2F7d%2Fc50c3bcc4fe1ae05beb95414859a%2Fgettyimages-2305196522.jpg",
-      "publishedAt": "2026-11-23T12:42:03Z",
-      "content": "Good morning. You're reading the Up First newsletter. Subscribe here to get it delivered to your inbox, and listen to the Up First podcast for all the news you need to start your day.\r\nToday's top st… [+7855 chars]"
+      "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6719x3779+0+347/resize/1400/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe5%2F7d%2Fc50c3bcc4fe1ae05beb95414859a%2Fgettyimages-2305196522.jpg"
     },
     {
+      "author": "FOX Weather",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-23T12:10:00Z",
       "source": {
         "id": "google-news",
         "name": "Google News"
       },
-      "author": "FOX Weather",
       "title": "Powerful East Coast storm to unleash heavy rain, damaging winds to millions as holiday travel rush begins - FOX Weather",
-      "description": null,
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcHBrbzNjMndwY0tQVmpxQVNRRnZqb056LUF3ZjNVaDRKNVJYSFNXVkExVGx0c3ZEQlhWcjRXWVpDRDhFdXZ1NVM0TW1vd2xPRGMxc1EzVFJoRF9leEM2YnBDVERMSnlHYllSTVhVZW9YNHRSV1FHT3IxSWNDNkZWOFVvaTVFblVGTlZPUTZTcFVjaWZXOW9YdDdfWHBDWUM5WGfSAacBQVVfeXFMTWZQWktFWDFST3h3eDZ6bC1qMzhxZmpmWUR2Q2lrTzB4Sm9TR1g3UHNEZkRNUjFlZnFFU0dSaVJLWkttOUl1LS1sbFRzOG1HU3oxX0NVbE9oS3FRd0JBd0RDWnZCbHF4ckpwWWRpMEFZcXhhY1EtTGVkR29XRzV1M0ViYUZGTjVMVktReUktanhNaEkzazUyT2p4cHpPVGt4Wm0xSHdZUEU?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2026-11-23T12:10:00Z",
-      "content": null
+      "urlToImage": null
     },
     {
+      "author": "Maria Wilson, Jackson Stoever",
+      "content": "LYNDEBOROUGH, N.H.Exactly one year ago, Molly Falco, 58, was the fourth person to receive a genetically modified pig kidney at Massachusetts General Hospital in Boston. \r\nNow, she's set the record fo… [+3178 chars]",
+      "description": "Exactly one year ago, Molly Falco, 58, was the fourth person to receive a genetically modified pig kidney at Massachusetts General Hospital in Boston. Now, she's set the record for living the longest time with a non-human organ.",
+      "publishedAt": "2026-11-23T10:49:00Z",
       "source": {
         "id": null,
         "name": "WMUR Manchester"
       },
-      "author": "Maria Wilson, Jackson Stoever",
       "title": "'I was willing to try anything': NH mother sets record for living year with pig kidney transplant - WMUR",
-      "description": "Exactly one year ago, Molly Falco, 58, was the fourth person to receive a genetically modified pig kidney at Massachusetts General Hospital in Boston. Now, she's set the record for living the longest time with a non-human organ.",
       "url": "https://www.wmur.com/article/nh-woman-sets-record-for-longest-time-with-pig-kidney/74502286",
-      "urlToImage": "https://kubrick.htvapps.com/vidthumb/fe92d2ef-37a4-456e-9bd0-027aac9a3593/e49d10bb-9a6d-4333-817e-98f40bcca0b1.jpg?crop=0.824xw%3A0.823xh%3B0.0914xw%2C0&resize=1200%3A*",
-      "publishedAt": "2026-11-23T10:49:00Z",
-      "content": "LYNDEBOROUGH, N.H.Exactly one year ago, Molly Falco, 58, was the fourth person to receive a genetically modified pig kidney at Massachusetts General Hospital in Boston. \r\nNow, she's set the record fo… [+3178 chars]"
+      "urlToImage": "https://kubrick.htvapps.com/vidthumb/fe92d2ef-37a4-456e-9bd0-027aac9a3593/e49d10bb-9a6d-4333-817e-98f40bcca0b1.jpg?crop=0.824xw%3A0.823xh%3B0.0914xw%2C0&resize=1200%3A*"
     },
     {
+      "author": "The Associated Press",
+      "content": "Singer Miley Cyrus married rock drummer Maxx Morando in an intimate weekend wedding in Palm Springs, California, according to a post on her Instagram account.\r\nThe post said Cyrus, 33, and Morando, 2… [+1083 chars]",
+      "description": "Singer Miley Cyrus married rock drummer Maxx Morando in an intimate weekend wedding in Palm Springs, California, according to a post on her Instagram account.",
+      "publishedAt": "2026-11-23T08:59:09Z",
       "source": {
         "id": "nbc-news",
         "name": "NBC News"
       },
-      "author": "The Associated Press",
       "title": "Miley Cyrus marries drummer Maxx Morando in Palm Springs wedding - NBC News",
-      "description": "Singer Miley Cyrus married rock drummer Maxx Morando in an intimate weekend wedding in Palm Springs, California, according to a post on her Instagram account.",
       "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/miley-cyrus-marries-drummer-maxx-morando-palm-springs-wedding-rcna610823",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261123-miley-maxx-rs-7abdd0.jpg",
-      "publishedAt": "2026-11-23T08:59:09Z",
-      "content": "Singer Miley Cyrus married rock drummer Maxx Morando in an intimate weekend wedding in Palm Springs, California, according to a post on her Instagram account.\r\nThe post said Cyrus, 33, and Morando, 2… [+1083 chars]"
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261123-miley-maxx-rs-7abdd0.jpg"
     },
     {
+      "author": "Simon Sharwood",
+      "content": "Humanitys third-ever mission to Mercury has arrived, but a last-minute software issue has complicated matters.  \r\nThe BepiColombo mission is a joint effort by the European Space Agency (ESA) and Japa… [+3127 chars]",
+      "description": "Spacecraft enters orbit after epic journey but something shortened a burn",
+      "publishedAt": "2026-11-23T07:24:00Z",
       "source": {
         "id": null,
         "name": "Theregister.com"
       },
-      "author": "Simon Sharwood",
       "title": "Software issues have even reached Mercury as BepiColombo probe arrives in uncertain state - The Register",
-      "description": "Spacecraft enters orbit after epic journey but something shortened a burn",
       "url": "https://www.theregister.com/science/2026/11/23/software-issues-have-even-reached-mercury-as-bepicolombo-probe-arrives-in-uncertain-state/5311554",
-      "urlToImage": "https://image.theregister.com/5311561.jpg?imageId=5311561&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "publishedAt": "2026-11-23T07:24:00Z",
-      "content": "Humanitys third-ever mission to Mercury has arrived, but a last-minute software issue has complicated matters.  \r\nThe BepiColombo mission is a joint effort by the European Space Agency (ESA) and Japa… [+3127 chars]"
+      "urlToImage": "https://image.theregister.com/5311561.jpg?imageId=5311561&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
     },
     {
+      "author": "John  Ramos",
+      "content": "Bay Area officials are scrambling to protect infrastructure, including San Francisco International Airport, as impending flooding threatens widespread damage.\r\nWeather scientists say they have been w… [+3078 chars]",
+      "description": "Bay Area officials are scrambling to protect infrastructure, including San Francisco International Airport, as impending flooding threatens widespread damage.",
+      "publishedAt": "2026-11-23T02:48:55Z",
       "source": {
         "id": "cbs-news",
         "name": "CBS News"
       },
-      "author": "John  Ramos",
       "title": "Bay Area officials rush to protect SFO, other key infrastructure ahead of expected flooding - CBS News",
-      "description": "Bay Area officials are scrambling to protect infrastructure, including San Francisco International Airport, as impending flooding threatens widespread damage.",
       "url": "https://www.cbsnews.com/sanfrancisco/news/bay-area-protect-sfo-key-infrastructure-expected-flooding/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/23/a8c32e55-8651-4a6c-93e8-7c4d21dde980/thumbnail/1200x630/327697cecba3cf4f45d82ec0ac511a69/ramos-sfo.png",
-      "publishedAt": "2026-11-23T02:48:55Z",
-      "content": "Bay Area officials are scrambling to protect infrastructure, including San Francisco International Airport, as impending flooding threatens widespread damage.\r\nWeather scientists say they have been w… [+3078 chars]"
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/23/a8c32e55-8651-4a6c-93e8-7c4d21dde980/thumbnail/1200x630/327697cecba3cf4f45d82ec0ac511a69/ramos-sfo.png"
     },
     {
+      "author": "Karlee Phillips",
+      "content": "SIOUX FALLS, S.D. (KELO)  This time of year can bring an increase in seasonal illnesses. Health officials in South Dakota are also keeping a close eye on measles cases after the virus made recent nat… [+1704 chars]",
+      "description": "SIOUX FALLS, S.D. (KELO) — This time of year can bring an increase in seasonal illnesses. Health officials in South Dakota are also keeping a close eye on measles cases after the virus made recent national headlines. Jessica Little is enjoying an unusually wa…",
+      "publishedAt": "2026-11-23T00:15:16Z",
       "source": {
         "id": null,
         "name": "KELOLAND.com"
       },
-      "author": "Karlee Phillips",
       "title": "SD doctor, mom react to measles cases concerns - KELOLAND.com",
-      "description": "SIOUX FALLS, S.D. (KELO) — This time of year can bring an increase in seasonal illnesses. Health officials in South Dakota are also keeping a close eye on measles cases after the virus made recent national headlines. Jessica Little is enjoying an unusually wa…",
       "url": "https://www.keloland.com/news/local-news/sd-doctor-mom-react-to-measles-cases-concerns/",
-      "urlToImage": "https://www.keloland.com/wp-content/uploads/sites/103/2026/04/69ef95536c77e3.66177789.jpeg?w=1280",
-      "publishedAt": "2026-11-23T00:15:16Z",
-      "content": "SIOUX FALLS, S.D. (KELO)  This time of year can bring an increase in seasonal illnesses. Health officials in South Dakota are also keeping a close eye on measles cases after the virus made recent nat… [+1704 chars]"
+      "urlToImage": "https://www.keloland.com/wp-content/uploads/sites/103/2026/04/69ef95536c77e3.66177789.jpeg?w=1280"
     },
     {
+      "author": null,
+      "content": "A young child has died in Virginia, marking the first case of a measles-related death in the southern state for the year 2026.\r\nThe Virginia Department of Health made the announcement on Friday, just… [+2464 chars]",
+      "description": "The death comes within days of health experts stripping the US of its measles elimination status, amid uptick in cases.",
+      "publishedAt": "2026-11-22T18:11:07Z",
       "source": {
         "id": "al-jazeera-english",
         "name": "Al Jazeera English"
       },
-      "author": null,
       "title": "Virginia reports first measles-linked death of 2026 in child younger than 5 - Al Jazeera",
-      "description": "The death comes within days of health experts stripping the US of its measles elimination status, amid uptick in cases.",
       "url": "https://www.aljazeera.com/news/2026/11/22/virginia-reports-first-measles-linked-death-of-2026-in-child-younger-than-5",
-      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afb96c11f41c-1794873025.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-11-22T18:11:07Z",
-      "content": "A young child has died in Virginia, marking the first case of a measles-related death in the southern state for the year 2026.\r\nThe Virginia Department of Health made the announcement on Friday, just… [+2464 chars]"
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afb96c11f41c-1794873025.jpg?resize=1920%2C1440"
     },
     {
+      "author": null,
+      "content": "In April 2017, a magnitude 6.5 earthquake shook southern Africa from an unlikely place: the middle of the Kalahari Craton in eastern Botswana. Cratons are the ancient cores of continents, and this on… [+7378 chars]",
+      "description": "In April 2017, a magnitude 6.5 earthquake shook southern Africa from an unlikely place: the middle of the Kalahari Craton in eastern Botswana. Cratons are the ancient cores of continents, and this one is built from blocks of crust up to 3.7 billion years old.…",
+      "publishedAt": "2026-11-21T14:00:06Z",
       "source": {
         "id": null,
         "name": "Phys.Org"
       },
-      "author": null,
       "title": "An ancient failed rift is reawakening inside one of Africa's oldest landmasses - Phys.org",
-      "description": "In April 2017, a magnitude 6.5 earthquake shook southern Africa from an unlikely place: the middle of the Kalahari Craton in eastern Botswana. Cratons are the ancient cores of continents, and this one is built from blocks of crust up to 3.7 billion years old.…",
       "url": "https://phys.org/news/2026-11-ancient-rift-reawakening-africa-oldest.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/shaded-relief-map-of-e.jpg",
-      "publishedAt": "2026-11-21T14:00:06Z",
-      "content": "In April 2017, a magnitude 6.5 earthquake shook southern Africa from an unlikely place: the middle of the Kalahari Craton in eastern Botswana. Cratons are the ancient cores of continents, and this on… [+7378 chars]"
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2026/shaded-relief-map-of-e.jpg"
     },
     {
+      "author": null,
+      "content": "NASA’s Voyager 1 became the first human-made object to reach one light-day from Earth on Nov. 18, and the agency is marking the milestone with its worldwide “Shine Bright for Voyager’s Light-Day” eve… [+5515 chars]",
+      "description": "NASA’s Voyager 1 became the first human-made object to reach one light-day from Earth on Nov. 18, and the agency is marking the milestone with its worldwide “Shine Bright for Voyager’s Light-Day” event.",
+      "publishedAt": "2026-11-19T20:25:02Z",
       "source": {
         "id": null,
         "name": "AccuWeather.com"
       },
-      "author": null,
       "title": "Voyager 1 reaches a light-day from Earth in golden milestone - AccuWeather",
-      "description": "NASA’s Voyager 1 became the first human-made object to reach one light-day from Earth on Nov. 18, and the agency is marking the milestone with its worldwide “Shine Bright for Voyager’s Light-Day” event.",
       "url": "https://www.accuweather.com/en/space-news/voyager-1-reaches-a-light-day-from-earth-in-golden-milestone/1957989",
-      "urlToImage": "https://cms.accuweather.com/wp-content/uploads/2026/11/voyager-1-advisory-image-2-nov-10.jpg?w=768",
-      "publishedAt": "2026-11-19T20:25:02Z",
-      "content": "NASA’s Voyager 1 became the first human-made object to reach one light-day from Earth on Nov. 18, and the agency is marking the milestone with its worldwide “Shine Bright for Voyager’s Light-Day” eve… [+5515 chars]"
+      "urlToImage": "https://cms.accuweather.com/wp-content/uploads/2026/11/voyager-1-advisory-image-2-nov-10.jpg?w=768"
     }
-  ]
+  ],
+  "articles_count": 69,
+  "category": "general",
+  "country": "us",
+  "fetched_at": "2026-11-25T07:21:44.929363Z",
+  "providers": [
+    "rss"
+  ],
+  "source": "top_headlines"
 }

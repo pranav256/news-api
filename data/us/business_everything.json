@@ -1,1314 +1,1612 @@
 {
-  "source": "everything",
-  "country": "us",
-  "category": "business",
-  "providers": [
-    "newsapi",
-    "rss"
-  ],
-  "fetched_at": "2026-11-25T00:09:54.387694+00:00",
-  "articles_count": 100,
   "articles": [
     {
+      "author": "Ken Belson",
+      "content": "Mrs. Ford, who took over the team after the 2014 death of her husband, William Clay Ford Sr., was one of a handful of female owners in the N.F.L.",
+      "description": "Mrs. Ford, who took over the team after the 2014 death of her husband, William Clay Ford Sr., was one of a handful of female owners in the N.F.L.",
+      "publishedAt": "2026-11-25T03:52:08Z",
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Devlin Barrett and Ana Swanson",
-      "title": "Blanche Downplays Questions Over Nvidia as Investigators Examine Company’s Customers",
-      "description": "Justice Department investigators have gathered evidence of Nvidia’s high-powered computer chips being illegally diverted by other firms to China, according to people familiar with the inquiries.",
-      "url": "https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-doj-nvidia-01-zpmh/24dc-doj-nvidia-01-zpmh-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-24T23:27:36Z",
-      "content": "Justice Department investigators have gathered evidence of Nvidia’s high-powered computer chips being illegally diverted by other firms to China, according to people familiar with the inquiries."
+      "title": "Martha Firestone Ford, Owner of Detroit Lions, Dies at 101",
+      "url": "https://www.nytimes.com/2026/11/24/business/martha-firestone-ford-dead.html",
+      "urlToImage": "https://static01.nyt.com/images/2021/02/22/obituaries/Ford-01/merlin_184116561_86296d93-61d7-42f1-a351-868f49df8338-mediumSquareAt3X.jpg"
     },
     {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Michael Levenson",
-      "title": "‘Carthage Resident Al Gore’ Buys His Hometown Tennessee Newspaper",
-      "description": "The Carthage Courier announced this week that the former vice president was buying the weekly paper, which has been publishing since 1913.",
-      "url": "https://www.nytimes.com/2026/11/24/business/media/al-gore-newspaper-carthage-courier.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24xp-gore-newpaper-qptl/24xp-gore-newpaper-qptl-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-24T23:06:01Z",
-      "content": "The Carthage Courier announced this week that the former vice president was buying the weekly paper, which has been publishing since 1913."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Andrew Ross Sorkin",
-      "title": "DealBook Summit 2026: The Cost of Being Pragmatic in a Chaotic World",
-      "description": "At the summit marking DealBook’s 25th year, business leaders explored the dangers of mistrust in turbulent times.",
-      "url": "https://www.nytimes.com/2026/11/24/business/dealbook/world-chaos-pragmatism.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/25/multimedia/25sp-dealbook-cover-web/25sp-dealbook-cover-web-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-24T23:03:18Z",
-      "content": "At the summit marking DealBook’s 25th year, business leaders explored the dangers of mistrust in turbulent times."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Shivani Vora",
-      "title": "DealBook Summit 2026: Help Wanted to Succeed in an A.I. World",
-      "description": "While young people are facing daunting challenges in the labor market, there are ways to improve the chance of landing a good job.",
-      "url": "https://www.nytimes.com/2026/11/24/business/dealbook/work-jobs-task-force.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/25/multimedia/25sp-dealbook-work-taskforce-pqtg/25sp-dealbook-work-taskforce-pqtg-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-24T23:01:20Z",
-      "content": "While young people are facing daunting challenges in the labor market, there are ways to improve the chance of landing a good job."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Leslie Wayne",
-      "title": "DealBook Summit 2026: After the Upheaval From the Midterm Elections, Who Has the Edge in 2028?",
-      "description": "Are the Democrats’ gains in the midterm elections lasting? Or just another swing of the political pendulum?",
-      "url": "https://www.nytimes.com/2026/11/24/business/dealbook/midterm-elections-task-force.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/25/multimedia/25sp-dealbook-elections-taskforce-2-fghl/25sp-dealbook-elections-taskforce-2-fghl-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-24T23:00:25Z",
-      "content": "Are the Democrats’ gains in the midterm elections lasting? Or just another swing of the political pendulum?"
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "author": "Steve Lohr",
-      "title": "DealBook Summit 2026: Rein in A.I., but Don’t Pause It",
-      "description": "A panel of experts said protections on artificial intelligence could be adopted without stifling the technology’s development.",
-      "url": "https://www.nytimes.com/2026/11/24/business/dealbook/ai-task-force.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/25/multimedia/25sp-dealbook-ai-taskforce-cgtj/25sp-dealbook-ai-taskforce-cgtj-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-24T22:59:27Z",
-      "content": "A panel of experts said protections on artificial intelligence could be adopted without stifling the technology’s development."
-    },
-    {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "Alina Tugend",
-      "title": "DealBook Summit 2026: It’s Time to Fix Health Care",
+      "content": "Experts said problems of cost, trust and dysfunction had reached crisis levels, but voters could be the impetus to force change.",
       "description": "Experts said problems of cost, trust and dysfunction had reached crisis levels, but voters could be the impetus to force change.",
+      "publishedAt": "2026-11-25T01:24:19Z",
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "DealBook Summit 2026: It’s Time to Fix Health Care",
       "url": "https://www.nytimes.com/2026/11/24/business/dealbook/health-care-task-force.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/25/multimedia/25sp-dealbook-health-taskforce-cvqw/25sp-dealbook-health-taskforce-cvqw-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-24T22:58:36Z",
-      "content": "Experts said problems of cost, trust and dysfunction had reached crisis levels, but voters could be the impetus to force change."
+      "urlToImage": "https://static01.nyt.com/images/2026/11/25/multimedia/25sp-dealbook-health-taskforce-cvqw/25sp-dealbook-health-taskforce-cvqw-mediumSquareAt3X.jpg"
     },
     {
+      "author": "Tyler Bartlam",
+      "content": "NPR's Scott Detrow speaks with Dan Alexander, a senior editor at Forbes and author of a book about President Trump's businesses, about the president's holdings in Nvidia given recent news.",
+      "description": "NPR's Scott Detrow speaks with Dan Alexander, a senior editor at Forbes and author of a book about President Trump's businesses, about the president's holdings in Nvidia given recent news.",
+      "publishedAt": "2026-11-24T23:48:14Z",
+      "source": {
+        "id": "npr",
+        "name": "NPR"
+      },
+      "title": "Unpacking President Trump's financial stake in Nvidia",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6052402/unpacking-president-trumps-financial-stake-in-nvidia",
+      "urlToImage": null
+    },
+    {
+      "author": "Devlin Barrett and Ana Swanson",
+      "content": "Justice Department investigators have gathered evidence of Nvidia’s high-powered computer chips being illegally diverted by other firms to China, according to people familiar with the inquiries.",
+      "description": "Justice Department investigators have gathered evidence of Nvidia’s high-powered computer chips being illegally diverted by other firms to China, according to people familiar with the inquiries.",
+      "publishedAt": "2026-11-24T23:27:37Z",
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
+      "title": "Blanche Downplays Questions Over Nvidia as Investigators Examine Company’s Customers",
+      "url": "https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-doj-nvidia-01-zpmh/24dc-doj-nvidia-01-zpmh-mediumSquareAt3X.jpg"
+    },
+    {
+      "author": "Michael Levenson",
+      "content": "The Carthage Courier announced this week that the former vice president was buying the weekly paper, which has been publishing since 1913.",
+      "description": "The Carthage Courier announced this week that the former vice president was buying the weekly paper, which has been publishing since 1913.",
+      "publishedAt": "2026-11-24T23:06:01Z",
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "‘Carthage Resident Al Gore’ Buys His Hometown Tennessee Newspaper",
+      "url": "https://www.nytimes.com/2026/11/24/business/media/al-gore-newspaper-carthage-courier.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24xp-gore-newpaper-qptl/24xp-gore-newpaper-qptl-mediumSquareAt3X.jpg"
+    },
+    {
+      "author": "Andrew Ross Sorkin",
+      "content": "At the summit marking DealBook’s 25th year, business leaders explored the dangers of mistrust in turbulent times.",
+      "description": "At the summit marking DealBook’s 25th year, business leaders explored the dangers of mistrust in turbulent times.",
+      "publishedAt": "2026-11-24T23:03:18Z",
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "DealBook Summit 2026: The Cost of Being Pragmatic in a Chaotic World",
+      "url": "https://www.nytimes.com/2026/11/24/business/dealbook/world-chaos-pragmatism.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/25/multimedia/25sp-dealbook-cover-web/25sp-dealbook-cover-web-mediumSquareAt3X.jpg"
+    },
+    {
+      "author": "Shivani Vora",
+      "content": "While young people are facing daunting challenges in the labor market, there are ways to improve the chance of landing a good job.",
+      "description": "While young people are facing daunting challenges in the labor market, there are ways to improve the chance of landing a good job.",
+      "publishedAt": "2026-11-24T23:01:20Z",
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "DealBook Summit 2026: Help Wanted to Succeed in an A.I. World",
+      "url": "https://www.nytimes.com/2026/11/24/business/dealbook/work-jobs-task-force.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/25/multimedia/25sp-dealbook-work-taskforce-pqtg/25sp-dealbook-work-taskforce-pqtg-mediumSquareAt3X.jpg"
+    },
+    {
+      "author": "Leslie Wayne",
+      "content": "Are the Democrats’ gains in the midterm elections lasting? Or just another swing of the political pendulum?",
+      "description": "Are the Democrats’ gains in the midterm elections lasting? Or just another swing of the political pendulum?",
+      "publishedAt": "2026-11-24T23:00:25Z",
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "DealBook Summit 2026: After the Upheaval From the Midterm Elections, Who Has the Edge in 2028?",
+      "url": "https://www.nytimes.com/2026/11/24/business/dealbook/midterm-elections-task-force.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/25/multimedia/25sp-dealbook-elections-taskforce-2-fghl/25sp-dealbook-elections-taskforce-2-fghl-mediumSquareAt3X.jpg"
+    },
+    {
+      "author": "Steve Lohr",
+      "content": "A panel of experts said protections on artificial intelligence could be adopted without stifling the technology’s development.",
+      "description": "A panel of experts said protections on artificial intelligence could be adopted without stifling the technology’s development.",
+      "publishedAt": "2026-11-24T22:59:27Z",
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "DealBook Summit 2026: Rein in A.I., but Don’t Pause It",
+      "url": "https://www.nytimes.com/2026/11/24/business/dealbook/ai-task-force.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/25/multimedia/25sp-dealbook-ai-taskforce-cgtj/25sp-dealbook-ai-taskforce-cgtj-mediumSquareAt3X.jpg"
+    },
+    {
       "author": "The New York Times",
-      "title": "DealBook Summit 2026: Groundbreakers Tell What Is On Their Minds",
+      "content": "Leaders from a range of disciplines who led talks at the summit about global issues responded to questions in advance. Their answers have been lightly edited.",
       "description": "Leaders from a range of disciplines who led talks at the summit about global issues responded to questions in advance. Their answers have been lightly edited.",
-      "url": "https://www.nytimes.com/2026/11/24/business/dealbook/dealbook-summit-groundbreakers.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/25/multimedia/25sp-dealbook-groundbreakers-3-tklf/25sp-dealbook-groundbreakers-3-tklf-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-24T22:57:53Z",
-      "content": "Leaders from a range of disciplines who led talks at the summit about global issues responded to questions in advance. Their answers have been lightly edited."
-    },
-    {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
+      "title": "DealBook Summit 2026: Groundbreakers Tell What Is On Their Minds",
+      "url": "https://www.nytimes.com/2026/11/24/business/dealbook/dealbook-summit-groundbreakers.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/25/multimedia/25sp-dealbook-groundbreakers-3-tklf/25sp-dealbook-groundbreakers-3-tklf-mediumSquareAt3X.jpg"
+    },
+    {
       "author": "The New York Times",
-      "title": "25 Years of DealBook Moments",
+      "content": "These photographs are drawn from events since DealBook began publishing that have left an indelible mark on business, policy and culture. We’re still feeling their ripples today.",
       "description": "These photographs are drawn from events since DealBook began publishing that have left an indelible mark on business, policy and culture. We’re still feeling their ripples today.",
+      "publishedAt": "2026-11-24T22:56:21Z",
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "25 Years of DealBook Moments",
       "url": "https://www.nytimes.com/2026/11/24/business/dealbook/25-years-photographs-moments.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/25/multimedia/25sp-dealbook-moments-08-cbtj/25sp-dealbook-moments-08-cbtj-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-24T22:56:20Z",
-      "content": "These photographs are drawn from events since DealBook began publishing that have left an indelible mark on business, policy and culture. We’re still feeling their ripples today."
+      "urlToImage": "https://static01.nyt.com/images/2026/11/25/multimedia/25sp-dealbook-moments-08-cbtj/25sp-dealbook-moments-08-cbtj-mediumSquareAt3X.jpg"
     },
     {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "Yola Mzizi",
-      "title": "Black Friday Deals Starting Earlier This Year? It’s Not Just in Your Head.",
+      "content": "Some shoppers have “Black Friday fatigue” from sales that began as early as the first week in November.",
       "description": "Some shoppers have “Black Friday fatigue” from sales that began as early as the first week in November.",
-      "url": "https://www.nytimes.com/2026/11/24/style/black-friday-sales-2026-earlier.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/26/multimedia/24BLACK-FRIDAY-FOREVER-01-gjwz/24BLACK-FRIDAY-FOREVER-01-gjwz-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-24T21:54:50Z",
-      "content": "Some shoppers have “Black Friday fatigue” from sales that began as early as the first week in November."
-    },
-    {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
+      "title": "Black Friday Deals Starting Earlier This Year? It’s Not Just in Your Head.",
+      "url": "https://www.nytimes.com/2026/11/24/style/black-friday-sales-2026-earlier.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/26/multimedia/24BLACK-FRIDAY-FOREVER-01-gjwz/24BLACK-FRIDAY-FOREVER-01-gjwz-mediumSquareAt3X.jpg"
+    },
+    {
       "author": "Ama Sarpomaa",
-      "title": "Marcia Ann Gillespie, Editor in Chief of Essence and Ms., Has Died",
+      "content": "She became editor in chief of Essence at age 26, and later ran the feminist magazine Ms. She was 82.",
       "description": "She became editor in chief of Essence at age 26, and later ran the feminist magazine Ms. She was 82.",
+      "publishedAt": "2026-11-24T21:45:21Z",
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "Marcia Ann Gillespie, Editor in Chief of Essence and Ms., Has Died",
       "url": "https://www.nytimes.com/2026/11/23/business/media/marcia-ann-gillespie-dead.html",
-      "urlToImage": null,
-      "publishedAt": "2026-11-24T21:45:20Z",
-      "content": "She became editor in chief of Essence at age 26, and later ran the feminist magazine Ms. She was 82."
+      "urlToImage": null
     },
     {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "Julie Creswell",
-      "title": "Luxury Water Is Luring Drinkers Who Have Lost Their Thirst for Alcohol",
+      "content": "A host of newcomers are pushing into the high-end water space, which has long been occupied by brands like Fiji, Evian and Voss.",
       "description": "A host of newcomers are pushing into the high-end water space, which has long been occupied by brands like Fiji, Evian and Voss.",
-      "url": "https://www.nytimes.com/2026/11/24/business/luxury-water-fiji-evian-voss.html",
-      "urlToImage": null,
       "publishedAt": "2026-11-24T21:18:42Z",
-      "content": "A host of newcomers are pushing into the high-end water space, which has long been occupied by brands like Fiji, Evian and Voss."
-    },
-    {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
+      "title": "Luxury Water Is Luring Drinkers Who Have Lost Their Thirst for Alcohol",
+      "url": "https://www.nytimes.com/2026/11/24/business/luxury-water-fiji-evian-voss.html",
+      "urlToImage": null
+    },
+    {
       "author": "Aruni Soni and Jason Karaian",
-      "title": "Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally",
+      "content": "Shares have veered wildly for days, pushed and pulled by the drama at Nvidia and the rise and fall of Anthropic’s stock after its blockbuster public offering.",
       "description": "Shares have veered wildly for days, pushed and pulled by the drama at Nvidia and the rise and fall of Anthropic’s stock after its blockbuster public offering.",
+      "publishedAt": "2026-11-24T21:12:54Z",
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally",
       "url": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24biz-markets-zjwk/24biz-markets-zjwk-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-24T21:12:53Z",
-      "content": "Shares have veered wildly for days, pushed and pulled by the drama at Nvidia and the rise and fall of Anthropic’s stock after its blockbuster public offering."
+      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24biz-markets-zjwk/24biz-markets-zjwk-mediumSquareAt3X.jpg"
     },
     {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "Patricia Cohen",
-      "title": "Trump’s Nvidia Push Shows Companies’ Importance in Global Economic War",
+      "content": "Presidents before him have bailed out companies in times of national crisis. Mr. Trump went further: He staked the fortunes of the United States on those of a favored chief executive.",
       "description": "Presidents before him have bailed out companies in times of national crisis. Mr. Trump went further: He staked the fortunes of the United States on those of a favored chief executive.",
-      "url": "https://www.nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24Biz-nvidia-Trump-01-vqpj/24Biz-nvidia-Trump-01-vqpj-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-24T19:54:59Z",
-      "content": "Presidents before him have bailed out companies in times of national crisis. Mr. Trump went further: He staked the fortunes of the United States on those of a favored chief executive."
-    },
-    {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
+      "title": "Trump’s Nvidia Push Shows Companies’ Importance in Global Economic War",
+      "url": "https://www.nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24Biz-nvidia-Trump-01-vqpj/24Biz-nvidia-Trump-01-vqpj-mediumSquareAt3X.jpg"
+    },
+    {
       "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe, Sri Muppidi and Ian Mount",
-      "title": "How Huang’s Return Rewrote Corporate America’s Rules",
+      "content": "The reinstatement of Jensen Huang atop Nvidia, following pressure from President Trump, shattered norms for corporate governance. What comes next is unclear.",
       "description": "The reinstatement of Jensen Huang atop Nvidia, following pressure from President Trump, shattered norms for corporate governance. What comes next is unclear.",
-      "url": "https://www.nytimes.com/2026/11/24/business/dealbook/huang-nvidia-trump.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24db-huang-lead-hmbg/24db-huang-lead-hmbg-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-24T19:36:06Z",
-      "content": "The reinstatement of Jensen Huang atop Nvidia, following pressure from President Trump, shattered norms for corporate governance. What comes next is unclear."
-    },
-    {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
+      "title": "How Huang’s Return Rewrote Corporate America’s Rules",
+      "url": "https://www.nytimes.com/2026/11/24/business/dealbook/huang-nvidia-trump.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24db-huang-lead-hmbg/24db-huang-lead-hmbg-mediumSquareAt3X.jpg"
+    },
+    {
       "author": "Tara Siegel Bernard",
-      "title": "Putting Socially Conscious Investments in 401(k) Plans Could Get Harder",
+      "content": "The Labor Department has, once again, proposed a rule that may discourage workplace retirement plans from adding investment options based on environmental and social considerations.",
       "description": "The Labor Department has, once again, proposed a rule that may discourage workplace retirement plans from adding investment options based on environmental and social considerations.",
-      "url": "https://www.nytimes.com/2026/11/24/your-money/401k-esg-rules.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24Biz-401K-ESG-fmkb/24Biz-401K-ESG-fmkb-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-24T19:29:19Z",
-      "content": "The Labor Department has, once again, proposed a rule that may discourage workplace retirement plans from adding investment options based on environmental and social considerations."
-    },
-    {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
+      "title": "Putting Socially Conscious Investments in 401(k) Plans Could Get Harder",
+      "url": "https://www.nytimes.com/2026/11/24/your-money/401k-esg-rules.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24Biz-401K-ESG-fmkb/24Biz-401K-ESG-fmkb-mediumSquareAt3X.jpg"
+    },
+    {
       "author": "Paul Mozur, Keith Bradsher, Mara Hvistendahl, Michael Forsythe and Ana Swanson",
-      "title": "From Chinese Factory Town to the Nvidia Scandal: The Rise of Alice Huang",
+      "content": "The woman whose role has become a focus of the Nvidia spying saga grew up in a small town built around a weapons factory. Her jump to finance and the tech world paralleled China’s own.",
       "description": "The woman whose role has become a focus of the Nvidia spying saga grew up in a small town built around a weapons factory. Her jump to finance and the tech world paralleled China’s own.",
-      "url": "https://www.nytimes.com/2026/11/24/business/nvidia-alice-huang-china.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/23/business/00alice-huang/00alice-huang-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-24T19:19:59Z",
-      "content": "The woman whose role has become a focus of the Nvidia spying saga grew up in a small town built around a weapons factory. Her jump to finance and the tech world paralleled China’s own."
-    },
-    {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
+      "title": "From Chinese Factory Town to the Nvidia Scandal: The Rise of Alice Huang",
+      "url": "https://www.nytimes.com/2026/11/24/business/nvidia-alice-huang-china.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/23/business/00alice-huang/00alice-huang-mediumSquareAt3X.jpg"
+    },
+    {
       "author": "Niraj Chokshi",
-      "title": "Pressure Builds at American Airlines as It Lags Delta and United",
+      "content": "American flies more travelers than any other U.S. carrier, but debt, fuel costs and mistakes have left it losing money while other big airlines report billions in profits.",
       "description": "American flies more travelers than any other U.S. carrier, but debt, fuel costs and mistakes have left it losing money while other big airlines report billions in profits.",
-      "url": "https://www.nytimes.com/2026/11/24/business/american-airlines-delta-united.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24biz-american-airlines-01-kcqz/24biz-american-airlines-01-kcqz-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-24T18:06:24Z",
-      "content": "American flies more travelers than any other U.S. carrier, but debt, fuel costs and mistakes have left it losing money while other big airlines report billions in profits."
-    },
-    {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
+      "title": "Pressure Builds at American Airlines as It Lags Delta and United",
+      "url": "https://www.nytimes.com/2026/11/24/business/american-airlines-delta-united.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24biz-american-airlines-01-kcqz/24biz-american-airlines-01-kcqz-mediumSquareAt3X.jpg"
+    },
+    {
       "author": "Kalley Huang, Jordyn Holman, Lauren Hirsch and Ryan Mac",
-      "title": "With Jensen Huang’s Return as C.E.O., Trump Effectively Overrode Nvidia’s Board",
+      "content": "Nvidia’s board said Mr. Huang would not be back. But President Trump, who pushed for Mr. Huang’s reinstatement, effectively overrode the board, governance experts said.",
       "description": "Nvidia’s board said Mr. Huang would not be back. But President Trump, who pushed for Mr. Huang’s reinstatement, effectively overrode the board, governance experts said.",
+      "publishedAt": "2026-11-24T15:40:14Z",
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "With Jensen Huang’s Return as C.E.O., Trump Effectively Overrode Nvidia’s Board",
       "url": "https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-board-trump.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/23/multimedia/23biz-nvidia-board-1-hjlv/23biz-nvidia-board-1-hjlv-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-24T15:40:13Z",
-      "content": "Nvidia’s board said Mr. Huang would not be back. But President Trump, who pushed for Mr. Huang’s reinstatement, effectively overrode the board, governance experts said."
+      "urlToImage": "https://static01.nyt.com/images/2026/11/23/multimedia/23biz-nvidia-board-1-hjlv/23biz-nvidia-board-1-hjlv-mediumSquareAt3X.jpg"
     },
     {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "Julie Halpert",
-      "title": "6 Craft Retreats Offer Knitting, Pottery and More for All Skill Levels",
+      "content": "Interest in crafting hobbies, like knitting or pottery, isn’t new, but several factors in the wake of the pandemic have also made them appealing. Here are some suggestions for hands-on retreats.",
       "description": "Interest in crafting hobbies, like knitting or pottery, isn’t new, but several factors in the wake of the pandemic have also made them appealing. Here are some suggestions for hands-on retreats.",
-      "url": "https://www.nytimes.com/2026/11/24/travel/crafting-retreat-grandma-hobbies.html",
-      "urlToImage": null,
       "publishedAt": "2026-11-24T15:37:35Z",
-      "content": "Interest in crafting hobbies, like knitting or pottery, isn’t new, but several factors in the wake of the pandemic have also made them appealing. Here are some suggestions for hands-on retreats."
-    },
-    {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
+      "title": "6 Craft Retreats Offer Knitting, Pottery and More for All Skill Levels",
+      "url": "https://www.nytimes.com/2026/11/24/travel/crafting-retreat-grandma-hobbies.html",
+      "urlToImage": null
+    },
+    {
       "author": "Ana Swanson",
-      "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
+      "content": "The administration added Megaspeed to the entity list, a trade blacklist, after weeks of sparring among top officials on the decision.",
       "description": "The administration added Megaspeed to the entity list, a trade blacklist, after weeks of sparring among top officials on the decision.",
-      "url": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/23/multimedia/23nvidia-megaspeed-wltb/23nvidia-megaspeed-wltb-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-24T14:17:40Z",
-      "content": "The administration added Megaspeed to the entity list, a trade blacklist, after weeks of sparring among top officials on the decision."
-    },
-    {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
+      "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
+      "url": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/23/multimedia/23nvidia-megaspeed-wltb/23nvidia-megaspeed-wltb-mediumSquareAt3X.jpg"
+    },
+    {
       "author": "Kate Kelly, Nicholas Nehamas and Karoun Demirjian",
-      "title": "Top Aviation Officials Were Traveling When F.A.A.’s Nationwide Ground Stop Halted Flights",
+      "content": "Transportation administrators and some key executives for the contractor handling an equipment upgrade were in transit on Nov. 13, highlighting that Friday can be a bad day for something to go wrong.",
       "description": "Transportation administrators and some key executives for the contractor handling an equipment upgrade were in transit on Nov. 13, highlighting that Friday can be a bad day for something to go wrong.",
+      "publishedAt": "2026-11-24T14:10:04Z",
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "Top Aviation Officials Were Traveling When F.A.A.’s Nationwide Ground Stop Halted Flights",
       "url": "https://www.nytimes.com/2026/11/24/business/l3harris-ground-stop-aviation.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/22/us/22dc-l3harris1/22dc-l3harris1-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-24T14:10:03Z",
-      "content": "Transportation administrators and some key executives for the contractor handling an equipment upgrade were in transit on Nov. 13, highlighting that Friday can be a bad day for something to go wrong."
+      "urlToImage": "https://static01.nyt.com/images/2026/11/22/us/22dc-l3harris1/22dc-l3harris1-mediumSquareAt3X.jpg"
     },
     {
+      "author": "Greg Rosalsky",
+      "content": "Some California homeowners have spent thousands making their homes safer from wildfires. Yet all that work has barely made a dent in their insurance bills. Should they be getting a bigger break?",
+      "description": "Some California homeowners have spent thousands making their homes safer from wildfires. Yet all that work has barely made a dent in their insurance bills. Should they be getting a bigger break?",
+      "publishedAt": "2026-11-24T11:30:00Z",
       "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
+        "id": "npr",
+        "name": "NPR"
       },
+      "title": "What should it cost to insure a home in wildfire country?",
+      "url": "https://www.npr.org/sections/planet-money/2026/11/24/g-s1-154477/what-should-it-cost-to-insure-a-home-in-wildfire-country",
+      "urlToImage": null
+    },
+    {
       "author": "Lauren McCarthy",
-      "title": "Young New Yorkers Are Losing on Kalshi, City Council Says",
+      "content": "An investigation into prediction market companies found that 18- to 20-year-olds in New York City are losing money at a high rate.",
       "description": "An investigation into prediction market companies found that 18- to 20-year-olds in New York City are losing money at a high rate.",
-      "url": "https://www.nytimes.com/2026/11/24/business/kalshi-nyc-council.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24biz-kalshi-city-investigation-gtwq/24biz-kalshi-city-investigation-gtwq-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-24T10:04:07Z",
-      "content": "An investigation into prediction market companies found that 18- to 20-year-olds in New York City are losing money at a high rate."
-    },
-    {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
+      "title": "Young New Yorkers Are Losing on Kalshi, City Council Says",
+      "url": "https://www.nytimes.com/2026/11/24/business/kalshi-nyc-council.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24biz-kalshi-city-investigation-gtwq/24biz-kalshi-city-investigation-gtwq-mediumSquareAt3X.jpg"
+    },
+    {
       "author": "Pete Wells",
-      "title": "Phone Reservations Are Back at Restaurants. Humans May Not Be Included.",
+      "content": "Against all odds, restaurants still get phone calls. A number of new services — some running on A.I. and some staffed by people — are vying for the chance to answer.",
       "description": "Against all odds, restaurants still get phone calls. A number of new services — some running on A.I. and some staffed by people — are vying for the chance to answer.",
-      "url": "https://www.nytimes.com/2026/11/24/dining/restaurant-reservations-phone-calls.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/20/multimedia/FD-phone-reservations1-zqpf/FD-phone-reservations1-zqpf-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-24T10:03:27Z",
-      "content": "Against all odds, restaurants still get phone calls. A number of new services — some running on A.I. and some staffed by people — are vying for the chance to answer."
-    },
-    {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
+      "title": "Phone Reservations Are Back at Restaurants. Humans May Not Be Included.",
+      "url": "https://www.nytimes.com/2026/11/24/dining/restaurant-reservations-phone-calls.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/20/multimedia/FD-phone-reservations1-zqpf/FD-phone-reservations1-zqpf-mediumSquareAt3X.jpg"
+    },
+    {
       "author": "Elaine Glusac",
-      "title": "More (and More) Black Friday Travel Deals",
+      "content": "The bargains are plentiful this year, and they include deep discounts on resorts, cruises, safaris and more.",
       "description": "The bargains are plentiful this year, and they include deep discounts on resorts, cruises, safaris and more.",
-      "url": "https://www.nytimes.com/2026/11/24/travel/black-friday-deals.html",
-      "urlToImage": null,
       "publishedAt": "2026-11-24T10:03:26Z",
-      "content": "The bargains are plentiful this year, and they include deep discounts on resorts, cruises, safaris and more."
-    },
-    {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
+      "title": "More (and More) Black Friday Travel Deals",
+      "url": "https://www.nytimes.com/2026/11/24/travel/black-friday-deals.html",
+      "urlToImage": null
+    },
+    {
       "author": "Christopher Rowland",
-      "title": "Medicare Hospice Caps Leave Patients Without Care",
+      "content": "Critics say the payment limits to companies penalize patients who are not dying on the government’s timetable.",
       "description": "Critics say the payment limits to companies penalize patients who are not dying on the government’s timetable.",
-      "url": "https://www.nytimes.com/2026/11/24/business/medicare-hospice-caps-patients-lose-care.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/23/multimedia/23biz-hospice-01-mpjw/23biz-hospice-01-mpjw-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-24T10:02:48Z",
-      "content": "Critics say the payment limits to companies penalize patients who are not dying on the government’s timetable."
-    },
-    {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
+      "title": "Medicare Hospice Caps Leave Patients Without Care",
+      "url": "https://www.nytimes.com/2026/11/24/business/medicare-hospice-caps-patients-lose-care.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/23/multimedia/23biz-hospice-01-mpjw/23biz-hospice-01-mpjw-mediumSquareAt3X.jpg"
+    },
+    {
+      "author": "Andrea Hsu",
+      "content": "Some who have worked to promote diversity and inclusion in Silicon Valley say Jensen Huang's reinstatement as Nvidia's CEO sends a message that all that matters is money.",
+      "description": "Some who have worked to promote diversity and inclusion in Silicon Valley say Jensen Huang's reinstatement as Nvidia's CEO sends a message that all that matters is money.",
+      "publishedAt": "2026-11-24T10:00:00Z",
+      "source": {
+        "id": "npr",
+        "name": "NPR"
+      },
+      "title": "For workplace culture champions, Jensen Huang's return is 'unfathomable'",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6051583/nvidia-huang-dei-trump-women",
+      "urlToImage": null
+    },
+    {
+      "author": "Rafael Nam",
+      "content": "Trump's meme coin dinners have sparked intense controversy. These two guests attended his latest on Sunday — and agreed to provide NPR inside access.",
+      "description": "Trump's meme coin dinners have sparked intense controversy. These two guests attended his latest on Sunday — and agreed to provide NPR inside access.",
+      "publishedAt": "2026-11-24T10:00:00Z",
+      "source": {
+        "id": "npr",
+        "name": "NPR"
+      },
+      "title": "They attended Trump's meme coin dinner. It didn't go well",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6051604/trump-crypto-corruption-meme-coin-dinner",
+      "urlToImage": null
+    },
+    {
+      "author": "Ricky Mulvey",
+      "content": "Jensen Huang's return to Nvidia as CEO was followed by to a surge in the tech company's stock -- and the stock market.",
+      "description": "Jensen Huang's return to Nvidia as CEO was followed by to a surge in the tech company's stock -- and the stock market.",
+      "publishedAt": "2026-11-24T09:52:34Z",
+      "source": {
+        "id": "npr",
+        "name": "NPR"
+      },
+      "title": "Jensen Huang returns to Nvidia as CEO after scandal",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6051532/jensen-huang-returns-to-nvidia-as-ceo-after-scandal",
+      "urlToImage": null
+    },
+    {
+      "author": "Steve Inskeep",
+      "content": "NPR's Steve Inskeep asks Jeffrey Sonnenfeld of Yale's School of Management what Jensen Huang's return as CEO of Nvidia means for the future of the company.",
+      "description": "NPR's Steve Inskeep asks Jeffrey Sonnenfeld of Yale's School of Management what Jensen Huang's return as CEO of Nvidia means for the future of the company.",
+      "publishedAt": "2026-11-24T09:52:29Z",
+      "source": {
+        "id": "npr",
+        "name": "NPR"
+      },
+      "title": "Yale professor discusses Jensen Huang's return as Nvidia's CEO",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6051030/yale-professor-discusses-jensen-huangs-return-as-nvidias-ceo",
+      "urlToImage": null
+    },
+    {
       "author": "Joe Rennison",
-      "title": "Stocks Surge After Jensen Huang Is Reinstated as Nvidia CEO",
+      "content": "The market had already started to bounce back from a sell-off last week. Then, the news that Nvidia reinstated its former chief executive sent shares soaring.",
       "description": "The market had already started to bounce back from a sell-off last week. Then, the news that Nvidia reinstated its former chief executive sent shares soaring.",
-      "url": "https://www.nytimes.com/2026/11/22/business/nvidia-stock-huang-ai-sp500-markets.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/23/multimedia/23biz-markets-qtpc/23biz-markets-qtpc-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-24T04:58:02Z",
-      "content": "The market had already started to bounce back from a sell-off last week. Then, the news that Nvidia reinstated its former chief executive sent shares soaring."
-    },
-    {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
+      "title": "Stocks Surge After Jensen Huang Is Reinstated as Nvidia CEO",
+      "url": "https://www.nytimes.com/2026/11/22/business/nvidia-stock-huang-ai-sp500-markets.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/23/multimedia/23biz-markets-qtpc/23biz-markets-qtpc-mediumSquareAt3X.jpg"
+    },
+    {
       "author": "Peter Baker",
-      "title": "Trump’s Extraordinary Nvidia Intervention Sidelines National Security Concerns",
+      "content": "President Trump’s move to put Jensen Huang back at the helm of Nvidia caps his indifference to the warnings of his own intelligence agencies.",
       "description": "President Trump’s move to put Jensen Huang back at the helm of Nvidia caps his indifference to the warnings of his own intelligence agencies.",
-      "url": "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-national-security.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/23/multimedia/23dc-trump-nvidia-TOP-tbvl/23dc-trump-nvidia-TOP-tbvl-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-24T00:55:56Z",
-      "content": "President Trump’s move to put Jensen Huang back at the helm of Nvidia caps his indifference to the warnings of his own intelligence agencies."
-    },
-    {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
+      "title": "Trump’s Extraordinary Nvidia Intervention Sidelines National Security Concerns",
+      "url": "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-national-security.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/23/multimedia/23dc-trump-nvidia-TOP-tbvl/23dc-trump-nvidia-TOP-tbvl-mediumSquareAt3X.jpg"
+    },
+    {
       "author": "Tripp Mickle, Maggie Haberman, Jonathan Swan and Kalley Huang",
-      "title": "Jensen Huang Returns to Nvidia After President Trump Intervenes",
+      "content": "Mr. Trump, a close ally of Mr. Huang, led a campaign to assure the chip company’s board that the longtime chief executive did not present a national security risk.",
       "description": "Mr. Trump, a close ally of Mr. Huang, led a campaign to assure the chip company’s board that the longtime chief executive did not present a national security risk.",
-      "url": "https://www.nytimes.com/2026/11/23/business/nvidia-jensen-huang.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/23/multimedia/23biz-nvidia-huang-stocks-tqlk/23biz-nvidia-huang-stocks-tqlk-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-24T00:13:24Z",
-      "content": "Mr. Trump, a close ally of Mr. Huang, led a campaign to assure the chip company’s board that the longtime chief executive did not present a national security risk."
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "Jensen Huang Returns to Nvidia After President Trump Intervenes",
+      "url": "https://www.nytimes.com/2026/11/23/business/nvidia-jensen-huang.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/23/multimedia/23biz-nvidia-huang-stocks-tqlk/23biz-nvidia-huang-stocks-tqlk-mediumSquareAt3X.jpg"
     },
     {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
       "author": "Sophia Compton",
-      "title": "Fiona the hippo's tragic death prompts Cincinnati Zoo to install new safeguards at Hippo Cove",
+      "content": "The Cincinnati Zoo &amp; Botanical Garden officially reopened its Hippo Cove exhibit on Monday, introducing new safety measures just days after the death of Fiona, the zoos famous 9-year-old Nile hip… [+3607 chars]",
       "description": "New safety protections have been introduced at Hippo Cove as the Cincinnati Zoo reopens following Fiona's death, with guests urged to secure belongings.",
-      "url": "https://www.foxnews.com/us/fiona-hippos-tragic-death-prompts-cincinnati-zoo-install-new-safeguards-hippo-cove",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/fiona-the-hippo-close-up.png",
       "publishedAt": "2026-11-24T00:02:27Z",
-      "content": "The Cincinnati Zoo &amp; Botanical Garden officially reopened its Hippo Cove exhibit on Monday, introducing new safety measures just days after the death of Fiona, the zoos famous 9-year-old Nile hip… [+3607 chars]"
-    },
-    {
       "source": {
         "id": "fox-news",
         "name": "Fox News"
       },
+      "title": "Fiona the hippo's tragic death prompts Cincinnati Zoo to install new safeguards at Hippo Cove",
+      "url": "https://www.foxnews.com/us/fiona-hippos-tragic-death-prompts-cincinnati-zoo-install-new-safeguards-hippo-cove",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/fiona-the-hippo-close-up.png"
+    },
+    {
       "author": "Emma Bussey",
-      "title": "NATO warns Putin could strike before European army responds, points to US as military model",
+      "content": "NATO Secretary-General Mark Rutte warned Monday that creating a separate European army could undermine the alliances ability to respond quickly to a Russian attack, as Moscow continues to ramp up its… [+5801 chars]",
       "description": "NATO Secretary-General Mark Rutte warned Russia's war machine runs at full speed and could threaten Europe long after the war in Ukraine ends.",
-      "url": "https://www.foxnews.com/world/nato-warns-putin-could-strike-european-army-responds-points-us-military-model",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/nato-sec-general-mark-rutte-feb-2026.jpg",
       "publishedAt": "2026-11-23T23:37:35Z",
-      "content": "NATO Secretary-General Mark Rutte warned Monday that creating a separate European army could undermine the alliances ability to respond quickly to a Russian attack, as Moscow continues to ramp up its… [+5801 chars]"
-    },
-    {
       "source": {
         "id": "fox-news",
         "name": "Fox News"
       },
+      "title": "NATO warns Putin could strike before European army responds, points to US as military model",
+      "url": "https://www.foxnews.com/world/nato-warns-putin-could-strike-european-army-responds-points-us-military-model",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/nato-sec-general-mark-rutte-feb-2026.jpg"
+    },
+    {
       "author": "Trey Wallace",
-      "title": "Florida State makes its move with Glenn Schumann, but nostalgia alone won’t pay for a championship roster",
+      "content": "Florida State spent the past few weeks zeroing in on one candidate to replace Mike Norvell. On Monday afternoon, the Seminoles landed their guy, reaching an agreement with Georgia defensive coordinat… [+5910 chars]",
       "description": "Florida State hired Georgia defensive coordinator Glenn Schumann after AD Jeff Purinton gave assurances on spending for the transfer portal and roster.",
-      "url": "https://www.foxnews.com/outkick-sports/florida-state-makes-move-glenn-schumann-nostalgia-alone-wont-pay-championship-roster",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/glenn-schumann-georgia-notre-dame-fox-news__001.jpg",
       "publishedAt": "2026-11-23T23:35:20Z",
-      "content": "Florida State spent the past few weeks zeroing in on one candidate to replace Mike Norvell. On Monday afternoon, the Seminoles landed their guy, reaching an agreement with Georgia defensive coordinat… [+5910 chars]"
-    },
-    {
       "source": {
         "id": "fox-news",
         "name": "Fox News"
       },
+      "title": "Florida State makes its move with Glenn Schumann, but nostalgia alone won’t pay for a championship roster",
+      "url": "https://www.foxnews.com/outkick-sports/florida-state-makes-move-glenn-schumann-nostalgia-alone-wont-pay-championship-roster",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/glenn-schumann-georgia-notre-dame-fox-news__001.jpg"
+    },
+    {
       "author": "Alexander Hall",
-      "title": "MS NOW host threatens to eject ‘tech bro’ guest during Jensen Huang debate, warns 'The door's right there!'",
+      "content": "MS NOW host Stephanie Ruhle rebuked several guests on Monday's episode of \"Money, Power, Politics\" for questioning each others credibility and demanded they leave if they refused to follow her rules.… [+2440 chars]",
       "description": "Stephanie Ruhle demanded respect during a heated MS NOW panel as Jason Calacanis defended Nvidia’s reinstated CEO against Yale lecturer Gautam Mukunda.",
-      "url": "https://www.foxnews.com/media/ms-now-host-threatens-eject-tech-bro-guest-jensen-huang-debate-warns-door-right-there",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/Stephanie-Ruhle-photo.png",
       "publishedAt": "2026-11-23T23:32:29Z",
-      "content": "MS NOW host Stephanie Ruhle rebuked several guests on Monday's episode of \"Money, Power, Politics\" for questioning each others credibility and demanded they leave if they refused to follow her rules.… [+2440 chars]"
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "title": "MS NOW host threatens to eject ‘tech bro’ guest during Jensen Huang debate, warns 'The door's right there!'",
+      "url": "https://www.foxnews.com/media/ms-now-host-threatens-eject-tech-bro-guest-jensen-huang-debate-warns-door-right-there",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/Stephanie-Ruhle-photo.png"
     },
     {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
       "author": "David Rosenberg, Gators Wire",
-      "title": "Jon Sumrall knows Florida State rivalry is not just another game",
+      "content": "Jon Sumrall understands that Friday's trip to Tallahassee carries implications extending far beyond Florida's eighth victory of the season.\r\nThe Gators will close the regular season against Florida S… [+23439 chars]",
       "description": "Jon Sumrall discussed Florida's progress, Jadan Baugh's rushing milestone and the importance of Friday's rivalry game at Florida State.",
-      "url": "https://gatorswire.usatoday.com/story/sports/college/gators/football/2026/11/23/florida-football-jon-sumrall-week-13-quotes-fsu-rivalry/92932835007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/1e195aeaf0616ed8af131d90c365c1e5839ecc162ae6d96775d389d41f053479/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgators_wire_usa_today_articles_447%2F6dae75fef852dc2e6a4d5956224bf7d7.jpg",
       "publishedAt": "2026-11-23T23:25:37Z",
-      "content": "Jon Sumrall understands that Friday's trip to Tallahassee carries implications extending far beyond Florida's eighth victory of the season.\r\nThe Gators will close the regular season against Florida S… [+23439 chars]"
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "title": "Jon Sumrall knows Florida State rivalry is not just another game",
+      "url": "https://gatorswire.usatoday.com/story/sports/college/gators/football/2026/11/23/florida-football-jon-sumrall-week-13-quotes-fsu-rivalry/92932835007/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/1e195aeaf0616ed8af131d90c365c1e5839ecc162ae6d96775d389d41f053479/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgators_wire_usa_today_articles_447%2F6dae75fef852dc2e6a4d5956224bf7d7.jpg"
     },
     {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
       "author": "Mary Cunningham",
-      "title": "Huang's return at Nvidia puts spotlight on chipmaker's board",
+      "content": "Nvidia's stunning about-face on Monday to reinstate Jensen Huang as CEO undermines the credibility of its board of directors and raises questions about its commitment to enforcing the company's own r… [+4673 chars]",
       "description": "Nvidia directors' decision to rehire Jensen Huang shows a \"lack of courage,\" according to one prominent governance expert.",
-      "url": "https://www.cbsnews.com/news/nvidia-board-reinstates-ceo-jensen-huang/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/23/2522d412-07ea-475d-87b2-3f4d1af2aade/thumbnail/1200x630/e940d153b1317c7b5036387a0a3c5774/gettyimages-2306068086.jpg",
       "publishedAt": "2026-11-23T23:10:32Z",
-      "content": "Nvidia's stunning about-face on Monday to reinstate Jensen Huang as CEO undermines the credibility of its board of directors and raises questions about its commitment to enforcing the company's own r… [+4673 chars]"
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "title": "Huang's return at Nvidia puts spotlight on chipmaker's board",
+      "url": "https://www.cbsnews.com/news/nvidia-board-reinstates-ceo-jensen-huang/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/23/2522d412-07ea-475d-87b2-3f4d1af2aade/thumbnail/1200x630/e940d153b1317c7b5036387a0a3c5774/gettyimages-2306068086.jpg"
     },
     {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
       "author": "Gary Grumbach, Adam Reiss, Dareh Gregorian",
-      "title": "Appeals court gives Trump another chance to move his hush money conviction case to a federal venue",
+      "content": "An appeals court on Monday opened the door to moving to federal court President Donald Trumps New York state criminal case that resulted in a felony conviction.\r\nIn a brief two-page order, the 2nd U.… [+3406 chars]",
       "description": "The 2nd U.S. Circuit Court of Appeals found a federal judge “erred” when he ruled that President Donald Trump had waited too long to raise his immunity defense.",
-      "url": "https://www.nbcnews.com/politics/donald-trump/appeals-court-gives-another-chance-move-hush-money-case-federal-court-rcna610988",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2026-11/291123-trump-sjr-1631-6ae2e3.jpg",
       "publishedAt": "2026-11-23T23:09:32Z",
-      "content": "An appeals court on Monday opened the door to moving to federal court President Donald Trumps New York state criminal case that resulted in a felony conviction.\r\nIn a brief two-page order, the 2nd U.… [+3406 chars]"
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "title": "Appeals court gives Trump another chance to move his hush money conviction case to a federal venue",
+      "url": "https://www.nbcnews.com/politics/donald-trump/appeals-court-gives-another-chance-move-hush-money-case-federal-court-rcna610988",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2026-11/291123-trump-sjr-1631-6ae2e3.jpg"
     },
     {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
       "author": "Adam Cancryn, Kristen Holmes, Alayna Treene, Hadas Gold",
-      "title": "Inside the Trump pressure campaign that restored Jensen Huang as Nvidia’s CEO | CNN Politics",
+      "content": "President Donald Trump had been stewing for days over the US stock markets deepening sell-off when he decided there was only one way to stop the slide: Put Jensen Huang back atop Nvidia.\r\nTrumps conc… [+8664 chars]",
       "description": "President Donald Trump had been stewing for days over the US stock market’s deepening sell-off when he decided there was only one way to stop the slide: Put Jensen Huang back atop Nvidia.",
-      "url": "https://www.cnn.com/2026/11/23/politics/trump-administration-jensen-huang-reinstated",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2306037090.jpg?c=original",
       "publishedAt": "2026-11-23T23:06:45Z",
-      "content": "President Donald Trump had been stewing for days over the US stock markets deepening sell-off when he decided there was only one way to stop the slide: Put Jensen Huang back atop Nvidia.\r\nTrumps conc… [+8664 chars]"
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "title": "Inside the Trump pressure campaign that restored Jensen Huang as Nvidia’s CEO | CNN Politics",
+      "url": "https://www.cnn.com/2026/11/23/politics/trump-administration-jensen-huang-reinstated",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2306037090.jpg?c=original"
     },
     {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
       "author": "Amber Harding",
-      "title": "Hunting, fishing and outdoor recreation fuel $704 billion American industry, new data reveals",
+      "content": "Turns out, spending a Saturday on the lake or a weekend in the deer stand isn't just good for the soul. It's pretty good for the American economy, too.\r\nAccording to new data released by the U.S. Bur… [+2733 chars]",
       "description": "Fishing and boating generated $39.1 billion in 2025, leading outdoor recreation in 35 states as the sector added $704.2 billion to U.S. GDP.",
-      "url": "https://www.foxnews.com/outkick-sports/hunting-fishing-outdoor-recreation-fuel-704-billion-american-industry-new-data-reveals",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/couple-drift-boat-salmon-steelhead-washington.jpg",
       "publishedAt": "2026-11-23T23:05:36Z",
-      "content": "Turns out, spending a Saturday on the lake or a weekend in the deer stand isn't just good for the soul. It's pretty good for the American economy, too.\r\nAccording to new data released by the U.S. Bur… [+2733 chars]"
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "title": "Hunting, fishing and outdoor recreation fuel $704 billion American industry, new data reveals",
+      "url": "https://www.foxnews.com/outkick-sports/hunting-fishing-outdoor-recreation-fuel-704-billion-american-industry-new-data-reveals",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/couple-drift-boat-salmon-steelhead-washington.jpg"
     },
     {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
       "author": "Kailey Sigoda",
-      "title": "The 21+ products our editors never pay full price for on Black Friday",
+      "content": "Our NBC Selected editors spend all year testing products and figuring out what’s actually worth buying. So when Black Friday rolls around, we have a pretty good idea of what deserves a spot in our ow… [+10978 chars]",
       "description": "Black Friday is coming up, and the NBC Selected editors are sharing what products they’re buying including whitening strips, makeup and more.",
-      "url": "https://www.nbcnews.com/select/shopping/what-editors-buy-every-black-friday-rcna610942",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2026-11/261123-BF-ed-picks-dj-main-V2-195fc4.jpg",
       "publishedAt": "2026-11-23T22:52:21Z",
-      "content": "Our NBC Selected editors spend all year testing products and figuring out what’s actually worth buying. So when Black Friday rolls around, we have a pretty good idea of what deserves a spot in our ow… [+10978 chars]"
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "title": "The 21+ products our editors never pay full price for on Black Friday",
+      "url": "https://www.nbcnews.com/select/shopping/what-editors-buy-every-black-friday-rcna610942",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2026-11/261123-BF-ed-picks-dj-main-V2-195fc4.jpg"
     },
     {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "Tony Romm, Sydney Ember and Colby Smith",
-      "title": "Jensen Huang Returns to Nvidia, Showing What Trump Will Do for AI",
+      "content": "President Trump intervened on behalf of the returning Nvidia chief in a bid to boost a key company driving the stock market. The company’s share price soared.",
       "description": "President Trump intervened on behalf of the returning Nvidia chief in a bid to boost a key company driving the stock market. The company’s share price soared.",
-      "url": "https://www.nytimes.com/2026/11/23/business/trump-jensen-huang-nvidia.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/23/multimedia/23dc-nvidia-econ-lvjb/23dc-nvidia-econ-lvjb-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-23T22:19:47Z",
-      "content": "President Trump intervened on behalf of the returning Nvidia chief in a bid to boost a key company driving the stock market. The company’s share price soared."
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "Jensen Huang Returns to Nvidia, Showing What Trump Will Do for AI",
+      "url": "https://www.nytimes.com/2026/11/23/business/trump-jensen-huang-nvidia.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/23/multimedia/23dc-nvidia-econ-lvjb/23dc-nvidia-econ-lvjb-mediumSquareAt3X.jpg"
     },
     {
+      "author": "Rafael Nam",
+      "content": "Trump held another meme coin dinner for top holders of his cryptocurrency — an event that has raised intense controversy. Here's an inside account from two guests who attended.",
+      "description": "Trump held another meme coin dinner for top holders of his cryptocurrency — an event that has raised intense controversy. Here's an inside account from two guests who attended.",
+      "publishedAt": "2026-11-23T22:17:59Z",
       "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
+        "id": "npr",
+        "name": "NPR"
       },
+      "title": "They attended Trump's controversial meme coin dinner. It didn't go well",
+      "url": "https://www.npr.org/2026/11/23/nx-s1-6045883/they-attended-trumps-controversial-meme-coin-dinner-it-didnt-go-well",
+      "urlToImage": null
+    },
+    {
+      "author": "Andrea Hsu",
+      "content": "Women who have advocated for DEI in tech say Jensen Huang's return to NVIDIA as CEO sends a message that in Silicon Valley, all that matters is money. s",
+      "description": "Women who have advocated for DEI in tech say Jensen Huang's return to NVIDIA as CEO sends a message that in Silicon Valley, all that matters is money. s",
+      "publishedAt": "2026-11-23T22:03:57Z",
+      "source": {
+        "id": "npr",
+        "name": "NPR"
+      },
+      "title": "Some women in tech have concerns about Huang's return",
+      "url": "https://www.npr.org/2026/11/23/nx-s1-6045799/how-some-women-in-tech-are-responding-to-jensen-huangs-return-to-nvidia",
+      "urlToImage": null
+    },
+    {
       "author": "Bethany Heitman",
-      "title": "The best squishies, slime and fidget toys to gift this year",
+      "content": "Whether you’re shopping for a kid who’s always fidgeting, a coworker who needs a desk-side stress reliever or a teen who’s obsessed with the latest slime trend, squishy gifts are a fun, low-cost way … [+5445 chars]",
       "description": "Shop the best squishies, slime and fidget toys of 2026, from NeeDoh, Crayola Globbles, plus tips for finding sold-out favorites in stores and online.",
-      "url": "https://www.nbcnews.com/select/shopping/best-squishy-gifts-2026-rcna610915",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2026-11/261123-best-squishies-gifts-kb-main-5fe4c1.jpg",
       "publishedAt": "2026-11-23T21:40:38Z",
-      "content": "Whether you’re shopping for a kid who’s always fidgeting, a coworker who needs a desk-side stress reliever or a teen who’s obsessed with the latest slime trend, squishy gifts are a fun, low-cost way … [+5445 chars]"
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "title": "The best squishies, slime and fidget toys to gift this year",
+      "url": "https://www.nbcnews.com/select/shopping/best-squishy-gifts-2026-rcna610915",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2026-11/261123-best-squishies-gifts-kb-main-5fe4c1.jpg"
     },
     {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
       "author": "Ian Miller",
-      "title": "With Skubal signing, the New York Mets should have bought themselves the 2027 World Series title | Ian Miller",
+      "content": "Cancel the 2027 Major League Baseball season. Why even bother playing the games? We don't need a World Series, just hand the trophy to the New York Mets right now.\r\nSounds a bit ridiculous, doesn't i… [+9215 chars]",
       "description": "Major League Baseball fans feared the Dodgers would ruin the sport, but the Mets' 9-year, $450 million Tarik Skubal deal flips the script entirely.",
-      "url": "https://www.foxnews.com/outkick-sports/skubal-signing-new-york-mets-should-have-bought-themselves-2027-world-series-title-ian-miller",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/tarik-skubal-dodgers-braves-nlds-fox-news_.jpg",
       "publishedAt": "2026-11-23T21:37:45Z",
-      "content": "Cancel the 2027 Major League Baseball season. Why even bother playing the games? We don't need a World Series, just hand the trophy to the New York Mets right now.\r\nSounds a bit ridiculous, doesn't i… [+9215 chars]"
-    },
-    {
       "source": {
         "id": "fox-news",
         "name": "Fox News"
       },
+      "title": "With Skubal signing, the New York Mets should have bought themselves the 2027 World Series title | Ian Miller",
+      "url": "https://www.foxnews.com/outkick-sports/skubal-signing-new-york-mets-should-have-bought-themselves-2027-world-series-title-ian-miller",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/tarik-skubal-dodgers-braves-nlds-fox-news_.jpg"
+    },
+    {
       "author": "Sean Joseph",
-      "title": "UCLA lost but viral Miss California crown wearing cheerleader Sharlize True Trujillo continues to win",
+      "content": "UCLA's undefeated season came to an end in Ann Arbor this weekend when they lost to Michigan 18-16 in a triple overtime game. The Bruins dropped from the AP No. 4-ranked team in the country down to t… [+2264 chars]",
       "description": "UCLA Bruins cheerleader Sharlize True Trujillo stays in the spotlight after the Ann Arbor loss to Michigan, with her Miss California crown and viral video.",
-      "url": "https://www.foxnews.com/outkick-sports/ucla-lost-viral-miss-california-crown-wearing-cheerleader-sharlize-true-trujillo-continues-win",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/ucla-bruins-cheerleaders-rose-bowl-fox-news_.jpg",
       "publishedAt": "2026-11-23T21:35:40Z",
-      "content": "UCLA's undefeated season came to an end in Ann Arbor this weekend when they lost to Michigan 18-16 in a triple overtime game. The Bruins dropped from the AP No. 4-ranked team in the country down to t… [+2264 chars]"
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "title": "UCLA lost but viral Miss California crown wearing cheerleader Sharlize True Trujillo continues to win",
+      "url": "https://www.foxnews.com/outkick-sports/ucla-lost-viral-miss-california-crown-wearing-cheerleader-sharlize-true-trujillo-continues-win",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/ucla-bruins-cheerleaders-rose-bowl-fox-news_.jpg"
     },
     {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "Kasia Pilat",
-      "title": "Audra Fordin Fixes Cars, and Eases Women’s Fears",
+      "content": "Audra Fordin recognized an undeniable need to make automobile education more accessible, and did something about it.",
       "description": "Audra Fordin recognized an undeniable need to make automobile education more accessible, and did something about it.",
-      "url": "https://www.nytimes.com/2026/11/23/business/small-business/women-cars.html",
-      "urlToImage": null,
       "publishedAt": "2026-11-23T21:31:04Z",
-      "content": "Audra Fordin recognized an undeniable need to make automobile education more accessible, and did something about it."
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "Audra Fordin Fixes Cars, and Eases Women’s Fears",
+      "url": "https://www.nytimes.com/2026/11/23/business/small-business/women-cars.html",
+      "urlToImage": null
     },
     {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
       "author": "Joshua Nelson",
-      "title": "$25 minimum wage backers frame midterms as 'blue-collar wave,' 'mandate' to raise pay",
+      "content": "Democrats' huge wins in the 2026 midterms represent a \"blue-collar wave\" mandate for a $25 federal minimum wage, an advocate for the wage hike tells Fox News Digital.\r\nOne Fair Wage President Saru Ja… [+4194 chars]",
       "description": "One Fair Wage's Saru Jayaraman says the midterms delivered a \"blue-collar wave\" and mandate for a $25 federal minimum wage to meet the cost of living.",
-      "url": "https://www.foxnews.com/media/25-minimum-wage-backers-frame-midterms-blue-collar-wave-mandate-raise-pay",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/democrats-push-federal-minimum-wage-congress.jpg",
       "publishedAt": "2026-11-23T21:16:40Z",
-      "content": "Democrats' huge wins in the 2026 midterms represent a \"blue-collar wave\" mandate for a $25 federal minimum wage, an advocate for the wage hike tells Fox News Digital.\r\nOne Fair Wage President Saru Ja… [+4194 chars]"
-    },
-    {
       "source": {
         "id": "fox-news",
         "name": "Fox News"
       },
+      "title": "$25 minimum wage backers frame midterms as 'blue-collar wave,' 'mandate' to raise pay",
+      "url": "https://www.foxnews.com/media/25-minimum-wage-backers-frame-midterms-blue-collar-wave-mandate-raise-pay",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/democrats-push-federal-minimum-wage-congress.jpg"
+    },
+    {
       "author": "Morgan Phillips",
-      "title": "Bessent gave Iran weeks before it had ‘nothing left to trade.’ New sanctions expose what survived",
+      "content": "Treasury Secretary Scott Bessent warned in September that Iran would have \"nothing left to trade\" within two weeks.\r\nNearly two months later, the Trump administration is still targeting the overseas … [+5075 chars]",
       "description": "Scott Bessent warned Iran had two weeks. Two months later, Treasury hit over two dozen entities in Dubai, Hong Kong and Turkey moving billions for Tehran.",
-      "url": "https://www.foxnews.com/politics/bessent-gave-iran-weeks-before-nothing-left-trade-new-sanctions-expose-what-survived",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/scott-bessent-nov-2025.jpg",
       "publishedAt": "2026-11-23T21:12:57Z",
-      "content": "Treasury Secretary Scott Bessent warned in September that Iran would have \"nothing left to trade\" within two weeks.\r\nNearly two months later, the Trump administration is still targeting the overseas … [+5075 chars]"
-    },
-    {
       "source": {
         "id": "fox-news",
         "name": "Fox News"
       },
+      "title": "Bessent gave Iran weeks before it had ‘nothing left to trade.’ New sanctions expose what survived",
+      "url": "https://www.foxnews.com/politics/bessent-gave-iran-weeks-before-nothing-left-trade-new-sanctions-expose-what-survived",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/01/scott-bessent-nov-2025.jpg"
+    },
+    {
+      "author": "Willa Rubin",
+      "content": "A near-record number of people are expected to travel this Thanksgiving week — and they'll be paying more for it.",
+      "description": "A near-record number of people are expected to travel this Thanksgiving week — and they'll be paying more for it.",
+      "publishedAt": "2026-11-23T21:07:16Z",
+      "source": {
+        "id": "npr",
+        "name": "NPR"
+      },
+      "title": "How the high cost of fuel is affecting Thanksgiving travel",
+      "url": "https://www.npr.org/2026/11/23/nx-s1-6042357/thanksgiving-travel-gas-airfare-prices",
+      "urlToImage": null
+    },
+    {
       "author": "Zach Dean",
-      "title": "NFL refs continue to be shockingly bad, Tom Jackson was our childhood & has fantasy football lost its luster?",
+      "content": "'Nightcaps' is a daily column that catches you up on the biggest sports, news and culture stories you may have missed while pretending to do work at your desk. It runs Monday-Friday on OutKick.com.\r\n… [+8717 chars]",
       "description": "Tom Jackson and Chris Berman's \"NFL Primetime\" defined Sunday nights before RedZone existed, and fans are mourning a piece of their childhood.",
-      "url": "https://www.foxnews.com/outkick-sports/nfl-refs-continue-shockingly-bad-tom-jackson-childhood-fantasy-football-lost-luster",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/mike-evans-49ers-vikings-touchdown-mexico-city.jpg",
       "publishedAt": "2026-11-23T20:31:25Z",
-      "content": "'Nightcaps' is a daily column that catches you up on the biggest sports, news and culture stories you may have missed while pretending to do work at your desk. It runs Monday-Friday on OutKick.com.\r\n… [+8717 chars]"
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "title": "NFL refs continue to be shockingly bad, Tom Jackson was our childhood & has fantasy football lost its luster?",
+      "url": "https://www.foxnews.com/outkick-sports/nfl-refs-continue-shockingly-bad-tom-jackson-childhood-fantasy-football-lost-luster",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/mike-evans-49ers-vikings-touchdown-mexico-city.jpg"
     },
     {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
       "author": "Scout Springgate Hawkeyes Wire",
-      "title": "Caitlin Clark reveals Nike Caitlin 1 tap-activated color-changing tech",
+      "content": "During her Nov. 18 appearance on Travis and Jason Kelce's \"New Heights\" podcast, Iowa women's basketball legend and current Indiana Fever guard Caitlin Clark revealed a revolutionary technology featu… [+1386 chars]",
       "description": "Appearing on the Nov. 18 \"new Heights\" podcast, Caitlin Clark unveiled a revolutionary tap-activated color-changing feature for her Nike Caitlin 1s.",
-      "url": "https://hawkeyeswire.usatoday.com/story/sports/college/hawkeyes/womens-basketball/2026/11/23/caitlin-clark-reveals-nike-caitlin-1-tap-activated-color-changing-tech/92869845007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/03d91ecb664fce11bbeed55802b91428eca45496d3eebcad69cc60d665e0e2bd/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhawkeyes_wire_usa_today_articles_405%2F6ffc239f83261ca47d052e80f829e9f9.jpg",
       "publishedAt": "2026-11-23T20:15:27Z",
-      "content": "During her Nov. 18 appearance on Travis and Jason Kelce's \"New Heights\" podcast, Iowa women's basketball legend and current Indiana Fever guard Caitlin Clark revealed a revolutionary technology featu… [+1386 chars]"
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "title": "Caitlin Clark reveals Nike Caitlin 1 tap-activated color-changing tech",
+      "url": "https://hawkeyeswire.usatoday.com/story/sports/college/hawkeyes/womens-basketball/2026/11/23/caitlin-clark-reveals-nike-caitlin-1-tap-activated-color-changing-tech/92869845007/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/03d91ecb664fce11bbeed55802b91428eca45496d3eebcad69cc60d665e0e2bd/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhawkeyes_wire_usa_today_articles_405%2F6ffc239f83261ca47d052e80f829e9f9.jpg"
     },
     {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
       "author": "Fox News",
-      "title": "Best Sportsbook Promos for Monday Night Football: Claim $2000+ on Commanders vs Bengals",
+      "content": "Week 11 closes with a quarterback showcase in Landover. Joe Burrow and the Bengals visit Jayden Daniels and the Commanders on Monday Night Football, two years after Washington won a 38-33 thriller be… [+4547 chars]",
       "description": "The best sportsbook promos for Monday Night Football, with $2,000+ in bonuses from BetMGM, Fanatics, FanDuel, bet365, Hard Rock Bet, Underdog and Betr for Bengals at Commanders.",
-      "url": "https://www.foxnews.com/outkick-betting/best-sportsbook-promos-monday-night-football-claim-2000-commanders-vs-bengals",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/nfl-bengals-chase-brown-090725-1.jpg",
       "publishedAt": "2026-11-23T20:06:08Z",
-      "content": "Week 11 closes with a quarterback showcase in Landover. Joe Burrow and the Bengals visit Jayden Daniels and the Commanders on Monday Night Football, two years after Washington won a 38-33 thriller be… [+4547 chars]"
-    },
-    {
       "source": {
         "id": "fox-news",
         "name": "Fox News"
       },
+      "title": "Best Sportsbook Promos for Monday Night Football: Claim $2000+ on Commanders vs Bengals",
+      "url": "https://www.foxnews.com/outkick-betting/best-sportsbook-promos-monday-night-football-claim-2000-commanders-vs-bengals",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/09/nfl-bengals-chase-brown-090725-1.jpg"
+    },
+    {
       "author": "Andrea Margolis",
-      "title": "US urges Americans in historic region to stay alert after 'dangerous' airspace incident",
+      "content": "Americans in Poland are being warned to stay extra cautious following reported \"dangerous\" airspace violations near the Ukrainian border.\r\nU.S. Mission Poland said there were airspace violations repo… [+2781 chars]",
       "description": "U.S. Mission Poland is warning Americans to be cautious after suspected Russian missiles and a drone crashed in southeastern Poland, near the Ukrainian border.",
-      "url": "https://www.foxnews.com/travel/us-urges-americans-historic-region-stay-alert-dangerous-airspace-incident",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/TRAVEL-SOUTHEASTERN-POLAND-ALERT-RUSSIA-UKRAINE-WAR-SAFETY-1.jpg",
       "publishedAt": "2026-11-23T20:05:23Z",
-      "content": "Americans in Poland are being warned to stay extra cautious following reported \"dangerous\" airspace violations near the Ukrainian border.\r\nU.S. Mission Poland said there were airspace violations repo… [+2781 chars]"
-    },
-    {
       "source": {
         "id": "fox-news",
         "name": "Fox News"
       },
+      "title": "US urges Americans in historic region to stay alert after 'dangerous' airspace incident",
+      "url": "https://www.foxnews.com/travel/us-urges-americans-historic-region-stay-alert-dangerous-airspace-incident",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/TRAVEL-SOUTHEASTERN-POLAND-ALERT-RUSSIA-UKRAINE-WAR-SAFETY-1.jpg"
+    },
+    {
       "author": "Fox News",
-      "title": "Bet365 Bonus Code: Bet $10, Get $200 on Monday Night Football, Commanders vs Bengals",
+      "content": "Monday Night Football features two of the NFL's most dynamic quarterbacks, and the betting market expects plenty of points. Joe Burrow and the Bengals visit Jayden Daniels and the Commanders in Lando… [+2817 chars]",
       "description": "bet365 gives new users $200 in bonus bets, win or lose, when they bet $10 on Bengals at Commanders on Monday Night Football.",
-      "url": "https://www.foxnews.com/outkick-betting/bet365-bonus-code-bet-10-get-200-monday-night-football-commanders-vs-bengals",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/jamarr-chase-bengals-steelers.jpg",
       "publishedAt": "2026-11-23T20:02:26Z",
-      "content": "Monday Night Football features two of the NFL's most dynamic quarterbacks, and the betting market expects plenty of points. Joe Burrow and the Bengals visit Jayden Daniels and the Commanders in Lando… [+2817 chars]"
-    },
-    {
       "source": {
         "id": "fox-news",
         "name": "Fox News"
       },
+      "title": "Bet365 Bonus Code: Bet $10, Get $200 on Monday Night Football, Commanders vs Bengals",
+      "url": "https://www.foxnews.com/outkick-betting/bet365-bonus-code-bet-10-get-200-monday-night-football-commanders-vs-bengals",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/jamarr-chase-bengals-steelers.jpg"
+    },
+    {
       "author": "Fox News",
-      "title": "Fanatics Sportsbook Promo Code FOXNEWS: Claim up to $1000 in FanCash for Commanders vs Bengals",
+      "content": "Monday Night Football brings Joe Burrow and the Bengals to Landover to face Jayden Daniels and the Commanders. Cincinnati is a big road favorite, but this matchup has a history of surprises. New user… [+2745 chars]",
       "description": "Fanatics Sportsbook promo code FOXNEWS gives new users up to $1,000 in FanCash, a 100% bet match up to $100 a day for 10 days, on Bengals at Commanders.",
-      "url": "https://www.foxnews.com/outkick-betting/fanatics-sportsbook-promo-code-foxnews-claim-up-1000-fancash-commanders-vs-bengals",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/jayden-daniels-commanders-fox-news_.jpg",
       "publishedAt": "2026-11-23T19:57:26Z",
-      "content": "Monday Night Football brings Joe Burrow and the Bengals to Landover to face Jayden Daniels and the Commanders. Cincinnati is a big road favorite, but this matchup has a history of surprises. New user… [+2745 chars]"
-    },
-    {
       "source": {
         "id": "fox-news",
         "name": "Fox News"
       },
+      "title": "Fanatics Sportsbook Promo Code FOXNEWS: Claim up to $1000 in FanCash for Commanders vs Bengals",
+      "url": "https://www.foxnews.com/outkick-betting/fanatics-sportsbook-promo-code-foxnews-claim-up-1000-fancash-commanders-vs-bengals",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/jayden-daniels-commanders-fox-news_.jpg"
+    },
+    {
       "author": "Fox News",
-      "title": "Use Underdog Promo Code FOXNEWS: Get $50 When You Trade $10 on Commanders vs Bengals on MNF",
+      "content": "Week 11 wraps up in Landover with two of the NFL's most exciting quarterbacks. Joe Burrow and the red-hot Bengals visit Jayden Daniels and the Commanders on Monday Night Football. Underdog is offerin… [+2637 chars]",
       "description": "Use Underdog promo code FOXNEWS to play $10 and get $50 in bonus entries on Bengals at Commanders on Monday Night Football.",
-      "url": "https://www.foxnews.com/outkick-betting/use-underdog-promo-code-foxnews-get-50-when-you-trade-10-commanders-vs-bengals-mnf",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/nfl-bengals-joe-burrow-092026-1.jpg",
       "publishedAt": "2026-11-23T19:51:18Z",
-      "content": "Week 11 wraps up in Landover with two of the NFL's most exciting quarterbacks. Joe Burrow and the red-hot Bengals visit Jayden Daniels and the Commanders on Monday Night Football. Underdog is offerin… [+2637 chars]"
-    },
-    {
       "source": {
         "id": "fox-news",
         "name": "Fox News"
       },
+      "title": "Use Underdog Promo Code FOXNEWS: Get $50 When You Trade $10 on Commanders vs Bengals on MNF",
+      "url": "https://www.foxnews.com/outkick-betting/use-underdog-promo-code-foxnews-get-50-when-you-trade-10-commanders-vs-bengals-mnf",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/nfl-bengals-joe-burrow-092026-1.jpg"
+    },
+    {
       "author": "Hannah Brennan",
-      "title": "Dems brush off Elon Musk's anti-MAGA pivot, warn DOGE probe still coming",
+      "content": "Democratic lawmakers are labeling Elon Musk an \"opportunist\" after the billionaire denied being \"MAGA\" last week and shared his regret for putting roughly $450 million toward the GOP in the midterm e… [+4364 chars]",
       "description": "Democratic lawmakers call Elon Musk an \"opportunist\" and a \"chameleon\" after his MAGA remarks, warning of possible DOGE oversight probes in January.",
-      "url": "https://www.foxnews.com/politics/dems-brush-off-elon-musks-anti-maga-pivot-warn-doge-probe-still-coming",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/aguilar-musk-green-split.jpg",
       "publishedAt": "2026-11-23T19:46:59Z",
-      "content": "Democratic lawmakers are labeling Elon Musk an \"opportunist\" after the billionaire denied being \"MAGA\" last week and shared his regret for putting roughly $450 million toward the GOP in the midterm e… [+4364 chars]"
-    },
-    {
       "source": {
         "id": "fox-news",
         "name": "Fox News"
       },
+      "title": "Dems brush off Elon Musk's anti-MAGA pivot, warn DOGE probe still coming",
+      "url": "https://www.foxnews.com/politics/dems-brush-off-elon-musks-anti-maga-pivot-warn-doge-probe-still-coming",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/aguilar-musk-green-split.jpg"
+    },
+    {
       "author": "Rebecca Grant",
-      "title": "Jensen Huang's Nvidia return sends China a clear message: The AI race is on",
+      "content": "F. Scott Fitzgerald, author of \"The Great Gatsby,\" once wrote: there are no second acts in American lives. Newly restored Nvidia CEO Jensen Huang is about to prove that wrong. Lets hope Huang returns… [+4441 chars]",
       "description": "Nvidia CEO Jensen Huang's return signals a renewed fight to win the AI race with China, as H200 sales end and Blackwell and Rubin chips lead the world.",
-      "url": "https://www.foxnews.com/opinion/jensen-huang-nvidia-return-sends-china-clear-message-ai-race",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/jensen-huang.jpg",
       "publishedAt": "2026-11-23T19:43:52Z",
-      "content": "F. Scott Fitzgerald, author of \"The Great Gatsby,\" once wrote: there are no second acts in American lives. Newly restored Nvidia CEO Jensen Huang is about to prove that wrong. Lets hope Huang returns… [+4441 chars]"
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "title": "Jensen Huang's Nvidia return sends China a clear message: The AI race is on",
+      "url": "https://www.foxnews.com/opinion/jensen-huang-nvidia-return-sends-china-clear-message-ai-race",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/jensen-huang.jpg"
     },
     {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
       "author": "Oliver G., Rams Wire",
-      "title": "Potential Rams WR target hits free agency",
+      "content": "A potential target for the Los Angeles Rams' thinned-out receiver room just hit the open market. The San Francisco 49ers are releasing receiver Brandon Aiyuk, according to multiple reports, meaning h… [+2091 chars]",
       "description": "The Rams need receiver help and could find it in recently released Brandon Aiyuk.",
-      "url": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/11/23/potential-rams-wr-target-brandon-aiyuk-cut-by-49ers/92929577007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/67912a17e97d58caa5c5f48b619c44839930ab293cb7bed92c3f971ce88ae34c/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flos_angeles_rams_wire_usa_today_sports_articles_716%2F049015a2705bd32b3b7bf3e4719bef27.jpg",
       "publishedAt": "2026-11-23T19:24:53Z",
-      "content": "A potential target for the Los Angeles Rams' thinned-out receiver room just hit the open market. The San Francisco 49ers are releasing receiver Brandon Aiyuk, according to multiple reports, meaning h… [+2091 chars]"
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "title": "Potential Rams WR target hits free agency",
+      "url": "https://theramswire.usatoday.com/story/sports/nfl/rams/2026/11/23/potential-rams-wr-target-brandon-aiyuk-cut-by-49ers/92929577007/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/67912a17e97d58caa5c5f48b619c44839930ab293cb7bed92c3f971ce88ae34c/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flos_angeles_rams_wire_usa_today_sports_articles_716%2F049015a2705bd32b3b7bf3e4719bef27.jpg"
     },
     {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
       "author": "Megan Cerullo",
-      "title": "Trump, tech leaders and investors cheer Huang's return to Nvidia",
+      "content": "President Trump and high-profile business leaders applauded Nvidia's shock move to reinstate Jensen Huang as CEO on Monday, less than two weeks after the billionaire entrepreneur's resignation from t… [+3957 chars]",
       "description": "Nvidia's market value soared by $1 trillion, as President Trump and prominent tech figures applauded Huang's reinstatement as CEO.",
-      "url": "https://www.cbsnews.com/news/trump-elon-musk-business-leaders-cheer-jensen-huang-ceo-nvidia/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/23/67f500b8-92cf-4d83-b856-e07b6e4d5fe6/thumbnail/1200x630/023e74418dc093d1149e11dd4efceb3e/gettyimages-2300708840.jpg",
       "publishedAt": "2026-11-23T19:14:19Z",
-      "content": "President Trump and high-profile business leaders applauded Nvidia's shock move to reinstate Jensen Huang as CEO on Monday, less than two weeks after the billionaire entrepreneur's resignation from t… [+3957 chars]"
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "title": "Trump, tech leaders and investors cheer Huang's return to Nvidia",
+      "url": "https://www.cbsnews.com/news/trump-elon-musk-business-leaders-cheer-jensen-huang-ceo-nvidia/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/23/67f500b8-92cf-4d83-b856-e07b6e4d5fe6/thumbnail/1200x630/023e74418dc093d1149e11dd4efceb3e/gettyimages-2300708840.jpg"
     },
     {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
       "author": "Alex Miller",
-      "title": "Trump accused of 'socialism, communism' after helping scandal-plagued Nvidia CEO reclaim top job",
+      "content": "FIRST ON FOX: Republicans blasted Democrats on the campaign trail for pushing a socialist and communist agenda, but President Donald Trumps involvement in getting Jensen Huangs old job back has some … [+4468 chars]",
       "description": "Sen. Ruben Gallego calls Trump's role in Jensen Huang's Nvidia return \"as close to socialism, communism as I've ever seen.\"",
-      "url": "https://www.foxnews.com/politics/trump-accused-socialism-communism-after-helping-scandal-plagued-nvidia-ceo-reclaim-top-job",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/donald-trump-jensen-huang-washington.jpg",
       "publishedAt": "2026-11-23T19:11:29Z",
-      "content": "FIRST ON FOX: Republicans blasted Democrats on the campaign trail for pushing a socialist and communist agenda, but President Donald Trumps involvement in getting Jensen Huangs old job back has some … [+4468 chars]"
-    },
-    {
       "source": {
         "id": "fox-news",
         "name": "Fox News"
       },
+      "title": "Trump accused of 'socialism, communism' after helping scandal-plagued Nvidia CEO reclaim top job",
+      "url": "https://www.foxnews.com/politics/trump-accused-socialism-communism-after-helping-scandal-plagued-nvidia-ceo-reclaim-top-job",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/donald-trump-jensen-huang-washington.jpg"
+    },
+    {
       "author": "Hanna Panreck",
-      "title": "Trump defends Jensen Huang's credibility, Nvidia's future after board reinstated CEO, says 'sex sells'",
+      "content": "President Donald Trump defended Nvidia and Jensen Huang's credibility on Monday after the company's board reinstated him and quipped \"sex sells\" when pressed on how the company would move forward und… [+3131 chars]",
       "description": "President Trump says Jensen Huang will emerge at a \"higher level\" after Nvidia board reinstated CEO, quipping \"sex sells\" after the story of his affair exploded into a scandal.",
-      "url": "https://www.foxnews.com/media/trump-defends-jensen-huang-credibility-nvidia-future-after-board-reinstated-ceo-says-sex-sells",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/TRUMP-HUANG-REINSTATEMENT.jpg",
       "publishedAt": "2026-11-23T19:10:29Z",
-      "content": "President Donald Trump defended Nvidia and Jensen Huang's credibility on Monday after the company's board reinstated him and quipped \"sex sells\" when pressed on how the company would move forward und… [+3131 chars]"
-    },
-    {
       "source": {
         "id": "fox-news",
         "name": "Fox News"
       },
+      "title": "Trump defends Jensen Huang's credibility, Nvidia's future after board reinstated CEO, says 'sex sells'",
+      "url": "https://www.foxnews.com/media/trump-defends-jensen-huang-credibility-nvidia-future-after-board-reinstated-ceo-says-sex-sells",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/TRUMP-HUANG-REINSTATEMENT.jpg"
+    },
+    {
       "author": "Taylor Penley",
-      "title": "Hero riverboat captain describes harrowing rescue after tanker collision in New Orleans",
+      "content": "A New Orleans riverboat captain who survived a 50-foot plunge into the Mississippi River before helping rescue stranded passengers is speaking out about the harrowing tanker collision that capsized h… [+2053 chars]",
       "description": "Capt. Leonard Stewart recalls having 20 seconds to react before the Atlantic Asphalt tanker struck his riverboat, plunging him 50 feet into the Mississippi.",
-      "url": "https://www.foxnews.com/media/hero-riverboat-captain-describes-harrowing-rescue-tanker-collision-new-orleans",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/riverboat-american-heritage-capsized-mississippi-river.jpg",
       "publishedAt": "2026-11-23T19:08:49Z",
-      "content": "A New Orleans riverboat captain who survived a 50-foot plunge into the Mississippi River before helping rescue stranded passengers is speaking out about the harrowing tanker collision that capsized h… [+2053 chars]"
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "title": "Hero riverboat captain describes harrowing rescue after tanker collision in New Orleans",
+      "url": "https://www.foxnews.com/media/hero-riverboat-captain-describes-harrowing-rescue-tanker-collision-new-orleans",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/riverboat-american-heritage-capsized-mississippi-river.jpg"
     },
     {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
       "author": "Blake Toppmeyer, John Brice, Matt Hayes",
-      "title": "TCU needs a coach. Lincoln Riley is from Texas. Could this actually happen?",
+      "content": "Two Big 12 jobs in the state of Texas are now open after TCU fired Sonny Dykes.\r\nLet the Lincoln Riley sweepstakes begin?\r\nIt's only natural that Riley's name surfaces when a job opens in his home st… [+3207 chars]",
       "description": "TCU’s coaching search could spark a Lincoln Riley sweepstakes. Could the Texas native leave USC and return home for the Big 12 job?",
-      "url": "https://www.usatoday.com/story/sports/ncaaf/2026/11/23/tcu-football-coaching-candidates-lincoln-riley-jeff-monken-jeff-traylor/92927134007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/ab16acfcfcbb69873e08b24f035bf121306259d7c0c09ddeb04e53e7cde288a3/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2Fa11448c8f4fdee001df17b65ae1238ce.jpg",
       "publishedAt": "2026-11-23T19:04:53Z",
-      "content": "Two Big 12 jobs in the state of Texas are now open after TCU fired Sonny Dykes.\r\nLet the Lincoln Riley sweepstakes begin?\r\nIt's only natural that Riley's name surfaces when a job opens in his home st… [+3207 chars]"
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "title": "TCU needs a coach. Lincoln Riley is from Texas. Could this actually happen?",
+      "url": "https://www.usatoday.com/story/sports/ncaaf/2026/11/23/tcu-football-coaching-candidates-lincoln-riley-jeff-monken-jeff-traylor/92927134007/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/ab16acfcfcbb69873e08b24f035bf121306259d7c0c09ddeb04e53e7cde288a3/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2Fa11448c8f4fdee001df17b65ae1238ce.jpg"
     },
     {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
       "author": "Efrat Lachter",
-      "title": "Israel’s leading contender for prime minister clashes with Netanyahu over Iran strikes",
+      "content": "The politician tasked by Israel's president to form a new government, Gadi Eisenkot, said Monday that Iran poses no immediate threat requiring military action before a new government is formed, drawi… [+7298 chars]",
       "description": "Gadi Eisenkot says Iran poses no immediate threat before a new government forms, as Netanyahu pushes back and Trump weighs renewed strikes on Tehran.",
-      "url": "https://www.foxnews.com/world/israels-leading-contender-prime-minister-clashes-netanyahu-over-iran-strikes",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/netanyahu-trump-eisenkot-split.jpg",
       "publishedAt": "2026-11-23T18:53:06Z",
-      "content": "The politician tasked by Israel's president to form a new government, Gadi Eisenkot, said Monday that Iran poses no immediate threat requiring military action before a new government is formed, drawi… [+7298 chars]"
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "title": "Israel’s leading contender for prime minister clashes with Netanyahu over Iran strikes",
+      "url": "https://www.foxnews.com/world/israels-leading-contender-prime-minister-clashes-netanyahu-over-iran-strikes",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/netanyahu-trump-eisenkot-split.jpg"
     },
     {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe, Sri Muppidi and Ian Mount",
-      "title": "Can Jensen Huang Return to Nvidia?",
+      "content": "Jensen Huang did just that. Nvidia’s co-founder has been reinstated as chief executive, a move that has stunned Wall Street and Washington.",
       "description": "Jensen Huang did just that. Nvidia’s co-founder has been reinstated as chief executive, a move that has stunned Wall Street and Washington.",
-      "url": "https://www.nytimes.com/2026/11/23/business/dealbook/jensen-huang-nvidia.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/23/multimedia/23db-huang-kglz/23db-huang-kglz-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-23T18:38:33Z",
-      "content": "Jensen Huang did just that. Nvidia’s co-founder has been reinstated as chief executive, a move that has stunned Wall Street and Washington."
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "Can Jensen Huang Return to Nvidia?",
+      "url": "https://www.nytimes.com/2026/11/23/business/dealbook/jensen-huang-nvidia.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/23/multimedia/23db-huang-kglz/23db-huang-kglz-mediumSquareAt3X.jpg"
     },
     {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
       "author": "Dareh Gregorian, Brennan Leach",
-      "title": "Congress reacts with anger and skepticism about Jensen Huang reinstatement",
+      "content": "The stock market was thrilled with the announcement that Jensen Huang was returning as CEO of Nvidia, but lawmakers on both sides of the aisle reacted with shock — and said they still expect him to a… [+3075 chars]",
       "description": "The stock market was thrilled with the announcement that Jensen Huang was returning as CEO of Nvidia, but lawmakers on both sides of the aisle reacted with shock — and said they still expect him to answer questions next week on Capitol Hill.",
-      "url": "https://www.nbcnews.com/politics/congress/congress-criticism-jensen-huang-nvidia-reinstated-ceo-trump-rcna610926",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2026-11/261112-jensen-huang-mb-1340-ef3912.jpg",
       "publishedAt": "2026-11-23T18:37:25Z",
-      "content": "The stock market was thrilled with the announcement that Jensen Huang was returning as CEO of Nvidia, but lawmakers on both sides of the aisle reacted with shock — and said they still expect him to a… [+3075 chars]"
-    },
-    {
       "source": {
         "id": "nbc-news",
         "name": "NBC News"
       },
+      "title": "Congress reacts with anger and skepticism about Jensen Huang reinstatement",
+      "url": "https://www.nbcnews.com/politics/congress/congress-criticism-jensen-huang-nvidia-reinstated-ceo-trump-rcna610926",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2026-11/261112-jensen-huang-mb-1340-ef3912.jpg"
+    },
+    {
       "author": "Bethany Heitman",
-      "title": "The best slippers with arch support for men and women",
+      "content": "A good pair of cozy slippers keeps your feet warm at home and is sturdy enough for a quick trip to take out the trash or grab the mail. They also have a more important job: they reduce the stress of … [+11911 chars]",
       "description": "Looking for slippers with arch support? Experts share what to look for, plus the best supportive slippers for men and women, from Bombas, Ugg, Kura and more.",
-      "url": "https://www.nbcnews.com/select/shopping/slippers-with-arch-support-rcna610924",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2026-11/261116-best-slippers-with-arch-support-lf-main-f3aa47.jpg",
       "publishedAt": "2026-11-23T18:35:16Z",
-      "content": "A good pair of cozy slippers keeps your feet warm at home and is sturdy enough for a quick trip to take out the trash or grab the mail. They also have a more important job: they reduce the stress of … [+11911 chars]"
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "title": "The best slippers with arch support for men and women",
+      "url": "https://www.nbcnews.com/select/shopping/slippers-with-arch-support-rcna610924",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2026-11/261116-best-slippers-with-arch-support-lf-main-f3aa47.jpg"
     },
     {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
       "author": "Kiera McDonald, Andrew Miller",
-      "title": "Jeffries faces online fury over cryptic answer when asked if Dems would risk gov't shutdown: 'Political games'",
+      "content": "Speaker-designate Hakeem Jeffries, D-N.Y., triggered online backlash after declining to say \"one way or the other\" whether the Democratic Party would pursue a government shutdown to advance its agend… [+3163 chars]",
       "description": "Hakeem Jeffries declined to rule out a government shutdown to advance the Democratic Party's agenda, citing the appropriations process before Dec. 11.",
-      "url": "https://www.foxnews.com/politics/jeffries-faces-online-fury-cryptic-answer-dems-risk-govt-shutdown-political-games",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/hakeem-jeffries-government-shutdown-2025.jpg",
       "publishedAt": "2026-11-23T18:30:31Z",
-      "content": "Speaker-designate Hakeem Jeffries, D-N.Y., triggered online backlash after declining to say \"one way or the other\" whether the Democratic Party would pursue a government shutdown to advance its agend… [+3163 chars]"
-    },
-    {
       "source": {
         "id": "fox-news",
         "name": "Fox News"
       },
+      "title": "Jeffries faces online fury over cryptic answer when asked if Dems would risk gov't shutdown: 'Political games'",
+      "url": "https://www.foxnews.com/politics/jeffries-faces-online-fury-cryptic-answer-dems-risk-govt-shutdown-political-games",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/hakeem-jeffries-government-shutdown-2025.jpg"
+    },
+    {
       "author": null,
-      "title": "Huang Is Back: NVIDIA Reinstates CEO in Major AI Shakeup",
+      "content": "Wall Street is seeing a sea of green after the bombshell announcement that NVIDIA’s board of directors has reinstated CEO Jensen Huang. SlateStone Wealth Chief Market Strategist Kenny Polcari joins F… [+260 chars]",
       "description": "Wall Street is seeing a sea of green after the bombshell announcement that NVIDIA’s board of directors has reinstated CEO Jensen Huang. SlateStone Wealth Chief Market Strategist Kenny Polcari joins FBN’s Taylor Riggs to break down what Huang’s return means fo…",
-      "url": "https://radio.foxnews.com/2026/11/23/huang-is-back-nvidia-reinstates-ceo-in-major-ai-shakeup/",
-      "urlToImage": "https://static-radio.foxnews.com/radio.foxnews.com/content/uploads/2024/05/FEATURED_IMAGE_FOX_BUSINESS_RUNDOWN-1.png",
       "publishedAt": "2026-11-23T18:27:09Z",
-      "content": "Wall Street is seeing a sea of green after the bombshell announcement that NVIDIA’s board of directors has reinstated CEO Jensen Huang. SlateStone Wealth Chief Market Strategist Kenny Polcari joins F… [+260 chars]"
-    },
-    {
       "source": {
         "id": "fox-news",
         "name": "Fox News"
       },
+      "title": "Huang Is Back: NVIDIA Reinstates CEO in Major AI Shakeup",
+      "url": "https://radio.foxnews.com/2026/11/23/huang-is-back-nvidia-reinstates-ceo-in-major-ai-shakeup/",
+      "urlToImage": "https://static-radio.foxnews.com/radio.foxnews.com/content/uploads/2024/05/FEATURED_IMAGE_FOX_BUSINESS_RUNDOWN-1.png"
+    },
+    {
       "author": "Taylor Penley",
-      "title": "Slain firefighter's mother pleads with Trump to intervene after Newsom stops killer's death sentence",
+      "content": "The mother of a 20-year-old firefighter killed in a deliberately set California wildfire is pleading for justice following Gov. Gavin Newsom's move to commute hundreds of death sentences, including t… [+2680 chars]",
       "description": "Mother of firefighter Daniel Najera hopes President Trump can intervene in Gov. Gavin Newsom's commutation of arsonist Raymond Lee Oyler's death sentence.",
-      "url": "https://www.foxnews.com/media/slain-firefighter-mother-pleads-trump-intervene-newsom-stops-killer-death-sentence",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/california-firefighter-mom-donald-trump-split.jpg",
       "publishedAt": "2026-11-23T18:23:33Z",
-      "content": "The mother of a 20-year-old firefighter killed in a deliberately set California wildfire is pleading for justice following Gov. Gavin Newsom's move to commute hundreds of death sentences, including t… [+2680 chars]"
-    },
-    {
       "source": {
         "id": "fox-news",
         "name": "Fox News"
       },
+      "title": "Slain firefighter's mother pleads with Trump to intervene after Newsom stops killer's death sentence",
+      "url": "https://www.foxnews.com/media/slain-firefighter-mother-pleads-trump-intervene-newsom-stops-killer-death-sentence",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/california-firefighter-mom-donald-trump-split.jpg"
+    },
+    {
       "author": "Peter Burke",
-      "title": "Proposed ban on live lobster boiling gets chefs, restaurateurs worked up",
+      "content": "A newly introduced New York City Council proposal aims to change how restaurants prep seafood, but the measure is already facing strong pushback from culinary professionals who call it unnecessary an… [+3376 chars]",
       "description": "A proposed ban would outlaw boiling live crustaceans in one major city, but chefs and restaurant owners call the animal cruelty bill out of touch.",
-      "url": "https://www.foxnews.com/food-drink/proposed-ban-live-lobster-boiling-gets-chefs-restaurateurs-worked-up",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/lobsters-in-display-tank.jpg",
       "publishedAt": "2026-11-23T18:16:13Z",
-      "content": "A newly introduced New York City Council proposal aims to change how restaurants prep seafood, but the measure is already facing strong pushback from culinary professionals who call it unnecessary an… [+3376 chars]"
-    },
-    {
       "source": {
         "id": "fox-news",
         "name": "Fox News"
       },
+      "title": "Proposed ban on live lobster boiling gets chefs, restaurateurs worked up",
+      "url": "https://www.foxnews.com/food-drink/proposed-ban-live-lobster-boiling-gets-chefs-restaurateurs-worked-up",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/lobsters-in-display-tank.jpg"
+    },
+    {
       "author": "Eric Mack",
-      "title": "Trump admin announces sweeping measure to cut Iran’s ‘last financial lifeline’",
+      "content": "FIRST ON FOX: The Treasury Department on Monday imposed sweeping new sanctions against more than two dozen Iranian exchange houses, overseas front companies and financial operatives accused of moving… [+5182 chars]",
       "description": "The Treasury Department blacklisted Iranian exchange houses and front firms in Dubai, Hong Kong and Turkey accused of moving billions for Iran.",
-      "url": "https://www.foxnews.com/politics/trump-admin-announces-sweeping-measure-cut-iran-last-financial-lifeline",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/scott-bessent-white-house2.jpg",
       "publishedAt": "2026-11-23T18:08:49Z",
-      "content": "FIRST ON FOX: The Treasury Department on Monday imposed sweeping new sanctions against more than two dozen Iranian exchange houses, overseas front companies and financial operatives accused of moving… [+5182 chars]"
-    },
-    {
       "source": {
         "id": "fox-news",
         "name": "Fox News"
       },
+      "title": "Trump admin announces sweeping measure to cut Iran’s ‘last financial lifeline’",
+      "url": "https://www.foxnews.com/politics/trump-admin-announces-sweeping-measure-cut-iran-last-financial-lifeline",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/scott-bessent-white-house2.jpg"
+    },
+    {
       "author": "Rachel del Guidice",
-      "title": "Seattle restaurant owner says break-ins so frequent glass repair crew knows his door measurements by heart",
+      "content": "A Seattle restaurant owner says break-ins have become so routine that he keeps a piece of plywood ready to board up his front door.\r\nDean Yonev, who owns Palermo Pizza and Pasta in Seattle's Capitol … [+4755 chars]",
       "description": "A Seattle restaurant owner says break-ins are so frequent at his establishment that he's become too well-acquainted with local glass repairers.",
-      "url": "https://www.foxnews.com/media/seattle-restaurant-owner-break-ins-frequent-glass-repair-crew-knows-door-measurements-heart",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/Palermo-Pizza-and-Pasta.jpg",
       "publishedAt": "2026-11-23T18:00:04Z",
-      "content": "A Seattle restaurant owner says break-ins have become so routine that he keeps a piece of plywood ready to board up his front door.\r\nDean Yonev, who owns Palermo Pizza and Pasta in Seattle's Capitol … [+4755 chars]"
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "title": "Seattle restaurant owner says break-ins so frequent glass repair crew knows his door measurements by heart",
+      "url": "https://www.foxnews.com/media/seattle-restaurant-owner-break-ins-frequent-glass-repair-crew-knows-door-measurements-heart",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/Palermo-Pizza-and-Pasta.jpg"
     },
     {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
       "author": "Madeleine May, Steve Reilly, Ed O'Keefe",
-      "title": "Inside Trump's gala for $TRUMP meme coin buyers",
+      "content": "Washington — President Trump hosted a gala Sunday night at his Northern Virginia golf club for investors in $TRUMP coin, a novelty product whose value rises and falls with the interest of buyers. \r\nT… [+4584 chars]",
       "description": "Over 150 of the largest buyers of the meme coin $TRUMP attended the gala at Trump National Golf Club in Virginia.",
-      "url": "https://www.cbsnews.com/news/trump-gala-dinner-crypto-meme-coin/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/23/ae39381f-11c9-483e-961d-d708a79f76c9/thumbnail/1200x630/37d98775acdfbf249502e3ccea0508ed/trump-crypto-dinner.jpg",
       "publishedAt": "2026-11-23T17:51:00Z",
-      "content": "Washington — President Trump hosted a gala Sunday night at his Northern Virginia golf club for investors in $TRUMP coin, a novelty product whose value rises and falls with the interest of buyers. \r\nT… [+4584 chars]"
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "title": "Inside Trump's gala for $TRUMP meme coin buyers",
+      "url": "https://www.cbsnews.com/news/trump-gala-dinner-crypto-meme-coin/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/23/ae39381f-11c9-483e-961d-d708a79f76c9/thumbnail/1200x630/37d98775acdfbf249502e3ccea0508ed/trump-crypto-dinner.jpg"
     },
     {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
       "author": "Michael Jr Trim, Gators Wire",
-      "title": "SEC Power Rankings: Top contenders take care of business in Week 12",
+      "content": "The 2026 college football regular season is nearing its conclusion, and the Southeastern Conference continues to provide plenty of movement as teams prepare for their final matchups before bowl seaso… [+7874 chars]",
       "description": "Here's how the SEC stacks up in our latest power rankings after college football's Week 12, with Kentucky falling and Oklahoma rising.",
-      "url": "https://gatorswire.usatoday.com/story/sports/college/gators/football/2026/11/23/sec-power-rankings-college-football-week-12-oklahoma-texas-georgia-lsu-kentucky-florida/92926136007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/4399cb56ab6026fd71fb74945606784515ae3e65564db4a68dc31b396d4e835e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgators_wire_usa_today_articles_447%2F4a25c8e6cd8532332fe57af7bdbda5f4.jpg",
       "publishedAt": "2026-11-23T17:37:55Z",
-      "content": "The 2026 college football regular season is nearing its conclusion, and the Southeastern Conference continues to provide plenty of movement as teams prepare for their final matchups before bowl seaso… [+7874 chars]"
-    },
-    {
       "source": {
         "id": "usa-today",
         "name": "USA Today"
       },
+      "title": "SEC Power Rankings: Top contenders take care of business in Week 12",
+      "url": "https://gatorswire.usatoday.com/story/sports/college/gators/football/2026/11/23/sec-power-rankings-college-football-week-12-oklahoma-texas-georgia-lsu-kentucky-florida/92926136007/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/4399cb56ab6026fd71fb74945606784515ae3e65564db4a68dc31b396d4e835e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgators_wire_usa_today_articles_447%2F4a25c8e6cd8532332fe57af7bdbda5f4.jpg"
+    },
+    {
       "author": "David Benjamin De Cristofaro, Bills Wire",
-      "title": "Allen, Brady, and Mahomes talk Thanksgiving Matchup",
+      "content": "The AFC-leading Bills (9-1) will start getting an answer soon. After four straight games against backup and third-string quarterbacks, Buffalo hosts Patrick Mahomes and the Chiefs (8-2) on Thursday n… [+2953 chars]",
       "description": "Josh Allen, Joe Brady, and Patrick Mahomes talk Thanksgiving Matchup on Amazon Prime for Thursday Night Football.",
-      "url": "https://billswire.usatoday.com/story/sports/nfl/bills/2026/11/23/josh-allen-patrick-mahomes-give-early-bills-chiefs-preview/92920347007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/530a0426338b3fe0c0fc3f6fcabb0e64909f5c773cec394ffc396aa7426ad976/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbuffalo_bills_wire_usa_today_sports_articles_253%2F9c6c2693b336a46ead833fd58c572ca2.jpg",
       "publishedAt": "2026-11-23T17:15:34Z",
-      "content": "The AFC-leading Bills (9-1) will start getting an answer soon. After four straight games against backup and third-string quarterbacks, Buffalo hosts Patrick Mahomes and the Chiefs (8-2) on Thursday n… [+2953 chars]"
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "title": "Allen, Brady, and Mahomes talk Thanksgiving Matchup",
+      "url": "https://billswire.usatoday.com/story/sports/nfl/bills/2026/11/23/josh-allen-patrick-mahomes-give-early-bills-chiefs-preview/92920347007/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/530a0426338b3fe0c0fc3f6fcabb0e64909f5c773cec394ffc396aa7426ad976/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbuffalo_bills_wire_usa_today_sports_articles_253%2F9c6c2693b336a46ead833fd58c572ca2.jpg"
     },
     {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
       "author": "Sage Anderson",
-      "title": "The 25+ best holiday gifts for sober-curious people",
+      "content": "Whether a friend is trying Dry January for the first time, or cutting back on alcohol for good, shopping for sober-curious people is easier (and more fun) than ever. Around 39% of consumers say theyr… [+17416 chars]",
       "description": "Shop gifts for sober-curious people, including nonalcoholic spirits, mocktail kits, cozy sleep upgrades and Swedish candy.",
-      "url": "https://www.nbcnews.com/select/shopping/gifts-for-sober-curious-people-rcna610883",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2026-11/261116-gift-guide-sober-curious-people-dj-main-f541d5.jpg",
       "publishedAt": "2026-11-23T16:45:42Z",
-      "content": "Whether a friend is trying Dry January for the first time, or cutting back on alcohol for good, shopping for sober-curious people is easier (and more fun) than ever. Around 39% of consumers say theyr… [+17416 chars]"
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "title": "The 25+ best holiday gifts for sober-curious people",
+      "url": "https://www.nbcnews.com/select/shopping/gifts-for-sober-curious-people-rcna610883",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2026-11/261116-gift-guide-sober-curious-people-dj-main-f541d5.jpg"
     },
     {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
       "author": "Ryan Gaydos",
-      "title": "WWE legend 'Stone Cold' Steve Austin adds racing title to impressive résumé, describes perfect outdoors day",
+      "content": "\"Stone Cold\" Steve Austin is mostly known for his career in a WWE ring a six-time world champion, three-time Royal Rumble winner and a two-time Hall of Fame inductee.\r\nIn recent years, Austin has car… [+3845 chars]",
       "description": "\"Stone Cold\" Steve Austin claimed the VORRA Forced Induction Sportsman Class title in his Supercharged Kawasaki Teryx H2, 54 points clear this season.",
-      "url": "https://www.foxnews.com/outkick-sports/wwe-legend-stone-cold-steve-austin-adds-racing-title-impressive-resume-describes-perfect-outdoors-day",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/08/Steve-Austin.jpg",
       "publishedAt": "2026-11-23T16:39:31Z",
-      "content": "\"Stone Cold\" Steve Austin is mostly known for his career in a WWE ring a six-time world champion, three-time Royal Rumble winner and a two-time Hall of Fame inductee.\r\nIn recent years, Austin has car… [+3845 chars]"
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "title": "WWE legend 'Stone Cold' Steve Austin adds racing title to impressive résumé, describes perfect outdoors day",
+      "url": "https://www.foxnews.com/outkick-sports/wwe-legend-stone-cold-steve-austin-adds-racing-title-impressive-resume-describes-perfect-outdoors-day",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/08/Steve-Austin.jpg"
     },
     {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
       "author": "Emmet Lyons",
-      "title": "Why some Europeans have started prepping for doomsday",
+      "content": "European governments are increasingly urging citizens to prepare for up to 72 hours without access to food, water, electricity or communications. \r\nFrance, the United Kingdom, Ireland and the Netherl… [+3194 chars]",
       "description": "Amid tech glitches, cyberattacks and climate change, some European governments are urging people to prepare for days without access to basic necessities.",
-      "url": "https://www.cbsnews.com/news/prepping-comes-to-europe-government-advice-stockpile-food-water/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/23/76495184-0ab4-4f02-993e-213ed751fc39/thumbnail/1200x630/9cbb7afb63fc8447df231ec9a09dcffe/uk-prepping-2304452242.jpg",
       "publishedAt": "2026-11-23T16:15:02Z",
-      "content": "European governments are increasingly urging citizens to prepare for up to 72 hours without access to food, water, electricity or communications. \r\nFrance, the United Kingdom, Ireland and the Netherl… [+3194 chars]"
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "title": "Why some Europeans have started prepping for doomsday",
+      "url": "https://www.cbsnews.com/news/prepping-comes-to-europe-government-advice-stockpile-food-water/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/23/76495184-0ab4-4f02-993e-213ed751fc39/thumbnail/1200x630/9cbb7afb63fc8447df231ec9a09dcffe/uk-prepping-2304452242.jpg"
     },
     {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "Grace Kay and Ryan Mac",
-      "title": "Elon Musk Faces an A.I. Dilemma at SpaceX",
+      "content": "Mr. Musk’s SpaceX is renting out computing power from its data centers to competitors, including Anthropic. That’s making it harder for his own A.I. effort.",
       "description": "Mr. Musk’s SpaceX is renting out computing power from its data centers to competitors, including Anthropic. That’s making it harder for his own A.I. effort.",
+      "publishedAt": "2026-11-23T16:13:33Z",
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "Elon Musk Faces an A.I. Dilemma at SpaceX",
       "url": "https://www.nytimes.com/2026/11/23/business/elon-musk-ai-anthropic-google.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24biz-musk-anthropic-xai-hzpg/24biz-musk-anthropic-xai-hzpg-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-23T16:13:32Z",
-      "content": "Mr. Musk’s SpaceX is renting out computing power from its data centers to competitors, including Anthropic. That’s making it harder for his own A.I. effort."
+      "urlToImage": "https://static01.nyt.com/images/2026/11/24/multimedia/24biz-musk-anthropic-xai-hzpg/24biz-musk-anthropic-xai-hzpg-mediumSquareAt3X.jpg"
     },
     {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
       "author": "Dan Benton, Giants Wire",
-      "title": "Giants stock report: Whose is up, down after Week 11 win over Jaguars",
+      "content": "The New York Giants did not erase what happened last Thursday night. They simply refused to let it define the next Sunday.\r\nAgainst a Jacksonville team that arrived with momentum, New York's defense … [+3339 chars]",
       "description": "Whose stock is up or down after the New York Giants' 23-18 Week 11 win over the Jacksonville Jaguars?",
-      "url": "https://giantswire.usatoday.com/story/sports/nfl/giants/2026/11/23/new-york-giants-week-11-win-jaguars-stock-report/92923154007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/2a07ccc243de73aea3c4996d3b2bf480634473acd0455c31d61350a78617cb60/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnew_york_giants_wire_usa_today_sports_articles_591%2Fe86825d18b1a00b471c7a2cb58fbd17c.png_up.jpg",
       "publishedAt": "2026-11-23T15:55:28Z",
-      "content": "The New York Giants did not erase what happened last Thursday night. They simply refused to let it define the next Sunday.\r\nAgainst a Jacksonville team that arrived with momentum, New York's defense … [+3339 chars]"
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "title": "Giants stock report: Whose is up, down after Week 11 win over Jaguars",
+      "url": "https://giantswire.usatoday.com/story/sports/nfl/giants/2026/11/23/new-york-giants-week-11-win-jaguars-stock-report/92923154007/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/2a07ccc243de73aea3c4996d3b2bf480634473acd0455c31d61350a78617cb60/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnew_york_giants_wire_usa_today_sports_articles_591%2Fe86825d18b1a00b471c7a2cb58fbd17c.png_up.jpg"
     },
     {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
       "author": "Megan Brand",
-      "title": "Trump says he spoke ‘directly and indirectly’ with Nvidia’s board about reinstating Jensen Huang",
+      "content": "President Donald Trump said he spoke with Nvidia’s board about reinstating Jensen Huang as CEO in an interview on CNBC this morning, where he sought to provide assurances to address the concerns of l… [+2039 chars]",
       "description": "President Donald Trump said he spoke with Nvidia’s board about reinstating Jensen Huang as CEO in an interview on CNBC this morning, where he sought to provide assurances to address the concerns of lawmakers and others about national security.",
-      "url": "https://www.nbcnews.com/politics/trump-administration/trump-nvidia-board-reinstates-jensen-huang-rcna610882",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2026-11/261123-huang-trump-bf-1032-04c72d.jpg",
       "publishedAt": "2026-11-23T15:39:46Z",
-      "content": "President Donald Trump said he spoke with Nvidia’s board about reinstating Jensen Huang as CEO in an interview on CNBC this morning, where he sought to provide assurances to address the concerns of l… [+2039 chars]"
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "title": "Trump says he spoke ‘directly and indirectly’ with Nvidia’s board about reinstating Jensen Huang",
+      "url": "https://www.nbcnews.com/politics/trump-administration/trump-nvidia-board-reinstates-jensen-huang-rcna610882",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2026-11/261123-huang-trump-bf-1032-04c72d.jpg"
     },
     {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "Leo Sands",
-      "title": "Paolo Bulgari, Heir of Italian Jewelry Dynasty, Dies at 89",
+      "content": "As the chairman of his family’s company, Mr. Bulgari embraced maximalist aesthetics that recalled ancient Rome. After the 2008 financial crisis, he steered the sale of the business to LVMH.",
       "description": "As the chairman of his family’s company, Mr. Bulgari embraced maximalist aesthetics that recalled ancient Rome. After the 2008 financial crisis, he steered the sale of the business to LVMH.",
-      "url": "https://www.nytimes.com/2026/11/23/style/paolo-bulgari-dead.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/23/multimedia/23xp-bulgar-top-1/23xp-bulgar-top-1-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-23T15:39:34Z",
-      "content": "As the chairman of his family’s company, Mr. Bulgari embraced maximalist aesthetics that recalled ancient Rome. After the 2008 financial crisis, he steered the sale of the business to LVMH."
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "Paolo Bulgari, Heir of Italian Jewelry Dynasty, Dies at 89",
+      "url": "https://www.nytimes.com/2026/11/23/style/paolo-bulgari-dead.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/23/multimedia/23xp-bulgar-top-1/23xp-bulgar-top-1-mediumSquareAt3X.jpg"
     },
     {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
       "author": "Kathryn Watson",
-      "title": "Trump praises \"patriot\" Jensen Huang's return to Nvidia",
+      "content": "Washington — President Trump said Monday the U.S. government \"has no reason to believe\" that Jensen Huang's return to Nvidia as CEO \"poses any risk to national security.\"\r\nMr. Trump posted on Truth S… [+3239 chars]",
       "description": "President Trump said Monday the U.S. government \"has no reason to believe\" that Jensen Huang's return to Nvidia as CEO \"poses any risk to national security.\"",
-      "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-trump-comment-national-security-risk/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/23/2226dae3-c729-4132-bbdf-5fd3a31504a6/thumbnail/1200x630/f7a1e54aae2e7e0553c28d53bae576e1/ap26281716799324.jpg",
       "publishedAt": "2026-11-23T15:34:18Z",
-      "content": "Washington — President Trump said Monday the U.S. government \"has no reason to believe\" that Jensen Huang's return to Nvidia as CEO \"poses any risk to national security.\"\r\nMr. Trump posted on Truth S… [+3239 chars]"
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "title": "Trump praises \"patriot\" Jensen Huang's return to Nvidia",
+      "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-trump-comment-national-security-risk/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/23/2226dae3-c729-4132-bbdf-5fd3a31504a6/thumbnail/1200x630/f7a1e54aae2e7e0553c28d53bae576e1/ap26281716799324.jpg"
     },
     {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
       "author": "Kelly McGreal, Jessica Mekles",
-      "title": "Budget airline known for ultra-low fares adds first-class seats with no recline option",
+      "content": "Travelers flying on a budget will soon have a roomier option at the front of the plane.\r\nFrontier Airlines announced it is rolling out its first-ever first-class seats for flights beginning Friday, M… [+4506 chars]",
       "description": "Frontier Airlines' first-ever first-class seats debut in March 2027, with one-way bundles from $129. Some flyers who tested the seats are frustrated there's no recline option.",
-      "url": "https://www.foxnews.com/travel/budget-airline-known-ultra-low-fares-adds-first-class-seats-no-recline-option",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/frontier-airlines-had-an-unruly-passenger.jpg",
       "publishedAt": "2026-11-23T15:25:58Z",
-      "content": "Travelers flying on a budget will soon have a roomier option at the front of the plane.\r\nFrontier Airlines announced it is rolling out its first-ever first-class seats for flights beginning Friday, M… [+4506 chars]"
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "title": "Budget airline known for ultra-low fares adds first-class seats with no recline option",
+      "url": "https://www.foxnews.com/travel/budget-airline-known-ultra-low-fares-adds-first-class-seats-no-recline-option",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/02/frontier-airlines-had-an-unruly-passenger.jpg"
     },
     {
-      "source": {
-        "id": "usa-today",
-        "name": "USA Today"
-      },
       "author": "Robert Marvi, Lakers Wire",
-      "title": "Rob Pelinka: Lakers will be active on trade market to improve roster",
+      "content": "So far this season, the Los Angeles Lakers have surpassed the expectations of most, if not all, people by getting out to a 14-3 record, which ties them with the San Antonio Spurs and the Philadelphia… [+1797 chars]",
       "description": "Lakers general manager Rob Pelinka apparently has some added incentive to make a trade thanks to the team's fast start.",
-      "url": "https://lakerswire.usatoday.com/story/sports/nba/lakers/2026/11/23/rob-pelinka-lakers-will-be-active-on-trade-market-to-improve-roster/92922485007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/a78b5659bf20170c304fdd9728b5aa05c08936be319daf0659f1490649bf4386/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flebron_wire_usa_today_sports_articles_234%2F4229293c65b58c110fe80db46c404796.jpg",
       "publishedAt": "2026-11-23T15:01:51Z",
-      "content": "So far this season, the Los Angeles Lakers have surpassed the expectations of most, if not all, people by getting out to a 14-3 record, which ties them with the San Antonio Spurs and the Philadelphia… [+1797 chars]"
-    },
-    {
       "source": {
         "id": "usa-today",
         "name": "USA Today"
       },
+      "title": "Rob Pelinka: Lakers will be active on trade market to improve roster",
+      "url": "https://lakerswire.usatoday.com/story/sports/nba/lakers/2026/11/23/rob-pelinka-lakers-will-be-active-on-trade-market-to-improve-roster/92922485007/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/a78b5659bf20170c304fdd9728b5aa05c08936be319daf0659f1490649bf4386/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Flebron_wire_usa_today_sports_articles_234%2F4229293c65b58c110fe80db46c404796.jpg"
+    },
+    {
+      "author": "Shannon Bond",
+      "content": "President Trump endorsed the announcement, calling it essential for the success of the company and the economy. He added that the government does not see Huang's return as a national security risk.",
+      "description": "President Trump endorsed the announcement, calling it essential for the success of the company and the economy. He added that the government does not see Huang's return as a national security risk.",
+      "publishedAt": "2026-11-23T14:53:41Z",
+      "source": {
+        "id": "npr",
+        "name": "NPR"
+      },
+      "title": "Trump claims credit as Jensen Huang returns to Nvidia",
+      "url": "https://www.npr.org/2026/11/23/nx-s1-6050910/nvidias-jensen-huang-trump",
+      "urlToImage": null
+    },
+    {
       "author": "Brendan Sugrue, Bears Wire",
-      "title": "5 takeaways from the Bears' stifling win over the Saints",
+      "content": "The second half of the 2026 season got underway for the Chicago Bears Sunday when they welcomed the New Orleans Saints to rainy Soldier Field, much like their meeting last year. And just like that ga… [+7617 chars]",
       "description": "The Bears took care of business by handling the Saints at Soldier Field. Here are our takeaways from the victory.",
-      "url": "https://bearswire.usatoday.com/story/sports/nfl/bears/2026/11/23/bears-vs-saints-takeaways-zavion-thomas/92917863007/",
-      "urlToImage": "https://s.yimg.com/lo/mysterio/api/459a2e7ae2fdae06de5d9446fa9cf07ef7256748c9cca1a5b95cc455f8618df1/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fchicago_bears_wire_usa_today_sports_articles_533%2F57bcf091bd2dba0ade9d8af4bb964935.jpg",
       "publishedAt": "2026-11-23T14:15:28Z",
-      "content": "The second half of the 2026 season got underway for the Chicago Bears Sunday when they welcomed the New Orleans Saints to rainy Soldier Field, much like their meeting last year. And just like that ga… [+7617 chars]"
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "title": "5 takeaways from the Bears' stifling win over the Saints",
+      "url": "https://bearswire.usatoday.com/story/sports/nfl/bears/2026/11/23/bears-vs-saints-takeaways-zavion-thomas/92917863007/",
+      "urlToImage": "https://s.yimg.com/lo/mysterio/api/459a2e7ae2fdae06de5d9446fa9cf07ef7256748c9cca1a5b95cc455f8618df1/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fchicago_bears_wire_usa_today_sports_articles_533%2F57bcf091bd2dba0ade9d8af4bb964935.jpg"
     },
     {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
       "author": "Stephen Sorace",
-      "title": "Trump backs Jensen Huang return to Nvidia as tech stocks slump",
+      "content": "Nvidias board of directors on Monday unanimously voted to reinstate co-founder Jensen Huang as president, CEO and board director, effective immediately.\r\nThe company said the decision followed discus… [+1736 chars]",
       "description": "Nvidia’s board unanimously voted to bring back co-founder Jensen Huang as president, CEO and board director weeks after his resignation amid an investigation into a reported affair with an alleged Chinese intelligence source. President Donald Trump praised th…",
-      "url": "https://www.foxnews.com/live-news/ai-news-tech-markets-nvidia-11-23-26",
-      "urlToImage": "https://a57.foxnews.com/assets.foxnews.com/liveblog/fn/prod/images/2026/11/1100/619/18405490ad9593bdab112a809f606c77.jpg",
       "publishedAt": "2026-11-23T14:08:37Z",
-      "content": "Nvidias board of directors on Monday unanimously voted to reinstate co-founder Jensen Huang as president, CEO and board director, effective immediately.\r\nThe company said the decision followed discus… [+1736 chars]"
-    },
-    {
       "source": {
         "id": "fox-news",
         "name": "Fox News"
       },
+      "title": "Trump backs Jensen Huang return to Nvidia as tech stocks slump",
+      "url": "https://www.foxnews.com/live-news/ai-news-tech-markets-nvidia-11-23-26",
+      "urlToImage": "https://a57.foxnews.com/assets.foxnews.com/liveblog/fn/prod/images/2026/11/1100/619/18405490ad9593bdab112a809f606c77.jpg"
+    },
+    {
       "author": "Adam Kraut",
-      "title": "ADAM KRAUT: The Supreme Court must defend the Second Amendment in key case",
+      "content": "While many Americans are still wondering what the results of the midterm elections will mean for their day-to-day lives, the Supreme Court is preparing to hear oral arguments for two cases that could… [+4623 chars]",
       "description": "The Second Amendment Foundation argues Supreme Court cases on Dec. 2 will decide if the government can ban the AR-15, America's most popular rifle.",
-      "url": "https://www.foxnews.com/opinion/adam-kraut-supreme-court-must-defend-second-amendment-key-case",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/06/supreme-court-ar-15-split.jpg",
       "publishedAt": "2026-11-23T14:00:43Z",
-      "content": "While many Americans are still wondering what the results of the midterm elections will mean for their day-to-day lives, the Supreme Court is preparing to hear oral arguments for two cases that could… [+4623 chars]"
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "title": "ADAM KRAUT: The Supreme Court must defend the Second Amendment in key case",
+      "url": "https://www.foxnews.com/opinion/adam-kraut-supreme-court-must-defend-second-amendment-key-case",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/06/supreme-court-ar-15-split.jpg"
     },
     {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
       "author": "Mary Cunningham",
-      "title": "Stock futures rise, erasing some losses after tech rout",
+      "content": "Stock futures in the U.S. climbed before the opening bell as financial markets partially rebounded from a major technology sell-off on Friday that plunged the S&amp;P 500 and Dow into correction terr… [+1637 chars]",
       "description": "U.S. stock index futures regained ground on Monday, but Wall Street analysts think it's too soon to sound the all-clear.",
-      "url": "https://www.cbsnews.com/news/us-stock-futures-rebound-tech-rout/",
-      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/23/0bccedb6-e6d9-406b-a46c-becfdde60cac/thumbnail/1200x630/cc2c29cdfd53edb250d6193c3c8b69b6/gettyimages-2305519677.jpg",
       "publishedAt": "2026-11-23T13:56:09Z",
-      "content": "Stock futures in the U.S. climbed before the opening bell as financial markets partially rebounded from a major technology sell-off on Friday that plunged the S&amp;P 500 and Dow into correction terr… [+1637 chars]"
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "title": "Stock futures rise, erasing some losses after tech rout",
+      "url": "https://www.cbsnews.com/news/us-stock-futures-rebound-tech-rout/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/23/0bccedb6-e6d9-406b-a46c-becfdde60cac/thumbnail/1200x630/cc2c29cdfd53edb250d6193c3c8b69b6/gettyimages-2305519677.jpg"
     },
     {
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
       "author": "Alexandra Stevenson, Tung Ngo and Chang W. Lee",
-      "title": "In Vietnam, an Electric Vehicle Revolution Without Cars",
+      "content": "An oil shock is speeding a transformation of Vietnam’s streets, challenging global motorcycle giants and lifting a new generation of domestic manufacturers.",
       "description": "An oil shock is speeding a transformation of Vietnam’s streets, challenging global motorcycle giants and lifting a new generation of domestic manufacturers.",
-      "url": "https://www.nytimes.com/2026/11/23/business/electric-motorcyles-vietnam.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/16/multimedia/Biz-Vietnam-EV-05-vlqb/Biz-Vietnam-EV-05-vlqb-mediumSquareAt3X.jpg",
       "publishedAt": "2026-11-23T13:18:43Z",
-      "content": "An oil shock is speeding a transformation of Vietnam’s streets, challenging global motorcycle giants and lifting a new generation of domestic manufacturers."
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Eric Goldschein",
-      "title": "What's a good CD rate? How to tell if you're getting a deal",
-      "description": "To maximize your earnings with a CD account, it's important to know what a good rate is considered to be today.",
-      "url": "https://www.cbsnews.com/news/whats-a-good-cd-rate/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/09/887e7e72-a5d9-416d-a81f-5392f812f86d/thumbnail/1200x630/cb6958683b647034d0bdf54ab9008327/gettyimages-1738991864.jpg",
-      "publishedAt": "2026-11-23T13:17:15Z",
-      "content": "Finding the best certificate of deposit (CD) rate is an important part of deciding how best to invest your money in the short term. But a good deal on a CD is about more than the stated interest rate… [+5467 chars]"
-    },
-    {
       "source": {
         "id": "the-new-york-times",
         "name": "The New York Times"
       },
-      "author": "Michael J. de la Merced",
-      "title": "Two Major Cybersecurity Firms to Combine in $44 Billion Deal",
-      "description": "CrowdStrike agreed to acquire Zscaler, bulking up as worries about hacks fueled by advances in artificial intelligence bedevil companies and governments.",
-      "url": "https://www.nytimes.com/2026/11/23/business/crowdstrike-zscaler-cybersecurity.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/23/multimedia/biz-crowdstrike-zscaler-cwpb/biz-crowdstrike-zscaler-cwpb-mediumSquareAt3X.jpg",
-      "publishedAt": "2026-11-23T13:08:06Z",
-      "content": "CrowdStrike agreed to acquire Zscaler, bulking up as worries about hacks fueled by advances in artificial intelligence bedevil companies and governments."
+      "title": "In Vietnam, an Electric Vehicle Revolution Without Cars",
+      "url": "https://www.nytimes.com/2026/11/23/business/electric-motorcyles-vietnam.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/16/multimedia/Biz-Vietnam-EV-05-vlqb/Biz-Vietnam-EV-05-vlqb-mediumSquareAt3X.jpg"
     },
     {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Hanna Ziady",
-      "title": "US stocks set to rebound after bruising sell-off | CNN Business",
-      "description": "The sharp moves higher come after a brutal downturn last week, during which all three major U.S. stock indexes recorded weekly losses of 8% or more.",
-      "url": "https://www.cnn.com/2026/11/23/markets/us-stocks-rebound-intl",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2305372355.jpg?c=original",
-      "publishedAt": "2026-11-23T12:59:28Z",
-      "content": "US stocks look set for a sharp bounce back Monday, following a punishing tech stock sell-off driven by fears about the durability of the AI investment boom. Futures tied to the tech-focused Nasdaq-10… [+2594 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Steve Kopack",
-      "title": "Stocks set for rebound after AI-driven selloff",
-      "description": "Major U.S. stock benchmarks surged in early trading on Monday, as Wall Street sought a rebound after AI-linked stocks dragged major indexes into correction territory on Friday.",
-      "url": "https://www.nbcnews.com/business/markets/stocks-rebound-ai-tech-selloff-nvidia-rcna610833",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2026-11/261123-nyse-rs-5aa299.jpg",
-      "publishedAt": "2026-11-23T12:46:13Z",
-      "content": "Major U.S. stock benchmarks surged in early trading Monday, as Wall Street sought a rebound after AI-linked stocks dragged major indexes into correction territory Friday. \r\nFutures that track the S&a… [+4610 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Kurt Knutsson CyberGuy Report",
-      "title": "Google AI smartwatch could flag high blood pressure",
-      "description": "Google's AI used smartwatch sensors to spot hypertension without a blood pressure cuff, but the Nature study found it missed about 1 in 3 cases.",
-      "url": "https://www.foxnews.com/tech/google-ai-smartwatch-could-flag-high-blood-pressure",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/google-pixel-blood-pressure.jpg",
-      "publishedAt": "2026-11-23T12:37:32Z",
-      "content": "When was the last time you checked your blood pressure? If you're like a lot of people, it probably happened during your last doctor's appointment. And if you feel perfectly healthy, you may not give… [+13189 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": null,
-      "title": "Trump to confront Newsom over plan to spare 548 death row inmates and more top headlines",
-      "description": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
-      "url": "https://www.foxnews.com/us/trump-confront-newsom-plan-spare-548-death-row-inmates-more-top-headlines",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/trump-11-20-26.jpg",
-      "publishedAt": "2026-11-23T12:32:00Z",
-      "content": "Good morning and welcome to Fox News’ morning newsletter, Fox News First. And here's what you need to know to start your day ... TOP 3 1. Trump to confront Newsom over plan to spare 548 death row inm… [+2922 chars]"
-    },
-    {
-      "source": {
-        "id": "nbc-news",
-        "name": "NBC News"
-      },
-      "author": "Kayla Hayempour, David Hickey",
-      "title": "Democrats in the South hope to ride blue wave and bomb cyclones could dampen Thanksgiving: Morning Rundown",
-      "description": "Democrats in the South look to 2027 governor’s races. Extreme weather could disrupt Thanksgiving plans. And the Army’s detonation in Iowa.",
-      "url": "https://www.nbcnews.com/news/us-news/democrats-look-build-gains-south-weather-thanksgiving-morning-rundown-rcna610650",
-      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2026-11/261120-california-extreme-weather-vsb-2327-4be0ea.jpg",
-      "publishedAt": "2026-11-23T12:04:21Z",
-      "content": "Democrats in the South hope to capitalize on the blue wave momentum. Extreme weather on both coasts could disrupt Thanksgiving plans. And the arrest of a father and daughter by masked ICE officers on… [+7394 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Jack Bantock",
-      "title": "Fly this ‘tilt’ aircraft without a pilot’s license",
-      "description": "Pivotal’s Helix is an electric aircraft where the whole vehicle rotates to achieve vertical takeoff and landing.",
-      "url": "https://www.cnn.com/travel/helix-tilt-aircraft-no-pilots-license-spc",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-07-04-bf-sausalito-36-20261119155133776.jpg?c=original",
-      "publishedAt": "2026-11-23T12:01:26Z",
-      "content": "In the US, many kinds of pursuits require you to have a license. If you want to drive a car, cut hair commercially or — in the case of Massachusetts — tell people’s fortunes for a living, you’ll need… [+7522 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Pedro Rodriguez-Aparicio",
-      "title": "'Failed socialist state': Deep blue state’s lone GOP congressman reveals secret to winning as Democrats sweep",
-      "description": "Rep. Cliff Bentz told Fox News Digital that Oregon voters rejected failed progressive policies, blaming high taxes and regulation for hurting business.",
-      "url": "https://www.foxnews.com/politics/failed-socialist-state-deep-blue-states-lone-gop-congressman-reveals-secret-winning-democrats-sweep",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/08/biden-ice-cream-kotek.png",
-      "publishedAt": "2026-11-23T12:00:02Z",
-      "content": "EXCLUSIVE: Oregon's lone Republican congressman told Fox News Digital that voters in his district rejected what he described as the state's \"failed\" progressive policies, offering the GOP a roadmap f… [+2660 chars]"
-    },
-    {
-      "source": {
-        "id": "fox-news",
-        "name": "Fox News"
-      },
-      "author": "Dan Zaksheske",
-      "title": "NFL Week 11 Sunday takeaways: Brock Purdy is a game manager and an MVP candidate, Aaron Rodgers is cooked",
-      "description": "From Brock Purdy beating the Vikings’ blitz to the Cowboys giving up 30 points and still winning by 21, here’s one takeaway from every game on the NFL’s Week 11 Sunday slate.",
-      "url": "https://www.foxnews.com/outkick-sports/nfl-week-11-sunday-takeaways-brock-purdy-game-manager-mvp-candidate-aaron-rodgers-cooked",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/brock-purdy-touchdown-arlington-fox-news_.jpg",
-      "publishedAt": "2026-11-23T11:33:58Z",
-      "content": "Week 11 didn't look great on paper. When I checked the betting lines on Thursday, five of the 13 games had double-digit spreads. I was hoping some of those matchups would look better on the field. An… [+10273 chars]"
-    },
-    {
+      "author": "Eric Goldschein",
+      "content": "Finding the best certificate of deposit (CD) rate is an important part of deciding how best to invest your money in the short term. But a good deal on a CD is about more than the stated interest rate… [+5467 chars]",
+      "description": "To maximize your earnings with a CD account, it's important to know what a good rate is considered to be today.",
+      "publishedAt": "2026-11-23T13:17:15Z",
       "source": {
         "id": "cbs-news",
         "name": "CBS News"
       },
+      "title": "What's a good CD rate? How to tell if you're getting a deal",
+      "url": "https://www.cbsnews.com/news/whats-a-good-cd-rate/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/09/887e7e72-a5d9-416d-a81f-5392f812f86d/thumbnail/1200x630/cb6958683b647034d0bdf54ab9008327/gettyimages-1738991864.jpg"
+    },
+    {
+      "author": "Michael J. de la Merced",
+      "content": "CrowdStrike agreed to acquire Zscaler, bulking up as worries about hacks fueled by advances in artificial intelligence bedevil companies and governments.",
+      "description": "CrowdStrike agreed to acquire Zscaler, bulking up as worries about hacks fueled by advances in artificial intelligence bedevil companies and governments.",
+      "publishedAt": "2026-11-23T13:08:06Z",
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "Two Major Cybersecurity Firms to Combine in $44 Billion Deal",
+      "url": "https://www.nytimes.com/2026/11/23/business/crowdstrike-zscaler-cybersecurity.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/23/multimedia/biz-crowdstrike-zscaler-cwpb/biz-crowdstrike-zscaler-cwpb-mediumSquareAt3X.jpg"
+    },
+    {
+      "author": "Hanna Ziady",
+      "content": "US stocks look set for a sharp bounce back Monday, following a punishing tech stock sell-off driven by fears about the durability of the AI investment boom. Futures tied to the tech-focused Nasdaq-10… [+2594 chars]",
+      "description": "The sharp moves higher come after a brutal downturn last week, during which all three major U.S. stock indexes recorded weekly losses of 8% or more.",
+      "publishedAt": "2026-11-23T12:59:28Z",
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "title": "US stocks set to rebound after bruising sell-off | CNN Business",
+      "url": "https://www.cnn.com/2026/11/23/markets/us-stocks-rebound-intl",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2305372355.jpg?c=original"
+    },
+    {
+      "author": "Steve Kopack",
+      "content": "Major U.S. stock benchmarks surged in early trading Monday, as Wall Street sought a rebound after AI-linked stocks dragged major indexes into correction territory Friday. \r\nFutures that track the S&a… [+4610 chars]",
+      "description": "Major U.S. stock benchmarks surged in early trading on Monday, as Wall Street sought a rebound after AI-linked stocks dragged major indexes into correction territory on Friday.",
+      "publishedAt": "2026-11-23T12:46:13Z",
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "title": "Stocks set for rebound after AI-driven selloff",
+      "url": "https://www.nbcnews.com/business/markets/stocks-rebound-ai-tech-selloff-nvidia-rcna610833",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2026-11/261123-nyse-rs-5aa299.jpg"
+    },
+    {
+      "author": "Kurt Knutsson CyberGuy Report",
+      "content": "When was the last time you checked your blood pressure? If you're like a lot of people, it probably happened during your last doctor's appointment. And if you feel perfectly healthy, you may not give… [+13189 chars]",
+      "description": "Google's AI used smartwatch sensors to spot hypertension without a blood pressure cuff, but the Nature study found it missed about 1 in 3 cases.",
+      "publishedAt": "2026-11-23T12:37:32Z",
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "title": "Google AI smartwatch could flag high blood pressure",
+      "url": "https://www.foxnews.com/tech/google-ai-smartwatch-could-flag-high-blood-pressure",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/google-pixel-blood-pressure.jpg"
+    },
+    {
+      "author": null,
+      "content": "Good morning and welcome to Fox News’ morning newsletter, Fox News First. And here's what you need to know to start your day ... TOP 3 1. Trump to confront Newsom over plan to spare 548 death row inm… [+2922 chars]",
+      "description": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+      "publishedAt": "2026-11-23T12:32:00Z",
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "title": "Trump to confront Newsom over plan to spare 548 death row inmates and more top headlines",
+      "url": "https://www.foxnews.com/us/trump-confront-newsom-plan-spare-548-death-row-inmates-more-top-headlines",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/trump-11-20-26.jpg"
+    },
+    {
+      "author": "Kayla Hayempour, David Hickey",
+      "content": "Democrats in the South hope to capitalize on the blue wave momentum. Extreme weather on both coasts could disrupt Thanksgiving plans. And the arrest of a father and daughter by masked ICE officers on… [+7394 chars]",
+      "description": "Democrats in the South look to 2027 governor’s races. Extreme weather could disrupt Thanksgiving plans. And the Army’s detonation in Iowa.",
+      "publishedAt": "2026-11-23T12:04:21Z",
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "title": "Democrats in the South hope to ride blue wave and bomb cyclones could dampen Thanksgiving: Morning Rundown",
+      "url": "https://www.nbcnews.com/news/us-news/democrats-look-build-gains-south-weather-thanksgiving-morning-rundown-rcna610650",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2026-11/261120-california-extreme-weather-vsb-2327-4be0ea.jpg"
+    },
+    {
+      "author": "Jack Bantock",
+      "content": "In the US, many kinds of pursuits require you to have a license. If you want to drive a car, cut hair commercially or — in the case of Massachusetts — tell people’s fortunes for a living, you’ll need… [+7522 chars]",
+      "description": "Pivotal’s Helix is an electric aircraft where the whole vehicle rotates to achieve vertical takeoff and landing.",
+      "publishedAt": "2026-11-23T12:01:26Z",
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "title": "Fly this ‘tilt’ aircraft without a pilot’s license",
+      "url": "https://www.cnn.com/travel/helix-tilt-aircraft-no-pilots-license-spc",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-07-04-bf-sausalito-36-20261119155133776.jpg?c=original"
+    },
+    {
+      "author": "Pedro Rodriguez-Aparicio",
+      "content": "EXCLUSIVE: Oregon's lone Republican congressman told Fox News Digital that voters in his district rejected what he described as the state's \"failed\" progressive policies, offering the GOP a roadmap f… [+2660 chars]",
+      "description": "Rep. Cliff Bentz told Fox News Digital that Oregon voters rejected failed progressive policies, blaming high taxes and regulation for hurting business.",
+      "publishedAt": "2026-11-23T12:00:02Z",
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "title": "'Failed socialist state': Deep blue state’s lone GOP congressman reveals secret to winning as Democrats sweep",
+      "url": "https://www.foxnews.com/politics/failed-socialist-state-deep-blue-states-lone-gop-congressman-reveals-secret-winning-democrats-sweep",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/08/biden-ice-cream-kotek.png"
+    },
+    {
+      "author": "Dan Zaksheske",
+      "content": "Week 11 didn't look great on paper. When I checked the betting lines on Thursday, five of the 13 games had double-digit spreads. I was hoping some of those matchups would look better on the field. An… [+10273 chars]",
+      "description": "From Brock Purdy beating the Vikings’ blitz to the Cowboys giving up 30 points and still winning by 21, here’s one takeaway from every game on the NFL’s Week 11 Sunday slate.",
+      "publishedAt": "2026-11-23T11:33:58Z",
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "title": "NFL Week 11 Sunday takeaways: Brock Purdy is a game manager and an MVP candidate, Aaron Rodgers is cooked",
+      "url": "https://www.foxnews.com/outkick-sports/nfl-week-11-sunday-takeaways-brock-purdy-game-manager-mvp-candidate-aaron-rodgers-cooked",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/brock-purdy-touchdown-arlington-fox-news_.jpg"
+    },
+    {
       "author": "Frank Andrews",
-      "title": "Iran vows to end U.S. naval blockade by \"all available means\"",
+      "content": "President Trump on Sunday acknowledged that Iran \"has launched more drones and missiles in the last week than at any time for over a year,\" but he added: \"Don't worry, they've all been knocked down, … [+1285 chars]",
       "description": "Iran vows to force the U.S. to lift its blockade as Trump acknowledges the regime's increasing attacks, but says they've \"done no damage.\"",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
-      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/23/855de539-52ca-4644-b2eb-c3bba31967cb/thumbnail/1200x630/2275cf724c16f3cff5af0ad5d7c8a80f/iran-tanker-strait-of-hormuz-fire.jpg",
       "publishedAt": "2026-11-23T11:30:37Z",
-      "content": "President Trump on Sunday acknowledged that Iran \"has launched more drones and missiles in the last week than at any time for over a year,\" but he added: \"Don't worry, they've all been knocked down, … [+1285 chars]"
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "title": "Iran vows to end U.S. naval blockade by \"all available means\"",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-blockade-strait-of-hormuz-ship-attacks/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/23/855de539-52ca-4644-b2eb-c3bba31967cb/thumbnail/1200x630/2275cf724c16f3cff5af0ad5d7c8a80f/iran-tanker-strait-of-hormuz-fire.jpg"
+    },
+    {
+      "author": "Julie Creswell",
+      "content": "While retailers like Walmart may profit from the deals because of their size, smaller grocer chains are feeling the squeeze.",
+      "description": "While retailers like Walmart may profit from the deals because of their size, smaller grocer chains are feeling the squeeze.",
+      "publishedAt": "2026-11-23T10:03:47Z",
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "Grocers Take Losses on Thanksgiving Meal Bundles to Draw Shoppers",
+      "url": "https://www.nytimes.com/2026/11/23/business/thanksgiving-grocery-prices.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/25/multimedia/23biz-holiday-groceries--03-zwvc/23biz-holiday-groceries--03-zwvc-mediumSquareAt3X.jpg"
+    },
+    {
+      "author": "Reed Abelson and Rebecca Robbins",
+      "content": "Lawmakers are warning that spinning off the health care conglomerate’s drugstores will not end scrutiny over its power.",
+      "description": "Lawmakers are warning that spinning off the health care conglomerate’s drugstores will not end scrutiny over its power.",
+      "publishedAt": "2026-11-23T10:03:26Z",
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "CVS Health’s Planned Breakup Hasn’t Quieted Antitrust Critics",
+      "url": "https://www.nytimes.com/2026/11/23/business/cvs-pharmacy-health-federal-investigations-antitrust.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/23/multimedia/23biz-cvs-lkcq/23biz-cvs-lkcq-mediumSquareAt3X.jpg"
+    },
+    {
+      "author": "Stephanie Rosenbloom",
+      "content": "From Montana to Switzerland, here are getaways with cozy, elegant rooms, fireplaces, good food and plenty of snowy views.",
+      "description": "From Montana to Switzerland, here are getaways with cozy, elegant rooms, fireplaces, good food and plenty of snowy views.",
+      "publishedAt": "2026-11-23T10:00:42Z",
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "5 New Mountain Hotels for Your Next Winter Escape",
+      "url": "https://www.nytimes.com/2026/11/23/travel/5-mountain-hotels-winter.html",
+      "urlToImage": null
+    },
+    {
+      "author": "Erik Shilling",
+      "content": "With electric supercars from Lexus and Ferrari on the way, designers are hoping to help their cars stand out with a roar, while quieter city-bound cars try to be good neighbors.",
+      "description": "With electric supercars from Lexus and Ferrari on the way, designers are hoping to help their cars stand out with a roar, while quieter city-bound cars try to be good neighbors.",
+      "publishedAt": "2026-11-23T05:01:09Z",
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "Built to Whisper, E.V.s Look to Mimic the Growl of Gas Engines",
+      "url": "https://www.nytimes.com/2026/11/23/business/evs-electric-engine-sounds.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/23/multimedia/23wheels-roar1-wtbz/23wheels-roar1-wtbz-mediumSquareAt3X.jpg"
+    },
+    {
+      "author": "Gregory Schmidt",
+      "content": "Homeowners say the rental income helps them cover their mortgage payments, but they must also learn to handle needed repairs and confront bad tenants.",
+      "description": "Homeowners say the rental income helps them cover their mortgage payments, but they must also learn to handle needed repairs and confront bad tenants.",
+      "publishedAt": "2026-11-22T18:05:48Z",
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "Rather Than Sell Their House, They Became Landlords Instead",
+      "url": "https://www.nytimes.com/2026/11/22/business/mortgage-rates-housing-landlords.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/22/multimedia/22biz-accidental-landlords-pzlf/22biz-accidental-landlords-pzlf-mediumSquareAt3X-v2.jpg"
+    },
+    {
+      "author": "Alan Rappeport",
+      "content": "The treasury secretary said on CBS that it was too soon to say if Jensen Huang should return as the company’s chief executive.",
+      "description": "The treasury secretary said on CBS that it was too soon to say if Jensen Huang should return as the company’s chief executive.",
+      "publishedAt": "2026-11-22T17:55:31Z",
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "Scott Bessent Calls on Nvidia to Provide Answers on Chip Sales to China",
+      "url": "https://www.nytimes.com/2026/11/22/business/scott-bessent-jensen-huang-nvidia.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/22/multimedia/22dc-nvidia-bessent-cfzt/22dc-nvidia-bessent-cfzt-mediumSquareAt3X.jpg"
+    },
+    {
+      "author": "Brooks Barnes",
+      "content": "“The Hunger Games: Sunrise on the Reaping” had nearly three times the domestic opening box office total of its predecessor, extending a Lionsgate hot streak.",
+      "description": "“The Hunger Games: Sunrise on the Reaping” had nearly three times the domestic opening box office total of its predecessor, extending a Lionsgate hot streak.",
+      "publishedAt": "2026-11-22T17:53:44Z",
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "‘Hunger Games’ Rebounds With $120 Million Opening for ‘Sunrise on the Reaping’ at Box Office",
+      "url": "https://www.nytimes.com/2026/11/22/business/media/hunger-games-box-office.html",
+      "urlToImage": null
+    },
+    {
+      "author": "Sarah Kessler",
+      "content": "The mayor of New York City spoke with Andrew Ross Sorkin at the DealBook Summit.",
+      "description": "The mayor of New York City spoke with Andrew Ross Sorkin at the DealBook Summit.",
+      "publishedAt": "2026-11-22T13:00:02Z",
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "Zohran Mamdani on Trump, Wall Street and Wealth Taxes",
+      "url": "https://www.nytimes.com/2026/11/22/business/dealbook/zohran-mamdani-dealbook-summit.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/22/multimedia/22DB-mamdani-kmcp/22DB-mamdani-kmcp-mediumSquareAt3X.jpg"
+    },
+    {
+      "author": "Eli Saslow and Erin Schaff",
+      "content": "Mike Winer and his colleagues are trying to build a mathematical safeguard to keep A.I. under human control. They fear they are running out of time.",
+      "description": "Mike Winer and his colleagues are trying to build a mathematical safeguard to keep A.I. under human control. They fear they are running out of time.",
+      "publishedAt": "2026-11-22T12:27:46Z",
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "Looking for the Formula to Stop an Apocalypse",
+      "url": "https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/22/multimedia/22AI-Safety-promo/22AI-Safety-promo-mediumSquareAt3X.jpg"
+    },
+    {
+      "author": "Farah Stockman",
+      "content": "The maker of Pampers and Bounty paper towels operates 15 sites capable of running shifts unattended, with plans to add more in 2027.",
+      "description": "The maker of Pampers and Bounty paper towels operates 15 sites capable of running shifts unattended, with plans to add more in 2027.",
+      "publishedAt": "2026-11-22T10:02:21Z",
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "Procter & Gamble to Increase Factory Shifts Without Humans to Cut Costs",
+      "url": "https://www.nytimes.com/2026/11/22/business/procter-gamble-factory-automated.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/22/multimedia/22biz-procter-gamble-factories-pcmw/22biz-procter-gamble-factories-pcmw-mediumSquareAt3X.jpg"
+    },
+    {
+      "author": "Max Read",
+      "content": "Plus: Can I lie about having kids, and do I have to use my personal phone?",
+      "description": "Plus: Can I lie about having kids, and do I have to use my personal phone?",
+      "publishedAt": "2026-11-22T10:02:12Z",
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "The Case of the Idle Assistants",
+      "url": "https://www.nytimes.com/2026/11/22/business/understaffing-work-advice.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/22/multimedia/22SunBiz-WORKFRIEND-kwtq/22SunBiz-WORKFRIEND-kwtq-mediumSquareAt3X.jpg"
+    },
+    {
+      "author": "Kevin Draper",
+      "content": "Officials said that heavy rains in the Southwest had led to more screwworm cases in animals, and that mitigation efforts were working well.",
+      "description": "Officials said that heavy rains in the Southwest had led to more screwworm cases in animals, and that mitigation efforts were working well.",
+      "publishedAt": "2026-11-22T10:01:47Z",
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "Agriculture Secretary Declares U.S. Cattle Supply Safe as Screwworm Cases Rise",
+      "url": "https://www.nytimes.com/2026/11/22/business/screwworm-cases-cattle.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/19/multimedia/00biz-screwworm-cases-01-jpfh/00biz-screwworm-cases-01-jpfh-mediumSquareAt3X.jpg"
     }
   ],
-  "query": "market OR economy OR finance OR stock OR business"
+  "articles_count": 123,
+  "category": "business",
+  "country": "us",
+  "fetched_at": "2026-11-25T07:21:44.929363Z",
+  "providers": [
+    "rss"
+  ],
+  "query": "market OR economy OR finance OR stock OR business",
+  "source": "rss_fallback"
 }

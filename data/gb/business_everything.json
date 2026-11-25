@@ -1,1314 +1,1742 @@
 {
-  "source": "everything",
-  "country": "gb",
-  "category": "business",
-  "providers": [
-    "newsapi",
-    "rss"
-  ],
-  "fetched_at": "2026-11-25T00:09:54.387694+00:00",
-  "articles_count": 100,
   "articles": [
     {
+      "author": null,
+      "content": "A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 under the cap.",
+      "description": "A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 under the cap.",
+      "publishedAt": "2026-11-25T07:17:15Z",
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
-      "author": null,
-      "title": "Households braced for soaring energy bills with new price cap to be announced",
-      "description": "Domestic gas prices will rise significantly in January under regulator Ofgem's new price cap.",
+      "title": "Energy bills to rise by 26% from January",
       "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ca0/live/03fac650-e7fb-11f1-ab60-79086b6495b8.jpg",
-      "publishedAt": "2026-11-25T00:03:37Z",
-      "content": "Domestic gas prices will rise significantly in January under regulator Ofgem's new price cap."
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a30b/live/889ad760-e89b-11f1-801d-b916df288324.jpg"
     },
     {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
       "author": null,
-      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-      "description": "The verdict follows a months-long trial in New York.",
-      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
-      "publishedAt": "2026-11-24T22:24:23Z",
-      "content": "The verdict follows a months-long trial in New York."
-    },
-    {
-      "source": {
-        "id": "the-guardian",
-        "name": "The Guardian"
-      },
-      "author": "Agence France-Presse",
-      "title": "Tech sell-off resumes as euphoria from Jensen Huang’s Nvidia return subsides",
-      "description": "Sell-off signals investors are bracing for further volatility in key AI sector driving economic growth worldwide Technology shares led a market retreat Tuesday as caution returned after Jensen Huang’s extraordinary return to Nvidia days after he was forced to resign, with investors bracing for further volatility in a key sector driving economic growth worldwide. A day after Huang’s reinstatement as CEO drove Nvidia shares up more than 30%, adding more than $900bn to the firm’s market value, the euphoria dissipated as its stock lost almost 6% by Tuesday’s close. Continue reading...",
-      "url": "https://www.theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang",
-      "urlToImage": "https://i.guim.co.uk/img/media/ba0b7e2734b3f5675558eff081b376f8f83077b6/479_0_4801_3840/master/4801.jpg?width=140&quality=85&auto=format&fit=max&s=814d34a792f3088b68350ec9f04f70e5",
-      "publishedAt": "2026-11-24T22:05:21Z",
-      "content": "Sell-off signals investors are bracing for further volatility in key AI sector driving economic growth worldwide Technology shares led a market retreat Tuesday as caution returned after Jensen Huang’s extraordinary return to Nvidia days after he was forced to resign, with investors bracing for further volatility in a key sector driving economic growth worldwide. A day after Huang’s reinstatement as CEO drove Nvidia shares up more than 30%, adding more than $900bn to the firm’s market value, the euphoria dissipated as its stock lost almost 6% by Tuesday’s close. Continue reading..."
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "US attorney general dodges questions about Nvidia investigation",
+      "content": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
       "description": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+      "publishedAt": "2026-11-25T03:44:07Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "US attorney general dodges questions about Nvidia investigation",
       "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
-      "publishedAt": "2026-11-24T21:19:42Z",
-      "content": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement."
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png"
     },
     {
+      "author": null,
+      "content": "The verdict follows a months-long trial in New York.",
+      "description": "The verdict follows a months-long trial in New York.",
+      "publishedAt": "2026-11-25T02:59:27Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg"
+    },
+    {
+      "author": null,
+      "content": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
+      "description": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
+      "publishedAt": "2026-11-25T01:03:05Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "With Huang rescue, Trump riskily ties his political fortunes to Nvidia",
+      "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e638/live/844e1780-e864-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "author": null,
+      "content": "India's food inflation is broadening, squeezing household budgets.",
+      "description": "India's food inflation is broadening, squeezing household budgets.",
+      "publishedAt": "2026-11-25T01:02:13Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "The rising cost of putting food on the table in India",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e93a/live/237a32d0-e7d4-11f1-939f-471cde339c0e.jpg"
+    },
+    {
+      "author": null,
+      "content": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+      "description": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+      "publishedAt": "2026-11-25T00:38:01Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "US preparing to unveil plan for new tariffs on global trading partners",
+      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/511d/live/da29c130-e860-11f1-a330-6153c8fb2fad.jpg"
+    },
+    {
+      "author": null,
+      "content": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
+      "description": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
+      "publishedAt": "2026-11-25T00:34:05Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "Why tiny cars are taking off across Europe",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2edb/live/5d054030-ddcf-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "author": null,
+      "content": "Regulator Ofgem is raising the cap affecting the energy bills of millions of households.",
+      "description": "Regulator Ofgem is raising the cap affecting the energy bills of millions of households.",
+      "publishedAt": "2026-11-25T00:33:25Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "What will the energy cap changes mean for my bills?",
+      "url": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4155/live/6d965910-59d2-11f1-8b8c-6d33e1d5abb6.jpg"
+    },
+    {
+      "author": null,
+      "content": "The BBC speaks to three people about steps they take to keep their energy bills under control.",
+      "description": "The BBC speaks to three people about steps they take to keep their energy bills under control.",
+      "publishedAt": "2026-11-25T00:30:52Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
+      "url": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a8e/live/565f9af0-e806-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "author": "Agence France-Presse",
+      "content": "Sell-off signals investors are bracing for further volatility in key AI sector driving economic growth worldwide Technology shares led a market retreat Tuesday as caution returned after Jensen Huang’s extraordinary return to Nvidia days after he was forced to resign, with investors bracing for further volatility in a key sector driving economic growth worldwide. A day after Huang’s reinstatement as CEO drove Nvidia shares up more than 30%, adding more than $900bn to the firm’s market value, the euphoria dissipated as its stock lost almost 6% by Tuesday’s close. Continue reading...",
+      "description": "Sell-off signals investors are bracing for further volatility in key AI sector driving economic growth worldwide Technology shares led a market retreat Tuesday as caution returned after Jensen Huang’s extraordinary return to Nvidia days after he was forced to resign, with investors bracing for further volatility in a key sector driving economic growth worldwide. A day after Huang’s reinstatement as CEO drove Nvidia shares up more than 30%, adding more than $900bn to the firm’s market value, the euphoria dissipated as its stock lost almost 6% by Tuesday’s close. Continue reading...",
+      "publishedAt": "2026-11-24T22:05:21Z",
       "source": {
         "id": "the-guardian",
         "name": "The Guardian"
       },
+      "title": "Tech sell-off resumes as euphoria from Jensen Huang’s Nvidia return subsides",
+      "url": "https://www.theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang",
+      "urlToImage": "https://i.guim.co.uk/img/media/ba0b7e2734b3f5675558eff081b376f8f83077b6/479_0_4801_3840/master/4801.jpg?width=140&quality=85&auto=format&fit=max&s=814d34a792f3088b68350ec9f04f70e5"
+    },
+    {
       "author": "Dara Kerr",
-      "title": "Nvidia CEO Jensen Huang apologizes to staff: ‘I made some terrible mistakes’",
+      "content": "Huang acknowledges he violated code of conduct by having affairs, but denied Trump was instrumental in his return Jensen Huang apologized to staff on Tuesday for the tumult he’s caused at Nvidia. The company’s CEO acknowledged he violated the code of conduct for having extramarital affairs, but pushed back on the reports that Donald Trump was instrumental in his reinstatement as chief executive. “I made some terrible mistakes,” he said, according to a livestream reviewed by the New York Times . “I was unfaithful to Lori, and I hurt my kids and, of course, I hurt all of you.” Continue reading...",
       "description": "Huang acknowledges he violated code of conduct by having affairs, but denied Trump was instrumental in his return Jensen Huang apologized to staff on Tuesday for the tumult he’s caused at Nvidia. The company’s CEO acknowledged he violated the code of conduct for having extramarital affairs, but pushed back on the reports that Donald Trump was instrumental in his reinstatement as chief executive. “I made some terrible mistakes,” he said, according to a livestream reviewed by the New York Times . “I was unfaithful to Lori, and I hurt my kids and, of course, I hurt all of you.” Continue reading...",
-      "url": "https://www.theguardian.com/technology/2026/nov/24/jensen-huang-nvidia-apologizes-staff",
-      "urlToImage": "https://i.guim.co.uk/img/media/a73808018c1aee9c4e492cbde53796d16e234aa8/0_667_1218_973/master/1218.jpg?width=140&quality=85&auto=format&fit=max&s=58d792ab17e4d7be4d15fc17de1e385b",
       "publishedAt": "2026-11-24T20:32:02Z",
-      "content": "Huang acknowledges he violated code of conduct by having affairs, but denied Trump was instrumental in his return Jensen Huang apologized to staff on Tuesday for the tumult he’s caused at Nvidia. The company’s CEO acknowledged he violated the code of conduct for having extramarital affairs, but pushed back on the reports that Donald Trump was instrumental in his reinstatement as chief executive. “I made some terrible mistakes,” he said, according to a livestream reviewed by the New York Times . “I was unfaithful to Lori, and I hurt my kids and, of course, I hurt all of you.” Continue reading..."
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "title": "Nvidia CEO Jensen Huang apologizes to staff: ‘I made some terrible mistakes’",
+      "url": "https://www.theguardian.com/technology/2026/nov/24/jensen-huang-nvidia-apologizes-staff",
+      "urlToImage": "https://i.guim.co.uk/img/media/a73808018c1aee9c4e492cbde53796d16e234aa8/0_667_1218_973/master/1218.jpg?width=140&quality=85&auto=format&fit=max&s=58d792ab17e4d7be4d15fc17de1e385b"
     },
     {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
       "author": null,
-      "title": "Will I get the £100 energy payment and when will I receive it?",
+      "content": "Here is what you need to know about the payment that millions will receive from January.",
       "description": "Here is what you need to know about the payment that millions will receive from January.",
-      "url": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c06e/live/66b0c920-d2ed-11f1-8d86-83eebc838351.jpg",
       "publishedAt": "2026-11-24T20:16:24Z",
-      "content": "Here is what you need to know about the payment that millions will receive from January."
-    },
-    {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "title": "Will I get the £100 energy payment and when will I receive it?",
+      "url": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c06e/live/66b0c920-d2ed-11f1-8d86-83eebc838351.jpg"
+    },
+    {
       "author": null,
-      "title": "Faisal Islam: Fears over the AI boom haven't gone away",
+      "content": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
       "description": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
-      "url": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ec8/live/8b0c59c0-e831-11f1-917e-35f1674fb52c.jpg",
       "publishedAt": "2026-11-24T18:21:43Z",
-      "content": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it"
-    },
-    {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "title": "Faisal Islam: Fears over the AI boom haven't gone away",
+      "url": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ec8/live/8b0c59c0-e831-11f1-917e-35f1674fb52c.jpg"
+    },
+    {
       "author": null,
-      "title": "Four generations of a family working in one factory",
+      "content": "Four generations of the Avis family have now worked at Sweetnam & Bradley in Malmesbury.",
       "description": "Four generations of the Avis family have now worked at Sweetnam & Bradley in Malmesbury.",
-      "url": "https://www.bbc.co.uk/news/videos/ck7v2r6j1yl3o?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be8c/live/eae8fb80-e824-11f1-93d4-6d580946ad80.jpg",
       "publishedAt": "2026-11-24T16:42:46Z",
-      "content": "Four generations of the Avis family have now worked at Sweetnam & Bradley in Malmesbury."
-    },
-    {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "title": "Four generations of a family working in one factory",
+      "url": "https://www.bbc.co.uk/news/videos/ck7v2r6j1yl3o?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be8c/live/eae8fb80-e824-11f1-93d4-6d580946ad80.jpg"
+    },
+    {
       "author": null,
-      "title": "World Cup drove profits surge, says Marston's",
+      "content": "The company says an \"excellent World Cup\" helped drive strong trading as annual profits rose by 18%.",
       "description": "The company says an \"excellent World Cup\" helped drive strong trading as annual profits rose by 18%.",
-      "url": "https://www.bbc.co.uk/news/articles/cm7523pyk75lo?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87ca/live/b659c4e0-e7fb-11f1-ab60-79086b6495b8.jpg",
       "publishedAt": "2026-11-24T13:03:20Z",
-      "content": "The company says an \"excellent World Cup\" helped drive strong trading as annual profits rose by 18%."
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "World Cup drove profits surge, says Marston's",
+      "url": "https://www.bbc.co.uk/news/articles/cm7523pyk75lo?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87ca/live/b659c4e0-e7fb-11f1-ab60-79086b6495b8.jpg"
     },
     {
-      "source": {
-        "id": "the-guardian",
-        "name": "The Guardian"
-      },
       "author": "Michael Sainato",
-      "title": "US school bus drivers decline amid low pay and poor work conditions",
+      "content": "Total number of drivers dropped 5% over the last year and fell 15% compared with 2019 levels, new report finds The number of school bus drivers in the US has dropped 5% over the last year as drivers continue to experience low pay, poor working conditions and school budget shortfalls, according to a new report. The total number of school bus drivers is down 15%, or nearly 34,000 drivers, compared with 2019 levels, according to an new analysis from the Economic Policy Institute. Continue reading...",
       "description": "Total number of drivers dropped 5% over the last year and fell 15% compared with 2019 levels, new report finds The number of school bus drivers in the US has dropped 5% over the last year as drivers continue to experience low pay, poor working conditions and school budget shortfalls, according to a new report. The total number of school bus drivers is down 15%, or nearly 34,000 drivers, compared with 2019 levels, according to an new analysis from the Economic Policy Institute. Continue reading...",
-      "url": "https://www.theguardian.com/education/2026/nov/24/school-bus-driver-decline-budget",
-      "urlToImage": "https://i.guim.co.uk/img/media/412afdba3882cd3b1d06808302acfc40643b1a58/369_0_3706_2965/master/3706.jpg?width=140&quality=85&auto=format&fit=max&s=37a785820e33868661b17e0bb03517d1",
       "publishedAt": "2026-11-24T11:00:45Z",
-      "content": "Total number of drivers dropped 5% over the last year and fell 15% compared with 2019 levels, new report finds The number of school bus drivers in the US has dropped 5% over the last year as drivers continue to experience low pay, poor working conditions and school budget shortfalls, according to a new report. The total number of school bus drivers is down 15%, or nearly 34,000 drivers, compared with 2019 levels, according to an new analysis from the Economic Policy Institute. Continue reading..."
-    },
-    {
       "source": {
         "id": "the-guardian",
         "name": "The Guardian"
       },
+      "title": "US school bus drivers decline amid low pay and poor work conditions",
+      "url": "https://www.theguardian.com/education/2026/nov/24/school-bus-driver-decline-budget",
+      "urlToImage": "https://i.guim.co.uk/img/media/412afdba3882cd3b1d06808302acfc40643b1a58/369_0_3706_2965/master/3706.jpg?width=140&quality=85&auto=format&fit=max&s=37a785820e33868661b17e0bb03517d1"
+    },
+    {
       "author": "Lisa O’Carroll",
-      "title": "EU to impose cap on Chinese hybrid EV imports next month",
+      "content": "Temporary quotas on vehicles entering the bloc will also apply to cars from the UK, Japan and Turkey The EU will next month impose its threatened caps on the number of Chinese hybrid cars that can be imported into the bloc, the European Commission has announced. The quotas will also apply to hybrids from Japan, Turkey, South Korea and the UK, but the principal purpose is to limit imports from China after an agreement with Beijing in October that has led to a rise in exports to the bloc. Continue reading...",
       "description": "Temporary quotas on vehicles entering the bloc will also apply to cars from the UK, Japan and Turkey The EU will next month impose its threatened caps on the number of Chinese hybrid cars that can be imported into the bloc, the European Commission has announced. The quotas will also apply to hybrids from Japan, Turkey, South Korea and the UK, but the principal purpose is to limit imports from China after an agreement with Beijing in October that has led to a rise in exports to the bloc. Continue reading...",
-      "url": "https://www.theguardian.com/business/2026/nov/24/eu-cap-chinese-hybrid-ev-imports-tariff-uk",
-      "urlToImage": "https://i.guim.co.uk/img/media/98dafebbb2f563aff059cc3b9f77cd32f0173ea0/1495_338_4286_3429/master/4286.jpg?width=140&quality=85&auto=format&fit=max&s=978e8c7203cec588db4189a9dc62e019",
       "publishedAt": "2026-11-24T10:59:40Z",
-      "content": "Temporary quotas on vehicles entering the bloc will also apply to cars from the UK, Japan and Turkey The EU will next month impose its threatened caps on the number of Chinese hybrid cars that can be imported into the bloc, the European Commission has announced. The quotas will also apply to hybrids from Japan, Turkey, South Korea and the UK, but the principal purpose is to limit imports from China after an agreement with Beijing in October that has led to a rise in exports to the bloc. Continue reading..."
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "title": "EU to impose cap on Chinese hybrid EV imports next month",
+      "url": "https://www.theguardian.com/business/2026/nov/24/eu-cap-chinese-hybrid-ev-imports-tariff-uk",
+      "urlToImage": "https://i.guim.co.uk/img/media/98dafebbb2f563aff059cc3b9f77cd32f0173ea0/1495_338_4286_3429/master/4286.jpg?width=140&quality=85&auto=format&fit=max&s=978e8c7203cec588db4189a9dc62e019"
     },
     {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
       "author": null,
-      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+      "content": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
       "description": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
-      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg",
       "publishedAt": "2026-11-24T10:53:37Z",
-      "content": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value."
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg"
     },
     {
-      "source": {
-        "id": "the-guardian",
-        "name": "The Guardian"
-      },
       "author": "Eduardo Porter",
-      "title": "Trump, Nvidia and power: could we be nearing the end of tech’s Gilded Age?",
+      "content": "Oligarchs believe they’re untouchable – the blue wave offers hope that the rampant corruption of the Trump era may soon be over Nvidia staff: what do you think of Jensen Huang’s return as chief executive? One can imagine high-fives all around Nvidia’s boardroom after the board reinstated Jensen Huang to the CEO suite. The market gave the move a fat thumbs-up, boosting Nvidia’s share price by about a third. Shareholders, whose interests the board is meant to represent, are surely happy. But like Fifa’s controversial decision to defer the one-match suspension of US forward Folarin Balogun after receiving a red card for a foul on Bosnia and Herzegovina’s Tarik Muharemović during the World Cup over the summer, Huang’s absolution might backfire. Eduardo Porter is a journalist focused on economics and politics. He writes the newsletter Being There on Substack Continue reading...",
       "description": "Oligarchs believe they’re untouchable – the blue wave offers hope that the rampant corruption of the Trump era may soon be over Nvidia staff: what do you think of Jensen Huang’s return as chief executive? One can imagine high-fives all around Nvidia’s boardroom after the board reinstated Jensen Huang to the CEO suite. The market gave the move a fat thumbs-up, boosting Nvidia’s share price by about a third. Shareholders, whose interests the board is meant to represent, are surely happy. But like Fifa’s controversial decision to defer the one-match suspension of US forward Folarin Balogun after receiving a red card for a foul on Bosnia and Herzegovina’s Tarik Muharemović during the World Cup over the summer, Huang’s absolution might backfire. Eduardo Porter is a journalist focused on economics and politics. He writes the newsletter Being There on Substack Continue reading...",
-      "url": "https://www.theguardian.com/technology/2026/nov/24/trump-nvidia-gilded-age",
-      "urlToImage": "https://i.guim.co.uk/img/media/ff56fa52c937e43cf50c68e8e45bc1f53dfcba5a/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=867721205df12e4dff5d79250316677f",
       "publishedAt": "2026-11-24T08:00:11Z",
-      "content": "Oligarchs believe they’re untouchable – the blue wave offers hope that the rampant corruption of the Trump era may soon be over Nvidia staff: what do you think of Jensen Huang’s return as chief executive? One can imagine high-fives all around Nvidia’s boardroom after the board reinstated Jensen Huang to the CEO suite. The market gave the move a fat thumbs-up, boosting Nvidia’s share price by about a third. Shareholders, whose interests the board is meant to represent, are surely happy. But like Fifa’s controversial decision to defer the one-match suspension of US forward Folarin Balogun after receiving a red card for a foul on Bosnia and Herzegovina’s Tarik Muharemović during the World Cup over the summer, Huang’s absolution might backfire. Eduardo Porter is a journalist focused on economics and politics. He writes the newsletter Being There on Substack Continue reading..."
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "title": "Trump, Nvidia and power: could we be nearing the end of tech’s Gilded Age?",
+      "url": "https://www.theguardian.com/technology/2026/nov/24/trump-nvidia-gilded-age",
+      "urlToImage": "https://i.guim.co.uk/img/media/ff56fa52c937e43cf50c68e8e45bc1f53dfcba5a/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=867721205df12e4dff5d79250316677f"
     },
     {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
       "author": null,
-      "title": "The shake-up facing renters as a new kind of landlord emerges",
+      "content": "Companies building flats that they then rent out could usher in big changes for renters.",
       "description": "Companies building flats that they then rent out could usher in big changes for renters.",
-      "url": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8db7/live/089748f0-e7e7-11f1-99b6-a35a62fa4264.jpg",
       "publishedAt": "2026-11-24T00:28:48Z",
-      "content": "Companies building flats that they then rent out could usher in big changes for renters."
-    },
-    {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "title": "The shake-up facing renters as a new kind of landlord emerges",
+      "url": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8db7/live/089748f0-e7e7-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
       "author": null,
-      "title": "BBC secret filming shows dog breeder selling sick puppies for £2k each",
+      "content": "The breeder's rating was downgraded but he continued to advertise as five-star, investigation finds.",
       "description": "The breeder's rating was downgraded but he continued to advertise as five-star, investigation finds.",
-      "url": "https://www.bbc.co.uk/news/articles/c8d36d43y8po?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbbd/live/db7cd3b0-e7d4-11f1-939f-471cde339c0e.jpg",
       "publishedAt": "2026-11-24T00:11:08Z",
-      "content": "The breeder's rating was downgraded but he continued to advertise as five-star, investigation finds."
-    },
-    {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "title": "BBC secret filming shows dog breeder selling sick puppies for £2k each",
+      "url": "https://www.bbc.co.uk/news/articles/c8d36d43y8po?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbbd/live/db7cd3b0-e7d4-11f1-939f-471cde339c0e.jpg"
+    },
+    {
       "author": null,
-      "title": "I pay £250 a month for someone else to do my life admin - it's worth it",
+      "content": "Busy mothers on both sides of the Atlantic are paying companies to handle their to-do lists.",
       "description": "Busy mothers on both sides of the Atlantic are paying companies to handle their to-do lists.",
-      "url": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a207/live/9dc35180-e378-11f1-b879-03485a55c082.jpg",
       "publishedAt": "2026-11-24T00:01:04Z",
-      "content": "Busy mothers on both sides of the Atlantic are paying companies to handle their to-do lists."
-    },
-    {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "title": "I pay £250 a month for someone else to do my life admin - it's worth it",
+      "url": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a207/live/9dc35180-e378-11f1-b879-03485a55c082.jpg"
+    },
+    {
       "author": "Chris Clements, Hayley Jarvis",
-      "title": "Property firm told to repay customers thousands over 'unfair' sales tactics",
+      "content": "The Property Ombudsman is a UK-wide redress scheme that resolves disputes between property companies and consumers.\r\nChief ombudsman Lesley Horton said the cases were not isolated incidents.\r\n\"We are… [+1502 chars]",
       "description": "Let Property must make the \"unprecedented\" number of repayments after complaints were made to a watchdog.",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y1vp20rx1o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d1fc/live/74fab170-e75c-11f1-b407-33329b1ec67a.jpg",
       "publishedAt": "2026-11-23T23:00:02Z",
-      "content": "The Property Ombudsman is a UK-wide redress scheme that resolves disputes between property companies and consumers.\r\nChief ombudsman Lesley Horton said the cases were not isolated incidents.\r\n\"We are… [+1502 chars]"
-    },
-    {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "title": "Property firm told to repay customers thousands over 'unfair' sales tactics",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y1vp20rx1o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d1fc/live/74fab170-e75c-11f1-b407-33329b1ec67a.jpg"
+    },
+    {
       "author": "Kali Hays",
-      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+      "content": "The US has said it intends to ban a Singaporean artificial intelligence (AI) company allegedly tied to the Nvidia scandal from doing business in America.\r\nThe US Department of Commerce announced on M… [+785 chars]",
       "description": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
-      "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4a66/live/7c413f70-e78a-11f1-a5c2-c57ab9df3111.jpg",
       "publishedAt": "2026-11-23T22:15:26Z",
-      "content": "The US has said it intends to ban a Singaporean artificial intelligence (AI) company allegedly tied to the Nvidia scandal from doing business in America.\r\nThe US Department of Commerce announced on M… [+785 chars]"
-    },
-    {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+      "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4a66/live/7c413f70-e78a-11f1-a5c2-c57ab9df3111.jpg"
+    },
+    {
       "author": null,
-      "title": "A comeback for the ages: Trump's influence on Huang's return to Nvidia",
+      "content": "The BBC's business correspondent Michelle Fleury explains what role Trump's support played in Huang's comeback.",
       "description": "The BBC's business correspondent Michelle Fleury explains what role Trump's support played in Huang's comeback.",
-      "url": "https://www.bbc.co.uk/news/videos/ckp80d5nl586o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9328/live/2bcba8f0-e785-11f1-99b6-a35a62fa4264.jpg",
       "publishedAt": "2026-11-23T21:40:30Z",
-      "content": "Jensen Huang stepped down as CEO of Nvidia earlier this month, after admitting an affair with a woman who was alleged to be a Chinese spy - he was also accused of an affair with an Nvidia executive.\r… [+266 chars]"
-    },
-    {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
-      "author": null,
       "title": "A comeback for the ages: Trump's influence on Huang's return to Nvidia",
-      "description": "The BBC's business correspondent Michelle Fleury explains what role Trump's support played in Huang's comeback.",
       "url": "https://www.bbc.co.uk/news/videos/ckp80d5nl586o?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9328/live/2bcba8f0-e785-11f1-99b6-a35a62fa4264.jpg",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9328/live/2bcba8f0-e785-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "author": null,
+      "content": "Jensen Huang stepped down as CEO of Nvidia earlier this month, after admitting an affair with a woman who was alleged to be a Chinese spy - he was also accused of an affair with an Nvidia executive.\r… [+266 chars]",
+      "description": "The BBC's business correspondent Michelle Fleury explains what role Trump's support played in Huang's comeback.",
       "publishedAt": "2026-11-23T21:40:30Z",
-      "content": "The BBC's business correspondent Michelle Fleury explains what role Trump's support played in Huang's comeback."
-    },
-    {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "title": "A comeback for the ages: Trump's influence on Huang's return to Nvidia",
+      "url": "https://www.bbc.co.uk/news/videos/ckp80d5nl586o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9328/live/2bcba8f0-e785-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
       "author": null,
-      "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
+      "content": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%.",
       "description": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%.",
-      "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e297/live/7eb9d0a0-e776-11f1-a8a9-d7c9e8a923b4.jpg",
       "publishedAt": "2026-11-23T21:23:42Z",
-      "content": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%."
-    },
-    {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
+      "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e297/live/7eb9d0a0-e776-11f1-a8a9-d7c9e8a923b4.jpg"
+    },
+    {
       "author": "Vicky Wong",
-      "title": "Andrew Mountbatten-Windsor received £750,000 from Turkish millionaire, court told",
+      "content": "A Turkish millionaire has told the High Court she was misled over a £750,000 payment she made to Andrew Mountbatten-Windsor in 2019.\r\nNebahat Isbilen is alleging her former business adviser, Selman T… [+2269 chars]",
       "description": "The former Duke of York is expected to give evidence in the complex court case next month.",
-      "url": "https://www.bbc.co.uk/news/articles/c9gkldn06l87o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6623/live/1aecace0-e759-11f1-b407-33329b1ec67a.jpg",
       "publishedAt": "2026-11-23T19:36:56Z",
-      "content": "A Turkish millionaire has told the High Court she was misled over a £750,000 payment she made to Andrew Mountbatten-Windsor in 2019.\r\nNebahat Isbilen is alleging her former business adviser, Selman T… [+2269 chars]"
-    },
-    {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "title": "Andrew Mountbatten-Windsor received £750,000 from Turkish millionaire, court told",
+      "url": "https://www.bbc.co.uk/news/articles/c9gkldn06l87o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6623/live/1aecace0-e759-11f1-b407-33329b1ec67a.jpg"
+    },
+    {
       "author": "Mark Palmer, David Deans",
-      "title": "Burnham does not view Wales as an equal nation, claims first minister",
+      "content": "In a letter to the prime minister, ap Iorwerth asked the prime minister to reconsider the work of previous reports on the issue.\r\nHe said he would \"welcome an urgent meeting with you to discuss the e… [+1820 chars]",
       "description": "The first minister asks for urgent meeting after Andy Burnham rejected calls for more powers in Cardiff.",
-      "url": "https://www.bbc.co.uk/news/articles/cqr7gzmgm33ko",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6b4c/live/167959f0-e769-11f1-99a1-253766e7ad8b.jpg",
       "publishedAt": "2026-11-23T18:51:36Z",
-      "content": "In a letter to the prime minister, ap Iorwerth asked the prime minister to reconsider the work of previous reports on the issue.\r\nHe said he would \"welcome an urgent meeting with you to discuss the e… [+1820 chars]"
-    },
-    {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "title": "Burnham does not view Wales as an equal nation, claims first minister",
+      "url": "https://www.bbc.co.uk/news/articles/cqr7gzmgm33ko",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6b4c/live/167959f0-e769-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
       "author": null,
-      "title": "'Biggest U-turn in economic history': Experts react to Jensen Huang's return to Nvidia",
+      "content": "The Nvidia CEO was reinstated after weeks of controversy over his affair with an alleged Chinese spy.",
       "description": "The Nvidia CEO was reinstated after weeks of controversy over his affair with an alleged Chinese spy.",
-      "url": "https://www.bbc.co.uk/news/videos/cq8r7e35mkzlo",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/caf3/live/63f423d0-e76a-11f1-99b6-a35a62fa4264.jpg",
       "publishedAt": "2026-11-23T18:43:00Z",
-      "content": "Nvidia's board members have announced that they unanimously voted to reinstate Jensen Huang as the company's boss \"effective immediately\" - capping a remarkable U-turn in the technology firm's fortun… [+475 chars]"
-    },
-    {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
-      "author": null,
       "title": "'Biggest U-turn in economic history': Experts react to Jensen Huang's return to Nvidia",
-      "description": "The Nvidia CEO was reinstated after weeks of controversy over his affair with an alleged Chinese spy.",
       "url": "https://www.bbc.co.uk/news/videos/cq8r7e35mkzlo?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/caf3/live/63f423d0-e76a-11f1-99b6-a35a62fa4264.jpg",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/caf3/live/63f423d0-e76a-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "author": null,
+      "content": "Nvidia's board members have announced that they unanimously voted to reinstate Jensen Huang as the company's boss \"effective immediately\" - capping a remarkable U-turn in the technology firm's fortun… [+475 chars]",
+      "description": "The Nvidia CEO was reinstated after weeks of controversy over his affair with an alleged Chinese spy.",
       "publishedAt": "2026-11-23T18:43:00Z",
-      "content": "The Nvidia CEO was reinstated after weeks of controversy over his affair with an alleged Chinese spy."
-    },
-    {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "title": "'Biggest U-turn in economic history': Experts react to Jensen Huang's return to Nvidia",
+      "url": "https://www.bbc.co.uk/news/videos/cq8r7e35mkzlo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/caf3/live/63f423d0-e76a-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
       "author": "David Gritten, Ghoncheh Habibiazad",
-      "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
+      "content": "A prominent singer who performed without the mandatory hijab and four members of her band and production team have been flogged by Iranian authorities, lawyers say.\r\nParastoo Ahmadi, three musicians … [+3865 chars]",
       "description": "Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom.",
-      "url": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6a11/live/e201bf70-bb4c-11f1-bc1f-3f186ca4140c.jpg",
       "publishedAt": "2026-11-23T18:04:20Z",
-      "content": "A prominent singer who performed without the mandatory hijab and four members of her band and production team have been flogged by Iranian authorities, lawyers say.\r\nParastoo Ahmadi, three musicians … [+3865 chars]"
-    },
-    {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
+      "url": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6a11/live/e201bf70-bb4c-11f1-bc1f-3f186ca4140c.jpg"
+    },
+    {
       "author": null,
-      "title": "Pip assessments need 'fundamental overhaul', report to say",
+      "content": "Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
       "description": "Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
-      "url": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e9d/live/6a04c6f0-e6f5-11f1-a094-5fdc692f3e33.jpg",
       "publishedAt": "2026-11-23T17:59:55Z",
-      "content": "Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment."
-    },
-    {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "title": "Pip assessments need 'fundamental overhaul', report to say",
+      "url": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e9d/live/6a04c6f0-e6f5-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
       "author": "Justin Rowlatt",
-      "title": "What failure of COP31 reveals about a divided world",
+      "content": "Yet, perhaps, the picture is more optimistic than it first appears. About 130 governments backed a demand for explicit language on moving away from fossil fuels - roughly two-thirds of the countries … [+1761 chars]",
       "description": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks.",
-      "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9c7d/live/76349960-e74e-11f1-88dc-f746e0cde621.jpg",
       "publishedAt": "2026-11-23T17:24:25Z",
-      "content": "Yet, perhaps, the picture is more optimistic than it first appears. About 130 governments backed a demand for explicit language on moving away from fossil fuels - roughly two-thirds of the countries … [+1761 chars]"
-    },
-    {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "title": "What failure of COP31 reveals about a divided world",
+      "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9c7d/live/76349960-e74e-11f1-88dc-f746e0cde621.jpg"
+    },
+    {
       "author": "Faisal Islam",
-      "title": "Faisal Islam: Why Jensen Huang proved too big to fire",
+      "content": "There have been three jaw-dropping moments in the past few hours around Jensen Huang's reinstatement as Nvidia chief executive after he admitted an affair with a woman who was alleged to be a Chinese… [+2326 chars]",
       "description": "Huang's role at the centre of his company's journey to lynchpin of AI proved crucial.",
-      "url": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/938d/live/58a5fb00-e762-11f1-a094-5fdc692f3e33.jpg",
       "publishedAt": "2026-11-23T17:11:58Z",
-      "content": "There have been three jaw-dropping moments in the past few hours around Jensen Huang's reinstatement as Nvidia chief executive after he admitted an affair with a woman who was alleged to be a Chinese… [+2326 chars]"
-    },
-    {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "title": "Faisal Islam: Why Jensen Huang proved too big to fire",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/938d/live/58a5fb00-e762-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
       "author": null,
-      "title": "Pub chain drops bid to serve children after backlash",
+      "content": "A pub chain in Edinburgh has dropped its bid for a licence to serve unaccompanied 12 to 15-year-olds after a public backlash. \r\nSignature Pubs Limited asked the council last month to approve plans th… [+1660 chars]",
       "description": "Signature Pubs had planned to let teenagers buy food, snacks and soft drinks in three Edinburgh bars.",
-      "url": "https://www.bbc.co.uk/news/articles/cq0k63p85pgzo",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4962/live/6f1ada10-d2cf-11f1-b441-2b33b063138f.jpg",
       "publishedAt": "2026-11-23T16:53:46Z",
-      "content": "A pub chain in Edinburgh has dropped its bid for a licence to serve unaccompanied 12 to 15-year-olds after a public backlash. \r\nSignature Pubs Limited asked the council last month to approve plans th… [+1660 chars]"
-    },
-    {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "title": "Pub chain drops bid to serve children after backlash",
+      "url": "https://www.bbc.co.uk/news/articles/cq0k63p85pgzo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4962/live/6f1ada10-d2cf-11f1-b441-2b33b063138f.jpg"
+    },
+    {
       "author": "Bernd Debusmann Jr",
-      "title": "Trump says he 'convinced' Nvidia to reinstate Jensen Huang",
+      "content": "The president's vocal backing of Huang comes despite the concerns of US lawmakers, including some Republicans, over the affair and Nvidia's compliance with US export controls. \r\nThe US president is a… [+1028 chars]",
       "description": "The US president personally intervened to speak to members of Nvidia's board of directors.",
-      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e868/live/68f570d0-e758-11f1-b407-33329b1ec67a.jpg",
       "publishedAt": "2026-11-23T16:49:51Z",
-      "content": "The president's vocal backing of Huang comes despite the concerns of US lawmakers, including some Republicans, over the affair and Nvidia's compliance with US export controls. \r\nThe US president is a… [+1028 chars]"
-    },
-    {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "title": "Trump says he 'convinced' Nvidia to reinstate Jensen Huang",
+      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e868/live/68f570d0-e758-11f1-b407-33329b1ec67a.jpg"
+    },
+    {
       "author": null,
-      "title": "How important are Nvidia and Jensen Huang to the US economy?",
+      "content": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
       "description": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
-      "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8241/live/e3e3a9c0-e2a7-11f1-8226-87dfa5049e9a.jpg",
       "publishedAt": "2026-11-23T16:12:35Z",
-      "content": "The Nvidia chief executive has been at the centre of the artificial intelligence boom."
-    },
-    {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "title": "How important are Nvidia and Jensen Huang to the US economy?",
+      "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8241/live/e3e3a9c0-e2a7-11f1-8226-87dfa5049e9a.jpg"
+    },
+    {
       "author": null,
-      "title": "The rise and fall and rise again of Jensen Huang",
+      "content": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.",
       "description": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.",
-      "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38db/live/e8339120-deb0-11f1-93e1-3b657b665bcf.jpg",
       "publishedAt": "2026-11-23T15:49:52Z",
-      "content": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return."
-    },
-    {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "title": "The rise and fall and rise again of Jensen Huang",
+      "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38db/live/e8339120-deb0-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
       "author": "Rachel Clun",
-      "title": "Nvidia shares up 30% and tech stocks rally after Jensen Huang returns",
+      "content": "Nvidia shares have opened up 30% after the tech firm reinstated Jensen Huang as its chief executive with immediate effect.\r\nHis shock reinstatement comes less than two weeks after Huang resigned afte… [+1788 chars]",
       "description": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5% in early trading.",
-      "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/80fb/live/5a6a1700-e753-11f1-99b6-a35a62fa4264.jpg",
       "publishedAt": "2026-11-23T15:39:41Z",
-      "content": "Nvidia shares have opened up 30% after the tech firm reinstated Jensen Huang as its chief executive with immediate effect.\r\nHis shock reinstatement comes less than two weeks after Huang resigned afte… [+1788 chars]"
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "Nvidia shares up 30% and tech stocks rally after Jensen Huang returns",
+      "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/80fb/live/5a6a1700-e753-11f1-99b6-a35a62fa4264.jpg"
     },
     {
-      "source": {
-        "id": "the-guardian",
-        "name": "The Guardian"
-      },
       "author": "Hilary Osborne",
-      "title": "Wild stock market swings: will I lose money, and is there anything I can do?",
+      "content": "Shares are volatile amid jitters over tech and AI – but think carefully before you decide to ditch investments too It has been a volatile time on global stock markets, with rapid rallies and punishing sell-offs. There have been signs in recent weeks that investors are getting cold feet over the outlook for AI companies and selling off technology stocks. Last week, the AI company Anthropic launched on to the market and had a record-breaking first day , but on Friday stock markets around the world tumbled and the US Nasdaq closed 5% below its mark on 1 January . Continue reading...",
       "description": "Shares are volatile amid jitters over tech and AI – but think carefully before you decide to ditch investments too It has been a volatile time on global stock markets, with rapid rallies and punishing sell-offs. There have been signs in recent weeks that investors are getting cold feet over the outlook for AI companies and selling off technology stocks. Last week, the AI company Anthropic launched on to the market and had a record-breaking first day , but on Friday stock markets around the world tumbled and the US Nasdaq closed 5% below its mark on 1 January . Continue reading...",
-      "url": "https://www.theguardian.com/business/2026/nov/23/falling-markets-will-i-lose-money-shares-tech-ai-investments",
-      "urlToImage": "https://i.guim.co.uk/img/media/58c90749993f306f97351fb1ed8c91f856905a5b/3_0_3564_2853/master/3564.jpg?width=140&quality=85&auto=format&fit=max&s=11c14ad5bdc32c1a1a54dde7a6827c70",
       "publishedAt": "2026-11-23T14:51:44Z",
-      "content": "Shares are volatile amid jitters over tech and AI – but think carefully before you decide to ditch investments too It has been a volatile time on global stock markets, with rapid rallies and punishing sell-offs. There have been signs in recent weeks that investors are getting cold feet over the outlook for AI companies and selling off technology stocks. Last week, the AI company Anthropic launched on to the market and had a record-breaking first day , but on Friday stock markets around the world tumbled and the US Nasdaq closed 5% below its mark on 1 January . Continue reading..."
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "title": "Wild stock market swings: will I lose money, and is there anything I can do?",
+      "url": "https://www.theguardian.com/business/2026/nov/23/falling-markets-will-i-lose-money-shares-tech-ai-investments",
+      "urlToImage": "https://i.guim.co.uk/img/media/58c90749993f306f97351fb1ed8c91f856905a5b/3_0_3564_2853/master/3564.jpg?width=140&quality=85&auto=format&fit=max&s=11c14ad5bdc32c1a1a54dde7a6827c70"
     },
     {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
       "author": null,
-      "title": "Nvidia reinstates CEO after affair with alleged spy",
+      "content": "Senior US government officials backed Nvidia's decision to reinstate Jensen Huang, the company says in a statement.",
       "description": "Senior US government officials backed Nvidia's decision to reinstate Jensen Huang, the company says in a statement.",
-      "url": "https://www.bbc.co.uk/news/videos/cqze7lwdglngo?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb5f/live/44ab16f0-e74c-11f1-99b6-a35a62fa4264.jpg",
       "publishedAt": "2026-11-23T14:51:05Z",
-      "content": "Senior US government officials backed Nvidia's decision to reinstate Jensen Huang, the company says in a statement."
-    },
-    {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "title": "Nvidia reinstates CEO after affair with alleged spy",
+      "url": "https://www.bbc.co.uk/news/videos/cqze7lwdglngo?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb5f/live/44ab16f0-e74c-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
       "author": null,
-      "title": "Welfare cuts: What's been happening with Pip and universal credit?",
+      "content": "The government commissioned a review into Pip last year after it was forced to water down planned cuts to benefits.",
       "description": "The government commissioned a review into Pip last year after it was forced to water down planned cuts to benefits.",
-      "url": "https://www.bbc.co.uk/news/articles/cj924xvzrr2o?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa84/live/7e5f5ec0-03c7-11f0-9bb2-ab6d3a01d537.jpg",
       "publishedAt": "2026-11-23T13:52:40Z",
-      "content": "The government commissioned a review into Pip last year after it was forced to water down planned cuts to benefits."
-    },
-    {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "title": "Welfare cuts: What's been happening with Pip and universal credit?",
+      "url": "https://www.bbc.co.uk/news/articles/cj924xvzrr2o?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa84/live/7e5f5ec0-03c7-11f0-9bb2-ab6d3a01d537.jpg"
+    },
+    {
       "author": null,
-      "title": "Flights cancelled in Belgium due to cost-of-living strike",
+      "content": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
       "description": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
-      "url": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bf3/live/3920ed00-e738-11f1-8294-033bd8ee7e95.jpg",
       "publishedAt": "2026-11-23T13:34:02Z",
-      "content": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs."
-    },
-    {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "title": "Flights cancelled in Belgium due to cost-of-living strike",
+      "url": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bf3/live/3920ed00-e738-11f1-8294-033bd8ee7e95.jpg"
+    },
+    {
       "author": null,
-      "title": "Next data accessed in cyber breach",
+      "content": "The fashion retailer says there is no evidence customers' personal data was compromised.",
       "description": "The fashion retailer says there is no evidence customers' personal data was compromised.",
-      "url": "https://www.bbc.co.uk/news/articles/cqj3kjr7ez3vo?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/295f/live/f2adb050-e738-11f1-8294-033bd8ee7e95.jpg",
       "publishedAt": "2026-11-23T12:34:07Z",
-      "content": "The fashion retailer says there is no evidence customers' personal data was compromised."
-    },
-    {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "title": "Next data accessed in cyber breach",
+      "url": "https://www.bbc.co.uk/news/articles/cqj3kjr7ez3vo?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/295f/live/f2adb050-e738-11f1-8294-033bd8ee7e95.jpg"
+    },
+    {
       "author": null,
-      "title": "Andreatta's masterplan to shock Sweden & take Scots to World Cup",
+      "content": "Scotland intend to bring fancied Sweden's World Cup dream \"crashing down - and do it in a truly Scottish way\", according to women's head coach Melissa Andreatta.\r\nScotland face a two-legged World Cup… [+2395 chars]",
       "description": "Scotland intend to bring fancied Sweden's World Cup dream \"crashing down - and do it in a truly Scottish way\", says manager Melissa Andreatta.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c94gn2mmjr4eo",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4463/live/b87bf390-e735-11f1-8294-033bd8ee7e95.jpg",
       "publishedAt": "2026-11-23T11:49:40Z",
-      "content": "Scotland intend to bring fancied Sweden's World Cup dream \"crashing down - and do it in a truly Scottish way\", according to women's head coach Melissa Andreatta.\r\nScotland face a two-legged World Cup… [+2395 chars]"
-    },
-    {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "title": "Andreatta's masterplan to shock Sweden & take Scots to World Cup",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c94gn2mmjr4eo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4463/live/b87bf390-e735-11f1-8294-033bd8ee7e95.jpg"
+    },
+    {
       "author": null,
-      "title": "Capita shares plunge 70% as boss quits after civil service pensions failure",
+      "content": "Public sector workers have been hit by delays to pension payments, in a scheme overseen by Capita since last year.",
       "description": "Public sector workers have been hit by delays to pension payments, in a scheme overseen by Capita since last year.",
-      "url": "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d59/live/4828e850-e726-11f1-914b-6d226d813a52.jpg",
       "publishedAt": "2026-11-23T11:24:37Z",
-      "content": "Public sector workers have been hit by delays to pension payments, in a scheme overseen by Capita since last year."
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "Capita shares plunge 70% as boss quits after civil service pensions failure",
+      "url": "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d59/live/4828e850-e726-11f1-914b-6d226d813a52.jpg"
     },
     {
-      "source": {
-        "id": "the-guardian",
-        "name": "The Guardian"
-      },
       "author": "Heather Timmons",
-      "title": "Carry cash and know your rights: how to fly in the US this Thanksgiving holiday",
+      "content": "Amid air chaos, travelers will have to navigate an outdated system (and complex company policies if it all goes wrong) Millions of people are planning to fly in the US over the Thanksgiving holiday, just two weeks after the US Federal Aviation Administration’s 13 November ground stop halted all flights nationwide for the first time since 9/11 (aside from a brief halt in 2023). In the chaos that ensued, some travelers embarked on overnight drives to catch cruise ships and bought new cars to make business meetings. Many had to simply cancel their plans and incur the costs that came with it. More than 18,000 flights were cancelled at a potential cost to travelers of $1.9bn in lost time and related expenses, Anderson Economic Group estimates . Continue reading...",
       "description": "Amid air chaos, travelers will have to navigate an outdated system (and complex company policies if it all goes wrong) Millions of people are planning to fly in the US over the Thanksgiving holiday, just two weeks after the US Federal Aviation Administration’s 13 November ground stop halted all flights nationwide for the first time since 9/11 (aside from a brief halt in 2023). In the chaos that ensued, some travelers embarked on overnight drives to catch cruise ships and bought new cars to make business meetings. Many had to simply cancel their plans and incur the costs that came with it. More than 18,000 flights were cancelled at a potential cost to travelers of $1.9bn in lost time and related expenses, Anderson Economic Group estimates . Continue reading...",
-      "url": "https://www.theguardian.com/global/2026/nov/23/thanksgiving-air-travel-us-explainer",
-      "urlToImage": "https://i.guim.co.uk/img/media/bc0448fab7a711dd6c66bf4f10e9b237ae07cd96/780_0_4485_3587/master/4485.jpg?width=140&quality=85&auto=format&fit=max&s=59c8d5a003be5a709b92cbcf34dfa1b8",
       "publishedAt": "2026-11-23T11:00:56Z",
-      "content": "Amid air chaos, travelers will have to navigate an outdated system (and complex company policies if it all goes wrong) Millions of people are planning to fly in the US over the Thanksgiving holiday, just two weeks after the US Federal Aviation Administration’s 13 November ground stop halted all flights nationwide for the first time since 9/11 (aside from a brief halt in 2023). In the chaos that ensued, some travelers embarked on overnight drives to catch cruise ships and bought new cars to make business meetings. Many had to simply cancel their plans and incur the costs that came with it. More than 18,000 flights were cancelled at a potential cost to travelers of $1.9bn in lost time and related expenses, Anderson Economic Group estimates . Continue reading..."
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "title": "Carry cash and know your rights: how to fly in the US this Thanksgiving holiday",
+      "url": "https://www.theguardian.com/global/2026/nov/23/thanksgiving-air-travel-us-explainer",
+      "urlToImage": "https://i.guim.co.uk/img/media/bc0448fab7a711dd6c66bf4f10e9b237ae07cd96/780_0_4485_3587/master/4485.jpg?width=140&quality=85&auto=format&fit=max&s=59c8d5a003be5a709b92cbcf34dfa1b8"
     },
     {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
       "author": "Hsin-Yi Lo",
-      "title": "South East Water reports loss after supply issues",
+      "content": "In October, it was forced to ask shareholders for £50m after warning earlier in the year that it required additional funding in order to stay afloat. \r\nThe company said there were \"early signs of imp… [+1231 chars]",
       "description": "South East Water records a pre-tax loss of £22.9m in the six months to 30 September.",
+      "publishedAt": "2026-11-23T10:19:46Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "South East Water reports loss after supply issues",
       "url": "https://www.bbc.co.uk/news/articles/c6n90j1qxel8o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2480/live/c4c28920-e71c-11f1-914b-6d226d813a52.jpg",
-      "publishedAt": "2026-11-23T10:19:46Z",
-      "content": "In October, it was forced to ask shareholders for £50m after warning earlier in the year that it required additional funding in order to stay afloat. \r\nThe company said there were \"early signs of imp… [+1231 chars]"
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2480/live/c4c28920-e71c-11f1-914b-6d226d813a52.jpg"
     },
     {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
       "author": null,
-      "title": "South East Water reports loss after supply issues",
+      "content": "South East Water records a pre-tax loss of £22.9m in the six months to 30 September.",
       "description": "South East Water records a pre-tax loss of £22.9m in the six months to 30 September.",
-      "url": "https://www.bbc.co.uk/news/articles/c6n90j1qxel8o?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2480/live/c4c28920-e71c-11f1-914b-6d226d813a52.jpg",
       "publishedAt": "2026-11-23T10:19:46Z",
-      "content": "South East Water records a pre-tax loss of £22.9m in the six months to 30 September."
-    },
-    {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "title": "South East Water reports loss after supply issues",
+      "url": "https://www.bbc.co.uk/news/articles/c6n90j1qxel8o?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2480/live/c4c28920-e71c-11f1-914b-6d226d813a52.jpg"
+    },
+    {
       "author": null,
-      "title": "Poundland is facing collapse - what's gone wrong?",
+      "content": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
       "description": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/419f/live/4c718920-e713-11f1-99a1-253766e7ad8b.jpg",
       "publishedAt": "2026-11-23T10:09:25Z",
-      "content": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?"
-    },
-    {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "title": "Poundland is facing collapse - what's gone wrong?",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/419f/live/4c718920-e713-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
       "author": "Michael Race",
+      "content": "Catering giant Compass Group is planning to switch its primary stock market listing from the UK to the US in a move which will deal another blow to the London Stock Exchange.\r\nA source close to the c… [+1315 chars]",
+      "description": "A growing number of firms have been leaving the UK to list shares in the US in recent years.",
+      "publishedAt": "2026-11-23T09:54:04Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
       "title": "Catering giant to switch stock market listing to US in further blow to UK",
-      "description": "A growing number of firms have been leaving the UK to list shares in the US in recent years.",
       "url": "https://www.bbc.co.uk/news/articles/ckz74098jq5po",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/683a/live/dc5df1b0-e720-11f1-914b-6d226d813a52.jpg",
-      "publishedAt": "2026-11-23T09:54:04Z",
-      "content": "Catering giant Compass Group is planning to switch its primary stock market listing from the UK to the US in a move which will deal another blow to the London Stock Exchange.\r\nA source close to the c… [+1315 chars]"
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/683a/live/dc5df1b0-e720-11f1-914b-6d226d813a52.jpg"
     },
     {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
       "author": null,
-      "title": "Catering giant to switch main share listing to US in further blow to UK",
+      "content": "A growing number of firms have been leaving the UK to list shares in the US in recent years.",
       "description": "A growing number of firms have been leaving the UK to list shares in the US in recent years.",
-      "url": "https://www.bbc.co.uk/news/articles/ckz74098jq5po?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d35/live/6c293750-e726-11f1-914b-6d226d813a52.jpg",
       "publishedAt": "2026-11-23T09:54:04Z",
-      "content": "A growing number of firms have been leaving the UK to list shares in the US in recent years."
-    },
-    {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "title": "Catering giant to switch main share listing to US in further blow to UK",
+      "url": "https://www.bbc.co.uk/news/articles/ckz74098jq5po?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d35/live/6c293750-e726-11f1-914b-6d226d813a52.jpg"
+    },
+    {
       "author": "Kris Holland",
-      "title": "Pioneer or coach-eater? The complex world of Pozzo's Watford",
+      "content": "But while the optics of Pozzo's model and methods have hit an all-time low for English observers, his image in his homeland is assured, according to Vincenzo Credendino, a journalist with Sport Itali… [+1263 chars]",
       "description": "Pioneering or problematic? Why Gino Pozzo's 14-year Watford ownership is at a crossroads as the club search for their 26th managerial appointment on his watch.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq98z9p66g0xo",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c5cb/live/6cddf170-cef5-11f1-93e1-3b657b665bcf.png",
       "publishedAt": "2026-11-23T08:08:23Z",
-      "content": "But while the optics of Pozzo's model and methods have hit an all-time low for English observers, his image in his homeland is assured, according to Vincenzo Credendino, a journalist with Sport Itali… [+1263 chars]"
-    },
-    {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "title": "Pioneer or coach-eater? The complex world of Pozzo's Watford",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq98z9p66g0xo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c5cb/live/6cddf170-cef5-11f1-93e1-3b657b665bcf.png"
+    },
+    {
       "author": "Joe Bradshaw, Alex Brotherton",
-      "title": "'Our Super Bowl moment' - what can WSL learn from booming US league?",
+      "content": "Fans of both the NWSL and the WSL are spoiled when it comes to talent.\r\nMost of the US national team play their club football at home, with the likes of Trinity Rodman, Mallory Swanson and Rose Lavel… [+1469 chars]",
       "description": "The National Women's Soccer League in the USA is booming, so what is it getting right - and what can the Women's Super League learn?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c893rk66e1l7o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9a7e/live/9a263a10-e698-11f1-936e-1fd1d31671db.jpg",
       "publishedAt": "2026-11-23T07:52:55Z",
-      "content": "Fans of both the NWSL and the WSL are spoiled when it comes to talent.\r\nMost of the US national team play their club football at home, with the likes of Trinity Rodman, Mallory Swanson and Rose Lavel… [+1469 chars]"
-    },
-    {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "title": "'Our Super Bowl moment' - what can WSL learn from booming US league?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c893rk66e1l7o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9a7e/live/9a263a10-e698-11f1-936e-1fd1d31671db.jpg"
+    },
+    {
       "author": null,
-      "title": "Witness History",
+      "content": "In 1994, the agreement that created the World Trade Organization was signed in Morrocco",
       "description": "In 1994, the agreement that created the World Trade Organization was signed in Morrocco",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8r4b?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/images/ic/240x135/p0pnlfvs.jpg",
       "publishedAt": "2026-11-23T07:00:00Z",
-      "content": "In 1994, the agreement that created the World Trade Organization was signed in Morrocco"
-    },
-    {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "title": "Witness History",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8r4b?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/images/ic/240x135/p0pnlfvs.jpg"
+    },
+    {
       "author": "Justin Rowlatt, Esme Stallard",
-      "title": "Five takeaways from the failed climate talks COP31",
+      "content": "COP31 has shown how the role of these annual UN climate conferences is changing.\r\nFor the first 30 COPs, the emphasis was on building the international framework for tackling global warming.\r\nThe gre… [+2162 chars]",
       "description": "The COP31 summit in Antalya was the longest-running climate talks in UN history.",
-      "url": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1ce9/live/11961550-e704-11f1-8d78-e5a497181e56.jpg",
       "publishedAt": "2026-11-23T06:33:50Z",
-      "content": "COP31 has shown how the role of these annual UN climate conferences is changing.\r\nFor the first 30 COPs, the emphasis was on building the international framework for tackling global warming.\r\nThe gre… [+2162 chars]"
-    },
-    {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "title": "Five takeaways from the failed climate talks COP31",
+      "url": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1ce9/live/11961550-e704-11f1-8d78-e5a497181e56.jpg"
+    },
+    {
       "author": "Emlyn Begley, Guillem Balague, Dale Johnson, Simon Stone",
-      "title": "One of football's most-hyped 16-year-olds - what next for JJ Gabriel?",
+      "content": "Who is Gabriel's new agent, Ali Barat? \r\n\"Players are moving to him because his reputation is that he'll get you a move to a bigger club,\" one Premier League club source told BBC Sport.\r\nDubai-based … [+2828 chars]",
       "description": "BBC Sport looks at why JJ Gabriel's move from Manchester United to Real Madrid has caused such a stir.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6p9dym309nxo",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fc61/live/ebf65340-e4f7-11f1-a8e4-b1e12a49db15.jpg",
       "publishedAt": "2026-11-23T06:17:59Z",
-      "content": "Who is Gabriel's new agent, Ali Barat? \r\n\"Players are moving to him because his reputation is that he'll get you a move to a bigger club,\" one Premier League club source told BBC Sport.\r\nDubai-based … [+2828 chars]"
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "One of football's most-hyped 16-year-olds - what next for JJ Gabriel?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6p9dym309nxo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fc61/live/ebf65340-e4f7-11f1-a8e4-b1e12a49db15.jpg"
     },
     {
-      "source": {
-        "id": "the-guardian",
-        "name": "The Guardian"
-      },
       "author": "Soledad Dominguez in Buenos Aires",
-      "title": "‘Once installed, there’s no getting rid of it’: what Falklands oil plans mean for its seals, whales and penguins",
+      "content": "While Argentina and the UK dispute sovereignty over the islands and its vast oil reserves, environmentalists fear for one of the Atlantic’s richest ecosystems From the air, the main Falkland Islands form two large, jagged shapes against the South Atlantic. East Falkland and West Falkland are surrounded by 778 smaller islands and islets east of Patagonia’s southern tip. The archipelago, a British overseas territory claimed by Argentina, is home to large colonies of albatrosses and penguins. Its waters, with those of the Patagonian shelf, provide feeding grounds for sea lions, southern elephant seals and southern right whales. Continue reading...",
       "description": "While Argentina and the UK dispute sovereignty over the islands and its vast oil reserves, environmentalists fear for one of the Atlantic’s richest ecosystems From the air, the main Falkland Islands form two large, jagged shapes against the South Atlantic. East Falkland and West Falkland are surrounded by 778 smaller islands and islets east of Patagonia’s southern tip. The archipelago, a British overseas territory claimed by Argentina, is home to large colonies of albatrosses and penguins. Its waters, with those of the Patagonian shelf, provide feeding grounds for sea lions, southern elephant seals and southern right whales. Continue reading...",
-      "url": "https://www.theguardian.com/global-development/2026/nov/23/falkland-islands-argentina-sea-lion-oil-environment-sovereignty-wildlife-pollution",
-      "urlToImage": "https://i.guim.co.uk/img/media/71177c27dff46278555eaf88bb75c6bd92f88f22/184_463_4260_3409/master/4260.jpg?width=140&quality=85&auto=format&fit=max&s=5fd1d505c064abd5f03988482c7a68bd",
       "publishedAt": "2026-11-23T06:00:49Z",
-      "content": "While Argentina and the UK dispute sovereignty over the islands and its vast oil reserves, environmentalists fear for one of the Atlantic’s richest ecosystems From the air, the main Falkland Islands form two large, jagged shapes against the South Atlantic. East Falkland and West Falkland are surrounded by 778 smaller islands and islets east of Patagonia’s southern tip. The archipelago, a British overseas territory claimed by Argentina, is home to large colonies of albatrosses and penguins. Its waters, with those of the Patagonian shelf, provide feeding grounds for sea lions, southern elephant seals and southern right whales. Continue reading..."
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "title": "‘Once installed, there’s no getting rid of it’: what Falklands oil plans mean for its seals, whales and penguins",
+      "url": "https://www.theguardian.com/global-development/2026/nov/23/falkland-islands-argentina-sea-lion-oil-environment-sovereignty-wildlife-pollution",
+      "urlToImage": "https://i.guim.co.uk/img/media/71177c27dff46278555eaf88bb75c6bd92f88f22/184_463_4260_3409/master/4260.jpg?width=140&quality=85&auto=format&fit=max&s=5fd1d505c064abd5f03988482c7a68bd"
     },
     {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
       "author": null,
-      "title": "Neon signs seen in famous films sold in auction",
+      "content": "Neon signs made for Stanley Kubrick's Eyes Wide Shut film were among the props that went under the hammer in south-west London last week.\r\nGod's Own Junk Yard also had pieces made for Tomb Raider, Br… [+491 chars]",
       "description": "God's Own Junk Yard sold pieces made for Tomb Raider, Bridget Jones's Diary and Elton John.",
-      "url": "https://www.bbc.co.uk/news/videos/ck4gnm86g9mgo",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/013d/live/c92d7800-e4e5-11f1-a094-5fdc692f3e33.jpg",
       "publishedAt": "2026-11-23T05:57:50Z",
-      "content": "Neon signs made for Stanley Kubrick's Eyes Wide Shut film were among the props that went under the hammer in south-west London last week.\r\nGod's Own Junk Yard also had pieces made for Tomb Raider, Br… [+491 chars]"
-    },
-    {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "title": "Neon signs seen in famous films sold in auction",
+      "url": "https://www.bbc.co.uk/news/videos/ck4gnm86g9mgo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/013d/live/c92d7800-e4e5-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
       "author": null,
-      "title": "Energy bills will soar - here's how you can ease the pain",
+      "content": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
       "description": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
-      "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53c7/live/9b2f4a60-bd7f-11f1-bc2e-018d645d8d21.jpg",
       "publishedAt": "2026-11-23T01:05:07Z",
-      "content": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure."
-    },
-    {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "title": "Energy bills will soar - here's how you can ease the pain",
+      "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53c7/live/9b2f4a60-bd7f-11f1-bc2e-018d645d8d21.jpg"
+    },
+    {
       "author": null,
-      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "content": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
       "description": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-      "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11c4/live/b30a2e00-e635-11f1-bcaa-b74b42067918.jpg",
       "publishedAt": "2026-11-23T00:33:36Z",
-      "content": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\"."
-    },
-    {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
-      "author": "Tom Espiner",
-      "title": "What is going on with Poundland?",
-      "description": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f2b3/live/3c7f3110-d7bf-11f1-a719-bf3dc3a3d5b5.jpg",
-      "publishedAt": "2026-11-23T00:22:27Z",
-      "content": "Poundland seems to be facing \"a funding and ownership problem rather than a trading collapse\", Palmer says.\r\nHowever, while Poundland boss Barry Williams says the business is making a \"strong recover… [+1786 chars]"
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": "Zoe Corbyn",
-      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
-      "description": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
-      "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4d7f/live/712502a0-e2cd-11f1-99ed-7de3e5932968.jpg",
-      "publishedAt": "2026-11-23T00:08:00Z",
-      "content": "What are the thoughts of AI workers in the city, and should San Francisco no stranger to tech's boom-and-bust cycles be preparing for a possible crash?\r\nOne AI worker, employed by one of the largest … [+3060 chars]"
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
-      "description": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
-      "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06d6/live/b3d40440-e712-11f1-a094-5fdc692f3e33.jpg",
-      "publishedAt": "2026-11-23T00:08:00Z",
-      "content": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated."
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": "Nick Eardley, Matt Spivey",
-      "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
-      "description": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
-      "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3431/live/0e8b4920-e6be-11f1-a023-d502158f79f8.jpg",
-      "publishedAt": "2026-11-22T22:49:10Z",
-      "content": "The prime minister will tell Parliament on Monday the \"landmark\" deal struck with the EU means there is a \"very real prospect\" the next decade can be \"much better\" than the last one.\r\nThe deal is a \"… [+3772 chars]"
-    },
-    {
-      "source": {
-        "id": "the-guardian",
-        "name": "The Guardian"
-      },
-      "author": "Eric Berger",
-      "title": "Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says",
-      "description": "John Kennedy looks to Trump leaders as he asks how China evidently bypassed export controls for Nvidia’s top AI chips Invoking Greek mythology, the US senator John Kennedy has characterized former Nvidia chief executive officer Jensen Huang ’s reported affair with a suspected Chinese spy as “the most expensive sex since Helen of Troy”. The Louisiana Republican’s allusion to the legendary figure whose desirability was such that it caused the mythic Trojan war came during an interview on NBC’s Meet the Press on Sunday. Host Kristen Welker asked Kennedy, known for his colloquialisms, if US national security was put at risk by Huang’s affair, given the position his company’s chips have occupied at the forefront of the artificial intelligence boom. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
-      "urlToImage": "https://i.guim.co.uk/img/media/4c4701470b09edcfeba9cbda93c6910a248a274b/0_116_6218_4975/master/6218.jpg?width=140&quality=85&auto=format&fit=max&s=635252dd42b880401caf9c475fc93266",
-      "publishedAt": "2026-11-22T20:23:36Z",
-      "content": "John Kennedy looks to Trump leaders as he asks how China evidently bypassed export controls for Nvidia’s top AI chips Invoking Greek mythology, the US senator John Kennedy has characterized former Nvidia chief executive officer Jensen Huang ’s reported affair with a suspected Chinese spy as “the most expensive sex since Helen of Troy”. The Louisiana Republican’s allusion to the legendary figure whose desirability was such that it caused the mythic Trojan war came during an interview on NBC’s Meet the Press on Sunday. Host Kristen Welker asked Kennedy, known for his colloquialisms, if US national security was put at risk by Huang’s affair, given the position his company’s chips have occupied at the forefront of the artificial intelligence boom. Continue reading..."
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": "Mark Poynting, Esme Stallard, Justin Rowlatt",
-      "title": "COP31 climate talks fail to reach major deal amid deep divisions",
-      "description": "COP31 climate talks fail to make breakthrough on tackling climate change after a row about mentioning fossil fuels.",
-      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg",
-      "publishedAt": "2026-11-22T18:17:59Z",
-      "content": "Countries have failed to reach a major new deal to tackle climate change after deep divisions over fossil fuels and money emerged at the UN COP31 talks in Turkey.\r\nNegotiations were due to finish on … [+3234 chars]"
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": "Brian McLauchlin, Clive Lindsay",
-      "title": "'Rolls Royce' Iqbal's 'dream' journey from Old Trafford to Tannadice",
-      "description": "Zidane Iqbal is starting to live up to his famous name and wowing Scottish Premiership fans after his move to Dundee United.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwj05z6npze4o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cbe7/live/00b578f0-e693-11f1-99b6-a35a62fa4264.jpg",
-      "publishedAt": "2026-11-22T17:00:01Z",
-      "content": "While on-loan Rangers man Lyall Cameron was among the goals and fellow 24-year-old Dylan Tait provided a stylish assist, it was the third leg of what some regard as the best midfield triumvirate in t… [+2173 chars]"
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
-      "description": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
-      "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7208/live/d02d4240-e682-11f1-99b6-a35a62fa4264.jpg",
-      "publishedAt": "2026-11-22T13:50:21Z",
-      "content": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year."
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": "Becky Morton",
-      "title": "Tories would scrap Burnham's deal with EU, deputy leader says",
-      "description": "Alex Burghart tells the BBC the agreement will not lead to lower prices in the shops.",
-      "url": "https://www.bbc.co.uk/news/articles/cr868jnlllpgo",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/03ca/live/5beeaf80-e674-11f1-a5bc-ddaec99ca2c4.jpg",
-      "publishedAt": "2026-11-22T13:15:57Z",
-      "content": "Conservative deputy leader Alex Burghart has said his party would scrap the deal agreed between the UK and the European Union on Friday, if the Tories win the next general election.\r\nThe agreement si… [+2495 chars]"
-    },
-    {
-      "source": {
-        "id": "the-guardian",
-        "name": "The Guardian"
-      },
-      "author": "Jeremy Barr in Washington",
-      "title": "Conservative media weighs its future as cracks emerge in Trump’s movement",
-      "description": "Two weeks after Democrats flipped Congress, conservative outlets are having conversations on whether to distance themselves from Trump or double down on Maga As a so-called “blue wave” crashed across the country on the night of 3 November, conservative hosts and commentators on Fox News displayed an almost virtuosic ability to avoid directly blaming Donald Trump for the Republican party’s defeat, instead pinning the blame on impertinent voters who didn’t grasp the strength of the economy. “In some sense, Mr Trump was too successful in the first year and didn’t sell it enough in the second year,” said Larry Kudlow, a Fox Business Network host who served as the president’s director of the National Economic Council during his first administration. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/nov/22/conservative-media-trump-midterm-elections-results",
-      "urlToImage": "https://i.guim.co.uk/img/media/8c42154ecfc0d97946047de44f3951732b270f97/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=fd376300e09a033582e60c8950224c71",
-      "publishedAt": "2026-11-22T11:00:26Z",
-      "content": "Two weeks after Democrats flipped Congress, conservative outlets are having conversations on whether to distance themselves from Trump or double down on Maga As a so-called “blue wave” crashed across the country on the night of 3 November, conservative hosts and commentators on Fox News displayed an almost virtuosic ability to avoid directly blaming Donald Trump for the Republican party’s defeat, instead pinning the blame on impertinent voters who didn’t grasp the strength of the economy. “In some sense, Mr Trump was too successful in the first year and didn’t sell it enough in the second year,” said Larry Kudlow, a Fox Business Network host who served as the president’s director of the National Economic Council during his first administration. Continue reading..."
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": "Giancarlo Rinaldi",
-      "title": "Will the Scotland-England border landmark star ever shine?",
-      "description": "The Star of Caledonia at Gretna Green faces an uncertain future after a major funder withdrew.",
-      "url": "https://www.bbc.co.uk/news/articles/c6jreyd4ey49o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b843/live/ab412b50-e41f-11f1-9e08-55a8a3b48445.png",
-      "publishedAt": "2026-11-22T09:30:21Z",
-      "content": "The idea of the landmark - hoping to emulate the success of the Angel of the North in Gateshead - came from the late local businessman Alasdair Houston.\r\nIt was to celebrate the area's role as a \"gat… [+424 chars]"
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "MP criticises Guernsey and Jersey company ownership register plans",
-      "description": "Sir Andrew Mitchell says access should be easier for people tackling financial crime.",
-      "url": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2875/live/5aa002d0-e4dc-11f1-9cc5-e9713e77fd78.jpg",
-      "publishedAt": "2026-11-22T07:22:05Z",
-      "content": "Sir Andrew Mitchell says access should be easier for people tackling financial crime."
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": "Emma Ruminski, Christine Butler",
-      "title": "Du Maurier family photos shared for first time",
-      "description": "Photos showing the author and her family have been shared for the first time by her grandson.",
-      "url": "https://www.bbc.co.uk/news/articles/c6jrwxnl9v14o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/76e4/live/873d7560-e429-11f1-99a1-253766e7ad8b.jpg",
-      "publishedAt": "2026-11-22T07:20:17Z",
-      "content": "Rediscovering his grandparents' relationship from the perspective of an adult has been a voyage of discovery for De Zulueta, who now believes his grandfather had Post Traumatic Stress Disorder after … [+1313 chars]"
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": "Jessica Lamb",
       "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-      "description": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-      "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/11c4/live/b30a2e00-e635-11f1-bcaa-b74b42067918.jpg",
-      "publishedAt": "2026-11-22T07:12:41Z",
-      "content": "Italian jeweller Paolo Bulgari, who helped turn his family's business into a global luxury brand, has died in Rome aged age 89.\r\nHis family announced the news, remembering him as \"the greatest jewell… [+889 chars]"
+      "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11c4/live/b30a2e00-e635-11f1-bcaa-b74b42067918.jpg"
     },
     {
-      "source": {
-        "id": "the-guardian",
-        "name": "The Guardian"
-      },
-      "author": "Dan Milmo, Gaya Gupta and Aisha Down",
-      "title": "Hacks, AI and conspiracy theories: why are we having so many outages?",
-      "description": "After chaos at airlines, banks and companies from Microsoft to Apple, people have become convinced the world’s systems are under attack Nicole Reindorf’s American Airlines flight was ready for takeoff in Phoenix when the pilot came on the intercom and announced what was to become the longest nationwide aviation shutdown since 9/11 . Reindorf, 70, had seen the headlines hours before about a global Microsoft outage . She immediately suspected the two were linked in some way by AI-related threats – and that she would not get to the wedding of her best friend’s son in California. Continue reading...",
-      "url": "https://www.theguardian.com/technology/2026/nov/22/hacks-ai-internet-outages-airlines-banks-microsoft-apple",
-      "urlToImage": "https://i.guim.co.uk/img/media/917aeeec17f3bee46d98e2201997eb1f9a0b316c/0_807_4000_3198/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=d4752a8d74606eaec6916b68b2a9c81d",
-      "publishedAt": "2026-11-22T06:00:19Z",
-      "content": "After chaos at airlines, banks and companies from Microsoft to Apple, people have become convinced the world’s systems are under attack Nicole Reindorf’s American Airlines flight was ready for takeoff in Phoenix when the pilot came on the intercom and announced what was to become the longest nationwide aviation shutdown since 9/11 . Reindorf, 70, had seen the headlines hours before about a global Microsoft outage . She immediately suspected the two were linked in some way by AI-related threats – and that she would not get to the wedding of her best friend’s son in California. Continue reading..."
-    },
-    {
+      "author": "Tom Espiner",
+      "content": "Poundland seems to be facing \"a funding and ownership problem rather than a trading collapse\", Palmer says.\r\nHowever, while Poundland boss Barry Williams says the business is making a \"strong recover… [+1786 chars]",
+      "description": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
+      "publishedAt": "2026-11-23T00:22:27Z",
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
-      "author": "Gareth Griffiths",
-      "title": "New chair Faulkner can turn around WRU - Davies",
-      "description": "Former Wales captain Jonathan Davies says new Welsh Rugby Union (WRU) chair Lyndon Faulkner is the man to turn Welsh rugby around.",
-      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm257rjk9v9o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ffa2/live/b59f5920-e4c7-11f1-87df-79d8910e0f29.jpg",
-      "publishedAt": "2026-11-22T05:49:02Z",
-      "content": "Former Wales captain Jonathan Davies says new Welsh Rugby Union (WRU) chairman Lyndon Faulkner is the man to turn Welsh rugby around.\r\nThe former Newport and Pontypool forward, who takes over from Ri… [+1542 chars]"
+      "title": "What is going on with Poundland?",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f2b3/live/3c7f3110-d7bf-11f1-a719-bf3dc3a3d5b5.jpg"
     },
     {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": "Daniel Thomas, Yasmin Malik, Anuk Weerawardana",
-      "title": "Employers are being asked to give interview feedback - here's what applicants want",
-      "description": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?",
-      "url": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fb80/live/784ad260-e4e1-11f1-99b6-a35a62fa4264.jpg",
-      "publishedAt": "2026-11-22T00:04:07Z",
-      "content": "Have you ever applied for a job or attended an interview, only to hear absolutely nothing back from the employer?\r\nSo-called \"job ghosting\" has become a big problem for jobseekers in the UK, leaving … [+1374 chars]"
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
       "author": null,
-      "title": "Hundreds of applications, no replies: Inside the job ghosting problem‌",
-      "description": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?",
-      "url": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb80/live/784ad260-e4e1-11f1-99b6-a35a62fa4264.jpg",
-      "publishedAt": "2026-11-22T00:04:07Z",
-      "content": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?"
-    },
-    {
+      "content": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+      "description": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+      "publishedAt": "2026-11-23T00:08:00Z",
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06d6/live/b3d40440-e712-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "author": "Zoe Corbyn",
+      "content": "What are the thoughts of AI workers in the city, and should San Francisco no stranger to tech's boom-and-bust cycles be preparing for a possible crash?\r\nOne AI worker, employed by one of the largest … [+3060 chars]",
+      "description": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+      "publishedAt": "2026-11-23T00:08:00Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4d7f/live/712502a0-e2cd-11f1-99ed-7de3e5932968.jpg"
+    },
+    {
       "author": "Nick Eardley, Matt Spivey",
-      "title": "UK should only rejoin EU if it innovates on technology, Blair warns",
+      "content": "The prime minister will tell Parliament on Monday the \"landmark\" deal struck with the EU means there is a \"very real prospect\" the next decade can be \"much better\" than the last one.\r\nThe deal is a \"… [+3772 chars]",
+      "description": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
+      "publishedAt": "2026-11-22T22:49:10Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3431/live/0e8b4920-e6be-11f1-a023-d502158f79f8.jpg"
+    },
+    {
+      "author": "Eric Berger",
+      "content": "John Kennedy looks to Trump leaders as he asks how China evidently bypassed export controls for Nvidia’s top AI chips Invoking Greek mythology, the US senator John Kennedy has characterized former Nvidia chief executive officer Jensen Huang ’s reported affair with a suspected Chinese spy as “the most expensive sex since Helen of Troy”. The Louisiana Republican’s allusion to the legendary figure whose desirability was such that it caused the mythic Trojan war came during an interview on NBC’s Meet the Press on Sunday. Host Kristen Welker asked Kennedy, known for his colloquialisms, if US national security was put at risk by Huang’s affair, given the position his company’s chips have occupied at the forefront of the artificial intelligence boom. Continue reading...",
+      "description": "John Kennedy looks to Trump leaders as he asks how China evidently bypassed export controls for Nvidia’s top AI chips Invoking Greek mythology, the US senator John Kennedy has characterized former Nvidia chief executive officer Jensen Huang ’s reported affair with a suspected Chinese spy as “the most expensive sex since Helen of Troy”. The Louisiana Republican’s allusion to the legendary figure whose desirability was such that it caused the mythic Trojan war came during an interview on NBC’s Meet the Press on Sunday. Host Kristen Welker asked Kennedy, known for his colloquialisms, if US national security was put at risk by Huang’s affair, given the position his company’s chips have occupied at the forefront of the artificial intelligence boom. Continue reading...",
+      "publishedAt": "2026-11-22T20:23:36Z",
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "title": "Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says",
+      "url": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
+      "urlToImage": "https://i.guim.co.uk/img/media/4c4701470b09edcfeba9cbda93c6910a248a274b/0_116_6218_4975/master/6218.jpg?width=140&quality=85&auto=format&fit=max&s=635252dd42b880401caf9c475fc93266"
+    },
+    {
+      "author": "Mark Poynting, Esme Stallard, Justin Rowlatt",
+      "content": "Countries have failed to reach a major new deal to tackle climate change after deep divisions over fossil fuels and money emerged at the UN COP31 talks in Turkey.\r\nNegotiations were due to finish on … [+3234 chars]",
+      "description": "COP31 climate talks fail to make breakthrough on tackling climate change after a row about mentioning fossil fuels.",
+      "publishedAt": "2026-11-22T18:17:59Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "COP31 climate talks fail to reach major deal amid deep divisions",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg"
+    },
+    {
+      "author": "Brian McLauchlin, Clive Lindsay",
+      "content": "While on-loan Rangers man Lyall Cameron was among the goals and fellow 24-year-old Dylan Tait provided a stylish assist, it was the third leg of what some regard as the best midfield triumvirate in t… [+2173 chars]",
+      "description": "Zidane Iqbal is starting to live up to his famous name and wowing Scottish Premiership fans after his move to Dundee United.",
+      "publishedAt": "2026-11-22T17:00:01Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "'Rolls Royce' Iqbal's 'dream' journey from Old Trafford to Tannadice",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwj05z6npze4o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/cbe7/live/00b578f0-e693-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "author": null,
+      "content": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
+      "description": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
+      "publishedAt": "2026-11-22T13:50:21Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
+      "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7208/live/d02d4240-e682-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "author": "Becky Morton",
+      "content": "Conservative deputy leader Alex Burghart has said his party would scrap the deal agreed between the UK and the European Union on Friday, if the Tories win the next general election.\r\nThe agreement si… [+2495 chars]",
+      "description": "Alex Burghart tells the BBC the agreement will not lead to lower prices in the shops.",
+      "publishedAt": "2026-11-22T13:15:57Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "Tories would scrap Burnham's deal with EU, deputy leader says",
+      "url": "https://www.bbc.co.uk/news/articles/cr868jnlllpgo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/03ca/live/5beeaf80-e674-11f1-a5bc-ddaec99ca2c4.jpg"
+    },
+    {
+      "author": "Jeremy Barr in Washington",
+      "content": "Two weeks after Democrats flipped Congress, conservative outlets are having conversations on whether to distance themselves from Trump or double down on Maga As a so-called “blue wave” crashed across the country on the night of 3 November, conservative hosts and commentators on Fox News displayed an almost virtuosic ability to avoid directly blaming Donald Trump for the Republican party’s defeat, instead pinning the blame on impertinent voters who didn’t grasp the strength of the economy. “In some sense, Mr Trump was too successful in the first year and didn’t sell it enough in the second year,” said Larry Kudlow, a Fox Business Network host who served as the president’s director of the National Economic Council during his first administration. Continue reading...",
+      "description": "Two weeks after Democrats flipped Congress, conservative outlets are having conversations on whether to distance themselves from Trump or double down on Maga As a so-called “blue wave” crashed across the country on the night of 3 November, conservative hosts and commentators on Fox News displayed an almost virtuosic ability to avoid directly blaming Donald Trump for the Republican party’s defeat, instead pinning the blame on impertinent voters who didn’t grasp the strength of the economy. “In some sense, Mr Trump was too successful in the first year and didn’t sell it enough in the second year,” said Larry Kudlow, a Fox Business Network host who served as the president’s director of the National Economic Council during his first administration. Continue reading...",
+      "publishedAt": "2026-11-22T11:00:26Z",
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "title": "Conservative media weighs its future as cracks emerge in Trump’s movement",
+      "url": "https://www.theguardian.com/us-news/2026/nov/22/conservative-media-trump-midterm-elections-results",
+      "urlToImage": "https://i.guim.co.uk/img/media/8c42154ecfc0d97946047de44f3951732b270f97/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=fd376300e09a033582e60c8950224c71"
+    },
+    {
+      "author": "Giancarlo Rinaldi",
+      "content": "The idea of the landmark - hoping to emulate the success of the Angel of the North in Gateshead - came from the late local businessman Alasdair Houston.\r\nIt was to celebrate the area's role as a \"gat… [+424 chars]",
+      "description": "The Star of Caledonia at Gretna Green faces an uncertain future after a major funder withdrew.",
+      "publishedAt": "2026-11-22T09:30:21Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "Will the Scotland-England border landmark star ever shine?",
+      "url": "https://www.bbc.co.uk/news/articles/c6jreyd4ey49o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b843/live/ab412b50-e41f-11f1-9e08-55a8a3b48445.png"
+    },
+    {
+      "author": null,
+      "content": "Sir Andrew Mitchell says access should be easier for people tackling financial crime.",
+      "description": "Sir Andrew Mitchell says access should be easier for people tackling financial crime.",
+      "publishedAt": "2026-11-22T07:22:05Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "MP criticises Guernsey and Jersey company ownership register plans",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2875/live/5aa002d0-e4dc-11f1-9cc5-e9713e77fd78.jpg"
+    },
+    {
+      "author": "Emma Ruminski, Christine Butler",
+      "content": "Rediscovering his grandparents' relationship from the perspective of an adult has been a voyage of discovery for De Zulueta, who now believes his grandfather had Post Traumatic Stress Disorder after … [+1313 chars]",
+      "description": "Photos showing the author and her family have been shared for the first time by her grandson.",
+      "publishedAt": "2026-11-22T07:20:17Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "Du Maurier family photos shared for first time",
+      "url": "https://www.bbc.co.uk/news/articles/c6jrwxnl9v14o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/76e4/live/873d7560-e429-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "author": "Jessica Lamb",
+      "content": "Italian jeweller Paolo Bulgari, who helped turn his family's business into a global luxury brand, has died in Rome aged age 89.\r\nHis family announced the news, remembering him as \"the greatest jewell… [+889 chars]",
+      "description": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+      "publishedAt": "2026-11-22T07:12:41Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/11c4/live/b30a2e00-e635-11f1-bcaa-b74b42067918.jpg"
+    },
+    {
+      "author": "Dan Milmo, Gaya Gupta and Aisha Down",
+      "content": "After chaos at airlines, banks and companies from Microsoft to Apple, people have become convinced the world’s systems are under attack Nicole Reindorf’s American Airlines flight was ready for takeoff in Phoenix when the pilot came on the intercom and announced what was to become the longest nationwide aviation shutdown since 9/11 . Reindorf, 70, had seen the headlines hours before about a global Microsoft outage . She immediately suspected the two were linked in some way by AI-related threats – and that she would not get to the wedding of her best friend’s son in California. Continue reading...",
+      "description": "After chaos at airlines, banks and companies from Microsoft to Apple, people have become convinced the world’s systems are under attack Nicole Reindorf’s American Airlines flight was ready for takeoff in Phoenix when the pilot came on the intercom and announced what was to become the longest nationwide aviation shutdown since 9/11 . Reindorf, 70, had seen the headlines hours before about a global Microsoft outage . She immediately suspected the two were linked in some way by AI-related threats – and that she would not get to the wedding of her best friend’s son in California. Continue reading...",
+      "publishedAt": "2026-11-22T06:00:19Z",
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "title": "Hacks, AI and conspiracy theories: why are we having so many outages?",
+      "url": "https://www.theguardian.com/technology/2026/nov/22/hacks-ai-internet-outages-airlines-banks-microsoft-apple",
+      "urlToImage": "https://i.guim.co.uk/img/media/917aeeec17f3bee46d98e2201997eb1f9a0b316c/0_807_4000_3198/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=d4752a8d74606eaec6916b68b2a9c81d"
+    },
+    {
+      "author": "Gareth Griffiths",
+      "content": "Former Wales captain Jonathan Davies says new Welsh Rugby Union (WRU) chairman Lyndon Faulkner is the man to turn Welsh rugby around.\r\nThe former Newport and Pontypool forward, who takes over from Ri… [+1542 chars]",
+      "description": "Former Wales captain Jonathan Davies says new Welsh Rugby Union (WRU) chair Lyndon Faulkner is the man to turn Welsh rugby around.",
+      "publishedAt": "2026-11-22T05:49:02Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "New chair Faulkner can turn around WRU - Davies",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm257rjk9v9o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ffa2/live/b59f5920-e4c7-11f1-87df-79d8910e0f29.jpg"
+    },
+    {
+      "author": "Daniel Thomas, Yasmin Malik, Anuk Weerawardana",
+      "content": "Have you ever applied for a job or attended an interview, only to hear absolutely nothing back from the employer?\r\nSo-called \"job ghosting\" has become a big problem for jobseekers in the UK, leaving … [+1374 chars]",
+      "description": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?",
+      "publishedAt": "2026-11-22T00:04:07Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "Employers are being asked to give interview feedback - here's what applicants want",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fb80/live/784ad260-e4e1-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "author": null,
+      "content": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?",
+      "description": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?",
+      "publishedAt": "2026-11-22T00:04:07Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "Hundreds of applications, no replies: Inside the job ghosting problem‌",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb80/live/784ad260-e4e1-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "author": "Nick Eardley, Matt Spivey",
+      "content": "Former prime minister Sir Tony Blair has said Britain should only rejoin the European Union if it reforms - and allows more innovation on technology.\r\nSpeaking to The Sunday Times, external, Sir Tony… [+1446 chars]",
       "description": "The former prime minister argues the European Union is probably moving in the wrong direction on technology innovation.",
-      "url": "https://www.bbc.co.uk/news/articles/c893r4923wngo",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2cc5/live/a77124b0-e5d9-11f1-9ab8-8737221634d6.jpg",
       "publishedAt": "2026-11-21T19:33:49Z",
-      "content": "Former prime minister Sir Tony Blair has said Britain should only rejoin the European Union if it reforms - and allows more innovation on technology.\r\nSpeaking to The Sunday Times, external, Sir Tony… [+1446 chars]"
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "UK should only rejoin EU if it innovates on technology, Blair warns",
+      "url": "https://www.bbc.co.uk/news/articles/c893r4923wngo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2cc5/live/a77124b0-e5d9-11f1-9ab8-8737221634d6.jpg"
     },
     {
-      "source": {
-        "id": "the-guardian",
-        "name": "The Guardian"
-      },
       "author": "Aisha Down Global technology reporter",
-      "title": "‘Little room for error’: what a debt-laden cloud computing company says about the AI boom",
+      "content": "‘Poster child of AI bubble’ CoreWeave symbolises increasingly risky business model of datacentre buildout The Egyptians had pyramids. The Roman empire had roads. The early 21st-century tech bros have massive buildings full of expensive glass and metal blocks providing the substratum for a powerful inhuman intelligence. Building all those datacentres is taking a while, locals everywhere are angry about them and it is unclear whether the inhuman intelligence inside them is actually going to make their backers rich. Continue reading...",
       "description": "‘Poster child of AI bubble’ CoreWeave symbolises increasingly risky business model of datacentre buildout The Egyptians had pyramids. The Roman empire had roads. The early 21st-century tech bros have massive buildings full of expensive glass and metal blocks providing the substratum for a powerful inhuman intelligence. Building all those datacentres is taking a while, locals everywhere are angry about them and it is unclear whether the inhuman intelligence inside them is actually going to make their backers rich. Continue reading...",
-      "url": "https://www.theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom",
-      "urlToImage": "https://i.guim.co.uk/img/media/4ccf3eba2b9600a32c8f0d9bd1554d5d4fe50e67/504_0_5040_4032/master/5040.jpg?width=140&quality=85&auto=format&fit=max&s=e8d923ad2af9620a6291627751c10ce3",
       "publishedAt": "2026-11-21T13:00:01Z",
-      "content": "‘Poster child of AI bubble’ CoreWeave symbolises increasingly risky business model of datacentre buildout The Egyptians had pyramids. The Roman empire had roads. The early 21st-century tech bros have massive buildings full of expensive glass and metal blocks providing the substratum for a powerful inhuman intelligence. Building all those datacentres is taking a while, locals everywhere are angry about them and it is unclear whether the inhuman intelligence inside them is actually going to make their backers rich. Continue reading..."
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Money Box",
-      "description": "The money stolen by criminals through fake investments doubles in just two years.",
-      "url": "https://www.bbc.co.uk/sounds/play/m0034lmq?at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p0pp01q5.jpg",
-      "publishedAt": "2026-11-21T12:30:00Z",
-      "content": "Available for over a year\r\nThe government has set out a new law to force banks to make sure customers have access to face to face banking. The amendment to a Bill already going through Parliament cam… [+1179 chars]"
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": "Esme Stallard",
-      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "description": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5253/live/c9ca5500-e579-11f1-a5f6-b3028adf2d6d.jpg",
-      "publishedAt": "2026-11-21T07:31:05Z",
-      "content": "Ministers from island states, Panama, and a strong contingent of EU nations which include Spain, France, Belgium, Sweden and Finland have said they are pushing to get a commitment to move away from o… [+2393 chars]"
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": "Dan Hunt, Ben Jackson",
-      "title": "The story of how golf balls got their dimples",
-      "description": "Engineer William Taylor took up golf as a hobby to relax - then changed the sport, experts say.",
-      "url": "https://www.bbc.co.uk/news/articles/cw62yy6vx8v6o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3a74/live/6072f910-e509-11f1-a094-5fdc692f3e33.jpg",
-      "publishedAt": "2026-11-21T07:00:41Z",
-      "content": "Taylor settled on a dimpled surface design for a golf ball, and patented it alongside his mechanical driving machine for testing the balls, according to The Royal Society.\r\n\"He was the guy who really… [+1229 chars]"
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": "Georgia Roberts",
-      "title": "Calls to relax 'Dickensian' Peak District house-buying rules",
-      "description": "Anyone wanting to buy an affordable home in the Peak District must have a 10-year connection.",
-      "url": "https://www.bbc.co.uk/news/articles/cw4gnj8pv84yo",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/85f1/live/c08390f0-e32c-11f1-99b6-a35a62fa4264.jpg",
-      "publishedAt": "2026-11-21T06:58:36Z",
-      "content": "Rachel and her partner set about filling out an extensive amount of paperwork demonstrating local connection and need, including bank statements, utility bills and evidence of GP registration for eac… [+1140 chars]"
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": "Laura Kuenssberg, Tom McArthur",
-      "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-      "description": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
-      "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d218/live/12a1fc40-e531-11f1-a67d-39d55c7178b0.jpg",
-      "publishedAt": "2026-11-21T06:00:09Z",
-      "content": "Speaking on Friday, Burnham argued that polling suggests the UK public \"want closer ties\" with the EU and the deal \"delivers that\".\r\nMiliband told the BBC that \"of course all the options will be on t… [+1424 chars]"
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": "Robin Levinson-King, Cecilia Barría",
-      "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
-      "description": "How convicted fraudsters made millions from detained immigrants, evaded efforts to shut down their bail business and left migrants behind bars.",
-      "url": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b187/live/6d4c58d0-e42c-11f1-a630-a951c13e48b7.jpg",
-      "publishedAt": "2026-11-21T01:02:39Z",
-      "content": "But Mark Supetran, who was based in the Philippines and worked for the company for a few months in 2022, says the bracelets were still in use when he worked for the company. \r\nSupetran said he would … [+2269 chars]"
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "ANC fights to keep control of South Africa's key cities after election setback",
-      "description": "The ANC appears reluctant to replicate its national power-sharing deal with the pro-business DA at the local level.",
-      "url": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/aad1/live/7d1c0de0-e4ff-11f1-a8e4-b1e12a49db15.jpg",
-      "publishedAt": "2026-11-21T00:34:51Z",
-      "content": "While the ANC saw a massive decline in its support, it still got more votes than any other party, 31%, down from the 46% in the last local election.\r\nBut in the country's economic powerhouse, Gauteng… [+984 chars]"
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": null,
-      "title": "Can AI really help spot Black Friday deals? We put it to the test",
-      "description": "We put four AI models to the test to see if they could save us money on a new TV.",
-      "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcbf/live/85d51550-e435-11f1-8346-933d3547e297.jpg",
-      "publishedAt": "2026-11-21T00:06:11Z",
-      "content": "We put four AI models to the test to see if they could save us money on a new TV."
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": "Simon Stone",
-      "title": "Cost of Man Utd hiring and firing managers nears £100m",
-      "description": "Manchester United borrowed £10m three days after confirming Mauricio Pochettino would be their new head coach, which will cost them £7.5m in compensation to US Soccer.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwd01n9z23x5o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/765e/live/657e7940-e539-11f1-9616-8327139dcfc4.jpg",
-      "publishedAt": "2026-11-20T23:18:16Z",
-      "content": "Manchester United borrowed another £10m three days after confirming Mauricio Pochettino as their new head coach.\r\nIn an extended Stock Market filing to go with their first-quarter financial results t… [+1499 chars]"
-    },
-    {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "author": "Kali Hays",
-      "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
-      "description": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
-      "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/78a0/live/a0688a80-e531-11f1-99b6-a35a62fa4264.jpg",
-      "publishedAt": "2026-11-20T23:08:57Z",
-      "content": "An Anthropic employee and mathematician claims to have used the company's artificial intelligence (AI) chatbot to prove the famed Riemann hypothesis.\r\nLevent Alpöge said, external on Friday, a day af… [+3366 chars]"
-    },
-    {
       "source": {
         "id": "the-guardian",
         "name": "The Guardian"
       },
+      "title": "‘Little room for error’: what a debt-laden cloud computing company says about the AI boom",
+      "url": "https://www.theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom",
+      "urlToImage": "https://i.guim.co.uk/img/media/4ccf3eba2b9600a32c8f0d9bd1554d5d4fe50e67/504_0_5040_4032/master/5040.jpg?width=140&quality=85&auto=format&fit=max&s=e8d923ad2af9620a6291627751c10ce3"
+    },
+    {
+      "author": null,
+      "content": "Available for over a year\r\nThe government has set out a new law to force banks to make sure customers have access to face to face banking. The amendment to a Bill already going through Parliament cam… [+1179 chars]",
+      "description": "The money stolen by criminals through fake investments doubles in just two years.",
+      "publishedAt": "2026-11-21T12:30:00Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "Money Box",
+      "url": "https://www.bbc.co.uk/sounds/play/m0034lmq?at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p0pp01q5.jpg"
+    },
+    {
+      "author": "Esme Stallard",
+      "content": "Ministers from island states, Panama, and a strong contingent of EU nations which include Spain, France, Belgium, Sweden and Finland have said they are pushing to get a commitment to move away from o… [+2393 chars]",
+      "description": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+      "publishedAt": "2026-11-21T07:31:05Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5253/live/c9ca5500-e579-11f1-a5f6-b3028adf2d6d.jpg"
+    },
+    {
+      "author": "Dan Hunt, Ben Jackson",
+      "content": "Taylor settled on a dimpled surface design for a golf ball, and patented it alongside his mechanical driving machine for testing the balls, according to The Royal Society.\r\n\"He was the guy who really… [+1229 chars]",
+      "description": "Engineer William Taylor took up golf as a hobby to relax - then changed the sport, experts say.",
+      "publishedAt": "2026-11-21T07:00:41Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "The story of how golf balls got their dimples",
+      "url": "https://www.bbc.co.uk/news/articles/cw62yy6vx8v6o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3a74/live/6072f910-e509-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "author": "Georgia Roberts",
+      "content": "Rachel and her partner set about filling out an extensive amount of paperwork demonstrating local connection and need, including bank statements, utility bills and evidence of GP registration for eac… [+1140 chars]",
+      "description": "Anyone wanting to buy an affordable home in the Peak District must have a 10-year connection.",
+      "publishedAt": "2026-11-21T06:58:36Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "Calls to relax 'Dickensian' Peak District house-buying rules",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gnj8pv84yo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/85f1/live/c08390f0-e32c-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "author": "Laura Kuenssberg, Tom McArthur",
+      "content": "Speaking on Friday, Burnham argued that polling suggests the UK public \"want closer ties\" with the EU and the deal \"delivers that\".\r\nMiliband told the BBC that \"of course all the options will be on t… [+1424 chars]",
+      "description": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
+      "publishedAt": "2026-11-21T06:00:09Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+      "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d218/live/12a1fc40-e531-11f1-a67d-39d55c7178b0.jpg"
+    },
+    {
+      "author": "Robin Levinson-King, Cecilia Barría",
+      "content": "But Mark Supetran, who was based in the Philippines and worked for the company for a few months in 2022, says the bracelets were still in use when he worked for the company. \r\nSupetran said he would … [+2269 chars]",
+      "description": "How convicted fraudsters made millions from detained immigrants, evaded efforts to shut down their bail business and left migrants behind bars.",
+      "publishedAt": "2026-11-21T01:02:39Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
+      "url": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b187/live/6d4c58d0-e42c-11f1-a630-a951c13e48b7.jpg"
+    },
+    {
+      "author": null,
+      "content": "While the ANC saw a massive decline in its support, it still got more votes than any other party, 31%, down from the 46% in the last local election.\r\nBut in the country's economic powerhouse, Gauteng… [+984 chars]",
+      "description": "The ANC appears reluctant to replicate its national power-sharing deal with the pro-business DA at the local level.",
+      "publishedAt": "2026-11-21T00:34:51Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "ANC fights to keep control of South Africa's key cities after election setback",
+      "url": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/aad1/live/7d1c0de0-e4ff-11f1-a8e4-b1e12a49db15.jpg"
+    },
+    {
+      "author": null,
+      "content": "We put four AI models to the test to see if they could save us money on a new TV.",
+      "description": "We put four AI models to the test to see if they could save us money on a new TV.",
+      "publishedAt": "2026-11-21T00:06:11Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "Can AI really help spot Black Friday deals? We put it to the test",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcbf/live/85d51550-e435-11f1-8346-933d3547e297.jpg"
+    },
+    {
+      "author": "Simon Stone",
+      "content": "Manchester United borrowed another £10m three days after confirming Mauricio Pochettino as their new head coach.\r\nIn an extended Stock Market filing to go with their first-quarter financial results t… [+1499 chars]",
+      "description": "Manchester United borrowed £10m three days after confirming Mauricio Pochettino would be their new head coach, which will cost them £7.5m in compensation to US Soccer.",
+      "publishedAt": "2026-11-20T23:18:16Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "Cost of Man Utd hiring and firing managers nears £100m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwd01n9z23x5o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/765e/live/657e7940-e539-11f1-9616-8327139dcfc4.jpg"
+    },
+    {
+      "author": "Kali Hays",
+      "content": "An Anthropic employee and mathematician claims to have used the company's artificial intelligence (AI) chatbot to prove the famed Riemann hypothesis.\r\nLevent Alpöge said, external on Friday, a day af… [+3366 chars]",
+      "description": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+      "publishedAt": "2026-11-20T23:08:57Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+      "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/78a0/live/a0688a80-e531-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
       "author": "Lauren Almeida and Graeme Wearden",
-      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
+      "content": "The Nasdaq lost trillions in value, with the AI startup’s IPO failing to buoy it as investors question huge sums being poured into AI buildout Who are Anthropic’s seven co-founders, now worth $180bn? As Anthropic’s stock dropped during its second day of trading, the wider stock market dipped with it. On Friday, the Nasdaq Composite erased all its gains for 2026 and closed down 5% from its value on 1 January. The Dow Jones Industrial Average and S&P 500 closed in correction territory. Anthropic’s record-breaking IPO failed to stem a global sell-off in AI-linked companies, and the tech-heavy Nasdaq erased some $4tn in market value this week, according to the Wall Street Journal. Continue reading...",
       "description": "The Nasdaq lost trillions in value, with the AI startup’s IPO failing to buoy it as investors question huge sums being poured into AI buildout Who are Anthropic’s seven co-founders, now worth $180bn? As Anthropic’s stock dropped during its second day of trading, the wider stock market dipped with it. On Friday, the Nasdaq Composite erased all its gains for 2026 and closed down 5% from its value on 1 January. The Dow Jones Industrial Average and S&P 500 closed in correction territory. Anthropic’s record-breaking IPO failed to stem a global sell-off in AI-linked companies, and the tech-heavy Nasdaq erased some $4tn in market value this week, according to the Wall Street Journal. Continue reading...",
-      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-      "urlToImage": "https://i.guim.co.uk/img/media/578833ee207aab76c1b6a542f17226703dbd735b/686_0_5336_4269/master/5336.jpg?width=140&quality=85&auto=format&fit=max&s=95af56c4e78299bd447fd1e5bd03b452",
       "publishedAt": "2026-11-20T21:38:17Z",
-      "content": "The Nasdaq lost trillions in value, with the AI startup’s IPO failing to buoy it as investors question huge sums being poured into AI buildout Who are Anthropic’s seven co-founders, now worth $180bn? As Anthropic’s stock dropped during its second day of trading, the wider stock market dipped with it. On Friday, the Nasdaq Composite erased all its gains for 2026 and closed down 5% from its value on 1 January. The Dow Jones Industrial Average and S&P 500 closed in correction territory. Anthropic’s record-breaking IPO failed to stem a global sell-off in AI-linked companies, and the tech-heavy Nasdaq erased some $4tn in market value this week, according to the Wall Street Journal. Continue reading..."
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
+      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "urlToImage": "https://i.guim.co.uk/img/media/578833ee207aab76c1b6a542f17226703dbd735b/686_0_5336_4269/master/5336.jpg?width=140&quality=85&auto=format&fit=max&s=95af56c4e78299bd447fd1e5bd03b452"
     },
     {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
       "author": "Cemlyn Davies",
-      "title": "Burnham rejects calls for devolution of powers in letter to Welsh FM",
+      "content": "The previous Welsh Labour government as well as the current Plaid Cymru administration have long called for it to be devolved.\r\nThe prime minister told members of his party last week that Welsh Labou… [+2141 chars]",
       "description": "The prime minister says he is \"not persuaded\" by the argument that devolution would benefit Wales.",
-      "url": "https://www.bbc.co.uk/news/articles/ck9874vydr83o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/efc2/live/7ee93fe0-e517-11f1-9835-bf055edbb9ff.jpg",
       "publishedAt": "2026-11-20T19:41:30Z",
-      "content": "The previous Welsh Labour government as well as the current Plaid Cymru administration have long called for it to be devolved.\r\nThe prime minister told members of his party last week that Welsh Labou… [+2141 chars]"
-    },
-    {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "title": "Burnham rejects calls for devolution of powers in letter to Welsh FM",
+      "url": "https://www.bbc.co.uk/news/articles/ck9874vydr83o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/efc2/live/7ee93fe0-e517-11f1-9835-bf055edbb9ff.jpg"
+    },
+    {
       "author": null,
-      "title": "Bowen brothers needed extra protection after threats",
+      "content": "James Bowen is the latest jockey to confirm he has received death threats from angry punters, revealing both he and brother Sean needed extra protection after an incident last year.\r\nThe 25-year-old … [+1902 chars]",
       "description": "James Bowen is the latest jockey to confirm he has received death threats from angry punters, revealing both he and brother Sean needed extra protection after an incident last year.",
-      "url": "https://www.bbc.co.uk/sport/horse-racing/articles/c6x280vp1px4o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9b9c/live/b78805c0-e508-11f1-b40b-5f46e8cf687c.jpg",
       "publishedAt": "2026-11-20T17:57:30Z",
-      "content": "James Bowen is the latest jockey to confirm he has received death threats from angry punters, revealing both he and brother Sean needed extra protection after an incident last year.\r\nThe 25-year-old … [+1902 chars]"
-    },
-    {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "title": "Bowen brothers needed extra protection after threats",
+      "url": "https://www.bbc.co.uk/sport/horse-racing/articles/c6x280vp1px4o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9b9c/live/b78805c0-e508-11f1-b40b-5f46e8cf687c.jpg"
+    },
+    {
       "author": "Richard Wheeler",
-      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+      "content": "Andy Burnham said the UK will discuss possible options for even closer ties with the EU, after agreeing a deal covering British food exports, emissions trading and a youth experience scheme.\r\nThe pri… [+2353 chars]",
       "description": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+      "publishedAt": "2026-11-20T17:49:48Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
       "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d4e5/live/f4ea50b0-e505-11f1-99a1-253766e7ad8b.jpg",
-      "publishedAt": "2026-11-20T17:49:48Z",
-      "content": "Andy Burnham said the UK will discuss possible options for even closer ties with the EU, after agreeing a deal covering British food exports, emissions trading and a youth experience scheme.\r\nThe pri… [+2353 chars]"
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d4e5/live/f4ea50b0-e505-11f1-99a1-253766e7ad8b.jpg"
     },
     {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
       "author": null,
-      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+      "content": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
       "description": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
-      "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b92/live/7ef50e70-e511-11f1-a094-5fdc692f3e33.jpg",
       "publishedAt": "2026-11-20T17:49:48Z",
-      "content": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme."
-    },
-    {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+      "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b92/live/7ef50e70-e511-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
       "author": "Faisal Islam",
-      "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+      "content": "Bringing all the agreements on food, emissions and the youth experience together, the economy is forecast to get an overall boost of 0.5%, or £17bn a year.\r\nA modest boost, but high by the standards … [+1683 chars]",
       "description": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
+      "publishedAt": "2026-11-20T16:41:52Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
       "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bd6d/live/fa851d90-e4fe-11f1-a8e4-b1e12a49db15.jpg",
-      "publishedAt": "2026-11-20T16:41:52Z",
-      "content": "Bringing all the agreements on food, emissions and the youth experience together, the economy is forecast to get an overall boost of 0.5%, or £17bn a year.\r\nA modest boost, but high by the standards … [+1683 chars]"
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bd6d/live/fa851d90-e4fe-11f1-a8e4-b1e12a49db15.jpg"
     },
     {
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
       "author": null,
-      "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+      "content": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
       "description": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
-      "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd6d/live/fa851d90-e4fe-11f1-a8e4-b1e12a49db15.jpg",
       "publishedAt": "2026-11-20T16:41:52Z",
-      "content": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements."
-    },
-    {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+      "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd6d/live/fa851d90-e4fe-11f1-a8e4-b1e12a49db15.jpg"
+    },
+    {
       "author": "Angharad Thomas",
-      "title": "Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label",
+      "content": "Catherine Zeta-Jones's daughter has said her parents warned her people might have \"preconceived notions\" about her embarking on an acting career, as she shared her views on the \"nepo baby\" label.\r\nCa… [+1688 chars]",
       "description": "Carys Douglas, 23, made her stage debut this year in Anton Chekhov's play, The Seagull, in the US.",
-      "url": "https://www.bbc.co.uk/news/articles/cmgj35zvjyp9o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/179e/live/c4afc3a0-e4db-11f1-9cc5-e9713e77fd78.jpg",
       "publishedAt": "2026-11-20T15:55:02Z",
-      "content": "Catherine Zeta-Jones's daughter has said her parents warned her people might have \"preconceived notions\" about her embarking on an acting career, as she shared her views on the \"nepo baby\" label.\r\nCa… [+1688 chars]"
-    },
-    {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "title": "Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label",
+      "url": "https://www.bbc.co.uk/news/articles/cmgj35zvjyp9o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/179e/live/c4afc3a0-e4db-11f1-9cc5-e9713e77fd78.jpg"
+    },
+    {
       "author": "Henry Zeffman",
-      "title": "Henry Zeffman: Burnham's first taste of EU deal-making unlikely to be his last",
+      "content": "At the dramatic conclusion of his first party conference speech as Labour leader in September - a moment he has been dreaming of for decades - the prime minister vowed to get closer to the EU.\r\nOver … [+3034 chars]",
       "description": "The prime minister is learning how complex EU negotiations can be - but it is unlikely to deter him from seeking closer ties.",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gn092gydwo",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/263a/live/6036f4c0-e4f9-11f1-a094-5fdc692f3e33.jpg",
       "publishedAt": "2026-11-20T15:47:45Z",
-      "content": "At the dramatic conclusion of his first party conference speech as Labour leader in September - a moment he has been dreaming of for decades - the prime minister vowed to get closer to the EU.\r\nOver … [+3034 chars]"
-    },
-    {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "title": "Henry Zeffman: Burnham's first taste of EU deal-making unlikely to be his last",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gn092gydwo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/263a/live/6036f4c0-e4f9-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
       "author": "Ian Hamilton, Daniel Bennett",
-      "title": "Rural pubs bear brunt of decline as numbers fall by a fifth in 15 years",
+      "content": "In Gartmore, near Aberfoyle, residents have taken a different approach to keeping their local pub open.\r\nWhen the Black Bull went up for sale, villagers bought it in 2019 with the help of a £217,500 … [+1276 chars]",
       "description": "Village pubs are having to diversify to survive in a difficult trading climate.",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly58g01ezeo",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/51ee/live/19ad9a00-e4e4-11f1-b039-c1944465024e.jpg",
       "publishedAt": "2026-11-20T14:56:21Z",
-      "content": "In Gartmore, near Aberfoyle, residents have taken a different approach to keeping their local pub open.\r\nWhen the Black Bull went up for sale, villagers bought it in 2019 with the help of a £217,500 … [+1276 chars]"
-    },
-    {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "title": "Rural pubs bear brunt of decline as numbers fall by a fifth in 15 years",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly58g01ezeo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/51ee/live/19ad9a00-e4e4-11f1-b039-c1944465024e.jpg"
+    },
+    {
       "author": "Rachel Clun",
-      "title": "Anthropic shares fall after blockbuster opening",
+      "content": "Anthropic's share price has dropped to near $88,back towards its initial public offering price of of $83, after a soaring market debut.\r\nThe artificial intelligence (AI) company's debut on the Nasdaq… [+452 chars]",
       "description": "Other tech companies have also taken a hit as share markets broadly slump.",
-      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg",
       "publishedAt": "2026-11-20T14:36:26Z",
-      "content": "Anthropic's share price has dropped to near $88,back towards its initial public offering price of of $83, after a soaring market debut.\r\nThe artificial intelligence (AI) company's debut on the Nasdaq… [+452 chars]"
-    },
-    {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "title": "Anthropic shares fall after blockbuster opening",
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg"
+    },
+    {
       "author": "Russell Fuller",
-      "title": "ATP increases player compensation to $350m & delays doubles cuts decision",
+      "content": "Proposed changes to the doubles - which includes halving draw sizes and reducing the percentage of prize money from 20% to 10% - have received fierce opposition from the players.\r\nIn October, more th… [+1638 chars]",
       "description": "The men's ATP Tour promises players rewards of at least $350m in 2028 - but delays a decision on hotly-disputed changes to doubles until next month.",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/cqd01n33x0geo",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ca42/live/09336120-e4e2-11f1-a094-5fdc692f3e33.jpg",
       "publishedAt": "2026-11-20T13:03:50Z",
-      "content": "Proposed changes to the doubles - which includes halving draw sizes and reducing the percentage of prize money from 20% to 10% - have received fierce opposition from the players.\r\nIn October, more th… [+1638 chars]"
-    },
-    {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "title": "ATP increases player compensation to $350m & delays doubles cuts decision",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/cqd01n33x0geo",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ca42/live/09336120-e4e2-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
       "author": null,
-      "title": "PM has no 'democratic mandate' for Brexit changes, Farage tells BBC",
+      "content": "PM has no 'democratic mandate' for Brexit changes, Farage tells BBC. Video, 00:01:02PM has no 'democratic mandate' for Brexit changes, Farage tells BBC",
       "description": "The Reform UK leader told BBC Breakfast that the proposed changes would take steps towards reintegrating the UK into the EU's single market.",
-      "url": "https://www.bbc.co.uk/news/videos/cx7v2zmr5dv0o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fdb9/live/d2d1c990-e4ba-11f1-99b6-a35a62fa4264.jpg",
       "publishedAt": "2026-11-20T08:27:53Z",
-      "content": "PM has no 'democratic mandate' for Brexit changes, Farage tells BBC. Video, 00:01:02PM has no 'democratic mandate' for Brexit changes, Farage tells BBC"
-    },
-    {
       "source": {
         "id": "bbc-news",
         "name": "BBC News"
       },
+      "title": "PM has no 'democratic mandate' for Brexit changes, Farage tells BBC",
+      "url": "https://www.bbc.co.uk/news/videos/cx7v2zmr5dv0o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fdb9/live/d2d1c990-e4ba-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
       "author": null,
-      "title": "'Milan, Real & Man Utd eye Napoli's McTominay' - gossip",
+      "content": "Having already taken two players on loan from Bournemouth this season, Dundee technical manager David Longwell and managing director John Nelms travelled to the Premier League club this week to foste… [+1850 chars]",
       "description": "AC Milan, Manchester United and Real Madrid are reportedly interested in Napoli's Scott McTominay, while it is claimed Celtic would be interested in Aston Villa's John McGinn.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckjwj2295640o",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/be56/live/4497ae70-e4b9-11f1-99b6-a35a62fa4264.png",
       "publishedAt": "2026-11-20T08:07:48Z",
-      "content": "Having already taken two players on loan from Bournemouth this season, Dundee technical manager David Longwell and managing director John Nelms travelled to the Premier League club this week to foste… [+1850 chars]"
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "'Milan, Real & Man Utd eye Napoli's McTominay' - gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckjwj2295640o",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/be56/live/4497ae70-e4b9-11f1-99b6-a35a62fa4264.png"
+    },
+    {
+      "author": null,
+      "content": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
+      "description": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
+      "publishedAt": "2026-11-20T07:32:19Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "Should AI be judging our credit worthiness?",
+      "url": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5352/live/663fec10-d765-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "author": "Richard Partington and Kalyeena Makortoff",
+      "content": "Kristalina Georgieva says countries needed to be ready for tech rollout, adding: ‘You snooze, you lose’ Business live – latest updates Booming demand for artificial intelligence will force the world’s most powerful central banks to raise interest rates, the head of the International Monetary Fund (IMF) has warned. Kristalina Georgieva, the managing director of the Washington-based fund, said demand for AI hardware and related technology products was pushing up consumer prices around the world. Continue reading...",
+      "description": "Kristalina Georgieva says countries needed to be ready for tech rollout, adding: ‘You snooze, you lose’ Business live – latest updates Booming demand for artificial intelligence will force the world’s most powerful central banks to raise interest rates, the head of the International Monetary Fund (IMF) has warned. Kristalina Georgieva, the managing director of the Washington-based fund, said demand for AI hardware and related technology products was pushing up consumer prices around the world. Continue reading...",
+      "publishedAt": "2026-11-19T15:15:14Z",
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "title": "AI demand will push up interest rates around the world, IMF head warns",
+      "url": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec",
+      "urlToImage": "https://i.guim.co.uk/img/media/b2a56a8e00524c2b12815efdbcc9e91b0732fdc0/456_0_3410_2728/master/3410.jpg?width=140&quality=85&auto=format&fit=max&s=920ffff20187c6090b440fd5098e1f09"
+    },
+    {
+      "author": "Phillip Inman",
+      "content": "UK central bank will want to avoid echoes of expensive US Federal Reserve revamp that led to Trump clash Andrew Bailey may spend his days closely watching developments in the strait of Hormuz or US stock markets for signs of shocks to the global economy – but the Bank of England’s governor has a £160m problem brewing much closer to home. A secretive major revamp of the Bank’s historic headquarters in the heart of London’s Square Mile presents a huge test of Bailey’s project management skills. The central bank, with its reputation staked on carefully counting the nation’s pennies, will be keen to avoid delays, budget-busting or any echoes of the expensive US Federal Reserve revamp that left his former peer Jerome Powell awkwardly clashing with Donald Trump on camera . Continue reading...",
+      "description": "UK central bank will want to avoid echoes of expensive US Federal Reserve revamp that led to Trump clash Andrew Bailey may spend his days closely watching developments in the strait of Hormuz or US stock markets for signs of shocks to the global economy – but the Bank of England’s governor has a £160m problem brewing much closer to home. A secretive major revamp of the Bank’s historic headquarters in the heart of London’s Square Mile presents a huge test of Bailey’s project management skills. The central bank, with its reputation staked on carefully counting the nation’s pennies, will be keen to avoid delays, budget-busting or any echoes of the expensive US Federal Reserve revamp that left his former peer Jerome Powell awkwardly clashing with Donald Trump on camera . Continue reading...",
+      "publishedAt": "2026-11-19T06:00:19Z",
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "title": "Grade I interiors, gold bars, cost fears: Bank of England faces headache over £160m revamp",
+      "url": "https://www.theguardian.com/business/2026/nov/19/bank-of-england-revamp",
+      "urlToImage": "https://i.guim.co.uk/img/media/c25762bd1e283f73a3c740c2f6a7ab8bb4b20330/471_0_3764_3012/master/3764.jpg?width=140&quality=85&auto=format&fit=max&s=5146b3c0802972a56494b475fa4c15a2"
+    },
+    {
+      "author": null,
+      "content": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
+      "description": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
+      "publishedAt": "2026-11-18T00:00:24Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "Europe plans to catch the next computer chip wave",
+      "url": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c96b/live/b14b3a60-d9c8-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "author": null,
+      "content": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
+      "description": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
+      "publishedAt": "2026-11-13T12:22:30Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "How a sex scandal at Nvidia is putting pressure on the White House",
+      "url": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ab0/live/068591d0-dee5-11f1-9bb0-8de7754c4db5.jpg"
+    },
+    {
+      "author": null,
+      "content": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
+      "description": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
+      "publishedAt": "2026-11-11T00:19:13Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "Robot vessels take on the dangerous work of mine hunting",
+      "url": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6570/live/e6af84c0-dce5-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "author": "Dara Kerr",
+      "content": "California saw the most expensive opposition campaign in its history as funding of political campaigns broke records in the US midterms In the hours after polls closed on election day, tech industry players began praising Sergey Brin, the co-founder of Google, on social media. “Huge thanks to Sergey Brin here,” wrote Garry Tan, the CEO of Y Combinator. Venture capitalist Ilya Sukhar posted : “God bless Sergey Brin.” And David Marcus, a crypto entrepreneur, simply wrote : “Hero.” Continue reading...",
+      "description": "California saw the most expensive opposition campaign in its history as funding of political campaigns broke records in the US midterms In the hours after polls closed on election day, tech industry players began praising Sergey Brin, the co-founder of Google, on social media. “Huge thanks to Sergey Brin here,” wrote Garry Tan, the CEO of Y Combinator. Venture capitalist Ilya Sukhar posted : “God bless Sergey Brin.” And David Marcus, a crypto entrepreneur, simply wrote : “Hero.” Continue reading...",
+      "publishedAt": "2026-11-10T13:19:35Z",
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "title": "Tech’s biggest names sank a tax on billionaires’ wealth with $425m and a familiar playbook",
+      "url": "https://www.theguardian.com/us-news/2026/nov/10/california-billionaire-tax-opposition",
+      "urlToImage": "https://i.guim.co.uk/img/media/fd8dfac0aab8a5e85c8766c2eace30a1b0749a21/490_0_4876_3903/master/4876.jpg?width=140&quality=85&auto=format&fit=max&s=4b0d39dbbed023c8c471c72c2927ba5e"
+    },
+    {
+      "author": null,
+      "content": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make.",
+      "description": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make.",
+      "publishedAt": "2026-11-06T00:06:06Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "The engine parts that 'fight the laws of the universe'",
+      "url": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6023/live/c7b8cb20-d9e9-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "author": null,
+      "content": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
+      "description": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
+      "publishedAt": "2026-11-04T00:04:35Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "Graduates are managing AI - but are they learning much else?",
+      "url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bf4/live/9fa4f600-d844-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "author": null,
+      "content": "Video games are good at triggering nostalgia, a key reason why classic games keep getting remade.",
+      "description": "Video games are good at triggering nostalgia, a key reason why classic games keep getting remade.",
+      "publishedAt": "2026-10-30T07:45:00Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "How video game remakes tap the power of nostalgia",
+      "url": "https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f80/live/10dfbd10-c949-11f1-bc2e-018d645d8d21.jpg"
+    },
+    {
+      "author": null,
+      "content": "Properties where someone has died in tragic circumstances can have big reductions in price.",
+      "description": "Properties where someone has died in tragic circumstances can have big reductions in price.",
+      "publishedAt": "2026-10-29T09:30:03Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af03/live/714dcfb0-d3cc-11f1-93e1-3b657b665bcf.png"
+    },
+    {
+      "author": null,
+      "content": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.",
+      "description": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.",
+      "publishedAt": "2026-10-28T00:01:10Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "'An annoying buzz': The search for stealthier drones",
+      "url": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5b2/live/ad407780-c7b4-11f1-a64c-550be9e3c66b.jpg"
+    },
+    {
+      "author": null,
+      "content": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
+      "description": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
+      "publishedAt": "2026-10-23T08:04:17Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "The Indian workers filming their work to train AI",
+      "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6fc/live/3dab9740-bbe0-11f1-bd21-bdf910f2cec6.jpg"
+    },
+    {
+      "author": null,
+      "content": "With graduate jobs hard to come by, more young adults are reported to be considering emigrating.",
+      "description": "With graduate jobs hard to come by, more young adults are reported to be considering emigrating.",
+      "publishedAt": "2026-10-21T23:12:06Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "The grads ditching the UK for a fresh start abroad",
+      "url": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a70c/live/920779f0-cd4f-11f1-a64c-550be9e3c66b.png"
+    },
+    {
+      "author": null,
+      "content": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
+      "description": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
+      "publishedAt": "2026-10-20T23:13:24Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "The tech helping crack decades-old cold cases",
+      "url": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d033/live/5b8c8300-c16c-11f1-babe-4199b0e7ccea.jpg"
+    },
+    {
+      "author": null,
+      "content": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
+      "description": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
+      "publishedAt": "2026-10-15T23:18:21Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "Living with a stink? Technology might help",
+      "url": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80ac/live/fbba3b20-c652-11f1-9a39-31b474234113.jpg"
+    },
+    {
+      "author": null,
+      "content": "With the festive season on the horizon, we trace toys from factories in China to US shelves.",
+      "description": "With the festive season on the horizon, we trace toys from factories in China to US shelves.",
+      "publishedAt": "2026-10-14T23:01:28Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "As Christmas rush looms, how do China-made toys find their way to the US?",
+      "url": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0d2/live/df74c9d0-c54e-11f1-b4f1-2359026a88ee.jpg"
+    },
+    {
+      "author": null,
+      "content": "AI dominates the translation business, but for high-stakes work, humans are still needed.",
+      "description": "AI dominates the translation business, but for high-stakes work, humans are still needed.",
+      "publishedAt": "2026-10-13T23:05:29Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "How long will humans be needed for translation?",
+      "url": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a40/live/7b9bd230-b0d8-11f1-b1d1-571ed4d7ff2c.jpg"
+    },
+    {
+      "author": null,
+      "content": "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?",
+      "description": "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?",
+      "publishedAt": "2026-10-08T23:09:56Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "Why are more roofs not made of solar tiles?",
+      "url": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53f9/live/5f873b90-b0ea-11f1-8d94-cf0ec84c39cd.jpg"
+    },
+    {
+      "author": null,
+      "content": "Aberdeen is launching an ambitious bid to revive its struggling centre. Could it offer lessons for other high streets?",
+      "description": "Aberdeen is launching an ambitious bid to revive its struggling centre. Could it offer lessons for other high streets?",
+      "publishedAt": "2026-09-27T23:05:53Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "My hometown shows that high streets have to change or die",
+      "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7eb/live/7686be90-b8cb-11f1-a430-4d16ee157c41.jpg"
+    },
+    {
+      "author": null,
+      "content": "Auto executives across Europe hope rearmament can help them flex their industrial muscles once more.",
+      "description": "Auto executives across Europe hope rearmament can help them flex their industrial muscles once more.",
+      "publishedAt": "2026-09-25T08:31:56Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9282/live/a5ccbcd0-b660-11f1-b1d1-571ed4d7ff2c.jpg"
+    },
+    {
+      "author": null,
+      "content": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
+      "description": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
+      "publishedAt": "2026-09-05T23:20:00Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
+      "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b63/live/c35016e0-a872-11f1-a291-b542ee92de7c.jpg"
+    },
+    {
+      "author": null,
+      "content": "Why is it taking so long for the government to regulate them, and what are the consequences of delay?",
+      "description": "Why is it taking so long for the government to regulate them, and what are the consequences of delay?",
+      "publishedAt": "2026-07-22T23:51:24Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "Why the UK is dithering over what to do about e-scooters",
+      "url": "https://www.bbc.co.uk/news/articles/cn4nvn9w00no?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7db6/live/f8819640-8423-11f1-bee8-53ce494e1abc.jpg"
+    },
+    {
+      "author": null,
+      "content": "Many younger people do not believe the state pension will exist when they are older",
+      "description": "Many younger people do not believe the state pension will exist when they are older",
+      "publishedAt": "2026-06-30T23:05:19Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "Why Gen Z are planning for life without a state pension",
+      "url": "https://www.bbc.co.uk/news/articles/c8e2yp1gg37o?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a03/live/0c434d60-716c-11f1-8e1d-bbbb1017d210.jpg"
+    },
+    {
+      "author": "Ashley Stimpson",
+      "content": "A layoff and a leap of faith convinced Katie Teixeira she had what it takes to run her own business In 2010, Katie Teixeira adopted a kitten found all alone in an abandoned house. The kitten – so tiny she fit in the palm of Teixeira’s hand – needed to be bottle-fed every few hours. For weeks, Teixeira set her alarm for middle-of-the-night feedings and drove home on her lunch break to care for the kitten she named Milo. As the cat grew, so did the connection between them. “We just bonded,” Teixeira says. “Like mother and daughter.” Continue reading...",
+      "description": "A layoff and a leap of faith convinced Katie Teixeira she had what it takes to run her own business In 2010, Katie Teixeira adopted a kitten found all alone in an abandoned house. The kitten – so tiny she fit in the palm of Teixeira’s hand – needed to be bottle-fed every few hours. For weeks, Teixeira set her alarm for middle-of-the-night feedings and drove home on her lunch break to care for the kitten she named Milo. As the cat grew, so did the connection between them. “We just bonded,” Teixeira says. “Like mother and daughter.” Continue reading...",
+      "publishedAt": "2026-04-24T15:00:19Z",
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "title": "When her ‘soul cat’ died, she was bereft. Now she designs memorial jewelry to help others with pet loss",
+      "url": "https://www.theguardian.com/business/2026/apr/24/pet-memorial-jewelry-small-business",
+      "urlToImage": "https://i.guim.co.uk/img/media/e4f6dbcc608c174f48176f60ae2b654825d41ae6/1861_0_5565_4453/master/5565.jpg?width=140&quality=85&auto=format&fit=max&s=7d14aa16fbac54477c13c373551fa0d7"
+    },
+    {
+      "author": "Timothy Pratt in McIntosh county, Georgia",
+      "content": "A citizen referendum, only the second of its kind in Georgia history, seeks to block a zoning amendment Ire Gene Grovner stood behind his house on a recent morning, between chicken pens on one side and rows of winter collard greens on the other, holding a knife and skinning a raccoon splayed across a wood post. “The meat is good roasted,” Grovner said. He pointed to the collards, a burst of green in the winter cold, and the chickens, with their eggs. “If you ain’t lazy, you can live good here,” he said, referring to Sapelo Island off the coast of southern Georgia . Continue reading...",
+      "description": "A citizen referendum, only the second of its kind in Georgia history, seeks to block a zoning amendment Ire Gene Grovner stood behind his house on a recent morning, between chicken pens on one side and rows of winter collard greens on the other, holding a knife and skinning a raccoon splayed across a wood post. “The meat is good roasted,” Grovner said. He pointed to the collards, a burst of green in the winter cold, and the chickens, with their eggs. “If you ain’t lazy, you can live good here,” he said, referring to Sapelo Island off the coast of southern Georgia . Continue reading...",
+      "publishedAt": "2026-01-22T17:00:50Z",
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "title": "‘I ain’t goin nowhere’: Gullah Geechee people fight off developers with a historic referendum",
+      "url": "https://www.theguardian.com/news/2026/jan/22/gullah-geechee-georgia-development-referendum",
+      "urlToImage": "https://i.guim.co.uk/img/media/d4ea2418baae414bfb1a8b511360eb1876fea1ec/0_1300_5704_4564/master/5704.jpg?width=140&quality=85&auto=format&fit=max&s=e940be015854b1dee62d29922e9df568"
+    },
+    {
+      "author": "Jana Kasperkevic",
+      "content": "When partners consider finances, when is it ‘my’ money, and when it is ‘our’ money? Guardian readers shared their experiences Private lives: ‘I want to end my marriage but I’m financially dependent ’ A survey of about 1,000 Americans found that one in 10 would describe their partner as a financial bully. Our readers, however, insist that that might be a label easily assigned to a partner who is simply being financially responsible. When we put out a call to out readers last week to see if any of them had similar experiences, we found that many of you wouldn’t define the actions described as financial bullying. Instead, quite a number of you insisted that keeping track of your partner’s expenses was simply budgeting and being financially responsible. Continue reading...",
+      "description": "When partners consider finances, when is it ‘my’ money, and when it is ‘our’ money? Guardian readers shared their experiences Private lives: ‘I want to end my marriage but I’m financially dependent ’ A survey of about 1,000 Americans found that one in 10 would describe their partner as a financial bully. Our readers, however, insist that that might be a label easily assigned to a partner who is simply being financially responsible. When we put out a call to out readers last week to see if any of them had similar experiences, we found that many of you wouldn’t define the actions described as financial bullying. Instead, quite a number of you insisted that keeping track of your partner’s expenses was simply budgeting and being financially responsible. Continue reading...",
+      "publishedAt": "2014-08-14T11:00:02Z",
+      "source": {
+        "id": "the-guardian",
+        "name": "The Guardian"
+      },
+      "title": "Financial bullying can ruin a marriage: first-person stories",
+      "url": "https://www.theguardian.com/money/us-money-blog/2014/aug/14/relationships-finances-bullying-abuse-dependent-equality",
+      "urlToImage": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/8/11/1407775970091/35614646-3560-440e-99c3-7e064e53eac8-2060x1236.jpeg?width=140&quality=85&auto=format&fit=max&s=7f5a95db55fecaf83cb9d468ccb2fa7e"
     }
   ],
-  "query": "market OR economy OR finance OR stock OR business"
+  "articles_count": 133,
+  "category": "business",
+  "country": "gb",
+  "fetched_at": "2026-11-25T07:21:44.929363Z",
+  "providers": [
+    "rss"
+  ],
+  "query": "market OR economy OR finance OR stock OR business",
+  "source": "rss_fallback"
 }

@@ -1,974 +1,1325 @@
 {
-  "source": "top_headlines",
-  "country": "ca",
+  "articles": [
+    {
+      "author": "Courtney Jacobsen",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-25T06:07:55Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "NBA Highlights (Nov. 24)",
+      "url": "https://www.sportsnet.ca/?sn-collection=nba-highlights-nov-24-5",
+      "urlToImage": null
+    },
+    {
+      "author": "Associated Press",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-25T06:01:30Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Cooper Flagg leads Mavericks to win over Nuggets in NBA Cup",
+      "url": "https://www.sportsnet.ca/nba/article/cooper-flagg-leads-mavericks-to-win-over-nuggets-in-nba-cup/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/mavs-nuggets.jpg"
+    },
+    {
+      "author": "Sportsnet Staff",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-25T05:59:52Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Babcock explains decision not to challenge possible Oilers goal vs. Vegas",
+      "url": "https://www.sportsnet.ca/nhl/article/babcock-explains-decision-not-to-challenge-possible-oilers-goal-vs-vegas/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/Edmonton-Oilers-Mathieu-Joseph-21-and-Colton-Dach-34-celebrate-Dach.jpg"
+    },
+    {
+      "author": "Sportsnet Video",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-25T05:58:50Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "NBA Highlights: Mavericks 120, Nuggets 101",
+      "url": "https://www.sportsnet.ca/nba/video/nba-highlights-mavericks-120-nuggets-101/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408854584112.jpg"
+    },
+    {
+      "author": "Josh Beneteau",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-25T05:22:29Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "MLB Off-Season (home)",
+      "url": "https://www.sportsnet.ca/?sn-collection=mlb-off-season-home-2",
+      "urlToImage": null
+    },
+    {
+      "author": "Sportsnet Video",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-25T05:21:26Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "‘Pretty tough call’: Joseph, Babcock on Oilers’ disallowed goal",
+      "url": "https://www.sportsnet.ca/nhl/video/pretty-tough-call-joseph-babcock-on-oilers-disallowed-goal/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408854178112.jpg"
+    },
+    {
+      "author": "Mark Spector",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-25T04:56:49Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Oilers show natural signs of fatigue in loss to Vegas after taxing road trip",
+      "url": "https://www.sportsnet.ca/nhl/article/oilers-show-natural-signs-of-fatigue-in-loss-to-vegas-after-taxing-road-trip/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/mcdavid-4.jpg"
+    },
+    {
+      "author": "Sportsnet Video",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-25T04:31:22Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "What’s next for Red Wings after dealing Larkin to Canadiens?",
+      "url": "https://www.sportsnet.ca/nhl/video/whats-next-for-red-wings-after-dealing-larkin-to-canadiens/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408853947112.jpg"
+    },
+    {
+      "author": "Associated Press",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-25T04:23:33Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Steelers benching Aaron Rodgers vs. Broncos",
+      "url": "https://www.sportsnet.ca/nfl/article/steelers-benching-aaron-rodgers-vs-broncos/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/10/aaron-rodgers.jpg"
+    },
+    {
+      "author": "Sportsnet Video",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-25T04:19:52Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "How Taira’s signing impacts Blue Jays’ pursuit of Seiya Suzuki",
+      "url": "https://www.sportsnet.ca/mlb/video/how-tairas-signing-impacts-blue-jays-pursuit-of-seiya-suzuki/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408853443112.jpg"
+    },
+    {
+      "author": "Sportsnet Video",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-25T04:05:55Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Kypreos grades Oilers’ performance so far this season: ‘Should be an A’",
+      "url": "https://www.sportsnet.ca/nhl/video/kypreos-grades-oilers-performance-so-far-this-season-should-be-an-a/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408853056112.jpg"
+    },
+    {
+      "author": "Associated Press",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-25T04:00:05Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Tatum scores 41 to help Celtics snap four-game skid with win over Wizards",
+      "url": "https://www.sportsnet.ca/nba/article/tatum-scores-41-to-help-celtics-snap-four-game-skid-with-win-over-wizards/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/celtics-1.jpg"
+    },
+    {
+      "author": "Sportsnet Video",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-25T03:58:11Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "NBA Highlights: Celtics 131, Wizards 116",
+      "url": "https://www.sportsnet.ca/nba/video/nba-highlights-celtics-131-wizards-116/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408853233112.jpg"
+    },
+    {
+      "author": "Associated Press",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-25T03:49:57Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Cunningham-less Pistons hand Magic first NBA Cup loss",
+      "url": "https://www.sportsnet.ca/nba/article/cunningham-less-pistons-hand-magic-first-nba-cup-loss/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/Untitled-Design-15-2.jpg"
+    },
+    {
+      "author": "Associated Press",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-25T03:38:44Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "No. 1 South Carolina stifles No. 7 UConn in Final Four rematch",
+      "url": "https://www.sportsnet.ca/basketball/article/no-1-south-carolina-stifles-no-7-uconn-in-final-four-rematch/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/staley.jpg"
+    },
+    {
+      "author": "Sportsnet Staff",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-25T03:06:48Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Avalanche’s Cale Makar hopes to return vs. Canadiens",
+      "url": "https://www.sportsnet.ca/nhl/article/avalanches-cale-makar-hopes-to-return-vs-canadiens/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/Colorado-Avalanche-defenseman-Cale-Makar.jpg"
+    },
+    {
+      "author": "Sportsnet Video",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-25T03:06:40Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Celtics’ George puts Wizards’ George on skates and stares him down before jumper",
+      "url": "https://www.sportsnet.ca/nba/video/celtics-george-puts-wizards-george-on-skates-and-stares-him-down-before-jumper/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408852492112.jpg"
+    },
+    {
+      "author": "Sportsnet Video",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-25T03:03:54Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Oilers’ McDavid finishes off beautiful give-and-go with goal vs. Vegas",
+      "url": "https://www.sportsnet.ca/nhl/video/oilers-mcdavid-finishes-off-beautiful-give-and-go-with-goal-vs-vegas/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408850940112.jpg"
+    },
+    {
+      "author": "Sportsnet Video",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-25T02:28:02Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "NBA Highlights: Pistons 104, Magic 86",
+      "url": "https://www.sportsnet.ca/nba/video/nba-highlights-pistons-104-magic-86/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408850409112.jpg"
+    },
+    {
+      "author": "Associated Press",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-25T02:21:11Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Detroit Lions owner Martha Firestone Ford dies at 101",
+      "url": "https://www.sportsnet.ca/nfl/article/detroit-lions-owner-martha-firestone-ford-dies-at-101/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/Martha-Firestone-Ford.jpg"
+    },
+    {
+      "author": "Sportsnet Video",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-25T02:18:39Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Oilers goal gets waved off due to goaltender interference",
+      "url": "https://www.sportsnet.ca/nhl/video/oilers-goal-gets-waved-off-due-to-goaltender-interference/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408849994112.jpg"
+    },
+    {
+      "author": "Sportsnet Staff",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-25T02:01:16Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Report: Reds, C Tyler Stephenson agree to three-year, $30M deal",
+      "url": "https://www.sportsnet.ca/mlb/article/report-reds-c-tyler-stephenson-agree-to-three-year-30m-deal/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/04/86ddff8e7119d73fece663a297fcb5280097b8f24f89cc36cdeb856e47f6689c.jpg"
+    },
+    {
+      "author": "Associated Press",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-25T01:49:43Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Indiana tumbles out of field in College Football Playoff rankings",
+      "url": "https://www.sportsnet.ca/ncaa-mens-football/article/indiana-tumbles-out-of-field-in-college-football-playoff-rankings/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/01/Cignetti.jpg"
+    },
+    {
+      "author": "Sportsnet Video",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-25T01:16:49Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Oilers celebrate Elks’ Grey Cup win before game vs. Golden Knights",
+      "url": "https://www.sportsnet.ca/nhl/video/oilers-celebrate-elks-grey-cup-win-before-game-vs-golden-knights/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408849474112.jpg"
+    },
+    {
+      "author": "Sportsnet Staff",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-25T00:15:38Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Toronto FC, CF Montreal announce roster decisions for 2027 MLS sprint season",
+      "url": "https://www.sportsnet.ca/mls/article/toronto-fc-cf-montreal-announce-roster-decisions-for-2027-mls-sprint-season/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/03/jonathan-osorio.jpg"
+    },
+    {
+      "author": "Sportsnet Video",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-25T00:02:00Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Why Kaima Taira’s mindset makes him an intriguing Blue Jays addition",
+      "url": "https://www.sportsnet.ca/mlb/video/why-kaima-tairas-mindset-makes-him-an-intriguing-blue-jays-addition/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408846439112.jpg"
+    },
+    {
+      "author": "Associated Press",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T23:49:39Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "AP Source: Brandon Aiyuk visits Commanders on Wednesday",
+      "url": "https://www.sportsnet.ca/nfl/article/ap-source-brandon-aiyuk-set-to-visit-commanders-on-wednesday/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2024/08/aiyuk_brandon1280.jpg"
+    },
+    {
+      "author": "Sportsnet Staff",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T23:46:18Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "NBA on Sportsnet: Pistons vs. Magic",
+      "url": "https://www.sportsnet.ca/basketball/nba/games/c5c368ab-8d73-4220-a106-d012273a8d5c",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2024/12/Wagner.jpg"
+    },
+    {
+      "author": "Associated Press",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T23:30:40Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Jalen Duren practices with Pistons, will begin rehab assignment in next step to return from injury",
+      "url": "https://www.sportsnet.ca/nba/article/jalen-duren-practices-with-pistons-will-begin-rehab-assignment-in-next-step-to-return-from-injury/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/pistons.jpg"
+    },
+    {
+      "author": "Associated Press",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T22:50:08Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Champions League Roundup: Bellingham sparks Madrid, Man City underwhelms",
+      "url": "https://www.sportsnet.ca/champions-league/article/champions-league-roundup-bellingham-sparks-madrid-man-city-underwhelms/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/Jude-Bellingham.jpg"
+    },
+    {
+      "author": "Canadian Press",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T22:39:50Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "PWHL Roundup: Goldeneyes’ Caroline Harvey shines in pre-season debut",
+      "url": "https://www.sportsnet.ca/pwhl/article/pwhl-roundup-goldeneyes-caroline-harvey-shines-in-pre-season-debut/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/09/harvey.jpg"
+    },
+    {
+      "author": "Canadian Press",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T22:39:50Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "PWHL Roundup: Muller leads Havoc over Clutch in pre-season action",
+      "url": "https://www.sportsnet.ca/pwhl/article/pwhl-roundup-muller-leads-havoc-over-clutch-in-pre-season-action/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/04/Charge-vs-Fleet-2.jpg"
+    },
+    {
+      "author": "Associated Press",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T22:23:31Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Michigan drops plans to hire new AD Trev Alberts",
+      "url": "https://www.sportsnet.ca/ncaa-mens-football/article/michigan-drops-plans-to-hire-new-ad-trev-alberts/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/Texas-Gov.-Greg-Abbott-left-and-Texas-AM-Athletic-Director-Trev-Alberts.jpg"
+    },
+    {
+      "author": "Sportsnet Video",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T22:09:50Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Jude Bellingham delivers goal of year candidate with insane volley strike",
+      "url": "https://www.sportsnet.ca/soccer/video/jude-bellingham-delivers-goal-of-year-candidate-with-insane-volley-strike/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408841019112.jpg"
+    },
+    {
+      "author": "Sportsnet Video",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T22:01:00Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Red Wings’ Dach, Montembeault ‘excited’ for fresh start in Detroit",
+      "url": "https://www.sportsnet.ca/nhl/video/red-wings-dach-montembeault-excited-for-fresh-start-in-detroit/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408842199112.jpg"
+    },
+    {
+      "author": "Associated Press",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T21:59:53Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Broncos suspend RB J.K. Dobbins for ‘conduct detrimental’ to team",
+      "url": "https://www.sportsnet.ca/nfl/article/broncos-suspend-rb-j-k-dobbins-for-conduct-detrimental-to-team/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2025/11/Untitled-design-41-1.jpg"
+    },
+    {
+      "author": "globalnewsdigital",
+      "content": "The Toronto Raptors will be without forward Kawhi Leonard for at least another week as he deals with swelling in his left knee, the NBA club said Tuesday.",
+      "description": "The Toronto Raptors will be without forward Kawhi Leonard for at least another week as he deals with swelling in his left knee, the NBA club said Tuesday.",
+      "publishedAt": "2026-11-24T21:32:51Z",
+      "source": {
+        "id": "global-news",
+        "name": "Global News"
+      },
+      "title": "Raptors’ Leonard out at least another week",
+      "url": "https://globalnews.ca/news/12164770/raptors-leonard-out-at-least-another-week/",
+      "urlToImage": "https://globalnews.ca/wp-content/uploads/2026/11/6cbaa9a796cb34dac79d634c2e5f4e61c86314549c7fc4411112a1d860f48c33.jpg?quality=65&strip=all&w=720&h=480&crop=1"
+    },
+    {
+      "author": "David Singh",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T21:28:45Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "A closer look at who, what Cubs are getting in Japanese slugger Teruaki Sato",
+      "url": "https://www.sportsnet.ca/mlb/article/a-closer-look-at-who-what-cubs-are-getting-in-japanese-slugger-teruaki-sato/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/sato_teruaki1280.jpg"
+    },
+    {
+      "author": "Canadian Press",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T21:26:25Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Raptors’ Kawhi Leonard begins individual on-court workouts",
+      "url": "https://www.sportsnet.ca/nba/article/raptors-kawhi-leonard-begins-individual-on-court-workouts/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/10/Leonard.jpg"
+    },
+    {
+      "author": "Sportsnet Video",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T21:02:55Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Analyzing the best trade destinations for Red Wings’ Edvinsson",
+      "url": "https://www.sportsnet.ca/nhl/video/analyzing-the-best-trade-destinations-for-red-wings-edvinsson/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408839098112.jpg"
+    },
+    {
+      "author": "Sportsnet Staff",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T20:32:50Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Elizabeth Williams elected as next WNBPA president",
+      "url": "https://www.sportsnet.ca/wnba/article/report-elizabeth-williams-elected-as-next-wnbpa-president/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/CP176303184.jpg"
+    },
+    {
+      "author": "Canadian Press",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T20:05:14Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Auger-Aliassime, Draxl lose as Czechia downs Canada in Davis Cup quarterfinal",
+      "url": "https://www.sportsnet.ca/tennis/article/auger-aliassime-draxl-lose-as-czechia-downs-canada-in-davis-cup-quarterfinal/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/augeraliassime_felix1280.jpg"
+    },
+    {
+      "author": "Sportsnet Staff",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T19:57:57Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Packers activate Micah Parsons for season debut",
+      "url": "https://www.sportsnet.ca/nfl/article/packers-activate-micah-parsons-for-season-debut/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2025/09/Parons.jpg"
+    },
+    {
+      "author": "Eric Engels",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T19:34:02Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Canadiens will only benefit from full Larkin effect once Demidov returns",
+      "url": "https://www.sportsnet.ca/nhl/article/canadiens-will-only-benefit-from-full-larkin-effect-once-demidov-returns/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/07/demidov.jpg"
+    },
+    {
+      "author": "Sportsnet Video",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T19:27:00Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Oilers’ Ekholm on bouncing back after losing streak: ‘Have to learn’",
+      "url": "https://www.sportsnet.ca/nhl/video/oilers-ekholm-on-bouncing-back-after-losing-streak-have-to-learn/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408835368112.jpg"
+    },
+    {
+      "author": "Ben Nicholson-Smith",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T19:25:32Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Blue Jays sign Japanese righty Kaima Taira to five-year, $80-million deal",
+      "url": "https://www.sportsnet.ca/baseball/article/blue-jays-sign-japanese-righty-kaima-taira-to-five-year-80-million-deal/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/kaima-taira.jpg"
+    },
+    {
+      "author": "Sportsnet Video",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T19:25:16Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "‘Get regrouped’: Oilers’ Babcock on Golden Knights matchup, lineup tweaks",
+      "url": "https://www.sportsnet.ca/nhl/video/get-regrouped-oilers-babcock-on-golden-knights-matchup-lineup-tweaks/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408835658112.jpg"
+    },
+    {
+      "author": "Canadian Press",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T19:18:59Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Stampeders fire defensive co-ordinator Slowik after missing playoffs",
+      "url": "https://www.sportsnet.ca/cfl/article/stampeders-fire-defensive-co-ordinator-slowik-after-missing-playoffs/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/Untitled-Design-56-1.jpg"
+    },
+    {
+      "author": "Associated Press",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T19:09:07Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "MLB drops player contract escrow provision in salary cap proposal",
+      "url": "https://www.sportsnet.ca/mlb/article/mlb-drops-player-contract-escrow-provision-in-salary-cap-proposal/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2025/02/manfred.jpg"
+    },
+    {
+      "author": "Sportsnet Video",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T19:04:39Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "‘Doing a really good job’: Flames’ Cooley on play of Senators’ Ullmark",
+      "url": "https://www.sportsnet.ca/nhl/video/doing-a-really-good-job-flames-cooley-on-play-of-senators-ullmark/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408834190112.jpg"
+    },
+    {
+      "author": "Sportsnet Staff",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T18:05:28Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Report: Timberwolves guard Donte DiVincenzo targeting return around new year",
+      "url": "https://www.sportsnet.ca/nba/article/report-timberwolves-guard-donte-divincenzo-targeting-return-around-new-year/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2024/10/Donte.jpg"
+    },
+    {
+      "author": "Sportsnet Video",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T17:58:39Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "How Larkin sets Canadiens up for success after impressive debut",
+      "url": "https://www.sportsnet.ca/nhl/video/how-larkin-sets-canadiens-up-for-success-after-impressive-debut/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408833014112.jpg"
+    },
+    {
+      "author": "Adam Vingan",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T17:55:57Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Examining William Nylander’s uneven start to season",
+      "url": "https://www.sportsnet.ca/nhl/article/examining-william-nylanders-uneven-start-to-season/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/william-nylander.jpg"
+    },
+    {
+      "author": "Ben Nicholson-Smith",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T17:41:04Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Griffin, Gausman emerging as names to watch in Blue Jays’ search for starter",
+      "url": "https://www.sportsnet.ca/mlb/article/griffin-gausman-emerging-as-names-to-watch-in-blue-jays-search-for-starter/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/09/griffin.jpg"
+    },
+    {
+      "author": "Associated Press",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T17:38:10Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Jannik Sinner undergoes ‘minor’ surgery on troublesome right knee",
+      "url": "https://www.sportsnet.ca/atp/article/jannik-sinner-undergoes-minor-surgery-on-troublesome-right-knee/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/05/jannik-sinner-1.jpg"
+    },
+    {
+      "author": "Sportsnet Staff",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T17:21:32Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Hage says he plans to sign with Red Wings after college season",
+      "url": "https://www.sportsnet.ca/nhl/article/hage-says-he-plans-to-sign-with-red-wings-after-college-season/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/04/Michigan-forward-Michael-Hage.jpg"
+    },
+    {
+      "author": "Sportsnet Staff",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T17:14:12Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Oilers’ Nugent-Hopkins back in lineup, Hyman remains out vs. Golden Knights",
+      "url": "https://www.sportsnet.ca/nhl/article/oilers-nugent-hopkins-back-in-lineup-hyman-remains-out-vs-golden-knights/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/CP177212539.jpg"
+    },
+    {
+      "author": "Sportsnet Video",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T17:06:24Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "‘A trying season’: Breaking down positives, negatives from Nets’ slow start",
+      "url": "https://www.sportsnet.ca/nba/video/a-trying-season-breaking-down-positives-negatives-from-nets-slow-start/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408827923112.jpg"
+    },
+    {
+      "author": "David Singh",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T16:45:29Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Breaking down Orioles’ swift signing of starter Freddy Peralta",
+      "url": "https://www.sportsnet.ca/mlb/article/breaking-down-orioles-swift-signing-of-starter-freddy-peralta/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/freddy-peralta.jpg"
+    },
+    {
+      "author": "Emily Sadler",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T16:05:07Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "What comes next as dust settles on Canadiens’ Dylan Larkin deal?",
+      "url": "https://www.sportsnet.ca/nhl/article/what-comes-next-as-dust-settles-on-canadiens-dylan-larkin-deal/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/dylan-larkin-1.jpg"
+    },
+    {
+      "author": "Sportsnet Staff",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T16:02:26Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Senators recall Djibril Toure, loan Carter Yakemchuk to AHL",
+      "url": "https://www.sportsnet.ca/nhl/article/senators-recall-djibril-toure-loan-carter-yakemchuk-to-ahl/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/Yakemchuk.jpg"
+    },
+    {
+      "author": "Canadian Press",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T15:57:15Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Singer offers tearful apology for O Canada flub at Leafs-Islanders game in New York",
+      "url": "https://www.sportsnet.ca/nhl/article/singer-offers-tearful-apology-for-o-canada-flub-at-leafs-islanders-game-in-new-york/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/CP177327578.jpg"
+    },
+    {
+      "author": "Sportsnet Staff",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T15:32:39Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Lightning forward Conor Geekie out four to five months with shoulder injury",
+      "url": "https://www.sportsnet.ca/nhl/article/lightning-forward-conor-geekie-out-four-to-five-months-with-shoulder-injury/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/conor-geekie.jpg"
+    },
+    {
+      "author": "Canadian Press",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T15:27:06Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Canada’s Saliba set for ankle surgery as national team’s injury list grows",
+      "url": "https://www.sportsnet.ca/soccer/article/canadas-saliba-set-for-ankle-surgery-as-national-teams-injury-list-grows/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/08/Canadas-Nathan-Saliba.jpg"
+    },
+    {
+      "author": "globalnewsdigital",
+      "content": "A singer issued an emotional apology to Canadians after fumbling the lyrics to O Canada ahead of Monday night's matchup between the Toronto Maple Leafs and New York Islanders.",
+      "description": "A singer issued an emotional apology to Canadians after fumbling the lyrics to O Canada ahead of Monday night's matchup between the Toronto Maple Leafs and New York Islanders.",
+      "publishedAt": "2026-11-24T15:26:43Z",
+      "source": {
+        "id": "global-news",
+        "name": "Global News"
+      },
+      "title": "Singer offers tearful apology for O Canada flub at Leafs-Islanders game in New York",
+      "url": "https://globalnews.ca/news/12164076/singer-apologizes-for-o-canada-flub-at-nhl-game/",
+      "urlToImage": "https://globalnews.ca/wp-content/uploads/2026/11/136a29c0e3f56f4b19071c5940e9fc02a05c83d519033f9805ba427ba96e1f95_6e76c2.jpg?quality=65&strip=all&w=720&h=480&crop=1"
+    },
+    {
+      "author": "Wayne Scanlan",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T15:17:01Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Young, feisty Senators look like a true contender, but will soon be tested",
+      "url": "https://www.sportsnet.ca/nhl/article/young-feisty-senators-look-like-a-true-contender-but-will-soon-be-tested/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/Sportsnet-frame-3-4.jpg"
+    },
+    {
+      "author": "David Singh",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T14:31:19Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Breaking down Trevor Rogers’ reported $120-million deal with Cubs",
+      "url": "https://www.sportsnet.ca/mlb/article/breaking-down-trevor-rogers-reported-120-million-deal-with-cubs/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/trevor-rogers.jpg"
+    },
+    {
+      "author": "Sportsnet Staff",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T14:13:09Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Canadiens recall forward Brett Berard, defenceman David Reinbacher from AHL",
+      "url": "https://www.sportsnet.ca/nhl/article/canadiens-recall-forward-brett-berard-defenceman-david-reinbacher-from-ahl/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/04/reinbacher.jpg"
+    },
+    {
+      "author": "Canadian Press",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T13:39:49Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Alpine ski, biathlon federations merge in bid to reshape winter sport in Canada",
+      "url": "https://www.sportsnet.ca/olympics/article/alpine-ski-biathlon-federations-merge-in-bid-to-reshape-winter-sport-in-canada/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2021/11/Brodie-Seger-.jpg"
+    },
+    {
+      "author": "globalnewsdigital",
+      "content": "Jamal Shead was at a loss to explain another disappointing showing by the Toronto Raptors.",
+      "description": "Jamal Shead was at a loss to explain another disappointing showing by the Toronto Raptors.",
+      "publishedAt": "2026-11-24T10:01:06Z",
+      "source": {
+        "id": "global-news",
+        "name": "Global News"
+      },
+      "title": "Raptors again searching for answers",
+      "url": "https://globalnews.ca/news/12163850/raptors-again-searching-for-answers/",
+      "urlToImage": "https://globalnews.ca/wp-content/uploads/2026/11/69e5f60ea689af6c9361608d3a8c0aa1e9fe20efc3936278d8f27887997eac85.jpg?quality=65&strip=all&w=720&h=480&crop=1"
+    },
+    {
+      "author": "Sportsnet Video",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T05:59:39Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "NHL Highlights: Wild 5, Sharks 2",
+      "url": "https://www.sportsnet.ca/nhl/video/nhl-highlights-wild-5-sharks-2-4/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408800716112.jpg"
+    },
+    {
+      "author": "Sportsnet Video",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T05:46:05Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "NHL Highlights: Kraken 3, Ducks 2",
+      "url": "https://www.sportsnet.ca/nhl/video/nhl-highlights-kraken-3-ducks-2-3/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408799522112.jpg"
+    },
+    {
+      "author": "Eric Engels",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T05:43:31Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Larkin leaves Canadiens debut ‘excited’ despite loss to Kings",
+      "url": "https://www.sportsnet.ca/nhl/article/larkin-leaves-canadiens-debut-excited-despite-loss-to-kings/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/CP177327571.jpg"
+    },
+    {
+      "author": "Luke Fox",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T05:30:32Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "McKenna’s clutch winner helps Maple Leafs end skid",
+      "url": "https://www.sportsnet.ca/nhl/article/mckennas-clutch-winner-helps-maple-leafs-end-skid/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/Gavin-McKenna.jpg"
+    },
+    {
+      "author": "Eric Francis",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T04:48:40Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Flames takeaways: Pushback after Frost’s injury can’t erase slow start",
+      "url": "https://www.sportsnet.ca/nhl/article/flames-takeaways-pushback-after-frosts-injury-cant-erase-slow-start/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/CP177327247.jpg"
+    },
+    {
+      "author": "Josh Beneteau",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T04:40:56Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Larkin Makes Canadiens Debut (home, game stuff)",
+      "url": "https://www.sportsnet.ca/?sn-collection=larkin-makes-canadiens-debut-home-game-stuff",
+      "urlToImage": null
+    },
+    {
+      "author": "Sportsnet Video",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T04:38:00Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "‘That was pretty cool’: Canadiens’ Larkin on his welcome in Montreal",
+      "url": "https://www.sportsnet.ca/nhl/video/that-was-pretty-cool-canadiens-larkin-on-his-welcome-in-montreal/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408798461112.jpg"
+    },
+    {
+      "author": "Sportsnet Video",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T04:02:07Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "NHL Highlights: Kings 2, Canadiens 1",
+      "url": "https://www.sportsnet.ca/nhl/video/nhl-highlights-kings-2-canadiens-1/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408795891112.jpg"
+    },
+    {
+      "author": "Josh Beneteau",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T03:48:11Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "NHL Highlights (Nov. 23)",
+      "url": "https://www.sportsnet.ca/?sn-collection=nhl-highlights-nov-23-4",
+      "urlToImage": null
+    },
+    {
+      "author": "Sportsnet Video",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T03:45:48Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "NHL Highlights: Senators 2, Flames 1",
+      "url": "https://www.sportsnet.ca/nhl/video/nhl-highlights-senators-2-flames-1/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408795213112.jpg"
+    },
+    {
+      "author": "Sportsnet Video",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T03:43:16Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "NHL Highlights: Maple Leafs 4, Islanders 2",
+      "url": "https://www.sportsnet.ca/nhl/video/nhl-highlights-maple-leafs-4-islanders-2-2/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408795574112.jpg"
+    },
+    {
+      "author": "Sportsnet Video",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T03:41:11Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Larkin can’t convert on game-tying opportunity as Canadiens fall to Kings",
+      "url": "https://www.sportsnet.ca/nhl/video/larkin-cant-convert-on-game-tying-opportunity-as-canadiens-fall-to-kings/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408796868112.jpg"
+    },
+    {
+      "author": "Sportsnet Video",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T03:30:34Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "NHL Highlights: Jets 4, Mammoth 2",
+      "url": "https://www.sportsnet.ca/nhl/video/nhl-highlights-jets-4-mammoth-2/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408795485112.jpg"
+    },
+    {
+      "author": "Sportsnet Video",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T03:04:50Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "NHL Highlights: Devils 3, Blue Jackets 2",
+      "url": "https://www.sportsnet.ca/nhl/video/nhl-highlights-devils-3-blue-jackets-2-4/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408795427112.jpg"
+    },
+    {
+      "author": "Sportsnet Staff",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T02:38:06Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Blackhawks’ Bedard out four months after undergoing shoulder surgery",
+      "url": "https://www.sportsnet.ca/nhl/article/blackhawks-bedard-out-four-months-after-undergoing-shoulder-surgery/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/bedard.jpg"
+    },
+    {
+      "author": "Sportsnet Video",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T02:06:43Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Larkin picks up first point as a Canadien with assist on Newhook goal",
+      "url": "https://www.sportsnet.ca/nhl/video/larkin-picks-up-first-point-as-a-canadien-with-assist-on-newhook-goal/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408793517112.jpg"
+    },
+    {
+      "author": "Sportsnet Video",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T00:27:41Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Islanders’ Schaefer details landlord Matt Martin’s influence on his game",
+      "url": "https://www.sportsnet.ca/nhl/video/islanders-shaefer-details-landlord-matt-martins-influence-on-his-game/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408784696112.jpg"
+    },
+    {
+      "author": "Sportsnet Video",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-24T00:18:08Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Larkin receives ovation from Canadiens crowd during pre-game warmups",
+      "url": "https://www.sportsnet.ca/nhl/video/larkin-receives-ovation-from-canadiens-crowd-during-pre-game-warmups/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408786999112.jpg"
+    },
+    {
+      "author": "globalnewsdigital",
+      "content": "Tyler Herro scored 32 points, including 15 in the third quarter, as the Milwaukee Bucks powered past the Toronto Raptors 116-111 on Monday to snap a 13-game losing skid.",
+      "description": "Tyler Herro scored 32 points, including 15 in the third quarter, as the Milwaukee Bucks powered past the Toronto Raptors 116-111 on Monday to snap a 13-game losing skid.",
+      "publishedAt": "2026-11-23T23:11:31Z",
+      "source": {
+        "id": "global-news",
+        "name": "Global News"
+      },
+      "title": "Herro’s 32 powers Bucks past Raptors 116-111",
+      "url": "https://globalnews.ca/news/12163281/murray-boyles-bradley-available-for-raptors/",
+      "urlToImage": "https://globalnews.ca/wp-content/uploads/2026/11/12b67908dc50d635e82bc170200feee3784be4ebd862d74cacc71e24373ef7d9.jpg?quality=65&strip=all&w=720&h=480&crop=1"
+    },
+    {
+      "author": "Sportsnet Staff",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-11-20T00:57:39Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "MLB off-season transaction tracker: The top free-agent signings and trades",
+      "url": "https://www.sportsnet.ca/mlb/article/mlb-off-season-transaction-tracker-the-top-free-agent-signings-and-trades/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/10/peralta.jpg"
+    },
+    {
+      "author": "globalnewsdigital",
+      "content": "Alijah Martin has been waiting for a moment like this.",
+      "description": "Alijah Martin has been waiting for a moment like this.",
+      "publishedAt": "2026-11-19T21:46:16Z",
+      "source": {
+        "id": "global-news",
+        "name": "Global News"
+      },
+      "title": "Efficient Martin getting more minutes for Raptors",
+      "url": "https://globalnews.ca/news/12158666/efficient-martin-getting-more-minutes-for-raptors/",
+      "urlToImage": "https://globalnews.ca/wp-content/uploads/2026/11/3ad44cb06cf3eed8d98aa91994e60af6f27d9eb44601bd6134ae117baf329785.jpg?quality=65&strip=all&w=720&h=480&crop=1"
+    },
+    {
+      "author": "globalnewsdigital",
+      "content": "The Toronto Raptors have sidelined forwards RJ Barrett and Collin Murray-Boyles.",
+      "description": "The Toronto Raptors have sidelined forwards RJ Barrett and Collin Murray-Boyles.",
+      "publishedAt": "2026-11-19T21:19:12Z",
+      "source": {
+        "id": "global-news",
+        "name": "Global News"
+      },
+      "title": "Barrett, Murray-Boyles put on Raptors injured list",
+      "url": "https://globalnews.ca/news/12158569/barrett-murray-boyles-put-on-raptors-injured-list/",
+      "urlToImage": "https://globalnews.ca/wp-content/uploads/2026/11/f0426b43e058bc9300cc6f86e8ec93dfbfbf78848a4358908a7ee075dfd4fea7.jpg?quality=65&strip=all&w=720&h=480&crop=1"
+    },
+    {
+      "author": "Katie Scott",
+      "content": "A U.S. Immigration and Customs Enforcement spokesperson told Global News that Linares 'entered the country with permission to stay for a temporary period.'",
+      "description": "A U.S. Immigration and Customs Enforcement spokesperson told Global News that Linares 'entered the country with permission to stay for a temporary period.'",
+      "publishedAt": "2026-11-19T16:28:06Z",
+      "source": {
+        "id": "global-news",
+        "name": "Global News"
+      },
+      "title": "Former world boxing champion Jorge Linares detained by ICE in Texas",
+      "url": "https://globalnews.ca/news/12157837/former-world-boxing-champion-jorge-linares-detained-ice-texas/",
+      "urlToImage": "https://globalnews.ca/wp-content/uploads/2026/11/jorge-linares-ICE-custody.jpg?quality=65&strip=all&w=720&h=480&crop=1"
+    },
+    {
+      "author": "globalnewsdigital",
+      "content": "Allen Graves is making the most of his playing time as injuries continue to plague the Toronto Raptors.",
+      "description": "Allen Graves is making the most of his playing time as injuries continue to plague the Toronto Raptors.",
+      "publishedAt": "2026-11-19T10:01:17Z",
+      "source": {
+        "id": "global-news",
+        "name": "Global News"
+      },
+      "title": "Graves has career-high playing time for Raptors",
+      "url": "https://globalnews.ca/news/12157588/graves-has-career-high-playing-time-for-raptors/",
+      "urlToImage": "https://globalnews.ca/wp-content/uploads/2026/11/973baf112b90d1ac1c090094bc55a1c68af2b903f05fa8d66ecb0df3b4d9c060.jpg?quality=65&strip=all&w=720&h=480&crop=1"
+    },
+    {
+      "author": "globalnewsdigital",
+      "content": "Anthony Davis had a double-double with 25 points and 14 rebounds as his Washington Wizards beat the undermanned Raptors 103-99 on Wednesday as Toronto lost its sixth straight.",
+      "description": "Anthony Davis had a double-double with 25 points and 14 rebounds as his Washington Wizards beat the undermanned Raptors 103-99 on Wednesday as Toronto lost its sixth straight.",
+      "publishedAt": "2026-11-19T03:06:45Z",
+      "source": {
+        "id": "global-news",
+        "name": "Global News"
+      },
+      "title": "Raptors’ losing skid stretches to six games",
+      "url": "https://globalnews.ca/news/12157438/raptors-losing-skid-stretches-to-six-games/",
+      "urlToImage": "https://globalnews.ca/wp-content/uploads/2026/11/7e041586386c0d3dd51989eb50ab2bc552a2f1a477653795bf228709a902902c.jpg?quality=65&strip=all&w=720&h=480&crop=1"
+    },
+    {
+      "author": "globalnewsdigital",
+      "content": "Star forwards RJ Barrett and Scottie Barnes will miss the Toronto Raptors' game tonight against the visiting Washington Wizards.",
+      "description": "Star forwards RJ Barrett and Scottie Barnes will miss the Toronto Raptors' game tonight against the visiting Washington Wizards.",
+      "publishedAt": "2026-11-18T18:39:17Z",
+      "source": {
+        "id": "global-news",
+        "name": "Global News"
+      },
+      "title": "Barnes, Barrett out for Raptors against Wizards",
+      "url": "https://globalnews.ca/news/12156562/raptors-forward-barnes-out-against-wizards/",
+      "urlToImage": "https://globalnews.ca/wp-content/uploads/2026/11/160879a2aec5be28693ca5a5102a5e691e5631486deb3e53274b89fb5cfd0be3_532b7e.jpg?quality=65&strip=all&w=720&h=480&crop=1"
+    },
+    {
+      "author": "Sportsnet Staff",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-10-31T01:14:37Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "2026 NBA Cup: Schedule, scores, standings",
+      "url": "https://www.sportsnet.ca/nba/article/2026-nba-cup-schedule-scores-standings/",
+      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/10/New-York-Knicks-center-Karl-Anthony-Towns-32-celebrates-with-teammates-after-his-teams-victory-against-the-San-Antonio-Spurs.jpg"
+    },
+    {
+      "author": "Courtney Jacobsen",
+      "content": null,
+      "description": null,
+      "publishedAt": "2026-08-28T04:37:42Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Home Page Featured",
+      "url": "https://www.sportsnet.ca/?sn-collection=6691484",
+      "urlToImage": null
+    },
+    {
+      "author": "Mike Koreen",
+      "content": null,
+      "description": null,
+      "publishedAt": "2025-10-21T18:12:57Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Home Page Featured 2 item",
+      "url": "https://www.sportsnet.ca/?sn-collection=must-read",
+      "urlToImage": null
+    },
+    {
+      "author": "Josh Beneteau",
+      "content": null,
+      "description": null,
+      "publishedAt": "2025-02-10T21:39:26Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Home Page Top Videos",
+      "url": "https://www.sportsnet.ca/?sn-collection=home-page-top-videos",
+      "urlToImage": null
+    },
+    {
+      "author": "Noah Love",
+      "content": null,
+      "description": null,
+      "publishedAt": "2023-09-07T21:21:44Z",
+      "source": {
+        "id": "sportsnet",
+        "name": "Sportsnet"
+      },
+      "title": "Homepage Headlines",
+      "url": "https://www.sportsnet.ca/?sn-collection=homepage-headlines",
+      "urlToImage": null
+    }
+  ],
+  "articles_count": 101,
   "category": "sports",
+  "country": "ca",
+  "fetched_at": "2026-11-25T07:21:44.929363Z",
   "providers": [
     "rss"
   ],
-  "fetched_at": "2026-11-25T00:09:54.387694+00:00",
-  "articles_count": 74,
-  "articles": [
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Sportsnet Video",
-      "title": "Why Kaima Taira’s mindset makes him an intriguing Blue Jays addition",
-      "description": null,
-      "url": "https://www.sportsnet.ca/mlb/video/why-kaima-tairas-mindset-makes-him-an-intriguing-blue-jays-addition/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408846439112.jpg",
-      "publishedAt": "2026-11-25T00:02:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Associated Press",
-      "title": "AP Source: Brandon Aiyuk set to visit Commanders on Wednesday",
-      "description": null,
-      "url": "https://www.sportsnet.ca/nfl/article/ap-source-brandon-aiyuk-set-to-visit-commanders-on-wednesday/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2024/08/aiyuk_brandon1280.jpg",
-      "publishedAt": "2026-11-24T23:49:39Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Sportsnet Staff",
-      "title": "NBA on Sportsnet: Pistons vs. Magic",
-      "description": null,
-      "url": "https://www.sportsnet.ca/basketball/nba/games/c5c368ab-8d73-4220-a106-d012273a8d5c",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2024/12/Wagner.jpg",
-      "publishedAt": "2026-11-24T23:46:18Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Associated Press",
-      "title": "Jalen Duren practices with Pistons, will begin rehab assignment in next step to return from injury",
-      "description": null,
-      "url": "https://www.sportsnet.ca/nba/article/jalen-duren-practices-with-pistons-will-begin-rehab-assignment-in-next-step-to-return-from-injury/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/pistons.jpg",
-      "publishedAt": "2026-11-24T23:30:40Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Associated Press",
-      "title": "Champions League Roundup: Bellingham sparks Madrid, Man City underwhelms",
-      "description": null,
-      "url": "https://www.sportsnet.ca/champions-league/article/champions-league-roundup-bellingham-sparks-madrid-man-city-underwhelms/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/Jude-Bellingham.jpg",
-      "publishedAt": "2026-11-24T22:50:08Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Canadian Press",
-      "title": "PWHL Roundup: Muller leads Havoc over Clutch in pre-season action",
-      "description": null,
-      "url": "https://www.sportsnet.ca/pwhl/article/pwhl-roundup-muller-leads-havoc-over-clutch-in-pre-season-action/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/04/Charge-vs-Fleet-2.jpg",
-      "publishedAt": "2026-11-24T22:39:50Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Associated Press",
-      "title": "Michigan drops plans to hire new AD Trev Alberts",
-      "description": null,
-      "url": "https://www.sportsnet.ca/ncaa-mens-football/article/michigan-drops-plans-to-hire-new-ad-trev-alberts/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/Texas-Gov.-Greg-Abbott-left-and-Texas-AM-Athletic-Director-Trev-Alberts.jpg",
-      "publishedAt": "2026-11-24T22:23:31Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Sportsnet Video",
-      "title": "Jude Bellingham delivers goal of year candidate with insane volley strike",
-      "description": null,
-      "url": "https://www.sportsnet.ca/soccer/video/jude-bellingham-delivers-goal-of-year-candidate-with-insane-volley-strike/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408841019112.jpg",
-      "publishedAt": "2026-11-24T22:09:50Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Sportsnet Video",
-      "title": "Red Wings’ Dach, Montembeault ‘excited’ for fresh start in Detroit",
-      "description": null,
-      "url": "https://www.sportsnet.ca/nhl/video/red-wings-dach-montembeault-excited-for-fresh-start-in-detroit/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408842199112.jpg",
-      "publishedAt": "2026-11-24T22:01:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Associated Press",
-      "title": "Broncos suspend RB J.K. Dobbins for ‘conduct detrimental’ to team",
-      "description": null,
-      "url": "https://www.sportsnet.ca/nfl/article/broncos-suspend-rb-j-k-dobbins-for-conduct-detrimental-to-team/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2025/11/Untitled-design-41-1.jpg",
-      "publishedAt": "2026-11-24T21:59:53Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "global-news",
-        "name": "Global News"
-      },
-      "author": "globalnewsdigital",
-      "title": "Raptors’ Leonard out at least another week",
-      "description": "The Toronto Raptors will be without forward Kawhi Leonard for at least another week as he deals with swelling in his left knee, the NBA club said Tuesday.",
-      "url": "https://globalnews.ca/news/12164770/raptors-leonard-out-at-least-another-week/",
-      "urlToImage": "https://globalnews.ca/wp-content/uploads/2026/11/6cbaa9a796cb34dac79d634c2e5f4e61c86314549c7fc4411112a1d860f48c33.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "publishedAt": "2026-11-24T21:32:51Z",
-      "content": "The Toronto Raptors will be without forward Kawhi Leonard for at least another week as he deals with swelling in his left knee, the NBA club said Tuesday."
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "David Singh",
-      "title": "A closer look at who, what Cubs are getting in Japanese slugger Teruaki Sato",
-      "description": null,
-      "url": "https://www.sportsnet.ca/mlb/article/a-closer-look-at-who-what-cubs-are-getting-in-japanese-slugger-teruaki-sato/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/sato_teruaki1280.jpg",
-      "publishedAt": "2026-11-24T21:28:45Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Canadian Press",
-      "title": "Raptors’ Kawhi Leonard begins individual on-court workouts",
-      "description": null,
-      "url": "https://www.sportsnet.ca/nba/article/raptors-kawhi-leonard-begins-individual-on-court-workouts/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/10/Leonard.jpg",
-      "publishedAt": "2026-11-24T21:26:25Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Sportsnet Video",
-      "title": "Analyzing the best trade destinations for Red Wings’ Edvinsson",
-      "description": null,
-      "url": "https://www.sportsnet.ca/nhl/video/analyzing-the-best-trade-destinations-for-red-wings-edvinsson/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408839098112.jpg",
-      "publishedAt": "2026-11-24T21:02:55Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Sportsnet Staff",
-      "title": "Elizabeth Williams elected as next WNBPA president",
-      "description": null,
-      "url": "https://www.sportsnet.ca/wnba/article/report-elizabeth-williams-elected-as-next-wnbpa-president/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/CP176303184.jpg",
-      "publishedAt": "2026-11-24T20:32:50Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Canadian Press",
-      "title": "Auger-Aliassime, Draxl lose as Czechia downs Canada in Davis Cup quarterfinal",
-      "description": null,
-      "url": "https://www.sportsnet.ca/tennis/article/auger-aliassime-draxl-lose-as-czechia-downs-canada-in-davis-cup-quarterfinal/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/augeraliassime_felix1280.jpg",
-      "publishedAt": "2026-11-24T20:05:14Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Sportsnet Staff",
-      "title": "Packers activate Micah Parsons for season debut",
-      "description": null,
-      "url": "https://www.sportsnet.ca/nfl/article/packers-activate-micah-parsons-for-season-debut/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2025/09/Parons.jpg",
-      "publishedAt": "2026-11-24T19:57:57Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Eric Engels",
-      "title": "Canadiens will only benefit from full Larkin effect once Demidov returns",
-      "description": null,
-      "url": "https://www.sportsnet.ca/nhl/article/canadiens-will-only-benefit-from-full-larkin-effect-once-demidov-returns/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/07/demidov.jpg",
-      "publishedAt": "2026-11-24T19:34:02Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Sportsnet Video",
-      "title": "Oilers’ Ekholm on bouncing back after losing streak: ‘Have to learn’",
-      "description": null,
-      "url": "https://www.sportsnet.ca/nhl/video/oilers-ekholm-on-bouncing-back-after-losing-streak-have-to-learn/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408835368112.jpg",
-      "publishedAt": "2026-11-24T19:27:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Ben Nicholson-Smith",
-      "title": "Blue Jays sign Japanese righty Kaima Taira to five-year, $80-million deal",
-      "description": null,
-      "url": "https://www.sportsnet.ca/baseball/article/blue-jays-sign-japanese-righty-kaima-taira-to-five-year-80-million-deal/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/kaima-taira.jpg",
-      "publishedAt": "2026-11-24T19:25:32Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Sportsnet Video",
-      "title": "‘Get regrouped’: Oilers’ Babcock on Golden Knights matchup, lineup tweaks",
-      "description": null,
-      "url": "https://www.sportsnet.ca/nhl/video/get-regrouped-oilers-babcock-on-golden-knights-matchup-lineup-tweaks/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408835658112.jpg",
-      "publishedAt": "2026-11-24T19:25:16Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Canadian Press",
-      "title": "Stampeders fire defensive co-ordinator Slowik after missing playoffs",
-      "description": null,
-      "url": "https://www.sportsnet.ca/cfl/article/stampeders-fire-defensive-co-ordinator-slowik-after-missing-playoffs/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/Untitled-Design-56-1.jpg",
-      "publishedAt": "2026-11-24T19:18:59Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Associated Press",
-      "title": "MLB drops player contract escrow provision in salary cap proposal",
-      "description": null,
-      "url": "https://www.sportsnet.ca/mlb/article/mlb-drops-player-contract-escrow-provision-in-salary-cap-proposal/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2025/02/manfred.jpg",
-      "publishedAt": "2026-11-24T19:09:07Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Sportsnet Video",
-      "title": "‘Doing a really good job’: Flames’ Cooley on play of Senators’ Ullmark",
-      "description": null,
-      "url": "https://www.sportsnet.ca/nhl/video/doing-a-really-good-job-flames-cooley-on-play-of-senators-ullmark/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408834190112.jpg",
-      "publishedAt": "2026-11-24T19:04:39Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Sportsnet Staff",
-      "title": "Report: Timberwolves guard Donte DiVincenzo targeting return around new year",
-      "description": null,
-      "url": "https://www.sportsnet.ca/nba/article/report-timberwolves-guard-donte-divincenzo-targeting-return-around-new-year/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2024/10/Donte.jpg",
-      "publishedAt": "2026-11-24T18:05:28Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Sportsnet Video",
-      "title": "How Larkin sets Canadiens up for success after impressive debut",
-      "description": null,
-      "url": "https://www.sportsnet.ca/nhl/video/how-larkin-sets-canadiens-up-for-success-after-impressive-debut/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408833014112.jpg",
-      "publishedAt": "2026-11-24T17:58:39Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Adam Vingan",
-      "title": "Examining William Nylander’s uneven start to season",
-      "description": null,
-      "url": "https://www.sportsnet.ca/nhl/article/examining-william-nylanders-uneven-start-to-season/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/william-nylander.jpg",
-      "publishedAt": "2026-11-24T17:55:57Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Ben Nicholson-Smith",
-      "title": "Griffin, Gausman emerging as names to watch in Blue Jays’ search for starter",
-      "description": null,
-      "url": "https://www.sportsnet.ca/mlb/article/griffin-gausman-emerging-as-names-to-watch-in-blue-jays-search-for-starter/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/09/griffin.jpg",
-      "publishedAt": "2026-11-24T17:41:04Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Associated Press",
-      "title": "Jannik Sinner undergoes ‘minor’ surgery on troublesome right knee",
-      "description": null,
-      "url": "https://www.sportsnet.ca/atp/article/jannik-sinner-undergoes-minor-surgery-on-troublesome-right-knee/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/05/jannik-sinner-1.jpg",
-      "publishedAt": "2026-11-24T17:38:10Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Sportsnet Staff",
-      "title": "Hage says he plans to sign with Red Wings after college season",
-      "description": null,
-      "url": "https://www.sportsnet.ca/nhl/article/hage-says-he-plans-to-sign-with-red-wings-after-college-season/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/04/Michigan-forward-Michael-Hage.jpg",
-      "publishedAt": "2026-11-24T17:21:32Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Sportsnet Staff",
-      "title": "Oilers’ Nugent-Hopkins back in lineup, Hyman remains out vs. Golden Knights",
-      "description": null,
-      "url": "https://www.sportsnet.ca/nhl/article/oilers-nugent-hopkins-back-in-lineup-hyman-remains-out-vs-golden-knights/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/CP177212539.jpg",
-      "publishedAt": "2026-11-24T17:14:12Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Sportsnet Video",
-      "title": "‘A trying season’: Breaking down positives, negatives from Nets’ slow start",
-      "description": null,
-      "url": "https://www.sportsnet.ca/nba/video/a-trying-season-breaking-down-positives-negatives-from-nets-slow-start/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408827923112.jpg",
-      "publishedAt": "2026-11-24T17:06:24Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "David Singh",
-      "title": "Breaking down Orioles’ swift signing of starter Freddy Peralta",
-      "description": null,
-      "url": "https://www.sportsnet.ca/mlb/article/breaking-down-orioles-swift-signing-of-starter-freddy-peralta/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/freddy-peralta.jpg",
-      "publishedAt": "2026-11-24T16:45:29Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Emily Sadler",
-      "title": "What comes next as dust settles on Canadiens’ Dylan Larkin deal?",
-      "description": null,
-      "url": "https://www.sportsnet.ca/nhl/article/what-comes-next-as-dust-settles-on-canadiens-dylan-larkin-deal/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/dylan-larkin-1.jpg",
-      "publishedAt": "2026-11-24T16:05:07Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Sportsnet Staff",
-      "title": "Senators recall Djibril Toure, loan Carter Yakemchuk to AHL",
-      "description": null,
-      "url": "https://www.sportsnet.ca/nhl/article/senators-recall-djibril-toure-loan-carter-yakemchuk-to-ahl/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/Yakemchuk.jpg",
-      "publishedAt": "2026-11-24T16:02:26Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Canadian Press",
-      "title": "Singer offers tearful apology for O Canada flub at Leafs-Islanders game in New York",
-      "description": null,
-      "url": "https://www.sportsnet.ca/nhl/article/singer-offers-tearful-apology-for-o-canada-flub-at-leafs-islanders-game-in-new-york/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/CP177327578.jpg",
-      "publishedAt": "2026-11-24T15:57:15Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Sportsnet Staff",
-      "title": "Lightning forward Conor Geekie out four to five months with shoulder injury",
-      "description": null,
-      "url": "https://www.sportsnet.ca/nhl/article/lightning-forward-conor-geekie-out-four-to-five-months-with-shoulder-injury/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/conor-geekie.jpg",
-      "publishedAt": "2026-11-24T15:32:39Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Canadian Press",
-      "title": "Canada’s Saliba set for ankle surgery as national team’s injury list grows",
-      "description": null,
-      "url": "https://www.sportsnet.ca/soccer/article/canadas-saliba-set-for-ankle-surgery-as-national-teams-injury-list-grows/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/08/Canadas-Nathan-Saliba.jpg",
-      "publishedAt": "2026-11-24T15:27:06Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "global-news",
-        "name": "Global News"
-      },
-      "author": "globalnewsdigital",
-      "title": "Singer offers tearful apology for O Canada flub at Leafs-Islanders game in New York",
-      "description": "A singer issued an emotional apology to Canadians after fumbling the lyrics to O Canada ahead of Monday night's matchup between the Toronto Maple Leafs and New York Islanders.",
-      "url": "https://globalnews.ca/news/12164076/singer-apologizes-for-o-canada-flub-at-nhl-game/",
-      "urlToImage": "https://globalnews.ca/wp-content/uploads/2026/11/136a29c0e3f56f4b19071c5940e9fc02a05c83d519033f9805ba427ba96e1f95_6e76c2.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "publishedAt": "2026-11-24T15:26:43Z",
-      "content": "A singer issued an emotional apology to Canadians after fumbling the lyrics to O Canada ahead of Monday night's matchup between the Toronto Maple Leafs and New York Islanders."
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Wayne Scanlan",
-      "title": "Young, feisty Senators look like a true contender, but will soon be tested",
-      "description": null,
-      "url": "https://www.sportsnet.ca/nhl/article/young-feisty-senators-look-like-a-true-contender-but-will-soon-be-tested/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/Sportsnet-frame-3-4.jpg",
-      "publishedAt": "2026-11-24T15:17:01Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "David Singh",
-      "title": "Breaking down Trevor Rogers’ reported $120-million deal with Cubs",
-      "description": null,
-      "url": "https://www.sportsnet.ca/mlb/article/breaking-down-trevor-rogers-reported-120-million-deal-with-cubs/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/trevor-rogers.jpg",
-      "publishedAt": "2026-11-24T14:31:19Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Sportsnet Staff",
-      "title": "Canadiens recall forward Brett Berard, defenceman David Reinbacher from AHL",
-      "description": null,
-      "url": "https://www.sportsnet.ca/nhl/article/canadiens-recall-forward-brett-berard-defenceman-david-reinbacher-from-ahl/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/04/reinbacher.jpg",
-      "publishedAt": "2026-11-24T14:13:09Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Canadian Press",
-      "title": "Alpine ski, biathlon federations merge in bid to reshape winter sport in Canada",
-      "description": null,
-      "url": "https://www.sportsnet.ca/olympics/article/alpine-ski-biathlon-federations-merge-in-bid-to-reshape-winter-sport-in-canada/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2021/11/Brodie-Seger-.jpg",
-      "publishedAt": "2026-11-24T13:39:49Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "global-news",
-        "name": "Global News"
-      },
-      "author": "globalnewsdigital",
-      "title": "Raptors again searching for answers",
-      "description": "Jamal Shead was at a loss to explain another disappointing showing by the Toronto Raptors.",
-      "url": "https://globalnews.ca/news/12163850/raptors-again-searching-for-answers/",
-      "urlToImage": "https://globalnews.ca/wp-content/uploads/2026/11/69e5f60ea689af6c9361608d3a8c0aa1e9fe20efc3936278d8f27887997eac85.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "publishedAt": "2026-11-24T10:01:06Z",
-      "content": "Jamal Shead was at a loss to explain another disappointing showing by the Toronto Raptors."
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Sportsnet Video",
-      "title": "NHL Highlights: Wild 5, Sharks 2",
-      "description": null,
-      "url": "https://www.sportsnet.ca/nhl/video/nhl-highlights-wild-5-sharks-2-4/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408800716112.jpg",
-      "publishedAt": "2026-11-24T05:59:39Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Sportsnet Video",
-      "title": "NHL Highlights: Kraken 3, Ducks 2",
-      "description": null,
-      "url": "https://www.sportsnet.ca/nhl/video/nhl-highlights-kraken-3-ducks-2-3/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408799522112.jpg",
-      "publishedAt": "2026-11-24T05:46:05Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Eric Engels",
-      "title": "Larkin leaves Canadiens debut ‘excited’ despite loss to Kings",
-      "description": null,
-      "url": "https://www.sportsnet.ca/nhl/article/larkin-leaves-canadiens-debut-excited-despite-loss-to-kings/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/CP177327571.jpg",
-      "publishedAt": "2026-11-24T05:43:31Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Luke Fox",
-      "title": "McKenna’s clutch winner helps Maple Leafs end skid",
-      "description": null,
-      "url": "https://www.sportsnet.ca/nhl/article/mckennas-clutch-winner-helps-maple-leafs-end-skid/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/Gavin-McKenna.jpg",
-      "publishedAt": "2026-11-24T05:30:32Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Eric Francis",
-      "title": "Flames takeaways: Pushback after Frost’s injury can’t erase slow start",
-      "description": null,
-      "url": "https://www.sportsnet.ca/nhl/article/flames-takeaways-pushback-after-frosts-injury-cant-erase-slow-start/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/CP177327247.jpg",
-      "publishedAt": "2026-11-24T04:48:40Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Josh Beneteau",
-      "title": "Larkin Makes Canadiens Debut (home, game stuff)",
-      "description": null,
-      "url": "https://www.sportsnet.ca/?sn-collection=larkin-makes-canadiens-debut-home-game-stuff",
-      "urlToImage": null,
-      "publishedAt": "2026-11-24T04:40:56Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Sportsnet Video",
-      "title": "‘That was pretty cool’: Canadiens’ Larkin on his welcome in Montreal",
-      "description": null,
-      "url": "https://www.sportsnet.ca/nhl/video/that-was-pretty-cool-canadiens-larkin-on-his-welcome-in-montreal/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408798461112.jpg",
-      "publishedAt": "2026-11-24T04:38:00Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Sportsnet Video",
-      "title": "NHL Highlights: Kings 2, Canadiens 1",
-      "description": null,
-      "url": "https://www.sportsnet.ca/nhl/video/nhl-highlights-kings-2-canadiens-1/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408795891112.jpg",
-      "publishedAt": "2026-11-24T04:02:07Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Josh Beneteau",
-      "title": "NHL Highlights (Nov. 23)",
-      "description": null,
-      "url": "https://www.sportsnet.ca/?sn-collection=nhl-highlights-nov-23-4",
-      "urlToImage": null,
-      "publishedAt": "2026-11-24T03:48:11Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Sportsnet Video",
-      "title": "NHL Highlights: Senators 2, Flames 1",
-      "description": null,
-      "url": "https://www.sportsnet.ca/nhl/video/nhl-highlights-senators-2-flames-1/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408795213112.jpg",
-      "publishedAt": "2026-11-24T03:45:48Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Sportsnet Video",
-      "title": "NHL Highlights: Maple Leafs 4, Islanders 2",
-      "description": null,
-      "url": "https://www.sportsnet.ca/nhl/video/nhl-highlights-maple-leafs-4-islanders-2-2/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408795574112.jpg",
-      "publishedAt": "2026-11-24T03:43:16Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Sportsnet Video",
-      "title": "Larkin can’t convert on game-tying opportunity as Canadiens fall to Kings",
-      "description": null,
-      "url": "https://www.sportsnet.ca/nhl/video/larkin-cant-convert-on-game-tying-opportunity-as-canadiens-fall-to-kings/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408796868112.jpg",
-      "publishedAt": "2026-11-24T03:41:11Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Sportsnet Video",
-      "title": "NHL Highlights: Jets 4, Mammoth 2",
-      "description": null,
-      "url": "https://www.sportsnet.ca/nhl/video/nhl-highlights-jets-4-mammoth-2/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408795485112.jpg",
-      "publishedAt": "2026-11-24T03:30:34Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Sportsnet Video",
-      "title": "NHL Highlights: Devils 3, Blue Jackets 2",
-      "description": null,
-      "url": "https://www.sportsnet.ca/nhl/video/nhl-highlights-devils-3-blue-jackets-2-4/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408795427112.jpg",
-      "publishedAt": "2026-11-24T03:04:50Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Sportsnet Staff",
-      "title": "Blackhawks’ Bedard out four months after undergoing shoulder surgery",
-      "description": null,
-      "url": "https://www.sportsnet.ca/nhl/article/blackhawks-bedard-out-four-months-after-undergoing-shoulder-surgery/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/bedard.jpg",
-      "publishedAt": "2026-11-24T02:38:06Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Sportsnet Video",
-      "title": "Larkin picks up first point as a Canadien with assist on Newhook goal",
-      "description": null,
-      "url": "https://www.sportsnet.ca/nhl/video/larkin-picks-up-first-point-as-a-canadien-with-assist-on-newhook-goal/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408793517112.jpg",
-      "publishedAt": "2026-11-24T02:06:43Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Sportsnet Video",
-      "title": "Islanders’ Schaefer details landlord Matt Martin’s influence on his game",
-      "description": null,
-      "url": "https://www.sportsnet.ca/nhl/video/islanders-shaefer-details-landlord-matt-martins-influence-on-his-game/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408784696112.jpg",
-      "publishedAt": "2026-11-24T00:27:41Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Sportsnet Video",
-      "title": "Larkin receives ovation from Canadiens crowd during pre-game warmups",
-      "description": null,
-      "url": "https://www.sportsnet.ca/nhl/video/larkin-receives-ovation-from-canadiens-crowd-during-pre-game-warmups/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/11/6408786999112.jpg",
-      "publishedAt": "2026-11-24T00:18:08Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "global-news",
-        "name": "Global News"
-      },
-      "author": "globalnewsdigital",
-      "title": "Herro’s 32 powers Bucks past Raptors 116-111",
-      "description": "Tyler Herro scored 32 points, including 15 in the third quarter, as the Milwaukee Bucks powered past the Toronto Raptors 116-111 on Monday to snap a 13-game losing skid.",
-      "url": "https://globalnews.ca/news/12163281/murray-boyles-bradley-available-for-raptors/",
-      "urlToImage": "https://globalnews.ca/wp-content/uploads/2026/11/12b67908dc50d635e82bc170200feee3784be4ebd862d74cacc71e24373ef7d9.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "publishedAt": "2026-11-23T23:11:31Z",
-      "content": "Tyler Herro scored 32 points, including 15 in the third quarter, as the Milwaukee Bucks powered past the Toronto Raptors 116-111 on Monday to snap a 13-game losing skid."
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Sportsnet Staff",
-      "title": "MLB off-season transaction tracker: The top free-agent signings and trades",
-      "description": null,
-      "url": "https://www.sportsnet.ca/mlb/article/mlb-off-season-transaction-tracker-the-top-free-agent-signings-and-trades/",
-      "urlToImage": "https://www.sportsnet.ca/wp-content/uploads/2026/10/peralta.jpg",
-      "publishedAt": "2026-11-20T00:57:39Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "global-news",
-        "name": "Global News"
-      },
-      "author": "globalnewsdigital",
-      "title": "Efficient Martin getting more minutes for Raptors",
-      "description": "Alijah Martin has been waiting for a moment like this.",
-      "url": "https://globalnews.ca/news/12158666/efficient-martin-getting-more-minutes-for-raptors/",
-      "urlToImage": "https://globalnews.ca/wp-content/uploads/2026/11/3ad44cb06cf3eed8d98aa91994e60af6f27d9eb44601bd6134ae117baf329785.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "publishedAt": "2026-11-19T21:46:16Z",
-      "content": "Alijah Martin has been waiting for a moment like this."
-    },
-    {
-      "source": {
-        "id": "global-news",
-        "name": "Global News"
-      },
-      "author": "globalnewsdigital",
-      "title": "Barrett, Murray-Boyles put on Raptors injured list",
-      "description": "The Toronto Raptors have sidelined forwards RJ Barrett and Collin Murray-Boyles.",
-      "url": "https://globalnews.ca/news/12158569/barrett-murray-boyles-put-on-raptors-injured-list/",
-      "urlToImage": "https://globalnews.ca/wp-content/uploads/2026/11/f0426b43e058bc9300cc6f86e8ec93dfbfbf78848a4358908a7ee075dfd4fea7.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "publishedAt": "2026-11-19T21:19:12Z",
-      "content": "The Toronto Raptors have sidelined forwards RJ Barrett and Collin Murray-Boyles."
-    },
-    {
-      "source": {
-        "id": "global-news",
-        "name": "Global News"
-      },
-      "author": "Katie Scott",
-      "title": "Former world boxing champion Jorge Linares detained by ICE in Texas",
-      "description": "A U.S. Immigration and Customs Enforcement spokesperson told Global News that Linares 'entered the country with permission to stay for a temporary period.'",
-      "url": "https://globalnews.ca/news/12157837/former-world-boxing-champion-jorge-linares-detained-ice-texas/",
-      "urlToImage": "https://globalnews.ca/wp-content/uploads/2026/11/jorge-linares-ICE-custody.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "publishedAt": "2026-11-19T16:28:06Z",
-      "content": "A U.S. Immigration and Customs Enforcement spokesperson told Global News that Linares 'entered the country with permission to stay for a temporary period.'"
-    },
-    {
-      "source": {
-        "id": "global-news",
-        "name": "Global News"
-      },
-      "author": "globalnewsdigital",
-      "title": "Graves has career-high playing time for Raptors",
-      "description": "Allen Graves is making the most of his playing time as injuries continue to plague the Toronto Raptors.",
-      "url": "https://globalnews.ca/news/12157588/graves-has-career-high-playing-time-for-raptors/",
-      "urlToImage": "https://globalnews.ca/wp-content/uploads/2026/11/973baf112b90d1ac1c090094bc55a1c68af2b903f05fa8d66ecb0df3b4d9c060.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "publishedAt": "2026-11-19T10:01:17Z",
-      "content": "Allen Graves is making the most of his playing time as injuries continue to plague the Toronto Raptors."
-    },
-    {
-      "source": {
-        "id": "global-news",
-        "name": "Global News"
-      },
-      "author": "globalnewsdigital",
-      "title": "Raptors’ losing skid stretches to six games",
-      "description": "Anthony Davis had a double-double with 25 points and 14 rebounds as his Washington Wizards beat the undermanned Raptors 103-99 on Wednesday as Toronto lost its sixth straight.",
-      "url": "https://globalnews.ca/news/12157438/raptors-losing-skid-stretches-to-six-games/",
-      "urlToImage": "https://globalnews.ca/wp-content/uploads/2026/11/7e041586386c0d3dd51989eb50ab2bc552a2f1a477653795bf228709a902902c.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "publishedAt": "2026-11-19T03:06:45Z",
-      "content": "Anthony Davis had a double-double with 25 points and 14 rebounds as his Washington Wizards beat the undermanned Raptors 103-99 on Wednesday as Toronto lost its sixth straight."
-    },
-    {
-      "source": {
-        "id": "global-news",
-        "name": "Global News"
-      },
-      "author": "globalnewsdigital",
-      "title": "Barnes, Barrett out for Raptors against Wizards",
-      "description": "Star forwards RJ Barrett and Scottie Barnes will miss the Toronto Raptors' game tonight against the visiting Washington Wizards.",
-      "url": "https://globalnews.ca/news/12156562/raptors-forward-barnes-out-against-wizards/",
-      "urlToImage": "https://globalnews.ca/wp-content/uploads/2026/11/160879a2aec5be28693ca5a5102a5e691e5631486deb3e53274b89fb5cfd0be3_532b7e.jpg?quality=65&strip=all&w=720&h=480&crop=1",
-      "publishedAt": "2026-11-18T18:39:17Z",
-      "content": "Star forwards RJ Barrett and Scottie Barnes will miss the Toronto Raptors' game tonight against the visiting Washington Wizards."
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Courtney Jacobsen",
-      "title": "Home Page Featured",
-      "description": null,
-      "url": "https://www.sportsnet.ca/?sn-collection=6691484",
-      "urlToImage": null,
-      "publishedAt": "2026-08-28T04:37:42Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Mike Koreen",
-      "title": "Home Page Featured 2 item",
-      "description": null,
-      "url": "https://www.sportsnet.ca/?sn-collection=must-read",
-      "urlToImage": null,
-      "publishedAt": "2025-10-21T18:12:57Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Josh Beneteau",
-      "title": "Home Page Top Videos",
-      "description": null,
-      "url": "https://www.sportsnet.ca/?sn-collection=home-page-top-videos",
-      "urlToImage": null,
-      "publishedAt": "2025-02-10T21:39:26Z",
-      "content": null
-    },
-    {
-      "source": {
-        "id": "sportsnet",
-        "name": "Sportsnet"
-      },
-      "author": "Noah Love",
-      "title": "Homepage Headlines",
-      "description": null,
-      "url": "https://www.sportsnet.ca/?sn-collection=homepage-headlines",
-      "urlToImage": null,
-      "publishedAt": "2023-09-07T21:21:44Z",
-      "content": null
-    }
-  ]
+  "source": "top_headlines"
 }
