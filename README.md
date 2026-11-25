@@ -3,8 +3,9 @@
 [![Scrape latest data](https://github.com/pranav256/news-api/actions/workflows/main.yml/badge.svg)](https://github.com/pranav256/news-api/actions/workflows/main.yml)
 
 This repository publishes static news JSON files for a Flask application. The
-scheduled scraper uses public RSS/Atom feeds and a targeted publisher listing without API keys or third-party
-Python packages. It covers five countries and seven categories. The GitHub Actions
+scheduled scraper uses public RSS/Atom feeds and a targeted publisher listing without API keys.
+This experimental branch runs the Rust port; Python remains available as the comparison baseline.
+It covers five countries and seven categories. The GitHub Actions
 workflow requests a refresh every two hours at minute 17 UTC and
 commits only when the generated data changes. GitHub may delay or drop scheduled
 runs, so this is a target rather than a freshness guarantee.
@@ -121,6 +122,39 @@ NewsAPI runs use only configured keys. Requests are capped per run using the
 do not consume the NewsAPI budget.
 
 ## Run locally
+
+Build and run the Rust experiment with a current stable Rust toolchain:
+
+```bash
+cargo build --release --locked
+cargo run --release --locked -- --rss-only --output-dir ./preview
+```
+
+The `preview` directory receives the same public and rich JSON paths as Python.
+Omit `--output-dir` to update the repository feeds. Rust uses four network workers
+by default; `--workers 1` runs sequentially and `--dry-run` disables writes.
+No Python installation or NewsAPI package is required to run the Rust binary.
+Source configuration is embedded from `sources.json` at build time; rebuild after
+changing it. The source-parity test keeps this configuration aligned with Python.
+
+Verify the experiment and compare both parsers on identical live responses:
+
+```bash
+cargo fmt --check
+cargo clippy --locked --all-targets -- -D warnings
+cargo test --locked
+python -B -m unittest discover -s tests -v
+cargo build --release --locked --examples
+python -B benchmarks/compare.py
+```
+
+The local validation on 2026-11-25 fetched all 86 RSS feeds and the CTV listing,
+refreshed all 40 headline feeds, and wrote 116 valid JSON files with no provider
+errors in 19.77 seconds. A separate captured-response comparison matched all
+article fields and publication times across 4,245 articles. Parsing took
+0.5731 seconds in Python (median) and 0.0904 seconds in Rust (mean), about 6.34x
+faster. Both timings use five iterations. This measures parsing only; most of
+the live run is network time, so it does not establish a 6.34x overall speedup.
 
 Run using Python 3.10 or newer, without installing dependencies:
 

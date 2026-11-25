@@ -1,0 +1,461 @@
+{
+  "countries": [
+    "in",
+    "us",
+    "gb",
+    "ca",
+    "au"
+  ],
+  "categories": [
+    "general",
+    "business",
+    "health",
+    "science",
+    "sports",
+    "technology",
+    "entertainment"
+  ],
+  "queries": {
+    "general": "breaking OR news OR politics OR world OR national",
+    "business": "market OR economy OR finance OR stock OR business",
+    "health": "medical OR health OR research OR wellness OR disease",
+    "science": "science OR research OR discovery OR space OR astronomy",
+    "sports": "sports OR match OR tournament OR score OR cricket OR football",
+    "technology": "technology OR AI OR software OR startup OR tech",
+    "entertainment": "entertainment OR movie OR cinema OR music OR film"
+  },
+  "country_sources": {
+    "in": "the-times-of-india,the-hindu,ndtv,india-today,business-standard",
+    "us": "cnn,fox-news,nbc-news,abc-news,cbs-news,usa-today,the-washington-post",
+    "gb": "bbc-news,the-guardian,independent,telegraph,daily-mail,reuters",
+    "ca": "cbc-news,the-globe-and-mail,financial-post",
+    "au": "abc-news-au,news-com-au"
+  },
+  "rss_feeds": {
+    "in": {
+      "general": [
+        [
+          "NDTV",
+          "https://feeds.feedburner.com/ndtvnews-latest"
+        ],
+        [
+          "The Hindu",
+          "https://www.thehindu.com/news/national/feeder/default.rss"
+        ],
+        [
+          "Times of India",
+          "https://timesofindia.indiatimes.com/rssfeedstopstories.cms"
+        ],
+        [
+          "Indian Express",
+          "https://indianexpress.com/section/india/feed/"
+        ]
+      ],
+      "business": [
+        [
+          "The Hindu",
+          "https://www.thehindu.com/business/feeder/default.rss"
+        ],
+        [
+          "Times of India",
+          "https://timesofindia.indiatimes.com/rssfeeds/1898055.cms"
+        ],
+        [
+          "Indian Express",
+          "https://indianexpress.com/section/business/feed/"
+        ]
+      ],
+      "health": [
+        [
+          "The Hindu",
+          "https://www.thehindu.com/sci-tech/health/feeder/default.rss"
+        ],
+        [
+          "Indian Express",
+          "https://indianexpress.com/section/lifestyle/health/feed/"
+        ],
+        [
+          "Hindustan Times",
+          "https://www.hindustantimes.com/feeds/rss/lifestyle/health/rssfeed.xml"
+        ]
+      ],
+      "science": [
+        [
+          "The Hindu",
+          "https://www.thehindu.com/sci-tech/science/feeder/default.rss"
+        ],
+        [
+          "Indian Express",
+          "https://indianexpress.com/section/technology/science/feed/"
+        ]
+      ],
+      "sports": [
+        [
+          "The Hindu",
+          "https://www.thehindu.com/sport/feeder/default.rss"
+        ],
+        [
+          "Times of India",
+          "https://timesofindia.indiatimes.com/rssfeeds/4719148.cms"
+        ],
+        [
+          "NDTV Sports",
+          "https://feeds.feedburner.com/ndtvsports-latest"
+        ],
+        [
+          "Indian Express",
+          "https://indianexpress.com/section/sports/feed/"
+        ]
+      ],
+      "technology": [
+        [
+          "The Hindu",
+          "https://www.thehindu.com/sci-tech/technology/feeder/default.rss"
+        ],
+        [
+          "Times of India",
+          "https://timesofindia.indiatimes.com/rssfeeds/66949542.cms"
+        ],
+        [
+          "NDTV Gadgets",
+          "https://feeds.feedburner.com/gadgets360-latest"
+        ],
+        [
+          "Indian Express",
+          "https://indianexpress.com/section/technology/feed/"
+        ]
+      ],
+      "entertainment": [
+        [
+          "The Hindu",
+          "https://www.thehindu.com/entertainment/feeder/default.rss"
+        ],
+        [
+          "NDTV Movies",
+          "https://feeds.feedburner.com/ndtvmovies-latest"
+        ],
+        [
+          "Indian Express",
+          "https://indianexpress.com/section/entertainment/feed/"
+        ]
+      ]
+    },
+    "us": {
+      "general": [
+        [
+          "The New York Times",
+          "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+        ],
+        [
+          "NPR News",
+          "https://feeds.npr.org/1001/rss.xml"
+        ]
+      ],
+      "business": [
+        [
+          "The New York Times",
+          "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml"
+        ],
+        [
+          "NPR",
+          "https://feeds.npr.org/1006/rss.xml"
+        ]
+      ],
+      "health": [
+        [
+          "The New York Times",
+          "https://rss.nytimes.com/services/xml/rss/nyt/Health.xml"
+        ],
+        [
+          "NPR",
+          "https://feeds.npr.org/1128/rss.xml"
+        ]
+      ],
+      "science": [
+        [
+          "The New York Times",
+          "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml"
+        ],
+        [
+          "NPR",
+          "https://feeds.npr.org/1007/rss.xml"
+        ]
+      ],
+      "sports": [
+        [
+          "The New York Times",
+          "https://rss.nytimes.com/services/xml/rss/nyt/Sports.xml"
+        ],
+        [
+          "CBS Sports",
+          "https://www.cbssports.com/rss/headlines/"
+        ],
+        [
+          "Yahoo Sports",
+          "https://sports.yahoo.com/rss/"
+        ]
+      ],
+      "technology": [
+        [
+          "The New York Times",
+          "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"
+        ],
+        [
+          "Wired",
+          "https://www.wired.com/feed/rss"
+        ],
+        [
+          "NPR",
+          "https://feeds.npr.org/1019/rss.xml"
+        ]
+      ],
+      "entertainment": [
+        [
+          "The New York Times",
+          "https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml"
+        ],
+        [
+          "NPR",
+          "https://feeds.npr.org/1008/rss.xml"
+        ]
+      ]
+    },
+    "gb": {
+      "general": [
+        [
+          "BBC News",
+          "https://feeds.bbci.co.uk/news/rss.xml"
+        ],
+        [
+          "The Guardian",
+          "https://www.theguardian.com/uk/rss"
+        ]
+      ],
+      "business": [
+        [
+          "BBC News",
+          "https://feeds.bbci.co.uk/news/business/rss.xml"
+        ],
+        [
+          "The Guardian",
+          "https://www.theguardian.com/business/rss"
+        ]
+      ],
+      "health": [
+        [
+          "BBC News",
+          "https://feeds.bbci.co.uk/news/health/rss.xml"
+        ],
+        [
+          "The Guardian",
+          "https://www.theguardian.com/society/health/rss"
+        ]
+      ],
+      "science": [
+        [
+          "BBC News",
+          "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"
+        ],
+        [
+          "The Guardian",
+          "https://www.theguardian.com/science/rss"
+        ]
+      ],
+      "sports": [
+        [
+          "BBC Sport",
+          "https://feeds.bbci.co.uk/sport/rss.xml"
+        ],
+        [
+          "The Guardian",
+          "https://www.theguardian.com/sport/rss"
+        ]
+      ],
+      "technology": [
+        [
+          "BBC News",
+          "https://feeds.bbci.co.uk/news/technology/rss.xml"
+        ],
+        [
+          "The Guardian",
+          "https://www.theguardian.com/technology/rss"
+        ]
+      ],
+      "entertainment": [
+        [
+          "BBC News",
+          "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml"
+        ],
+        [
+          "The Guardian",
+          "https://www.theguardian.com/culture/rss"
+        ]
+      ]
+    },
+    "ca": {
+      "general": [
+        [
+          "Global News",
+          "https://globalnews.ca/feed/"
+        ],
+        [
+          "Global National",
+          "https://globalnews.ca/national/feed/"
+        ],
+        [
+          "The Conversation Canada",
+          "https://theconversation.com/ca/articles.atom"
+        ]
+      ],
+      "business": [
+        [
+          "Global News",
+          "https://globalnews.ca/money/feed/"
+        ],
+        [
+          "BNN Bloomberg",
+          "https://www.bnnbloomberg.ca/arc/outboundfeeds/rss/?outputType=xml"
+        ]
+      ],
+      "health": [
+        [
+          "Global News",
+          "https://globalnews.ca/tag/health/feed/"
+        ],
+        [
+          "The Conversation Canada",
+          "https://theconversation.com/ca/health/articles.atom"
+        ]
+      ],
+      "science": [
+        [
+          "Global News",
+          "https://globalnews.ca/tag/science/feed/"
+        ],
+        [
+          "The Conversation Canada",
+          "https://theconversation.com/ca/technology/articles.atom"
+        ]
+      ],
+      "sports": [
+        [
+          "Sportsnet",
+          "https://www.sportsnet.ca/feed/"
+        ],
+        [
+          "Global News",
+          "https://globalnews.ca/sports/feed/"
+        ]
+      ],
+      "technology": [
+        [
+          "Global News",
+          "https://globalnews.ca/tag/technology/feed/"
+        ],
+        [
+          "MobileSyrup",
+          "https://mobilesyrup.com/feed/"
+        ]
+      ],
+      "entertainment": [
+        [
+          "Global News",
+          "https://globalnews.ca/entertainment/feed/"
+        ],
+        [
+          "The Conversation Canada",
+          "https://theconversation.com/ca/arts/articles.atom"
+        ]
+      ]
+    },
+    "au": {
+      "general": [
+        [
+          "ABC News Australia",
+          "https://www.abc.net.au/news/feed/51120/rss.xml"
+        ],
+        [
+          "The Sydney Morning Herald",
+          "https://www.smh.com.au/rss/feed.xml"
+        ],
+        [
+          "The Guardian Australia",
+          "https://www.theguardian.com/australia-news/rss"
+        ]
+      ],
+      "business": [
+        [
+          "ABC News Australia",
+          "https://www.abc.net.au/news/feed/51892/rss.xml"
+        ],
+        [
+          "The Sydney Morning Herald",
+          "https://www.smh.com.au/rss/business.xml"
+        ],
+        [
+          "The Guardian Australia",
+          "https://www.theguardian.com/au/business/rss"
+        ]
+      ],
+      "health": [
+        [
+          "ABC News Australia",
+          "https://www.abc.net.au/news/feed/492/rss.xml"
+        ],
+        [
+          "The Guardian Australia",
+          "https://www.theguardian.com/australia-news/health/rss"
+        ]
+      ],
+      "science": [
+        [
+          "ABC News Australia",
+          "https://www.abc.net.au/news/feed/2090/rss.xml"
+        ],
+        [
+          "The Conversation Australia",
+          "https://theconversation.com/au/technology/articles.atom"
+        ]
+      ],
+      "sports": [
+        [
+          "ABC News Australia",
+          "https://www.abc.net.au/news/feed/45924/rss.xml"
+        ],
+        [
+          "The Sydney Morning Herald",
+          "https://www.smh.com.au/rss/sport.xml"
+        ],
+        [
+          "The Guardian Australia",
+          "https://www.theguardian.com/au/sport/rss"
+        ]
+      ],
+      "technology": [
+        [
+          "ABC News Australia",
+          "https://www.abc.net.au/news/feed/2942460/rss.xml"
+        ],
+        [
+          "The Guardian Australia",
+          "https://www.theguardian.com/au/technology/rss"
+        ]
+      ],
+      "entertainment": [
+        [
+          "The Sydney Morning Herald",
+          "https://www.smh.com.au/rss/lifestyle.xml"
+        ],
+        [
+          "The Age",
+          "https://www.theage.com.au/rss/culture.xml"
+        ],
+        [
+          "The Guardian Australia",
+          "https://www.theguardian.com/au/culture/rss"
+        ]
+      ]
+    }
+  },
+  "ctv_health_url": "https://www.ctvnews.ca/health/"
+}
