@@ -3,8 +3,9 @@
 [![Scrape latest data](https://github.com/pranav256/news-api/actions/workflows/main.yml/badge.svg)](https://github.com/pranav256/news-api/actions/workflows/main.yml)
 
 This repository publishes static news JSON files for a Flask application. The
-GitHub Actions workflow refreshes them every two hours and commits only when
-the generated data changes.
+GitHub Actions workflow requests a refresh every two hours at minute 17 UTC and
+commits only when the generated data changes. GitHub may delay or drop scheduled
+runs, so this is a target rather than a freshness guarantee.
 
 ## Public API
 
@@ -50,7 +51,7 @@ The root files keep a NewsAPI-compatible response shape:
 ```json
 {
   "status": "ok",
-  "totalResults": 32,
+  "totalResults": 0,
   "articles": []
 }
 ```
@@ -66,7 +67,7 @@ data/status.json
 ```
 
 The headline files combine NewsAPI and RSS articles. NewsAPI is queried for
-top headlines across all countries (`in`, `us`, `gb`) and deeper searches across all
+top headlines across all supported countries and deeper searches across all
 categories when the request budget allows it. Multi-publisher RSS feeds provide resilient
 fallback coverage and merge additional articles for comprehensive reporting.
 
@@ -124,8 +125,15 @@ python main.py --dry-run
 - Articles are deduplicated by URL.
 - Files are written atomically.
 - A provider failure does not erase the last successful file.
+- Invalid provider payloads and interrupted downloads count as failures rather
+  than successful empty feeds.
+- Combined top stories include retained category feeds during partial outages.
+- If no headline or deep feed refreshes, the scraper exits with an error so
+  GitHub Actions reports failure and leaves the published data intact.
 - API keys are rotated between retries without printing their values.
 - `data/status.json` records request usage and provider failures.
+- Publishing commits only generated feeds and rebases over concurrent branch
+  updates. Conflicting changes stop publication without overwriting remote data.
 
 ## Freshness and retained feeds
 
@@ -151,6 +159,7 @@ These changes do not replace the original NewsAPI-compatible root response.
 PYTHONDONTWRITEBYTECODE=1 python3 -m unittest discover -s tests -v
 ```
 
-The suite has 10 passing tests, including malformed provider collections,
-retained files/timestamps and successful empty feeds. Tests use local fixtures;
-they do not run live ingestion or consume API request budgets.
+The suite covers malformed provider collections, retained files/timestamps,
+combined feeds during outages, total ingestion failure, and successful empty
+feeds. Tests use local fixtures; they do not run live ingestion or consume API
+request budgets. GitHub Actions runs them before scraping.

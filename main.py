@@ -12,12 +12,12 @@ from __future__ import annotations
 
 import argparse
 import html
+import http.client
 import json
 import os
 import re
 import tempfile
 import time
-import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
 from dataclasses import dataclass, field
@@ -300,13 +300,17 @@ def save_json_atomic(data: Any, filepath: Path, dry_run: bool = False) -> None:
     if dry_run:
         return
     filepath.parent.mkdir(parents=True, exist_ok=True)
-    with tempfile.NamedTemporaryFile(
+    temporary = tempfile.NamedTemporaryFile(
         "w", encoding="utf-8", dir=filepath.parent, delete=False
-    ) as temporary:
-        json.dump(data, temporary, ensure_ascii=False, indent=2)
-        temporary.write("\n")
-        temporary_path = Path(temporary.name)
-    temporary_path.replace(filepath)
+    )
+    temporary_path = Path(temporary.name)
+    try:
+        with temporary:
+            json.dump(data, temporary, ensure_ascii=False, indent=2)
+            temporary.write("\n")
+        temporary_path.replace(filepath)
+    finally:
+        temporary_path.unlink(missing_ok=True)
 
 
 def _clean_text(value: str | None) -> str | None:
@@ -343,15 +347,15 @@ def _normalise_date(value: str | None, fallback: str) -> str:
         return fallback
     value = value.strip()
     try:
-        parsed = parsedate_to_datetime(value)
-    except (TypeError, ValueError, OverflowError):
         try:
+            parsed = parsedate_to_datetime(value)
+        except (TypeError, ValueError, OverflowError):
             parsed = datetime.fromisoformat(value.replace("Z", "+00:00"))
-        except ValueError:
-            return value
-    if parsed.tzinfo is None:
-        parsed = parsed.replace(tzinfo=timezone.utc)
-    return parsed.astimezone(timezone.utc).isoformat().replace("+00:00", "Z")
+        if parsed.tzinfo is None:
+            parsed = parsed.replace(tzinfo=timezone.utc)
+        return parsed.astimezone(timezone.utc).isoformat().replace("+00:00", "Z")
+    except (ValueError, OverflowError):
+        return fallback
 
 
 def _source_id(name: str) -> str:
@@ -361,6 +365,10 @@ def _source_id(name: str) -> str:
 def parse_rss(xml_data: str | bytes, source_name: str, fetched_at: str) -> list[dict[str, Any]]:
     """Parse RSS 2.0 or Atom into NewsAPI-shaped article objects."""
     root = ET.fromstring(xml_data)
+    if _local_name(root.tag) not in {"rss", "feed", "rdf"}:
+        raise ValueError("Response is not an RSS or Atom feed")
+    if _local_name(root.tag) in {"rss", "rdf"} and not any(_local_name(child.tag) == "channel" for child in root):
+        raise ValueError("RSS feed is missing its channel")
     entries = [
         element
         for element in root.iter()
@@ -372,7 +380,11 @@ def parse_rss(xml_data: str | bytes, source_name: str, fetched_at: str) -> list[
         title = _clean_text(_child_text(entry, {"title"}))
         link = _child_text(entry, {"link"})
         link = link.strip() if link else None
-        link = link or _child_attribute(entry, {"link"}, "href")
+        link = link or next(
+            (child.get("href") for child in entry
+             if _local_name(child.tag) == "link" and child.get("rel", "alternate") == "alternate" and child.get("href")),
+            None,
+        )
         if not title or not link:
             continue
 
@@ -399,6 +411,8 @@ def parse_rss(xml_data: str | bytes, source_name: str, fetched_at: str) -> list[
                 "content": description,
             }
         )
+    if entries and not articles:
+        raise ValueError("RSS feed contains no usable articles")
     return articles
 
 
@@ -440,7 +454,7 @@ def fetch_rss_articles(country: str, category: str, fetched_at: str, state: Scra
         try:
             result.articles.extend(fetch_rss_feed(url, source_name, fetched_at))
             result.succeeded += 1
-        except (ET.ParseError, OSError, urllib.error.URLError, ValueError) as exc:
+        except (ET.ParseError, OSError, http.client.HTTPException, ValueError) as exc:
             message = f"{country}/{category} {source_name}: {exc}"
             result.errors.append(message)
             state.rss_failures.append(message)
@@ -499,26 +513,32 @@ def fetch_with_retry(
             return None
 
         attempts += 1
+        exception = None
         try:
             result = fetch_fn(NewsApiClient(api_key=state.key_pool.keys[key_index]))
-            if result and result.get("status") == "ok":
+            if not isinstance(result, dict):
+                raise ValueError("Malformed NewsAPI response")
+            if result.get("status") == "ok":
+                if not isinstance(result.get("articles"), list):
+                    raise ValueError("Malformed NewsAPI articles collection")
+                if result["articles"] and not response_articles(result):
+                    raise ValueError("NewsAPI response contains no usable articles")
                 return result
 
             code = _error_code(result)
-            if code in {"apiKeyDisabled", "apiKeyExhausted", "apiKeyInvalid", "apiKeyMissing", "rateLimited"}:
-                state.key_pool.disabled.add(key_index)
-            message = result.get("message", "unknown NewsAPI error") if result else "empty response"
-            print(f"    {label} key#{key_index + 1} attempt {attempts}: {message}")
-            if _is_permanent_request_error(code, None):
-                break
+            message = str(result.get("message", "unknown NewsAPI error"))
         except Exception as exc:  # NewsAPIException varies between package versions.
+            exception = exc
             code = _error_code(exception=exc)
-            if code in {"apiKeyDisabled", "apiKeyExhausted", "apiKeyInvalid", "apiKeyMissing", "rateLimited"}:
-                state.key_pool.disabled.add(key_index)
             message = f"{type(exc).__name__}: {exc}"
-            print(f"    {label} key#{key_index + 1} attempt {attempts}: {message}")
-            if _is_permanent_request_error(code, exc):
-                break
+
+        if code in {"apiKeyDisabled", "apiKeyExhausted", "apiKeyInvalid", "apiKeyMissing", "rateLimited"}:
+            state.key_pool.disabled.add(key_index)
+        for key in state.key_pool.keys:
+            message = message.replace(key, "[REDACTED]")
+        print(f"    {label} key#{key_index + 1} attempt {attempts}: {message}")
+        if _is_permanent_request_error(code, exception):
+            break
 
         if attempts <= MAX_RETRIES:
             time.sleep(0.25)
@@ -563,12 +583,17 @@ def fetch_newsapi_everything(
 
 
 def response_articles(response: dict[str, Any] | None) -> list[dict[str, Any]]:
-    if not response or response.get("status") != "ok":
+    if not isinstance(response, dict) or response.get("status") != "ok":
         return []
     articles = response.get("articles")
     if not isinstance(articles, list):
         return []
-    return [article for article in articles if isinstance(article, dict) and article.get("url")]
+    return [
+        article for article in articles
+        if isinstance(article, dict)
+        and isinstance(article.get("url"), str) and article["url"].strip()
+        and (article.get("publishedAt") is None or isinstance(article["publishedAt"], str))
+    ]
 
 
 def root_response(articles: list[dict[str, Any]]) -> dict[str, Any]:
@@ -677,10 +702,12 @@ def main(argv: list[str] | None = None) -> int:
     print("=" * 64)
 
     rss_cache: dict[tuple[str, str], RSSResult] = {}
+    feeds_refreshed = 0
     print("\nPHASE 1: RSS feeds and headline-compatible files")
     print("-" * 64)
     for country in COUNTRIES:
         country_headlines: list[dict[str, Any]] = []
+        country_refreshed = False
         for category in CATEGORIES:
             print(f"  [{country}/{category}]", end="", flush=True)
             rss_result = fetch_rss_articles(country, category, fetched_at, state)
@@ -694,14 +721,16 @@ def main(argv: list[str] | None = None) -> int:
 
             api_articles = response_articles(newsapi_response)
             articles = deduplicate(api_articles + rss_result.articles)
-            country_headlines.extend(articles[:10])
 
             providers: list[str] = []
-            if newsapi_response is not None and api_articles:
+            if newsapi_response is not None:
                 providers.append("newsapi")
             if rss_result.succeeded:
                 providers.append("rss")
             provider_succeeded = bool(providers)
+            if provider_succeeded:
+                country_refreshed = True
+                feeds_refreshed += 1
             print(
                 f" {len(articles)} articles "
                 f"(NewsAPI: {len(api_articles)}, RSS: {len(rss_result.articles)})"
@@ -724,26 +753,33 @@ def main(argv: list[str] | None = None) -> int:
                 dry_run=args.dry_run,
             )
 
+            if not provider_succeeded:
+                try:
+                    previous = json.loads((BASE_DIR / country / f"{category}.json").read_text(encoding="utf-8"))
+                    articles = response_articles(previous)
+                except (OSError, ValueError):
+                    articles = []
+            country_headlines.extend(articles[:10])
+
         # Generate combined top stories across categories for this country
         combined_articles = deduplicate(country_headlines)
-        if combined_articles:
-            print(f"  [{country}/all] {len(combined_articles)} combined top stories")
-            write_feed_pair(
+        print(f"  [{country}/all] {len(combined_articles)} combined top stories")
+        write_feed_pair(
+            country=country,
+            category="all",
+            articles=combined_articles,
+            data_payload=data_response(
+                source="top_headlines_all",
                 country=country,
                 category="all",
+                fetched_at=fetched_at,
                 articles=combined_articles,
-                data_payload=data_response(
-                    source="top_headlines_all",
-                    country=country,
-                    category="all",
-                    fetched_at=fetched_at,
-                    articles=combined_articles,
-                    providers=["combined"],
-                ),
-                provider_succeeded=True,
-                state=state,
-                dry_run=args.dry_run,
-            )
+                providers=["combined"],
+            ),
+            provider_succeeded=country_refreshed,
+            state=state,
+            dry_run=args.dry_run,
+        )
 
     print("\nPHASE 2: Deep category feeds")
     print("-" * 64)
@@ -760,11 +796,11 @@ def main(argv: list[str] | None = None) -> int:
             api_articles = response_articles(newsapi_response)
             articles = deduplicate(api_articles + rss_result.articles)
             providers: list[str] = []
-            if newsapi_response is not None and api_articles:
+            if newsapi_response is not None:
                 providers.append("newsapi")
             if rss_result.succeeded:
                 providers.append("rss")
-            if newsapi_response is not None and api_articles:
+            if newsapi_response is not None:
                 source = "everything"
             else:
                 source = "rss_fallback"
@@ -774,6 +810,7 @@ def main(argv: list[str] | None = None) -> int:
             if not provider_succeeded:
                 print(f"    keeping previous {country}/{category}_everything.json: all providers failed")
                 continue
+            feeds_refreshed += 1
             payload = data_response(
                 source=source,
                 country=country,
@@ -792,7 +829,7 @@ def main(argv: list[str] | None = None) -> int:
         "schema_version": 1,
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "run_started_at": fetched_at,
-        "status": "ok" if not state.api_failures and not state.rss_failures else "partial",
+        "status": "ok" if feeds_refreshed and not state.api_failures and not state.rss_failures else "partial",
         "api_keys_detected": len(keys),
         "newsapi_requests_used": state.budget.used,
         "newsapi_requests_allowed": state.budget.limit,
@@ -813,6 +850,9 @@ def main(argv: list[str] | None = None) -> int:
     print(f"  RSS failures: {len(state.rss_failures)}")
     print(f"  API failures: {len(state.api_failures)}")
     print("=" * 64)
+    if not feeds_refreshed:
+        print("ERROR: No feeds refreshed; keeping previous published data.")
+        return 1
     return 0
 
 
