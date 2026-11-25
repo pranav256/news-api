@@ -3,8 +3,9 @@
 [![Scrape latest data](https://github.com/pranav256/news-api/actions/workflows/main.yml/badge.svg)](https://github.com/pranav256/news-api/actions/workflows/main.yml)
 
 This repository publishes static news JSON files for a Flask application. The
-scheduled scraper uses public RSS/Atom feeds and a targeted publisher listing without API keys.
-This experimental branch runs the Rust port; Python remains available as the comparison baseline.
+scheduled scraper is written in Rust and uses public RSS/Atom feeds plus a
+targeted publisher listing, without NewsAPI requests or API keys. The previous
+Python scraper is preserved on the [`python` branch](https://github.com/pranav256/news-api/tree/python).
 It covers five countries and seven categories. The GitHub Actions
 workflow requests a refresh every two hours at minute 17 UTC and
 commits only when the generated data changes. GitHub may delay or drop scheduled
@@ -123,62 +124,42 @@ do not consume the NewsAPI budget.
 
 ## Run locally
 
-Build and run the Rust experiment with a current stable Rust toolchain:
+Build and run the Rust scraper with a current stable Rust toolchain:
 
 ```bash
 cargo build --release --locked
 cargo run --release --locked -- --rss-only --output-dir ./preview
 ```
 
-The `preview` directory receives the same public and rich JSON paths as Python.
-Omit `--output-dir` to update the repository feeds. Rust uses four network workers
+The `preview` directory receives the public and rich JSON feeds. Omit
+`--output-dir` to update the repository feeds. Rust uses four network workers
 by default; `--workers 1` runs sequentially and `--dry-run` disables writes.
 No Python installation or NewsAPI package is required to run the Rust binary.
 Source configuration is embedded from `sources.json` at build time; rebuild after
-changing it. The source-parity test keeps this configuration aligned with Python.
+changing it. `sources.json` is the source configuration for the Rust scraper.
 
-Verify the experiment and compare both parsers on identical live responses:
+Run the Rust checks and publishing-script regression test:
 
 ```bash
 cargo fmt --check
 cargo clippy --locked --all-targets -- -D warnings
 cargo test --locked
 python -B -m unittest discover -s tests -v
-cargo build --release --locked --examples
-python -B benchmarks/compare.py
 ```
 
-The local validation on 2026-11-25 fetched all 86 RSS feeds and the CTV listing,
-refreshed all 40 headline feeds, and wrote 116 valid JSON files with no provider
-errors in 19.77 seconds. A separate captured-response comparison matched all
-article fields and publication times across 4,245 articles. Parsing took
-0.5731 seconds in Python (median) and 0.0904 seconds in Rust (mean), about 6.34x
-faster. Both timings use five iterations. This measures parsing only; most of
-the live run is network time, so it does not establish a 6.34x overall speedup.
+On 2026-11-25, RSS-only dry runs against the same 86 RSS feeds and CTV listing
+took 17.0 seconds in Rust and 35.44 seconds in Python, about 2.1x faster. Rust
+uses four network workers by default; Python fetches feeds sequentially. This was
+one live sample, so network conditions affect the result. A recorded captured-
+response comparison matched all article fields and publication times across
+4,245 articles. Parsing took 0.5731 seconds in Python (median) and 0.0904 seconds
+in Rust (mean), about 6.34x faster; both parser timings use five iterations.
+The warm-cache GitHub Actions run completed in 57 seconds, refreshed all 40
+feeds, and succeeded on all 86 RSS feeds plus the CTV listing.
 
-Run using Python 3.10 or newer, without installing dependencies:
-
-```bash
-python main.py --rss-only
-```
-
-To optionally enable NewsAPI locally, install the pinned dependency:
-
-```bash
-python -m pip install -r requirements.txt
-```
-
-Run with the configured NewsAPI keys:
-
-```bash
-python main.py
-```
-
-Fetch RSS feeds and print results without writing files:
-
-```bash
-python main.py --rss-only --dry-run
-```
+The former Python scraper, its optional NewsAPI integration and its tests are
+preserved on the `python` branch. Python is used on `main` only for the
+publishing-script regression test; scheduled scraping runs the Rust binary.
 
 ## Data behavior
 
@@ -219,8 +200,7 @@ These changes do not replace the original NewsAPI-compatible root response.
 PYTHONDONTWRITEBYTECODE=1 python3 -m unittest discover -s tests -v
 ```
 
-The suite covers malformed provider collections, retained files/timestamps,
-recent article history and its limits, combined feeds during outages, total
-ingestion failure, and successful empty feeds. Tests use local fixtures;
-they do not run live ingestion or consume API
-request budgets. GitHub Actions runs them before scraping.
+Rust tests cover RSS/Atom parsing, provider failures, retained history, atomic
+writes and API-key budgets. The Python standard-library test runs the publishing
+script against local Git repositories; neither test suite fetches live feeds or
+consumes API requests. GitHub Actions runs both before scraping.
