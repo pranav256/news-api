@@ -21,10 +21,11 @@ import time
 import urllib.request
 import xml.etree.ElementTree as ET
 from dataclasses import dataclass, field
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 from typing import Any, Callable, Iterable
+from urllib.parse import urljoin, urlsplit
 
 try:
     from newsapi import NewsApiClient
@@ -66,8 +67,10 @@ MAX_RETRIES = 2
 HEADLINE_PAGE_SIZE = 100
 RSS_TIMEOUT_SECONDS = int(os.environ.get("RSS_TIMEOUT_SECONDS", "20"))
 MAX_FEED_BYTES = 4 * 1024 * 1024
-MAX_ARTICLES_PER_FEED = 100
-MAX_ARTICLES_PER_OUTPUT = 100
+MAX_ARTICLES_PER_FEED = 250
+MAX_ARTICLES_PER_OUTPUT = 500
+ARTICLE_RETENTION_DAYS = 7
+CTV_HEALTH_URL = "https://www.ctvnews.ca/health/"
 
 LEGACY_KEY_ENV_NAMES = (
     "FIRSTAPI",
@@ -100,30 +103,38 @@ RSS_FEEDS: dict[str, dict[str, list[tuple[str, str]]]] = {
             ("NDTV", "https://feeds.feedburner.com/ndtvnews-latest"),
             ("The Hindu", "https://www.thehindu.com/news/national/feeder/default.rss"),
             ("Times of India", "https://timesofindia.indiatimes.com/rssfeedstopstories.cms"),
+            ("Indian Express", "https://indianexpress.com/section/india/feed/"),
         ],
         "business": [
             ("The Hindu", "https://www.thehindu.com/business/feeder/default.rss"),
             ("Times of India", "https://timesofindia.indiatimes.com/rssfeeds/1898055.cms"),
+            ("Indian Express", "https://indianexpress.com/section/business/feed/"),
         ],
         "health": [
             ("The Hindu", "https://www.thehindu.com/sci-tech/health/feeder/default.rss"),
+            ("Indian Express", "https://indianexpress.com/section/lifestyle/health/feed/"),
+            ("Hindustan Times", "https://www.hindustantimes.com/feeds/rss/lifestyle/health/rssfeed.xml"),
         ],
         "science": [
             ("The Hindu", "https://www.thehindu.com/sci-tech/science/feeder/default.rss"),
+            ("Indian Express", "https://indianexpress.com/section/technology/science/feed/"),
         ],
         "sports": [
             ("The Hindu", "https://www.thehindu.com/sport/feeder/default.rss"),
             ("Times of India", "https://timesofindia.indiatimes.com/rssfeeds/4719148.cms"),
             ("NDTV Sports", "https://feeds.feedburner.com/ndtvsports-latest"),
+            ("Indian Express", "https://indianexpress.com/section/sports/feed/"),
         ],
         "technology": [
             ("The Hindu", "https://www.thehindu.com/sci-tech/technology/feeder/default.rss"),
             ("Times of India", "https://timesofindia.indiatimes.com/rssfeeds/66949542.cms"),
             ("NDTV Gadgets", "https://feeds.feedburner.com/gadgets360-latest"),
+            ("Indian Express", "https://indianexpress.com/section/technology/feed/"),
         ],
         "entertainment": [
             ("The Hindu", "https://www.thehindu.com/entertainment/feeder/default.rss"),
             ("NDTV Movies", "https://feeds.feedburner.com/ndtvmovies-latest"),
+            ("Indian Express", "https://indianexpress.com/section/entertainment/feed/"),
         ],
     },
     "us": {
@@ -133,12 +144,15 @@ RSS_FEEDS: dict[str, dict[str, list[tuple[str, str]]]] = {
         ],
         "business": [
             ("The New York Times", "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml"),
+            ("NPR", "https://feeds.npr.org/1006/rss.xml"),
         ],
         "health": [
             ("The New York Times", "https://rss.nytimes.com/services/xml/rss/nyt/Health.xml"),
+            ("NPR", "https://feeds.npr.org/1128/rss.xml"),
         ],
         "science": [
             ("The New York Times", "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml"),
+            ("NPR", "https://feeds.npr.org/1007/rss.xml"),
         ],
         "sports": [
             ("The New York Times", "https://rss.nytimes.com/services/xml/rss/nyt/Sports.xml"),
@@ -148,9 +162,11 @@ RSS_FEEDS: dict[str, dict[str, list[tuple[str, str]]]] = {
         "technology": [
             ("The New York Times", "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"),
             ("Wired", "https://www.wired.com/feed/rss"),
+            ("NPR", "https://feeds.npr.org/1019/rss.xml"),
         ],
         "entertainment": [
             ("The New York Times", "https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml"),
+            ("NPR", "https://feeds.npr.org/1008/rss.xml"),
         ],
     },
     "gb": {
@@ -164,6 +180,7 @@ RSS_FEEDS: dict[str, dict[str, list[tuple[str, str]]]] = {
         ],
         "health": [
             ("BBC News", "https://feeds.bbci.co.uk/news/health/rss.xml"),
+            ("The Guardian", "https://www.theguardian.com/society/health/rss"),
         ],
         "science": [
             ("BBC News", "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"),
@@ -179,42 +196,72 @@ RSS_FEEDS: dict[str, dict[str, list[tuple[str, str]]]] = {
         ],
         "entertainment": [
             ("BBC News", "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml"),
+            ("The Guardian", "https://www.theguardian.com/culture/rss"),
         ],
     },
     "ca": {
         "general": [
             ("Global News", "https://globalnews.ca/feed/"),
             ("Global National", "https://globalnews.ca/national/feed/"),
+            ("The Conversation Canada", "https://theconversation.com/ca/articles.atom"),
         ],
-        "business": [("Global News", "https://globalnews.ca/money/feed/")],
-        "health": [("Global News", "https://globalnews.ca/tag/health/feed/")],
-        "science": [("Global News", "https://globalnews.ca/tag/science/feed/")],
+        "business": [
+            ("Global News", "https://globalnews.ca/money/feed/"),
+            ("BNN Bloomberg", "https://www.bnnbloomberg.ca/arc/outboundfeeds/rss/?outputType=xml"),
+        ],
+        "health": [
+            ("Global News", "https://globalnews.ca/tag/health/feed/"),
+            ("The Conversation Canada", "https://theconversation.com/ca/health/articles.atom"),
+        ],
+        "science": [
+            ("Global News", "https://globalnews.ca/tag/science/feed/"),
+            ("The Conversation Canada", "https://theconversation.com/ca/technology/articles.atom"),
+        ],
         "sports": [
             ("Sportsnet", "https://www.sportsnet.ca/feed/"),
             ("Global News", "https://globalnews.ca/sports/feed/"),
         ],
-        "technology": [("Global News", "https://globalnews.ca/tag/technology/feed/")],
-        "entertainment": [("Global News", "https://globalnews.ca/entertainment/feed/")],
+        "technology": [
+            ("Global News", "https://globalnews.ca/tag/technology/feed/"),
+            ("MobileSyrup", "https://mobilesyrup.com/feed/"),
+        ],
+        "entertainment": [
+            ("Global News", "https://globalnews.ca/entertainment/feed/"),
+            ("The Conversation Canada", "https://theconversation.com/ca/arts/articles.atom"),
+        ],
     },
     "au": {
         "general": [
             ("ABC News Australia", "https://www.abc.net.au/news/feed/51120/rss.xml"),
             ("The Sydney Morning Herald", "https://www.smh.com.au/rss/feed.xml"),
+            ("The Guardian Australia", "https://www.theguardian.com/australia-news/rss"),
         ],
         "business": [
             ("ABC News Australia", "https://www.abc.net.au/news/feed/51892/rss.xml"),
             ("The Sydney Morning Herald", "https://www.smh.com.au/rss/business.xml"),
+            ("The Guardian Australia", "https://www.theguardian.com/au/business/rss"),
         ],
-        "health": [("ABC News Australia", "https://www.abc.net.au/news/feed/492/rss.xml")],
-        "science": [("ABC News Australia", "https://www.abc.net.au/news/feed/2090/rss.xml")],
+        "health": [
+            ("ABC News Australia", "https://www.abc.net.au/news/feed/492/rss.xml"),
+            ("The Guardian Australia", "https://www.theguardian.com/australia-news/health/rss"),
+        ],
+        "science": [
+            ("ABC News Australia", "https://www.abc.net.au/news/feed/2090/rss.xml"),
+            ("The Conversation Australia", "https://theconversation.com/au/technology/articles.atom"),
+        ],
         "sports": [
             ("ABC News Australia", "https://www.abc.net.au/news/feed/45924/rss.xml"),
             ("The Sydney Morning Herald", "https://www.smh.com.au/rss/sport.xml"),
+            ("The Guardian Australia", "https://www.theguardian.com/au/sport/rss"),
         ],
-        "technology": [("ABC News Australia", "https://www.abc.net.au/news/feed/2942460/rss.xml")],
+        "technology": [
+            ("ABC News Australia", "https://www.abc.net.au/news/feed/2942460/rss.xml"),
+            ("The Guardian Australia", "https://www.theguardian.com/au/technology/rss"),
+        ],
         "entertainment": [
             ("The Sydney Morning Herald", "https://www.smh.com.au/rss/lifestyle.xml"),
             ("The Age", "https://www.theage.com.au/rss/culture.xml"),
+            ("The Guardian Australia", "https://www.theguardian.com/au/culture/rss"),
         ],
     },
 }
@@ -269,6 +316,9 @@ class ScrapeState:
     rss_failures: list[str] = field(default_factory=list)
     files_updated: list[str] = field(default_factory=list)
     feed_outcomes: list[dict[str, Any]] = field(default_factory=list)
+    listing_pages_attempted: int = 0
+    listing_pages_succeeded: int = 0
+    listing_failures: list[str] = field(default_factory=list)
 
 
 def load_api_keys(environ: dict[str, str] | None = None) -> list[str]:
@@ -433,17 +483,77 @@ def deduplicate(articles: Iterable[dict[str, Any]]) -> list[dict[str, Any]]:
     return unique[:MAX_ARTICLES_PER_OUTPUT]
 
 
-def fetch_rss_feed(url: str, source_name: str, fetched_at: str) -> list[dict[str, Any]]:
+def fetch_public_document(url: str) -> bytes:
     request = urllib.request.Request(
         url,
         headers={
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 (compatible; news-api-static-feed/2.0; +https://github.com/pranav256/news-api)",
-            "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
+            "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, text/html, */*",
         },
     )
     with urllib.request.urlopen(request, timeout=RSS_TIMEOUT_SECONDS) as response:
-        xml_data = response.read(MAX_FEED_BYTES)
-    return parse_rss(xml_data, source_name, fetched_at)
+        document = response.read(MAX_FEED_BYTES + 1)
+    if len(document) > MAX_FEED_BYTES:
+        raise ValueError("Publisher response exceeds the size limit")
+    return document
+
+
+def fetch_rss_feed(url: str, source_name: str, fetched_at: str) -> list[dict[str, Any]]:
+    return parse_rss(fetch_public_document(url), source_name, fetched_at)
+
+
+def parse_ctv_health_listing(document: str) -> list[dict[str, Any]]:
+    """Read the public health listing's embedded JSON without executing scripts."""
+    embedded = []
+    for marker in ("Fusion.globalContent=", "Fusion.contentCache="):
+        _, separator, value = document.partition(marker)
+        if not separator:
+            raise ValueError("CTV health listing data is missing")
+        embedded.append(json.JSONDecoder().raw_decode(value.lstrip())[0])
+    section, cache = embedded
+    if not isinstance(section, dict) or section.get("_id") != "/health" or not isinstance(cache, dict):
+        raise ValueError("Response is not the CTV health listing")
+    groups = cache.get("story-feed-sections")
+    if not isinstance(groups, dict):
+        raise ValueError("CTV health story collection is missing")
+    articles = []
+    for parameters, group in groups.items():
+        if '"includeSections":"/health"' not in parameters.replace(r'\"', '"'):
+            continue
+        if not isinstance(group, dict) or not isinstance(group.get("data"), dict):
+            continue
+        stories = group["data"].get("content_elements")
+        if not isinstance(stories, list):
+            continue
+        for story in stories[:MAX_ARTICLES_PER_FEED]:
+            try:
+                if story.get("type") != "story" or story.get("owner", {}).get("sponsored"):
+                    continue
+                title = _clean_text(story.get("headlines", {}).get("basic"))
+                path = story.get("websites", {}).get("ctvnews", {}).get("website_url")
+                if not isinstance(path, str):
+                    continue
+                url = urljoin(CTV_HEALTH_URL, path)
+                parsed_url = urlsplit(url)
+                published = _normalise_date(story.get("display_date"), "")
+                if not title or not published or parsed_url.scheme != "https" or parsed_url.netloc != "www.ctvnews.ca" or "/article/" not in parsed_url.path:
+                    continue
+                description = _clean_text(story.get("description", {}).get("basic"))
+                articles.append({
+                    "source": {"id": "ctv-news", "name": "CTV News"},
+                    "author": None,
+                    "title": title,
+                    "description": description,
+                    "url": url,
+                    "urlToImage": story.get("promo_items", {}).get("basic", {}).get("url"),
+                    "publishedAt": published,
+                    "content": description,
+                })
+            except (AttributeError, TypeError, ValueError):
+                continue
+    if not articles:
+        raise ValueError("CTV health listing contains no usable articles")
+    return deduplicate(articles)
 
 
 def fetch_rss_articles(country: str, category: str, fetched_at: str, state: ScrapeState) -> RSSResult:
@@ -596,6 +706,26 @@ def response_articles(response: dict[str, Any] | None) -> list[dict[str, Any]]:
     ]
 
 
+def merge_recent_articles(articles: list[dict[str, Any]], path: Path, fetched_at: str) -> list[dict[str, Any]]:
+    """Keep recent stories that have rolled out of a publisher's current feed."""
+    if not articles:
+        return []
+    try:
+        previous = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        return articles
+    if not isinstance(previous, dict):
+        return articles
+    now = datetime.fromisoformat(fetched_at.replace("Z", "+00:00"))
+    cutoff = now - timedelta(days=ARTICLE_RETENTION_DAYS)
+    retained = []
+    for article in response_articles({"status": "ok", "articles": previous.get("articles")}):
+        published = _normalise_date(article.get("publishedAt"), "")
+        if published and cutoff <= datetime.fromisoformat(published.replace("Z", "+00:00")) <= now:
+            retained.append(article)
+    return deduplicate(articles + retained)
+
+
 def root_response(articles: list[dict[str, Any]]) -> dict[str, Any]:
     """Keep the original response shape expected by the Flask application."""
     return {
@@ -679,7 +809,7 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument(
         "--rss-only",
         action="store_true",
-        help="skip NewsAPI and use RSS feeds only",
+        help="skip NewsAPI and use public feeds and publisher listings",
     )
     args = parser.parse_args(argv)
 
@@ -702,8 +832,9 @@ def main(argv: list[str] | None = None) -> int:
     print("=" * 64)
 
     rss_cache: dict[tuple[str, str], RSSResult] = {}
+    listing_cache: dict[tuple[str, str], list[dict[str, Any]]] = {}
     feeds_refreshed = 0
-    print("\nPHASE 1: RSS feeds and headline-compatible files")
+    print("\nPHASE 1: Public feeds, publisher listings and headline-compatible files")
     print("-" * 64)
     for country in COUNTRIES:
         country_headlines: list[dict[str, Any]] = []
@@ -712,6 +843,17 @@ def main(argv: list[str] | None = None) -> int:
             print(f"  [{country}/{category}]", end="", flush=True)
             rss_result = fetch_rss_articles(country, category, fetched_at, state)
             rss_cache[(country, category)] = rss_result
+            listing_articles: list[dict[str, Any]] = []
+            if (country, category) == ("ca", "health"):
+                state.listing_pages_attempted += 1
+                try:
+                    listing_articles = parse_ctv_health_listing(fetch_public_document(CTV_HEALTH_URL).decode("utf-8"))
+                    state.listing_pages_succeeded += 1
+                except (OSError, http.client.HTTPException, ValueError) as exc:
+                    message = f"ca/health CTV News: {exc}"
+                    state.listing_failures.append(message)
+                    print(f"    Listing failed: {message}")
+            listing_cache[(country, category)] = listing_articles
 
             if state.budget.remaining == 0 and state.key_pool.keys:
                 print(" (budget limit reached, using RSS)", end="", flush=True)
@@ -720,20 +862,25 @@ def main(argv: list[str] | None = None) -> int:
                 newsapi_response = fetch_newsapi_headlines(country, category, state)
 
             api_articles = response_articles(newsapi_response)
-            articles = deduplicate(api_articles + rss_result.articles)
+            articles = deduplicate(api_articles + rss_result.articles + listing_articles)
 
             providers: list[str] = []
             if newsapi_response is not None:
                 providers.append("newsapi")
             if rss_result.succeeded:
                 providers.append("rss")
+            if listing_articles:
+                providers.append("publisher_listing")
             provider_succeeded = bool(providers)
             if provider_succeeded:
+                articles = merge_recent_articles(
+                    articles, DATA_DIR / country / f"{category}_headlines.json", fetched_at,
+                )
                 country_refreshed = True
                 feeds_refreshed += 1
             print(
                 f" {len(articles)} articles "
-                f"(NewsAPI: {len(api_articles)}, RSS: {len(rss_result.articles)})"
+                f"(NewsAPI: {len(api_articles)}, RSS: {len(rss_result.articles)}, listings: {len(listing_articles)})"
             )
 
             write_feed_pair(
@@ -759,7 +906,7 @@ def main(argv: list[str] | None = None) -> int:
                     articles = response_articles(previous)
                 except (OSError, ValueError):
                     articles = []
-            country_headlines.extend(articles[:10])
+            country_headlines.extend(articles)
 
         # Generate combined top stories across categories for this country
         combined_articles = deduplicate(country_headlines)
@@ -794,12 +941,15 @@ def main(argv: list[str] | None = None) -> int:
             else:
                 newsapi_response = fetch_newsapi_everything(country, category, query, state)
             api_articles = response_articles(newsapi_response)
-            articles = deduplicate(api_articles + rss_result.articles)
+            listing_articles = listing_cache.get((country, category), [])
+            articles = deduplicate(api_articles + rss_result.articles + listing_articles)
             providers: list[str] = []
             if newsapi_response is not None:
                 providers.append("newsapi")
             if rss_result.succeeded:
                 providers.append("rss")
+            if listing_articles:
+                providers.append("publisher_listing")
             if newsapi_response is not None:
                 source = "everything"
             else:
@@ -811,6 +961,8 @@ def main(argv: list[str] | None = None) -> int:
                 print(f"    keeping previous {country}/{category}_everything.json: all providers failed")
                 continue
             feeds_refreshed += 1
+            path = DATA_DIR / country / f"{category}_everything.json"
+            articles = merge_recent_articles(articles, path, fetched_at)
             payload = data_response(
                 source=source,
                 country=country,
@@ -820,7 +972,6 @@ def main(argv: list[str] | None = None) -> int:
                 providers=providers,
                 query=query,
             )
-            path = DATA_DIR / country / f"{category}_everything.json"
             save_json_atomic(payload, path, args.dry_run)
             if not args.dry_run:
                 state.files_updated.append(str(path.relative_to(BASE_DIR)))
@@ -829,7 +980,7 @@ def main(argv: list[str] | None = None) -> int:
         "schema_version": 1,
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "run_started_at": fetched_at,
-        "status": "ok" if feeds_refreshed and not state.api_failures and not state.rss_failures else "partial",
+        "status": "ok" if feeds_refreshed and not state.api_failures and not state.rss_failures and not state.listing_failures else "partial",
         "api_keys_detected": len(keys),
         "newsapi_requests_used": state.budget.used,
         "newsapi_requests_allowed": state.budget.limit,
@@ -837,11 +988,14 @@ def main(argv: list[str] | None = None) -> int:
         "api_requests_failed": len(state.api_failures),
         "rss_feeds_attempted": sum(result.attempted for result in rss_cache.values()),
         "rss_feeds_succeeded": sum(result.succeeded for result in rss_cache.values()),
+        "listing_pages_attempted": state.listing_pages_attempted,
+        "listing_pages_succeeded": state.listing_pages_succeeded,
+        "listing_pages_failed": len(state.listing_failures),
         "feeds_updated": sum(feed["status"] == "updated" for feed in state.feed_outcomes),
         "feeds_retained": sum(feed["status"] == "retained" for feed in state.feed_outcomes),
         "feeds": state.feed_outcomes,
         "files_updated": state.files_updated,
-        "errors": state.api_failures + state.rss_failures,
+        "errors": state.api_failures + state.rss_failures + state.listing_failures,
     }
     save_json_atomic(status, DATA_DIR / "status.json", args.dry_run)
 
@@ -849,6 +1003,7 @@ def main(argv: list[str] | None = None) -> int:
     print(f"  DONE — {state.budget.used}/{state.budget.limit} NewsAPI requests used")
     print(f"  RSS failures: {len(state.rss_failures)}")
     print(f"  API failures: {len(state.api_failures)}")
+    print(f"  Listing failures: {len(state.listing_failures)}")
     print("=" * 64)
     if not feeds_refreshed:
         print("ERROR: No feeds refreshed; keeping previous published data.")

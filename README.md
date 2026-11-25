@@ -3,7 +3,9 @@
 [![Scrape latest data](https://github.com/pranav256/news-api/actions/workflows/main.yml/badge.svg)](https://github.com/pranav256/news-api/actions/workflows/main.yml)
 
 This repository publishes static news JSON files for a Flask application. The
-GitHub Actions workflow requests a refresh every two hours at minute 17 UTC and
+scheduled scraper uses public RSS/Atom feeds and a targeted publisher listing without API keys or third-party
+Python packages. It covers five countries and seven categories. The GitHub Actions
+workflow requests a refresh every two hours at minute 17 UTC and
 commits only when the generated data changes. GitHub may delay or drop scheduled
 runs, so this is a target rather than a freshness guarantee.
 
@@ -66,13 +68,37 @@ data/{country}/{category}_everything.json
 data/status.json
 ```
 
-The headline files combine NewsAPI and RSS articles. NewsAPI is queried for
-top headlines across all supported countries and deeper searches across all
-categories when the request budget allows it. Multi-publisher RSS feeds provide resilient
-fallback coverage and merge additional articles for comprehensive reporting.
+The headline files merge multiple RSS/Atom publishers per category, including
+Indian Express, NPR, The Guardian, The Conversation, BNN Bloomberg and MobileSyrup.
+Each output contains up to 500 unique articles, newest first. Each publisher feed
+is read up to 250 articles; the combined `all.json` includes category stories up
+to the same 500-article limit.
 
-The `everything` files contain NewsAPI deep-search results with flexible `OR` boolean queries
-across all 7 categories, falling back to merged RSS category feeds when needed.
+Successful non-empty refreshes retain previously published stories from the last
+seven days, so articles remain available after publishers remove them from their
+current feed. Current versions win when URLs match. An explicitly empty successful
+refresh clears the feed; total provider failure preserves the last successful file.
+Existing files store this history, so no database is needed.
+
+In RSS-only mode, `everything` files contain the category feeds and their own
+recent history. They do not perform keyword searches. Optional local NewsAPI runs
+can merge headline and deep-search results when keys and request budgets allow it.
+
+## Targeted publisher scraping
+
+Canadian health coverage also includes [CTV News's public health listing](https://www.ctvnews.ca/health/).
+The scraper reads headline metadata already embedded in that page: title,
+publication date, summary, image and article link. It requests the listing once
+per refresh and reuses those results for headlines and `everything` files.
+It does not request individual article bodies or run page scripts.
+
+The `--rss-only` option means no NewsAPI requests; it also includes this public
+listing. Malformed pages, missing dates and unrelated sections are rejected.
+If the page changes or cannot be fetched, RSS coverage still publishes, and a
+total provider outage preserves the previous feed. Listing contributions appear
+as `publisher_listing` in `providers`. `data/status.json` reports
+`listing_pages_attempted`, `listing_pages_succeeded` and `listing_pages_failed`
+alongside RSS statistics, with listing errors included in `errors`.
 
 ## API keys
 
@@ -89,14 +115,20 @@ SIXTHAPI
 SEVENTHAPI
 ```
 
-The GitHub Actions workflow passes the legacy secret names for compatibility.
-Only configured keys are used. NewsAPI requests are capped per run using the
+GitHub Actions uses `--rss-only` and does not read API secrets. Optional local
+NewsAPI runs use only configured keys. Requests are capped per run using the
 100-requests-per-day Developer-plan budget and a safety reserve. RSS requests
 do not consume the NewsAPI budget.
 
 ## Run locally
 
-Install the pinned dependency:
+Run using Python 3.10 or newer, without installing dependencies:
+
+```bash
+python main.py --rss-only
+```
+
+To optionally enable NewsAPI locally, install the pinned dependency:
 
 ```bash
 python -m pip install -r requirements.txt
@@ -108,16 +140,10 @@ Run with the configured NewsAPI keys:
 python main.py
 ```
 
-Run without NewsAPI, using only RSS feeds:
+Fetch RSS feeds and print results without writing files:
 
 ```bash
-python main.py --rss-only
-```
-
-Fetch and print results without writing files:
-
-```bash
-python main.py --dry-run
+python main.py --rss-only --dry-run
 ```
 
 ## Data behavior
@@ -160,6 +186,7 @@ PYTHONDONTWRITEBYTECODE=1 python3 -m unittest discover -s tests -v
 ```
 
 The suite covers malformed provider collections, retained files/timestamps,
-combined feeds during outages, total ingestion failure, and successful empty
-feeds. Tests use local fixtures; they do not run live ingestion or consume API
+recent article history and its limits, combined feeds during outages, total
+ingestion failure, and successful empty feeds. Tests use local fixtures;
+they do not run live ingestion or consume API
 request budgets. GitHub Actions runs them before scraping.

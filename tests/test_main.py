@@ -11,6 +11,30 @@ import main
 
 
 class FeedUtilityTests(unittest.TestCase):
+    def test_recent_history_is_retained_with_current_articles_preferred_and_bounded(self):
+        now = "2026-11-25T00:00:00Z"
+        fresh = {"url": "https://example.com/current", "publishedAt": now, "title": "updated"}
+        recent = {"url": "https://example.com/recent", "publishedAt": "2026-11-18T00:00:00Z"}
+        old = {"url": "https://example.com/old", "publishedAt": "2026-11-17T23:59:59Z"}
+        future = {"url": "https://example.com/future", "publishedAt": "2026-11-26T00:00:00Z"}
+        with tempfile.TemporaryDirectory() as directory:
+            path = Path(directory) / "feed.json"
+            main.save_json_atomic({"articles": [recent, old, future, {"url": fresh["url"], "publishedAt": now, "title": "old"}, {"url": "https://example.com/no-date"}, None]}, path)
+            result = main.merge_recent_articles([fresh], path, now)
+            self.assertEqual(result, [fresh, recent])
+            self.assertEqual(main.merge_recent_articles([], path, now), [])
+            with patch.object(main, "MAX_ARTICLES_PER_OUTPUT", 1):
+                self.assertEqual(main.merge_recent_articles([fresh], path, now), [fresh])
+
+    def test_missing_or_invalid_history_does_not_break_refresh(self):
+        article = {"url": "https://example.com/fresh"}
+        with tempfile.TemporaryDirectory() as directory:
+            path = Path(directory) / "feed.json"
+            self.assertEqual(main.merge_recent_articles([article], path, "2026-11-25T00:00:00Z"), [article])
+            for payload in ("invalid", "[]", '{"articles": {}}'):
+                path.write_text(payload, encoding="utf-8")
+                self.assertEqual(main.merge_recent_articles([article], path, "2026-11-25T00:00:00Z"), [article])
+
     def test_failed_atomic_write_keeps_original_and_removes_temporary_file(self):
         for failure in ("serialization", "replacement"):
             with self.subTest(failure=failure), tempfile.TemporaryDirectory() as directory:
@@ -232,6 +256,21 @@ class ScraperTests(unittest.TestCase):
         self.assertEqual(status["feeds_retained"], 3)
         self.assertEqual(status["status"], "partial")
 
+    def test_successful_refresh_keeps_recent_headline_and_deep_history_and_more_than_ten_combined(self):
+        now = main.datetime.now(main.timezone.utc)
+        retained = {"url": "https://example.com/retained", "publishedAt": (now - main.timedelta(days=1)).isoformat()}
+        fresh = [{"url": f"https://example.com/fresh/{i}", "publishedAt": now.isoformat()} for i in range(120)]
+        self.seed_feed("general", [retained])
+        main.save_json_atomic({"articles": [retained]}, self.root / "data/us/general_everything.json")
+        self.rss.side_effect = lambda *args: main.RSSResult(fresh, 1, 1)
+
+        self.assertEqual(main.main(["--rss-only"]), 0)
+
+        for path in ("us/general.json", "us/all.json", "data/us/general_everything.json"):
+            articles = json.loads((self.root / path).read_text())["articles"]
+            self.assertEqual(len(articles), 121)
+            self.assertIn(retained, articles)
+
     def test_successful_empty_refresh_clears_old_combined_feed(self):
         self.seed_feed("all", [{"url": "https://example.com/old"}])
         self.rss.side_effect = lambda *args: main.RSSResult(attempted=1, succeeded=1)
@@ -239,6 +278,14 @@ class ScraperTests(unittest.TestCase):
         self.assertEqual(main.main(["--rss-only"]), 0)
 
         self.assertEqual(json.loads((self.root / "us/all.json").read_text())["articles"], [])
+
+    def test_rss_only_does_not_read_keys_or_create_newsapi_clients(self):
+        self.rss.side_effect = lambda *args: main.RSSResult(attempted=1, succeeded=1)
+        with patch.object(main, "load_api_keys", side_effect=AssertionError("Keys must not be read")), patch.object(main, "NewsApiClient", side_effect=AssertionError("No API calls")):
+            self.assertEqual(main.main(["--rss-only"]), 0)
+        status = json.loads((self.root / "data/status.json").read_text())
+        self.assertEqual(status["api_keys_detected"], 0)
+        self.assertEqual(status["newsapi_requests_used"], 0)
 
     def test_deep_feed_success_prevents_total_outage_failure(self):
         self.rss.side_effect = lambda *args: main.RSSResult(attempted=1)
@@ -265,6 +312,14 @@ class ScraperTests(unittest.TestCase):
 
 
 class ConfigurationTests(unittest.TestCase):
+    def test_every_category_has_multiple_publishers(self):
+        for country in main.COUNTRIES:
+            for category in main.CATEGORIES:
+                with self.subTest(country=country, category=category):
+                    feeds = main.RSS_FEEDS[country][category]
+                    self.assertGreaterEqual(len({source for source, url in feeds}), 2)
+                    self.assertEqual(len({url for source, url in feeds}), len(feeds))
+
     def test_malformed_newsapi_success_is_a_failure(self):
         for response in ([], "bad", {"status": "ok"}, {"status": "ok", "articles": {}}, {"status": "ok", "articles": [None]}):
             with self.subTest(response=response), patch.object(main, "NewsApiClient"), patch.object(main.time, "sleep"):
