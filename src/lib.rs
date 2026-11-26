@@ -112,6 +112,10 @@ pub fn parse_rss(document: &str, source: &str, fetched_at: &str) -> Result<Vec<V
         .collect::<Vec<_>>()
         .join("-");
     let mut articles = Vec::new();
+    let image_regex = || {
+        static IMAGE: OnceLock<Regex> = OnceLock::new();
+        IMAGE.get_or_init(|| Regex::new(r#"(?i)<img[^>]+src=["'](https?://[^"']+)["']"#).unwrap())
+    };
     for entry in &entries {
         let Some(title) = cleaned(child_text(*entry, &["title"])) else {
             continue;
@@ -140,11 +144,7 @@ pub fn parse_rss(document: &str, source: &str, fetched_at: &str) -> Result<Vec<V
             .find_map(|node| node.attribute("url").or_else(|| node.attribute("href")))
             .map(str::to_owned)
             .or_else(|| {
-                static IMAGE: OnceLock<Regex> = OnceLock::new();
-                IMAGE
-                    .get_or_init(|| {
-                        Regex::new(r#"(?i)<img[^>]+src=["'](https?://[^"']+)["']"#).unwrap()
-                    })
+                image_regex()
                     .captures(raw_description)
                     .map(|captures| captures[1].to_owned())
             });
@@ -263,7 +263,8 @@ pub fn deduplicate(articles: Vec<Value>) -> Vec<Value> {
             seen.insert(key)
         })
         .collect();
-    unique.sort_by(|left, right| text(right, "publishedAt").cmp(text(left, "publishedAt")));
+    unique
+        .sort_by_cached_key(|article| std::cmp::Reverse(parsed_date(text(article, "publishedAt"))));
     unique.truncate(MAX_OUTPUT_ARTICLES);
     unique
 }

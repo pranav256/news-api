@@ -30,6 +30,50 @@ fn rss_atom_images_entities_and_dates() {
 }
 
 #[test]
+fn rss_image_fallbacks_and_explicit_priority_across_entries() {
+    let rss = r#"<rss xmlns:media="http://search.yahoo.com/mrss/"><channel>
+        <item><title>First fallback</title><link>https://example.com/first</link>
+        <description><![CDATA[<IMG SRC='https://example.com/first.jpg'>
+        <img src="https://example.com/later.jpg">]]></description></item>
+        <item><title>Second fallback</title><link>https://example.com/second</link>
+        <description><![CDATA[<img alt="Photo" src="http://example.com/second.jpg">]]></description></item>
+        <item><title>Thumbnail first</title><link>https://example.com/thumbnail</link>
+        <description><![CDATA[<img src="https://example.com/html.jpg">]]></description>
+        <media:thumbnail href="https://example.com/thumbnail.jpg"/>
+        <media:content url="https://example.com/content.jpg"/>
+        <enclosure url="https://example.com/enclosure.jpg"/></item>
+        <item><title>Enclosure first</title><link>https://example.com/enclosure</link>
+        <description><![CDATA[<img src="https://example.com/html.jpg">]]></description>
+        <enclosure url="https://example.com/enclosure.jpg" href="https://example.com/href.jpg"/>
+        <media:thumbnail url="https://example.com/thumbnail.jpg"/>
+        <media:content url="https://example.com/content.jpg"/></item>
+        <item><title>Content first</title><link>https://example.com/content</link>
+        <description><![CDATA[<img src="https://example.com/html.jpg">]]></description>
+        <media:content url="https://example.com/content.jpg"/>
+        <media:thumbnail url="https://example.com/thumbnail.jpg"/>
+        <enclosure url="https://example.com/enclosure.jpg"/></item>
+        <item><title>No image</title><link>https://example.com/plain</link>
+        <description>Plain summary</description></item>
+        </channel></rss>"#;
+    let articles = parse_rss(rss, "Example", "fallback").unwrap();
+    let images: Vec<_> = articles
+        .iter()
+        .map(|article| article["urlToImage"].as_str())
+        .collect();
+    assert_eq!(
+        images,
+        [
+            Some("https://example.com/first.jpg"),
+            Some("http://example.com/second.jpg"),
+            Some("https://example.com/thumbnail.jpg"),
+            Some("https://example.com/enclosure.jpg"),
+            Some("https://example.com/content.jpg"),
+            None,
+        ]
+    );
+}
+
+#[test]
 fn invalid_feed_is_failure_but_real_empty_feed_succeeds() {
     for xml in [
         "<html>Unavailable</html>",
@@ -93,6 +137,52 @@ fn history_prefers_current_versions_and_expires_old_articles() {
         .map(|n| json!({"url":format!("https://example.com/{n}")}))
         .collect();
     assert_eq!(deduplicate(articles).len(), 500);
+}
+
+#[test]
+fn deduplicate_sorts_publication_instants_and_preserves_ties() {
+    let articles = [
+        ("invalid", Some("not a date")),
+        ("whole", Some("2026-11-25T12:00:00Z")),
+        ("fraction", Some("2026-11-25T12:00:00.900Z")),
+        ("offset", Some("2026-11-25T08:00:01-04:00")),
+        ("equivalent", Some("2026-11-25T13:00:00.900+01:00")),
+        ("undated", None),
+    ]
+    .into_iter()
+    .map(|(url, date)| json!({"url":url,"publishedAt":date}))
+    .collect();
+    let result = deduplicate(articles);
+    let urls: Vec<_> = result.iter().map(|article| text(article, "url")).collect();
+    assert_eq!(
+        urls,
+        [
+            "offset",
+            "fraction",
+            "equivalent",
+            "whole",
+            "invalid",
+            "undated"
+        ]
+    );
+}
+
+#[test]
+fn deduplicate_keeps_newest_fractional_timestamp_at_output_limit() {
+    let mut articles: Vec<_> = (0..MAX_OUTPUT_ARTICLES)
+        .map(|index| {
+            json!({"url":format!("https://example.com/{index}"),"publishedAt":"2026-11-25T12:00:00Z"})
+        })
+        .collect();
+    let newest = json!({"url":"https://example.com/newest","publishedAt":"2026-11-25T12:00:00.001Z","title":"current"});
+    articles.push(newest.clone());
+    articles.push(json!({"url":"https://example.com/newest","publishedAt":"2026-11-25T12:00:02Z","title":"previous"}));
+    let result = deduplicate(articles);
+    assert_eq!(result.len(), MAX_OUTPUT_ARTICLES);
+    assert_eq!(result[0], newest);
+    assert!(!result
+        .iter()
+        .any(|article| article["url"] == "https://example.com/499"));
 }
 
 #[test]
