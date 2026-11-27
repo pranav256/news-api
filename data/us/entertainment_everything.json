@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "author": "Jason Fuller",
+      "content": "NPR's \"Here to Help\" series looks back at some volunteers featured in 2026 who focus on helping seniors in their communities.",
+      "description": "NPR's \"Here to Help\" series looks back at some volunteers featured in 2026 who focus on helping seniors in their communities.",
+      "publishedAt": "2026-11-26T22:13:36Z",
+      "source": {
+        "id": "npr",
+        "name": "NPR"
+      },
+      "title": "NPR's 'Here to Help' series looks back at volunteers helping older Americans",
+      "url": "https://www.npr.org/2026/11/26/nx-s1-6044077/nprs-here-to-help-series-looks-back-at-volunteers-helping-older-americans",
+      "urlToImage": null
+    },
+    {
+      "author": "Aruna D’Souza",
+      "content": "The painter Kent Monkman digs into the mysteries of Vermeer’s “Officer and Laughing Girl” for his irreverent reinterpretation — and institutional critique.",
+      "description": "The painter Kent Monkman digs into the mysteries of Vermeer’s “Officer and Laughing Girl” for his irreverent reinterpretation — and institutional critique.",
+      "publishedAt": "2026-11-26T19:49:55Z",
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "A Cree Painter Upends Vermeer at the Frick",
+      "url": "https://www.nytimes.com/2026/11/26/arts/design/kent-monkman-cree-painter-vermeer-frick.html",
+      "urlToImage": null
+    },
+    {
+      "author": "Rebecca Chao and Clay Risen",
+      "content": "He helped define the sound, and the look, of the 1980s with MTV-ready hits like “Rio” and “Hungry Like the Wolf.”",
+      "description": "He helped define the sound, and the look, of the 1980s with MTV-ready hits like “Rio” and “Hungry Like the Wolf.”",
+      "publishedAt": "2026-11-26T19:16:37Z",
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "Andy Taylor, Duran Duran’s ‘Live-Wire’ Guitarist, Dies at 65",
+      "url": "https://www.nytimes.com/2026/11/25/arts/music/andy-taylor-duran-duran-dead.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/28/multimedia/25xp-andy-taylor-print2/25xp-andy-taylor-mediumSquareAt3X.jpg"
+    },
+    {
       "author": "Chloe Veltman",
       "content": "Around 2,000 dogs competed in the latest edition of the National Dog Show, a beloved Thanksgiving tradition hosted by the Kennel Club of Philadelphia and broadcast by NBC.",
       "description": "Around 2,000 dogs competed in the latest edition of the National Dog Show, a beloved Thanksgiving tradition hosted by the Kennel Club of Philadelphia and broadcast by NBC.",
@@ -105,19 +144,6 @@
       "urlToImage": null
     },
     {
-      "author": "Aruna D’Souza",
-      "content": "The painter Kent Monkman digs into the mysteries of Vermeer’s “Officer and Laughing Girl” for his irreverent reinterpretation — and institutional critique.",
-      "description": "The painter Kent Monkman digs into the mysteries of Vermeer’s “Officer and Laughing Girl” for his irreverent reinterpretation — and institutional critique.",
-      "publishedAt": "2026-11-26T10:02:24Z",
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "title": "A Cree Painter Upends Vermeer at the Frick",
-      "url": "https://www.nytimes.com/2026/11/26/arts/design/kent-monkman-cree-painter-vermeer-frick.html",
-      "urlToImage": null
-    },
-    {
       "author": "Natalia Winkelman",
       "content": "Nine Palestinians who fled to Egypt during the war gather to share stories of their homeland in this mournful documentary.",
       "description": "Nine Palestinians who fled to Egypt during the war gather to share stories of their homeland in this mournful documentary.",
@@ -194,19 +220,6 @@
       "title": "A dish with a story, Thanksgiving with culinary historian Michael Twitty",
       "url": "https://www.npr.org/2026/11/26/nx-s1-6044602/michael-twitty-thanksgiving-food-culinary-history",
       "urlToImage": null
-    },
-    {
-      "author": "Rebecca Chao",
-      "content": "He helped define the sound, and the look, of the 1980s with MTV-ready hits like “Rio” and “Hungry Like the Wolf.”",
-      "description": "He helped define the sound, and the look, of the 1980s with MTV-ready hits like “Rio” and “Hungry Like the Wolf.”",
-      "publishedAt": "2026-11-26T08:53:13Z",
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "title": "Andy Taylor, Duran Duran’s ‘Live-Wire’ Guitarist, Dies at 65",
-      "url": "https://www.nytimes.com/2026/11/25/arts/music/andy-taylor-duran-duran-dead.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/25/multimedia/25xp-andy-taylor/25xp-andy-taylor-mediumSquareAt3X.jpg"
     },
     {
       "author": "Trish Bendix",
@@ -2354,10 +2367,10 @@
       "urlToImage": "https://static01.nyt.com/images/2026/11/20/multimedia/20cul-melania-takeaways-zqhw/20cul-melania-takeaways-zqhw-mediumSquareAt3X.jpg"
     }
   ],
-  "articles_count": 181,
+  "articles_count": 182,
   "category": "entertainment",
   "country": "us",
-  "fetched_at": "2026-11-26T19:16:54.929536Z",
+  "fetched_at": "2026-11-27T02:14:34.665372Z",
   "providers": [
     "rss"
   ],
