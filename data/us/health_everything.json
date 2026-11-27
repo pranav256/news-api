@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "author": "Claire Cain Miller",
+      "content": "New data shows that young adults are increasingly caring for older relatives, and young men are just as likely as young women to take on these roles.",
+      "description": "New data shows that young adults are increasingly caring for older relatives, and young men are just as likely as young women to take on these roles.",
+      "publishedAt": "2026-11-27T13:25:14Z",
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "Elder Care Is Unequally Shared. But Not Among Gen Z.",
+      "url": "https://www.nytimes.com/2026/11/25/upshot/gen-z-elder-care.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/27/multimedia/00up-elder-care-01-tpwk/00up-elder-care-01-tpwk-mediumSquareAt3X.jpg"
+    },
+    {
       "author": "Allison Aubrey",
       "content": "Here's something you can do as you gather with family and friends this holiday season: Take a free, five-minute quiz to assess your brain health. You'll learn simple changes to keep your mind sharp.",
       "description": "Here's something you can do as you gather with family and friends this holiday season: Take a free, five-minute quiz to assess your brain health. You'll learn simple changes to keep your mind sharp.",
@@ -38,19 +51,6 @@
       "title": "Medicare Hospice Caps Leave Patients Without Care",
       "url": "https://www.nytimes.com/2026/11/24/business/medicare-hospice-caps-patients-lose-care.html",
       "urlToImage": "https://static01.nyt.com/images/2026/11/23/multimedia/23biz-hospice-01-mpjw/23biz-hospice-01-mpjw-mediumSquareAt3X.jpg"
-    },
-    {
-      "author": "Claire Cain Miller",
-      "content": "New data shows that young adults are increasingly caring for older relatives.",
-      "description": "New data shows that young adults are increasingly caring for older relatives.",
-      "publishedAt": "2026-11-25T17:42:56Z",
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "title": "‘My Duty as a Grandson’: Gen Z Men Are as Likely as Women to Provide Elder Care",
-      "url": "https://www.nytimes.com/2026/11/25/upshot/gen-z-elder-care.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/27/multimedia/00up-elder-care-01-tpwk/00up-elder-care-01-tpwk-mediumSquareAt3X.jpg"
     },
     {
       "author": "Anemona Hartocollis",
@@ -1629,7 +1629,7 @@
   "articles_count": 125,
   "category": "health",
   "country": "us",
-  "fetched_at": "2026-11-27T10:51:55.565034Z",
+  "fetched_at": "2026-11-27T19:57:16.002544Z",
   "providers": [
     "rss"
   ],
