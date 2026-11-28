@@ -66,8 +66,8 @@ these are headline feeds, not a full-article archive.
 
 ## From publisher to JSON
 
-Every hour, cron-job.org dispatches a GitHub Actions workflow. The workflow runs
-the checks, builds the Rust scraper, fetches sources with four network workers,
+Every hour, cron-job.org dispatches a GitHub Actions workflow. The workflow checks
+Rust formatting and linting, builds the scraper, fetches sources with four network workers,
 and commits the generated feeds when they change. The JSON files are the store:
 there is no database to run.
 
@@ -150,29 +150,16 @@ The `preview` directory receives both public and rich JSON files. Omit
 | `--workers 1..16` | Set network concurrency; default is `4`, `1` is sequential |
 | `--dry-run` | Fetch and process feeds without writing files |
 
-### Why is there Python here?
-
-**The scraper is Rust. Python is only a test tool on `main`.**
-[tests/test_workflow.py](tests/test_workflow.py) uses Python's standard library to
-exercise the publishing shell script against temporary local Git repositories.
-It checks that concurrent updates survive, conflicts stop publication, and
-unrelated files are not committed. GitHub Actions sets up Python for that test;
-running the Rust scraper does not require Python or any Python packages.
-
-The former Python scraper remains on the
+The scraper and hourly workflow require no Python installation. The former
+Python scraper remains on the
 [`python` branch](https://github.com/pranav256/news-api/tree/python) for reference.
 
-Run the checks locally (the publishing test also needs Git and Bash):
+Run the formatting and lint checks locally:
 
 ```bash
 cargo fmt --check
 cargo clippy --locked --all-targets -- -D warnings
-cargo test --locked
-python -B -m unittest discover -s tests -v
 ```
-
-Rust tests cover parsing, provider failures, retained history, atomic writes, and
-API-key budgets. Neither test suite fetches live feeds or consumes API requests.
 
 <details>
 <summary>Optional: use NewsAPI locally</summary>

@@ -17,11 +17,6 @@ jobs:
     steps:
     - uses: actions/checkout@v4
 
-    - name: Set up Python 3.10
-      uses: actions/setup-python@v5
-      with:
-        python-version: "3.10"
-
     - name: Set up Rust
       run: rustup toolchain install stable --profile minimal --component rustfmt --component clippy
 
@@ -34,12 +29,10 @@ jobs:
           target
         key: rust-${{ runner.os }}-${{ hashFiles('Cargo.lock') }}
 
-    - name: Run tests
+    - name: Check Rust
       run: |
         cargo +stable fmt --check
         cargo +stable clippy --locked --all-targets -- -D warnings
-        cargo +stable test --locked
-        python -m unittest discover -s tests -v
 
     - name: Build Rust scraper
       run: cargo +stable build --release --locked

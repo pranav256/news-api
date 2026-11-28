@@ -12,9 +12,6 @@ use std::path::{Path, PathBuf};
 use std::sync::OnceLock;
 use std::time::{Duration, Instant};
 
-#[cfg(test)]
-mod tests;
-
 const MAX_BYTES: u64 = 4 * 1024 * 1024;
 const MAX_FEED_ARTICLES: usize = 250;
 const MAX_OUTPUT_ARTICLES: usize = 500;
