@@ -1,6 +1,32 @@
 {
   "articles": [
     {
+      "author": "Scott Simon",
+      "content": "During Pearl Harbor, sailor Doris Miller carried the wounded to safety and fired a machine gun at Japanese planes. Next week, construction of a new aircraft carrier, the USS Doris Miller, begins.",
+      "description": "During Pearl Harbor, sailor Doris Miller carried the wounded to safety and fired a machine gun at Japanese planes. Next week, construction of a new aircraft carrier, the USS Doris Miller, begins.",
+      "publishedAt": "2026-11-28T13:00:00Z",
+      "source": {
+        "id": "npr-news",
+        "name": "NPR News"
+      },
+      "title": "Perspective: A hero's name lives on",
+      "url": "https://www.npr.org/2026/11/28/nx-s1-6045586/perspective-a-heros-name-lives-on",
+      "urlToImage": null
+    },
+    {
+      "author": "Nicholas Kristof",
+      "content": "In South Sudan, I discovered more deaths as a result of Elon Musk’s U.S.A.I.D. cuts.",
+      "description": "In South Sudan, I discovered more deaths as a result of Elon Musk’s U.S.A.I.D. cuts.",
+      "publishedAt": "2026-11-28T12:20:07Z",
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "title": "What the World’s Richest Man Did to the World’s Poorest Children",
+      "url": "https://www.nytimes.com/2026/11/28/opinion/elon-musk-usaid-south-sudan.html",
+      "urlToImage": "https://static01.nyt.com/images/2026/11/29/multimedia/00kristof-aid-13-kqpg/00kristof-aid-13-kqpg-mediumSquareAt3X-v2.jpg"
+    },
+    {
       "author": "George Piro",
       "content": "As the Iraqi dictator’s chief F.B.I. interrogator, I learned how much pre-Iraq war profilers got wrong about him.",
       "description": "As the Iraqi dictator’s chief F.B.I. interrogator, I learned how much pre-Iraq war profilers got wrong about him.",
@@ -12,19 +38,6 @@
       "title": "My Six Months With Saddam Hussein",
       "url": "https://www.nytimes.com/2026/11/28/opinion/saddam-hussein-us-iraq-war.html",
       "urlToImage": "https://static01.nyt.com/images/2026/12/08/opinion/28piro1/08piro1-mediumSquareAt3X.jpg"
-    },
-    {
-      "author": "Nicholas Kristof",
-      "content": "In South Sudan, I discovered more deaths as a result of Elon Musk’s U.S.A.I.D. cuts.",
-      "description": "In South Sudan, I discovered more deaths as a result of Elon Musk’s U.S.A.I.D. cuts.",
-      "publishedAt": "2026-11-28T12:00:08Z",
-      "source": {
-        "id": "the-new-york-times",
-        "name": "The New York Times"
-      },
-      "title": "What the World’s Richest Man Did to the World’s Poorest Children",
-      "url": "https://www.nytimes.com/2026/11/28/opinion/elon-musk-usaid-south-sudan.html",
-      "urlToImage": "https://static01.nyt.com/images/2026/11/29/multimedia/00kristof-aid-13-kqpg/00kristof-aid-13-kqpg-mediumSquareAt3X-v2.jpg"
     },
     {
       "author": "The Associated Press",
@@ -2719,5 +2732,5 @@
     }
   ],
   "status": "ok",
-  "totalResults": 209
+  "totalResults": 210
 }
