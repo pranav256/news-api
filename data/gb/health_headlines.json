@@ -1,6 +1,19 @@
 {
   "articles": [
     {
+      "author": null,
+      "content": "There will be free courses on mental health, wellbeing, recovery, personal growth and creativity.",
+      "description": "There will be free courses on mental health, wellbeing, recovery, personal growth and creativity.",
+      "publishedAt": "2026-11-28T09:45:27Z",
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "title": "New project to provide free mental health courses",
+      "url": "https://www.bbc.co.uk/news/articles/c8vg2ndz0d1zo?at_medium=RSS&at_campaign=rss",
+      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/473f/live/878692a0-e9d7-11f1-a652-278841d9ecc5.jpg"
+    },
+    {
       "author": "Matthew Weaver",
       "content": "Exclusive: Uploading of intimate psychiatric information to wider medical records prompts some to shun support altogether Some psychiatric patients are refusing treatment over the NHS adding intimate details from therapy sessions to their medical notes, fuelling fears that breaching privacy is posing a risk to health, the Guardian can reveal. One stopped medical care for a heart condition when he discovered that details of intrusive sexual thoughts he’d experienced as result of obsessive compulsive disorder (OCD) had been shared with a cardiac nurse. Continue reading...",
       "description": "Exclusive: Uploading of intimate psychiatric information to wider medical records prompts some to shun support altogether Some psychiatric patients are refusing treatment over the NHS adding intimate details from therapy sessions to their medical notes, fuelling fears that breaching privacy is posing a risk to health, the Guardian can reveal. One stopped medical care for a heart condition when he discovered that details of intrusive sexual thoughts he’d experienced as result of obsessive compulsive disorder (OCD) had been shared with a cardiac nurse. Continue reading...",
@@ -1185,19 +1198,6 @@
     },
     {
       "author": null,
-      "content": "Performance physiotherapist Genevieve Taiwah shares her top tips for looking after the joint that accounts for 5% of A&E visits.",
-      "description": "Performance physiotherapist Genevieve Taiwah shares her top tips for looking after the joint that accounts for 5% of A&E visits.",
-      "publishedAt": "2026-11-15T16:18:27Z",
-      "source": {
-        "id": "bbc-news",
-        "name": "BBC News"
-      },
-      "title": "One of the most commonly injured parts of the body that many of us never train",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgxjevv5v7o?at_medium=RSS&at_campaign=rss",
-      "urlToImage": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14f3/live/2e24a220-e0f8-11f1-97b9-9110abfffc70.jpg"
-    },
-    {
-      "author": null,
       "content": "BBC presenter Sophie Law visited The Manor Hospital in Oxford to try out its mammogram scanner.",
       "description": "BBC presenter Sophie Law visited The Manor Hospital in Oxford to try out its mammogram scanner.",
       "publishedAt": "2026-11-12T17:59:03Z",
@@ -1382,7 +1382,7 @@
   "articles_count": 106,
   "category": "health",
   "country": "gb",
-  "fetched_at": "2026-11-28T09:18:34.919998Z",
+  "fetched_at": "2026-11-28T10:18:34.574753Z",
   "providers": [
     "rss"
   ],
