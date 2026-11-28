@@ -6,10 +6,15 @@ This repository publishes static news JSON files for a Flask application. The
 scheduled scraper is written in Rust and uses public RSS/Atom feeds plus a
 targeted publisher listing, without NewsAPI requests or API keys. The previous
 Python scraper is preserved on the [`python` branch](https://github.com/pranav256/news-api/tree/python).
-It covers five countries and seven categories. The GitHub Actions
-workflow requests a refresh every 30 minutes, at minutes 17 and 47 UTC, and
-commits only when the generated data changes. GitHub may delay or drop scheduled
-runs, so this is a target rather than a freshness guarantee.
+It covers five countries and seven categories. cron-job.org triggers the GitHub
+Actions workflow hourly at minute 17 UTC (minute 47 IST) using `workflow_dispatch`.
+The workflow commits only when the generated data changes. The built-in GitHub
+schedule is disabled to avoid duplicate runs. Triggering and runner delays can
+still occur, so this is a target rather than a freshness guarantee.
+
+The scheduler uses a fine-grained GitHub token restricted to this repository with
+Actions read/write permission. Renew its Authorization header in cron-job.org
+before the token expires on December 28, 2026.
 
 ## Public API
 

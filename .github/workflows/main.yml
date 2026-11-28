@@ -2,8 +2,6 @@ name: Scrape latest data
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '17,47 * * * *'   # every 30 minutes, away from the hourly scheduling peak
 
 concurrency:
   group: scrape-latest-data-${{ github.ref }}
